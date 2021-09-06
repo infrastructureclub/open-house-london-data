@@ -1,0 +1,82 @@
+{
+    "all_week": false,
+    "description": "The Great Fire of London",
+    "design": {
+        "designers": [
+            {
+                "architect": "No architect",
+                "description": "Original design",
+                "year": "1900"
+            }
+        ],
+        "periods": [
+            "Historical/contemporary"
+        ],
+        "types": [
+            "Walk/tour"
+        ]
+    },
+    "events": [
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 25,
+            "date": "2021-09-05",
+            "end": "2021-09-05T10:00:00+00:00",
+            "fully_booked": null,
+            "name": "The Great Fire of London",
+            "notes": null,
+            "start": "2021-09-05T09:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 25,
+            "date": "2021-09-12",
+            "end": "2021-09-12T10:00:00+00:00",
+            "fully_booked": null,
+            "name": "The Great Fire of London",
+            "notes": null,
+            "start": "2021-09-12T09:00:00+00:00",
+            "ticketed": false
+        }
+    ],
+    "facilities": [
+        [
+            "Toilets"
+        ]
+    ],
+    "factsheet": [
+        {
+            "heading": "The Great Fire of London",
+            "paragraphs": [
+                "In September 1666, the conflagration destroyed most of the City, thousands of houses, many churches and St Paul’s Cathedral destroyed. Christopher Wren played a significant role in rebuilding the City.",
+                "Free walks led by City of London Guides"
+            ]
+        }
+    ],
+    "id": 10238,
+    "images": [
+        {
+            "description": null,
+            "title": "Fire in Alleyways",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_10238_great-fire_b9f5ac29b29bf78241f404710cf61891.jpeg"
+        }
+    ],
+    "links": [],
+    "location": {
+        "address": "Guildhall Yard, Gresham Street, EC2V 7HH",
+        "latitude": 51.515568,
+        "longitude": -0.091634,
+        "meeting_point": "Meet at Guildhall Yard next to Guildhall Art Gallery",
+        "travel_info": [
+            "Nearest tube: St. Paul's, Moorgate, Bank",
+            "Nearest train: Cannon Street",
+            "Bus routes: 141, 76, 21, 11"
+        ]
+    },
+    "name": "The Great Fire of London ",
+    "original_url": "https://openhouselondon.open-city.org.uk/listings/10238",
+    "ticketed_events": false
+}

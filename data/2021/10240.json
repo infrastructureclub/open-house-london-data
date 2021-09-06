@@ -1,0 +1,76 @@
+{
+    "all_week": false,
+    "description": "Architecture and Art in the City",
+    "design": {
+        "designers": [],
+        "periods": [
+            "Historical/contemporary"
+        ],
+        "types": [
+            "Walk/tour"
+        ]
+    },
+    "events": [
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 25,
+            "date": "2021-09-05",
+            "end": "2021-09-05T10:00:00+00:00",
+            "fully_booked": null,
+            "name": "Architecture and Art in the City",
+            "notes": null,
+            "start": "2021-09-05T09:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 25,
+            "date": "2021-09-12",
+            "end": "2021-09-12T10:00:00+00:00",
+            "fully_booked": true,
+            "name": "Architecture and Art in the City",
+            "notes": null,
+            "start": "2021-09-12T09:00:00+00:00",
+            "ticketed": true
+        }
+    ],
+    "facilities": [
+        [
+            "Toilets"
+        ]
+    ],
+    "factsheet": [
+        {
+            "heading": "Architecture and Art in the City",
+            "paragraphs": [
+                "On this walk we will view many buildings with different architecture styles having regard to the environment and sustainability. Also, we will admire some sculptures and statues, old and new.",
+                "Free walks led by City of London Guides"
+            ]
+        }
+    ],
+    "id": 10240,
+    "images": [
+        {
+            "description": null,
+            "title": "",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_10240_david-thompson-with-cheesegrater_645787d47aa7fa780b56d561ce27af4b.jpg"
+        }
+    ],
+    "links": [],
+    "location": {
+        "address": "Guildhall Yard, Gresham Street, EC2V 7HH",
+        "latitude": 51.515568,
+        "longitude": -0.091634,
+        "meeting_point": "Meet at Guildhall Yard next to Guildhall Art Gallery",
+        "travel_info": [
+            "Nearest tube: St. Paul's, East Acton, Moorgate, Bank",
+            "Nearest train: Cannon Street",
+            "Bus routes: 141, 76, 21, 11"
+        ]
+    },
+    "name": "Architecture and Art in the City ",
+    "original_url": "https://openhouselondon.open-city.org.uk/listings/10240",
+    "ticketed_events": true
+}
