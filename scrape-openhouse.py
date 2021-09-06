@@ -22,15 +22,13 @@ for building in buildings:
     count += 1
     print("Fetching %s/%s - %s" % (count, len(buildings), building))
 
-    response = requests.get(
-        "https://openhouselondon.open-city.org.uk/listings/%s" % building["id"]
-    )
+    original_url = "https://openhouselondon.open-city.org.uk/listings/%s" % building["id"]
+    response = requests.get(original_url)
     root = lxml.html.document_fromstring(response.content)
 
     data = {
         "id": building["id"],
-        "original_url": "https://openhouselondon.open-city.org.uk/listings/%s"
-        % building["id"],
+        "original_url": original_url,
         "name": building["name"],
         "location": {
             "latitude": building["latitude"],
@@ -245,7 +243,7 @@ for building in buildings:
                 if "href" in booking_button[0].attrib:
                     fully_booked = False
                     booking_link = (
-                        "https://openhouselondon.open-city.org.uk/%s"
+                        "https://openhouselondon.open-city.org.uk%s"
                         % booking_button[0].attrib["href"]
                     )
 
