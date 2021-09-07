@@ -39,7 +39,7 @@ for date, locations in dates.items():
     kml = simplekml.Kml()
     features = []
 
-    for location in locations:
+    for location in sorted(locations, key=lambda l: l['id']):
         fully_booked = "Yes"
 
         # Choose the most open state
