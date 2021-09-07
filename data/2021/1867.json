@@ -46,6 +46,30 @@
             "notes": null,
             "start": "2021-09-05T13:00:00+00:00",
             "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12865/bookings",
+            "capacity": null,
+            "date": "2021-09-11",
+            "end": "2021-09-11T16:00:00+00:00",
+            "fully_booked": false,
+            "name": "General Access",
+            "notes": "Visitors can arrive at any time during the opening hours.\n\nThere may be queues at busy times.",
+            "start": "2021-09-11T09:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12866/bookings",
+            "capacity": null,
+            "date": "2021-09-12",
+            "end": "2021-09-12T16:00:00+00:00",
+            "fully_booked": false,
+            "name": "General Access",
+            "notes": "Visitors can arrive at any time during the opening hours.\n\nThere may be queues at busy times.",
+            "start": "2021-09-12T12:00:00+00:00",
+            "ticketed": true
         }
     ],
     "facilities": [],
@@ -170,5 +194,5 @@
     },
     "name": "The City Churches: St Stephen Walbrook",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/1867",
-    "ticketed_events": false
+    "ticketed_events": true
 }

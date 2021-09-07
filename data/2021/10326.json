@@ -47,11 +47,11 @@
         },
         {
             "all_day": false,
-            "booking_link": null,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12700/bookings",
             "capacity": 25,
             "date": "2021-09-12",
             "end": "2021-09-12T12:00:00+00:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Underline Discovery Sessions – Isle of Dogs Past to Present Guided Walking Tour",
             "notes": "Walking tour with blue badge guide talking about the past, present and future of the area. Please contact lbth.regeneration@towerhamlets.gov.uk for clarifications or further information.",
             "start": "2021-09-12T10:00:00+00:00",
@@ -89,12 +89,17 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10326_udlr_activation_discoverysessions_cover_7d7f362efa71b23c96e833b47c9e21ba.png"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://talk.towerhamlets.gov.uk/dlr-underline-activation",
+            "title": "DLR Underline Activation | Let’s Talk Tower Hamlets"
+        }
+    ],
     "location": {
         "address": "DLR Underline - Isle of Dogs, From Crossharbour DLR Station to South Dock, E14 3BQ",
         "latitude": 51.4958465,
         "longitude": -0.0145118,
-        "meeting_point": "Meet in Baltimore Wharf's parking lot - under the DLR viaducts and very close to DLR Crossharbour station.",
+        "meeting_point": "For guided walks: meet outside of Heron Quay DLR Station. For all other events: meet 10 mins early at Baltimore Wharf's parking lot - under the DLR tracks- just outside DLR Crossharbour Station.",
         "travel_info": [
             "Nearest tube: Canary Wharf, Mudchute, South Quay, crossharbour & london arena",
             "Bus routes: 135"
