@@ -16,12 +16,14 @@ jobs:
           pip install -r requirements.txt
           python -u scrape-openhouse.py
           python -u generate-csv-summary.py
+          python -u generate-maps.py
 
           git config --global user.email "bot@jonty.co.uk"
           git config --global user.name "OH London update GHA"
 
           git add data
           git add csv
+          git add maps
           git commit -m "Automatic OH London data update"
       - name: Push changes
         uses: ad-m/github-push-action@master
