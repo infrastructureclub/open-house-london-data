@@ -68,8 +68,9 @@ for date, locations in dates.items():
             {
                 "type": "Feature",
                 "properties": {
-                    "name": "<b><a href='%s'>%s</a></b>"
-                    % (location["original_url"], location["name"]),
+                    "name": location["name"],
+                    "url": location["original_url"],
+                    "description": location["description"],
                     "ticketed_events": "Yes" if location["ticketed_events"] else "No",
                     "fully_booked": fully_booked,
                 },
