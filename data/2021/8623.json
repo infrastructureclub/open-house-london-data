@@ -24,11 +24,11 @@
             "capacity": 20,
             "date": "2021-09-07",
             "end": "2021-09-07T13:00:00+00:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Laura Baron",
             "notes": null,
             "start": "2021-09-07T12:00:00+00:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -86,5 +86,5 @@
     },
     "name": "The Reach",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/8623",
-    "ticketed_events": true
+    "ticketed_events": false
 }

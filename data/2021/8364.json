@@ -25,11 +25,11 @@
             "capacity": 20,
             "date": "2021-09-07",
             "end": "2021-09-07T14:00:00+00:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Virtual Tour of Windmill Place with Helen Read",
             "notes": null,
             "start": "2021-09-07T13:00:00+00:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -93,5 +93,5 @@
     },
     "name": "Windmill Place ",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/8364",
-    "ticketed_events": true
+    "ticketed_events": false
 }

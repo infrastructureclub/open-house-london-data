@@ -17,11 +17,11 @@
             "capacity": 15,
             "date": "2021-09-07",
             "end": "2021-09-07T13:00:00+00:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Amandeep Kellay, Sustainable Travel Manager, Better Bankside",
             "notes": null,
             "start": "2021-09-07T12:00:00+00:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -66,5 +66,5 @@
     },
     "name": "Low Line - Green Logistics Centre",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10207",
-    "ticketed_events": true
+    "ticketed_events": false
 }

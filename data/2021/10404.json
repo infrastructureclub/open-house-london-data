@@ -38,7 +38,7 @@
         {
             "all_day": false,
             "booking_link": null,
-            "capacity": 20,
+            "capacity": 25,
             "date": "2021-09-08",
             "end": "2021-09-08T15:00:00+00:00",
             "fully_booked": true,
@@ -49,11 +49,11 @@
         },
         {
             "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12540/bookings",
+            "capacity": 25,
             "date": "2021-09-09",
             "end": "2021-09-09T15:00:00+00:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "‘A tonic for the nation’: South Bank 1951-2021",
             "notes": null,
             "start": "2021-09-09T14:00:00+00:00",
