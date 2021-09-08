@@ -1,1 +1,43 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "The Ismaili Centre", "url": "https://openhouselondon.open-city.org.uk/listings/2063", "description": "Part of an international family of Ismaili Centres, a religious, cultural and social space for the Shia Ismaili Muslim community. The serenity of the entrance fountain to the roof garden reflects Muslim traditions in architecture and design", "ticketed_events": "No", "fully_booked": ""}, "geometry": {"type": "Point", "coordinates": [-0.1732322, 51.4956616]}}, {"type": "Feature", "properties": {"name": "Carreducker at 50 Chocolate Studios", "url": "https://openhouselondon.open-city.org.uk/listings/8766", "description": "A Victorian chocolate factory conversion with exposed girders, brickwork and Crittal-style windows. \r\n\r\nNo 50 was transformed from a flat into a traditional, bespoke shoemaking workshop, showroom and shoe & leather craft training school.", "ticketed_events": "Yes", "fully_booked": "Unknown"}, "geometry": {"type": "Point", "coordinates": [-0.0907533, 51.5285506]}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1732322,
+                    51.4956616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Part of an international family of Ismaili Centres, a religious, cultural and social space for the Shia Ismaili Muslim community. The serenity of the entrance fountain to the roof garden reflects Muslim traditions in architecture and design",
+                "end": "15:30:00",
+                "fully_booked": "",
+                "name": "The Ismaili Centre",
+                "start": "11:30:00",
+                "ticketed_events": "No",
+                "url": "https://openhouselondon.open-city.org.uk/listings/2063"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0907533,
+                    51.5285506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A Victorian chocolate factory conversion with exposed girders, brickwork and Crittal-style windows. \r\n\r\nNo 50 was transformed from a flat into a traditional, bespoke shoemaking workshop, showroom and shoe & leather craft training school.",
+                "end": "12:30:00",
+                "fully_booked": "Unknown",
+                "name": "Carreducker at 50 Chocolate Studios",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://openhouselondon.open-city.org.uk/listings/8766"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

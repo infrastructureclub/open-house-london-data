@@ -1,5 +1,5 @@
-name,url,description,address,latitude,longitude,ticketed_events,fully_booked
+name,url,description,address,latitude,longitude,start_time,end_time,ticketed_events,fully_booked
 Carreducker at 50 Chocolate Studios,https://openhouselondon.open-city.org.uk/listings/8766,"A Victorian chocolate factory conversion with exposed girders, brickwork and Crittal-style windows. 
 
-No 50 was transformed from a flat into a traditional, bespoke shoemaking workshop, showroom and shoe & leather craft training school.","50 Chocolate Studios, 7 Shepherdess Place, N1 7LJ",51.5285506,-0.0907533,True,Unknown
-Kingston Guildhall and History Centre ,https://openhouselondon.open-city.org.uk/listings/6960,"Built in the Georgian style, the Guildhall brought together Kingston's administrative functions. Purpose-built Magistrates Courts were included in the building, part of which are now home to Kingston History Centre.","High Street, Kingston upon Thames, KT1 1EU",51.4077195,-0.3059171,True,Unknown
+No 50 was transformed from a flat into a traditional, bespoke shoemaking workshop, showroom and shoe & leather craft training school.","50 Chocolate Studios, 7 Shepherdess Place, N1 7LJ",51.5285506,-0.0907533,10:00:00,12:30:00,Yes,Unknown
+Kingston Guildhall and History Centre ,https://openhouselondon.open-city.org.uk/listings/6960,"Built in the Georgian style, the Guildhall brought together Kingston's administrative functions. Purpose-built Magistrates Courts were included in the building, part of which are now home to Kingston History Centre.","High Street, Kingston upon Thames, KT1 1EU",51.4077195,-0.3059171,00:00:00,23:59:00,Yes,Unknown
