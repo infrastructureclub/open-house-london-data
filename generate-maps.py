@@ -46,11 +46,12 @@ for date, locations in dates.items():
         # If any events are None it means we can't determine booking status
         if location["ticketed_events"]:
             for event in location["events"]:
-                if fully_booked != "Unknown":
-                    if event["fully_booked"] == False:
-                        fully_booked = "No"
-                    if event["fully_booked"] == None:
-                        fully_booked = "Unknown"
+                if event["date"] == date:
+                    if fully_booked != "Unknown":
+                        if event["fully_booked"] == False:
+                            fully_booked = "No"
+                        if event["fully_booked"] == None:
+                            fully_booked = "Unknown"
         else:
             fully_booked = ""
 
