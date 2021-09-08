@@ -35,6 +35,10 @@ footer a, .mapboxgl-popup-content a {
   color: inherit;
 }
 
+footer a, .mapboxgl-popup-content a:hover {
+  text-decoration: underline;
+}
+
 footer {
   font-size: 10pt;
   margin: auto 1ex;
