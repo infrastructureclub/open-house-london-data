@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <meta charset='utf-8'/>
+    <title>Open House London booking</title>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com"/>
+    <link href="main.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet"/>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.css" rel="stylesheet"/>
+    <script defer src="https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.js"></script>
+    <script defer src="main.js"></script>
+  </head>
+  <body class="not-ready">
+    <header>
+      <form name="filter" action="">
+        <label for="date">Date</label>
+        <div class="options" id="date">
+          <input type="radio" name="date" value="all_week" id="date-all_week" checked><label for="date-all_week">All week</label>
+        </div>
+
+        <label for="ticketed_events">Ticketed</label>
+        <div class="options" id="ticketed_events">
+          <input type="radio" name="ticketed_events" value="yes" id="ticketed_events-yes"><label for="ticketed_events-yes">Yes</label>
+          <input type="radio" name="ticketed_events" value="no" id="ticketed_events-no"><label for="ticketed_events-no">No</label>
+          <input type="radio" name="ticketed_events" value="any" id="ticketed_events-any" checked><label for="ticketed_events-any">Any</label>
+        </div>
+
+        <label for="fully_booked">Fully booked</label>
+        <div class="options" id="fully_booked">
+          <input type="radio" name="fully_booked" value="yes" id="fully_booked-yes"><label for="fully_booked-yes">Yes</label>
+          <input type="radio" name="fully_booked" value="no" id="fully_booked-no"><label for="fully_booked-no">No</label>
+          <input type="radio" name="fully_booked" value="any" id="fully_booked-any" checked><label for="fully_booked-any">Any</label>
+        </div>
+
+        <!--
+        <div class="collapse">
+          <label>Start time</label>
+          <label>End time</label>
+          <div class="time-graph"></div>
+        </div>
+        -->
+      </form>
+    </header>
+    <main id="map"></main>
+    <footer>
+      <ul>
+        <li class="data-source">Data from <a href="https://openhouselondon.open-city.org.uk/">Open House London</a></li>
+        <li class="report-bug"><a href="https://github.com/Jonty/open-house-london-data/issues/new/choose">Report a bug</a></li>
+      </ul>
+    </footer>
+  </body>
+</html>
+

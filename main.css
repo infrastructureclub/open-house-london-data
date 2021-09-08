@@ -1,0 +1,145 @@
+html {
+  overflow-y: scroll;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18pt;
+  display: grid;
+  grid-template-rows: 6ex auto 3ex;
+  height: 100%;
+  margin: 0;
+  transition: background-color 0.3s ease;
+  background-color: rgb(0, 82, 81);
+  color: #fff;
+}
+
+.mapboxgl-popup-content {
+  color: rgb(0, 82, 81);
+  font-size: 12pt;
+}
+
+.mapboxgl-popup-content dl {
+  display: grid;
+  grid-template: auto / 6em 1fr;
+  margin: 0;
+}
+
+.mapboxgl-popup-content a {
+  display: block;
+}
+
+footer a, .mapboxgl-popup-content a {
+  text-decoration: none;
+  font-weight: bold;
+  color: inherit;
+}
+
+footer {
+  font-size: 10pt;
+  margin: auto 1ex;
+  text-align: right;
+}
+
+footer ul {
+  margin: 0;
+}
+
+footer ul li {
+  display: inline;
+}
+footer ul li:not(:first-child)::before {
+  content: "| ";
+}
+
+
+header form {
+  padding: 0.5ex 0.5em;
+}
+
+.options, header > form > label {
+  vertical-align: middle;
+}
+
+.options {
+  display: inline-grid;
+  grid-auto-flow: column;
+  margin: 1px 0.5em;
+  font-size: 18pt;
+  height: 4.8ex;
+}
+
+.options label {
+  color: #686;
+  background-color: #fff;
+  padding: 0 0.5em;
+  margin: 0 auto;
+  text-align: center;
+  display: inline-grid;
+  align-items: center;
+}
+
+.options label small {
+  font-size: 60%;
+}
+
+.options input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  margin: 0;
+}
+.options input + label {
+  border: 1px solid;
+  border-top-color: #ccc;
+  border-bottom-color: #ccc;
+  border-radius: 0;
+  border-left: none;
+  border-right: none;
+}
+.options input:first-child + label {
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-left: 1px solid #ccc;
+  padding-left: 0.75em;
+}
+.options input + label:last-child {
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-right: 1px solid #ccc;
+  padding-right: 0.75em;
+}
+.options input:checked + label {
+  background-color: #488;
+  color: #fff;
+}
+.options input:checked + label {
+  border-color: #688;
+}
+.options input:focus + label {
+  border-color: #464;
+  border-left: 1px solid #464;
+  margin-left: -1;
+}
+.options input:focus:first-child + label {
+  margin-left: 0;
+}
+.options input:focus + label + input + label {
+  border-left: 1px solid #464;
+  margin-left: -1
+}
+.options:hover input + label {
+  border-top-color: #242 !important;
+  border-bottom-color: #242 !important;
+}
+.options:hover input:first-child + label {
+  border-left-color: #242 !important;
+}
+.options:hover input + label:last-child {
+  border-right-color: #242 !important;
+}
+
+.not-ready form {
+  display: none;
+}
+
