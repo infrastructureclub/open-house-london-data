@@ -39,7 +39,7 @@ for date, locations in dates.items():
     kml = simplekml.Kml()
     features = []
 
-    for location in locations:
+    for location in sorted(locations, key=lambda l: l['id']):
         fully_booked = "Yes"
 
         # Choose the most open state
@@ -68,8 +68,9 @@ for date, locations in dates.items():
             {
                 "type": "Feature",
                 "properties": {
-                    "name": "<b><a href='%s'>%s</a></b>"
-                    % (location["original_url"], location["name"]),
+                    "name": location["name"],
+                    "url": location["original_url"],
+                    "description": location["description"],
                     "ticketed_events": "Yes" if location["ticketed_events"] else "No",
                     "fully_booked": fully_booked,
                 },
@@ -88,3 +89,7 @@ for date, locations in dates.items():
 
     os.makedirs(maps_path + "/kml", exist_ok=True)
     kml.save(maps_path + "/kml/" + date + ".kml")
+
+with open(maps_path + "/dates.json", "w", encoding="utf-8") as f:
+  f.write(json.dumps(sorted(list(dates.keys()))))
+

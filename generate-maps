@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker run --rm -ti -v $PWD/data:/app/data:ro -v $PWD/maps:/app/maps $(docker build -q .) python generate-maps.py
