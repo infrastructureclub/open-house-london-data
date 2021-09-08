@@ -154,118 +154,115 @@ for building in buildings:
     # Events, oh no
     events_ticketed = False
 
-    event_nodes = root.xpath('//div[contains(@class, "listing-events")]')
-    if not event_nodes:
+    events_nodes = root.xpath('//div[contains(@class, "listing-events")]')
+    if not events_nodes:
         data["all_week"] = True
     else:
-        for date_node, section in zip(
-            event_nodes[0].xpath(".//dt"), event_nodes[0].xpath(".//dd")
-        ):
-            name = (
-                section.xpath(".//div[contains(@class, 'event-name')]")[0]
-                .text_content()
-                .strip()
-            )
+        for date_node, events_node in zip(events_nodes[0].xpath(".//dt"), events_nodes[0].xpath(".//dd")):
+            for event_node in events_node.xpath(".//div[@class='event']"):
 
-            capacity_nodes = section.xpath(
-                ".//div[contains(@class, 'event-capacity')]/i"
-            )
-            capacity = None
-            if capacity_nodes:
-                capacity = int(capacity_nodes[0].tail.replace("Capacity:", "").strip())
+                name = (
+                    event_node.xpath(".//div[contains(@class, 'event-name')]")[0]
+                    .text_content()
+                    .strip()
+                )
 
-            notes_nodes = section.xpath(".//div[contains(@class, 'event-notes')]")
-            notes = None
-            if notes_nodes:
-                notes = notes_nodes[0].text_content().strip()
+                # They removed all the nice event-time/event-capacity/event-note
+                # classes and merged them all into the same class :'(
+                detail_nodes = event_node.xpath(".//div[contains(@class, 'event-detail')]/i")
+                time_node = detail_nodes.pop(0)
+                timeslot = time_node.tail.replace("Time:", "").strip()
+                if "All-day" in timeslot:
+                    start_time = "00:00"
+                    end_time = "23:59"
+                    all_day = True
+                else:
+                    start_time, end_time = timeslot.split(" to ")
+                    all_day = False
 
-            timeslot = (
-                section.xpath(".//div[contains(@class, 'event-time')]/i")[0]
-                .tail.replace("Time:", "")
-                .strip()
-            )
-            if "All-day" in timeslot:
-                start_time = "00:00"
-                end_time = "23:59"
-                all_day = True
-            else:
-                start_time, end_time = timeslot.split(" to ")
-                all_day = False
+                capacity = None
+                if detail_nodes:
+                    capacity = int(detail_nodes[0].tail.replace("Capacity:", "").strip())
 
-            date = parser.parse(date_node.text_content()).date()
-            start_datetime = parser.parse(date_node.text_content() + " " + start_time)
-            start_datetime = timezone.localize(start_datetime)
-            end_datetime = parser.parse(date_node.text_content() + " " + end_time)
-            end_datetime = timezone.localize(end_datetime)
+                details_nodes = event_node.xpath(".//div[contains(@class, 'event-details')]")
+                notes = None
+                if len(details_nodes) == 2:
+                    notes = details_nodes[1].text_content().strip()
 
-            keyword_ticketed = False
-            button_ticketed = False
-            fully_booked = None
-            booking_link = None
+                date = parser.parse(date_node.text_content()).date()
+                start_datetime = parser.parse(date_node.text_content() + " " + start_time)
+                start_datetime = timezone.localize(start_datetime)
+                end_datetime = parser.parse(date_node.text_content() + " " + end_time)
+                end_datetime = timezone.localize(end_datetime)
 
-            if notes:
-                if "book" in notes.lower():
-                    keyword_ticketed = True
+                keyword_ticketed = False
+                button_ticketed = False
+                fully_booked = None
+                booking_link = None
 
-                    phrases = (
-                        "no book",
-                        "booking not",
-                        "no need to book",
-                        "new book",
-                        "sketchbook",
-                        "buy our book",
-                        "booking is not required",
-                    )
-                    for phrase in phrases:
-                        if phrase in notes.lower():
-                            keyword_ticketed = False
+                if notes:
+                    if "book" in notes.lower():
+                        keyword_ticketed = True
 
-                if "ticket" in notes.lower():
-                    keyword_ticketed = True
+                        phrases = (
+                            "no book",
+                            "booking not",
+                            "no need to book",
+                            "new book",
+                            "sketchbook",
+                            "buy our book",
+                            "booking is not required",
+                        )
+                        for phrase in phrases:
+                            if phrase in notes.lower():
+                                keyword_ticketed = False
 
-                    for phrase in ("tickets not needed", "unticketed"):
-                        if phrase in notes.lower():
-                            keyword_ticketed = False
+                    if "ticket" in notes.lower():
+                        keyword_ticketed = True
 
-                if "eventbrite" in notes.lower():
-                    keyword_ticketed = True
+                        for phrase in ("tickets not needed", "unticketed"):
+                            if phrase in notes.lower():
+                                keyword_ticketed = False
 
-                if "ballot" in notes.lower():
-                    keyword_ticketed = True
+                    if "eventbrite" in notes.lower():
+                        keyword_ticketed = True
 
-            booking_button = section.xpath(
-                ".//*[contains(@class, 'event-booking-button')]"
-            )
-            if booking_button:
-                button_ticketed = True
-                if "disabled" in booking_button[0].attrib:
-                    fully_booked = True
-                if "href" in booking_button[0].attrib:
-                    fully_booked = False
-                    booking_link = (
-                        "https://openhouselondon.open-city.org.uk%s"
-                        % booking_button[0].attrib["href"]
-                    )
+                    if "ballot" in notes.lower():
+                        keyword_ticketed = True
 
-            ticketed = keyword_ticketed or button_ticketed
+                booking_button = event_node.xpath(
+                    ".//*[contains(@class, 'event-booking-button')]"
+                )
+                if booking_button:
+                    button_ticketed = True
+                    if "disabled" in booking_button[0].attrib:
+                        fully_booked = True
+                    if "href" in booking_button[0].attrib:
+                        fully_booked = False
+                        booking_link = (
+                            "https://openhouselondon.open-city.org.uk%s"
+                            % booking_button[0].attrib["href"]
+                        )
 
-            data["events"].append(
-                {
-                    "date": date.isoformat(),
-                    "start": start_datetime.astimezone().isoformat(),
-                    "end": end_datetime.astimezone().isoformat(),
-                    "all_day": all_day,
-                    "name": name,
-                    "capacity": capacity,
-                    "notes": notes,
-                    "fully_booked": fully_booked,
-                    "ticketed": ticketed,
-                    "booking_link": booking_link,
-                }
-            )
+                ticketed = keyword_ticketed or button_ticketed
 
-            if ticketed:
-                events_ticketed = True
+                data["events"].append(
+                    {
+                        "date": date.isoformat(),
+                        "start": start_datetime.astimezone().isoformat(),
+                        "end": end_datetime.astimezone().isoformat(),
+                        "all_day": all_day,
+                        "name": name,
+                        "capacity": capacity,
+                        "notes": notes,
+                        "fully_booked": fully_booked,
+                        "ticketed": ticketed,
+                        "booking_link": booking_link,
+                    }
+                )
+
+                if ticketed:
+                    events_ticketed = True
 
     if links_ticketed or events_ticketed:
         data["ticketed_events"] = True
