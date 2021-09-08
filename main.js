@@ -52,12 +52,19 @@
   };
 
   const buildPopupHtml = (feature) => {
-    const { name, description, url, fully_booked, ticketed_events } = feature.properties;
+    const { name, description, url, fully_booked, ticketed_events, start, end } = feature.properties;
     const data = [
       `<dt>Ticketed</dt><dd>${ticketed_events}</dd>`
     ];
     if (ticketed_events == 'Yes') {
       data.push(`<dt>Fully booked</dt><dd>${fully_booked}</dd>`);
+    }
+    if (start !== "null" && end !== "null") {
+      if (start == "00:00:00" && end == "23:59:00") {
+        data.push(`<dt>Time</dt><dd>All-day</dd>`);
+      } else {
+        data.push(`<dt>Starts</dt><dd>${start}</dd><dt>Finishes</dt><dd>${end}</dd>`);
+      }
     }
     return `
       <a href="${url}">${name}</a>
@@ -69,7 +76,7 @@
   mapboxgl.accessToken = 'pk.eyJ1IjoibXM3ODIxIiwiYSI6ImNrdGFlMTMwMzA5dnYycG15MzhjeXgwa3MifQ.hD7yHtV4jWmf5tige7c2kg';
   const map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/mapbox/streets-v11',
+    style: 'mapbox://styles/mapbox/light-v10',
     hash: 'map',
     center: [-0.1, 51.52],  // approximately Smithfield
     zoom: 13,
