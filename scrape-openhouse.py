@@ -177,7 +177,7 @@ for building in buildings:
                     end_time = "23:59"
                     all_day = True
                 else:
-                    start_time, end_time = timeslot.split(" to ")
+                    start_time, end_time = timeslot.replace(".", ":").split(" to ")
                     all_day = False
 
                 capacity = None
@@ -249,8 +249,8 @@ for building in buildings:
                 data["events"].append(
                     {
                         "date": date.isoformat(),
-                        "start": start_datetime.astimezone().isoformat(),
-                        "end": end_datetime.astimezone().isoformat(),
+                        "start": start_datetime.isoformat(),
+                        "end": end_datetime.isoformat(),
                         "all_day": all_day,
                         "name": name,
                         "capacity": capacity,
