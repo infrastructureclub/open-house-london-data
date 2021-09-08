@@ -81,6 +81,8 @@
     center: [-0.1, 51.52],  // approximately Smithfield
     zoom: 13,
   });
+  map.addControl(new mapboxgl.NavigationControl());
+
   const mapReady = new Promise((resolve, reject) => {
     map.on('load', () => {
       map.loadImage('mapbox-marker-icon-20px-red.png', (error, data) => {
