@@ -24,11 +24,11 @@
             "capacity": null,
             "date": "2021-09-08",
             "end": "2021-09-08T18:00:00+00:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Cycle the City with PTE",
             "notes": "Places are limited - we may run two sessions on the day if popular",
             "start": "2021-09-08T12:00:00+00:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -93,5 +93,5 @@
     },
     "name": "Cycle the City with PTE",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10278",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -34,6 +34,18 @@
             "all_day": false,
             "booking_link": null,
             "capacity": null,
+            "date": "2021-09-04",
+            "end": "2021-09-04T14:00:00+00:00",
+            "fully_booked": null,
+            "name": "Honeywood Garden Tour",
+            "notes": "Tours at 11am, 2pm, and 3:30pm. Prebooking via https://www.sutton.gov.uk/culturalservices",
+            "start": "2021-09-04T10:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
             "date": "2021-09-09",
             "end": "2021-09-09T16:00:00+00:00",
             "fully_booked": null,
@@ -65,6 +77,30 @@
             "notes": "Last entry 16.45",
             "start": "2021-09-11T09:00:00+00:00",
             "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2021-09-11",
+            "end": "2021-09-11T15:00:00+00:00",
+            "fully_booked": null,
+            "name": "The Wandle Wardrobe",
+            "notes": "Prebooking via https://www.sutton.gov.uk/culturalservices",
+            "start": "2021-09-11T10:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2021-09-11",
+            "end": "2021-09-11T14:00:00+00:00",
+            "fully_booked": null,
+            "name": "Honeywood Garden Tour",
+            "notes": "Tours at 11am, 2pm, and 3:30pm. Prebooking via https://www.sutton.gov.uk/culturalservices",
+            "start": "2021-09-11T10:00:00+00:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -150,5 +186,5 @@
     },
     "name": "Honeywood Museum",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/3939",
-    "ticketed_events": false
+    "ticketed_events": true
 }

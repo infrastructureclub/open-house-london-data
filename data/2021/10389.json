@@ -25,8 +25,32 @@
             "end": "2021-09-11T10:00:00+00:00",
             "fully_booked": false,
             "name": "Exhibition on the history of self-build in Lewisham and the creation of the community hub",
-            "notes": "Visitors can arrive at any time during the opening hours.\n\nThere may be queues at busy times.",
+            "notes": "Drop in, but visitors may need to queue depending on numbersVisitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-11T09:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 20,
+            "date": "2021-09-11",
+            "end": "2021-09-11T11:00:00+00:00",
+            "fully_booked": true,
+            "name": "An introduction to self-build with Dave Dayes, one of the original builders and residents at Walters Way.",
+            "notes": "Aimed at Lewisham residents.",
+            "start": "2021-09-11T10:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12859/bookings",
+            "capacity": 20,
+            "date": "2021-09-11",
+            "end": "2021-09-11T16:00:00+00:00",
+            "fully_booked": false,
+            "name": "Exhibition on the history of self-build in Lewisham and the creation of the community hub",
+            "notes": "Drop in (no need to book, but visitors may need to queue, depending on numbers)Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
+            "start": "2021-09-11T11:00:00+00:00",
             "ticketed": true
         }
     ],

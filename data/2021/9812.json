@@ -97,13 +97,61 @@
         {
             "all_day": false,
             "booking_link": null,
+            "capacity": null,
+            "date": "2021-09-10",
+            "end": "2021-09-10T19:00:00+00:00",
+            "fully_booked": null,
+            "name": "General entry",
+            "notes": null,
+            "start": "2021-09-10T17:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
             "capacity": 15,
+            "date": "2021-09-10",
+            "end": "2021-09-10T19:00:00+00:00",
+            "fully_booked": true,
+            "name": "Tour with DSDHA project architect",
+            "notes": null,
+            "start": "2021-09-10T18:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
             "date": "2021-09-11",
             "end": "2021-09-11T15:00:00+00:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "General entry",
             "notes": null,
             "start": "2021-09-11T09:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 15,
+            "date": "2021-09-11",
+            "end": "2021-09-11T11:00:00+00:00",
+            "fully_booked": true,
+            "name": "Tour with DSDHA project architect",
+            "notes": null,
+            "start": "2021-09-11T10:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 15,
+            "date": "2021-09-11",
+            "end": "2021-09-11T12:00:00+00:00",
+            "fully_booked": true,
+            "name": "Tour with DSDHA project architect",
+            "notes": null,
+            "start": "2021-09-11T11:00:00+00:00",
             "ticketed": true
         }
     ],

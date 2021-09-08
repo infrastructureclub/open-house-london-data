@@ -19,15 +19,15 @@
     "events": [
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/12474/bookings",
+            "booking_link": null,
             "capacity": null,
             "date": "2021-09-08",
             "end": "2021-09-08T12:00:00+00:00",
-            "fully_booked": false,
-            "name": "Online lunchtime event",
+            "fully_booked": null,
+            "name": "12pm: Online lunchtime event",
             "notes": "An online roundtable lunchtime event to discuss the vision for the building, its materiality and post occupancy performance in the five years since completion. Speakers from Architype, The University of East Anglia and the thatcher Nick Walker will share the story behind the design, development and occupation of this multi-award winning sustainable centre that achieved exemplary standards such as Passivhaus and BREEAM Outstanding. The event will include brief discussions and the opportunity to ask questions to the panel.",
             "start": "2021-09-08T11:00:00+00:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -80,5 +80,5 @@
     },
     "name": "Enterprise Centre",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10386",
-    "ticketed_events": true
+    "ticketed_events": false
 }

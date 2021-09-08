@@ -33,6 +33,30 @@
             "all_day": false,
             "booking_link": null,
             "capacity": null,
+            "date": "2021-09-04",
+            "end": "2021-09-04T16:00:00+00:00",
+            "fully_booked": null,
+            "name": "Open Day",
+            "notes": "A key to the Lumley Chapel is available. See factsheet for details",
+            "start": "2021-09-04T09:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2021-09-04",
+            "end": "2021-09-04T14:00:00+00:00",
+            "fully_booked": null,
+            "name": "Whitehall tour: the House and the People",
+            "notes": "Prebooking via https://www.sutton.gov.uk/culturalservices Price - £5",
+            "start": "2021-09-04T13:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
             "date": "2021-09-09",
             "end": "2021-09-09T16:00:00+00:00",
             "fully_booked": null,
@@ -64,6 +88,18 @@
             "notes": "A key to the Lumley Chapel is available. See factsheet for details",
             "start": "2021-09-11T09:00:00+00:00",
             "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2021-09-11",
+            "end": "2021-09-11T14:00:00+00:00",
+            "fully_booked": null,
+            "name": "Whitehall tour: the House and the People",
+            "notes": "Prebooking via https://www.sutton.gov.uk/culturalservices Price - £5",
+            "start": "2021-09-11T13:00:00+00:00",
+            "ticketed": true
         },
         {
             "all_day": true,
@@ -159,5 +195,5 @@
     },
     "name": "Whitehall Historic House ",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/3742",
-    "ticketed_events": false
+    "ticketed_events": true
 }

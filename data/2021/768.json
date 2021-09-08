@@ -48,15 +48,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/12800/bookings",
+            "booking_link": null,
             "capacity": 280,
             "date": "2021-09-08",
             "end": "2021-09-08T12:00:00+00:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "At Home with Open House",
             "notes": "Join us for a virtual tour and Q&A as part of the At Home with Open House series. Zoom links will be sent to registered attendees.",
             "start": "2021-09-08T11:00:00+00:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -128,5 +128,5 @@
     },
     "name": "Isokon Building (Lawn Road Flats)",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/768",
-    "ticketed_events": true
+    "ticketed_events": false
 }

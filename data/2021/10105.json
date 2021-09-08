@@ -41,13 +41,37 @@
         {
             "all_day": false,
             "booking_link": null,
-            "capacity": 20,
+            "capacity": null,
             "date": "2021-09-05",
             "end": "2021-09-05T15:00:00+00:00",
             "fully_booked": null,
             "name": "Building open for self-guided tours with QR code trail",
             "notes": "To access the QR code trail you will need a smart phone - please bring headphones. There will also be printed resources available.",
             "start": "2021-09-05T12:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 20,
+            "date": "2021-09-05",
+            "end": "2021-09-05T14:00:00+00:00",
+            "fully_booked": null,
+            "name": "Walking Tour - Discover Stroud Green's Musical Heritage",
+            "notes": "The Hunter memorial organ at St Mellitus Church in Tollington Park is one small part of Stroud Green’s rich and eclectic musical history. In 2020 Islington Guided Walks produced a podcast in conjunction with the Organ Project at St Mellitus and now this guided walk for Open House will explore the sites in real life!  The walk will visit the sites of a piano factory, a former music hall and studios belonging to the oldest independent record label in the world; learn about ‘jelly mould’ cinema organs and some of the memorable performances at Finsbury Park’s iconic Rainbow Theatre, as well as looking at the ethnically diverse music made by emigrants from Cyprus and the Caribbean, who made Stroud Green their home.  Walk will start at St Mellitus and end near Fonthill Road N4. Book your place from August 3rd here: https://www.eventbrite.co.uk/e/walking-tour-discover-stroud-greens-musical-heritage-tickets-164952708993",
+            "start": "2021-09-05T12:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 60,
+            "date": "2021-09-05",
+            "end": "2021-09-05T15:00:00+00:00",
+            "fully_booked": null,
+            "name": "Homing: an afternoon of music at St Mellitus Church",
+            "notes": "Lyrical mezzo-soprano Patricia Hammond and multi-instrumentalist Matt Redman are joined by organist Marion Bettsworth, performing a programme of music telling the story of the First World War and the history of the memorial organ at St Mellitus.  Matt will play instruments from a hundred years ago, including the zither banjo, contraguitar, mandolin and a 1911 Gibson L4 guitar. Marion Bettsworth, organist at St Michael's Highgate,  joins Matt and Patricia to play music performed at the organ's inauguration in 1920. Also featured will be songs about \"Home\", celebrating the men and women of the parish who lived through - and those who didn't survive - WW1. Marion will also perform solo, including pieces reflecting the history of the St Mellitus Hunter Organ, as well as some well-known favourites for the instrument.  This is a rare chance to hear the recently restored organ being played live, in the beautiful setting of St Mellitus church.",
+            "start": "2021-09-05T13:00:00+00:00",
             "ticketed": false
         }
     ],
@@ -153,5 +177,5 @@
     },
     "name": "RC Church of St Mellitus (St Mellitus Organ Restoration Project)",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10105",
-    "ticketed_events": false
+    "ticketed_events": true
 }

@@ -33,7 +33,19 @@
         {
             "all_day": false,
             "booking_link": null,
-            "capacity": 20,
+            "capacity": null,
+            "date": "2021-09-04",
+            "end": "2021-09-04T16:00:00+00:00",
+            "fully_booked": null,
+            "name": "New Museum of London at West Smithfield construction tour",
+            "notes": "By ballot only. Not wheelchair accessible",
+            "start": "2021-09-04T12:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
             "date": "2021-09-05",
             "end": "2021-09-05T16:00:00+00:00",
             "fully_booked": null,
@@ -41,6 +53,18 @@
             "notes": "By ballot only. Not wheelchair accessible",
             "start": "2021-09-05T10:00:00+00:00",
             "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 20,
+            "date": "2021-09-05",
+            "end": "2021-09-05T16:00:00+00:00",
+            "fully_booked": null,
+            "name": "New Museum of London at West Smithfield general access",
+            "notes": "Join us at the viewing point for a glimpse into the New Museum construction site, and for further information about our progress on this once-in-a-generation project to reconceive what a museum for London can be. Please note: access to the viewing point will be controlled according to capacity to ensure safe social distancing measures can be maintained throughout.",
+            "start": "2021-09-05T10:00:00+00:00",
+            "ticketed": false
         }
     ],
     "facilities": [

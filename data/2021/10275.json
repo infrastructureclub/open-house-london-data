@@ -27,13 +27,25 @@
         {
             "all_day": false,
             "booking_link": null,
-            "capacity": 50,
+            "capacity": null,
             "date": "2021-09-05",
             "end": "2021-09-05T22:00:00+00:00",
             "fully_booked": null,
             "name": "The Brook",
-            "notes": "Sunday evening talk on \"Why Collage?\" plus an art raffle",
+            "notes": null,
             "start": "2021-09-05T11:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 50,
+            "date": "2021-09-05",
+            "end": "2021-09-05T20:00:00+00:00",
+            "fully_booked": null,
+            "name": "Talk and Q&A about collage",
+            "notes": "Sunday evening talk on \"Why Collage?\" plus an art raffle",
+            "start": "2021-09-05T18:00:00+00:00",
             "ticketed": false
         },
         {

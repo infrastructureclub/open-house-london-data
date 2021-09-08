@@ -25,26 +25,38 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11274/bookings",
+            "booking_link": null,
             "capacity": 12,
             "date": "2021-09-08",
             "end": "2021-09-08T10:00:00+00:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Walk with Boston Manor House volunteer",
             "notes": null,
             "start": "2021-09-08T09:00:00+00:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11275/bookings",
+            "booking_link": null,
             "capacity": 5000,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+00:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Virtual tour of Boston Manor House",
             "notes": "We will be releasing a virtual tour of the site whilst it's closed for restoration through our social media channels.",
             "start": "2021-09-11T08:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 12,
+            "date": "2021-09-11",
+            "end": "2021-09-11T11:00:00+00:00",
+            "fully_booked": true,
+            "name": "Walk with Boston Manor House volunteer",
+            "notes": null,
+            "start": "2021-09-11T10:00:00+00:00",
             "ticketed": true
         },
         {

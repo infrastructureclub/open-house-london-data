@@ -30,13 +30,49 @@
         {
             "all_day": false,
             "booking_link": null,
-            "capacity": 6,
+            "capacity": null,
             "date": "2021-09-05",
             "end": "2021-09-05T15:00:00+00:00",
             "fully_booked": null,
             "name": "",
             "notes": "Access downstairs. Balcony tours available during the day however there is no wheelchair access to the balconies",
             "start": "2021-09-05T10:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 6,
+            "date": "2021-09-05",
+            "end": "2021-09-05T11:00:00+00:00",
+            "fully_booked": null,
+            "name": "Hidden Spaces Tour",
+            "notes": null,
+            "start": "2021-09-05T10:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 6,
+            "date": "2021-09-05",
+            "end": "2021-09-05T14:00:00+00:00",
+            "fully_booked": null,
+            "name": "Hidden Spaces Tour",
+            "notes": null,
+            "start": "2021-09-05T13:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 6,
+            "date": "2021-09-05",
+            "end": "2021-09-05T15:00:00+00:00",
+            "fully_booked": null,
+            "name": "Hidden Spaces Tour",
+            "notes": null,
+            "start": "2021-09-05T14:00:00+00:00",
             "ticketed": false
         }
     ],

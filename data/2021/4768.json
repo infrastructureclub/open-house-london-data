@@ -70,13 +70,61 @@
         {
             "all_day": false,
             "booking_link": "https://openhouselondon.open-city.org.uk/events/12754/bookings",
-            "capacity": 15,
+            "capacity": null,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+00:00",
             "fully_booked": false,
             "name": "Waterloo Centre",
-            "notes": "Visitors can arrive at any time during the opening hours.\n\nThere may be queues at busy times.",
+            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-11T09:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 15,
+            "date": "2021-09-11",
+            "end": "2021-09-11T13:00:00+00:00",
+            "fully_booked": null,
+            "name": "Discover the future of Morley’s Waterloo Centre - Architect led talk",
+            "notes": "Drop-in Q &A session. Open House London at our Waterloo Centre will be attended this year by Steve Burr from Black Architecture. The practice were responsible for securing planning consent for the Morley Forward masterplan.",
+            "start": "2021-09-11T10:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12197/bookings",
+            "capacity": 15,
+            "date": "2021-09-11",
+            "end": "2021-09-11T10:00:00+00:00",
+            "fully_booked": false,
+            "name": "Explore the history of our Waterloo Centre",
+            "notes": "Join us for a half hour tour exploring Morley’s Waterloo Centre’s history from our founders to the newest architectural additions.",
+            "start": "2021-09-11T10:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12752/bookings",
+            "capacity": 15,
+            "date": "2021-09-11",
+            "end": "2021-09-11T11:00:00+00:00",
+            "fully_booked": false,
+            "name": "Explore the history of our Waterloo Centre",
+            "notes": "Join us for a half hour tour exploring Morley’s Waterloo Centre’s history from our founders to the newest architectural additions.",
+            "start": "2021-09-11T11:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12753/bookings",
+            "capacity": 15,
+            "date": "2021-09-11",
+            "end": "2021-09-11T12:00:00+00:00",
+            "fully_booked": false,
+            "name": "Explore the history of our Waterloo Centre",
+            "notes": "Join us for a half hour tour exploring Morley’s Waterloo Centre’s history from our founders to the newest architectural additions.",
+            "start": "2021-09-11T12:00:00+00:00",
             "ticketed": true
         }
     ],

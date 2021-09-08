@@ -40,13 +40,49 @@
         {
             "all_day": false,
             "booking_link": null,
+            "capacity": 25,
+            "date": "2021-09-04",
+            "end": "2021-09-04T14:00:00+00:00",
+            "fully_booked": null,
+            "name": "Senate House Tour",
+            "notes": "This is fully booked, but please do register for online events.",
+            "start": "2021-09-04T11:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
             "capacity": null,
             "date": "2021-09-05",
             "end": "2021-09-05T11:00:00+00:00",
             "fully_booked": null,
             "name": "Senate House Virtual Tour",
-            "notes": "Visitors can arrive at any time during the opening hours.\n\nThere may be queues at busy times.",
+            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-05T09:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2021-09-05",
+            "end": "2021-09-05T14:00:00+00:00",
+            "fully_booked": null,
+            "name": "A virtual tour of Senate House",
+            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
+            "start": "2021-09-05T12:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2021-09-05",
+            "end": "2021-09-05T17:00:00+00:00",
+            "fully_booked": null,
+            "name": "Virtual tour of Senate House",
+            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
+            "start": "2021-09-05T15:00:00+00:00",
             "ticketed": false
         }
     ],

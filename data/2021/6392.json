@@ -33,7 +33,7 @@
             "end": "2021-09-11T15:00:00+00:00",
             "fully_booked": false,
             "name": "Open Church",
-            "notes": "Visitors can arrive at any time during the opening hours.\n\nThere may be queues at busy times.",
+            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-11T10:00:00+00:00",
             "ticketed": true
         },
@@ -45,8 +45,20 @@
             "end": "2021-09-12T10:00:00+00:00",
             "fully_booked": false,
             "name": "Morning service",
-            "notes": "Visitors can arrive at any time during the opening hours.\n\nThere may be queues at busy times.",
+            "notes": "You are welcome to join us and experience the building in it's intended use.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-12T09:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12135/bookings",
+            "capacity": 30,
+            "date": "2021-09-12",
+            "end": "2021-09-12T15:00:00+00:00",
+            "fully_booked": false,
+            "name": "Open church",
+            "notes": "Open for a look aroundVisitors can arrive at any time during the opening hours.There may be queues at busy times.",
+            "start": "2021-09-12T11:00:00+00:00",
             "ticketed": true
         }
     ],

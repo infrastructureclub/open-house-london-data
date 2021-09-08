@@ -20,15 +20,15 @@
     "events": [
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/10863/bookings",
+            "booking_link": null,
             "capacity": null,
             "date": "2021-09-08",
             "end": "2021-09-08T11:00:00+00:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Belle Vue Online Talk",
-            "notes": "Visitors can arrive at any time during the opening hours.\n\nThere may be queues at busy times.",
+            "notes": "Please email s.christie@morrisand.company, for places.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-08T10:00:00+00:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -100,5 +100,5 @@
     },
     "name": "Belle Vue",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/8535",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -35,13 +35,49 @@
         {
             "all_day": false,
             "booking_link": null,
-            "capacity": 15,
+            "capacity": null,
             "date": "2021-09-04",
             "end": "2021-09-04T15:00:00+00:00",
             "fully_booked": null,
             "name": "General access",
-            "notes": "Visitors can arrive at any time during the opening hours.\n\nThere may be queues at busy times.",
+            "notes": "Exhibition in the Undercroft - Voices of North Paddington - Grand Junction | Community, Arts & Culture Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-04T09:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 15,
+            "date": "2021-09-04",
+            "end": "2021-09-04T15:00:00+00:00",
+            "fully_booked": null,
+            "name": "Meet the Conservator / Meet the Architect",
+            "notes": "10 minute film played throughout the day in the Studio Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
+            "start": "2021-09-04T09:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2021-09-04",
+            "end": "2021-09-04T11:00:00+00:00",
+            "fully_booked": null,
+            "name": "Grand Junction Tour",
+            "notes": "Exhibition in the Undercroft - Voices of North Paddington - Grand Junction | Community, Arts & Culture",
+            "start": "2021-09-04T10:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2021-09-04",
+            "end": "2021-09-04T15:00:00+00:00",
+            "fully_booked": null,
+            "name": "Grand Junction Tour",
+            "notes": "Exhibition in the Undercroft - Voices of North Paddington - Grand Junction | Community, Arts & Culture",
+            "start": "2021-09-04T14:00:00+00:00",
             "ticketed": false
         }
     ],

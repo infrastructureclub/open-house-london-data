@@ -16,14 +16,26 @@
         {
             "all_day": false,
             "booking_link": null,
-            "capacity": 20,
+            "capacity": null,
             "date": "2021-09-04",
             "end": "2021-09-04T11:00:00+00:00",
             "fully_booked": null,
             "name": "Church Bell Ringing",
-            "notes": "Visitors can arrive at any time during the opening hours.\n\nThere may be queues at busy times.",
+            "notes": "Visit the bell ringers' room in the 12th century tower for a demonstration of the ancient art of bell ringing on the bells of St Andrew's Church, Market Place, Enfield EN2 6LNVisitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-04T08:00:00+00:00",
             "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 20,
+            "date": "2021-09-04",
+            "end": "2021-09-04T11:00:00+00:00",
+            "fully_booked": null,
+            "name": "Guided Tour",
+            "notes": "Booking essential",
+            "start": "2021-09-04T10:00:00+00:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -75,5 +87,5 @@
     },
     "name": "Medieval to Millennial",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10363",
-    "ticketed_events": false
+    "ticketed_events": true
 }

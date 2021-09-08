@@ -32,6 +32,30 @@
         },
         {
             "all_day": false,
+            "booking_link": null,
+            "capacity": 20,
+            "date": "2021-09-05",
+            "end": "2021-09-05T11:00:00+00:00",
+            "fully_booked": null,
+            "name": "Tour by architect",
+            "notes": "No disabled access in bar area.",
+            "start": "2021-09-05T10:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 30,
+            "date": "2021-09-05",
+            "end": "2021-09-05T12:00:00+00:00",
+            "fully_booked": null,
+            "name": "Presentation by architect",
+            "notes": null,
+            "start": "2021-09-05T11:00:00+00:00",
+            "ticketed": false
+        },
+        {
+            "all_day": false,
             "booking_link": "https://openhouselondon.open-city.org.uk/events/12716/bookings",
             "capacity": 20,
             "date": "2021-09-12",
@@ -40,6 +64,30 @@
             "name": "Tour by architect",
             "notes": "No disabled access in bar area.",
             "start": "2021-09-12T09:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12717/bookings",
+            "capacity": 20,
+            "date": "2021-09-12",
+            "end": "2021-09-12T11:00:00+00:00",
+            "fully_booked": false,
+            "name": "Tour by architect",
+            "notes": "No disabled access in bar area.",
+            "start": "2021-09-12T10:00:00+00:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12718/bookings",
+            "capacity": 20,
+            "date": "2021-09-12",
+            "end": "2021-09-12T12:00:00+00:00",
+            "fully_booked": false,
+            "name": "Tour by architect",
+            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
+            "start": "2021-09-12T11:00:00+00:00",
             "ticketed": true
         }
     ],
