@@ -19,14 +19,14 @@
     "events": [
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/12555/bookings",
+            "booking_link": null,
             "capacity": 50,
             "date": "2021-09-11",
-            "end": "2021-09-11T11:00:00+00:00",
-            "fully_booked": false,
+            "end": "2021-09-11T12:00:00+01:00",
+            "fully_booked": true,
             "name": "Tour showing the regeneration of Leamouth Peninsula",
             "notes": "Visitors to meet at the entrance to Canning Town Station, Bow Creek side.",
-            "start": "2021-09-11T10:00:00+00:00",
+            "start": "2021-09-11T11:00:00+01:00",
             "ticketed": true
         }
     ],
