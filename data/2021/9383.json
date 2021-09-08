@@ -24,11 +24,11 @@
             "capacity": 99,
             "date": "2021-09-08",
             "end": "2021-09-08T19:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Online tour with Blue Badge Tourist Guide",
             "notes": "A link to the event will be provided",
             "start": "2021-09-08T18:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -85,5 +85,5 @@
     },
     "name": "London Borough of Richmond upon Thames - a virtual tour with a London Blue Badge Tourist Guide",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/9383",
-    "ticketed_events": true
+    "ticketed_events": false
 }
