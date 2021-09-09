@@ -142,13 +142,15 @@
     const dates = await resp.json();
     const els = [];
     const now = new Date();
+    var checked = " checked";
     for (const date of dates) {
       if (date == 'all_week') continue;
       const dt = new Date(date);
       if (dt < now) continue;
       const mm_dd = `${dt.getDate()}/${dt.getMonth() + 1}`;
       const day = dt.toLocaleString('en-GB', {weekday: 'short'});
-      els.push(`<input type="radio" value="${date}" id="date-${date}" name="date"><label for="date-${date}">${mm_dd} <small>${day}</small></label>`);
+      els.push(`<input type="radio" value="${date}" id="date-${date}" name="date"${checked}><label for="date-${date}">${mm_dd} <small>${day}</small></label>`);
+      checked = "";
     }
     dateChooser.insertAdjacentHTML('afterbegin', els.join(''));
     document.body.classList.remove('not-ready');
