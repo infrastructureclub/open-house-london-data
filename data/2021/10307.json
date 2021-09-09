@@ -20,11 +20,11 @@
             "capacity": 15,
             "date": "2021-09-09",
             "end": "2021-09-09T16:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "The Making of Pimlico",
             "notes": null,
             "start": "2021-09-09T14:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -79,5 +79,5 @@
     },
     "name": "The Making of Pimlico",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10307",
-    "ticketed_events": true
+    "ticketed_events": false
 }
