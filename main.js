@@ -142,6 +142,7 @@
     const dates = await resp.json();
     const els = [];
     const now = new Date();
+    now.setHours(1,0,0,0);
     var checked = " checked";
     for (const date of dates) {
       if (date == 'all_week') continue;
