@@ -410,7 +410,7 @@
             "properties": {
                 "description": "Becontree Estate two storey cottage house with garden located on a banjo.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Unknown",
                 "name": "Alderman Jones House",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -467,7 +467,7 @@
             "properties": {
                 "description": "The interior of the building was redesigned in 2014 by John Pardey  to combine a craft gallery with a live work space for the gallery owner. Inspired by Kettle's Yard Flow space exhibits ceramics, glass, wood, textiles and jewellery.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Unknown",
                 "name": "Flow Gallery",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -562,7 +562,7 @@
             "properties": {
                 "description": "Join TDO to review a project that retrofits vacant railway arches, reimagining what these spaces along the Low Line can contribute. TDO’s proposals re-purpose Nissen sheds, providing self-contained enclosures for a range of uses.",
                 "end": "19:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Low Line: Southwark Street Arch – Mixed Occupier Test Bed",
                 "start": "18:00:00",
                 "ticketed_events": "Yes",
@@ -733,7 +733,7 @@
             "properties": {
                 "description": "A walking tour exploring the work of early 19th century master-builder, Mr Cubitt. Explore how the area has changed and been shaped by some of the important and influential planning, housing and design ideas of its time.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "The Making of Pimlico",
                 "start": "14:30:00",
                 "ticketed_events": "Yes",
@@ -752,7 +752,7 @@
             "properties": {
                 "description": "Focussing on how the South Bank’s unique location and pattern of land ownership has shaped its history, the tour will address how businesses, communities, and locals have played a part in the area’s growth, management, and conservation",
                 "end": "16:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "‘A tonic to the nation’: South Bank 1951-2021",
                 "start": "15:00:00",
                 "ticketed_events": "Yes",
@@ -776,25 +776,6 @@
                 "start": "16:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://openhouselondon.open-city.org.uk/listings/10406"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.3039882,
-                    51.45994
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "A story about a place that lies at the heart of the town; a visit to a lost palace from which Richmond’s name came to be; a bridge that connects the two halves and a steady, awe-inspiring climb that will present a view like no other.",
-                "end": "16:30:00",
-                "fully_booked": "Yes",
-                "name": "Richmond: heart, hearth and hill",
-                "start": "14:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://openhouselondon.open-city.org.uk/listings/10409"
             },
             "type": "Feature"
         },

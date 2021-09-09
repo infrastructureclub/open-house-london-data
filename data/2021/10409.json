@@ -1,5 +1,5 @@
 {
-    "all_week": false,
+    "all_week": true,
     "description": "A story about a place that lies at the heart of the town; a visit to a lost palace from which Richmond’s name came to be; a bridge that connects the two halves and a steady, awe-inspiring climb that will present a view like no other.",
     "design": {
         "designers": [],
@@ -10,20 +10,7 @@
             "Walk/tour"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2021-09-09",
-            "end": "2021-09-09T16:30:00+01:00",
-            "fully_booked": true,
-            "name": "Richmond: heart, hearth and hill",
-            "notes": null,
-            "start": "2021-09-09T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -62,5 +49,5 @@
     },
     "name": "Richmond: heart, hearth and hill",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10409",
-    "ticketed_events": true
+    "ticketed_events": false
 }
