@@ -141,16 +141,22 @@
     const resp = await fetch(`maps/${year}/dates.json`);
     const dates = await resp.json();
     const els = [];
-    const now = new Date();
+    var now = new Date();
     now.setHours(1,0,0,0);
+
     var checked = " checked";
     for (const date of dates) {
       if (date == 'all_week') continue;
-      const dt = new Date(date);
+
+      var dt = new Date(date);
       if (dt < now) continue;
+
       const mm_dd = `${dt.getDate()}/${dt.getMonth() + 1}`;
-      const day = dt.toLocaleString('en-GB', {weekday: 'short'});
+      var day = dt.toLocaleString('en-GB', {weekday: 'short'});
+      if (+dt == +now) day = "Today";
+
       els.push(`<input type="radio" value="${date}" id="date-${date}" name="date"${checked}><label for="date-${date}">${mm_dd} <small>${day}</small></label>`);
+
       checked = "";
     }
     dateChooser.insertAdjacentHTML('afterbegin', els.join(''));
