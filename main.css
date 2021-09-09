@@ -30,13 +30,13 @@ body {
 }
 
 footer a, .mapboxgl-popup-content a {
-  text-decoration: none;
+  text-decoration: underline;
   font-weight: bold;
   color: inherit;
 }
 
-footer a, .mapboxgl-popup-content a:hover {
-  text-decoration: underline;
+a, .mapboxgl-popup-content a:hover {
+  color: blue;
 }
 
 footer {
