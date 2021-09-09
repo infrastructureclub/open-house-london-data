@@ -17,11 +17,11 @@
             "capacity": 30,
             "date": "2021-09-09",
             "end": "2021-09-09T19:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Guided tour by TDO Architects",
             "notes": null,
             "start": "2021-09-09T18:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -75,5 +75,5 @@
     },
     "name": "Low Line: Southwark Street Arch – Mixed Occupier Test Bed",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10208",
-    "ticketed_events": true
+    "ticketed_events": false
 }
