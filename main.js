@@ -91,7 +91,7 @@
 
   const fetchMarkers = () => {
     const markers = {
-      'marker': 'mapbox-marker-icon-20px-red.png',
+      'marker': 'mapbox-marker-icon-48px-red.png',
     };
     const promises = [];
     for (const [name, url] of Object.entries(markers)) {
@@ -121,7 +121,7 @@
 
     map.addControl(new mapboxgl.NavigationControl());
 
-    map.on('click', 'listings-markers', (e) => {
+    const showPopup = (e) => {
       const feature = e.features[0];
       const coordinates = [...feature.geometry.coordinates];
       const html = buildPopupHtml(feature);
@@ -136,7 +136,10 @@
         .setHTML(html)
         .addTo(map);
 
-    });
+    };
+
+    map.on('click', 'listings-markers', showPopup);
+    map.on('click', 'listings-labels', showPopup);
 
     map.on('mouseenter', 'listings-markers', () => map.getCanvas().style.cursor = 'pointer');
     map.on('mouseleave', 'listings-markers', () => map.getCanvas().style.cursor = '');
@@ -159,7 +162,7 @@
           'icon-image': 'marker',
           'icon-allow-overlap': true,
           'icon-ignore-placement': true,
-        }
+        },
       });
       map.addLayer({
         'id': 'listings-labels',
@@ -168,7 +171,7 @@
         'layout': {
           'text-field': ['get', 'name'],
           'text-variable-anchor': ['top'],
-          'text-radial-offset': 0.5,
+          'text-radial-offset': 1,
         },
         'paint': {
           'text-halo-color': '#fff',
