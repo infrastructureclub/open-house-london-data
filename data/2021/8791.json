@@ -43,15 +43,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11069/bookings",
+            "booking_link": null,
             "capacity": 15,
             "date": "2021-09-10",
             "end": "2021-09-10T14:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Dan Tassell",
             "notes": null,
             "start": "2021-09-10T13:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -88,9 +88,9 @@
     ],
     "links": [],
     "location": {
-        "address": "Kingston University River House 53–57 High Street Kingston upon Thames Surrey, surrey, KT1 1LQ",
-        "latitude": 51.405928,
-        "longitude": -0.3078372,
+        "address": "Grange Rd, Kingston upon Thames, surrey, KT1 2QJ",
+        "latitude": 51.4050157,
+        "longitude": -0.2986955,
         "meeting_point": null,
         "travel_info": [
             "Nearest train: Surbiton, Kingston",
@@ -99,5 +99,5 @@
     },
     "name": "Kingston School of Art",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/8791",
-    "ticketed_events": true
+    "ticketed_events": false
 }
