@@ -1,6 +1,17 @@
 (async () => {
   const year = '2021';
 
+  const domContentLoaded = new Promise((resolve, reject) => {
+    if (document.readyState !== 'loading') resolve();
+    document.addEventListener('DOMContentLoaded', resolve);
+  });
+
+  const windowReady = new Promise((resolve, reject) => {
+    if (document.readyState == 'complete') resolve();
+    window.addEventListener('load', resolve);
+  });
+
+
   const getListingsUrl = () => {
     const date = document.forms.filter.date.value;
     return `maps/${year}/geojson/${date}.geojson`;
@@ -23,8 +34,11 @@
   };
 
   const updateListings = async () => {
-    await mapReady;
+    const map = await mapReady;
+    console.log(`Updating listings`);
     map.getSource('listings').setData(getListingsUrl());
+
+    console.log(`Updating filters`);
     const filter = getListingsFilter();
     map.setFilter('listings-labels', filter);
     map.setFilter('listings-markers', filter);
@@ -51,6 +65,7 @@
     document.forms.filter.fully_booked.value = fully_booked;
   };
 
+
   const buildPopupHtml = (feature) => {
     const { name, description, url, fully_booked, ticketed_events, start, end } = feature.properties;
     const data = [
@@ -73,69 +88,100 @@
     `;
   };
 
-  mapboxgl.accessToken = 'pk.eyJ1IjoibXM3ODIxIiwiYSI6ImNrdGFlMTMwMzA5dnYycG15MzhjeXgwa3MifQ.hD7yHtV4jWmf5tige7c2kg';
-  const map = new mapboxgl.Map({
-    container: 'map',
-    style: 'mapbox://styles/mapbox/light-v10',
-    hash: 'map',
-    center: [-0.1, 51.52],  // approximately Smithfield
-    zoom: 13,
-  });
-  map.addControl(new mapboxgl.NavigationControl());
 
-  const mapReady = new Promise((resolve, reject) => {
-    map.on('load', () => {
-      map.loadImage('mapbox-marker-icon-20px-red.png', (error, data) => {
-        if (error) throw error;
-        map.addImage('marker', data);
-        map.addSource('listings', { type: 'geojson', data: getListingsUrl() });
-        map.addLayer({
-          'id': 'listings-markers',
-          'type': 'symbol',
-          'source': 'listings',
-          'layout': {
-            'icon-image': 'marker',
-            'icon-allow-overlap': true,
-            'icon-ignore-placement': true,
-          }
-        });
-        map.addLayer({
-          'id': 'listings-labels',
-          'type': 'symbol',
-          'source': 'listings',
-          'layout': {
-            'text-field': ['get', 'name'],
-            'text-variable-anchor': ['top'],
-            'text-radial-offset': 0.5,
-          },
-          'paint': {
-            'text-halo-color': '#fff',
-            'text-halo-width': 1,
-            'text-halo-blur': 1,
-          },
-        });
-        resolve();
-      });
-    });
-  });
-  map.on('click', 'listings-markers', (e) => {
-    const feature = e.features[0];
-    const coordinates = [...feature.geometry.coordinates];
-    const html = buildPopupHtml(feature);
-
-    // Find the right marker if the map is zoomed out enough to wrap
-    while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-      coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+  const fetchMarkers = () => {
+    const markers = {
+      'marker': 'mapbox-marker-icon-20px-red.png',
+    };
+    const promises = [];
+    for (const [name, url] of Object.entries(markers)) {
+      const img = new Image();
+      img.src = url;
+      promises.push(img.decode().then(() => [name, img]));
     }
+    return Promise.all(promises);
+  };
+  /* Set them downloading as early as possible */
+  const markers = fetchMarkers();
 
-    new mapboxgl.Popup()
-      .setLngLat(coordinates)
-      .setHTML(html)
-      .addTo(map);
+  const mapReady = new Promise(async (resolve, reject) => {
+    /* Ensure CSS has been loaded */
+    await windowReady;
+
+    mapboxgl.accessToken = 'pk.eyJ1IjoibXM3ODIxIiwiYSI6ImNrdGFlMTMwMzA5dnYycG15MzhjeXgwa3MifQ.hD7yHtV4jWmf5tige7c2kg';
+
+    console.log(`Creating map`);
+    const map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/mapbox/light-v10',
+      hash: 'map',
+      center: [-0.1, 51.52],  // approximately Smithfield
+      zoom: 13,
+    });
+
+    map.addControl(new mapboxgl.NavigationControl());
+
+    map.on('click', 'listings-markers', (e) => {
+      const feature = e.features[0];
+      const coordinates = [...feature.geometry.coordinates];
+      const html = buildPopupHtml(feature);
+
+      // Find the right marker if the map is zoomed out enough to wrap
+      while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+        coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+      }
+
+      new mapboxgl.Popup()
+        .setLngLat(coordinates)
+        .setHTML(html)
+        .addTo(map);
+
+    });
+
+    map.on('mouseenter', 'listings-markers', () => map.getCanvas().style.cursor = 'pointer');
+    map.on('mouseleave', 'listings-markers', () => map.getCanvas().style.cursor = '');
+
+    map.on('load', async () => {
+      console.log(`Adding markers`);
+      /* We need the markers in order to add the layer */
+      for (const [name, img] of await markers) {
+        map.addImage(name, img);
+      }
+
+      console.log(`Adding source and layers`);
+      /* Apparently we can't create a source without data */
+      map.addSource('listings', { type: 'geojson', data: getListingsUrl() });
+      map.addLayer({
+        'id': 'listings-markers',
+        'type': 'symbol',
+        'source': 'listings',
+        'layout': {
+          'icon-image': 'marker',
+          'icon-allow-overlap': true,
+          'icon-ignore-placement': true,
+        }
+      });
+      map.addLayer({
+        'id': 'listings-labels',
+        'type': 'symbol',
+        'source': 'listings',
+        'layout': {
+          'text-field': ['get', 'name'],
+          'text-variable-anchor': ['top'],
+          'text-radial-offset': 0.5,
+        },
+        'paint': {
+          'text-halo-color': '#fff',
+          'text-halo-width': 1,
+          'text-halo-blur': 1,
+        },
+      });
+
+      console.log(`Map ready`);
+      resolve(map);
+    });
 
   });
-  map.on('mouseenter', 'listings-markers', () => map.getCanvas().style.cursor = 'pointer');
-  map.on('mouseleave', 'listings-markers', () => map.getCanvas().style.cursor = '');
 
   const buildDates = async (dateChooser) => {
     const resp = await fetch(`maps/${year}/dates.json`);
@@ -167,8 +213,9 @@
     if (e.target.closest('input')) updateListings();
   });
 
+  await domContentLoaded;
   await buildDates(document.getElementById('date'));
   loadFilter();
-  updateListings();
+  await updateListings();
 
 })();
