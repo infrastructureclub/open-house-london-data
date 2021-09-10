@@ -790,7 +790,7 @@
             "properties": {
                 "description": "New Livery Hall behind a retained early 20C façade. This is the 7th Hall in the Leathersellers' Company's history since its foundation in the Middle Ages.",
                 "end": "16:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Leathersellers' Hall",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
@@ -980,7 +980,7 @@
             "properties": {
                 "description": "A unique site in the borough of Enfield. Meridian Water will be a distinctive neighbourhood designed to nurture economic, environmental and social sustainability. The tour provides an insight to the soon to be bold and unique development.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Meridian Water Masterplan Tour ",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -1322,7 +1322,7 @@
             "properties": {
                 "description": "Goldfinger is a social enterprise situated at the foot of the Grade II listed Trellick Tower. We craft bespoke furniture from reclaimed and sustainable materials, with a teaching academy for the local community.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Goldfinger, Trellick Tower",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -1987,7 +1987,7 @@
             "properties": {
                 "description": "The West Hendon masterplan has been developed in order to regenerate a 1960s housing estate adjacent to the Welsh Harp reservoir. It incorporates affordable housing, new public parks, primary school, community centre and commercial space.",
                 "end": "11:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "West Hendon Masterplan",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
@@ -2120,7 +2120,7 @@
             "properties": {
                 "description": "A walk around housing estates designed by Lubetkin and Tecton, Joseph Emberton, and Carl Ludwig Frank 1945-1965, for the Metroplitan Borough of Finsbury, all illustrating the principle of the 'Green City'.",
                 "end": "16:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Carl Ludwig Franck and the Greening of Finsbury",
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
@@ -2785,7 +2785,7 @@
             "properties": {
                 "description": "Get the whole family involved to build the tallest LEGO structure in the city! Can you construct a tower as high as Canary Wharf and more importantly can you think how your tower would be environmentally friendly?",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "High-rise LEGO Challenge!",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -2804,7 +2804,7 @@
             "properties": {
                 "description": "Join NNBJ to experiment with a variety of building materials to create spectacular yet sustainable bridges, towers and domes to add to the impressive skyline of Canary Wharf.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Bridges, Towers and Domes",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -3569,6 +3569,25 @@
                 "start": "11:45:00",
                 "ticketed_events": "Yes",
                 "url": "https://openhouselondon.open-city.org.uk/listings/10448"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.004916,
+                    51.5097907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Come and play in the giant sandpit by our lake at Republic – buckets and spades all here for you!  And have a peek at how we have transformed a once tired office block into a cool place to work and study - with a sustainable timber refurb!",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "name": "Giant Sandpit",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://openhouselondon.open-city.org.uk/listings/10450"
             },
             "type": "Feature"
         }
