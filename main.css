@@ -4,7 +4,7 @@ html {
 
 body {
   font-family: 'Open Sans', sans-serif;
-  font-size: 18pt;
+  font-size: 14pt;
   display: grid;
   grid-template-rows: 6ex auto 3ex;
   height: 100%;
@@ -72,7 +72,7 @@ header form {
   display: inline-grid;
   grid-auto-flow: column;
   margin: 1px 0.5em;
-  font-size: 18pt;
+  font-size: 14pt;
   height: 4.8ex;
 }
 
