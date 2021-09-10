@@ -86,15 +86,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11088/bookings",
+            "booking_link": null,
             "capacity": null,
             "date": "2021-09-10",
             "end": "2021-09-10T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Enfield to Fork",
             "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-10T10:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -144,5 +144,5 @@
     },
     "name": "Enfield To Fork - Edmonton Green Shopping Centre",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10236",
-    "ticketed_events": true
+    "ticketed_events": false
 }
