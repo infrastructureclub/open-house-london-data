@@ -60,15 +60,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11334/bookings",
+            "booking_link": null,
             "capacity": 15,
             "date": "2021-09-10",
             "end": "2021-09-10T12:45:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Learn Architecture 00's way with retrofitting Expressway!",
             "notes": "The talk will be lead by Lynton Pepper - Lead Architect and Director at Architecture 00",
             "start": "2021-09-10T12:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -143,5 +143,5 @@
     },
     "name": "Expressway",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10234",
-    "ticketed_events": true
+    "ticketed_events": false
 }
