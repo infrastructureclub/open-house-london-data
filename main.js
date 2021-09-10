@@ -121,7 +121,12 @@
 
     map.addControl(new mapboxgl.NavigationControl());
 
+    let lastPopup = null;
     const showPopup = (e) => {
+      /* MapBox passes clicks through to all listening layers.
+       * This now means you can't click between events easily. */
+      if (lastPopup?.isOpen()) return;
+
       const feature = e.features[0];
       const coordinates = [...feature.geometry.coordinates];
       const html = buildPopupHtml(feature);
@@ -131,11 +136,10 @@
         coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
       }
 
-      new mapboxgl.Popup()
+      lastPopup = new mapboxgl.Popup()
         .setLngLat(coordinates)
         .setHTML(html)
         .addTo(map);
-
     };
 
     map.on('click', 'listings-markers', showPopup);
