@@ -17,11 +17,11 @@
             "capacity": 20,
             "date": "2021-09-10",
             "end": "2021-09-10T16:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Scene change: Lost and hidden East West End theatres",
             "notes": null,
             "start": "2021-09-10T14:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -67,5 +67,5 @@
     },
     "name": "Scene change: Lost and hidden East West End theatres",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10408",
-    "ticketed_events": true
+    "ticketed_events": false
 }
