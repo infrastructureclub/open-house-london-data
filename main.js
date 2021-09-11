@@ -121,6 +121,15 @@
     });
 
     map.addControl(new mapboxgl.NavigationControl());
+    map.addControl(new mapboxgl.GeolocateControl({
+      positionOptions: {
+        enableHighAccuracy: true,
+        maximumAge: 60 * 1000,
+      },
+      trackUserLocation: true,
+      showUserHeading: true,
+    }));
+
 
     let lastPopup = null;
     const showPopup = (e) => {
