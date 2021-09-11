@@ -245,6 +245,12 @@
     if (e.target.closest('input')) updateListings();
   });
 
+  document.addEventListener('dragstart', (e) => {
+    if (e.target.closest('.mapboxgl-popup-content a')) {
+      e.preventDefault();
+    };
+  });
+
   await domContentLoaded;
   await buildDates(document.getElementById('date'));
   loadFilter();
