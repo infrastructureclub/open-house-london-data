@@ -60,15 +60,15 @@
         },
         {
             "all_day": true,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/12579/bookings",
+            "booking_link": null,
             "capacity": null,
             "date": "2021-09-12",
             "end": "2021-09-12T23:59:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Explore the Royal Society Online",
             "notes": "This year, the Royal Society will be opening its doors online with an exciting range of digital content for you to explore its unique building, history and collections over Open House weekend 2021.",
             "start": "2021-09-12T00:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -149,5 +149,5 @@
     },
     "name": "The Royal Society ",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/2135",
-    "ticketed_events": true
+    "ticketed_events": false
 }
