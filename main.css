@@ -181,6 +181,18 @@ fieldset {
   border-right-color: #242 !important;
 }
 
+.mapboxgl-popup-content,
+.mapboxgl-popup-content p,
+.mapboxgl-popup-content dl {
+  pointer-events: none !important;
+  cursor: default;
+}
+
+.mapboxgl-popup-content a,
+.mapboxgl-popup-content button {
+  pointer-events: auto !important;
+}
+
 .not-ready form {
   display: none;
 }
