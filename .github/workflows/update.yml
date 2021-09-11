@@ -25,6 +25,8 @@ jobs:
           git add csv
           git add maps
           git commit -m "Automatic OH London data update"
+
+          git pull --rebase
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
