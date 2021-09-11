@@ -82,9 +82,23 @@
         data.push(`<dt>Starts</dt><dd>${startMin}</dd><dt>Finishes</dt><dd>${endMin}</dd>`);
       }
     }
+    const coords = feature.geometry.coordinates;
+    const latlng = `${coords[1]},${coords[0]}`;
+    const gmapsParams = new URLSearchParams({'api': 1, 'destination': `${name} @${latlng}`});
+    const gmapsUrl = `https://www.google.com/maps/dir/?${gmapsParams}`;
+    const cmParams = new URLSearchParams({'endcoord': latlng, 'endname': name});
+    const cmUrl = `https://citymapper.com/directions?${cmParams}`;
     return `
       <a href="${url}" target="_blank">${name}</a>
       <p>${description}</p>
+      <p>
+        <a class="gmaps-link" href="${gmapsUrl}" target="_blank">
+          <img src="googlemaps-icon-167px.png"/>
+        </a>
+        <a class="cm-link" href="${cmUrl}" target="_blank">
+          <img src="citymapper-logo-220px.png"/>
+        </a>
+      </p>
       <dl>${data.join('\n')}</dl>
     `;
   };

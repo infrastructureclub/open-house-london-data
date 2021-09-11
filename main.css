@@ -193,6 +193,16 @@ fieldset {
   pointer-events: auto !important;
 }
 
+.mapboxgl-popup-content .gmaps-link,
+.mapboxgl-popup-content .cm-link {
+  display: inline-block;
+  padding: 0 0.6em;
+}
+.mapboxgl-popup-content .gmaps-link img,
+.mapboxgl-popup-content .cm-link img {
+  height: 39px;
+}
+
 .not-ready form {
   display: none;
 }
