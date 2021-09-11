@@ -96,6 +96,7 @@ header form {
   width: 0;
   height: 0;
   margin: 0;
+  appearance: none;
 }
 .options input + label {
   border: 1px solid;
@@ -127,14 +128,14 @@ header form {
 .options input:focus + label {
   border-color: #464;
   border-left: 1px solid #464;
-  margin-left: -1;
+  margin-left: -1px;
 }
 .options input:focus:first-child + label {
   margin-left: 0;
 }
 .options input:focus + label + input + label {
   border-left: 1px solid #464;
-  margin-left: -1
+  margin-left: -1px;
 }
 .options:hover input + label {
   border-top-color: #242 !important;
