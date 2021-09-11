@@ -22,15 +22,15 @@
     "events": [
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11526/bookings",
+            "booking_link": null,
             "capacity": 30,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Tours by Architect",
             "notes": "A tour of Pennington Street Warehouse will be given by the architects, first come first serve, tours throughout the day. Please register your details.",
             "start": "2021-09-11T10:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -113,5 +113,5 @@
     },
     "name": "JTP Studios, Pennington Street Warehouse",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/8726",
-    "ticketed_events": true
+    "ticketed_events": false
 }

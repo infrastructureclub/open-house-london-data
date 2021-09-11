@@ -30,11 +30,11 @@
             "capacity": 20,
             "date": "2021-09-11",
             "end": "2021-09-11T12:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Modern Architecture in Blackheath walk",
             "notes": "Blackheath Society member and local architect Ana Sutherland will lead a guided tour of the Cator Estate, covering Eric Lyons' Span estates (built from 1954 to 1984) and unique modernist homes designed by architects Patrick Gwynne, Peter Moro and Walter Greaves. Together they form a unique group of architectural treasures that contributes to the rich historic fabric of the area.",
             "start": "2021-09-11T10:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -73,5 +73,5 @@
     },
     "name": "Modern Architecture in Blackheath walk",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10273",
-    "ticketed_events": true
+    "ticketed_events": false
 }

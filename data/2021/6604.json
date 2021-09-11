@@ -71,11 +71,11 @@
             "capacity": 20,
             "date": "2021-09-10",
             "end": "2021-09-10T18:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Tour of Maggie's Barts",
             "notes": null,
             "start": "2021-09-10T17:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -170,5 +170,5 @@
     },
     "name": "Maggie's Barts",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/6604",
-    "ticketed_events": true
+    "ticketed_events": false
 }

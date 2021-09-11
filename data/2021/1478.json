@@ -44,11 +44,11 @@
             "capacity": 45,
             "date": "2021-09-11",
             "end": "2021-09-11T11:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "History tour and talk",
             "notes": "Tour of the building with history talk, ground floor and basement levels fully accessible, upper floors via stairs (no lift)",
             "start": "2021-09-11T10:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -177,5 +177,5 @@
     },
     "name": "Rio Cinema",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/1478",
-    "ticketed_events": true
+    "ticketed_events": false
 }

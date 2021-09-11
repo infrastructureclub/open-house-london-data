@@ -24,11 +24,11 @@
             "capacity": 40,
             "date": "2021-09-10",
             "end": "2021-09-10T19:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Saints and the City of London",
             "notes": "please log in 5 minutes before start at 1830",
             "start": "2021-09-10T18:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -58,5 +58,5 @@
     },
     "name": "Virtual TOUR – The Saints and the City of London ",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/9322",
-    "ticketed_events": true
+    "ticketed_events": false
 }

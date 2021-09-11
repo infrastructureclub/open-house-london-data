@@ -40,15 +40,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/12488/bookings",
+            "booking_link": null,
             "capacity": null,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "SPPARC Open Studio",
             "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-11T10:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -222,5 +222,5 @@
     },
     "name": "SPPARC",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/6850",
-    "ticketed_events": true
+    "ticketed_events": false
 }

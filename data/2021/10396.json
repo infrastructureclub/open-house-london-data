@@ -29,11 +29,11 @@
             "capacity": 20,
             "date": "2021-09-11",
             "end": "2021-09-11T14:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Town of tomorrow: Thamesmead Through Film",
             "notes": null,
             "start": "2021-09-11T12:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -73,5 +73,5 @@
     },
     "name": "Town of tomorrow: Thamesmead Through Film ",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10396",
-    "ticketed_events": true
+    "ticketed_events": false
 }

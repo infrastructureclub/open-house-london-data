@@ -21,6 +21,18 @@
     "events": [
         {
             "all_day": false,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12870/bookings",
+            "capacity": 40,
+            "date": "2021-09-12",
+            "end": "2021-09-12T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Walks On Central Hill",
+            "notes": "Meet at bowl / mural /playground in centre of the estate.",
+            "start": "2021-09-12T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
             "booking_link": "https://openhouselondon.open-city.org.uk/events/12498/bookings",
             "capacity": 100,
             "date": "2021-09-12",
@@ -29,6 +41,18 @@
             "name": "Lunchtime talk",
             "notes": null,
             "start": "2021-09-12T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "all_day": false,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12871/bookings",
+            "capacity": 40,
+            "date": "2021-09-12",
+            "end": "2021-09-12T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Walks On Central Hill",
+            "notes": "Meet at bowl / mural /playground in centre of the estate.",
+            "start": "2021-09-12T14:00:00+01:00",
             "ticketed": true
         }
     ],

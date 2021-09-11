@@ -41,11 +41,11 @@
             "capacity": 20,
             "date": "2021-09-11",
             "end": "2021-09-11T12:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Marylebone Village Tour",
             "notes": null,
             "start": "2021-09-11T10:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -84,5 +84,5 @@
     },
     "name": "Marylebone Village: Home to The Howard de Walden Estate",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10426",
-    "ticketed_events": true
+    "ticketed_events": false
 }

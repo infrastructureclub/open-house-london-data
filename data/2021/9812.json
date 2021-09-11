@@ -88,11 +88,11 @@
             "capacity": 15,
             "date": "2021-09-10",
             "end": "2021-09-10T19:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Tour with DSDHA project architect",
             "notes": null,
             "start": "2021-09-10T18:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -112,23 +112,23 @@
             "capacity": 15,
             "date": "2021-09-10",
             "end": "2021-09-10T20:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Tour with DSDHA project architect",
             "notes": null,
             "start": "2021-09-10T19:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11715/bookings",
+            "booking_link": null,
             "capacity": null,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "General entry",
             "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-11T10:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -136,11 +136,11 @@
             "capacity": 15,
             "date": "2021-09-11",
             "end": "2021-09-11T12:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Tour with DSDHA project architect",
             "notes": null,
             "start": "2021-09-11T11:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -148,11 +148,11 @@
             "capacity": 15,
             "date": "2021-09-11",
             "end": "2021-09-11T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Tour with DSDHA project architect",
             "notes": null,
             "start": "2021-09-11T12:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -244,5 +244,5 @@
     },
     "name": "National Youth Theatre",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/9812",
-    "ticketed_events": true
+    "ticketed_events": false
 }

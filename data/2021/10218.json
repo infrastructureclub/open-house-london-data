@@ -33,15 +33,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11175/bookings",
+            "booking_link": null,
             "capacity": null,
             "date": "2021-09-11",
             "end": "2021-09-11T15:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Discover South Norwood Library",
             "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-11T10:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -149,5 +149,5 @@
     },
     "name": "South Norwood Library ",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10218",
-    "ticketed_events": true
+    "ticketed_events": false
 }

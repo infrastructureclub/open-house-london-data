@@ -43,27 +43,27 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11977/bookings",
+            "booking_link": null,
             "capacity": 15,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Kenwood Carriage House",
             "notes": "Visit Kenwood's carriage house, built in the 1790s for the 2nd Earl of Mansfield and see two of Kenwood's hidden treasures - Lord Iveagh's four-in-hand Drag carriage and an Edwardian Romany vardo, once a regular site at the annual Hampstead Heath Fair. No booking required but as capacity is limited, expect a short wait.",
             "start": "2021-09-11T12:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11976/bookings",
+            "booking_link": null,
             "capacity": null,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Kenwood's hidden Kitchen Garden",
             "notes": "Visit Kenwood's walled Kitchen Garden and find out more about the array of fruit and veg grown on the estate in the 18th and 19th centuries, as well as the work of Kenwood's 21st-century gardeners. Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-11T12:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -173,5 +173,5 @@
     },
     "name": "Kenwood ",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/835",
-    "ticketed_events": true
+    "ticketed_events": false
 }

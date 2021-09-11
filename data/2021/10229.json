@@ -18,11 +18,11 @@
             "capacity": 40,
             "date": "2021-09-11",
             "end": "2021-09-11T11:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Canary Crooners",
             "notes": "Ages 0–15 months, Families should attend at the start of each 30-minute session",
             "start": "2021-09-11T11:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -30,19 +30,19 @@
             "capacity": 40,
             "date": "2021-09-11",
             "end": "2021-09-11T12:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Canary Crooners",
             "notes": "Ages 15 months+, Families should attend at the start of each 30-minute session",
             "start": "2021-09-11T12:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/10994/bookings",
+            "booking_link": null,
             "capacity": 40,
             "date": "2021-09-11",
             "end": "2021-09-11T14:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Canary Crooners",
             "notes": "Ages 15 months+, Families should attend at the start of each 30-minute session",
             "start": "2021-09-11T13:30:00+01:00",
@@ -62,11 +62,11 @@
         },
         {
             "all_day": false,
-            "booking_link": null,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/10996/bookings",
             "capacity": 40,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Canary Crooners",
             "notes": "Ages 15 months+, Families should attend at the start of each 30-minute session",
             "start": "2021-09-11T15:30:00+01:00",

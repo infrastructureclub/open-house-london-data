@@ -19,15 +19,15 @@
     "events": [
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/10957/bookings",
+            "booking_link": null,
             "capacity": 12,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Volunteers will show visitors around throughout the day.",
             "notes": null,
             "start": "2021-09-11T12:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -134,5 +134,5 @@
     },
     "name": "Blackheath Quaker Meeting House",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/4022",
-    "ticketed_events": true
+    "ticketed_events": false
 }
