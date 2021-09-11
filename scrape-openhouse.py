@@ -281,4 +281,5 @@ for building in buildings:
     with open("data/%s/%s.json" % (year, data["id"]), "w", encoding='utf8') as f:
         f.write(json.dumps(data, indent=4, sort_keys=True, separators=(",", ": "), ensure_ascii=False))
 
+    # 4s appears to avoid the rate limiting, but let's give ourselves some headroom
     time.sleep(5)
