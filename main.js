@@ -75,10 +75,11 @@
       data.push(`<dt>Fully booked</dt><dd>${fully_booked}</dd>`);
     }
     if (start !== "null" && end !== "null") {
-      if (start == "00:00:00" && end == "23:59:00") {
+      const [startMin, endMin] = [start, end].map(t => t.substr(0, 5));
+      if (startMin == "00:00" && endMin == "23:59") {
         data.push(`<dt>Time</dt><dd>All-day</dd>`);
       } else {
-        data.push(`<dt>Starts</dt><dd>${start}</dd><dt>Finishes</dt><dd>${end}</dd>`);
+        data.push(`<dt>Starts</dt><dd>${startMin}</dd><dt>Finishes</dt><dd>${endMin}</dd>`);
       }
     }
     return `
