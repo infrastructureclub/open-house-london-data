@@ -50,27 +50,27 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/10995/bookings",
+            "booking_link": null,
             "capacity": 40,
             "date": "2021-09-11",
             "end": "2021-09-11T15:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Canary Crooners",
             "notes": "Ages 15 months+, Families should attend at the start of each 30-minute session",
             "start": "2021-09-11T14:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/10996/bookings",
+            "booking_link": null,
             "capacity": 40,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Canary Crooners",
             "notes": "Ages 15 months+, Families should attend at the start of each 30-minute session",
             "start": "2021-09-11T15:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -108,5 +108,5 @@
     },
     "name": "Canary Crooners",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10229",
-    "ticketed_events": true
+    "ticketed_events": false
 }

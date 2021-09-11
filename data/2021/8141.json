@@ -122,11 +122,11 @@
             "capacity": 12,
             "date": "2021-09-11",
             "end": "2021-09-11T15:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Churchyard Trails: Stories from Walthamstow's Past",
             "notes": "Weather dependent ~ may be cancelled at short notice if wet. Due to uneven terrain, we regret the event is not suitable for those with limited mobility and wheelchair users. Please wear suitable footwear. Unsuitable for those aged under 10 years of age.",
             "start": "2021-09-11T15:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -134,11 +134,11 @@
             "capacity": 12,
             "date": "2021-09-11",
             "end": "2021-09-11T16:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Churchyard Trails: Stories from Walthamstow's Past",
             "notes": "Weather dependent ~ may be cancelled at short notice if wet. Due to uneven terrain, we regret the event is not suitable for those with limited mobility and wheelchair users. Please wear suitable footwear. Unsuitable for those aged under 10 years of age.",
             "start": "2021-09-11T16:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -223,5 +223,5 @@
     },
     "name": "St. Mary's Church, Walthamstow Village",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/8141",
-    "ticketed_events": true
+    "ticketed_events": false
 }

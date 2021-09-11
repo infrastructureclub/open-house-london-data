@@ -126,11 +126,11 @@
             "capacity": 20,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Goldfinger Open House",
             "notes": null,
             "start": "2021-09-11T15:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -138,11 +138,11 @@
             "capacity": 20,
             "date": "2021-09-11",
             "end": "2021-09-11T17:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Goldfinger Open House",
             "notes": null,
             "start": "2021-09-11T16:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -249,5 +249,5 @@
     },
     "name": "Goldfinger, Trellick Tower",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/6881",
-    "ticketed_events": true
+    "ticketed_events": false
 }

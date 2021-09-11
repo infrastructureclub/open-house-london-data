@@ -72,11 +72,11 @@
             "capacity": 15,
             "date": "2021-09-11",
             "end": "2021-09-11T15:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Guided tour",
             "notes": null,
             "start": "2021-09-11T15:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -84,11 +84,11 @@
             "capacity": 15,
             "date": "2021-09-11",
             "end": "2021-09-11T16:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Guided tour",
             "notes": null,
             "start": "2021-09-11T16:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -169,5 +169,5 @@
     },
     "name": "Leathersellers' Hall",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/3489",
-    "ticketed_events": true
+    "ticketed_events": false
 }

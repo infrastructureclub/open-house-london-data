@@ -165,11 +165,11 @@
             "capacity": 10,
             "date": "2021-09-11",
             "end": "2021-09-11T15:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Viewing of Canada Gallery exhibition “Wild Flower” by Zachari Logan",
             "notes": "*COVID-19 protocols in place. You will need to wear a mask to enter the gallery.",
             "start": "2021-09-11T15:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -177,11 +177,11 @@
             "capacity": 10,
             "date": "2021-09-11",
             "end": "2021-09-11T16:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Viewing of Canada Gallery exhibition “Wild Flower” by Zachari Logan",
             "notes": "*COVID-19 protocols in place. You will need to wear a mask to enter the gallery.",
             "start": "2021-09-11T16:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -189,11 +189,11 @@
             "capacity": 10,
             "date": "2021-09-11",
             "end": "2021-09-11T17:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Viewing of Canada Gallery exhibition “Wild Flower” by Zachari Logan",
             "notes": "*COVID-19 protocols in place. You will need to wear a mask to enter the gallery.",
             "start": "2021-09-11T17:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -293,5 +293,5 @@
     },
     "name": "Canada House ",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/2783",
-    "ticketed_events": true
+    "ticketed_events": false
 }

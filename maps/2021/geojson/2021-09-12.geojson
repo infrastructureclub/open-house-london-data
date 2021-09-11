@@ -87,7 +87,7 @@
             "properties": {
                 "description": "Built during the golden era of Camden public housing under Borough Architect Sydney Cook. Peter Tábori  studied with Ernő Goldfinger and worked with Denys Lasdun, and met Ken Adie when both were students at the Regent Street Polytechnic.",
                 "end": "15:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "8 Stoneleigh Terrace (Highgate New Town, Stage 1)",
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
@@ -206,6 +206,25 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://openhouselondon.open-city.org.uk/listings/1405"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1029244,
+                    51.4317945
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Grade II listed 1881 former fire station with prominent watch tower and original fire doors.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "name": "South London Theatre",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://openhouselondon.open-city.org.uk/listings/1692"
             },
             "type": "Feature"
         },
@@ -1056,7 +1075,7 @@
             "properties": {
                 "description": "Now home to the School of Historical Dress, the building was originally built in 1841 as the 'Royal South London Dispensary' for the working poor which closed in 1917. Bethlem used it as the Hospital for Nervous Diseases from 1920 to 1927.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "The School of Historical Dress",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -1308,6 +1327,25 @@
                 "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://openhouselondon.open-city.org.uk/listings/8360"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.023398,
+                    51.5156479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A tour of the park looking at the recent improvements on site and the benefits to the local community, including the new playground, football pitches and changing room, outdoor gym and planting.",
+                "end": "14:00:00",
+                "fully_booked": "No",
+                "name": "Bartlett Park",
+                "start": "12:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://openhouselondon.open-city.org.uk/listings/8643"
             },
             "type": "Feature"
         },
@@ -2025,7 +2063,7 @@
             "properties": {
                 "description": "A walking tour led by the Architecture Foundation's Young Trustees exploring Brixton's changing identity at a critical juncture in time – the walk will be followed by an open call for responses celebrating its cultural and social fabric.",
                 "end": "15:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "AFYT present: Civic Rituals - A Love Letter to Brixton",
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
@@ -2139,7 +2177,7 @@
             "properties": {
                 "description": "Over the last 20 years, architects have been developing unusual and innovative small-scale residential schemes which seek to improve the quality of public housing in London and reconnect residents to the streets and surrounding communities",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Human scale housing: East London cycle tour",
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
@@ -2158,7 +2196,7 @@
             "properties": {
                 "description": "Waltham Forest Council has transformed a Victorian terrace into an Eco Home to showcase best practice retrofitting to be more carbon friendly. Features home improvements that reduce carbon footprint and help tackle the climate emergency.",
                 "end": "10:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Eco Show Home",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
@@ -2197,7 +2235,7 @@
                 "description": "Edenham Way forms a key part of Goldfinger's Cheltenham Estate built between 1969 and 1973. The estate features five terraces of houses, two six-storey blocks of flats, four acres of open space and  the neighbouring Trellick Tower.",
                 "end": "16:00:00",
                 "fully_booked": "No",
-                "name": "Edenham Way",
+                "name": "Edenham Way SOLD OUT",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://openhouselondon.open-city.org.uk/listings/10449"

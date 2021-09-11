@@ -17,11 +17,11 @@
             "capacity": 25,
             "date": "2021-09-11",
             "end": "2021-09-11T16:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Guided Tour with Blue Badge Guide",
             "notes": null,
             "start": "2021-09-11T14:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -79,5 +79,5 @@
     },
     "name": "Mayfair Walk",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10312",
-    "ticketed_events": true
+    "ticketed_events": false
 }

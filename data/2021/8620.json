@@ -40,11 +40,11 @@
             "capacity": 10,
             "date": "2021-09-11",
             "end": "2021-09-11T14:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Tour by the architect",
             "notes": "Tour starts at 2.20pm",
             "start": "2021-09-11T14:15:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -52,11 +52,11 @@
             "capacity": 10,
             "date": "2021-09-11",
             "end": "2021-09-11T15:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Tour by the architect",
             "notes": "Tour starts at 2.40pm",
             "start": "2021-09-11T14:45:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -64,11 +64,11 @@
             "capacity": 10,
             "date": "2021-09-11",
             "end": "2021-09-11T15:15:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Tour by the architect",
             "notes": "Tour will last 20 minutes",
             "start": "2021-09-11T15:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -76,11 +76,11 @@
             "capacity": 10,
             "date": "2021-09-11",
             "end": "2021-09-11T15:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Tour by the architect",
             "notes": "Tour starts at 3.20pm",
             "start": "2021-09-11T15:15:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -88,11 +88,11 @@
             "capacity": 10,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Tour by the architect",
             "notes": "Tour starts at 3.40pm",
             "start": "2021-09-11T15:45:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -144,5 +144,5 @@
     },
     "name": "Three Rooms Under a New Roof ",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/8620",
-    "ticketed_events": true
+    "ticketed_events": false
 }
