@@ -26,15 +26,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/10980/bookings",
+            "booking_link": null,
             "capacity": 200,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Escape the Future",
             "notes": "Suitable for all ages",
             "start": "2021-09-11T14:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -71,5 +71,5 @@
     },
     "name": "Escape The Future",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10222",
-    "ticketed_events": true
+    "ticketed_events": false
 }

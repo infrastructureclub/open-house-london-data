@@ -60,11 +60,11 @@
             "capacity": 15,
             "date": "2021-09-11",
             "end": "2021-09-11T13:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "BedZED Open House Tour",
             "notes": null,
             "start": "2021-09-11T13:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -190,5 +190,5 @@
     },
     "name": "BedZED",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/1594",
-    "ticketed_events": true
+    "ticketed_events": false
 }

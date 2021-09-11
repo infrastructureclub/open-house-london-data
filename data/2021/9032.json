@@ -32,15 +32,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11309/bookings",
+            "booking_link": null,
             "capacity": 24,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Hounslow Heritage Guides",
             "notes": null,
             "start": "2021-09-11T14:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -81,5 +81,5 @@
     },
     "name": "Exploring Spring Grove Isleworth",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/9032",
-    "ticketed_events": true
+    "ticketed_events": false
 }

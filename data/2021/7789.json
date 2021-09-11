@@ -47,11 +47,11 @@
             "capacity": 25,
             "date": "2021-09-11",
             "end": "2021-09-11T15:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Masterplan Tour",
             "notes": null,
             "start": "2021-09-11T14:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -140,5 +140,5 @@
     },
     "name": "Olympic Legacy Masterplan",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/7789",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -69,15 +69,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/12528/bookings",
+            "booking_link": null,
             "capacity": 40,
             "date": "2021-09-11",
             "end": "2021-09-11T14:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Architect Led Tours of The Nest Civic and Library Building",
             "notes": "Architects Bisset Adams and the team leading the regeneration in Thamemead from Peabody will be leading tours of The Nest, before its opening later this year.",
             "start": "2021-09-11T13:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -166,5 +166,5 @@
     },
     "name": "The Nest Community Building and Library, Thamesmead",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/7534",
-    "ticketed_events": true
+    "ticketed_events": false
 }

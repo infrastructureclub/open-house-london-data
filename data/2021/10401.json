@@ -17,11 +17,11 @@
             "capacity": 20,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Spitalfields to Stepney Green: 500 years of immigration",
             "notes": null,
             "start": "2021-09-11T14:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -60,5 +60,5 @@
     },
     "name": "Spitalfields to Stepney Green: 500 years of immigration",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10401",
-    "ticketed_events": true
+    "ticketed_events": false
 }

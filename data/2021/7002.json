@@ -40,11 +40,11 @@
             "capacity": 30,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Walking Tour of Thamesmead's Lost Landscape",
             "notes": "Join Phil Askew as he takes you on a walking tour through some of Thamesmead's lesser known and sometimes forgotten landscapes. Meeting in Cygnet Square, this tour takes between 90 and 120 mins.",
             "start": "2021-09-11T14:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -90,5 +90,5 @@
     },
     "name": "Thamesmead's Lost Landscapes",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/7002",
-    "ticketed_events": true
+    "ticketed_events": false
 }

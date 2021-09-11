@@ -29,11 +29,11 @@
             "capacity": 10,
             "date": "2021-09-11",
             "end": "2021-09-11T15:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Order and Disorder: Guildhall to Smithfield",
             "notes": null,
             "start": "2021-09-11T14:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -170,5 +170,5 @@
     },
     "name": "Order and Disorder: Guildhall to Smithfield",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10188",
-    "ticketed_events": true
+    "ticketed_events": false
 }

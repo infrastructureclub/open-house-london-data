@@ -43,15 +43,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11022/bookings",
+            "booking_link": null,
             "capacity": 100,
             "date": "2021-09-11",
             "end": "2021-09-11T15:45:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Lecture by local historian",
             "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-11T15:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -112,5 +112,5 @@
     },
     "name": "Church of the Annunciation",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/2469",
-    "ticketed_events": true
+    "ticketed_events": false
 }

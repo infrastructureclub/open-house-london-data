@@ -20,15 +20,15 @@
     "events": [
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11043/bookings",
+            "booking_link": null,
             "capacity": 30,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Campaign Tour of West Ken & Gibbs Green Estates",
             "notes": null,
             "start": "2021-09-11T14:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -130,5 +130,5 @@
     },
     "name": "West Kensington and Gibbs Green",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/7798",
-    "ticketed_events": true
+    "ticketed_events": false
 }

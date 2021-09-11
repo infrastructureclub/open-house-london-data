@@ -19,27 +19,27 @@
     "events": [
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/10894/bookings",
+            "booking_link": null,
             "capacity": 150,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Additional talk by local historian",
             "notes": "At Annunciation Church Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-11T15:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/10893/bookings",
+            "booking_link": null,
             "capacity": 100,
             "date": "2021-09-11",
             "end": "2021-09-11T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Talk by local historian",
             "notes": "Free entry. Talk about local houses of interest.  See self guided tour Donations acceptable Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-11T15:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -109,5 +109,5 @@
     },
     "name": "Self-guided Architecture of Chislehurst Walk",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/2609",
-    "ticketed_events": true
+    "ticketed_events": false
 }
