@@ -68,8 +68,9 @@
 
   const buildPopupHtml = (feature) => {
     const { name, description, url, fully_booked, ticketed_events, start, end } = feature.properties;
+    const ticket_class = ticketed_events == 'Yes' ? 'ticketed' : '';
     const data = [
-      `<dt>Ticketed</dt><dd>${ticketed_events}</dd>`
+      `<dt>Ticketed</dt><dd class="${ticket_class}">${ticketed_events}</dd>`
     ];
     if (ticketed_events == 'Yes') {
       data.push(`<dt>Fully booked</dt><dd>${fully_booked}</dd>`);
