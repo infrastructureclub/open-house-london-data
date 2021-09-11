@@ -16,27 +16,30 @@
   <body class="not-ready">
     <header>
       <form name="filter" action="">
-        <label for="date">Date
+        <fieldset>
+          <label for="date">Date</label>
           <div class="options" id="date">
             <input type="radio" name="date" value="all_week" id="date-all_week"><label for="date-all_week">Other</label>
           </div>
-        </label>
+        </fieldset>
 
-        <label for="ticketed_events">Ticketed
+        <fieldset>
+          <label for="ticketed_events">Ticketed</label>
           <div class="options" id="ticketed_events">
             <input type="radio" name="ticketed_events" value="yes" id="ticketed_events-yes"><label for="ticketed_events-yes">Yes</label>
             <input type="radio" name="ticketed_events" value="no" id="ticketed_events-no"><label for="ticketed_events-no">No</label>
             <input type="radio" name="ticketed_events" value="any" id="ticketed_events-any" checked><label for="ticketed_events-any">Any</label>
           </div>
-        </label>
+        </fieldset>
 
-        <label for="fully_booked">Fully booked
+        <fieldset>
+          <label for="fully_booked">Fully booked</label>
           <div class="options" id="fully_booked">
             <input type="radio" name="fully_booked" value="yes" id="fully_booked-yes"><label for="fully_booked-yes">Yes</label>
             <input type="radio" name="fully_booked" value="no" id="fully_booked-no"><label for="fully_booked-no">No</label>
             <input type="radio" name="fully_booked" value="any" id="fully_booked-any" checked><label for="fully_booked-any">Any</label>
           </div>
-        </label>
+        </fieldset>
 
         <!--
         <div class="collapse">

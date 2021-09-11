@@ -51,6 +51,7 @@ footer {
 
 footer ul {
   margin: 0;
+  padding: 0;
 }
 
 footer ul li {
@@ -62,20 +63,51 @@ footer ul li:not(:first-child)::before {
 
 
 header form {
-  padding: 0.5ex 0.5em;
+  padding: 0.3ex 0.5em;
 }
 
-.options, header > form > label {
+fieldset {
+  border: none;
+  display: inline-block;
   vertical-align: middle;
   white-space: nowrap;
+  padding: 0;
+}
+
+@media screen and (max-width: 40em) {
+  form {
+    text-align: center;
+  }
+  fieldset:first-child {
+    display: block;
+    text-align: center;
+  }
+
+  fieldset:not(:first-child) {
+    padding-top: 0.5ex;
+    width: 9em;
+    display: inline-block;
+    text-align: center;
+  }
+
+  fieldset:not(:first-child) > label {
+    display: block;
+    white-space: inherit;
+    text-align: center;
+  }
+
+  fieldset:not(:first-child) .options {
+    padding-top: 0.2ex;
+  }
 }
 
 .options {
   display: inline-grid;
   grid-auto-flow: column;
-  margin: 1px 0.5em;
+  margin: 0.3ex 0.5em 0.3ex;
   font-size: 14pt;
   height: 4.8ex;
+  vertical-align: middle;
 }
 
 .options label {
