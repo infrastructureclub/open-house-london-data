@@ -218,6 +218,10 @@ fieldset {
   pointer-events: auto !important;
 }
 
+.mapboxgl-popup-content a {
+  touch-action: none;
+}
+
 .mapboxgl-popup-content .gmaps-link,
 .mapboxgl-popup-content .cm-link {
   display: inline-block;
