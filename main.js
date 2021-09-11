@@ -83,7 +83,7 @@
       }
     }
     return `
-      <a href="${url}">${name}</a>
+      <a href="${url}" target="_blank">${name}</a>
       <p>${description}</p>
       <dl>${data.join('\n')}</dl>
     `;
