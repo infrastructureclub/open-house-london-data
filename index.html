@@ -2,6 +2,8 @@
 <html>
   <head>
     <meta charset='utf-8'/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>Open House London booking</title>
 
     <link rel="preconnect" href="https://fonts.gstatic.com"/>
@@ -14,24 +16,27 @@
   <body class="not-ready">
     <header>
       <form name="filter" action="">
-        <label for="date">Date</label>
-        <div class="options" id="date">
-          <input type="radio" name="date" value="all_week" id="date-all_week"><label for="date-all_week">Other</label>
-        </div>
+        <label for="date">Date
+          <div class="options" id="date">
+            <input type="radio" name="date" value="all_week" id="date-all_week"><label for="date-all_week">Other</label>
+          </div>
+        </label>
 
-        <label for="ticketed_events">Ticketed</label>
-        <div class="options" id="ticketed_events">
-          <input type="radio" name="ticketed_events" value="yes" id="ticketed_events-yes"><label for="ticketed_events-yes">Yes</label>
-          <input type="radio" name="ticketed_events" value="no" id="ticketed_events-no"><label for="ticketed_events-no">No</label>
-          <input type="radio" name="ticketed_events" value="any" id="ticketed_events-any" checked><label for="ticketed_events-any">Any</label>
-        </div>
+        <label for="ticketed_events">Ticketed
+          <div class="options" id="ticketed_events">
+            <input type="radio" name="ticketed_events" value="yes" id="ticketed_events-yes"><label for="ticketed_events-yes">Yes</label>
+            <input type="radio" name="ticketed_events" value="no" id="ticketed_events-no"><label for="ticketed_events-no">No</label>
+            <input type="radio" name="ticketed_events" value="any" id="ticketed_events-any" checked><label for="ticketed_events-any">Any</label>
+          </div>
+        </label>
 
-        <label for="fully_booked">Fully booked</label>
-        <div class="options" id="fully_booked">
-          <input type="radio" name="fully_booked" value="yes" id="fully_booked-yes"><label for="fully_booked-yes">Yes</label>
-          <input type="radio" name="fully_booked" value="no" id="fully_booked-no"><label for="fully_booked-no">No</label>
-          <input type="radio" name="fully_booked" value="any" id="fully_booked-any" checked><label for="fully_booked-any">Any</label>
-        </div>
+        <label for="fully_booked">Fully booked
+          <div class="options" id="fully_booked">
+            <input type="radio" name="fully_booked" value="yes" id="fully_booked-yes"><label for="fully_booked-yes">Yes</label>
+            <input type="radio" name="fully_booked" value="no" id="fully_booked-no"><label for="fully_booked-no">No</label>
+            <input type="radio" name="fully_booked" value="any" id="fully_booked-any" checked><label for="fully_booked-any">Any</label>
+          </div>
+        </label>
 
         <!--
         <div class="collapse">

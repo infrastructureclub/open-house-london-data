@@ -7,7 +7,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 14pt;
   display: grid;
-  grid-template-rows: 6ex auto 3ex;
+  grid-template-rows: fit-content(15ex) auto fit-content(6ex);
   height: 100%;
   margin: 0;
   background-color: rgb(0, 82, 81);
@@ -67,6 +67,7 @@ header form {
 
 .options, header > form > label {
   vertical-align: middle;
+  white-space: nowrap;
 }
 
 .options {
