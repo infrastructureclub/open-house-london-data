@@ -93,10 +93,10 @@
       <p>${description}</p>
       <p>
         <a class="gmaps-link" href="${gmapsUrl}" target="_blank">
-          <img src="googlemaps-icon-167px.png"/>
+          <img src="assets/googlemaps-icon-167px.png"/>
         </a>
         <a class="cm-link" href="${cmUrl}" target="_blank">
-          <img src="citymapper-logo-220px.png"/>
+          <img src="assets/citymapper-logo-220px.png"/>
         </a>
       </p>
       <dl>${data.join('\n')}</dl>
@@ -106,7 +106,7 @@
 
   const fetchMarkers = () => {
     const markers = {
-      'marker': 'mapbox-marker-icon-48px-red.png',
+      'marker': 'assets/mapbox-marker-icon-48px-red.png',
     };
     const promises = [];
     for (const [name, url] of Object.entries(markers)) {
