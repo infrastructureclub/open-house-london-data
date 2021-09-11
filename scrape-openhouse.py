@@ -12,18 +12,27 @@ year = 2021
 timezone = pytz.timezone("Europe/London")
 
 response = requests.get("https://openhouselondon.open-city.org.uk/")
+if response.content == b"Retry later\n":
+    print("Hit rate limiting, cannot continue")
+    raise Exception("Rate limited")
+
 root = lxml.html.document_fromstring(response.content)
 
 map_nodes = root.xpath('//div[contains(@class, "map")]')
 buildings = json.loads(map_nodes[0].attrib["data-buildings"])
 
 count = 0
+
 for building in buildings:
     count += 1
     print("Fetching %s/%s - %s" % (count, len(buildings), building))
 
     original_url = "https://openhouselondon.open-city.org.uk/listings/%s" % building["id"]
     response = requests.get(original_url)
+    if response.content == b"Retry later\n":
+        print("Hit rate limiting, cannot continue")
+        raise Exception("Rate limited")
+
     root = lxml.html.document_fromstring(response.content)
 
     data = {
