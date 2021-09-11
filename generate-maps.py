@@ -35,6 +35,7 @@ for date, locations in dates.items():
     kml = simplekml.Kml()
     features = []
 
+    seen_latlons = set()
     for location in sorted(locations, key=lambda l: l["id"]):
         fully_booked = "Yes"
 
@@ -78,6 +79,13 @@ for date, locations in dates.items():
 
         lat = location["location"]["latitude"]
         lon = location["location"]["longitude"]
+
+        # If someone uses the same lat/lon for multiple venues in the same
+        # building only one of them will show up in most geojson renderers, so
+        # we add a small amount to the longitude to avoid this
+        if "%s,%s" % (lat, lon) in seen_latlons:
+            lon = lon + 0.0001
+        seen_latlons.add("%s,%s" % (lat, lon))
 
         kml.newpoint(
             name=location["name"],
