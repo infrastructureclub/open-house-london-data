@@ -64,6 +64,12 @@ for date, locations in dates.items():
                 if not end or event_end > end:
                     end = event_end
 
+                break
+
+        else:
+            # No events, this must be an all_week thing
+            fully_booked = "Unknown"
+
         start_time = None
         end_time = None
         if start and end:
