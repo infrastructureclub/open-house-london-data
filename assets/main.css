@@ -14,19 +14,12 @@ body {
   color: #dee;
 }
 
-.mapboxgl-popup-content {
-  color: rgb(0, 82, 81);
-  font-size: 12pt;
-}
 
-.mapboxgl-popup-content dl {
-  display: grid;
-  grid-template: auto / 6em 1fr;
-  margin: 0;
-}
-
-.mapboxgl-popup-content a {
-  display: block;
+footer {
+  z-index: 1;
+  font-size: 10pt;
+  padding: 0 1ex;
+  text-align: right;
 }
 
 footer a, .mapboxgl-popup-content a {
@@ -35,18 +28,8 @@ footer a, .mapboxgl-popup-content a {
   color: inherit;
 }
 
-.mapboxgl-popup-content a:hover {
-  color: rgb(0, 40, 40);
-}
-
 footer a:hover {
   color: #fff;
-}
-
-footer {
-  font-size: 10pt;
-  margin: auto 1ex;
-  text-align: right;
 }
 
 footer ul {
@@ -61,6 +44,11 @@ footer ul li:not(:first-child)::before {
   content: "| ";
 }
 
+
+header {
+  z-index: 1;
+  box-shadow: 0 0 0.4ex #000;
+}
 
 header form {
   padding: 0.3ex 0.5em;
@@ -78,6 +66,7 @@ fieldset {
   form {
     text-align: center;
   }
+
   fieldset:first-child {
     display: block;
     text-align: center;
@@ -99,6 +88,11 @@ fieldset {
   fieldset:not(:first-child) .options {
     padding-top: 0.2ex;
   }
+
+  .report-bug {
+    display: none;
+  }
+
 }
 
 .options {
@@ -181,6 +175,26 @@ fieldset {
   border-right-color: #242 !important;
 }
 
+
+.mapboxgl-popup-content {
+  color: rgb(0, 82, 81);
+  font-size: 12pt;
+}
+
+.mapboxgl-popup-content dl {
+  display: grid;
+  grid-template: auto / 6em 1fr;
+  margin: 0;
+}
+
+.mapboxgl-popup-content a {
+  display: block;
+}
+
+.mapboxgl-popup-content a:hover {
+  color: rgb(0, 40, 40);
+}
+
 .mapboxgl-popup-content,
 .mapboxgl-popup-content p,
 .mapboxgl-popup-content dl {
@@ -202,6 +216,7 @@ fieldset {
 .mapboxgl-popup-content .cm-link img {
   height: 39px;
 }
+
 
 .not-ready form {
   display: none;
