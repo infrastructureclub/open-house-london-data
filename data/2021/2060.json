@@ -192,11 +192,11 @@
             "capacity": 100,
             "date": "2021-09-12",
             "end": "2021-09-12T17:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Open House",
             "notes": null,
             "start": "2021-09-12T16:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -257,5 +257,5 @@
     },
     "name": "Argentine Ambassador's Residence ",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/2060",
-    "ticketed_events": true
+    "ticketed_events": false
 }

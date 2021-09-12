@@ -106,11 +106,11 @@
             "capacity": 20,
             "date": "2021-09-12",
             "end": "2021-09-12T16:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Architectural Tour",
             "notes": null,
             "start": "2021-09-12T16:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -202,5 +202,5 @@
     },
     "name": "Estorick Collection of Modern Italian Art ",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/7787",
-    "ticketed_events": true
+    "ticketed_events": false
 }
