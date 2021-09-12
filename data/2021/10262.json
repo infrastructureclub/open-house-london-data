@@ -68,27 +68,27 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/12717/bookings",
+            "booking_link": null,
             "capacity": 20,
             "date": "2021-09-12",
             "end": "2021-09-12T12:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Tour by architect",
             "notes": "No disabled access in bar area.",
             "start": "2021-09-12T11:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/12718/bookings",
+            "booking_link": null,
             "capacity": 20,
             "date": "2021-09-12",
             "end": "2021-09-12T13:15:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Tour by architect",
             "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-12T12:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -161,5 +161,5 @@
     },
     "name": "Lexi Cinema",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10262",
-    "ticketed_events": true
+    "ticketed_events": false
 }

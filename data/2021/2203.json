@@ -35,11 +35,11 @@
             "capacity": 10,
             "date": "2021-09-12",
             "end": "2021-09-12T11:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Guided Tour",
             "notes": null,
             "start": "2021-09-12T10:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -47,11 +47,11 @@
             "capacity": 10,
             "date": "2021-09-12",
             "end": "2021-09-12T11:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Guided Tour",
             "notes": null,
             "start": "2021-09-12T11:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -59,11 +59,11 @@
             "capacity": 10,
             "date": "2021-09-12",
             "end": "2021-09-12T12:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Guided Tour",
             "notes": null,
             "start": "2021-09-12T11:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -71,11 +71,11 @@
             "capacity": 10,
             "date": "2021-09-12",
             "end": "2021-09-12T12:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Guided Tour",
             "notes": null,
             "start": "2021-09-12T12:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "all_day": false,
@@ -127,11 +127,11 @@
         },
         {
             "all_day": false,
-            "booking_link": null,
+            "booking_link": "https://openhouselondon.open-city.org.uk/events/12468/bookings",
             "capacity": 10,
             "date": "2021-09-12",
             "end": "2021-09-12T15:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": null,
             "start": "2021-09-12T14:30:00+01:00",

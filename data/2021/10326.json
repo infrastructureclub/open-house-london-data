@@ -123,11 +123,11 @@
             "capacity": 25,
             "date": "2021-09-12",
             "end": "2021-09-12T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Underline Discovery Sessions – Isle of Dogs Past to Present Guided Walking Tour",
             "notes": "Walking tour with blue badge guide talking about the past, present and future of the area. Please contact lbth.regeneration@towerhamlets.gov.uk for clarifications or further information.",
             "start": "2021-09-12T11:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -179,5 +179,5 @@
     },
     "name": "DLR Underline Discovery Sessions",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10326",
-    "ticketed_events": true
+    "ticketed_events": false
 }

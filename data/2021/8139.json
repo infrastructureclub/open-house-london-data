@@ -57,15 +57,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11577/bookings",
+            "booking_link": null,
             "capacity": 20,
             "date": "2021-09-12",
             "end": "2021-09-12T13:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Worship Service",
             "notes": null,
             "start": "2021-09-12T11:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -127,5 +127,5 @@
     },
     "name": "Westbourne Park Baptist Church",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/8139",
-    "ticketed_events": true
+    "ticketed_events": false
 }

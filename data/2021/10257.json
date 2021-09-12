@@ -36,15 +36,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11830/bookings",
+            "booking_link": null,
             "capacity": 10,
             "date": "2021-09-12",
             "end": "2021-09-12T18:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Sunday visiting time",
             "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-12T11:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -173,5 +173,5 @@
     },
     "name": "186A Uxbridge Road",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10257",
-    "ticketed_events": true
+    "ticketed_events": false
 }

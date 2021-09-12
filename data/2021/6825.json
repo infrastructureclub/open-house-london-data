@@ -33,11 +33,11 @@
             "capacity": 16,
             "date": "2021-09-12",
             "end": "2021-09-12T17:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Tour of the School",
             "notes": null,
             "start": "2021-09-12T11:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -97,5 +97,5 @@
     },
     "name": "The School of Historical Dress",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/6825",
-    "ticketed_events": true
+    "ticketed_events": false
 }

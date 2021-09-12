@@ -48,15 +48,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/12843/bookings",
+            "booking_link": null,
             "capacity": null,
             "date": "2021-09-12",
             "end": "2021-09-12T17:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Markfield Beam and Engine Museum",
             "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-12T11:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -118,5 +118,5 @@
     },
     "name": "Markfield Beam Engine and House",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/1041",
-    "ticketed_events": true
+    "ticketed_events": false
 }
