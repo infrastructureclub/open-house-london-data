@@ -83,7 +83,7 @@ for date, locations in sorted(dates.items()):
         # If someone uses the same lat/lon for multiple venues in the same
         # building only one of them will show up in most geojson renderers, so
         # we add a small amount to the longitude to avoid this
-        if "%s,%s" % (lat, lon) in seen_latlons:
+        while "%s,%s" % (lat, lon) in seen_latlons:
             lon = lon + 0.0001
         seen_latlons.add("%s,%s" % (lat, lon))
 
