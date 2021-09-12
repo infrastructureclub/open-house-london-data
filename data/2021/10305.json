@@ -109,15 +109,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/12178/bookings",
+            "booking_link": null,
             "capacity": 30,
             "date": "2021-09-12",
             "end": "2021-09-12T22:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "The Story Kitchen",
             "notes": "In stories, myths and legends, the public house or inn has often been a place where the narrative arc is disrupted, where meetings with strangers lead to unforeseen twists and turns in the weaving of the tale. Not so long ago, the Steamship was a pub, and before that an inn. We invite you to our evening of soup and stories where we’ll be breaking bread, setting the soup to simmer, and listening to a host of songsters, spoken word artists, poets and storytellers. In what used to be the main room of the pub, where many tall tales were once told, we invite you to pull up a stool, listen, and maybe even tell a story or two of your own...",
             "start": "2021-09-12T18:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -193,5 +193,5 @@
     },
     "name": "The Steamship Project Space ",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10305",
-    "ticketed_events": true
+    "ticketed_events": false
 }
