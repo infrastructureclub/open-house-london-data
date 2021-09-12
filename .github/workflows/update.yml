@@ -18,15 +18,33 @@ jobs:
           python -u generate-csv-summary.py
           python -u generate-maps.py
 
-          git config --global user.email "bot@jonty.co.uk"
-          git config --global user.name "OH London update GHA"
+          mv data data.new
+          mv csv csv.new
+          mv maps maps.new
+
+          git checkout data
+          git checkout csv
+          git checkout maps
+
+          git pull --ff-only
+
+          rm -rf data
+          rm -rf csv
+          rm -rf maps
+
+          mv data.new data
+          mv csv.new csv
+          mv maps.new maps
 
           git add data
           git add csv
           git add maps
+
+          git config --global user.email "bot@jonty.co.uk"
+          git config --global user.name "OH London update GHA"
+
           git commit -m "Automatic OH London data update"
 
-          git pull --rebase
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
