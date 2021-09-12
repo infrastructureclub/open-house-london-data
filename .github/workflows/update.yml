@@ -43,7 +43,8 @@ jobs:
           git config --global user.email "bot@jonty.co.uk"
           git config --global user.name "OH London update GHA"
 
-          git commit -m "Automatic OH London data update"
+          # || true means this won't error when there's nothing to commit
+          git commit -m "Automatic OH London data update" || true
 
       - name: Push changes
         uses: ad-m/github-push-action@master
