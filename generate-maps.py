@@ -29,7 +29,7 @@ for filename in os.listdir(data_path):
         dates["all_week"].append(data)
 
 
-for date, locations in dates.items():
+for date, locations in sorted(dates.items()):
     print("Writing %s..." % date)
 
     kml = simplekml.Kml()
