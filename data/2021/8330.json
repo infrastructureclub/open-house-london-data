@@ -31,15 +31,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/10899/bookings",
+            "booking_link": null,
             "capacity": 10,
             "date": "2021-09-12",
             "end": "2021-09-12T18:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Open Studio",
             "notes": null,
             "start": "2021-09-12T10:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -184,5 +184,5 @@
     },
     "name": "Cut Glass Studio Ltd, Tottenham Hale",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/8330",
-    "ticketed_events": true
+    "ticketed_events": false
 }

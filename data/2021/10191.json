@@ -128,15 +128,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/12011/bookings",
+            "booking_link": null,
             "capacity": 50,
             "date": "2021-09-12",
             "end": "2021-09-12T17:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Explore the Ripple Greenway",
             "notes": "Ripple Greenway is a public park with free access for all at any time.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-12T10:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -269,5 +269,5 @@
     },
     "name": "Ripple Greenway and the Lost Words Art Trail",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10191",
-    "ticketed_events": true
+    "ticketed_events": false
 }

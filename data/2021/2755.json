@@ -20,15 +20,15 @@
     "events": [
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/11991/bookings",
+            "booking_link": null,
             "capacity": null,
             "date": "2021-09-12",
             "end": "2021-09-12T16:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Opening Bushy House and Gardens",
             "notes": "Bushy House and gardens will be open to the public between 10:00 am to 4:30pm. Science demonstrations will be running between 11:00 am and 4:00 pm (weather permitting). Refreshments will be provided by a local scout group.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-12T10:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -128,5 +128,5 @@
     },
     "name": "Bushy House",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/2755",
-    "ticketed_events": true
+    "ticketed_events": false
 }
