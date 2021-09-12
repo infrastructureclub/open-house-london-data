@@ -43,15 +43,15 @@
         },
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/10975/bookings",
+            "booking_link": null,
             "capacity": null,
             "date": "2021-09-12",
             "end": "2021-09-12T17:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "Open, no teas available",
             "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
             "start": "2021-09-12T14:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -126,5 +126,5 @@
     },
     "name": "Carshalton Water Tower and Historic Gardens",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/3745",
-    "ticketed_events": true
+    "ticketed_events": false
 }

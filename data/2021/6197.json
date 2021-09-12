@@ -28,15 +28,15 @@
     "events": [
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/12150/bookings",
+            "booking_link": null,
             "capacity": 25,
             "date": "2021-09-12",
             "end": "2021-09-12T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "A walking tour of the University of Roehampton, Roehampton Lane Campus",
             "notes": "There will be one tour at 2 pm. Meet at the University's main entrance, Roehampton Lane",
             "start": "2021-09-12T14:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -139,5 +139,5 @@
     },
     "name": "Roehampton University- Digby Stuart campus",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/6197",
-    "ticketed_events": true
+    "ticketed_events": false
 }

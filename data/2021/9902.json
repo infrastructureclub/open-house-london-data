@@ -35,11 +35,11 @@
             "capacity": 6,
             "date": "2021-09-12",
             "end": "2021-09-12T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Visit hosted by client and architect",
             "notes": "All visitors to wear a face mask please",
             "start": "2021-09-12T13:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -161,5 +161,5 @@
     },
     "name": "Hedge Lane",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/9902",
-    "ticketed_events": true
+    "ticketed_events": false
 }

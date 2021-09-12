@@ -17,11 +17,11 @@
             "capacity": 20,
             "date": "2021-09-12",
             "end": "2021-09-12T16:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Human scale housing: East London cycle tour",
             "notes": null,
             "start": "2021-09-12T14:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -64,5 +64,5 @@
     },
     "name": "Human scale housing: East London cycle tour",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10399",
-    "ticketed_events": true
+    "ticketed_events": false
 }
