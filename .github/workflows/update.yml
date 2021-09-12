@@ -22,9 +22,9 @@ jobs:
           mv csv csv.new
           mv maps maps.new
 
-          git checkout data
-          git checkout csv
-          git checkout maps
+          git checkout -- data
+          git checkout -- csv
+          git checkout -- maps
 
           git pull --ff-only
 
