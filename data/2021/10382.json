@@ -65,11 +65,11 @@
             "capacity": 12,
             "date": "2021-09-12",
             "end": "2021-09-12T19:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Wellbeing Walk: South Kensington",
             "notes": null,
             "start": "2021-09-12T18:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -118,5 +118,5 @@
     },
     "name": "Wellbeing Walk: South Kensington",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10382",
-    "ticketed_events": true
+    "ticketed_events": false
 }
