@@ -348,11 +348,11 @@
             "capacity": 10,
             "date": "2021-09-12",
             "end": "2021-09-12T17:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Tour of POSK Centre",
             "notes": "Face mask requested",
             "start": "2021-09-12T16:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -452,5 +452,5 @@
     },
     "name": "Polish Social and Cultural Association",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/7272",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -360,11 +360,11 @@
             "capacity": 15,
             "date": "2021-09-12",
             "end": "2021-09-12T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "38 Grosvenor Square Tour",
             "notes": null,
             "start": "2021-09-12T15:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -427,5 +427,5 @@
     },
     "name": "38 Grosvenor Square",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10266",
-    "ticketed_events": true
+    "ticketed_events": false
 }
