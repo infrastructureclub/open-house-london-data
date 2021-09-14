@@ -282,4 +282,4 @@ for building in buildings:
         f.write(json.dumps(data, indent=4, sort_keys=True, separators=(",", ": "), ensure_ascii=False))
 
     # 4s appears to avoid the rate limiting, but let's give ourselves some headroom
-    time.sleep(5)
+    time.sleep(6)
