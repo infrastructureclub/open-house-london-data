@@ -11,7 +11,7 @@ Things you can use
 * Per-day venue maps in both [GeoJSON](maps/2021/geojson) & [KML](maps/2021/kml) format in the [maps/2021 directory](maps/2021). You can [view the GeoJSON maps directly](maps/2021/geojson/2021-09-11.geojson).
 
 **Things to note:**
-* All the venue images are stored in a different repository to avoid bloating this one. Find them here: https://github.com/Jonty/open-house-london-images
+* All the venue images are stored in a different repository. Find them here: https://github.com/Jonty/open-house-london-images
 * This attempts to detect if events are ticketed, both on an event (`ticketed`) and a listing (`ticketed_events`) basis
 * Some venues have no events and are open all week, see the `all_week` field
 * Some events run all day, and have 00:00-23:59 as times for convenience, but also an `all_day` field
