@@ -28,7 +28,9 @@ for building in buildings:
     count += 1
     print("Fetching %s/%s - %s" % (count, len(buildings), building))
 
-    original_url = "https://openhouselondon.open-city.org.uk/listings/%s" % building["id"]
+    original_url = (
+        "https://openhouselondon.open-city.org.uk/listings/%s" % building["id"]
+    )
     response = requests.get(original_url)
     if response.content == b"Retry later\n":
         print("Hit rate limiting, cannot continue")
@@ -83,6 +85,16 @@ for building in buildings:
                     "title": image_nodes[0].attrib["alt"],
                     "description": None,
                 }
+            )
+
+    # Images are fetched and stored by https://github.com/Jonty/open-house-london-images
+    for image in data["images"]:
+        image["archive_url"] = None
+        # For some baffling reason some of the images refer to a broken relative path
+        if image["url"].startswith("http"):
+            image["archive_url"] = (
+                "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/%s/%s/%s"
+                % (year, building["id"], os.path.basename(image["url"]))
             )
 
     # Address
@@ -168,7 +180,9 @@ for building in buildings:
     if not events_nodes:
         data["all_week"] = True
     else:
-        for date_node, events_node in zip(events_nodes[0].xpath(".//dt"), events_nodes[0].xpath(".//dd")):
+        for date_node, events_node in zip(
+            events_nodes[0].xpath(".//dt"), events_nodes[0].xpath(".//dd")
+        ):
             for event_node in events_node.xpath(".//div[@class='event']"):
 
                 name = (
@@ -179,7 +193,9 @@ for building in buildings:
 
                 # They removed all the nice event-time/event-capacity/event-note
                 # classes and merged them all into the same class :'(
-                detail_nodes = event_node.xpath(".//div[contains(@class, 'event-detail')]/i")
+                detail_nodes = event_node.xpath(
+                    ".//div[contains(@class, 'event-detail')]/i"
+                )
                 time_node = detail_nodes.pop(0)
                 timeslot = time_node.tail.replace("Time:", "").strip()
                 if "All-day" in timeslot:
@@ -192,15 +208,21 @@ for building in buildings:
 
                 capacity = None
                 if detail_nodes:
-                    capacity = int(detail_nodes[0].tail.replace("Capacity:", "").strip())
+                    capacity = int(
+                        detail_nodes[0].tail.replace("Capacity:", "").strip()
+                    )
 
-                details_nodes = event_node.xpath(".//div[contains(@class, 'event-details')]")
+                details_nodes = event_node.xpath(
+                    ".//div[contains(@class, 'event-details')]"
+                )
                 notes = None
                 if len(details_nodes) == 2:
                     notes = details_nodes[1].text_content().strip()
 
                 date = parser.parse(date_node.text_content()).date()
-                start_datetime = parser.parse(date_node.text_content() + " " + start_time)
+                start_datetime = parser.parse(
+                    date_node.text_content() + " " + start_time
+                )
                 start_datetime = timezone.localize(start_datetime)
                 end_datetime = parser.parse(date_node.text_content() + " " + end_time)
                 end_datetime = timezone.localize(end_datetime)
@@ -278,8 +300,16 @@ for building in buildings:
         data["ticketed_events"] = True
 
     os.makedirs("data/%s" % year, exist_ok=True)
-    with open("data/%s/%s.json" % (year, data["id"]), "w", encoding='utf8') as f:
-        f.write(json.dumps(data, indent=4, sort_keys=True, separators=(",", ": "), ensure_ascii=False))
+    with open("data/%s/%s.json" % (year, data["id"]), "w", encoding="utf8") as f:
+        f.write(
+            json.dumps(
+                data,
+                indent=4,
+                sort_keys=True,
+                separators=(",", ": "),
+                ensure_ascii=False,
+            )
+        )
 
     # 4s appears to avoid the rate limiting, but let's give ourselves some headroom
     time.sleep(6)
