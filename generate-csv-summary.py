@@ -47,7 +47,7 @@ for date, locations in dates.items():
         writer = csv.writer(f)
         writer.writerow(header)
 
-        for location in locations:
+        for location in sorted(locations, key=lambda x: x["name"]):
             fully_booked = True
             start = None
             end = None
