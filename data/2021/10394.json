@@ -17,11 +17,11 @@
             "capacity": 20,
             "date": "2021-09-19",
             "end": "2021-09-19T12:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": null,
             "name": "Walking the Strand: Power, wealth and empire",
             "notes": null,
             "start": "2021-09-19T10:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [],
@@ -62,5 +62,5 @@
     },
     "name": "Walking the Strand: Power, wealth and empire",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10394",
-    "ticketed_events": true
+    "ticketed_events": false
 }
