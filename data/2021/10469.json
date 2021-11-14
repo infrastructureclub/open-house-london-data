@@ -14,15 +14,15 @@
     "events": [
         {
             "all_day": false,
-            "booking_link": "https://openhouselondon.open-city.org.uk/events/12874/bookings",
+            "booking_link": null,
             "capacity": 50,
             "date": "2021-11-13",
             "end": "2021-11-13T16:00:00+00:00",
-            "fully_booked": false,
+            "fully_booked": null,
             "name": "The Londown Live",
             "notes": null,
             "start": "2021-11-13T15:00:00+00:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -78,5 +78,5 @@
     },
     "name": "The Londown Live with Nana Biamah-Ofosu and Hettie O’Brien",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/10469",
-    "ticketed_events": true
+    "ticketed_events": false
 }
