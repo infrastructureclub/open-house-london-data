@@ -30,7 +30,13 @@
             "ticketed": false
         }
     ],
-    "facilities": [],
+    "facilities": [
+        [
+            "Parking",
+            "Disabled access",
+            "Bookshop"
+        ]
+    ],
     "factsheet": [
         {
             "heading": "History of the Villa House",
@@ -102,8 +108,8 @@
     ],
     "location": {
         "address": "Crofton Road, Orpington, BR6 8AF",
-        "latitude": 51.37288,
-        "longitude": 0.0851611,
+        "latitude": 51.3726172,
+        "longitude": 0.0850865,
         "meeting_point": null,
         "travel_info": [
             "Nearest train: Orpington",
