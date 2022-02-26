@@ -20,17 +20,17 @@
             }
         ],
         "periods": [
-            "Victorian",
-            "Historical/contemporary"
+            "Historical/contemporary",
+            "Victorian"
         ],
         "types": [
-            "Mixed use",
-            "Community/cultural",
-            "Garden",
-            "Public realm/landscape",
-            "Walk/tour",
+            "Health",
             "Housing",
-            "Health"
+            "Walk/tour",
+            "Public realm/landscape",
+            "Garden",
+            "Community/cultural",
+            "Mixed use"
         ]
     },
     "events": [
@@ -61,8 +61,8 @@
     ],
     "facilities": [
         [
-            "Disabled access",
-            "Refreshments"
+            "Refreshments",
+            "Disabled access"
         ]
     ],
     "factsheet": [
@@ -148,9 +148,9 @@
         "longitude": -0.0894036,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Manor House, Seven Sisters",
+            "Nearest tube: Seven Sisters, Manor House",
             "Nearest train: Harringay Green Lanes",
-            "Bus routes: 29, 67, 341"
+            "Bus routes: 341, 67, 29"
         ]
     },
     "name": "St. Ann's Hospital",

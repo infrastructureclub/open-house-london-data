@@ -10,16 +10,16 @@
             }
         ],
         "periods": [
-            "Post-war",
             "Inter-war",
+            "Post-war",
             "Historical/contemporary"
         ],
         "types": [
-            "Museum",
-            "Housing",
             "Historical house",
-            "Education",
-            "Library"
+            "Housing",
+            "Museum",
+            "Library",
+            "Education"
         ]
     },
     "events": [
@@ -38,12 +38,12 @@
     ],
     "facilities": [
         [
-            "Toilets",
-            "Refreshments",
-            "Photography is not permitted on site",
-            "Parking",
+            "Bookshop",
             "Disabled access",
-            "Bookshop"
+            "Parking",
+            "Photography is not permitted on site",
+            "Refreshments",
+            "Toilets"
         ]
     ],
     "factsheet": [
@@ -72,7 +72,7 @@
         "travel_info": [
             "Nearest tube: Becontree",
             "Nearest train: Chadwell Heath",
-            "Bus routes: EL2, 5, 62"
+            "Bus routes: 62, 5, EL2"
         ]
     },
     "name": "Becontree Estate: Archive",

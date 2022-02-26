@@ -13,12 +13,12 @@
             "Historical/contemporary"
         ],
         "types": [
-            "Theatre",
-            "Entertainment",
-            "Community/cultural",
-            "Civic",
             "Concert/performance space",
-            "Education"
+            "Education",
+            "Civic",
+            "Community/cultural",
+            "Entertainment",
+            "Theatre"
         ]
     },
     "events": [
@@ -157,8 +157,8 @@
     ],
     "facilities": [
         [
-            "Disabled access",
-            "Architect on site"
+            "Architect on site",
+            "Disabled access"
         ]
     ],
     "factsheet": [
@@ -245,9 +245,9 @@
         "longitude": -0.1224606,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Caledonian Road, Tufnell Park, Arsenal, Holloway Road",
+            "Nearest tube: Holloway Road, Arsenal, Tufnell Park, Caledonian Road",
             "Nearest train: Upper Holloway",
-            "Bus routes: 4, 153, 271, 263, 43"
+            "Bus routes: 43, 263, 271, 153, 4"
         ]
     },
     "name": "National Youth Theatre",

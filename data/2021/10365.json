@@ -13,12 +13,12 @@
             "Historical/contemporary"
         ],
         "types": [
-            "Restaurant/bar",
-            "Gallery",
-            "Concert/performance space",
-            "Cinema",
+            "Community/cultural",
             "Entertainment",
-            "Community/cultural"
+            "Cinema",
+            "Concert/performance space",
+            "Gallery",
+            "Restaurant/bar"
         ]
     },
     "events": [
@@ -37,10 +37,10 @@
     ],
     "facilities": [
         [
-            "Toilets",
-            "Refreshments",
+            "Disabled access",
             "Parking",
-            "Disabled access"
+            "Refreshments",
+            "Toilets"
         ]
     ],
     "factsheet": [
@@ -88,9 +88,9 @@
         "longitude": -0.2984605,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Northfields, Richmond",
-            "Nearest train: Brentford, Kew Bridge",
-            "Bus routes: 65, 237, 267"
+            "Nearest tube: Richmond, Northfields",
+            "Nearest train: Kew Bridge, Brentford",
+            "Bus routes: 267, 237, 65"
         ]
     },
     "name": "Watermans",

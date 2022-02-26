@@ -13,11 +13,11 @@
             "Historical/contemporary"
         ],
         "types": [
-            "Event",
-            "Entertainment",
-            "Concert/performance space",
+            "Museum",
             "Community/cultural",
-            "Museum"
+            "Concert/performance space",
+            "Entertainment",
+            "Event"
         ]
     },
     "events": [
@@ -48,9 +48,9 @@
     ],
     "facilities": [
         [
-            "Toilets",
+            "Disabled access",
             "Refreshments",
-            "Disabled access"
+            "Toilets"
         ]
     ],
     "factsheet": [
@@ -108,7 +108,7 @@
         "travel_info": [
             "Nearest tube: Gunnersbury",
             "Nearest train: Kew Bridge",
-            "Bus routes: 267, 237, 65"
+            "Bus routes: 65, 237, 267"
         ]
     },
     "name": "The Musical Museum",

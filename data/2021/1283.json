@@ -21,14 +21,14 @@
             "Victorian"
         ],
         "types": [
-            "Art in the public realm",
-            "Public realm/landscape",
             "Historical house",
             "Gallery",
             "Museum",
             "Community/cultural",
             "Garden",
-            "Walk/tour"
+            "Walk/tour",
+            "Public realm/landscape",
+            "Art in the public realm"
         ]
     },
     "events": [
@@ -47,11 +47,11 @@
     ],
     "facilities": [
         [
-            "Refreshments",
             "Bookshop",
             "Parking",
             "Toilets",
-            "Disabled access"
+            "Disabled access",
+            "Refreshments"
         ]
     ],
     "factsheet": [
@@ -127,7 +127,7 @@
         "meeting_point": null,
         "travel_info": [
             "Nearest tube: Richmond",
-            "Nearest train: Richmond, Twickenham, St.Margaret's (Greater London)",
+            "Nearest train: Twickenham, St.Margaret's (Greater London), Richmond",
             "Bus routes: 33, 490, H22, R68, R70"
         ]
     },
