@@ -36,7 +36,11 @@
             "ticketed": true
         }
     ],
-    "facilities": [],
+    "facilities": [
+        [
+            "Toilets"
+        ]
+    ],
     "factsheet": [
         {
             "heading": "Introduction",
@@ -65,7 +69,7 @@
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2021/6151/building_6151_external-2_df08c8f57fc30ac08bd0838bb83d5e0c.jpg",
             "description": "",
-            "title": "",
+            "title": "20 Cavendish Square today",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6151_external-2_df08c8f57fc30ac08bd0838bb83d5e0c.jpg"
         },
         {
@@ -77,15 +81,21 @@
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2021/6151/building_6151_4007_593b62f18c0e99ec1d46fbaa406859ee.jpg",
             "description": "",
-            "title": "",
+            "title": "The front of 20 Cavendish Square today",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6151_4007_593b62f18c0e99ec1d46fbaa406859ee.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2021/6151/building_6151_rcn-historic-staircase_c04074a42f150a704e40fad6819c55aa.jpg",
+            "description": "",
+            "title": "Mural painted staircase",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6151_rcn-historic-staircase_c04074a42f150a704e40fad6819c55aa.jpg"
         }
     ],
     "links": [],
     "location": {
         "address": "20 Cavendish Square, W1G 0RN",
-        "latitude": 51.5160156,
-        "longitude": -0.1458953,
+        "latitude": 51.5160929,
+        "longitude": -0.1457657,
         "meeting_point": null,
         "travel_info": [
             "Nearest tube: Oxford Circus, Bond Street",
