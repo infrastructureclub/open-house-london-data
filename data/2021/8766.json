@@ -4,15 +4,25 @@
     "design": {
         "designers": [
             {
-                "architect": "Westcombe Group",
+                "architect": "Albert W Moore",
                 "description": "Original design",
-                "year": "2002"
+                "year": "1930"
+            },
+            {
+                "architect": "Lifschutz Davidson Sandilands",
+                "description": "Refurbishment",
+                "year": "1990"
             }
         ],
         "periods": [
-            "Victorian"
+            "Historical/contemporary"
         ],
         "types": [
+            "Public realm/landscape",
+            "Restaurant/bar",
+            "Retail",
+            "Gallery",
+            "Community/cultural",
             "Art studio",
             "Education",
             "Industrial"
@@ -212,17 +222,16 @@
         }
     ],
     "location": {
-        "address": "50 Chocolate Studios, 7 Shepherdess Place, N1 7LJ",
-        "latitude": 51.5285506,
-        "longitude": -0.0907533,
+        "address": "Unit 1.20 Oxo Tower Wharf, Bargehouse Street , SE1 9PH",
+        "latitude": 51.5083463,
+        "longitude": -0.1082762,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Old Street, Angel",
-            "Nearest train: Liverpool Street, King's Cross",
-            "Bus routes: 243, 43, 55, 76"
+            "Nearest tube: Embankment, Southwark, Blackfriars, Temple, Waterloo",
+            "Nearest train: Charing Cross, Waterloo"
         ]
     },
-    "name": "Carreducker at 50 Chocolate Studios",
+    "name": "1.20 Oxo Tower Wharf",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/8766",
     "ticketed_events": true
 }
