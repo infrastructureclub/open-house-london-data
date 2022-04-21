@@ -31,7 +31,11 @@
             "ticketed": true
         }
     ],
-    "facilities": [],
+    "facilities": [
+        [
+            "Toilets"
+        ]
+    ],
     "factsheet": [
         {
             "heading": "Architectural design",
@@ -84,6 +88,12 @@
             "description": "",
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8904_img_20210709_134904055_f1ec86e6702356c6c537af9ba9179828.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2021/8904/building_8904_img_20210904_131151163_60da5abe1b2e4a96cf87603b6ad5b74a.jpg",
+            "description": "Thames Water · 2021",
+            "title": "Open House 2021",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8904_img_20210904_131151163_60da5abe1b2e4a96cf87603b6ad5b74a.jpg"
         }
     ],
     "links": [
@@ -94,8 +104,8 @@
     ],
     "location": {
         "address": "63 Conyers Road, Lambeth, SW16 6LR",
-        "latitude": 51.4238917,
-        "longitude": -0.1372265,
+        "latitude": 51.4223682,
+        "longitude": -0.1371853,
         "meeting_point": null,
         "travel_info": [
             "Nearest tube: Tooting Bec, Tooting Broadway",
