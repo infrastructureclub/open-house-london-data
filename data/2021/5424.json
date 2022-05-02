@@ -18,6 +18,9 @@
             "Historical/contemporary"
         ],
         "types": [
+            "Industrial",
+            "Walk/tour",
+            "Bridge",
             "Public realm/landscape",
             "Community/cultural",
             "Art in the public realm",
@@ -105,7 +108,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5424_img-3204_143cb1f1cb787b87cf4e22af49765b78.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://codydock.org.uk/",
+            "title": "Website"
+        }
+    ],
     "location": {
         "address": "11c South Crescent, Canning Town, E16 4TL",
         "latitude": 51.5203867,
