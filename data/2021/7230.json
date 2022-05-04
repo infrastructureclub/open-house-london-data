@@ -32,7 +32,12 @@
             "ticketed": false
         }
     ],
-    "facilities": [],
+    "facilities": [
+        [
+            "Toilets",
+            "Disabled access"
+        ]
+    ],
     "factsheet": [
         {
             "heading": "History of the Museum",
@@ -65,8 +70,8 @@
     ],
     "location": {
         "address": "66 East Smithfield, E1W 1AW",
-        "latitude": 51.5089826,
-        "longitude": -0.0684089,
+        "latitude": 51.5089904,
+        "longitude": -0.0684059,
         "meeting_point": null,
         "travel_info": [
             "Nearest tube: Tower Hill, Tower Gateway",
