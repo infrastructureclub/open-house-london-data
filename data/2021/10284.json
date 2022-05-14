@@ -24,12 +24,22 @@
             "ticketed": true
         }
     ],
-    "facilities": [],
+    "facilities": [
+        [
+            "Disabled access"
+        ]
+    ],
     "factsheet": [
         {
             "heading": "History",
             "paragraphs": [
                 "Founded originally as Kingston-upon-railway during the Industrial Revolution, Surbiton possesses a mixture of grand 19 century townhouses and Art Deco courts."
+            ]
+        },
+        {
+            "heading": "Booking",
+            "paragraphs": [
+                "Please book the walk with www.kingstontourguides.org.uk and clicking on the walk date.\nThanks"
             ]
         }
     ],
@@ -57,8 +67,8 @@
     "links": [],
     "location": {
         "address": "Surbiton station , Victoria road, KT6 4PE",
-        "latitude": 51.392466,
-        "longitude": -0.3039356,
+        "latitude": 51.3925568,
+        "longitude": -0.3044465,
         "meeting_point": "Meet in the forecourt of Surbiton station",
         "travel_info": [
             "Nearest train: Surbiton",
