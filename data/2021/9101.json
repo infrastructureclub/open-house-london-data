@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "StreetGym® is a one hour, circular urban adventure where we jog from workstation to workstation.  A workstation is an item of street furniture, gradient or architectural feature where we perform bodyweight exercises.",
+    "description": "StreetGym® is a one hour, mind/body urban physical adventure where we jog from workstation to workstation.  A workstation is an item of street furniture, gradient or architectural feature where we perform bodyweight based exercises.",
     "design": {
         "designers": [
             {
@@ -45,16 +45,20 @@
             "ticketed": false
         }
     ],
-    "facilities": [],
+    "facilities": [
+        [
+            "Toilets"
+        ]
+    ],
     "factsheet": [
         {
             "heading": "The Plan",
             "paragraphs": [
-                "Welcome to the StreetGym®, the original urban adventure.  You’ll be jogging in a circular route, from workstation to workstation.  A workstation is an architectural feature, item of street furniture or gradient where you’ll be performing bodyweight exercises.",
-                "Expect to see the city in a very different light.  We’ll be working out and exploring hidden parts of London too.  StreetGym® isn’t just a physical workout, it’s a workout for the brain.",
+                "Welcome to StreetGym®, the original urban adventure.  You’ll be jogging in a circular route, from workstation to workstation.  A workstation is an architectural feature, item of street furniture or gradient where you’ll be performing bodyweight based exercises.",
+                "Expect to see the city in a very different light.  We’ll be working out and exploring hidden London too.  Your mind as well as your body will get a workout during this one hour session.",
                 "You should ideally be able to light jog for 1.5 to 2 miles.",
                 "No special clothing is required, all you need is clothing suitable for the weather conditions and for running in urban terrain.",
-                "You will be asked to complete a PAR-Q exercise form prior to taking part in the session** and we’d also recommend that you bring a bottle of water, hand sanitiser and wear gloves in view of the current situation.",
+                "You will be asked to complete a PAR-Q exercise form prior to taking part in the session** and we’d also recommend that you bring a small bottle of water with you.",
                 "Please bear in mind that we won’t have a bag drop on the day so minimise valuables/fragile items and have everything you want to bring with you safely stowed in a little daysack, bum bag or similar.  Remember you’ll have to run with everything you’re carrying.",
                 "We take photographs throughout the session and will use them in our social media channels.  If you don’t wish to feature in photographs please let the StreetGym® instructor know prior to the session.  You’ll be most welcome to ask for your own copy of the photos too.",
                 "StreetGym® is run by John Watson Allison, an Army veteran with 24 years of service.  John also runs Motion to Mind™, a holistic wellbeing service.  You can check out his websites here:",
@@ -76,6 +80,30 @@
             "description": "John Watson Allison  · 2020",
             "title": "StreetGym® - Your Street, Your Gym",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9101_3785c6f0-ca62-4d6e-a41f-05c2ad0703cc_cc024821598356443202abed7052c42b.jpeg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2021/9101/building_9101_a7d42260-d547-43be-988f-fab44aa08327_6ab0a12a5e3f9b2bf5d8f692e9ce3b54.jpeg",
+            "description": "John Watson Allison  · 2017",
+            "title": "LFA StreetGym® Fun",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9101_a7d42260-d547-43be-988f-fab44aa08327_6ab0a12a5e3f9b2bf5d8f692e9ce3b54.jpeg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2021/9101/building_9101_c286f407-e4a8-4355-b0ab-ce5e8f3a9812_d5066e513db17124b7df9e4e9d7154ef.jpeg",
+            "description": "John Watson Allison  · 2019",
+            "title": "Working the bar",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9101_c286f407-e4a8-4355-b0ab-ce5e8f3a9812_d5066e513db17124b7df9e4e9d7154ef.jpeg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2021/9101/building_9101_bea03102-4476-4d8b-9e13-c1e7063a0a32_b058294846edbade438f3c4242aa21b0.jpeg",
+            "description": "John Watson Allison  · 2020",
+            "title": "Bar work",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9101_bea03102-4476-4d8b-9e13-c1e7063a0a32_b058294846edbade438f3c4242aa21b0.jpeg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2021/9101/building_9101_fc76fff4-277f-4ab7-a287-0235fbf29c6e_dfd08e607fad53300fd6be11647352e0.jpeg",
+            "description": "John Watson Allison  · 2020",
+            "title": "Rail work ",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9101_fc76fff4-277f-4ab7-a287-0235fbf29c6e_dfd08e607fad53300fd6be11647352e0.jpeg"
         }
     ],
     "links": [
@@ -90,12 +118,12 @@
     ],
     "location": {
         "address": "Millennium Bridge , Southwark, SE1 9TG",
-        "latitude": 51.5076182,
-        "longitude": -0.0993734,
+        "latitude": 51.5086233,
+        "longitude": -0.098594,
         "meeting_point": "We meet at the back end of the Millennium Bridge, on the Tate Modern side.",
         "travel_info": [
-            "Nearest tube: Southwark, St. Paul's",
-            "Nearest train: Cannon Street, Waterloo"
+            "Nearest tube: Blackfriars, Southwark, St. Paul's",
+            "Nearest train: City Thameslink, Blackfriars, Cannon Street"
         ]
     },
     "name": "StreetGym® Urban Adventure ",
