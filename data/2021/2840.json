@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "London's only surviving great Jacobean mansion, set in Charlton Park, red brick with white stone dressings and classic Jacobean styles. Each room has a unique fireplace coupled with beautiful strap work ceilings and original features.",
+    "description": "One of the U.K.'s only surviving Jacobean manor homes, set in Charlton Park, red brick with white stone dressings and classic Jacobean style. Each room has a unique fireplace coupled with beautiful strap work ceilings and original features.",
     "design": {
         "designers": [
             {
@@ -10,6 +10,9 @@
             }
         ],
         "periods": [
+            "Stuart",
+            "Victorian",
+            "Georgian",
             "Historical/contemporary"
         ],
         "types": [
@@ -59,10 +62,10 @@
     ],
     "facilities": [
         [
+            "Family activities during open house festival",
             "Parking",
             "Toilets",
-            "Disabled access",
-            "Refreshments"
+            "Disabled access"
         ]
     ],
     "factsheet": [
@@ -146,7 +149,7 @@
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2021/2840/building_2840_old-pond-garden_9ab3e71e75a22f5ad3f9041d70884eff.jpg",
-            "description": "Jason Carty · 2021",
+            "description": "Jason Sylvan · 2021",
             "title": "The Gardens",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2840_old-pond-garden_9ab3e71e75a22f5ad3f9041d70884eff.jpg"
         },
@@ -159,9 +162,9 @@
     ],
     "links": [],
     "location": {
-        "address": "Royal Greenwich Heritage Trust, Charlton House, Charlton Road,, SE7 8RE",
-        "latitude": 51.4804778,
-        "longitude": 0.0371805,
+        "address": "Charlton House & Gardens, Charlton Road, SE7 8RE",
+        "latitude": 51.4806943,
+        "longitude": 0.0371437,
         "meeting_point": null,
         "travel_info": [
             "Nearest tube: North Greenwich",
@@ -169,7 +172,7 @@
             "Bus routes: 53, 54, 422, 486"
         ]
     },
-    "name": "Charlton House",
+    "name": "Charlton House & Gardens",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/2840",
     "ticketed_events": false
 }
