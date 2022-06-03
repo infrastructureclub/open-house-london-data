@@ -30,7 +30,12 @@
             "ticketed": false
         }
     ],
-    "facilities": [],
+    "facilities": [
+        [
+            "Toilets",
+            "Disabled access"
+        ]
+    ],
     "factsheet": [
         {
             "heading": "History",
@@ -96,8 +101,8 @@
     "links": [],
     "location": {
         "address": "120 Heath Street, Hampstead, NW3 1DR",
-        "latitude": 51.559318,
-        "longitude": -0.1782245,
+        "latitude": 51.559506,
+        "longitude": -0.1780047,
         "meeting_point": null,
         "travel_info": [
             "Nearest tube: Hampstead",
