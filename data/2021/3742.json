@@ -13,6 +13,7 @@
             "Tudor"
         ],
         "types": [
+            "Museum",
             "Historical house"
         ]
     },
@@ -114,7 +115,15 @@
             "ticketed": false
         }
     ],
-    "facilities": [],
+    "facilities": [
+        [
+            "Toilets",
+            "Refreshments",
+            "Parking",
+            "Family activities during open house festival",
+            "Disabled access"
+        ]
+    ],
     "factsheet": [
         {
             "heading": "History",

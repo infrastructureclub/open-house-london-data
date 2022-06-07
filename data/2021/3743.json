@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "Closed for refurbishment. Grade II listed building inspired by the ideals of John Ruskin and William Morris and contains Dickinson's paintings, hand-made furniture, furnishings, metalwork and friezes, in Arts & Crafts style.",
+    "description": "Grade II listed building inspired by the ideals of John Ruskin and William Morris and contains Dickinson's paintings, hand-made furniture, furnishings, metalwork and friezes, in Arts & Crafts style. Reopening after a refurbishment project.",
     "design": {
         "designers": [
             {
@@ -13,8 +13,7 @@
             "Edwardian"
         ],
         "types": [
-            "Historical house",
-            "Online"
+            "Historical house"
         ]
     },
     "events": [
@@ -43,7 +42,11 @@
             "ticketed": false
         }
     ],
-    "facilities": [],
+    "facilities": [
+        [
+            "Toilets"
+        ]
+    ],
     "factsheet": [
         {
             "heading": "History",
