@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "Part of an international family of Ismaili Centres, a religious, cultural and social space for the Shia Ismaili Muslim community. The serenity of the entrance fountain to the roof garden reflects Muslim traditions in architecture and design",
+    "description": "Part of an international family of Ismaili Centres, a religious, cultural and social space for the Shia Imami Ismaili Muslims. The serenity of the entrance fountain to the roof garden reflects Muslim traditions in architecture and design",
     "design": {
         "designers": [
             {
@@ -13,8 +13,7 @@
             "Contemporary"
         ],
         "types": [
-            "Community/cultural",
-            "Online"
+            "Community/cultural"
         ]
     },
     "events": [
@@ -139,14 +138,21 @@
             "ticketed": false
         }
     ],
-    "facilities": [],
+    "facilities": [
+        [
+            "Toilets",
+            "Refreshments",
+            "Photography is not permitted on site",
+            "Disabled access"
+        ]
+    ],
     "factsheet": [
         {
             "heading": "Context and Design",
             "paragraphs": [
-                "The Ismaili Centre, London, located in South Kensington, is a religious, cultural and social gathering space for the Ismaili Muslim community. The building comprises of a prayer hall, offices, meeting rooms and a social space. As well as being a working office during the day, The Ismaili Centre hosts lectures, talks and music events as well as welcoming guests from the wider community.",
+                "The Ismaili Centre, London, located in South Kensington, is a religious, cultural and social gathering space for the Shia Imami Ismaili Muslim community. The building comprises of a prayer hall, offices, meeting rooms and a social space. As well as being a working office during the day, The Ismaili Centre hosts lectures, talks and music events as well as welcoming guests from the wider community.",
                 "The Centre occupies an island site. To the north it is bounded by one of London’s busiest roads, Cromwell Road. To the west is Exhibition Road which runs from Hyde Park down to South Kensington Underground Station. A plaque commemorates the foundation laying ceremony, which was performed by the Late Lord Christopher Soames on September 6, 1979, in the presence of His Highness the Aga Khan. The building was opened on 25 April 1985 by the then Prime Minister, Margaret Thatcher.",
-                "The building was designed by the Casson Condor Partnership and built by the British firm, Fairclough Ltd, using the highest standard of workmanship. A number of experts have contributed to its design including the late Professor Oleg Grabar – a specialist in Islamic Art at Harvard University at that time, and Professor William Porter – the former Dean of the School of Architecture at MIT. Some of the detailed interiors were designed by a German Muslim – the late Karl Schlamminger – who was a renowned sculptor and designer who drew inspiration from various parts of the Muslim world.",
+                "The building was designed by the Casson Conder Partnership and built by the British firm, Fairclough Ltd, using the highest standard of workmanship. A number of experts have contributed to its design including the late Professor Oleg Grabar – a specialist in Islamic Art at Harvard University at that time, and Professor William Porter – the former Dean of the School of Architecture at MIT. Some of the detailed interiors were designed by a German Muslim – the late Karl Schlamminger – who was a renowned sculptor and designer who drew inspiration from various parts of the Muslim world.",
                 "The design brief given to the architects was quite an unusual one, for here was a requirement of a building which provides a skilful fusion of East and West – a symbolic ‘meeting place’ between the Ismaili Muslim Community and the wider society. First and foremost, this building is a religious, cultural and social centre for Ismailis Muslims, yet it is also a London building and a modern building. The architects were instructed to ensure the building did not tower about the surrounding historical buildings of the V&A Museum and the Natural History Museum, London. In order to accommodate this, the building was chamfered from the two longitudinal sides predominantly.",
                 "The building has two basements, the ground floor and three upper floors. The lower basement comprises committee rooms and a plant and machinery area. The upper basement houses the newly refurbished Zamana Space provides a facility of conferences, exhibitions and meetings.",
                 "A range of different materials from around the globe were used throughout the building including Pentelikon marble from Greece, teak wood from Burma, granite from Sardinia, Oak wood from North America and  blue Bahia from Brazil. Geometric patterns and calligraphy, two types of non-figural decorations in Islamic art, are commonly used in The Ismaili Centre London. Additionally, water, light, and repetition of elements on the ceiling/arch (e.g. Muqarnas) are another decorative features of Islamic architecture that are applied in The Ismaili Centre.",
@@ -175,12 +181,6 @@
             "description": "",
             "title": "Ismaili Centre courtyard",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2063_ismaili-centre1_f51fe2b5474b129cec6caa2f85a23f47.jpg"
-        },
-        {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2021/2063/building_2063_ismaili-centre-zamana-space-september-open-house-exhibition_28f330caedf1044686d5eb3d3f4ebcc5.jpg",
-            "description": "",
-            "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2063_ismaili-centre-zamana-space-september-open-house-exhibition_28f330caedf1044686d5eb3d3f4ebcc5.jpg"
         }
     ],
     "links": [
@@ -191,8 +191,8 @@
     ],
     "location": {
         "address": "1-7 Cromwell Gardens, SW7 2SL",
-        "latitude": 51.4956616,
-        "longitude": -0.1732322,
+        "latitude": 51.4955821,
+        "longitude": -0.1731175,
         "meeting_point": null,
         "travel_info": [
             "Nearest tube: South Kensington",
