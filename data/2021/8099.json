@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "A neighborhood theatre, music, comedy venue using cultural events to bring people together. We pride ourselves on being a welcoming space celebrating everyone's creativity from children to emerging producers to experienced artists.",
+    "description": "A neighborhood theatre, music and arts venue using cultural events to bring people together. We pride ourselves on being a welcoming space celebrating everyone's creativity from children to emerging producers to experienced artists.",
     "design": {
         "designers": [
             {
@@ -13,6 +13,7 @@
             "Contemporary"
         ],
         "types": [
+            "Gallery",
             "Concert/performance space",
             "Community/cultural"
         ]
@@ -35,8 +36,7 @@
         [
             "Disabled access",
             "Refreshments",
-            "Toilets",
-            "Family activities during open house festival"
+            "Toilets"
         ]
     ],
     "factsheet": [
@@ -49,9 +49,17 @@
             ]
         },
         {
+            "heading": "The Fighting Spirit of South London",
+            "paragraphs": [
+                "An exciting new exhibition by Streatham based photographer Aneesa Dawoojee that documents and celebrates south London’s Muay Thai and martial arts community. Bringing together a collection of intimate portrait photographs that are a story of victory over loss, and a love letter to strength in diversity, which puts the voices of its subjects at its centre.",
+                "The artist’s aim is to break stereotypes by giving the viewer an insight into this world of both professional and amateur fighters from gyms across south London.",
+                "Social documentary and portrait photographer Aneesa Dawoojee has recently had her work awarded a Fellowship by the British Institute of Professional Photographers and is a WEX Photo Video Ambassador. She has been featured in international publications such as Forbes Woman Africa and is one of the final exhibitors for the Royal Photographic Society International Exhibition in Bristol."
+            ]
+        },
+        {
             "heading": "Spaces",
             "paragraphs": [
-                "Streatham Space Project houses a 120 seat black box auditorium; a studio, exhibition and rehearsal space; and a large open bar/cafe space, with lots of natural light, a stage for performance and gallery space."
+                "Streatham Space Project houses a 120 seat black box auditorium; a studio, exhibition and rehearsal space; and a large open bar with a gallery, lots of natural light and a stage for performances."
             ]
         },
         {
@@ -90,13 +98,19 @@
             "description": "2018",
             "title": "Cafe",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8099_cafe-w-more-people_b849d55e30b7c21eba1d112f47891d2c.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2021/8099/building_8099_aneesa-33_f39edae49332955ae32b01de22b12e9f.jpg",
+            "description": "Aneesa Dawoojee · 2021",
+            "title": "The Fighting Spirit of South London",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8099_aneesa-33_f39edae49332955ae32b01de22b12e9f.jpg"
         }
     ],
     "links": [],
     "location": {
         "address": "Sternhold Ave, SW2 4PA",
-        "latitude": 51.4386,
-        "longitude": -0.1275679,
+        "latitude": 51.4387922,
+        "longitude": -0.1282771,
         "meeting_point": null,
         "travel_info": [
             "Nearest tube: Brixton, Balham",
@@ -104,7 +118,7 @@
             "Bus routes: 250, 133, 333, 118, 319"
         ]
     },
-    "name": "Streatham Space Project",
+    "name": "Streatham Space Project - Photography Exhibition: The Fighting Spirit of South London",
     "original_url": "https://openhouselondon.open-city.org.uk/listings/8099",
     "ticketed_events": false
 }
