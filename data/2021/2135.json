@@ -71,7 +71,13 @@
             "ticketed": false
         }
     ],
-    "facilities": [],
+    "facilities": [
+        [
+            "Toilets",
+            "Family activities during open house festival",
+            "Disabled access"
+        ]
+    ],
     "factsheet": [
         {
             "heading": "Beginnings",
@@ -151,7 +157,9 @@
         "longitude": -0.1323546,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Westminster, Embankment, Charing Cross, Green Park, Piccadilly Circus"
+            "Nearest tube: Westminster, Embankment, Charing Cross, Green Park, Piccadilly Circus",
+            "Nearest train: Charing Cross",
+            "Bus routes: 453, 15, 13, 12"
         ]
     },
     "name": "The Royal Society ",
