@@ -13,7 +13,7 @@
             "Historical/contemporary"
         ],
         "types": [
-            "Housing"
+            "housing"
         ]
     },
     "events": [
@@ -66,7 +66,11 @@
             "ticketed": false
         }
     ],
-    "facilities": [],
+    "facilities": [
+        [
+            "Architect on site"
+        ]
+    ],
     "factsheet": [
         {
             "heading": "Overview",

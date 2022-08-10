@@ -13,8 +13,8 @@
             "Contemporary"
         ],
         "types": [
-            "Religious",
-            "Online"
+            "religious",
+            "online"
         ]
     },
     "events": [
@@ -43,7 +43,15 @@
             "ticketed": false
         }
     ],
-    "facilities": [],
+    "facilities": [
+        [
+            "Toilets",
+            "Photography is not permitted on site",
+            "Parking",
+            "Disabled access",
+            "Bookshop"
+        ]
+    ],
     "factsheet": [
         {
             "heading": "Use and preparation of wood",
@@ -154,8 +162,8 @@
     "links": [],
     "location": {
         "address": "1 Pramukh Swami Road, Neasden, NW10 8HW",
-        "latitude": 51.5474305,
-        "longitude": -0.2615212,
+        "latitude": 51.5478932,
+        "longitude": -0.2624312,
         "meeting_point": null,
         "travel_info": [
             "Nearest tube: Harlesden, Wembley Park, Stonebridge Park",
