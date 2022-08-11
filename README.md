@@ -115,6 +115,7 @@ Example JSON file
 
 Todo
 ----
+* New venues this year (perhaps add a "last open house this was available" field)
 * Ability to mark venues as "want to see" and "seen" and filter by this - perhaps with a backing store in google sheets per-user, using JS?
 * List view of all venues (with filters)
 * Show images
