@@ -9,7 +9,7 @@ from dateutil import parser
 import pytz
 import time
 
-year = 2021
+year = 2022
 timezone = pytz.timezone("Europe/London")
 
 response = requests.get("https://openhouselondon.open-city.org.uk/")

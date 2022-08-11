@@ -6,9 +6,11 @@ All of it. Automatically scraped hourly with updates committed to git, autogener
 Things you can use
 ------------------
 * **<a href="https://jonty.github.io/open-house-london-data/">A lovely browsable map, with filtering options by day and booking!</a>**
-* Per-venue JSON data files containing all data from the Open House website in the [data/2021 directory](data/2021).
-* Per-day CSV files of venues in the [csv/2021 directory](csv/2021).
-* Per-day venue maps in both [GeoJSON](maps/2021/geojson) & [KML](maps/2021/kml) format in the [maps/2021 directory](maps/2021). You can [view the GeoJSON maps directly](maps/2021/geojson/2021-09-11.geojson).
+* Per-venue JSON data files containing all data from the Open House website in the [data/2022 directory](data/2022).
+* Per-day CSV files of venues in the [csv/2022 directory](csv/2022).
+* Per-day venue maps in both [GeoJSON](maps/2022/geojson) & [KML](maps/2022/kml) format in the [maps/2022 directory](maps/2022). You can [view the GeoJSON maps directly](maps/2022/geojson/2022-09-11.geojson).
+
+There are historical versions of these for previous open house events in the corresponding year directories.
 
 **Things to note:**
 * All the venue images are stored in a different repository. Find them here: https://github.com/Jonty/open-house-london-images

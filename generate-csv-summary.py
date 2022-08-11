@@ -6,7 +6,7 @@ from collections import defaultdict
 
 from dateutil import parser
 
-year = 2021
+year = 2022
 data_path = "data/%s" % year
 csv_path = "csv/%s" % year
 
