@@ -14,6 +14,13 @@ jobs:
       - name: Scrape and commit
         run: |
           pip install -r requirements.txt
+
+          # we'll regenerate these, so remove them now and git add -u will
+          # later mark them as deleted in git
+          rm data/2022/*
+          rm csv/2022/*
+          rm -rf maps/2022/*
+
           python -u scrape-openhouse.py
           python -u generate-csv-summary.py
           python -u generate-maps.py
@@ -36,6 +43,7 @@ jobs:
           mv csv.new csv
           mv maps.new maps
 
+          # -u because we want to also remove any files that have been deleted
           git add data
           git add csv
           git add maps

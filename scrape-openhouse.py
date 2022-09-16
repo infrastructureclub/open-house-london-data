@@ -2,36 +2,47 @@
 import os
 import sys
 import json
+import re
+import time
 
 import requests
 import lxml.html
 from dateutil import parser
 import pytz
-import time
+from urlextract import URLExtract
+
+cookies = {}
+session_cookie = os.getenv("OH_SESSION_COOKIE")
+if session_cookie:
+    print("Using session cookie...")
+    cookies = {"_open_house_session": session_cookie}
 
 year = 2022
 timezone = pytz.timezone("Europe/London")
 
-response = requests.get("https://openhouselondon.open-city.org.uk/")
-if response.content == b"Retry later\n":
-    print("Hit rate limiting, cannot continue")
-    raise Exception("Rate limited")
-
+buildings = []
+response = requests.get("https://programme.openhouse.org.uk/map")
 root = lxml.html.document_fromstring(response.content)
-
-map_nodes = root.xpath('//div[contains(@class, "map")]')
-buildings = json.loads(map_nodes[0].attrib["data-buildings"])
+marker_nodes = root.xpath('//ul[@class="markers"]/li')
+for node in marker_nodes:
+    buildings.append(
+        {
+            "id": int(
+                node.attrib["data-url"].replace(
+                    "https://programme.openhouse.org.uk/map/", ""
+                )
+            ),
+            "name": node.text_content().strip(),
+        }
+    )
 
 count = 0
-
 for building in buildings:
     count += 1
-    print("Fetching %s/%s - %s" % (count, len(buildings), building))
+    print("Fetching listing %s/%s - %s" % (count, len(buildings), building))
 
-    original_url = (
-        "https://openhouselondon.open-city.org.uk/listings/%s" % building["id"]
-    )
-    response = requests.get(original_url)
+    original_url = "https://programme.openhouse.org.uk/listings/%s" % building["id"]
+    response = requests.get(original_url, cookies=cookies)
     if response.content == b"Retry later\n":
         print("Hit rate limiting, cannot continue")
         raise Exception("Rate limited")
@@ -43,11 +54,11 @@ for building in buildings:
         "original_url": original_url,
         "name": building["name"],
         "location": {
-            "latitude": building["latitude"],
-            "longitude": building["longitude"],
+            "latitude": None,
+            "longitude": None,
             "address": None,
             "travel_info": [],
-            "meeting_point": None,
+            "meeting_point": None,  # Not used anymore, preserved for backward compat
         },
         "images": [],
         "facilities": [],
@@ -59,30 +70,18 @@ for building in buildings:
         },
         "factsheet": [],
         "events": [],
-        "all_week": False,
+        "all_week": False,  # Not used anymore, preserved for backward compat
         "ticketed_events": False,
     }
 
     # Images
-    image_nodes = root.xpath('//ul[contains(@class, "main-image")]')
+    image_nodes = root.xpath('//*[contains(@id, "photo-")]/img')
     if image_nodes:
-        for image in json.loads(image_nodes[0].attrib["data-full_size_photos"]):
-            title, description = image["subHtml"][4:-4].split("</h4><p>")
+        for image in image_nodes:
             data["images"].append(
                 {
-                    "url": image["src"],
-                    "title": title,
-                    "description": description,
-                }
-            )
-    else:
-        # Oh why not just have a totally different rendering for images when you only have one, of course
-        image_nodes = root.xpath('//div[contains(@class, "main-image")]/img')
-        if image_nodes:
-            data["images"].append(
-                {
-                    "url": image_nodes[0].attrib["src"],
-                    "title": image_nodes[0].attrib["alt"],
+                    "url": image.attrib["src"],
+                    "title": image.attrib["alt"],
                     "description": None,
                 }
             )
@@ -97,204 +96,200 @@ for building in buildings:
                 % (year, building["id"], os.path.basename(image["url"]))
             )
 
-    # Address
-    address_nodes = root.xpath('//div[contains(@class, "address")]/div')
-    data["location"]["address"] = address_nodes[0].text_content().strip()
+    # Address + location
+    address_nodes = root.xpath('//p[contains(@class, "address")]/text()')
+    data["location"]["address"] = address_nodes[0].strip()
+
+    map_link = root.xpath('//a[@class="map-link"]')[0]
+    data["location"]["latitude"] = float(map_link.attrib["data-lat"])
+    data["location"]["longitude"] = float(map_link.attrib["data-lon"])
+
+    travel_and_facilities_prefix = (
+        '//section[contains(@class, "oc-listing-details")]/div[2]'
+    )
 
     # Travel info
-    for node in root.xpath('//div[contains(@class, "travel-info")]/div'):
-        data["location"]["travel_info"].append(node.text_content().strip())
-
-    # Meeting point
-    meeting_nodes = root.xpath('//div[contains(@class, "meeting-point")]/div')
-    if meeting_nodes:
-        data["location"]["meeting_point"] = (
-            meeting_nodes[0].text_content().replace("Meet at:", "").strip()
+    travel_titles = root.xpath(travel_and_facilities_prefix + "/h4")
+    travel_ps = root.xpath(travel_and_facilities_prefix + "/p")
+    for node in zip(travel_titles, travel_ps):
+        data["location"]["travel_info"].append(
+            "%s: %s" % (node[0].text_content(), node[1].text_content())
         )
 
     # Facilities
-    for node in root.xpath('//div[contains(@class, "facilities")]/div'):
-        data["facilities"].append(node.text_content().strip().split(", "))
-
-    # External links (mostly websites and ticketing)
-    links_ticketed = False
-    for link in root.xpath('//div[contains(@class, "external-links")]//a'):
-        href = link.attrib["href"]
-        title = link.text_content().strip()
-        data["links"].append(
-            {
-                "href": href,
-                "title": title,
-            }
-        )
-
-        for keyword in ("book", "ballot", "ticket"):
-            if keyword in title.lower():
-                links_ticketed = True
-
-        if "eventbrite" in href:
-            links_ticketed = True
+    for node in root.xpath(travel_and_facilities_prefix + "/ul/li"):
+        data["facilities"].append(node.text_content())
 
     # Short description
-    description_nodes = root.xpath('//div[contains(@class, "description")]')
+    description_nodes = root.xpath('//p[contains(@class, "summary")]')
     data["description"] = description_nodes[0].text_content().strip()
 
     # Design notes + tags
-    design_nodes = root.xpath('//dl[contains(@class, "designs")]')
-    for description, section in zip(
-        design_nodes[0].xpath(".//dt"), design_nodes[0].xpath(".//dd")
-    ):
-        architect = (
-            section.xpath(".//span[contains(@class, 'designers')]")[0]
-            .text_content()
-            .strip()[:-1]
-        )
-        design_year = (
-            section.xpath(".//span[contains(@class, 'year')]")[0].text_content().strip()
-        )
+    intro_prefix = '//section[contains(@class, "oc-listing-intro")]/div'
+    architect_and_year_node = root.xpath(intro_prefix + "/p[2]")
+    architects = []
+    if architect_and_year_node:
+        architect_and_year_bits = architect_and_year_node[0].text_content().split(",")
+        architects = [a.strip() for a in architect_and_year_bits[:-1]]
+        design_year = architect_and_year_bits[-1].strip()
+        for architect in architects:
+            data["design"]["designers"].append(
+                {
+                    "description": None,  # Not used anymore, preserved for backward compat
+                    "architect": architect,
+                    "year": design_year,  # Ugggh, they didn't all do it in the same year but what am I supposed to do
+                }
+            )
 
-        data["design"]["designers"].append(
-            {
-                "description": description.text_content().strip(),
-                "architect": architect,
-                "year": design_year,
-            }
-        )
+    design_types = root.xpath(
+        '//section[contains(@class, "oc-listing-intro")]//p[contains(@class, "building-types")]'
+    )
+    data["design"]["types"] = design_types[0].text_content().strip().split(", ")
 
-    for node in root.xpath('//dl[contains(@class, "tags")]//dd'):
-        data["design"][node.attrib["class"]] = node.text_content().strip().split(", ")
+    # For some reason periods are now only in the meta keywords so we have to demangle them from that
+    design_types = root.xpath('//meta[contains(@name, "keywords")]')[0].attrib[
+        "content"
+    ]
+    data["design"]["periods"] = [
+        t
+        for t in design_types.split(",")
+        if (t not in architects) and (t.lower() not in data["design"]["types"])
+    ]
 
     # Big free text section at the bottom, they call it the factsheet
-    for section in root.xpath('//li[contains(@class, "section")]'):
+    for heading in root.xpath('//section[contains(@class, "oc-listing-about")]//h3'):
+        paragraphs = []
+        for sibling in heading.xpath(".//following-sibling::*"):
+            if sibling.tag == "p":
+                paragraphs.append(sibling.text_content().strip())
+            elif sibling.tag == "h3":
+                break
+
         data["factsheet"].append(
             {
-                "heading": section.xpath(".//h3")[0].text_content().strip(),
-                "paragraphs": [p.text_content().strip() for p in section.xpath(".//p")],
+                "heading": heading.text_content().strip(),
+                "paragraphs": paragraphs,
             }
         )
+
+    # External links (mostly websites and ticketing)
+    links_ticketed = False
+    extractor = URLExtract()
+    for block in data["factsheet"]:
+        for paragraph in block["paragraphs"]:
+            for href in extractor.find_urls(paragraph):
+                data["links"].append(
+                    {
+                        "href": href,
+                        "title": None,
+                    }
+                )
+
+                if "eventbrite" in href:
+                    links_ticketed = True
 
     # Events, oh no
     events_ticketed = False
 
-    events_nodes = root.xpath('//div[contains(@class, "listing-events")]')
-    if not events_nodes:
-        data["all_week"] = True
-    else:
-        for date_node, events_node in zip(
-            events_nodes[0].xpath(".//dt"), events_nodes[0].xpath(".//dd")
-        ):
-            for event_node in events_node.xpath(".//div[@class='event']"):
+    # Drop in events
+    drop_in_node = root.xpath(
+        '//section[contains(@class, "oc-listing-events")]//h2[text()="Drop in details"]'
+    )
+    if drop_in_node:
+        date_nodes = drop_in_node[0].xpath(".//following-sibling::h3")
+        events_nodes = drop_in_node[0].xpath(
+            './/following-sibling::div[contains(@class, "events")]'
+        )
+        for date_node, event_node in zip(date_nodes, events_nodes):
+            date_string = date_node.text_content().strip()
+            date = parser.parse(date_string).date()
 
-                name = (
-                    event_node.xpath(".//div[contains(@class, 'event-name')]")[0]
-                    .text_content()
-                    .strip()
-                )
-
-                # They removed all the nice event-time/event-capacity/event-note
-                # classes and merged them all into the same class :'(
-                detail_nodes = event_node.xpath(
-                    ".//div[contains(@class, 'event-detail')]/i"
-                )
-                time_node = detail_nodes.pop(0)
-                timeslot = time_node.tail.replace("Time:", "").strip()
-                if "All-day" in timeslot:
-                    start_time = "00:00"
-                    end_time = "23:59"
-                    all_day = True
-                else:
-                    start_time, end_time = timeslot.replace(".", ":").split(" to ")
-                    all_day = False
+            for event in event_node.xpath('.//div[@class="event"]'):
+                name = "Drop in"
 
                 capacity = None
-                if detail_nodes:
-                    capacity = int(
-                        detail_nodes[0].tail.replace("Capacity:", "").strip()
-                    )
+                capacity_node = event.xpath('.//p[contains(@class, "capacity")]/text()')
+                if capacity_node:
+                    matches = re.search("(\d+)", capacity_node[0])
+                    capacity = int(matches.group(1))
 
-                details_nodes = event_node.xpath(
-                    ".//div[contains(@class, 'event-details')]"
-                )
-                notes = None
-                if len(details_nodes) == 2:
-                    notes = details_nodes[1].text_content().strip()
+                notes = event.xpath(".//p[not(@*)]")[0].text_content()
+                time_string = event.xpath(".//h3/text()")[0]
 
-                date = parser.parse(date_node.text_content()).date()
-                start_datetime = parser.parse(
-                    date_node.text_content() + " " + start_time
-                )
+                start_time, end_time = time_string.split(" to ")
+                start_datetime = parser.parse(date_string + " " + start_time)
                 start_datetime = timezone.localize(start_datetime)
-                end_datetime = parser.parse(date_node.text_content() + " " + end_time)
+                end_datetime = parser.parse(date_string + " " + end_time)
                 end_datetime = timezone.localize(end_datetime)
-
-                keyword_ticketed = False
-                button_ticketed = False
-                fully_booked = None
-                booking_link = None
-
-                if notes:
-                    if "book" in notes.lower():
-                        keyword_ticketed = True
-
-                        phrases = (
-                            "no book",
-                            "booking not",
-                            "no need to book",
-                            "new book",
-                            "sketchbook",
-                            "buy our book",
-                            "booking is not required",
-                        )
-                        for phrase in phrases:
-                            if phrase in notes.lower():
-                                keyword_ticketed = False
-
-                    if "ticket" in notes.lower():
-                        keyword_ticketed = True
-
-                        for phrase in ("tickets not needed", "unticketed"):
-                            if phrase in notes.lower():
-                                keyword_ticketed = False
-
-                    if "eventbrite" in notes.lower():
-                        keyword_ticketed = True
-
-                    if "ballot" in notes.lower():
-                        keyword_ticketed = True
-
-                booking_button = event_node.xpath(
-                    ".//*[contains(@class, 'event-booking-button')]"
-                )
-                if booking_button:
-                    button_ticketed = True
-                    if "disabled" in booking_button[0].attrib:
-                        fully_booked = True
-                    if "href" in booking_button[0].attrib:
-                        fully_booked = False
-                        booking_link = (
-                            "https://openhouselondon.open-city.org.uk%s"
-                            % booking_button[0].attrib["href"]
-                        )
-
-                ticketed = keyword_ticketed or button_ticketed
 
                 data["events"].append(
                     {
                         "date": date.isoformat(),
                         "start": start_datetime.isoformat(),
                         "end": end_datetime.isoformat(),
-                        "all_day": all_day,
+                        "all_day": False,
+                        "activity_type": "Drop in",
                         "name": name,
                         "capacity": capacity,
                         "notes": notes,
-                        "fully_booked": fully_booked,
-                        "ticketed": ticketed,
-                        "booking_link": booking_link,
+                        "fully_booked": False,
+                        "ticketed": False,
+                        "booking_link": None,
+                        "drop_in": True,
                     }
                 )
 
-                if ticketed:
-                    events_ticketed = True
+    # Not drop-in events
+    events_node = root.xpath(
+        '//section[contains(@class, "oc-listing-events")]//h2[text()="Events"]'
+    )
+    if events_node:
+        events_ticketed = True
+
+        date_nodes = events_node[0].xpath(".//following-sibling::h3")
+        events_nodes = events_node[0].xpath(
+            './/following-sibling::div[contains(@class, "events")]'
+        )
+        for date_node, event_node in zip(date_nodes, events_nodes):
+            date_string = date_node.text_content().strip()
+            date = parser.parse(date_string).date()
+
+            for event in event_node.xpath('.//div[@class="event"]'):
+                activity_type = event.xpath(
+                    './/p[contains(@class, "activity-type")]/text()'
+                )[0]
+                time_string = event.xpath('.//p[@class="time"]/text()')[0]
+                name = event.xpath('.//h3[@class="name"]/text()')[0]
+                booking_string = event.xpath('.//div[@class="action"]')[
+                    0
+                ].text_content()
+
+                fully_booked = False
+                if booking_string == "Full":
+                    fully_booked = True
+
+                start_time, end_time = time_string.split("–")
+                start_datetime = parser.parse(date_string + " " + start_time)
+                start_datetime = timezone.localize(start_datetime)
+                end_datetime = parser.parse(date_string + " " + end_time)
+                end_datetime = timezone.localize(end_datetime)
+
+                data["events"].append(
+                    {
+                        "date": date.isoformat(),
+                        "start": start_datetime.isoformat(),
+                        "end": end_datetime.isoformat(),
+                        "all_day": False,
+                        "activity_type": activity_type,
+                        "name": name,
+                        "capacity": None,
+                        "notes": None,  # No longer used, here for backward compat
+                        "fully_booked": fully_booked,
+                        "ticketed": True,
+                        "booking_link": original_url,
+                        "drop_in": False,
+                    }
+                )
 
     if links_ticketed or events_ticketed:
         data["ticketed_events"] = True
