@@ -16,22 +16,7 @@
             "residence"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8921",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T18:30:00+01:00",
-            "fully_booked": false,
-            "name": "Architect-led tour",
-            "notes": null,
-            "start": "2022-09-17T17:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Disabled access",
         "Architect on site"
@@ -106,5 +91,5 @@
     },
     "name": "Taylor & Chatto Courts and Wilmott Court, Frampton Park Estate",
     "original_url": "https://programme.openhouse.org.uk/listings/8921",
-    "ticketed_events": true
+    "ticketed_events": false
 }
