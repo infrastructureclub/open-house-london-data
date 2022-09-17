@@ -6,12 +6,15 @@ on:
 jobs:
   scrape-and-commit:
     runs-on: ubuntu-latest
+    environment: scrape
     steps:
       - name: Checkout
         uses: actions/checkout@v2
         with:
           persist-credentials: false
       - name: Scrape and commit
+        env:
+          OH_SESSION_COOKIE: ${{ secrets.OH_SESSION_COOKIE }}
         run: |
           pip install -r requirements.txt
 
