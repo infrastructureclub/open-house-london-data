@@ -16,6 +16,8 @@ session_cookie = os.getenv("OH_SESSION_COOKIE")
 if session_cookie:
     print("Using session cookie...")
     cookies = {"_open_house_session": session_cookie}
+else:
+    print("NOT using session cookie - this will not have accurate booking status data...")
 
 year = 2022
 timezone = pytz.timezone("Europe/London")
