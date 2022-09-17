@@ -17,7 +17,9 @@ if session_cookie:
     print("Using session cookie...")
     cookies = {"_open_house_session": session_cookie}
 else:
-    print("NOT using session cookie - this will not have accurate booking status data...")
+    print(
+        "NOT using session cookie - this will not have accurate booking status data..."
+    )
 
 year = 2022
 timezone = pytz.timezone("Europe/London")
@@ -270,9 +272,9 @@ for building in buildings:
                 )[0]
                 time_string = event.xpath('.//p[@class="time"]/text()')[0]
                 name = event.xpath('.//h3[@class="name"]/text()')[0]
-                booking_string = event.xpath('.//div[@class="action"]')[
-                    0
-                ].text_content()
+                booking_string = (
+                    event.xpath('.//div[@class="action"]')[0].text_content().strip()
+                )
 
                 fully_booked = False
                 if booking_string == "Full":
