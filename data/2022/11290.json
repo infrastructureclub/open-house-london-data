@@ -16,22 +16,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11290",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "All Along the Dock Edge: A walk in Royal Albert Dock",
-            "notes": null,
-            "start": "2022-09-17T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Disabled access",
         "Architect on site"
@@ -123,5 +108,5 @@
     },
     "name": "All along the dock edge",
     "original_url": "https://programme.openhouse.org.uk/listings/11290",
-    "ticketed_events": true
+    "ticketed_events": false
 }

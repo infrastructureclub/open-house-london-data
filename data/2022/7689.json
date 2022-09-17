@@ -26,50 +26,7 @@
             "mixed use"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 35,
-            "date": "2022-09-17",
-            "drop_in": true,
-            "end": "2022-09-17T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
-            "start": "2022-09-17T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7689",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "High Path, walking tour",
-            "notes": null,
-            "start": "2022-09-17T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7689",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "High Path, walking tour",
-            "notes": null,
-            "start": "2022-09-17T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Refreshments",
@@ -176,5 +133,5 @@
     },
     "name": "High Path, Wimbledon",
     "original_url": "https://programme.openhouse.org.uk/listings/7689",
-    "ticketed_events": true
+    "ticketed_events": false
 }

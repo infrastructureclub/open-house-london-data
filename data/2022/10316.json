@@ -11,22 +11,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10316",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guide Walk by London Blue Badge Guide",
-            "notes": null,
-            "start": "2022-09-17T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -71,5 +56,5 @@
     },
     "name": "Public Statues in Westminster",
     "original_url": "https://programme.openhouse.org.uk/listings/10316",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -11,22 +11,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10076",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Segal Method Talk and Tour",
-            "notes": null,
-            "start": "2022-09-17T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets"
     ],
@@ -101,5 +86,5 @@
     },
     "name": "Walter Segal buildings tour",
     "original_url": "https://programme.openhouse.org.uk/listings/10076",
-    "ticketed_events": true
+    "ticketed_events": false
 }

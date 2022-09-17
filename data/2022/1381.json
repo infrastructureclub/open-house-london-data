@@ -22,20 +22,6 @@
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": true,
-            "end": "2022-09-17T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
-            "start": "2022-09-17T09:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
             "date": "2022-09-20",
             "drop_in": true,
             "end": "2022-09-20T18:00:00+01:00",
@@ -58,20 +44,6 @@
             "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
             "start": "2022-09-21T10:00:00+01:00",
             "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1381",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tours of the building - booking not required",
-            "notes": null,
-            "start": "2022-09-17T14:00:00+01:00",
-            "ticketed": true
         }
     ],
     "facilities": [
@@ -153,5 +125,5 @@
     },
     "name": "The Old Town Hall, Richmond",
     "original_url": "https://programme.openhouse.org.uk/listings/1381",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -25,20 +25,6 @@
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": true,
-            "end": "2022-09-17T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
-            "start": "2022-09-17T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
             "date": "2022-09-18",
             "drop_in": true,
             "end": "2022-09-18T15:00:00+01:00",
@@ -47,20 +33,6 @@
             "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
             "start": "2022-09-18T13:00:00+01:00",
             "ticketed": false
-        },
-        {
-            "activity_type": "Demonstration",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8724",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T15:15:00+01:00",
-            "fully_booked": false,
-            "name": "Bell Tower Tour",
-            "notes": null,
-            "start": "2022-09-17T14:30:00+01:00",
-            "ticketed": true
         }
     ],
     "facilities": [
@@ -157,5 +129,5 @@
     },
     "name": "Croydon Minster",
     "original_url": "https://programme.openhouse.org.uk/listings/8724",
-    "ticketed_events": true
+    "ticketed_events": false
 }
