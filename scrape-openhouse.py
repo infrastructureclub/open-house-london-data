@@ -216,7 +216,15 @@ for building in buildings:
                 notes = event.xpath(".//p[not(@*)]")[0].text_content()
                 time_string = event.xpath(".//h3/text()")[0]
 
-                start_time, end_time = time_string.split(" to ")
+                all_day = False
+                if time_string == "All day":
+                    all_day = True
+                    # To make using the data easier, fake out the times
+                    start_time = "00:00"
+                    end_time = "23:59"
+                else:
+                    start_time, end_time = time_string.split(" to ")
+
                 start_datetime = parser.parse(date_string + " " + start_time)
                 start_datetime = timezone.localize(start_datetime)
                 end_datetime = parser.parse(date_string + " " + end_time)
@@ -227,7 +235,7 @@ for building in buildings:
                         "date": date.isoformat(),
                         "start": start_datetime.isoformat(),
                         "end": end_datetime.isoformat(),
-                        "all_day": False,
+                        "all_day": all_day,
                         "activity_type": "Drop in",
                         "name": name,
                         "capacity": capacity,
@@ -268,7 +276,15 @@ for building in buildings:
                 if booking_string == "Full":
                     fully_booked = True
 
-                start_time, end_time = time_string.split("–")
+                all_day = False
+                if time_string == "All day":
+                    all_day = True
+                    # To make using the data easier, fake out the times
+                    start_time = "00:00"
+                    end_time = "23:59"
+                else:
+                    start_time, end_time = time_string.split("–")
+
                 start_datetime = parser.parse(date_string + " " + start_time)
                 start_datetime = timezone.localize(start_datetime)
                 end_datetime = parser.parse(date_string + " " + end_time)
@@ -279,7 +295,7 @@ for building in buildings:
                         "date": date.isoformat(),
                         "start": start_datetime.isoformat(),
                         "end": end_datetime.isoformat(),
-                        "all_day": False,
+                        "all_day": all_day,
                         "activity_type": activity_type,
                         "name": name,
                         "capacity": None,
