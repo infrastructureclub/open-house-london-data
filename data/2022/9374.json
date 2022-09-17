@@ -16,22 +16,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/9374",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Crystal Palace Dinosaurs",
-            "notes": null,
-            "start": "2022-09-17T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Disabled access",
         "Parking",
@@ -75,5 +60,5 @@
     },
     "name": "Crystal Palace Park Dinosaurs  – a tour with a London Blue Badge Tourist Guide",
     "original_url": "https://programme.openhouse.org.uk/listings/9374",
-    "ticketed_events": true
+    "ticketed_events": false
 }

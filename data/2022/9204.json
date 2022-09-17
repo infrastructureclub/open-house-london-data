@@ -21,22 +21,7 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/9204",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T12:15:00+01:00",
-            "fully_booked": false,
-            "name": "Guided walks of the two cemeteries",
-            "notes": null,
-            "start": "2022-09-17T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Bookshop",
@@ -96,5 +81,5 @@
     },
     "name": "Guided tour of Ladywell and Brockley Cemeteries including the Non-conformist chapel",
     "original_url": "https://programme.openhouse.org.uk/listings/9204",
-    "ticketed_events": true
+    "ticketed_events": false
 }

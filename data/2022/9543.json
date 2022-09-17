@@ -16,22 +16,7 @@
             "education"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/9543",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Tour with architect",
-            "notes": null,
-            "start": "2022-09-17T10:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Architect on site",
         "Disabled access",
@@ -91,5 +76,5 @@
     },
     "name": "373 Euston Road, Birbeck College",
     "original_url": "https://programme.openhouse.org.uk/listings/9543",
-    "ticketed_events": true
+    "ticketed_events": false
 }

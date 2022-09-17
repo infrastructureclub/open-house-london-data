@@ -21,78 +21,7 @@
             "restaurant/bar"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7607",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T11:30:00+01:00",
-            "fully_booked": false,
-            "name": "The Department Store tour",
-            "notes": null,
-            "start": "2022-09-17T10:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7607",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T11:45:00+01:00",
-            "fully_booked": false,
-            "name": "The Department Store tour",
-            "notes": null,
-            "start": "2022-09-17T10:45:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7607",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "The Department Store tour",
-            "notes": null,
-            "start": "2022-09-17T11:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7607",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T12:45:00+01:00",
-            "fully_booked": false,
-            "name": "The Department Store tour",
-            "notes": null,
-            "start": "2022-09-17T11:45:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7607",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "The Department Store tour",
-            "notes": null,
-            "start": "2022-09-17T12:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Architect on site",
         "Disabled access",
@@ -295,5 +224,5 @@
     },
     "name": "The Department Store",
     "original_url": "https://programme.openhouse.org.uk/listings/7607",
-    "ticketed_events": true
+    "ticketed_events": false
 }

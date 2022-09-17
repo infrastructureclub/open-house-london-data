@@ -17,22 +17,7 @@
             "mixed use"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7390",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Tour by Morris+Company",
-            "notes": null,
-            "start": "2022-09-17T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -122,5 +107,5 @@
     },
     "name": "R7, Kings Cross",
     "original_url": "https://programme.openhouse.org.uk/listings/7390",
-    "ticketed_events": true
+    "ticketed_events": false
 }
