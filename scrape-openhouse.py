@@ -327,4 +327,4 @@ for building in buildings:
         )
 
     # 4s appears to avoid the rate limiting, but let's give ourselves some headroom
-    time.sleep(6)
+    time.sleep(1)
