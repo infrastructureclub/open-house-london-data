@@ -22,22 +22,7 @@
             "library"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/4294",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T17:30:00+01:00",
-            "fully_booked": false,
-            "name": "Behind the Scenes Tour",
-            "notes": null,
-            "start": "2022-09-17T16:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets"
     ],
@@ -139,5 +124,5 @@
     },
     "name": "London Metropolitan Archives",
     "original_url": "https://programme.openhouse.org.uk/listings/4294",
-    "ticketed_events": true
+    "ticketed_events": false
 }
