@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Somers Clarke",
-                "description": "Original design",
+                "description": null,
                 "year": "1863"
             }
         ],
@@ -18,25 +18,25 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Sukkat Shalom Reform Synagogue",
-            "notes": null,
-            "start": "2022-09-05T10:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Parking",
-            "Refreshments",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Parking",
+        "Refreshments",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -86,19 +86,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1927/building_1927_frontage-july-2007-2_deb8a698b8cf53f5e8e26a43279c0b61.JPG",
-            "description": "Synagogue · 2007",
+            "description": null,
             "title": "Front view",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1927_frontage-july-2007-2_deb8a698b8cf53f5e8e26a43279c0b61.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1927/building_1927_p9031246_8c00af0bda3f1b5e8cf80fd141bcc360.JPG",
-            "description": "Frank Godson · 2011",
+            "description": null,
             "title": "View from the street",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1927_p9031246_8c00af0bda3f1b5e8cf80fd141bcc360.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1927/building_1927_fb_img_1489966786906_fcc25aafadda6d64afd788aa90d5e49f.jpg",
-            "description": "",
+            "description": null,
             "title": "Interior Stained Glass windows",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1927_fb_img_1489966786906_fcc25aafadda6d64afd788aa90d5e49f.jpg"
         }
@@ -110,11 +110,11 @@
         "longitude": 0.0289235,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Snaresbrook",
-            "Bus routes: W13, W12"
+            "Tube: Snaresbrook",
+            "Bus: W13, W12"
         ]
     },
     "name": "Sukkat Shalom Reform Synagogue",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1927",
+    "original_url": "https://programme.openhouse.org.uk/listings/1927",
     "ticketed_events": false
 }

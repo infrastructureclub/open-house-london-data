@@ -4,8 +4,13 @@
     "design": {
         "designers": [
             {
-                "architect": "Nicholas Hawksmoor, Sir Christopher Wren",
-                "description": "Original design",
+                "architect": "Nicholas Hawksmoor",
+                "description": null,
+                "year": "1696"
+            },
+            {
+                "architect": "Sir Christopher Wren",
+                "description": null,
                 "year": "1696"
             }
         ],
@@ -21,574 +26,61 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T10:45:00+01:00",
-            "fully_booked": null,
-            "name": "Grand Square pop-up talk",
-            "notes": "Bookable in person on the day.",
-            "start": "2022-09-04T10:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:15:00+01:00",
-            "fully_booked": null,
-            "name": "King William Courtyard pop-up talk",
-            "notes": "Bookable in person on the day. We regret there is no step-free access for this talk.",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:30:00+01:00",
-            "fully_booked": null,
-            "name": "Jacobean Undercroft visit",
-            "notes": "Booking essential, in person on the day. The Undercroft is reached by a flight of steps: we regret there is no step-free access for this talk. We request that all participants wear a face covering unless exempt.",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:15:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of the Chapel",
-            "notes": "Bookable in-person on the day. The Chapel was built by English architect Thomas Ripley (1682-1758) following designs by Sir Christopher Wren, for the use of the staff and pensioners of the Royal Hospital for Seamen. In 1779 the Chapel was gutted by fire: its interior was rebuilt in a neo-classical style by James ‘Athenian’ Stuart (1713-1788). It features a large altarpiece painting by the American artist Benjamin West (1738-1820).",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:45:00+01:00",
-            "fully_booked": null,
-            "name": "Grand Square pop-up talk",
-            "notes": "Bookable in person on the day",
-            "start": "2022-09-04T11:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:15:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of the Chapel",
-            "notes": "Bookable in-person on the day. The Chapel was built by English architect Thomas Ripley (1682-1758) following designs by Sir Christopher Wren, for the use of the staff and pensioners of the Royal Hospital for Seamen. In 1779 the Chapel was gutted by fire: its interior was rebuilt in a neo-classical style by James ‘Athenian’ Stuart (1713-1788). It features a large altarpiece painting by the American artist Benjamin West (1738-1820)",
-            "start": "2022-09-04T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:15:00+01:00",
-            "fully_booked": null,
-            "name": "King William Courtyard pop-up talk",
-            "notes": "Bookable in person on the day. We regret there is no step-free access for this talk.",
-            "start": "2022-09-04T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:30:00+01:00",
-            "fully_booked": null,
-            "name": "Jacobean Undercroft visit",
-            "notes": "Booking essential, in person on the day. The Undercroft is reached by a flight of steps: we regret there is no step-free access for this talk.  We request that all participants wear a face covering unless exempt.",
-            "start": "2022-09-04T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:45:00+01:00",
-            "fully_booked": null,
-            "name": "Grand Square pop-up talk",
-            "notes": "Bookable in person on the day.",
-            "start": "2022-09-04T12:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:15:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of the Chapel",
-            "notes": "Bookable in-person on the day. The Chapel was built by English architect Thomas Ripley (1682-1758) following designs by Sir Christopher Wren, for the use of the staff and pensioners of the Royal Hospital for Seamen. In 1779 the Chapel was gutted by fire: its interior was rebuilt in a neo-classical style by James ‘Athenian’ Stuart (1713-1788). It features a large altarpiece painting by the American artist Benjamin West (1738-1820)",
-            "start": "2022-09-04T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:15:00+01:00",
-            "fully_booked": null,
-            "name": "King William Courtyard pop-up talk",
-            "notes": "Bookable in person on the day. We regret there is no step-free access for this talk.",
-            "start": "2022-09-04T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:30:00+01:00",
-            "fully_booked": null,
-            "name": "Jacobean Undercroft visit",
-            "notes": "Booking essential, in person on the day. The Undercroft is reached by a flight of steps: we regret there is no step-free access for this talk.  We request that all participants wear a face covering unless exempt.",
-            "start": "2022-09-04T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:45:00+01:00",
-            "fully_booked": null,
-            "name": "Grand Square pop-up talk",
-            "notes": "Bookable in person on the day.",
-            "start": "2022-09-04T13:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T14:30:00+01:00",
-            "fully_booked": null,
-            "name": "Jacobean Undercroft visit",
-            "notes": "Booking essential, in person on the day. The Undercroft is reached by a flight of steps: we regret there is no step-free access for this talk. We request that all participants wear a face covering unless exempt.",
-            "start": "2022-09-04T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T14:15:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of the Chapel",
-            "notes": "Bookable in-person on the day. The Chapel was built by English architect Thomas Ripley (1682-1758) following designs by Sir Christopher Wren, for the use of the staff and pensioners of the Royal Hospital for Seamen. In 1779 the Chapel was gutted by fire: its interior was rebuilt in a neo-classical style by James ‘Athenian’ Stuart (1713-1788). It features a large altarpiece painting by the American artist Benjamin West (1738-1820)",
-            "start": "2022-09-04T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T14:15:00+01:00",
-            "fully_booked": null,
-            "name": "King William Courtyard pop-up talk",
-            "notes": "Bookable in person on the day. We regret there is no step-free access for this talk.",
-            "start": "2022-09-04T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T14:45:00+01:00",
-            "fully_booked": null,
-            "name": "Grand Square pop-up talk",
-            "notes": "Bookable in person on the day.",
-            "start": "2022-09-04T14:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Jacobean Undercroft visit",
-            "notes": "Booking essential, in person on the day. The Undercroft is reached by a flight of steps: we regret there is no step-free access for this talk. We request that all participants wear a face covering unless exempt.",
-            "start": "2022-09-04T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:15:00+01:00",
-            "fully_booked": null,
-            "name": "King William Courtyard pop-up talk",
-            "notes": "Bookable in person on the day. We regret there is no step-free access for this talk.",
-            "start": "2022-09-04T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:15:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of the Chapel",
-            "notes": "Bookable in-person on the day. The Chapel was built by English architect Thomas Ripley (1682-1758) following designs by Sir Christopher Wren, for the use of the staff and pensioners of the Royal Hospital for Seamen. In 1779 the Chapel was gutted by fire: its interior was rebuilt in a neo-classical style by James ‘Athenian’ Stuart (1713-1788). It features a large altarpiece painting by the American artist Benjamin West (1738-1820)",
-            "start": "2022-09-04T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:45:00+01:00",
-            "fully_booked": null,
-            "name": "Grand Square pop-up talk",
-            "notes": "Bookable in person on the day.",
-            "start": "2022-09-04T15:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:15:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of the Chapel",
-            "notes": "Bookable in-person on the day. The Chapel was built by English architect Thomas Ripley (1682-1758) following designs by Sir Christopher Wren, for the use of the staff and pensioners of the Royal Hospital for Seamen. In 1779 the Chapel was gutted by fire: its interior was rebuilt in a neo-classical style by James ‘Athenian’ Stuart (1713-1788). It features a large altarpiece painting by the American artist Benjamin West (1738-1820)",
-            "start": "2022-09-04T16:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:15:00+01:00",
-            "fully_booked": null,
-            "name": "King William Courtyard pop-up talk",
-            "notes": "Bookable in person on the day. We regret there is no step-free access for this talk.",
-            "start": "2022-09-04T16:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Admiral's House drop-in",
-            "notes": "We request that all participants wear a face covering unless exempt.",
-            "start": "2022-09-05T10:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T10:45:00+01:00",
-            "fully_booked": null,
-            "name": "Grand Square pop-up talk",
-            "notes": "Bookable in person on the day.",
-            "start": "2022-09-05T10:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T11:15:00+01:00",
-            "fully_booked": null,
-            "name": "King William Courtyard pop-up talk",
-            "notes": "Bookable in person on the day. We regret there is no step-free access for this talk.",
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T11:30:00+01:00",
-            "fully_booked": null,
-            "name": "Jacobean Undercroft visit",
-            "notes": "Booking essential, in person on the day. The Undercroft is reached by a flight of steps: we regret there is no step-free access for this talk. We request that all participants wear a face covering unless exempt.",
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T11:45:00+01:00",
-            "fully_booked": null,
-            "name": "Grand Square pop-up talk",
-            "notes": "Bookable in person on the day.",
-            "start": "2022-09-05T11:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T12:30:00+01:00",
-            "fully_booked": null,
-            "name": "Jacobean Undercroft visit",
-            "notes": "Booking essential, in person on the day. The Undercroft is reached by a flight of steps: we regret there is no step-free access for this talk. We request that all participants wear a face covering unless exempt.",
-            "start": "2022-09-05T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T12:15:00+01:00",
-            "fully_booked": null,
-            "name": "King William Courtyard pop-up talk",
-            "notes": "Bookable in person on the day. We regret there is no step-free access for this talk.",
-            "start": "2022-09-05T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T12:45:00+01:00",
-            "fully_booked": null,
-            "name": "Grand Square pop-up talk",
-            "notes": "Bookable in person on the day.",
-            "start": "2022-09-05T12:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T13:15:00+01:00",
-            "fully_booked": null,
-            "name": "King William Courtyard pop-up talk",
-            "notes": "Bookable in person on the day. We regret there is no step-free access for this talk.",
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T13:15:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of the Chapel",
-            "notes": "Bookable in-person on the day. The Chapel was built by English architect Thomas Ripley (1682-1758) following designs by Sir Christopher Wren, for the use of the staff and pensioners of the Royal Hospital for Seamen. In 1779 the Chapel was gutted by fire: its interior was rebuilt in a neo-classical style by James ‘Athenian’ Stuart (1713-1788). It features a large altarpiece painting by the American artist Benjamin West (1738-1820)",
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T13:30:00+01:00",
-            "fully_booked": null,
-            "name": "Jacobean Undercroft visit",
-            "notes": "Booking essential, in person on the day. The Undercroft is reached by a flight of steps: we regret there is no step-free access for this talk. We request that all participants wear a face covering unless exempt.",
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T13:45:00+01:00",
-            "fully_booked": null,
-            "name": "Grand Square pop-up talk",
-            "notes": "Bookable in person on the day",
-            "start": "2022-09-05T13:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T14:15:00+01:00",
-            "fully_booked": null,
-            "name": "King William Courtyard pop-up talk",
-            "notes": "Bookable in person on the day. We regret there is no step-free access for this talk.",
-            "start": "2022-09-05T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T14:15:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of the Chapel",
-            "notes": "Bookable in-person on the day. The Chapel was built by English architect Thomas Ripley (1682-1758) following designs by Sir Christopher Wren, for the use of the staff and pensioners of the Royal Hospital for Seamen. In 1779 the Chapel was gutted by fire: its interior was rebuilt in a neo-classical style by James ‘Athenian’ Stuart (1713-1788). It features a large altarpiece painting by the American artist Benjamin West (1738-1820)",
-            "start": "2022-09-05T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T14:30:00+01:00",
-            "fully_booked": null,
-            "name": "Jacobean Undercroft visit",
-            "notes": "Booking essential, in person on the day. The Undercroft is reached by a flight of steps: we regret there is no step-free access for this talk. We request that all participants wear a face covering unless exempt.",
-            "start": "2022-09-05T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T14:45:00+01:00",
-            "fully_booked": null,
-            "name": "Grand Square pop-up talk",
-            "notes": "Bookable in person on the day.",
-            "start": "2022-09-05T14:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:15:00+01:00",
-            "fully_booked": null,
-            "name": "King William Courtyard pop-up talk",
-            "notes": "Bookable in person on the day. We regret there is no step-free access for this talk.",
-            "start": "2022-09-05T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:15:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of the Chapel",
-            "notes": "Bookable in-person on the day. The Chapel was built by English architect Thomas Ripley (1682-1758) following designs by Sir Christopher Wren, for the use of the staff and pensioners of the Royal Hospital for Seamen. In 1779 the Chapel was gutted by fire: its interior was rebuilt in a neo-classical style by James ‘Athenian’ Stuart (1713-1788). It features a large altarpiece painting by the American artist Benjamin West (1738-1820)",
-            "start": "2022-09-05T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Jacobean Undercroft visit",
-            "notes": "Booking essential, in person on the day. The Undercroft is reached by a flight of steps: we regret there is no step-free access for this talk. We request that all participants wear a face covering unless exempt.",
-            "start": "2022-09-05T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:45:00+01:00",
-            "fully_booked": null,
-            "name": "Grand Square pop-up talk",
-            "notes": "Bookable in person on the day.",
-            "start": "2022-09-05T15:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:15:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of the Chapel",
-            "notes": "Bookable in-person on the day. The Chapel was built by English architect Thomas Ripley (1682-1758) following designs by Sir Christopher Wren, for the use of the staff and pensioners of the Royal Hospital for Seamen. In 1779 the Chapel was gutted by fire: its interior was rebuilt in a neo-classical style by James ‘Athenian’ Stuart (1713-1788). It features a large altarpiece painting by the American artist Benjamin West (1738-1820)",
-            "start": "2022-09-05T16:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:15:00+01:00",
-            "fully_booked": null,
-            "name": "King William Courtyard pop-up talk",
-            "notes": "Bookable in person on the day. We regret there is no step-free access for this talk.",
-            "start": "2022-09-05T16:00:00+01:00",
-            "ticketed": true
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T10:00:00+01:00",
+            "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets",
-            "Bookshop"
-        ]
+        "Refreshments",
+        "Toilets",
+        "Bookshop"
     ],
     "factsheet": [
         {
             "heading": "Admiral’s House",
             "paragraphs": [
                 "Saturday 17 and Sunday 18 September, 10.00-17.00, drop-in.",
-                "One of the oldest surviving parts of the site, Admiral’s House, overlooking the Thames, was once the residence of the Governor of the Royal Hospital for Seamen. Originally designed by John Webb for Charles II as part of a plan to create a royal palace to rival Versailles. A rare chance to view this elegant space."
+                "One of the oldest surviving parts of the site, Admiral’s House, overlooking the Thames, was once the residence of the Governor of the Royal Hospital for Seamen. Originally designed by John Webb for Charles II as part of a plan to create a royal palace to rival Versailles. A rare chance to view this elegant space.",
+                "Access will be to the ground floor only."
             ]
         },
         {
             "heading": "Grand Square",
             "paragraphs": [
-                "Saturday 17 and Sunday 18 September, 10.30-15.30, pop-up talks",
+                "Saturday 17, 10.30-12.30, and Sunday 18 September, 10.30-15.30, pop-up talks.",
                 "Bookable in-person, on the day.",
                 "The Grand Square of the Old Royal Naval College lies at the heart of one of the most spectacular architectural complexes in Europe.  These short talks will explore the histories behind the sweeping vistas on view.",
-                "The Grand Square talk will last approximately 15 minutes and will be repeated on the half hour from 10.30 to 15.30."
+                "The Grand Square talk will last approximately 15 minutes and will be repeated at half past the hour from 10.30 to 12.30 on 17 September and from 10.30 to 15.30 on 18 September."
             ]
         },
         {
             "heading": "King William Courtyard",
             "paragraphs": [
-                "Saturday 17 and Sunday 18 September, 11.00-16.00, pop-up talks",
+                "Saturday 17 and Sunday 18 September, 11.00-16.00, pop-up talks.",
                 "Bookable in-person, on the day.",
                 "Hawksmoor’s work in the King William Courtyard, with its massive scale and sculptural enrichment, is a quintessential example of English Baroque architecture.  The Courtyard is overlooked by the Nelson Pediment, created in Coade stone to a design by the American-born history painter, Benjamin West. These short talks will explore the art and architecture of this unique space.",
                 "The King William Courtyard talk will last approximately 15 minutes and will be repeated on the hour from 11.00 to 16.00.",
@@ -598,7 +90,7 @@
         {
             "heading": "Jacobean Undercroft",
             "paragraphs": [
-                "Saturday 17 and Sunday 18 September, 11.00-16.00,",
+                "Saturday 17 and Sunday 18 September, 11.00-16.00.",
                 "Bookable in-person, on the day.",
                 "A rare opportunity to visit the Undercroft of the Queen Anne Building, a survival from the early 1600s and the only remaining intact room from Greenwich Palace.",
                 "The Jacobean Undercroft visit will last approximately 20 minutes and will be repeated on the hour from 11.00 to 16.00.",
@@ -608,16 +100,15 @@
         {
             "heading": "Chapel of St Peter and St Paul",
             "paragraphs": [
-                "Saturday 17 September, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00",
-                "Sunday 18 September, 13:00, 14:00, 15:00, 16:00",
-                "Bookable, in-person on the day.",
-                "The Chapel was built by English architect Thomas Ripley (1682-1758) following designs by Sir Christopher Wren, for the use of the staff and pensioners of the Royal Hospital for Seamen. In 1779 the Chapel was gutted by fire: its interior was rebuilt in a neo-classical style by James ‘Athenian’ Stuart (1713-1788). It features a large altarpiece painting by the American artist Benjamin West (1738-1820)."
+                "Following the death of Her Majesty the Queen, the Chapel is open for quiet contemplation and prayer.",
+                "The Open House tours of the Chapel that were planned for 17 and 18 September have been cancelled.",
+                "A Choral Eucharist service will be held on Sunday 18 September at 11.00. All are welcome."
             ]
         },
         {
             "heading": "Visitor Centre",
             "paragraphs": [
-                "Every day, 10am - 5pm, drop-in",
+                "Every day, 10am - 5pm, drop-in.",
                 "The Visitor Centre features displays about the architecture of the site."
             ]
         },
@@ -644,60 +135,69 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1310/building_1310_old-royal-naval-college_67be3aa52bc3e0eb4b71f7b65c7b0e3b.jpg",
-            "description": "ORNC",
+            "description": null,
             "title": "The Grand Square",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1310_old-royal-naval-college_67be3aa52bc3e0eb4b71f7b65c7b0e3b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1310/building_1310_admiral-s-house-ornc-edward-hill-photography-2013-2_b393b736252f7577efb95e32153e5993.jpg",
-            "description": "ORNC",
+            "description": null,
             "title": "Admiral's House",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1310_admiral-s-house-ornc-edward-hill-photography-2013-2_b393b736252f7577efb95e32153e5993.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1310/building_1310_king-william-court-thedpc-com-2008_d15a5ca41f87624efe0089359185462e.jpg",
-            "description": "thepdc.com · 2008",
+            "description": null,
             "title": "Nelson Pediment, King William Courtyard",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1310_king-william-court-thedpc-com-2008_d15a5ca41f87624efe0089359185462e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1310/building_1310_old-royal-naval-college-ornc-and-jigsaw-design-publishing-2010-60_33c476073c16dd84f2256b719fc7317f.jpg",
-            "description": "©ORNC and Jigsaw Design & Publishing · 2010",
+            "description": null,
             "title": "Old Royal Naval College",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1310_old-royal-naval-college-ornc-and-jigsaw-design-publishing-2010-60_33c476073c16dd84f2256b719fc7317f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1310/building_1310_queen-mary-colonnade-ornc-and-jigsaw-design-publishing-2013-3_fa4b3ce17616448e11a6d9f3b6516079.jpg",
-            "description": "© ORNC and Jigsaw Design & Publishing · 2013",
+            "description": null,
             "title": "Queen Mary Colonnade",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1310_queen-mary-colonnade-ornc-and-jigsaw-design-publishing-2013-3_fa4b3ce17616448e11a6d9f3b6516079.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1310/building_1310_king-william-colonnade-james-brittain-photography-2-1_37cf393fa7d6aa14ef1586ead43b0b6b.jpg",
-            "description": "© James Brittain Photography · 2019",
+            "description": null,
             "title": "King William Colonnade",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1310_king-william-colonnade-james-brittain-photography-2-1_37cf393fa7d6aa14ef1586ead43b0b6b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1310/building_1310_chapel-ornc-colin-chrisford-2013-smaller-pic_b35635d10a7ce4f011d62778555d47c9.jpg",
-            "description": "© Colin Chrisford · 2013",
+            "description": null,
             "title": "Chapel of St Peter and St Paul, Old Royal Naval College",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1310_chapel-ornc-colin-chrisford-2013-smaller-pic_b35635d10a7ce4f011d62778555d47c9.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "ornc.org",
+            "title": null
+        },
+        {
+            "href": "ornc.org",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Old Royal Naval College, Greenwich, SE10 9NN",
         "latitude": 51.4832059,
         "longitude": -0.0059154,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Cutty Sark",
-            "Nearest train: Greenwich, Maze Hill",
-            "Bus routes: 129, 177, 180, 188, 199, 286, 386"
+            "Tube: Cutty Sark",
+            "Train: Greenwich, Maze Hill",
+            "Bus: 129, 177, 180, 188, 199, 286, 386"
         ]
     },
     "name": "Old Royal Naval College",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1310",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/1310",
+    "ticketed_events": false
 }

@@ -5,13 +5,8 @@
         "designers": [
             {
                 "architect": "W E Riley",
-                "description": "Landscape design",
+                "description": null,
                 "year": "1905"
-            },
-            {
-                "architect": "W E Riley",
-                "description": "Landscape design",
-                "year": "1910"
             }
         ],
         "periods": [
@@ -23,24 +18,24 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Self guided walk of 'hidden' garden suburb with access to park activities 10 - 12am",
-            "notes": "Covid friendly.  Beverages and homemade cake on sale.   Tower Gardens Park has play equipment and scavenger hunt for children 10 - 12.   Checkout other Tottenham Triangle events at: Bruce Castle Museum, St Benitt Fink Church & view the beautiful local Company of Master Draper Alms Houses.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T10:00:00+01:00",
+            "capacity": 40,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Disabled access",
-            "Parking"
-        ]
+        "Refreshments",
+        "Disabled access",
+        "Parking"
     ],
     "factsheet": [
         {
@@ -101,19 +96,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2192/building_2192_tower-gardens-n17-waltheof-avenue_5c0d61e6c4a7b22b4f7b40d074e486bd.jpg",
-            "description": "Mathew Bradby  · 2017",
+            "description": null,
             "title": "Waltheof Avenue N17 ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_tower-gardens-n17-waltheof-avenue_5c0d61e6c4a7b22b4f7b40d074e486bd.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2192/building_2192_p1020324_7f0282911953140922d9f85123d0fb33.JPG",
-            "description": "Ruth Crowley · 2013",
+            "description": null,
             "title": "Tower Gardens Road  N17 ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_p1020324_7f0282911953140922d9f85123d0fb33.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2192/building_2192_tower-gardens-n17-gospatrick-road-east_e2bb2ed3fa3461648c25fd24b83fda62.jpg",
-            "description": "Mat Bradby  · 2017",
+            "description": null,
             "title": "Gospatrick Road east",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_tower-gardens-n17-gospatrick-road-east_e2bb2ed3fa3461648c25fd24b83fda62.jpg"
         }
@@ -123,14 +118,14 @@
         "address": "5 Tower Gardens Road, North Tottenham, N17 7PX",
         "latitude": 51.5987078,
         "longitude": -0.0907723,
-        "meeting_point": "5 Tower Gardens Road N17 7PX",
+        "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Turnpike Lane, Wood Green",
-            "Nearest train: Bruce Grove",
-            "Bus routes: 123, 144, 243, 217, 444"
+            "Tube: Turnpike Lane, Wood Green",
+            "Train: Bruce Grove",
+            "Bus: 123, 144, 243, 217, 444"
         ]
     },
     "name": "Self-guided Tower Gardens Garden Suburb Walk",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2192",
+    "original_url": "https://programme.openhouse.org.uk/listings/2192",
     "ticketed_events": false
 }

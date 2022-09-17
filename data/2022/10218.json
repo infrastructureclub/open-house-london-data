@@ -4,12 +4,13 @@
     "design": {
         "designers": [
             {
-                "architect": "Hugh Lea ",
-                "description": "Original design",
+                "architect": "Hugh Lea",
+                "description": null,
                 "year": "1966"
             }
         ],
         "periods": [
+            "Hugh Lea ",
             "Contemporary",
             "Historical/contemporary"
         ],
@@ -20,35 +21,23 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Discover South Norwood Library",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Discover South Norwood Library",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T10:30:00+01:00",
+            "capacity": 99,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -95,61 +84,61 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10218/building_10218_screenshot-2021-07-22-at-15-13-03_4ff09bf842bbfd173fb28021fbd563a3.png",
-            "description": "Jo Underhill  · 2019",
+            "description": null,
             "title": "Corner View from Selhurst and Lawrence Roads",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_screenshot-2021-07-22-at-15-13-03_4ff09bf842bbfd173fb28021fbd563a3.png"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10218/building_10218_snl-original-proposal-croydon-archive_5fef42c873ab73021f2b5d3dd708a502.jpg",
-            "description": "Hugh Lea, Collections held at Croydon archives · 1966",
+            "description": null,
             "title": "Architectural drawing by Hugh Lea, part of the original proposal ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_snl-original-proposal-croydon-archive_5fef42c873ab73021f2b5d3dd708a502.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10218/building_10218_3ec39218-742d-4f97-b5fd-996fd2e862d7_cf061567e8751da15c3cbd07c0c1c98e.jpg",
-            "description": "Verena Ammon · 2021",
+            "description": null,
             "title": "Interior View ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_3ec39218-742d-4f97-b5fd-996fd2e862d7_cf061567e8751da15c3cbd07c0c1c98e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10218/building_10218_img_8125_a68251c97eda4edd4ed81a466ec95b52.jpg",
-            "description": "Collections held at Croydon archives · 2021",
+            "description": null,
             "title": "Original opening flyer 1968",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_img_8125_a68251c97eda4edd4ed81a466ec95b52.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10218/building_10218_snl-_dsc6005_first-crop_b5faee94519a03929cca810f23826506.jpeg",
-            "description": "Christopher Hope-Fitch  · 2021",
+            "description": null,
             "title": "Brutalism in Colour ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_snl-_dsc6005_first-crop_b5faee94519a03929cca810f23826506.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10218/building_10218_snl-_dsc7909-books_bf6ea88fdbd261ca8900953ea7011f77.jpeg",
-            "description": "Christopher Hope-Fitch  · 2021",
+            "description": null,
             "title": "South Norwood Library ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_snl-_dsc7909-books_bf6ea88fdbd261ca8900953ea7011f77.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10218/building_10218_snl-_dsc7930-inside_b94688a8f40bf403dda6f644496a0bfe.jpeg",
-            "description": "Christopher Hope-Fitch  · 2021",
+            "description": null,
             "title": "South Norwood Library ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_snl-_dsc7930-inside_b94688a8f40bf403dda6f644496a0bfe.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10218/building_10218_img_9352_08a706b09ca68c0312ec58c660c39e32.jpg",
-            "description": "Verena Ammon · 2021",
+            "description": null,
             "title": "Side view from Lawrence Road ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_img_9352_08a706b09ca68c0312ec58c660c39e32.jpg"
         }
     ],
     "links": [
         {
-            "href": "http://Brutalistlibraryse25.org",
-            "title": "Website"
+            "href": "change.org/brutalistlibrary,",
+            "title": null
         },
         {
-            "href": "https://twitter.com/brutalistlib",
-            "title": "@brutalistlib"
+            "href": "brutalistlibraryse25.org",
+            "title": null
         }
     ],
     "location": {
@@ -158,11 +147,11 @@
         "longitude": -0.0775821,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Norwood Junction",
-            "Bus routes: 75, 410, 130, 157, 197, 196, 312"
+            "Train: Norwood Junction",
+            "Bus: 75, 410, 130, 157, 197, 196, 312"
         ]
     },
-    "name": "South Norwood Library ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/10218",
+    "name": "South Norwood Library",
+    "original_url": "https://programme.openhouse.org.uk/listings/10218",
     "ticketed_events": false
 }

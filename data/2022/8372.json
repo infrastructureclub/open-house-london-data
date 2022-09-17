@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Kate Macintosh",
-                "description": "Original design",
+                "description": null,
                 "year": "1968"
             }
         ],
@@ -19,85 +19,88 @@
     },
     "events": [
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-07",
-            "end": "2022-09-07T12:30:00+01:00",
-            "fully_booked": null,
-            "name": "11am walk",
+            "booking_link": "https://programme.openhouse.org.uk/listings/8372",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "POSTPONED Macintosh Court Walk",
             "notes": null,
-            "start": "2022-09-07T11:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-17T11:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Talk",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 50,
-            "date": "2022-09-07",
-            "end": "2022-09-07T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "Talk by Kate Macintosh via Zoom tbc",
+            "booking_link": "https://programme.openhouse.org.uk/listings/8372",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "POSTPONED Lunchtime Talk Residents & Kate Macintosh",
             "notes": null,
-            "start": "2022-09-07T13:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-17T13:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-07",
-            "end": "2022-09-07T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "2pm Walk",
+            "booking_link": "https://programme.openhouse.org.uk/listings/8372",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "POSTPONED Macintosh Court Walk",
             "notes": null,
-            "start": "2022-09-07T14:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-17T14:30:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Disabled access"
-        ]
+        "Refreshments",
+        "Disabled access"
     ],
     "factsheet": [
         {
-            "heading": "History, Campaign and future (written by Architects for Social Housing)",
+            "heading": "History",
             "paragraphs": [
                 "Macintosh Court, 269 Leigham Court Road in Streatham is a purpose-built sheltered housing scheme with 45 flats that are currently home to 50 residents, all over the age of 60, all on secure tenancies. Designed by the exemplary architect Kate Macintosh to specifically house elderly people, it has been a highly successful and popular scheme for over 45 years."
+            ]
+        },
+        {
+            "heading": "Campaign",
+            "paragraphs": [
+                "The residents and their families led a campaign to list 269 Leigham Court Road following an attempt by Lambeth Council to demolish it against the wishes of its residents. Historic England recognised the significance of the scheme and awarded it Grade II Listing. This act prevented Lambeth from going ahead with demolition and selling it off as 'a cleared site'. The Sheltered Housing Scheme was renamed Macintosh Court in honour of its pioneering architect and has been part of Open House and London Festival of Architecture for the past few years.",
+                "However Lambeth Council continue to abuse its position as a landlord, forcing residents to expose the negligence and lack of care shown to them over the past few years. For example, the refurbishments on a listed building, such as external pipe work, are criminal; badly installed roofs have leaked causing untold water damage to residents homes and possessions; repair bills and contracts have gone over £1 million with scaffolding put up again to replace the original repair work that failed! The stress and anxiety put on these elderly residents has been immense, yet they continue to fight back. Kate Macintosh herself climbed up a ladder to inspect the roof work to find that the Prokol roof was installed correctly resulting in pools of water collecting without draining away."
             ]
         }
     ],
     "id": 8372,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8372/building_8372_macintosh-court-ash-1_6feb7a69b65a015e89093c03c2fa2fcd.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8372/building_8372_macintosh-court-ash-1_5ce9e2639bdb4b20fd93a7dd5195497e.jpg",
             "description": null,
             "title": "Macintosh Court from Street",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_8372_macintosh-court-ash-1_6feb7a69b65a015e89093c03c2fa2fcd.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8372_macintosh-court-ash-1_5ce9e2639bdb4b20fd93a7dd5195497e.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.facebook.com/macintoshcourt/",
-            "title": "Website"
-        },
-        {
-            "href": "https://twitter.com/court_sw16 ",
-            "title": "@court_sw16"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "269 Leigham Court Road, Streatham, SW16 2SB",
-        "latitude": 51.4298955,
-        "longitude": -0.1140792,
+        "latitude": 51.429896,
+        "longitude": -0.1140663,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: West Norwood, Streatham",
-            "Bus routes: 315, 417"
+            "Train: West Norwood, Streatham",
+            "Bus: 315, 417"
         ]
     },
-    "name": "Macintosh Court Sheltered Housing Scheme",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8372",
-    "ticketed_events": false
+    "name": "POSTPONED Macintosh Court Sheltered Housing Scheme",
+    "original_url": "https://programme.openhouse.org.uk/listings/8372",
+    "ticketed_events": true
 }

@@ -4,12 +4,18 @@
     "design": {
         "designers": [
             {
-                "architect": "Cassion Castle, Pearson  Lloyd",
-                "description": "Original design",
+                "architect": "Cassion Castle",
+                "description": null,
+                "year": "2020"
+            },
+            {
+                "architect": "Pearson  Lloyd",
+                "description": null,
                 "year": "2020"
             }
         ],
         "periods": [
+            "Offices",
             "Contemporary",
             "Historical/contemporary"
         ],
@@ -25,46 +31,106 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 300,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:30:00+01:00",
-            "fully_booked": null,
-            "name": "General Admission to Yorkton Workshop",
-            "notes": "There is no time limit to your visit or entry.",
-            "start": "2022-09-04T10:30:00+01:00",
+            "capacity": null,
+            "date": "2022-09-19",
+            "drop_in": true,
+            "end": "2022-09-19T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-19T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 300,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:30:00+01:00",
-            "fully_booked": null,
-            "name": "General Admission to Yorkton Workshops",
-            "notes": "There is no time limit to your visit or entry.",
-            "start": "2022-09-05T10:30:00+01:00",
+            "capacity": null,
+            "date": "2022-09-20",
+            "drop_in": true,
+            "end": "2022-09-20T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-20T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 300,
-            "date": "2022-09-06",
-            "end": "2022-09-06T17:30:00+01:00",
-            "fully_booked": null,
-            "name": "General Admission to Yorkton Workshops",
-            "notes": "There is no time limit to your visit or entry.",
-            "start": "2022-09-06T09:30:00+01:00",
+            "capacity": null,
+            "date": "2022-09-21",
+            "drop_in": true,
+            "end": "2022-09-21T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-21T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-22",
+            "drop_in": true,
+            "end": "2022-09-22T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-22T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-23",
+            "drop_in": true,
+            "end": "2022-09-23T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-23T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-24",
+            "drop_in": true,
+            "end": "2022-09-24T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-24T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-25",
+            "drop_in": true,
+            "end": "2022-09-25T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-25T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -99,83 +165,78 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9012/building_9012_pearson-lloyd_lr-40rt_e4a81aa311d6728e95395b2d1d98166c.jpg",
-            "description": "Taran Wilkhu · 2020",
+            "description": null,
             "title": "1-3 Yorkton Workshops",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9012_pearson-lloyd_lr-40rt_e4a81aa311d6728e95395b2d1d98166c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9012/building_9012_process-04-copy_0aacca86944e76d45caa2f2d5eb2d81b.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9012_process-04-copy_0aacca86944e76d45caa2f2d5eb2d81b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9012/building_9012_process-02-copy_37d1ed001cb379655d40fd6e7756ed09.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9012_process-02-copy_37d1ed001cb379655d40fd6e7756ed09.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9012/building_9012_pl-yorkton-core-set-08_3852a4c35efd269a64180d259a692aaf.jpg",
-            "description": "Taran Wilkhu · 2020",
+            "description": null,
             "title": "Entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9012_pl-yorkton-core-set-08_3852a4c35efd269a64180d259a692aaf.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9012/building_9012_pl-yorkton-core-set-10_17cb231af7e46eed980b3647f6e27fc7.jpg",
-            "description": "Taran Wilkhu · 2020",
+            "description": null,
             "title": "Bay 1 Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9012_pl-yorkton-core-set-10_17cb231af7e46eed980b3647f6e27fc7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9012/building_9012_pl-yorkton-core-set-11_2cdbda7b9635d36610dc7f2644f7e559.jpg",
-            "description": "Taran Wilkhu · 2020",
+            "description": null,
             "title": "Bay 1 & 2 Upstairs",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9012_pl-yorkton-core-set-11_2cdbda7b9635d36610dc7f2644f7e559.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9012/building_9012_pl-yorkton-core-set-28_f686dd88804b34580cc29d857bef807e.jpg",
-            "description": "Taran Wilkhu · 2020",
+            "description": null,
             "title": "Terrace and Bridge",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9012_pl-yorkton-core-set-28_f686dd88804b34580cc29d857bef807e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9012/building_9012_pl-yorkton-core-set-11_2d9245c8af66d84c86443174a80af8f0.jpg",
-            "description": "Taran Wilkhu · 2020",
+            "description": null,
             "title": "Pearson Lloyd Orange Staircase",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9012_pl-yorkton-core-set-11_2d9245c8af66d84c86443174a80af8f0.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9012/building_9012_pearson-lloyd_shoot-iii_web-10_276171b630b194117eb5c7022bbdca38.jpg",
-            "description": "Taran Wilkhu · 2020",
+            "description": null,
             "title": "Entrance ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9012_pearson-lloyd_shoot-iii_web-10_276171b630b194117eb5c7022bbdca38.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9012/building_9012_pearson-lloyd_shoot-iii_web-9_6f079ba6b093c0bf3cd21a1b9ffdb725.jpg",
-            "description": "Taran Wilkhu · 2020",
+            "description": null,
             "title": "Detail Doorways",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9012_pearson-lloyd_shoot-iii_web-9_6f079ba6b093c0bf3cd21a1b9ffdb725.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://pearsonlloyd.com/project/pearson-lloyd-yorkton-street-studios/",
-            "title": "Website"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "Yorkton Workshops, 1-3 Yorkton Street, E2 8NH",
         "latitude": 51.5314526,
         "longitude": -0.0689075,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Angel, Old Street, Bethnal Green",
-            "Nearest train: Hoxton, Cambridge Heath, Haggerston",
-            "Bus routes: 26, 48, 55"
+            "Tube: Angel, Old Street, Bethnal Green",
+            "Train: Hoxton, Cambridge Heath, Haggerston",
+            "Bus: 26, 48, 55"
         ]
     },
     "name": "Yorkton Workshops",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9012",
+    "original_url": "https://programme.openhouse.org.uk/listings/9012",
     "ticketed_events": false
 }

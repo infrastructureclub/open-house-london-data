@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Joseph Dixon",
-                "description": "Original design",
+                "description": null,
                 "year": "1775"
             }
         ],
@@ -18,35 +18,37 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 40,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Church open",
-            "notes": "Tickets not needed",
-            "start": "2022-09-04T12:00:00+01:00",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T12:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 40,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Church open",
-            "notes": "Tickets not needed",
-            "start": "2022-09-05T13:00:00+01:00",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T13:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -64,10 +66,10 @@
     "id": 2533,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2533/building_2533_s320170712-4-1m3hyfv20170712-4-1btuo1l20170712-4-x8u0sf_d700173c177d604627c2ddb7d2f14024.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2533/building_2533_st-mary-s_cb13aae8632dc5fc311a3f1608ebaa57.JPG",
             "description": null,
             "title": "St Mary's Battersea",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_2533_s320170712-4-1m3hyfv20170712-4-1btuo1l20170712-4-x8u0sf_d700173c177d604627c2ddb7d2f14024.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2533_st-mary-s_cb13aae8632dc5fc311a3f1608ebaa57.JPG"
         }
     ],
     "links": [],
@@ -77,12 +79,12 @@
         "longitude": -0.1747989,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: South Kensington, Sloane Square",
-            "Nearest train: Clapham Junction",
-            "Bus routes: 19, 49, 170, 319, 345"
+            "Tube: South Kensington, Sloane Square",
+            "Train: Clapham Junction",
+            "Bus: 19, 49, 170, 319, 345"
         ]
     },
     "name": "St Mary's Church, Battersea",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2533",
+    "original_url": "https://programme.openhouse.org.uk/listings/2533",
     "ticketed_events": false
 }

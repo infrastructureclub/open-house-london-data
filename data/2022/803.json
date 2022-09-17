@@ -4,61 +4,25 @@
     "design": {
         "designers": [
             {
-                "architect": "Charles H Driver, Joseph Bazalgette",
-                "description": "Original design",
+                "architect": "Charles H Driver",
+                "description": null,
                 "year": "1900"
             },
             {
-                "architect": "Saski Hunning - historic painter",
-                "description": "Restoration",
-                "year": "2019"
+                "architect": "Joseph Bazalgette",
+                "description": null,
+                "year": "1900"
             }
         ],
         "periods": [
+            "Saski Hunning - historic painter",
             "Victorian"
         ],
         "types": [
             "infrastructure/engineering"
         ]
     },
-    "events": [
-        {
-            "all_day": true,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T23:59:00+01:00",
-            "fully_booked": null,
-            "name": "Open City Film Premiere - Abbey Mills Pumping Station",
-            "notes": "https://youtu.be/9BfW9jbVC5M",
-            "start": "2022-09-04T00:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour",
-            "notes": "Access by pre-booked tour only. Tours starting on the hour, last tour at 4pm. All tours will follow current COVID guidelines.",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour",
-            "notes": "Access by pre-booked tour only. Tours starting on the hour, last tour at 4pm. All tours will follow current COVID guidelines.",
-            "start": "2022-09-05T10:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -69,27 +33,34 @@
                 "Italian Gothic style. Greek Cross plan. Yellow brick with red and blue brick and stone dressings. Slate mansard roof. Two storeys plus dormers. Entrance wing and the ends of the other arms five bays wide with round headed central entrance porch. Round headed windows with polychrome decoration. Larger central window to upper storey divided by elaborate cast ironwork. Heavy stone string course to ground and first floors. Modillioned eaves cornice. Elaborate timber door with foliated ironwork. Slightly pointed yellow and red brick arches to recessed sash windows. Central octagonal domed lantern with round arched gabled windows to each face, containing case iron tracery. Elaborate wrought iron cresting to dome. Flamboyant interior or enriched cast ironwork. Central octagonal lantern. Original beam engines have been removed. Elaborate carving of stonework outside and inside.",
                 "Abbey Mills is an early example of the work of Charles Driver, who assisted Bazalgette and Cooper. Driver specialised in engineering-based work, particularly railways. His designs include stations on the south London line, and those at Box Hill and Tunbridge Wells West. He established a considerable practice and obtained overseas commissions, such as the Central Market in Santiago, Chile."
             ]
+        },
+        {
+            "heading": "Booking and tour information.",
+            "paragraphs": [
+                "Tours will take place on 10/11 & 17/18 September\nTours start on the hour between 1000-1600 (last tour 1500) for ticket holders only",
+                "Follow this link to book: https://bit.ly/abbeymills"
+            ]
         }
     ],
     "id": 803,
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/803/building_803_abbey-mills-pumping-station-historical-nocredit_622e67846667314aedb92f2356af619c.JPG",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_803_abbey-mills-pumping-station-historical-nocredit_622e67846667314aedb92f2356af619c.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/803/building_803_abbey-mills-pumping-station-historical-credit-simon-bell-2_c9db4bbb9c25abea8a0c1f875aad7ecd.jpg",
-            "description": "Simon Bell",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_803_abbey-mills-pumping-station-historical-credit-simon-bell-2_c9db4bbb9c25abea8a0c1f875aad7ecd.jpg"
         }
     ],
     "links": [
         {
-            "href": "https://www.eventbrite.co.uk/e/abbey-mills-pumping-station-open-house-festival-2021-tickets-162246578885",
-            "title": "Book tickets via Eventbrite"
+            "href": "https://bit.ly/abbeymills",
+            "title": null
         }
     ],
     "location": {
@@ -98,12 +69,12 @@
         "longitude": -0.0037856,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: West Ham",
-            "Nearest train: Stratford",
-            "Bus routes: 25, 108, 276, 425, D8"
+            "Tube: West Ham",
+            "Train: Stratford",
+            "Bus: 25, 108, 276, 425, D8"
         ]
     },
     "name": "Abbey Mills Pumping Station",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/803",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/803",
+    "ticketed_events": false
 }

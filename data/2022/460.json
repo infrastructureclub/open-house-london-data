@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1756"
             }
         ],
@@ -18,37 +18,25 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Garrick's Temple to Shakespeare Open Day",
-            "notes": null,
-            "start": "2022-09-05T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Garrick's Temple to Shakespeare Open Day",
-            "notes": null,
-            "start": "2022-09-12T14:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T12:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Bookshop",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Refreshments",
+        "Bookshop",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -82,41 +70,41 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/460/building_460_1-garrick-s-temple-ready-for-visitors_1f8cf31ab4388aba9257114b5868b0bf.jpg",
-            "description": "Lewis Lloyd · 2017",
+            "description": null,
             "title": "Garrick's Temple open for visitors, 1st May 2017",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_460_1-garrick-s-temple-ready-for-visitors_1f8cf31ab4388aba9257114b5868b0bf.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/460/building_460_1-loki-1a-william-summers-elin-harries-kathryn-bennet_74e4bd410e937b31ce06fa42fc940abd.jpg",
-            "description": "Lewis Lloyd · 2018",
+            "description": null,
             "title": "Musicians preparing for concert in Garrick's Temple, April 2018 ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_460_1-loki-1a-william-summers-elin-harries-kathryn-bennet_74e4bd410e937b31ce06fa42fc940abd.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/460/building_460_9-dancing-round-the-maypole_21c820871929e27cd0d58058577b4cf8.jpg",
-            "description": "Lewis Lloyd · 2016",
+            "description": null,
             "title": "Dancing round the Maypole, 1st May 2016",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_460_9-dancing-round-the-maypole_21c820871929e27cd0d58058577b4cf8.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/460/building_460_220px-garrick-s_temple_south_view_d2835f24f7f380c04964a49677da0f54.jpg",
-            "description": "",
+            "description": null,
             "title": "View of the Temple from across the River Thames",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_460_220px-garrick-s_temple_south_view_d2835f24f7f380c04964a49677da0f54.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Garrick's Lawn, Hampton Court Road, , Hampton, TW12 2EN",
+        "address": "Garrick's Lawn, Hampton Court Road, , Hampton",
         "latitude": 51.4123247,
         "longitude": -0.3592084,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Hampton, Hampton Court, Kingston",
-            "Bus routes: 111, 216, R68"
+            "Train: Hampton, Hampton Court, Kingston",
+            "Bus: 111, 216, R68"
         ]
     },
     "name": "Garrick's Temple to Shakespeare, Hampton",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/460",
+    "original_url": "https://programme.openhouse.org.uk/listings/460",
     "ticketed_events": false
 }

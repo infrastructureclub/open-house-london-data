@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Paxton Locher Architects",
-                "description": "Original design",
+                "description": null,
                 "year": "1995"
             }
         ],
@@ -16,36 +16,9 @@
             "residence"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Paxton Locher House",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Paxton Locher House",
-            "notes": null,
-            "start": "2022-09-05T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -69,43 +42,43 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1334/building_1334_dscf8946_0ea4897f2ab2c9df01be34d333a94ed5.jpg",
-            "description": "Peter Clark Images · 2017",
+            "description": null,
             "title": "Opening Roof",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf8946_0ea4897f2ab2c9df01be34d333a94ed5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1334/building_1334_dscf8863_758806b21ac600f87b7938a0d0a6746f.jpg",
-            "description": "Peter Clark Images · 2017",
+            "description": null,
             "title": "Fire",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf8863_758806b21ac600f87b7938a0d0a6746f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1334/building_1334_dscf8919_22ec1303477532a20a49040968c4862d.jpg",
-            "description": "Peter Clark Images · 2017",
+            "description": null,
             "title": "Cherry Wood Bath",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf8919_22ec1303477532a20a49040968c4862d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1334/building_1334_dscf8938_f70d3664bd5f44420e42322474aa3e67.jpg",
-            "description": "Peter Clark Images · 2017",
+            "description": null,
             "title": "Atrium with Opening Roof",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf8938_f70d3664bd5f44420e42322474aa3e67.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1334/building_1334_dscf0899_d93da40c92973c38b9366dbf3b15bcd1.jpg",
-            "description": "Peter Clark Images · 2016",
+            "description": null,
             "title": "Bathroom from Bedroom",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf0899_d93da40c92973c38b9366dbf3b15bcd1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1334/building_1334_dscf0937_4cf718d855b53e17c9ff2c375b9be526.jpg",
-            "description": "Peter Clark Images · 2016",
+            "description": null,
             "title": "Hinged Rooflight",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf0937_4cf718d855b53e17c9ff2c375b9be526.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1334/building_1334_dscf8870_f8cd4c0283edd293048cb2d6ffdaf1fb.jpg",
-            "description": "Peter Clark Images · 2017",
+            "description": null,
             "title": "Kitchen",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf8870_f8cd4c0283edd293048cb2d6ffdaf1fb.jpg"
         }
@@ -117,12 +90,12 @@
         "longitude": -0.1045787,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Farringdon",
-            "Nearest train: Farringdon",
-            "Bus routes: 55, 243, 153, 63"
+            "Tube: Farringdon",
+            "Train: Farringdon",
+            "Bus: 55, 243, 153, 63"
         ]
     },
     "name": "Paxton Locher House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1334",
+    "original_url": "https://programme.openhouse.org.uk/listings/1334",
     "ticketed_events": false
 }

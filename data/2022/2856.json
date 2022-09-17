@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Nicholas Hawksmoor",
-                "description": "Original design",
+                "description": null,
                 "year": "1720"
             }
         ],
@@ -16,25 +16,10 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General access",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -67,24 +52,29 @@
     "id": 2856,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2856/building_2856_s320170712-4-b3ae7s20170712-4-118p8k420170712-4-gz383s_5aa11bef9f0bdf056cf9f68c7ef8c078.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2856/building_2856_church-scene_f09303546c75acf522a67a6ad872e978.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_2856_s320170712-4-b3ae7s20170712-4-118p8k420170712-4-gz383s_5aa11bef9f0bdf056cf9f68c7ef8c078.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2856_church-scene_f09303546c75acf522a67a6ad872e978.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "www.thebeasts.info",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Bloomsbury Way, WC1A 2SA",
         "latitude": 51.5178991,
         "longitude": -0.1236687,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Tottenham Court Road, Holborn, Russell Square",
-            "Bus routes: 8, 19, 38, 55"
+            "Tube: Tottenham Court Road, Holborn, Russell Square",
+            "Bus: 8, 19, 38, 55"
         ]
     },
     "name": "St George's Bloomsbury",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2856",
+    "original_url": "https://programme.openhouse.org.uk/listings/2856",
     "ticketed_events": false
 }

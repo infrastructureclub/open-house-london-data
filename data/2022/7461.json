@@ -5,89 +5,26 @@
         "designers": [
             {
                 "architect": "William Egerton",
-                "description": "Original design",
+                "description": null,
                 "year": "1906"
-            },
-            {
-                "architect": "Robin Lee Architects",
-                "description": "Refurbishment",
-                "year": "2021"
-            },
-            {
-                "architect": "Sarah Price Landscapes",
-                "description": "Landscape design",
-                "year": "2021"
-            },
-            {
-                "architect": "The Mosaic Restoration Company",
-                "description": "Restoration",
-                "year": "2022"
             }
         ],
         "periods": [
+            "Robin Lee Architects",
+            "Sarah Price Landscapes",
+            "The Mosaic Restoration Company",
             "Historical/contemporary"
         ],
         "types": [
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-11",
-            "end": "2022-09-11T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tours of The Exchange",
-            "notes": null,
-            "start": "2022-09-11T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-11",
-            "end": "2022-09-11T13:30:00+01:00",
-            "fully_booked": null,
-            "name": "Tours of The Exchange",
-            "notes": null,
-            "start": "2022-09-11T12:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-11",
-            "end": "2022-09-11T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tours of The Exchange",
-            "notes": null,
-            "start": "2022-09-11T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:30:00+01:00",
-            "fully_booked": null,
-            "name": "Tours of The Exchange",
-            "notes": null,
-            "start": "2022-09-11T15:30:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Family activities during open house festival",
-            "Refreshments",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Family activities",
+        "Refreshments",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -125,62 +62,53 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7461/building_7461_1907_circa_d770c3fe622a7fc031634e6d9de66389.jpeg",
-            "description": "Bexley Local Studies and Archives · 1907",
+            "description": null,
             "title": "View from Walnut Tree Road",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7461_1907_circa_d770c3fe622a7fc031634e6d9de66389.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7461/building_7461_image_reduced_dd74218ff7f6745c79cb57dded726ff9.jpg",
-            "description": "2017",
+            "description": null,
             "title": "Close up of Erith's Carnegie Building",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7461_image_reduced_dd74218ff7f6745c79cb57dded726ff9.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7461/building_7461_the-exchange-mattchungphoto-hi-res-141_ca6fc13d1cc895b7d3e97a03b35eadde.jpg",
-            "description": "Matt Chung · 2022",
+            "description": null,
             "title": "The Old Library",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7461_the-exchange-mattchungphoto-hi-res-141_ca6fc13d1cc895b7d3e97a03b35eadde.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7461/building_7461_north-room-doors-open_0402446137144bfe95f3d3ae5b73e268.jpg",
-            "description": "Matt Chung · 2022",
+            "description": null,
             "title": "The North Room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7461_north-room-doors-open_0402446137144bfe95f3d3ae5b73e268.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7461/building_7461_town-square-full-size_11236a8dd3eb9f0817bde823fa040f93.jpg",
-            "description": "Matt Chung · 2022",
+            "description": null,
             "title": "The Town Square",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7461_town-square-full-size_11236a8dd3eb9f0817bde823fa040f93.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7461/building_7461_e33a7761_e331c2e790f77024b42bf9f0bdf9ebe5.jpg",
-            "description": "2022",
+            "description": null,
             "title": "Our Sarah Price designed Garden with Surrey Iron Craft Greenhouse.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7461_e33a7761_e331c2e790f77024b42bf9f0bdf9ebe5.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "http://www.theexchangeerith.com",
-            "title": "Website"
-        },
-        {
-            "href": "https://twitter.com/exchangeerith",
-            "title": "@exchangeerith"
-        }
-    ],
+    "links": [],
     "location": {
-        "address": "The Old Library, Walnut Tree Road, Erith, DA8 1RS",
+        "address": "The Old Library, Walnut Tree Road, Erith",
         "latitude": 51.4812407,
         "longitude": 0.1775232,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Abbey Wood, Erith",
-            "Bus routes: 229, 99, 469"
+            "Train: Abbey Wood, Erith",
+            "Bus: 229, 99, 469"
         ]
     },
     "name": "The Old Library, Erith (The Exchange)",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/7461",
+    "original_url": "https://programme.openhouse.org.uk/listings/7461",
     "ticketed_events": false
 }

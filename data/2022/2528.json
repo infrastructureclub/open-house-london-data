@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1190"
             }
         ],
@@ -18,35 +18,37 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 15,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "St Mary the Virgin",
-            "notes": "No access to crypt",
-            "start": "2022-09-04T10:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T14:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 15,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "St Mary the Virgin",
-            "notes": "No access to crypt",
-            "start": "2022-09-05T13:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T13:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Toilets",
-            "Parking"
-        ]
+        "Toilets",
+        "Parking"
     ],
     "factsheet": [
         {
@@ -64,19 +66,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2528/building_2528_surfeit-st-mary-s-from-the-north-east_b5f77a8d650558675cf94a26543b1104.jpg",
-            "description": "",
+            "description": null,
             "title": "St Mary's from the north east",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2528_surfeit-st-mary-s-from-the-north-east_b5f77a8d650558675cf94a26543b1104.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2528/building_2528_surfeit-from-window-in-lethieullier-chapel_29c44a16c087437993e85ab11f2eb94a.jpg",
-            "description": "",
+            "description": null,
             "title": "From window in Lethieullier chapel",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2528_surfeit-from-window-in-lethieullier-chapel_29c44a16c087437993e85ab11f2eb94a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2528/building_2528_imgp0006_8b3af115daf05b617b46ca277b25fa13.JPG",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2528_imgp0006_8b3af115daf05b617b46ca277b25fa13.JPG"
         }
@@ -88,12 +90,12 @@
         "longitude": 0.0586338,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: East Ham",
-            "Nearest train: Manor Park, Woodgrange Park",
-            "Bus routes: 25, 86, 101, 104, 147, 474"
+            "Tube: East Ham",
+            "Train: Manor Park, Woodgrange Park",
+            "Bus: 25, 86, 101, 104, 147, 474"
         ]
     },
     "name": "St Mary the Virgin",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2528",
+    "original_url": "https://programme.openhouse.org.uk/listings/2528",
     "ticketed_events": false
 }

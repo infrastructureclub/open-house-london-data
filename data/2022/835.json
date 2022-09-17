@@ -5,21 +5,13 @@
         "designers": [
             {
                 "architect": "Robert and James Adam",
-                "description": "Original design",
+                "description": null,
                 "year": "1764"
-            },
-            {
-                "architect": "George Saunders",
-                "description": "Extension",
-                "year": "1793"
-            },
-            {
-                "architect": "Humphrey Repton",
-                "description": "Landscape design",
-                "year": "1793"
             }
         ],
         "periods": [
+            "Humphrey Repton",
+            "George Saunders",
             "Georgian"
         ],
         "types": [
@@ -28,52 +20,13 @@
             "museum"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Visit Kenwood's 18th-century Dairy",
-            "notes": "Visit Kenwood's ornamental dairy, designed and built for Louisa, 2nd Countess of Mansfield at the end of the 18th-century. The Wedgwood tiled 'Settling Room', where milk was made into cream, and the Countess's private tea room will be open 12pm to 4pm. Booking is not required but there may be a short wait.",
-            "start": "2022-09-05T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Kenwood Carriage House",
-            "notes": "Visit Kenwood's carriage house, built in the 1790s for the 2nd Earl of Mansfield and see two of Kenwood's hidden treasures - Lord Iveagh's four-in-hand Drag carriage and an Edwardian Romany vardo, once a regular site at the annual Hampstead Heath Fair. No booking required but as capacity is limited, expect a short wait.",
-            "start": "2022-09-11T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Kenwood's hidden Kitchen Garden",
-            "notes": "Visit Kenwood's walled Kitchen Garden and find out more about the array of fruit and veg grown on the estate in the 18th and 19th centuries, as well as the work of Kenwood's 21st-century gardeners. Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T12:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Bookshop",
-            "Parking",
-            "Refreshments",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Bookshop",
+        "Parking",
+        "Refreshments",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -156,61 +109,61 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/835/building_835_n070265_e804879b82cebedf18da5060e1b95f1b.jpg",
-            "description": "© Historic England Photo Library · 2007",
+            "description": null,
             "title": "Kenwood from the South",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_835_n070265_e804879b82cebedf18da5060e1b95f1b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/835/building_835_n130020_cc2e332aab0e1675e199413663ebf8d6.jpg",
-            "description": "© Historic England Photo Library · 2013",
+            "description": null,
             "title": "Library at Kenwood",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_835_n130020_cc2e332aab0e1675e199413663ebf8d6.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/835/building_835_eh23406_50373bbb905d301915e67c94e23af65d.jpg",
-            "description": "English Heritage Trust · 2016",
+            "description": null,
             "title": "The 18th-century Settling Room ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_835_eh23406_50373bbb905d301915e67c94e23af65d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/835/building_835_eh23404_da56afdff61a5692977d87c5eb741fa3.jpg",
-            "description": "English Heritage Trust · 2016",
+            "description": null,
             "title": "The Dairy at Kenwood",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_835_eh23404_da56afdff61a5692977d87c5eb741fa3.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/835/building_835_eh11705_419637fa509e876c7c8575840b8ec9e9.jpg",
-            "description": "English Heritage Trust · 2015",
+            "description": null,
             "title": "Self-Portrait with Two Circles, by Rembrandt van Rijn",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_835_eh11705_419637fa509e876c7c8575840b8ec9e9.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/835/building_835_eh23366_40d1152c829cc98c2e163b49433f815d.jpg",
-            "description": "English Heritage Trust · 2016",
+            "description": null,
             "title": "The 18th-century Tea Room at the Dairy",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_835_eh23366_40d1152c829cc98c2e163b49433f815d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/835/building_835_eh6660_78ff500697f69caa304e25a3863f850c.jpg",
-            "description": "English Heritage Trust · 2015",
+            "description": null,
             "title": "The Entrance Hall at Kenwood",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_835_eh6660_78ff500697f69caa304e25a3863f850c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/835/building_835_music-room_web_27e0c3835427542ab326a82f29340feb.jpg",
-            "description": "Photograph by Henry Boston-Crayfourd · 2022",
+            "description": null,
             "title": "The Music Room at Kenwood",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_835_music-room_web_27e0c3835427542ab326a82f29340feb.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/835/building_835_eh6672_2063f1b2a305d96788b090c58e9c2b22.jpg",
-            "description": "English Heritage Trust · 2016",
+            "description": null,
             "title": "The South Front of Kenwood",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_835_eh6672_2063f1b2a305d96788b090c58e9c2b22.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/835/building_835_eh11700_bc8e0026cf7488a3a6457bc6c96f2e6f.jpg",
-            "description": "English Heritage Trust · 2015",
+            "description": null,
             "title": "The East Wing of Kenwood",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_835_eh11700_bc8e0026cf7488a3a6457bc6c96f2e6f.jpg"
         }
@@ -222,12 +175,12 @@
         "longitude": -0.1675998,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Archway, Hampstead, Golders Green",
-            "Nearest train: Hampstead Heath",
-            "Bus routes: 210"
+            "Tube: Archway, Hampstead, Golders Green",
+            "Train: Hampstead Heath",
+            "Bus: 210"
         ]
     },
-    "name": "Kenwood ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/835",
+    "name": "Kenwood",
+    "original_url": "https://programme.openhouse.org.uk/listings/835",
     "ticketed_events": false
 }

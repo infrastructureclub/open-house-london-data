@@ -5,16 +5,14 @@
         "designers": [
             {
                 "architect": "Garth family",
-                "description": "Original design",
+                "description": null,
                 "year": "1630"
-            },
-            {
-                "architect": "Holywell Glass,  Wells,  Somerset",
-                "description": "Restoration",
-                "year": "2020"
             }
         ],
         "periods": [
+            "Holywell Glass",
+            " Wells",
+            " Somerset",
             "Stuart"
         ],
         "types": [
@@ -23,38 +21,40 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Historical tours",
-            "notes": null,
-            "start": "2022-09-11T10:00:00+01:00",
+            "capacity": 30,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Historical tours",
-            "notes": null,
-            "start": "2022-09-12T14:00:00+01:00",
+            "capacity": 30,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T14:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Family activities during open house festival",
-            "Parking",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Family activities",
+        "Parking",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -92,39 +92,39 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3260/building_3260_mordenchext2_97420daef475ba546e3392fd3cf6de37.jpg",
-            "description": "",
+            "description": null,
             "title": "General view from London Road",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3260_mordenchext2_97420daef475ba546e3392fd3cf6de37.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3260/building_3260_east-window_df0e08723cc67b55ae18db2715eb3d39.jpg",
-            "description": "",
+            "description": null,
             "title": "East Window",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3260_east-window_df0e08723cc67b55ae18db2715eb3d39.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3260/building_3260_mordenchint1_09e4ba8447f9587e5e42c7e6b8fdb133.jpg",
-            "description": "",
+            "description": null,
             "title": "Church Interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3260_mordenchint1_09e4ba8447f9587e5e42c7e6b8fdb133.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3260/building_3260_mauvillain_9687c85f025337c959ac7f2504f38db8.jpg",
-            "description": "",
+            "description": null,
             "title": "One of our family tombs",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3260_mauvillain_9687c85f025337c959ac7f2504f38db8.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3260/building_3260_final-board_web_9ce384e5137b88ed9fbbd6f8c7720a39.jpg",
-            "description": "",
+            "description": null,
             "title": "Churchyard trail",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3260_final-board_web_9ce384e5137b88ed9fbbd6f8c7720a39.jpg"
         }
     ],
     "links": [
         {
-            "href": "http://Stlm.uk",
-            "title": "Website"
+            "href": "https://stlawrencechurch.co.uk/churchyard-trail/",
+            "title": null
         }
     ],
     "location": {
@@ -133,12 +133,12 @@
         "longitude": -0.203445,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Morden",
-            "Nearest train: Morden South",
-            "Bus routes: 93, 80, 154"
+            "Tube: Morden",
+            "Train: Morden South",
+            "Bus: 93, 80, 154"
         ]
     },
     "name": "St Lawrence Church, Morden",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/3260",
+    "original_url": "https://programme.openhouse.org.uk/listings/3260",
     "ticketed_events": false
 }

@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Donald Plaskett Marshall & Partners",
-                "description": "Original design",
+                "description": null,
                 "year": "1960"
             }
         ],
@@ -18,24 +18,24 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Hans Feibusch: \"Five Stories from The Old Testament\" (Paintings)",
-            "notes": null,
-            "start": "2022-09-11T10:00:00+01:00",
+            "capacity": 50,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -52,54 +52,59 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6768/building_6768_b1a493cc_afbc2f8d393513c995de3bbead38ee7c.jpg",
-            "description": "DKG London · 2020",
+            "description": null,
             "title": "Inside Church",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6768_b1a493cc_afbc2f8d393513c995de3bbead38ee7c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6768/building_6768_20210402_142624_d493d785a38c92269b6ba17b44a45552.jpg",
-            "description": "DKG London  · 2021",
+            "description": null,
             "title": "Tower and Church",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6768_20210402_142624_d493d785a38c92269b6ba17b44a45552.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6768/building_6768_20210402_142805_f9e25ea91acb320006e57e133b39bad7.jpg",
-            "description": "DKG London · 2021",
+            "description": null,
             "title": "Church Entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6768_20210402_142805_f9e25ea91acb320006e57e133b39bad7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6768/building_6768_img_6374-hdr_f4bcc903a8b85bbc8468fc4e7eeeb289.jpg",
-            "description": "DKG London · 2020",
+            "description": null,
             "title": "Inside Nave",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6768_img_6374-hdr_f4bcc903a8b85bbc8468fc4e7eeeb289.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6768/building_6768_dsc_5669_95b4f1ca2775a76450d5c3c4501f37b5.jpg",
-            "description": "Justin Piperger Photography · 2021",
+            "description": null,
             "title": "Hans Feibusch Moses (Detail)",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6768_dsc_5669_95b4f1ca2775a76450d5c3c4501f37b5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6768/building_6768_dsc_5678_a86ee60f6e4ec4d62d4fff8afb7aab61.jpg",
-            "description": "Justin Piperger Photography · 2021",
+            "description": null,
             "title": "Hans Feibusch Naomi (Detail)",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6768_dsc_5678_a86ee60f6e4ec4d62d4fff8afb7aab61.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "www.dkg-london.org",
+            "title": null
+        }
+    ],
     "location": {
         "address": "47 Adler Street, E1 1EE",
         "latitude": 51.5157818,
         "longitude": -0.0672591,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Aldgate East",
-            "Nearest train: Fenchurch Street, Liverpool Street",
-            "Bus routes: 25, 205, 254, 15, 115, 135"
+            "Tube: Aldgate East",
+            "Train: Fenchurch Street, Liverpool Street",
+            "Bus: 25, 205, 254, 15, 115, 135"
         ]
     },
     "name": "St Bonifatius RC German Church",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6768",
+    "original_url": "https://programme.openhouse.org.uk/listings/6768",
     "ticketed_events": false
 }

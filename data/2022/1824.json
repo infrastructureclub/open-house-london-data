@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Sir Christopher Wren",
-                "description": "Original design",
+                "description": null,
                 "year": "1677"
             }
         ],
@@ -18,24 +18,24 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Public visiting times",
-            "notes": "Host Cafe will take orders up to 3:00 p.m. There will only be a maximum number of visitors at any one time if COVID regulations reimpose a limit.",
-            "start": "2022-09-04T09:30:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T09:30:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Refreshments",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -74,48 +74,53 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1824/building_1824_120214-st-mary-aldermary-from-walbrook_860358d90e0b703831ba597b4499748d.JPG",
-            "description": "Keith Billinghurst · 2012",
+            "description": null,
             "title": "St Mary Aldermary with St Pauls in the background",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1824_120214-st-mary-aldermary-from-walbrook_860358d90e0b703831ba597b4499748d.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1824/building_1824_img_3958-edited_3dd04f05ac21568fd3f3a2d87774ca0b.jpg",
-            "description": "Keith Billinghurst · 2019",
+            "description": null,
             "title": "The ceiling about the nave",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1824_img_3958-edited_3dd04f05ac21568fd3f3a2d87774ca0b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1824/building_1824_img_3961-edited_74a43341432f18e3fcf08cff9973538e.jpg",
-            "description": "Keith BIllinghurst · 2019",
+            "description": null,
             "title": "The south-east chapel",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1824_img_3961-edited_74a43341432f18e3fcf08cff9973538e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1824/building_1824_img_6468-edited_fea316046d28019ca5150e8983f243b7.jpg",
-            "description": "Keith Billinghurst · 2022",
+            "description": null,
             "title": "The wooden sword rest",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1824_img_6468-edited_fea316046d28019ca5150e8983f243b7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1824/building_1824_img_6466_2dfe9f17ec30852c8bfff46449665015.jpg",
-            "description": "Keith Billinghurst · 2022",
+            "description": null,
             "title": "The Chancel",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1824_img_6466_2dfe9f17ec30852c8bfff46449665015.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "moot.uk.net",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Watling Street, EC4M 9BW",
         "latitude": 51.5130124,
         "longitude": -0.093623,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Mansion House, Bank",
-            "Nearest train: Cannon Street",
-            "Bus routes: 521, 26, 15, 17, 11, 4"
+            "Tube: Mansion House, Bank",
+            "Train: Cannon Street",
+            "Bus: 521, 26, 15, 17, 11, 4"
         ]
     },
     "name": "The City Churches: St Mary Aldermary",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1824",
+    "original_url": "https://programme.openhouse.org.uk/listings/1824",
     "ticketed_events": false
 }

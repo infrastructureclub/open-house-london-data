@@ -5,13 +5,8 @@
         "designers": [
             {
                 "architect": "Henry Flitcroft",
-                "description": "Original design",
+                "description": null,
                 "year": "1703"
-            },
-            {
-                "architect": "Henry Flitcroft",
-                "description": "Refurbishment",
-                "year": "1744"
             }
         ],
         "periods": [
@@ -26,35 +21,65 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access",
-            "notes": null,
-            "start": "2022-09-04T11:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access",
-            "notes": null,
-            "start": "2022-09-11T11:00:00+01:00",
+            "date": "2022-09-19",
+            "drop_in": true,
+            "end": "2022-09-19T21:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-19T09:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-20",
+            "drop_in": true,
+            "end": "2022-09-20T21:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-20T09:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-21",
+            "drop_in": true,
+            "end": "2022-09-21T21:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-21T09:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Bookshop",
-            "Toilets"
-        ]
+        "Bookshop",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -85,70 +110,65 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4108/building_4108_south-facade_8f8d086cd88c62f3c1c0bd3bad2d3a03.png",
-            "description": "2017",
+            "description": null,
             "title": "South Facade on Bloomsbury Way",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4108_south-facade_8f8d086cd88c62f3c1c0bd3bad2d3a03.png"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4108/building_4108__mg_8268_preview_76f4a9153e0fd21739aa41905ef453f1.jpeg",
-            "description": "",
+            "description": null,
             "title": "Outside of the building",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4108__mg_8268_preview_76f4a9153e0fd21739aa41905ef453f1.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4108/building_4108__mg_8259_preview-1_088042595b4e574ce5425f422b971978.jpeg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4108__mg_8259_preview-1_088042595b4e574ce5425f422b971978.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4108/building_4108_pls_9358_9f1a5bfb2ce06022d464d7e017d85ba6.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4108_pls_9358_9f1a5bfb2ce06022d464d7e017d85ba6.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4108/building_4108_download_ea2e299c02d312db1ff5927c9ce3eac5.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4108_download_ea2e299c02d312db1ff5927c9ce3eac5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4108/building_4108_slide-4-external-view-new-picture-of-door_115bffdeea79c0e8a2ed832e2b466662.JPG",
-            "description": "2017",
+            "description": null,
             "title": "Front door",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4108_slide-4-external-view-new-picture-of-door_115bffdeea79c0e8a2ed832e2b466662.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4108/building_4108_pushkin-house-reception-room_2a1668c6b3aa44849ed95b9c4f3289d3.jpg",
-            "description": "2019",
+            "description": null,
             "title": "The 'Music and Function Room'",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4108_pushkin-house-reception-room_2a1668c6b3aa44849ed95b9c4f3289d3.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4108/building_4108_ph-facade-for-mockup-2_e534f944795010045d68ef16d5030375.jpg",
-            "description": "Rafy Hay · 2019",
+            "description": null,
             "title": "View from Bloomsbury Square",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4108_ph-facade-for-mockup-2_e534f944795010045d68ef16d5030375.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.pushkinhouse.org/events/2021/9/9/cubes-and-columns-with-alexei-leporc",
-            "title": "Book tickets via Pushkin House"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "5a Bloomsbury Square, WC1A 2TA",
         "latitude": 51.5182912,
         "longitude": -0.1230772,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Holborn, Russell Square",
-            "Bus routes: 1, 8, 19, 38, 55"
+            "Tube: Holborn, Russell Square",
+            "Bus: 1, 8, 19, 38, 55"
         ]
     },
     "name": "Pushkin House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/4108",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/4108",
+    "ticketed_events": false
 }

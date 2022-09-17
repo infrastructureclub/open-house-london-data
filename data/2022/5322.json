@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Zaha Hadid Architects",
-                "description": "Original design",
+                "description": null,
                 "year": "2011"
             }
         ],
@@ -20,84 +20,66 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Designing Out",
-            "notes": "Showcasing LGBTQIA+ talent from beyond professional practice. With participants selected from a national open call of submissions this exhibition reflects on the importance of LGBTQIA+ perspectives emerging across the field of architecture and the important role they play in building a more accepting, diverse world.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T11:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Designing Out",
-            "notes": "Showcasing LGBTQIA+ talent from beyond professional practice. With participants selected from a national open call of submissions this exhibition reflects on the importance of LGBTQIA+ perspectives emerging across the field of architecture and the important role they play in building a more accepting, diverse world.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T11:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/5322",
             "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Designing Out",
-            "notes": "Showcasing LGBTQIA+ talent from beyond professional practice. With participants selected from a national open call of submissions this exhibition reflects on the importance of LGBTQIA+ perspectives emerging across the field of architecture and the important role they play in building a more accepting, diverse world.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T11:00:00+01:00",
-            "ticketed": false
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour with Zaha Hadid Design (unticketed)",
+            "notes": null,
+            "start": "2022-09-17T12:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/5322",
             "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "Architectural Tour by Zaha Hadid Architects",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Architectural Tour by Zaha Hadid Architects",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T15:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Designing Out",
-            "notes": "Showcasing LGBTQIA+ talent from beyond professional practice. With participants selected from a national open call of submissions this exhibition reflects on the importance of LGBTQIA+ perspectives emerging across the field of architecture and the important role they play in building a more accepting, diverse world.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T11:00:00+01:00",
-            "ticketed": false
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour with Zaha Hadid Design (unticketed)",
+            "notes": null,
+            "start": "2022-09-17T15:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Toilets",
-            "Architect on site",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Architect on site",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -136,59 +118,54 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5322/building_5322_07_roca-london-gallery_ff72212c392006ee875214f3f33d1c06.jpg",
-            "description": "2018",
+            "description": null,
             "title": "Roca London Gallery ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5322_07_roca-london-gallery_ff72212c392006ee875214f3f33d1c06.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5322/building_5322_08_roca-london-gallery_36f5c2e1fec34d90745fe5182d86ee84.jpg",
-            "description": "2018",
+            "description": null,
             "title": "Roca London Gallery ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5322_08_roca-london-gallery_36f5c2e1fec34d90745fe5182d86ee84.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5322/building_5322_roca-gallery-london_-hufton-crow_016_191d02c82a13269d4f25e2263c9a3f4a.jpg",
-            "description": "Hufton & Crow · 2019",
+            "description": null,
             "title": "Roca London Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5322_roca-gallery-london_-hufton-crow_016_191d02c82a13269d4f25e2263c9a3f4a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5322/building_5322_roca-gallery-london_-hufton-crow_010_ed90e8dba7e5f707f57425c3bb8e7556.jpg",
-            "description": "Hufton & Crow · 2019",
+            "description": null,
             "title": "Roca London Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5322_roca-gallery-london_-hufton-crow_010_ed90e8dba7e5f707f57425c3bb8e7556.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5322/building_5322_roca-gallery-london_-hufton-crow_012_94b29c05eaf08741e465ae73c7995a4f.jpg",
-            "description": "Hufton & Crow · 2019",
+            "description": null,
             "title": "Roca London Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5322_roca-gallery-london_-hufton-crow_012_94b29c05eaf08741e465ae73c7995a4f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5322/building_5322_roca-gallery-london_-hufton-crow_019_7b7d907d0322bb46b2ca7d694a7a710d.jpg",
-            "description": "Hufton & Crow · 2019",
+            "description": null,
             "title": "Roca London Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5322_roca-gallery-london_-hufton-crow_019_7b7d907d0322bb46b2ca7d694a7a710d.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "http://www.rocalondongallery.com/activities/open-house-2019",
-            "title": "Website"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "Station Court, Townmead Road, SW6 2PY",
         "latitude": 51.4705297,
         "longitude": -0.1850841,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Fulham Broadway",
-            "Nearest train: Imperial Wharf",
-            "Bus routes: C3, 391"
+            "Tube: Fulham Broadway",
+            "Train: Imperial Wharf",
+            "Bus: C3, 391"
         ]
     },
     "name": "Roca London Gallery",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/5322",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/5322",
+    "ticketed_events": true
 }

@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Townshend Landscape Architects",
-                "description": "Original design",
+                "description": null,
                 "year": "2012"
             }
         ],
@@ -21,156 +21,38 @@
     },
     "events": [
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:30:00+01:00",
-            "fully_booked": null,
-            "name": "The Energy Centre Tour",
+            "booking_link": "https://programme.openhouse.org.uk/listings/499",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T11:30:00+01:00",
+            "fully_booked": false,
+            "name": "King's Cross Energy Centre Tour",
             "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-17T10:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:45:00+01:00",
-            "fully_booked": null,
-            "name": "Archaeology and Industrial Heritage Tour",
+            "booking_link": "https://programme.openhouse.org.uk/listings/499",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T13:15:00+01:00",
+            "fully_booked": false,
+            "name": "King's Cross Energy Centre Tour",
             "notes": null,
-            "start": "2022-09-04T10:45:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:30:00+01:00",
-            "fully_booked": null,
-            "name": "The Energy Centre Tour",
-            "notes": null,
-            "start": "2022-09-04T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:30:00+01:00",
-            "fully_booked": null,
-            "name": "Archaeology and Industrial Heritage Tour",
-            "notes": null,
-            "start": "2022-09-04T12:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "The Energy Centre Tour",
-            "notes": null,
-            "start": "2022-09-04T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Archaeology and Industrial Heritage Tour",
-            "notes": null,
-            "start": "2022-09-04T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T11:30:00+01:00",
-            "fully_booked": null,
-            "name": "The Energy Centre Tour",
-            "notes": null,
-            "start": "2022-09-05T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-05",
-            "end": "2022-09-05T11:45:00+01:00",
-            "fully_booked": null,
-            "name": "Archaeology and Industrial Heritage Tour",
-            "notes": null,
-            "start": "2022-09-05T10:45:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T13:30:00+01:00",
-            "fully_booked": null,
-            "name": "The Energy Centre Tour",
-            "notes": null,
-            "start": "2022-09-05T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-05",
-            "end": "2022-09-05T13:30:00+01:00",
-            "fully_booked": null,
-            "name": "Archaeology and Industrial Heritage Tour",
-            "notes": null,
-            "start": "2022-09-05T12:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Archaeology and Industrial Heritage Tour",
-            "notes": null,
-            "start": "2022-09-05T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "The Energy Centre Tour",
-            "notes": null,
-            "start": "2022-09-05T14:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-17T11:45:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Toilets",
-            "Parking",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Parking",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -204,53 +86,53 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/499/building_499_p_kxc_site_n12920-1_c033698cc5fc2be8336e52926ceac7d0.jpg",
-            "description": "John Sturrock · 2021",
+            "description": null,
             "title": "King's Cross Aerial View",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_499_p_kxc_site_n12920-1_c033698cc5fc2be8336e52926ceac7d0.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/499/building_499_p_kxc_eca_ghd_n980_e95e06cbfcadbea5571e7504a3aef312.jpg",
-            "description": "John Sturrock · 2016",
+            "description": null,
             "title": "View of Gasholder Park",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_499_p_kxc_eca_ghd_n980_e95e06cbfcadbea5571e7504a3aef312.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/499/building_499_p_kxc_inf_prj_302_n40-1_b0676de55aba4c51d235f69e8982cbe4.jpg",
-            "description": "John Sturrock",
+            "description": null,
             "title": "Energy Centre ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_499_p_kxc_inf_prj_302_n40-1_b0676de55aba4c51d235f69e8982cbe4.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/499/building_499_p_kxc_eca_gsq_n6087-1_9f06bdc5e6ea36a88621d4da09ef4fe3.jpg",
-            "description": "John Sturrock · 2022",
+            "description": null,
             "title": "Granary Square ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_499_p_kxc_eca_gsq_n6087-1_9f06bdc5e6ea36a88621d4da09ef4fe3.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/499/building_499_p_kxc_eca_gsq_n6081-1_735f14ef3ee66fa5516fd88cfc575794.jpg",
-            "description": "John Sturrock · 2022",
+            "description": null,
             "title": "The Coal Office and Canal Side Steps ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_499_p_kxc_eca_gsq_n6081-1_735f14ef3ee66fa5516fd88cfc575794.jpg"
         }
     ],
     "links": [
         {
-            "href": "https://www.eventbrite.co.uk/o/kings-cross-visitor-centre-30859957073",
-            "title": "Pre-book via Eventbrite"
+            "href": "open-city.org.uk/stewardship-awards",
+            "title": null
         }
     ],
     "location": {
-        "address": "Western Transit Shed, 11 Stable Street, King's Cross, N1C 4AB",
+        "address": "Western Transit Shed, 11 Stable Street",
         "latitude": 51.5366294,
         "longitude": -0.1252866,
-        "meeting_point": "King's Cross Visitor Centre",
+        "meeting_point": null,
         "travel_info": [
-            "Nearest tube: King's Cross St. Pancras",
-            "Nearest train: King's Cross, St.Pancras",
-            "Bus routes: 10, 46, 73, 214, 390"
+            "Tube: King's Cross St. Pancras",
+            "Train: King's Cross",
+            "Bus: 10, 46, 73, 214, 390"
         ]
     },
-    "name": "King's Cross Heritage and Energy Centre Tours",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/499",
+    "name": "CANCELLED King's Cross Heritage and Energy Centre Tours",
+    "original_url": "https://programme.openhouse.org.uk/listings/499",
     "ticketed_events": true
 }

@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1108"
             }
         ],
@@ -16,37 +16,10 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Visits",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Visits",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T14:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -75,13 +48,13 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3020/building_3020_dscf1198_0328cefe4407a17f0d19f98f345f05f0.JPG",
-            "description": "Jan Harrison · 2010",
+            "description": null,
             "title": "Snowfall",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3020_dscf1198_0328cefe4407a17f0d19f98f345f05f0.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3020/building_3020_dscf1531_ec2edb95412abde034fbdd14d1879448.JPG",
-            "description": "Jan Harrison · 2010",
+            "description": null,
             "title": "Spring",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3020_dscf1531_ec2edb95412abde034fbdd14d1879448.JPG"
         }
@@ -93,11 +66,11 @@
         "longitude": -0.0165785,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Chingford, Highams Park",
-            "Bus routes: 97, 215, 397"
+            "Train: Chingford, Highams Park",
+            "Bus: 97, 215, 397"
         ]
     },
-    "name": "All Saints Church (The Old Church) ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/3020",
+    "name": "All Saints Church (The Old Church)",
+    "original_url": "https://programme.openhouse.org.uk/listings/3020",
     "ticketed_events": false
 }

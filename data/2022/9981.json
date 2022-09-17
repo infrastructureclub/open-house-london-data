@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Charles Herbert Reilly",
-                "description": "Original design",
+                "description": null,
                 "year": "1910"
             }
         ],
@@ -18,180 +18,38 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:15:00+01:00",
-            "fully_booked": null,
-            "name": "Open House",
-            "notes": null,
-            "start": "2022-09-04T11:00:00+01:00",
+            "capacity": 50,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T12:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:30:00+01:00",
-            "fully_booked": null,
-            "name": "15 minute tour of church and hall",
-            "notes": null,
-            "start": "2022-09-04T11:15:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:15:00+01:00",
-            "fully_booked": null,
-            "name": "music recital in church",
-            "notes": null,
-            "start": "2022-09-04T11:45:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:30:00+01:00",
-            "fully_booked": null,
-            "name": "15 minute tour of church and hall",
-            "notes": null,
-            "start": "2022-09-04T12:15:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:15:00+01:00",
-            "fully_booked": null,
-            "name": "15 minute tour of church and hall",
-            "notes": null,
-            "start": "2022-09-04T15:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:45:00+01:00",
-            "fully_booked": null,
-            "name": "music recital in church",
-            "notes": null,
-            "start": "2022-09-04T15:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:15:00+01:00",
-            "fully_booked": null,
-            "name": "15 minute tour of church and hall",
-            "notes": null,
-            "start": "2022-09-04T16:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open House",
-            "notes": "From around 14:30, preparations (including a music rehearsal) will be underway for St Barnabas’s weekly service (which starts at 16:30). The building will remain open to visitors between 14:45 and 16:30, but it won’t be as easy to wander freely as through the rest of the weekend and there will be no tours. As on other Sundays, all are welcome to the service at 16:30.",
-            "start": "2022-09-05T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T11:15:00+01:00",
-            "fully_booked": null,
-            "name": "15 minute tour of church and hall",
-            "notes": null,
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "music recital in church",
-            "notes": null,
-            "start": "2022-09-05T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T12:15:00+01:00",
-            "fully_booked": null,
-            "name": "15 minute tour of church and hall",
-            "notes": null,
-            "start": "2022-09-05T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T13:15:00+01:00",
-            "fully_booked": null,
-            "name": "15 minute tour of church and hall",
-            "notes": null,
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T14:15:00+01:00",
-            "fully_booked": null,
-            "name": "15 minute tour of church and hall",
-            "notes": null,
-            "start": "2022-09-05T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "music recital in hall",
-            "notes": "This recital will feature young people from the church.",
-            "start": "2022-09-05T14:30:00+01:00",
+            "capacity": 50,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T13:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -223,51 +81,51 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9981/building_9981_2021-07-28-sbd-open-house-2021-1_9d17ca3bb8807e6502193e68b5c37f86.jpeg",
-            "description": "",
+            "description": null,
             "title": "church interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9981_2021-07-28-sbd-open-house-2021-1_9d17ca3bb8807e6502193e68b5c37f86.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9981/building_9981_2021-07-28-sbd-open-house-2_07401ac1f7a95bc3986366021b23bb99.jpeg",
-            "description": "",
+            "description": null,
             "title": "church exterior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9981_2021-07-28-sbd-open-house-2_07401ac1f7a95bc3986366021b23bb99.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9981/building_9981_2021-07-28-sbd-open-house-2021-3_8b8228d1dc34237484e338be5f9be350.jpg",
-            "description": "",
+            "description": null,
             "title": "church interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9981_2021-07-28-sbd-open-house-2021-3_8b8228d1dc34237484e338be5f9be350.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9981/building_9981_2021-07-28-sbd-open-house-2021-6_6926670ddbd9f8adda20640575a3cc0f.jpg",
-            "description": "April Fredrick",
+            "description": null,
             "title": "church exterior 2",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9981_2021-07-28-sbd-open-house-2021-6_6926670ddbd9f8adda20640575a3cc0f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9981/building_9981_image-4_2effe47b367e9260a6f6f5a2230222e7.png",
-            "description": "Jodi Hinds",
+            "description": null,
             "title": "church interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9981_image-4_2effe47b367e9260a6f6f5a2230222e7.png"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9981/building_9981_2021-07-28-sbd-open-house-2021-12_2c4406852438fa1412b6230228dd858f.jfif",
-            "description": "",
+            "description": null,
             "title": "Mission Hall upper floor",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9981_2021-07-28-sbd-open-house-2021-12_2c4406852438fa1412b6230228dd858f.jfif"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9981/building_9981_2021-07-28-sbd-open-house-2021-13_f0a010f42464789bd8cdee76c906ee1b.jfif",
-            "description": "",
+            "description": null,
             "title": "Mission Hall lower floor",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9981_2021-07-28-sbd-open-house-2021-13_f0a010f42464789bd8cdee76c906ee1b.jfif"
         }
     ],
     "links": [
         {
-            "href": "http://www.saintbarnabasdalston.org.uk/",
-            "title": "Website"
+            "href": "www.saintbarnabasdalston.org.uk",
+            "title": null
         }
     ],
     "location": {
@@ -276,11 +134,11 @@
         "longitude": -0.0720154,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Dalston (Kingsland), Dalston Junction, Rectory Road, Hackney Downs",
-            "Bus routes: 488, 236, 276, 67, 76, 149, 243"
+            "Train: Dalston (Kingsland), Dalston Junction, Rectory Road, Hackney Downs",
+            "Bus: 488, 236, 276, 67, 76, 149, 243"
         ]
     },
     "name": "St Barnabas' Church and Mission Hall",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9981",
+    "original_url": "https://programme.openhouse.org.uk/listings/9981",
     "ticketed_events": false
 }

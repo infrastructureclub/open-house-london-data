@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Mediaeval/Sir George Gilbert Scott",
-                "description": "Original design",
+                "description": null,
                 "year": "1870"
             }
         ],
@@ -21,35 +21,65 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Minster Church Open",
-            "notes": "No access to bell tower today. Guides will be on hand to answer questions on Minster history and architecture.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T10:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Talks and Bell Tower tours",
-            "notes": "Visitors are welcome to attend the 10am service prior to open house access. Tower only available during tours which will take place at 11.30am and 12.30pm. A talk on \"The History Behind the Stained Glass Windows\" will take place 12.30 and 2.30pm.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T11:30:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T13:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Demonstration",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/8724",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T11:45:00+01:00",
+            "fully_booked": false,
+            "name": "Bell Tower Tour",
+            "notes": null,
+            "start": "2022-09-17T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Demonstration",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/8724",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T15:15:00+01:00",
+            "fully_booked": false,
+            "name": "Bell Tower Tour",
+            "notes": null,
+            "start": "2022-09-17T14:30:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -87,68 +117,59 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8724/building_8724_minster-interior_4ffb3f9c4810c40528afbfa1121f0ab7.jpg",
-            "description": "Unknown · 2010",
+            "description": null,
             "title": "Minster interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8724_minster-interior_4ffb3f9c4810c40528afbfa1121f0ab7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8724/building_8724_croydon-133_830650bfbf92a8b55fe3ad6be223d211.jpg",
-            "description": "Ilse Lujens · 2018",
+            "description": null,
             "title": "Sanctuary",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8724_croydon-133_830650bfbf92a8b55fe3ad6be223d211.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8724/building_8724_7-jul_3b4b8b10e2e25c1da70f4b7e55b7b695.jpg",
-            "description": "Ilse Lujens · 2018",
+            "description": null,
             "title": "View from the Quire",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8724_7-jul_3b4b8b10e2e25c1da70f4b7e55b7b695.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8724/building_8724_5-may_31fac6c6d787f86544e40f3b8d7484a3.jpg",
-            "description": "Ilse Lujens · 2018",
+            "description": null,
             "title": "Font from Nicholas Chapel",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8724_5-may_31fac6c6d787f86544e40f3b8d7484a3.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8724/building_8724_20181225_114315-crop_6078856ef9112b6ae8d4b6bd275d232b.jpg",
-            "description": "Pamela Hall · 2018",
+            "description": null,
             "title": "Exterior - South side",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8724_20181225_114315-crop_6078856ef9112b6ae8d4b6bd275d232b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8724/building_8724_0-cover_32fcbc5aa643d2bc36790225e2911012.jpg",
-            "description": "Ilse Lujens · 2018",
+            "description": null,
             "title": "Minster Interior - Nave",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8724_0-cover_32fcbc5aa643d2bc36790225e2911012.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8724/building_8724_minster-exterior-by-gary-watson_67d58953f8fbbd40898bc93d440e252a.jpg",
-            "description": "Gary Watson · 2019",
+            "description": null,
             "title": "Minster Exterior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8724_minster-exterior-by-gary-watson_67d58953f8fbbd40898bc93d440e252a.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "http://www.croydonminster.org",
-            "title": "Website"
-        },
-        {
-            "href": "https://twitter.com/croydonminster",
-            "title": "@croydonminster"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "Church Street, Croydon, CR0 1RN",
         "latitude": 51.3738597,
         "longitude": -0.1051579,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: East Croydon, West Croydon",
-            "Bus routes: 157, 264, 468, 75"
+            "Train: East Croydon, West Croydon",
+            "Bus: 157, 264, 468, 75"
         ]
     },
     "name": "Croydon Minster",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8724",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/8724",
+    "ticketed_events": true
 }

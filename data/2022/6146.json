@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1911"
             }
         ],
@@ -18,27 +18,31 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 4,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Brentford Canal Tollhouse",
-            "notes": "Open access all day",
-            "start": "2022-09-04T10:00:00+01:00",
+            "capacity": 8,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 4,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Brentford Canal Toll House",
-            "notes": "Open Access",
-            "start": "2022-09-05T10:00:00+01:00",
+            "capacity": 8,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T10:00:00+01:00",
             "ticketed": false
         }
     ],
@@ -71,10 +75,10 @@
     "id": 6146,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6146/building_6146_s320170712-4-wxyulo20170712-4-bcr67q20170712-4-gjpd4b_02b2a6e9b3524e6503a9f06ff52f84e3.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6146/building_6146_dsc_0018_ed7a68e0f2c554dd1e7a789f89732ddc.JPG",
             "description": null,
             "title": "View from the lock",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_6146_s320170712-4-wxyulo20170712-4-bcr67q20170712-4-gjpd4b_02b2a6e9b3524e6503a9f06ff52f84e3.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6146_dsc_0018_ed7a68e0f2c554dd1e7a789f89732ddc.JPG"
         }
     ],
     "links": [],
@@ -84,11 +88,11 @@
         "longitude": -0.3017247,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Brentford",
-            "Bus routes: 235, 237, 267, E2, E8, 195"
+            "Train: Brentford",
+            "Bus: 235, 237, 267, E2, E8, 195"
         ]
     },
     "name": "Brentford Canal Toll House and Gauging Lock",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6146",
+    "original_url": "https://programme.openhouse.org.uk/listings/6146",
     "ticketed_events": false
 }

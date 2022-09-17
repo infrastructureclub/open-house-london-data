@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "several architects",
-                "description": "Original design",
+                "description": null,
                 "year": "1920"
             }
         ],
@@ -18,32 +18,7 @@
             "public realm/landscape"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Fitzroy Park Allotments",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Fitzroy Park Allotments",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T14:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -70,13 +45,13 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9014/building_9014_oh-3_3d556ec0438de05ae0af3047e0509e22.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9014_oh-3_3d556ec0438de05ae0af3047e0509e22.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9014/building_9014_oh-1_0605ff2e0e3ea198cee2f8340c2aa2bb.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9014_oh-1_0605ff2e0e3ea198cee2f8340c2aa2bb.jpg"
         }
@@ -88,12 +63,12 @@
         "longitude": -0.1572856,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: All Saints, Highgate",
-            "Nearest train: Gospel Oak",
-            "Bus routes: 214"
+            "Tube: All Saints, Highgate",
+            "Train: Gospel Oak",
+            "Bus: 214"
         ]
     },
     "name": "Fitzroy Park Allotments",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9014",
+    "original_url": "https://programme.openhouse.org.uk/listings/9014",
     "ticketed_events": false
 }

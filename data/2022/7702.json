@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Arthur j. Phelps",
-                "description": "Original design",
+                "description": null,
                 "year": "1871"
             }
         ],
@@ -20,25 +20,25 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 100,
-            "date": "2022-09-04",
-            "end": "2022-09-04T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "St Johns Church Kingston",
-            "notes": null,
-            "start": "2022-09-04T09:30:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Family activities during open house festival",
-            "Refreshments",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Family activities",
+        "Refreshments",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -73,46 +73,41 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7702/building_7702_st-je_c0ad6971befcf7dbeb897f6ff333d2e1.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7702_st-je_c0ad6971befcf7dbeb897f6ff333d2e1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7702/building_7702_font_ea0d2711bc4ba1fc5cc165519ca7dc3c.jpg",
-            "description": "2020",
+            "description": null,
             "title": "The Font ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7702_font_ea0d2711bc4ba1fc5cc165519ca7dc3c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7702/building_7702_img-0772_bdc9ec0a94b0c6cf72c42cf582f177ea.jpg",
-            "description": "2020",
+            "description": null,
             "title": "View of the Alter",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7702_img-0772_bdc9ec0a94b0c6cf72c42cf582f177ea.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7702/building_7702_img-0778_62f8d19873194c145f974018d0d87050.jpg",
-            "description": "",
+            "description": null,
             "title": "One of the internal pillars",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7702_img-0778_62f8d19873194c145f974018d0d87050.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "http://www.stjohnskingston.co.uk/",
-            "title": "Website"
-        }
-    ],
+    "links": [],
     "location": {
-        "address": "Grove Lane, Kingston upon thames, Kingston upon Thames, KT1 2SU",
+        "address": "Grove Lane, Kingston upon thames",
         "latitude": 51.4025463,
         "longitude": -0.2985612,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Kingston, Surbiton",
-            "Bus routes: K2, K1, K4"
+            "Train: Kingston, Surbiton",
+            "Bus: K2, K1, K4"
         ]
     },
     "name": "St John the Evangelist, Kingston upon Thames",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/7702",
+    "original_url": "https://programme.openhouse.org.uk/listings/7702",
     "ticketed_events": false
 }

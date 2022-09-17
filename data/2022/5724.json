@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Niall McLaughlin Architects",
-                "description": "Original design",
+                "description": null,
                 "year": "2014"
             }
         ],
@@ -18,58 +18,22 @@
     },
     "events": [
         {
-            "all_day": true,
+            "activity_type": "Drop in",
+            "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T23:59:00+01:00",
-            "fully_booked": null,
-            "name": "Video tour",
-            "notes": "Join our video tour of Darbishire Place here: https://youtu.be/i4MkT3rtKbc",
-            "start": "2022-09-04T00:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": true,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T23:59:00+01:00",
-            "fully_booked": null,
-            "name": "Video tour",
-            "notes": "Join our video tour of Darbishire Place here: https://youtu.be/i4MkT3rtKbc",
-            "start": "2022-09-05T00:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": true,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T23:59:00+01:00",
-            "fully_booked": null,
-            "name": "Video tour",
-            "notes": "Join our video tour of Darbishire Place here: https://youtu.be/i4MkT3rtKbc",
-            "start": "2022-09-11T00:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": true,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-12",
-            "end": "2022-09-12T23:59:00+01:00",
-            "fully_booked": null,
-            "name": "Video tour",
-            "notes": "Join our video tour of Darbishire Place here: https://youtu.be/i4MkT3rtKbc",
-            "start": "2022-09-12T00:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Architect on site"
-        ]
+        "Architect on site"
     ],
     "factsheet": [
         {
@@ -101,31 +65,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5724/building_5724_01_c8e56303a34943c4fd2b3fe778a0aea2.jpg",
-            "description": "Nick Kane · 2015",
+            "description": null,
             "title": "Courtyard elevation",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5724_01_c8e56303a34943c4fd2b3fe778a0aea2.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5724/building_5724_03_4bc64d66ab067ac54da7793edeeea0ed.jpg",
-            "description": "Nick Kane · 2015",
+            "description": null,
             "title": "East elevation facing John Fisher Street",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5724_03_4bc64d66ab067ac54da7793edeeea0ed.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5724/building_5724_02_c29ab1bc83042353509a81b0b9465026.jpg",
-            "description": "Nick Kane · 2015",
+            "description": null,
             "title": "Detail views of balcony fins",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5724_02_c29ab1bc83042353509a81b0b9465026.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5724/building_5724_04_767110e882d0a63e2b1d2f9bb86344dc.jpg",
-            "description": "Nick Kane · 2015",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5724_04_767110e882d0a63e2b1d2f9bb86344dc.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5724/building_5724_05_458b640050c9db71e34ff7e1894df8ef.jpg",
-            "description": "Nick Kane · 2015",
+            "description": null,
             "title": "Joh Fisher Street, looking north",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5724_05_458b640050c9db71e34ff7e1894df8ef.jpg"
         }
@@ -137,12 +101,12 @@
         "longitude": -0.0691349,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Tower Hill, Tower Gateway",
-            "Nearest train: Fenchurch Street",
-            "Bus routes: 100, 78, 42, 15, 343"
+            "Tube: Tower Hill, Tower Gateway",
+            "Train: Fenchurch Street",
+            "Bus: 100, 78, 42, 15, 343"
         ]
     },
     "name": "Darbishire Place (Peabody Whitechapel Estate)",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/5724",
+    "original_url": "https://programme.openhouse.org.uk/listings/5724",
     "ticketed_events": false
 }

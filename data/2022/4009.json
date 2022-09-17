@@ -1,11 +1,11 @@
 {
     "all_week": false,
-    "description": "London's main tourist information centre is clad in a specially manufactured system of 220 pre-finished stainless steel panels. This subtly reflective surface provides a striking counterpoint to St Paul's. RIBA Award Winner 2009.",
+    "description": "London's main tourist information centre is clad in a specially manufactured system of 220 pre-finished stainless steel panels. The subtly reflective surface provides a striking counterpoint to St Paul's. NOTE: Closed on Monday 19 September",
     "design": {
         "designers": [
             {
                 "architect": "Make Architects",
-                "description": "Original design",
+                "description": null,
                 "year": "2007"
             }
         ],
@@ -18,47 +18,65 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "General access",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
+            "capacity": 40,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T17:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T09:30:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-10",
-            "end": "2022-09-10T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "General access",
-            "notes": null,
-            "start": "2022-09-10T10:00:00+01:00",
+            "capacity": 40,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "General access",
-            "notes": null,
-            "start": "2022-09-11T10:00:00+01:00",
+            "capacity": 40,
+            "date": "2022-09-20",
+            "drop_in": true,
+            "end": "2022-09-20T17:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-20T09:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 40,
+            "date": "2022-09-21",
+            "drop_in": true,
+            "end": "2022-09-21T17:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-21T09:30:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Bookshop",
-            "Disabled access"
-        ]
+        "Bookshop",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -83,19 +101,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4009/building_4009_totman_080213_001_5d1a1800df2b409b1a894ce50f7876c8.jpg",
-            "description": "Clive Totman · 2008",
+            "description": null,
             "title": "City Information Centre",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4009_totman_080213_001_5d1a1800df2b409b1a894ce50f7876c8.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4009/building_4009_cic-exterior-20_f368a5acf044c4ed20c5ed5bb994861b.jpg",
-            "description": "2012",
+            "description": null,
             "title": "City Information Centre",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4009_cic-exterior-20_f368a5acf044c4ed20c5ed5bb994861b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4009/building_4009_cic-credit-ben-broomfield-1_0c185009218b77fdd72ada7b86c73ed2.jpg",
-            "description": "Ben Broomfield · 2020",
+            "description": null,
             "title": "City Information Centre",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4009_cic-credit-ben-broomfield-1_0c185009218b77fdd72ada7b86c73ed2.jpg"
         }
@@ -107,12 +125,12 @@
         "longitude": -0.0989526,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Mansion House, St. Paul's, Blackfriars",
-            "Nearest train: Blackfriars, City Thameslink",
-            "Bus routes: 11, 15, 26, 17, 76"
+            "Tube: Mansion House, St. Paul's, Blackfriars",
+            "Train: Blackfriars, City Thameslink",
+            "Bus: 11, 15, 26, 17, 76"
         ]
     },
-    "name": "City Information Centre",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/4009",
+    "name": "UPDATED: City Information Centre",
+    "original_url": "https://programme.openhouse.org.uk/listings/4009",
     "ticketed_events": false
 }

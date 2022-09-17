@@ -4,12 +4,13 @@
     "design": {
         "designers": [
             {
-                "architect": "John Loughborough Pearson ",
-                "description": "Original design",
+                "architect": "John Loughborough Pearson",
+                "description": null,
                 "year": "1895"
             }
         ],
         "periods": [
+            "John Loughborough Pearson ",
             "Victorian"
         ],
         "types": [
@@ -18,37 +19,25 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Two Temple Place Open House",
-            "notes": "FULLY BOOKED Explore the beautiful interiors of William Waldorf Astor's London estate office with our team on hand to reveal the history of the building. New family trails are available to help young visitors and families to discover the building's details and hidden characters.",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "FULLY BOOKED Two Temple Place Open House",
-            "notes": "Explore the beautiful interiors of William Waldorf Astor's London estate office with our team on hand to reveal the history of the building. New family trails are available to help young visitors and families to discover the building's details and hidden characters.",
-            "start": "2022-09-05T11:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Bookshop",
-            "Toilets",
-            "Disabled access",
-            "Family activities during open house festival"
-        ]
+        "Bookshop",
+        "Toilets",
+        "Disabled access",
+        "Family activities"
     ],
     "factsheet": [
         {
@@ -100,31 +89,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4771/building_4771_bdog-1873_7e324c83a999eb3062ffb6e0e83ca253.jpg",
-            "description": "",
+            "description": null,
             "title": "Exterior Two Temple Place ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4771_bdog-1873_7e324c83a999eb3062ffb6e0e83ca253.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4771/building_4771_staircase-and-floor_4b69462f35c40e1df8a1b743d5dc8eb0.jpg",
-            "description": "Peter Dazeley · 2016",
+            "description": null,
             "title": "View of staircase and marbled floor",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4771_staircase-and-floor_4b69462f35c40e1df8a1b743d5dc8eb0.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4771/building_4771_copyright-peter-dazeley-image-of-the-upper-gallery_b7a5b67e2b89c68443c042e3716b89bc.jpg",
-            "description": "Peter Dazeley · 2016",
+            "description": null,
             "title": "View of Upper Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4771_copyright-peter-dazeley-image-of-the-upper-gallery_b7a5b67e2b89c68443c042e3716b89bc.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4771/building_4771_bdog-2474_e68ad0fd9dcdd9031e6f874878b56588.jpg",
-            "description": "",
+            "description": null,
             "title": "Weathervane at Two Temple Place",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4771_bdog-2474_e68ad0fd9dcdd9031e6f874878b56588.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4771/building_4771_great-hall_3db259e6f3164847293f6ba823c3112a.jpg",
-            "description": "",
+            "description": null,
             "title": "Great Hall at Two Temple Place",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4771_great-hall_3db259e6f3164847293f6ba823c3112a.jpg"
         }
@@ -136,12 +125,12 @@
         "longitude": -0.1122401,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Temple",
-            "Nearest train: Charing Cross, Waterloo, Blackfriars",
-            "Bus routes: 6, 9, 87, 139, 11, 15"
+            "Tube: Temple",
+            "Train: Charing Cross, Waterloo, Blackfriars",
+            "Bus: 6, 9, 87, 139, 11, 15"
         ]
     },
     "name": "Two Temple Place",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/4771",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/4771",
+    "ticketed_events": false
 }

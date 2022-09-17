@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1275"
             }
         ],
@@ -18,27 +18,31 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "St Augustine's Tower Hackney",
-            "notes": "Face coverings requested, queues possible, narrow stairs no big bags please.",
-            "start": "2022-09-04T11:00:00+01:00",
+            "capacity": 30,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Visit with Laurence Elks",
-            "notes": "Face coverings requested, queues possible, narrow stairs no big bags please.",
-            "start": "2022-09-12T11:00:00+01:00",
+            "capacity": 30,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         }
     ],
@@ -66,43 +70,43 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1755/building_1755_epping-forest-018_51726f78e3d09bc9c084d9f0e3797894.jpg",
-            "description": "Laurie Elks · 2010",
+            "description": null,
             "title": "View from Mare Street",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1755_epping-forest-018_51726f78e3d09bc9c084d9f0e3797894.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1755/building_1755_tower-064_568b950462f8615e2e24009115a52321.jpg",
-            "description": "Laurie Elks · 2007",
+            "description": null,
             "title": "The 16th Century Clock",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1755_tower-064_568b950462f8615e2e24009115a52321.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1755/building_1755_tower-067_4f9e77374999c1b7f3b37326bf3b0ca7.jpg",
-            "description": "Laurie Elks · 2007",
+            "description": null,
             "title": "The bell",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1755_tower-067_4f9e77374999c1b7f3b37326bf3b0ca7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1755/building_1755_tower-053_ffee51921d1d92a5a7439c590420dd69.jpg",
-            "description": "Laurie Elks · 2007",
+            "description": null,
             "title": "Momento Mori",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1755_tower-053_ffee51921d1d92a5a7439c590420dd69.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1755/building_1755_web_dsc_0662michael-patrick_36b598db6d32c0766a6425d1da9aa35b.jpg",
-            "description": "Michael Patrick · 2019",
+            "description": null,
             "title": "View from roof 1",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1755_web_dsc_0662michael-patrick_36b598db6d32c0766a6425d1da9aa35b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1755/building_1755_dsc_0663michael-patrick_d4fdf1315591e1edfc14b4fb4c4f4610.jpg",
-            "description": "Michael Patrick · 2019",
+            "description": null,
             "title": "View from roof 2",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1755_dsc_0663michael-patrick_d4fdf1315591e1edfc14b4fb4c4f4610.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1755/building_1755_web_dsc_0674michael-patrick_52953c8325e53e694dfdc2ac77325a2e.jpg",
-            "description": "Michael Patrick · 2019",
+            "description": null,
             "title": "View from roof 3",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1755_web_dsc_0674michael-patrick_52953c8325e53e694dfdc2ac77325a2e.jpg"
         }
@@ -114,11 +118,11 @@
         "longitude": -0.0550424,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Hackney Central, Hackney Downs",
-            "Bus routes: 30, 38, 55, 106, 236, 242, 253, 254, 276, 277, 394, D6, W15"
+            "Train: Hackney Central, Hackney Downs",
+            "Bus: 30, 38, 55, 106, 236, 242, 253, 254, 276, 277, 394, D6, W15"
         ]
     },
     "name": "St Augustine's Tower",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1755",
+    "original_url": "https://programme.openhouse.org.uk/listings/1755",
     "ticketed_events": false
 }

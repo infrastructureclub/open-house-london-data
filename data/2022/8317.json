@@ -5,16 +5,15 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1824"
-            },
-            {
-                "architect": "Livia Wang, Andrew Shepherd, Max Gelibter, Alexei Hartley",
-                "description": "Refurbishment",
-                "year": "2019"
             }
         ],
         "periods": [
+            "Livia Wang",
+            "Max Gelibter",
+            "Alexei Hartley",
+            "Andrew Shepherd",
             "Contemporary",
             "Georgian"
         ],
@@ -23,37 +22,10 @@
             "historical house"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Hourly ticketed entry to Van Gogh House",
-            "notes": "Ticketed entry only. To book free tickets please follow the link to our Art Tickets page: van-gogh-house.arttickets.org.uk",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Hourly ticketed entry to Van Gogh House",
-            "notes": "Ticketed entry only. To book free tickets please follow the link to our Art Tickets page: van-gogh-house.arttickets.org.uk",
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Architect on site",
-            "Bookshop"
-        ]
+        "Architect on site",
+        "Bookshop"
     ],
     "factsheet": [
         {
@@ -117,37 +89,33 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8317/building_8317_van-gogh-house_blue-plaque-photography-by-tom-parsons-copyright-van-gogh-house_85c766d771ea77f995f82e2ef0a1a42a.jpg",
-            "description": "Thomas Parsons · 2019",
+            "description": null,
             "title": "View of the Front Elevation",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8317_van-gogh-house_blue-plaque-photography-by-tom-parsons-copyright-van-gogh-house_85c766d771ea77f995f82e2ef0a1a42a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8317/building_8317_vgh_after_kitchen-extension-photography-by-theo-christelis-copyright-van-gogh-house-london_82f3f83dd7e18df45aaa14969e7c5ed4.jpg",
-            "description": "Thomas Parsons · 2019",
+            "description": null,
             "title": "Kitchen extension interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8317_vgh_after_kitchen-extension-photography-by-theo-christelis-copyright-van-gogh-house-london_82f3f83dd7e18df45aaa14969e7c5ed4.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8317/building_8317_van-gogh-house-garden-view-copyright-van-gogh-house_3b4d9220dfd5ee3a9cc283a0cb51d306.jpg",
-            "description": "Van Gogh House London · 2020",
+            "description": null,
             "title": "Vie of the Rear Elevation",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8317_van-gogh-house-garden-view-copyright-van-gogh-house_3b4d9220dfd5ee3a9cc283a0cb51d306.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8317/building_8317_annas-room_8a6c0461c5babb41c8ece0b731c967dc.png",
-            "description": "Van Gogh House London · 2020",
+            "description": null,
             "title": "Anna van Gogh's bedroom",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8317_annas-room_8a6c0461c5babb41c8ece0b731c967dc.png"
         }
     ],
     "links": [
         {
-            "href": "https://van-gogh-house.arttickets.org.uk/",
-            "title": "Book tickets via Van Gogh House"
-        },
-        {
-            "href": "http://vangoghlondon",
-            "title": "social media"
+            "href": "www.vangoghhouse.co.uk",
+            "title": null
         }
     ],
     "location": {
@@ -156,12 +124,12 @@
         "longitude": -0.1151837,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Stockwell, Oval",
-            "Nearest train: Vauxhall, Victoria",
-            "Bus routes: 415, 333, 159, 155, 133, 59, 3"
+            "Tube: Stockwell, Oval",
+            "Train: Vauxhall, Victoria",
+            "Bus: 415, 333, 159, 155, 133, 59, 3"
         ]
     },
     "name": "Van Gogh House London",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8317",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/8317",
+    "ticketed_events": false
 }

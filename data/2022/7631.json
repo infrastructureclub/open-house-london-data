@@ -5,12 +5,14 @@
         "designers": [
             {
                 "architect": "Anthony Natt",
-                "description": "Original design",
+                "description": null,
                 "year": "1753"
             }
         ],
         "periods": [
-            ""
+            "Community/cultural",
+            "Offices",
+            "Art studio"
         ],
         "types": [
             "mixed use",
@@ -22,26 +24,11 @@
             "art in the public realm"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Race Through Time - St. Margaret's House Family Workshop",
-            "notes": "Online ticket link: https://www.stmargaretshouse.org.uk/whats-on-backend-1/racethroughtime2021 OR https://bit.ly/3fLGXXP Book by phone: 020 8980 2092 Book by email: programme@stmargaretshouse.org.uk",
-            "start": "2022-09-04T12:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Refreshments",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -99,20 +86,20 @@
     "id": 7631,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7631/building_7631_hall-view-from-mezzanine_997551ee6cbcbf147f146baa05d88546.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7631/building_7631_hall-view-from-mezzanine_be8ef624e952e92baaa1845af09e906c.jpg",
             "description": null,
             "title": "Tramshed hall view from Mezzanine",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_7631_hall-view-from-mezzanine_997551ee6cbcbf147f146baa05d88546.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7631_hall-view-from-mezzanine_be8ef624e952e92baaa1845af09e906c.jpg"
         }
     ],
     "links": [
         {
-            "href": "http://www.stmargaretshouse.org.uk/",
-            "title": "Website"
+            "href": "www.alexprescot.com",
+            "title": null
         },
         {
-            "href": "https://twitter.com/StMargaretsLDN",
-            "title": "@StMargaretsLDN"
+            "href": "https://bit.ly/SingSMH",
+            "title": null
         }
     ],
     "location": {
@@ -121,12 +108,12 @@
         "longitude": -0.0501708,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Stepney Green, Bethnal Green",
-            "Nearest train: Cambridge Heath, Bethnal Green",
-            "Bus routes: 8, 106, 254, 309, 388, D3"
+            "Tube: Stepney Green, Bethnal Green",
+            "Train: Cambridge Heath, Bethnal Green",
+            "Bus: 8, 106, 254, 309, 388, D3"
         ]
     },
     "name": "St. Margaret's House: Tramshed",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/7631",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/7631",
+    "ticketed_events": false
 }

@@ -4,50 +4,24 @@
     "design": {
         "designers": [
             {
-                "architect": "A Huntington Chapel ",
-                "description": "Original design",
+                "architect": "A Huntington Chapel",
+                "description": null,
                 "year": "1797"
             }
         ],
         "periods": [
+            "A Huntington Chapel ",
             "Georgian"
         ],
         "types": [
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": true,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T23:59:00+01:00",
-            "fully_booked": null,
-            "name": "Video of history of the Chapel",
-            "notes": null,
-            "start": "2022-09-04T00:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Bethlehem Chapel",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Refreshments",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -64,28 +38,23 @@
     "id": 8264,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8264/building_8264_101358048-67539-800_a047f943e755423623a03563723a108a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8264/building_8264_101358048-67539-800_2dc58341139fb63e212d48c90ae8cc11.jpg",
             "description": null,
             "title": "Front elevation ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_8264_101358048-67539-800_a047f943e755423623a03563723a108a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8264_101358048-67539-800_2dc58341139fb63e212d48c90ae8cc11.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "http://www.bethlehem-chapel.org",
-            "title": "Website"
-        }
-    ],
+    "links": [],
     "location": {
-        "address": "Bethlehem Chapel, Church Terrace, Richmond upon Thames , TW10 6SE",
+        "address": "Bethlehem Chapel, Church Terrace",
         "latitude": 51.4590644,
         "longitude": -0.3034642,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Richmond"
+            "Train: Richmond"
         ]
     },
-    "name": "Bethlehem Chapel ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8264",
+    "name": "Bethlehem Chapel",
+    "original_url": "https://programme.openhouse.org.uk/listings/8264",
     "ticketed_events": false
 }

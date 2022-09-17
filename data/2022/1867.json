@@ -4,17 +4,25 @@
     "design": {
         "designers": [
             {
-                "architect": "Sir Christopher Wren, Nicholas Hawksmoor, Sir John Vanbrugh",
-                "description": "Original design",
+                "architect": "Sir Christopher Wren",
+                "description": null,
                 "year": "1672"
             },
             {
-                "architect": "Sir Henry Moore",
-                "description": "Refurbishment",
-                "year": "1978"
+                "architect": "Nicholas Hawksmoor",
+                "description": null,
+                "year": "1672"
+            },
+            {
+                "architect": "Sir John Vanbrugh",
+                "description": null,
+                "year": "1672"
             }
         ],
         "periods": [
+            " Nicholas Hawksmoor",
+            " Sir John Vanbrugh",
+            "Sir Henry Moore",
             "Stuart",
             "Historical/contemporary"
         ],
@@ -24,52 +32,88 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "The City Churches: St Stephen Walbrook",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
+            "capacity": 75,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:30:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "The City Churches: St Stephen Walbrook",
-            "notes": null,
-            "start": "2022-09-05T14:00:00+01:00",
+            "capacity": 75,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T14:30:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 300,
+            "date": "2022-09-19",
+            "drop_in": true,
+            "end": "2022-09-19T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-19T10:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T10:00:00+01:00",
+            "date": "2022-09-19",
+            "drop_in": true,
+            "end": "2022-09-19T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-19T10:30:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T13:00:00+01:00",
+            "date": "2022-09-21",
+            "drop_in": true,
+            "end": "2022-09-21T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-21T10:30:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Musical performance",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/1867",
+            "capacity": null,
+            "date": "2022-09-20",
+            "drop_in": false,
+            "end": "2022-09-20T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Walbrook Music Trust",
+            "notes": null,
+            "start": "2022-09-20T13:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [],
@@ -167,19 +211,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1867/building_1867_st-stephens01_c813171269604bf98d2acb9a1615ca8c.jpg",
-            "description": "",
+            "description": null,
             "title": "St Stephen Walbrook Interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1867_st-stephens01_c813171269604bf98d2acb9a1615ca8c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1867/building_1867_st-stephens10_ac35794b2fc91878425a9edb72157322.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1867_st-stephens10_ac35794b2fc91878425a9edb72157322.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1867/building_1867_st-stephens02_b0baceae332aac68922bc9cc049d61a8.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1867_st-stephens02_b0baceae332aac68922bc9cc049d61a8.jpg"
         }
@@ -191,11 +235,11 @@
         "longitude": -0.0899439,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Bank",
-            "Nearest train: Cannon Street"
+            "Tube: Bank",
+            "Train: Cannon Street"
         ]
     },
     "name": "The City Churches: St Stephen Walbrook",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1867",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/1867",
+    "ticketed_events": true
 }

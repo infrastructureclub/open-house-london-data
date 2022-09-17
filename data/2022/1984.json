@@ -5,36 +5,19 @@
         "designers": [
             {
                 "architect": "Medieval",
-                "description": "Original design",
+                "description": null,
                 "year": "1185"
             }
         ],
-        "periods": [
-            "Medieval"
-        ],
+        "periods": [],
         "types": [
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access",
-            "notes": null,
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Bookshop"
-        ]
+        "Toilets",
+        "Bookshop"
     ],
     "factsheet": [
         {
@@ -49,25 +32,25 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1984/building_1984__dsc5210_868063bba7042a3a06718e0eb8f042d3.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1984__dsc5210_868063bba7042a3a06718e0eb8f042d3.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1984/building_1984_2-london-s-jerusalem_346c1346b354849564904be8361cf3fd.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1984_2-london-s-jerusalem_346c1346b354849564904be8361cf3fd.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1984/building_1984_the-temple-from-the-air-kenneth-richardson_c4ebb85f3bd3ec6e9837653073d4347c.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1984_the-temple-from-the-air-kenneth-richardson_c4ebb85f3bd3ec6e9837653073d4347c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1984/building_1984_church-interior-west-view_992b4b10d184520ab4fd368f0740dc5d.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1984_church-interior-west-view_992b4b10d184520ab4fd368f0740dc5d.jpg"
         }
@@ -79,12 +62,12 @@
         "longitude": -0.1077259,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Temple, Chancery Lane",
-            "Nearest train: Blackfriars",
-            "Bus routes: 4, 11, 15, 26, 76, 341"
+            "Tube: Temple, Chancery Lane",
+            "Train: Blackfriars",
+            "Bus: 4, 11, 15, 26, 76, 341"
         ]
     },
     "name": "The Temple Church",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1984",
+    "original_url": "https://programme.openhouse.org.uk/listings/1984",
     "ticketed_events": false
 }

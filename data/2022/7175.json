@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Built by Fred Hulse and Sons",
-                "description": "Original design",
+                "description": null,
                 "year": "1923"
             }
         ],
@@ -18,60 +18,66 @@
     },
     "events": [
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour Led by Historian",
-            "notes": "Shrewsbury House is offering an informal, family friendly, walking tour of the House and grounds led by local historian and board member, Andy Brockman.",
-            "start": "2022-09-11T15:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-12",
-            "end": "2022-09-12T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour led by Historian",
-            "notes": "Shrewsbury House is offering an informal, family friendly, walking tour of the House and grounds led by local historian and board member, Andy Brockman.",
-            "start": "2022-09-12T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7175",
             "capacity": null,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Self Guided Tour",
-            "notes": "Visitors are welcome to take a self guided tour of Shrewsbury House and its grounds. Please note that some rooms may be closed due to prior bookings.",
-            "start": "2022-09-12T11:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of Shrewsbury House and Grounds",
+            "notes": null,
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour led by Historian",
-            "notes": "Shrewsbury House is offering an informal, family friendly, walking tour of the House and grounds led by local historian and board member, Andy Brockman.",
-            "start": "2022-09-12T14:00:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/7175",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of Shrewsbury House and Grounds",
+            "notes": null,
+            "start": "2022-09-17T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7175",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of Shrewsbury House and Grounds",
+            "notes": null,
+            "start": "2022-09-18T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7175",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of Shrewsbury House and Grounds",
+            "notes": null,
+            "start": "2022-09-18T14:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access",
-            "Refreshments"
-        ]
+        "Toilets",
+        "Disabled access",
+        "Refreshments"
     ],
     "factsheet": [
         {
@@ -111,80 +117,71 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7175/building_7175_20180406_154950_ee4bbb6b6823c1f5eb6d68d05740ac94.jpg",
-            "description": "Shrewsbury House Charitable Trust · 2018",
+            "description": null,
             "title": "Shrewsbury House, east elevation.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7175_20180406_154950_ee4bbb6b6823c1f5eb6d68d05740ac94.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7175/building_7175_20180406_151150_40ef7482f236f867ac67293030e05b1d.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7175_20180406_151150_40ef7482f236f867ac67293030e05b1d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7175/building_7175_20180406_154557_a918fe0ee91881b77ee007105ccf97d6.jpg",
-            "description": "Shrewsbury House Charitable Trust · 2018",
+            "description": null,
             "title": "North elevation",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7175_20180406_154557_a918fe0ee91881b77ee007105ccf97d6.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7175/building_7175_20180406_154626_684265c178e7b2baf7070e94fd09b141.jpg",
-            "description": "Shrewsbury House Charitable Trust · 2018",
+            "description": null,
             "title": "Shrewsbury House, Summer House",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7175_20180406_154626_684265c178e7b2baf7070e94fd09b141.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7175/building_7175_20180406_153050_5108f1b16da4c842ebaf595f37b1213e.jpg",
-            "description": "Shrewsbury House Charitable Trust · 2018",
+            "description": null,
             "title": "Shrewsbury House Entrance Hall",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7175_20180406_153050_5108f1b16da4c842ebaf595f37b1213e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7175/building_7175_20180406_152935_3d5214eeca1fe8c89bfc4558e146b7ba.jpg",
-            "description": "Shrewbury House Charitable Trust · 2018",
+            "description": null,
             "title": "Shrewsbury House, ornamental fireplace",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7175_20180406_152935_3d5214eeca1fe8c89bfc4558e146b7ba.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7175/building_7175_20180406_153036_6555d65e3f97b3ef3d011c899120c3af.jpg",
-            "description": "Shrewsbury House Charitable Trust · 2018",
+            "description": null,
             "title": "Shrewsbury House, plaster ceiling rose",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7175_20180406_153036_6555d65e3f97b3ef3d011c899120c3af.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7175/building_7175_20180406_154846_39038edb37671b9317e2593add22d80a.jpg",
-            "description": "Shrewsbury House Charitable Trust · 2018",
+            "description": null,
             "title": "Shrewsbury House, Green Garth ARP Building",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7175_20180406_154846_39038edb37671b9317e2593add22d80a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7175/building_7175_20180406_154356_48f53b301b632d8e48ea5b6fef98b09c.jpg",
-            "description": "Shrewsbury House Charitable Trust · 2018",
+            "description": null,
             "title": "Shrewsbury House Cold War civil defence building",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7175_20180406_154356_48f53b301b632d8e48ea5b6fef98b09c.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://shrewsburyhouse.org/",
-            "title": "Website"
-        },
-        {
-            "href": "https://twitter.com/ShrewsburyHse",
-            "title": "@ShrewsburyHse"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "Shrewsbury House, Bushmoor Crescent, SE18 3EG",
         "latitude": 51.4736553,
         "longitude": 0.0722406,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Woolwich Arsenal, Blackheath, Falconwood",
-            "Bus routes: 244, 89, 486"
+            "Train: Woolwich Arsenal, Blackheath, Falconwood",
+            "Bus: 244, 89, 486"
         ]
     },
     "name": "Shrewsbury House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/7175",
+    "original_url": "https://programme.openhouse.org.uk/listings/7175",
     "ticketed_events": true
 }

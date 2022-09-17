@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Robert C Murray",
-                "description": "Original design",
+                "description": null,
                 "year": "1893"
             }
         ],
@@ -20,26 +20,11 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 250,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "St Bride Foundation",
-            "notes": null,
-            "start": "2022-09-05T12:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets",
-            "Bookshop"
-        ]
+        "Refreshments",
+        "Toilets",
+        "Bookshop"
     ],
     "factsheet": [
         {
@@ -80,49 +65,43 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1761/building_1761_bride-lane-pic1_ab22043d7c0755f55c84a155c615b39a.jpg",
-            "description": "",
+            "description": null,
             "title": "Bride Lane",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1761_bride-lane-pic1_ab22043d7c0755f55c84a155c615b39a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1761/building_1761_workshop-oldcropped_537ded73d960f131ebc3803bd2b43630.jpg",
-            "description": "",
+            "description": null,
             "title": "The Workshop",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1761_workshop-oldcropped_537ded73d960f131ebc3803bd2b43630.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1761/building_1761_salisbury-boardroom-006_f23217e0ac6ddd95c13bde9dba6a1b4f.jpg",
-            "description": "David Leahy · 2017",
+            "description": null,
             "title": "The Salisbury Room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1761_salisbury-boardroom-006_f23217e0ac6ddd95c13bde9dba6a1b4f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1761/building_1761_121220-dcool-stbride-97_50832003c47cad37576d306f868d7774.jpg",
-            "description": "Darren Cool · 2012",
+            "description": null,
             "title": "Bridewell Hall",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1761_121220-dcool-stbride-97_50832003c47cad37576d306f868d7774.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1761/building_1761_laytoncropped_7f7682c9647fa040cc39f28724cebee2.jpg",
-            "description": "",
+            "description": null,
             "title": "The Layton Room (exhibition space)",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1761_laytoncropped_7f7682c9647fa040cc39f28724cebee2.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1761/building_1761_screen-shot-2017-08-25-at-17-57-19_9e8823a0e010b3e33eff5662d228b8c4.png",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1761_screen-shot-2017-08-25-at-17-57-19_9e8823a0e010b3e33eff5662d228b8c4.png"
         },
         {
-            "archive_url": null,
-            "description": "1890",
-            "title": "Original drawing architects drawing",
-            "url": "/uploads/cache/photo/old-plans_05c8deee87c4b5e6f1e72c2ac3942af1.jpg"
-        },
-        {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1761/building_1761_boardroom-style_56558ff20c466351de8b3604136f5e49.jpg",
-            "description": "",
+            "description": null,
             "title": "Passmore Edwards Room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1761_boardroom-style_56558ff20c466351de8b3604136f5e49.jpg"
         }
@@ -134,12 +113,12 @@
         "longitude": -0.1049387,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Blackfriars, St. Paul's",
-            "Nearest train: Blackfriars",
-            "Bus routes: 4, 11, 15, 45, 63, 26, 76, 172, 388"
+            "Tube: Blackfriars, St. Paul's",
+            "Train: Blackfriars",
+            "Bus: 4, 11, 15, 45, 63, 26, 76, 172, 388"
         ]
     },
-    "name": "St Bride Foundation ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1761",
+    "name": "St Bride Foundation",
+    "original_url": "https://programme.openhouse.org.uk/listings/1761",
     "ticketed_events": false
 }

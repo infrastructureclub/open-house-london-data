@@ -4,12 +4,18 @@
     "design": {
         "designers": [
             {
-                "architect": "Skinner, Bailey and Lubetkin",
-                "description": "Original design",
+                "architect": "Skinner",
+                "description": null,
+                "year": "1954"
+            },
+            {
+                "architect": "Bailey and Lubetkin",
+                "description": null,
                 "year": "1954"
             }
         ],
         "periods": [
+            " Bailey and Lubetkin",
             "Post-war"
         ],
         "types": [
@@ -18,20 +24,7 @@
             "online"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-05",
-            "end": "2022-09-05T11:45:00+01:00",
-            "fully_booked": null,
-            "name": "Bevin Court Virtual Tour",
-            "notes": "This virtual 45 minute tour (held over Zoom) gives you a window into the marvels of Bevin Court’s architecture. Bevin Court is one of several modernist projects in London designed in the post war years by the Tecton practice, led by  renowned architect Berthold Lubetkin. It was built on the site of the bomb-destroyed Holford Square, once home to Lenin. Now Grade 1* listed, Islington Council renovated the Court in 2013/14, restoring both the original colour scheme of the staircase, and  the mural in the ground floor entrance way painted by Lubetkin’s collaborator Peter Yates. Lubetkin planned to honour the memory of Lenin by installing a bust of the Communist leader and naming the block Lenin Court, but the arrival of the Cold War led to its renaming after Ernest Bevin, former Foreign Secretary, and the bust remained hidden. A copy of the bust also featured in the recent renovations.",
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -65,36 +58,41 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2214/building_2214_square-stair_5b58b8f0686c4a6d5046153ebf4c75e1.jpg",
-            "description": "2015",
+            "description": null,
             "title": "View of the staircase from below",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2214_square-stair_5b58b8f0686c4a6d5046153ebf4c75e1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2214/building_2214_yates-restored-small_ee2544d36a9145eb93cb29c0b2797b15.jpg",
-            "description": "Islington Local History Centre · 2016",
+            "description": null,
             "title": "The newly restored Peter Yates mural in the foyer of Bevin Court",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2214_yates-restored-small_ee2544d36a9145eb93cb29c0b2797b15.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2214/building_2214_bevin-court-entrance_cb4a3ecf2f47fc31aaaa7171638451b8.jpg",
-            "description": "2018",
+            "description": null,
             "title": "Bevin Court entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2214_bevin-court-entrance_cb4a3ecf2f47fc31aaaa7171638451b8.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://historicengland.org.uk/listing/the-list/list-entry/1246687).",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Cruikshank Street, WC1X 9HA",
         "latitude": 51.5304869,
         "longitude": -0.1112792,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Angel, King's Cross St. Pancras",
-            "Nearest train: King's Cross, St.Pancras",
-            "Bus routes: 30, 73, 205, 214, 476"
+            "Tube: Angel, King's Cross St. Pancras",
+            "Train: King's Cross, St.Pancras",
+            "Bus: 30, 73, 205, 214, 476"
         ]
     },
-    "name": "Bevin Court ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2214",
+    "name": "Bevin Court",
+    "original_url": "https://programme.openhouse.org.uk/listings/2214",
     "ticketed_events": false
 }

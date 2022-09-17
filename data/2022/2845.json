@@ -5,26 +5,14 @@
         "designers": [
             {
                 "architect": "Henry Yevele",
-                "description": "Restoration",
+                "description": null,
                 "year": "1371"
-            },
-            {
-                "architect": "Seely and Paget",
-                "description": "Restoration",
-                "year": "1958"
-            },
-            {
-                "architect": "Eric Parry Architects",
-                "description": "Extension",
-                "year": "2017"
-            },
-            {
-                "architect": "Richard Griffiths Architects",
-                "description": "Refurbishment",
-                "year": "2020"
             }
         ],
         "periods": [
+            "Seely and Paget",
+            "Eric Parry Architects",
+            "Richard Griffiths Architects",
             "Medieval",
             "Tudor",
             "Post-war",
@@ -38,26 +26,11 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 25,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:45:00+01:00",
-            "fully_booked": null,
-            "name": "Virtual Soundscape Tour of the Charterhouse's Great Chamber - Community Engagement Project",
-            "notes": "Join Nichola Charalambou – Community Engagement Officer, on Zoom for a virtual tour of the new Charterhouse Soundscape. This will be followed by a chat and an opportunity to ask questions. We facilitated an online Community Engagement Programme at the beginning of this year, working with diverse groups during lockdown and giving them the opportunity to tell their own stories, in response to the stories of the Charterhouse and our newly restored Great Chamber. This is an opportunity to hear about the paintings, people and places behind the Soundscape and to find out more about the Charterhouse and our events. This is a free event for Open House Festival 2021. Booking in advance only. Please cut and paste this link into your browser. https://thecharterhouse.digitickets.co.uk/event-tickets/34156?catID=34282&  Zoom details will be sent out to all those who have booked their place",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Bookshop",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Bookshop",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -74,9 +47,20 @@
         {
             "heading": "Brothers of the Charterhouse",
             "paragraphs": [
-                "The Brothers of the Charterhouse are a residential community of fit single men and women over sixty years of age. Originally for men who could supply ‘good testimonye and certificat of theire good behaviour and soundnes in religion’, those who had been servants to the King ‘either decrepit or old captaynes either at sea or land’, maimed or disabled soldiers, merchants fallen on hard times, those ruined by shipwreck or other calamity, the community now consists of former teachers, musicians, writers, clergymen, etc.",
+                "The Brothers of the Charterhouse are a residential community of single men and women over sixty years of age. Originally for men who could supply ‘good testimonye and certificat of theire good behaviour and soundnes in religion’, those who had been servants to the King ‘either decrepit or old captaynes either at sea or land’, maimed or disabled soldiers, merchants fallen on hard times, those ruined by shipwreck or other calamity, the community now consists of former teachers, musicians, writers, clergymen, etc.",
                 "Each Brother is provided with accommodation which varies between a separate bedroom and sitting room and a bed-sitting room with a washing area. Breakfast, lunch, tea and supper are served daily in the Great Hall.",
                 "In January 2018 the first female Brother joined the community."
+            ]
+        },
+        {
+            "heading": "Open House Event - View the Great Chamber for FREE!",
+            "paragraphs": [
+                "15th September 2022 | 10:30am - 4:30pm",
+                "Join us for a rare opportunity to glimpse into our majestic Great Chamber for FREE! Usually only accessible on a guided tour, you will be able to spend 30 minutes exploring the beautifully refurbished room and get up close to our exquisite 17th century portraits.",
+                "You’ll also be able to listen to our Soundscape and hear from our community engagement partners who will be bringing the room to life!",
+                "4 x 30 minute viewings available: 10.30am-11am, 12noon-12.30pm, 1.30pm-2pm, 3.45pm-4.15pm.",
+                "No booking necessary but please arrive on time to avoid disappointment.",
+                "We will also be offering attendees 10% off our Great Chamber book. This is a free event for Heritage Open Days and Open House Festival 2022."
             ]
         }
     ],
@@ -84,25 +68,21 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2845/building_2845_dsc_0078_e396e592bddc1c2343549021fc386b9c.JPG",
-            "description": "",
+            "description": null,
             "title": "Chapel Garden entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2845_dsc_0078_e396e592bddc1c2343549021fc386b9c.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2845/building_2845_will-pryce-cf130242-fl_39e088ae41641db704b65c3acf2954c0.jpg",
-            "description": "Will Pryce · 2020",
+            "description": null,
             "title": "The Refurbished Great Chamber",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2845_will-pryce-cf130242-fl_39e088ae41641db704b65c3acf2954c0.jpg"
         }
     ],
     "links": [
         {
-            "href": "http://www.thecharterhouse.org",
-            "title": "Website"
-        },
-        {
-            "href": "https://twitter.com/CharterhouseEC1",
-            "title": "@CharterhouseEC1"
+            "href": "https://thecharterhouse.digitickets.co.uk",
+            "title": null
         }
     ],
     "location": {
@@ -111,12 +91,12 @@
         "longitude": -0.099006,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Barbican, Farringdon",
-            "Nearest train: Farringdon",
-            "Bus routes: 4, 56, 153"
+            "Tube: Barbican, Farringdon",
+            "Train: Farringdon",
+            "Bus: 4, 56, 153"
         ]
     },
     "name": "The Charterhouse",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2845",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/2845",
+    "ticketed_events": false
 }

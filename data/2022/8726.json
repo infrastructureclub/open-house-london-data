@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "JTP",
-                "description": "Original design",
+                "description": null,
                 "year": "2019"
             }
         ],
@@ -21,25 +21,25 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tours by Architect",
-            "notes": "A tour of Pennington Street Warehouse will be given by the architects, first come first serve, tours throughout the day. Please register your details.",
-            "start": "2022-09-11T10:00:00+01:00",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Architect on site",
-            "Disabled access",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Architect on site",
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -66,60 +66,60 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8726/building_8726_01_jtp_pennington-street-warehouse_website_a56dda8804e5be3684e59d7b17dc72b1.jpg",
-            "description": "Fotohaus · 2019",
+            "description": null,
             "title": "Pennington Street Warehouse",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8726_01_jtp_pennington-street-warehouse_website_a56dda8804e5be3684e59d7b17dc72b1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8726/building_8726_06_jtp_pennington-street-warehouse_website_01be86a659c01b42e0f389153194b8bc.jpg",
-            "description": "Fotohaus · 2019",
+            "description": null,
             "title": "Pennington Street Warehouse",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8726_06_jtp_pennington-street-warehouse_website_01be86a659c01b42e0f389153194b8bc.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8726/building_8726_07_jtp_pennington-street-warehouse_website_4863698ff1542ea3777aa52e29dc3057.jpg",
-            "description": "Fotohaus · 2019",
+            "description": null,
             "title": "Pennington Street Warehouse",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8726_07_jtp_pennington-street-warehouse_website_4863698ff1542ea3777aa52e29dc3057.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8726/building_8726_01057_01057_fotohaus_psw_n7_webview_7b9d14302d92f571401ba44b3b95a775.jpg",
-            "description": "Fotohaus · 2019",
+            "description": null,
             "title": "Pennington Street Warehouse",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8726_01057_01057_fotohaus_psw_n7_webview_7b9d14302d92f571401ba44b3b95a775.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8726/building_8726_01057_01057_fotohaus_psw_n9_webview_1693716edc1b4206b488505f4dba0388.jpg",
-            "description": "Fotohaus · 2019",
+            "description": null,
             "title": "Pennington Street Warehouse",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8726_01057_01057_fotohaus_psw_n9_webview_1693716edc1b4206b488505f4dba0388.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8726/building_8726_01057_01057_fotohaus_psw_n24_webview_fa4ab73edce1bd7e6de8bafe505edbc8.jpg",
-            "description": "Fotohaus · 2019",
+            "description": null,
             "title": "Pennington Street Warehouse",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8726_01057_01057_fotohaus_psw_n24_webview_fa4ab73edce1bd7e6de8bafe505edbc8.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8726/building_8726_01057_01057_fotohaus_psw_n58_webview_1ae4a45403010d3e52c17d0b8a7eeb44.jpg",
-            "description": "Fotohaus · 2019",
+            "description": null,
             "title": "Pennington Street Warehouse",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8726_01057_01057_fotohaus_psw_n58_webview_1ae4a45403010d3e52c17d0b8a7eeb44.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "JTP Studios, Unit 5, The Rum Warehouse, Pennington Street, E1W 2AP",
+        "address": "JTP Studios, Unit 5, The Rum Warehouse",
         "latitude": 51.5086742,
         "longitude": -0.0630976,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Aldgate East, Tower Hill, Shadwell, Wapping",
-            "Nearest train: Liverpool Street, London Bridge",
-            "Bus routes: 100"
+            "Tube: Aldgate East, Tower Hill, Shadwell, Wapping",
+            "Train: Liverpool Street, London Bridge",
+            "Bus: 100"
         ]
     },
     "name": "JTP Studios, Pennington Street Warehouse",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8726",
+    "original_url": "https://programme.openhouse.org.uk/listings/8726",
     "ticketed_events": false
 }

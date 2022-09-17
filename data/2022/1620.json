@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Richard Jupp",
-                "description": "Original design",
+                "description": null,
                 "year": "1784"
             }
         ],
@@ -18,25 +18,10 @@
             "museum"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:30:00+01:00",
-            "fully_booked": null,
-            "name": "General Access",
-            "notes": null,
-            "start": "2022-09-05T10:30:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -51,31 +36,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1620/building_1620_severndroog-castle-1_5663577375ea116f6ecc14a3521e3bd4.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1620_severndroog-castle-1_5663577375ea116f6ecc14a3521e3bd4.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1620/building_1620_severndroog-castle-33_57413725dbc020998cfcb4b952b9e682.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1620_severndroog-castle-33_57413725dbc020998cfcb4b952b9e682.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1620/building_1620_sunshine_534d5f6dbc3ded00396a6f92826d3a79.jpg",
-            "description": "M. Benbow · 2018",
+            "description": null,
             "title": "The viewing platform on a sunny day",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1620_sunshine_534d5f6dbc3ded00396a6f92826d3a79.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1620/building_1620_severndroog-castle-17_86715ade14610d8dbb7e4040833d28e8.jpg",
-            "description": "2015",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1620_severndroog-castle-17_86715ade14610d8dbb7e4040833d28e8.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1620/building_1620_panorama_96d8d86883d18e14928ba25df50a9fa5.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1620_panorama_96d8d86883d18e14928ba25df50a9fa5.jpg"
         }
@@ -87,11 +72,11 @@
         "longitude": 0.0592565,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Eltham, Falconwood",
-            "Bus routes: B15, 89, 122, 161, 244, 486, B16"
+            "Train: Eltham, Falconwood",
+            "Bus: B15, 89, 122, 161, 244, 486, B16"
         ]
     },
     "name": "Severndroog Castle",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1620",
+    "original_url": "https://programme.openhouse.org.uk/listings/1620",
     "ticketed_events": false
 }

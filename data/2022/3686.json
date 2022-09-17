@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1120"
             }
         ],
@@ -17,38 +17,11 @@
             "museum"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "The Chapter House",
-            "notes": null,
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "The Chapter House",
-            "notes": null,
-            "start": "2022-09-12T11:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Bookshop",
-            "Parking",
-            "Disabled access"
-        ]
+        "Bookshop",
+        "Parking",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -95,25 +68,30 @@
     "id": 3686,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3686/building_3686_9265737482_554099fe00_b_98466298496aa434aaf6c8a2abbfeda0.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3686/building_3686_9265737482_554099fe00_b_88de6442750afd39263bcedb4c7eee50.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_3686_9265737482_554099fe00_b_98466298496aa434aaf6c8a2abbfeda0.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3686_9265737482_554099fe00_b_88de6442750afd39263bcedb4c7eee50.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "http://www.mertonpriory.org",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Merton Abbey Mills, Merantun Way, SW19 2RD",
         "latitude": 51.4130241,
         "longitude": -0.1832929,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Colliers Wood",
-            "Nearest train: Wimbledon",
-            "Bus routes: 57, 131, 152, 200, 219, 470"
+            "Tube: Colliers Wood",
+            "Train: Wimbledon",
+            "Bus: 57, 131, 152, 200, 219, 470"
         ]
     },
     "name": "The Chapter House, Merton Priory",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/3686",
+    "original_url": "https://programme.openhouse.org.uk/listings/3686",
     "ticketed_events": false
 }

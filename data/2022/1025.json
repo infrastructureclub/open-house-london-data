@@ -5,48 +5,19 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1770"
-            },
-            {
-                "architect": "Timson Manley/restorer",
-                "description": "Restoration",
-                "year": "2000"
             }
         ],
         "periods": [
+            "Timson Manley/restorer",
             "Georgian"
         ],
         "types": [
             "historical house"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 8,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Manor House Gardens Ice House",
-            "notes": "Access is by a flight of steps down",
-            "start": "2022-09-04T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 8,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Manor House Gardens Ice House",
-            "notes": "Access is by a flight of steps down",
-            "start": "2022-09-05T12:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -66,10 +37,10 @@
     "id": 1025,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1025/building_1025_s320170712-4-1wqlor420170712-4-wh8aro20170712-4-1ef6t0_f9c09a2614c36a0d3a3cb819d1fecc37.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1025/building_1025_screen-shot-2017-06-19-at-11-02-04_f054362226c30d3db851f8009c878d2d.png",
             "description": null,
             "title": "Ice House interior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_1025_s320170712-4-1wqlor420170712-4-wh8aro20170712-4-1ef6t0_f9c09a2614c36a0d3a3cb819d1fecc37.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1025_screen-shot-2017-06-19-at-11-02-04_f054362226c30d3db851f8009c878d2d.png"
         }
     ],
     "links": [],
@@ -79,11 +50,11 @@
         "longitude": 0.0046996,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Lee, Hither Green, Blackheath",
-            "Bus routes: 122, 261, 321, 178"
+            "Train: Lee, Hither Green, Blackheath",
+            "Bus: 122, 261, 321, 178"
         ]
     },
     "name": "Manor House Gardens Ice House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1025",
+    "original_url": "https://programme.openhouse.org.uk/listings/1025",
     "ticketed_events": false
 }

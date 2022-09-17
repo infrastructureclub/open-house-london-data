@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "William Inwood & son",
-                "description": "Original design",
+                "description": null,
                 "year": "1822"
             }
         ],
@@ -18,35 +18,37 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 50,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Day",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T10:00:00+01:00",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 50,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Day",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T11:00:00+01:00",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -85,31 +87,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3678/building_3678_st-pancras-caryatids_42f336e5e5f36f03011337ccb8f7f6d9.jpg",
-            "description": "",
+            "description": null,
             "title": "Caryatids",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3678_st-pancras-caryatids_42f336e5e5f36f03011337ccb8f7f6d9.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3678/building_3678_st-p_32cf215a7ff516b84a0f1658d1bbe1ca.jpg",
-            "description": "2022",
+            "description": null,
             "title": "View from west",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3678_st-p_32cf215a7ff516b84a0f1658d1bbe1ca.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3678/building_3678_pulpit_3c3bf4ba67f6e03a0909fd8ebe389b58.jpg",
-            "description": "",
+            "description": null,
             "title": "Pulpit",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3678_pulpit_3c3bf4ba67f6e03a0909fd8ebe389b58.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3678/building_3678_3_19cfff8b6050e0112bd54965e8a06b88.jpg",
-            "description": "2022",
+            "description": null,
             "title": "Wedding at St Pancras",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3678_3_19cfff8b6050e0112bd54965e8a06b88.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3678/building_3678_crypt_e77a4d6c4b4d58fe5e33ba6d19b1ff28.jpg",
-            "description": "",
+            "description": null,
             "title": "Crypt",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3678_crypt_e77a4d6c4b4d58fe5e33ba6d19b1ff28.jpg"
         }
@@ -121,12 +123,12 @@
         "longitude": -0.1307808,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: King's Cross St. Pancras, Euston, Euston Square",
-            "Nearest train: Euston, St.Pancras, King's Cross",
-            "Bus routes: 30, 73, 91, 59, 68, 168, 18, 205, 253, 390"
+            "Tube: King's Cross St. Pancras, Euston, Euston Square",
+            "Train: Euston, St.Pancras, King's Cross",
+            "Bus: 30, 73, 91, 59, 68, 168, 18, 205, 253, 390"
         ]
     },
     "name": "St Pancras Church & Crypt",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/3678",
+    "original_url": "https://programme.openhouse.org.uk/listings/3678",
     "ticketed_events": false
 }

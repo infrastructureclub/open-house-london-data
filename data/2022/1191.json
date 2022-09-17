@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "George Ashdown Audsley",
-                "description": "Original design",
+                "description": null,
                 "year": "1877"
             }
         ],
@@ -16,25 +16,10 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -65,10 +50,10 @@
     "id": 1191,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1191/building_1191_dsc00521_4116644d4ee4a1694d0542208c181aa6.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1191/building_1191_dsc00521_8d4a59133fa5c87839834408d1e2f259.jpg",
             "description": null,
             "title": "Synagogue interior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_1191_dsc00521_4116644d4ee4a1694d0542208c181aa6.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1191_dsc00521_8d4a59133fa5c87839834408d1e2f259.jpg"
         }
     ],
     "links": [],
@@ -78,12 +63,12 @@
         "longitude": -0.1907366,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Queensway, Bayswater, Notting Hill Gate",
-            "Nearest train: Paddington",
-            "Bus routes: 7, 23, 27, 36, 70, 94, 148"
+            "Tube: Queensway, Bayswater, Notting Hill Gate",
+            "Train: Paddington",
+            "Bus: 7, 23, 27, 36, 70, 94, 148"
         ]
     },
     "name": "New West End Synagogue",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1191",
+    "original_url": "https://programme.openhouse.org.uk/listings/1191",
     "ticketed_events": false
 }

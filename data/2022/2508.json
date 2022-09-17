@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "G E Street",
-                "description": "Original design",
+                "description": null,
                 "year": "1861"
             }
         ],
@@ -16,38 +16,11 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "St James the  Less, Westminster Open House",
-            "notes": "the church will be open for visitors with an exhibition available about the church, its parish and it's history",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-08",
-            "end": "2022-09-08T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "St James the  Less, Westminster Open House",
-            "notes": "The church will be open for visitors with an exhibition available about the church, the parish and its history.",
-            "start": "2022-09-08T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Family activities during open house festival",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Family activities",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -71,63 +44,54 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2508/building_2508_pimlico-ext-10-from-sw-2-2000x2000_18f05bb8d928e42ac567f28e1db2fbab.jpg",
-            "description": "Colin Kerr · 2013",
+            "description": null,
             "title": "St James the  Less Westminster, West End",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2508_pimlico-ext-10-from-sw-2-2000x2000_18f05bb8d928e42ac567f28e1db2fbab.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2508/building_2508_pimlico-ext-7-tower-base-entr-to-church-2000x2000_f3da4825c3402d13a05bef7715551cb5.jpg",
-            "description": "Colin Kerr · 2013",
+            "description": null,
             "title": "Entrance to St James the Less, Westminster under the tower",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2508_pimlico-ext-7-tower-base-entr-to-church-2000x2000_f3da4825c3402d13a05bef7715551cb5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2508/building_2508_i-must-be-about-my-father-s-business_314b4b16b0ce2594b895a5ad816a6897.jpg",
-            "description": "Lis Goddard · 2021",
+            "description": null,
             "title": "Pulpit - St James the Less, Westminster",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2508_i-must-be-about-my-father-s-business_314b4b16b0ce2594b895a5ad816a6897.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2508/building_2508_sjtlmosaic_ddb788cf7f71d5948fdc42a3e48c046d.jpg",
-            "description": "",
+            "description": null,
             "title": "Christ in Glory Mosaic by G.F.Watts",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2508_sjtlmosaic_ddb788cf7f71d5948fdc42a3e48c046d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2508/building_2508_sanctuary_6a5dae4688d6972a9b920662a0343c07.jpg",
-            "description": "",
+            "description": null,
             "title": "View into the Sanctuary",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2508_sanctuary_6a5dae4688d6972a9b920662a0343c07.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2508/building_2508_st_james_the_less_church_pimlico_-_london-547x1024_30a1549a2ade17469a8cc5e0a0bace09.jpg",
-            "description": "",
+            "description": null,
             "title": "St James the Less from Vauxhall Bridge Road ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2508_st_james_the_less_church_pimlico_-_london-547x1024_30a1549a2ade17469a8cc5e0a0bace09.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.sjtl.org/",
-            "title": "Website"
-        },
-        {
-            "href": "https://twitter.com/stjamestheless",
-            "title": "@stjamestheless"
-        }
-    ],
+    "links": [],
     "location": {
-        "address": "Thorndike Street, , off Moreton Street, SW1V 2PS",
+        "address": "Thorndike Street, , off Moreton Street",
         "latitude": 51.4908142,
         "longitude": -0.1349802,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Pimlico, Victoria",
-            "Nearest train: Victoria",
-            "Bus routes: 2, 36, 185, 360, 88, C10"
+            "Tube: Pimlico, Victoria",
+            "Train: Victoria",
+            "Bus: 2, 36, 185, 360, 88, C10"
         ]
     },
     "name": "St James the Less Church",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2508",
+    "original_url": "https://programme.openhouse.org.uk/listings/2508",
     "ticketed_events": false
 }

@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Arthur Kenyon",
-                "description": "Original design",
+                "description": null,
                 "year": "1936"
             }
         ],
@@ -16,75 +16,12 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:30:00+01:00",
-            "fully_booked": null,
-            "name": "Tower trip",
-            "notes": null,
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Tower trip",
-            "notes": null,
-            "start": "2022-09-04T15:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access",
-            "notes": null,
-            "start": "2022-09-05T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Tower trip",
-            "notes": null,
-            "start": "2022-09-05T15:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Refreshments",
-            "Parking",
-            "Disabled access",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Parking",
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -146,25 +83,25 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1502/building_1502_exterior-ridgeway_5146cb2467cc4e9e881175e0960033d6.jpg",
-            "description": "Alison Chester · 2012",
+            "description": null,
             "title": "St Alban from The Ridgeway",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1502_exterior-ridgeway_5146cb2467cc4e9e881175e0960033d6.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1502/building_1502_tower_e937831b46633ff7b820f5a2718d630b.jpg",
-            "description": "Philip Crouch · 2016",
+            "description": null,
             "title": "St Alban from the East",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1502_tower_e937831b46633ff7b820f5a2718d630b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1502/building_1502_march-int-dscf0705_89b353a72c7e31f364a9d07c435bc28e.jpg",
-            "description": "Philip Crouch · 2019",
+            "description": null,
             "title": "Interior Looking East",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1502_march-int-dscf0705_89b353a72c7e31f364a9d07c435bc28e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1502/building_1502_dscf0714_7ca6ffb2945a788404bbb2c188b3b262.JPG",
-            "description": "Philip Crouch · 2019",
+            "description": null,
             "title": "Lady Chapel",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1502_dscf0714_7ca6ffb2945a788404bbb2c188b3b262.JPG"
         }
@@ -176,11 +113,11 @@
         "longitude": -0.3679155,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: North Harrow",
-            "Bus routes: H9, H10, H11"
+            "Tube: North Harrow",
+            "Bus: H9, H10, H11"
         ]
     },
     "name": "St Alban Church",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1502",
+    "original_url": "https://programme.openhouse.org.uk/listings/1502",
     "ticketed_events": false
 }

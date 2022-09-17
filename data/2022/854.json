@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "HV Lanchester",
-                "description": "Original design",
+                "description": null,
                 "year": "1892"
             }
         ],
@@ -19,20 +19,7 @@
             "online"
         ]
     },
-    "events": [
-        {
-            "all_day": true,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T23:59:00+01:00",
-            "fully_booked": null,
-            "name": "Video Tour",
-            "notes": "https://www.youtube.com/watch?v=5Oz5JYHw0Ns",
-            "start": "2022-09-04T00:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -70,13 +57,13 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/854/building_854_khcpicture2apr06_99fa6060fd7a04b389811feda8c08af7.jpg",
-            "description": "",
+            "description": null,
             "title": "front of Kingswood house",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_854_khcpicture2apr06_99fa6060fd7a04b389811feda8c08af7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/854/building_854_kingswood-house-group_6b9eb4cca4afd2f7d88310317820e5e1.jpg",
-            "description": "Not known · 1880",
+            "description": null,
             "title": "John Lawson Johnstone's family in front of KIngswood House",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_854_kingswood-house-group_6b9eb4cca4afd2f7d88310317820e5e1.jpg"
         }
@@ -84,7 +71,11 @@
     "links": [
         {
             "href": "http://www.kingswoodhouse.org.uk/",
-            "title": "Online Content"
+            "title": null
+        },
+        {
+            "href": "https://www.youtube.com/watch?v=5Oz5JYHw0Ns",
+            "title": null
         }
     ],
     "location": {
@@ -93,11 +84,11 @@
         "longitude": -0.0807568,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Sydenham Hill",
-            "Bus routes: 450, 3, 322"
+            "Train: Sydenham Hill",
+            "Bus: 450, 3, 322"
         ]
     },
-    "name": "Kingswood House ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/854",
+    "name": "Kingswood House",
+    "original_url": "https://programme.openhouse.org.uk/listings/854",
     "ticketed_events": false
 }

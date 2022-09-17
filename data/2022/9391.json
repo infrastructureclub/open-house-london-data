@@ -12,15 +12,17 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:30:00+01:00",
-            "fully_booked": null,
-            "name": "Wimbledon architecture walk",
-            "notes": "If you use MeetUp, please join the event: https://www.meetup.com/Metropolitan-Walkers/events/280159242/. However, if you do not use MeetUp, it is possible to turn up and attend on the day.",
-            "start": "2022-09-05T15:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T15:00:00+01:00",
             "ticketed": false
         }
     ],
@@ -40,10 +42,10 @@
     "id": 9391,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9391/building_9391_mw_2d5eae7629040a2084bc75d3e9e773ed.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9391/building_9391_mw_4100ab976a91b5912e2a31775e8534ee.jpg",
             "description": null,
             "title": "One of our walks in nearby Richmond Park",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_9391_mw_2d5eae7629040a2084bc75d3e9e773ed.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9391_mw_4100ab976a91b5912e2a31775e8534ee.jpg"
         }
     ],
     "links": [],
@@ -51,14 +53,14 @@
         "address": "The Broadway, Wimbledon, SW19 7NL",
         "latitude": 51.4191783,
         "longitude": -0.2001386,
-        "meeting_point": "Meet at Wimbledon station - on the forecourt",
+        "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Wimbledon",
-            "Nearest train: Wimbledon",
-            "Bus routes: 57, 93, 131, 156, 163, 164, 219"
+            "Tube: Wimbledon",
+            "Train: Wimbledon",
+            "Bus: 57, 93, 131, 156, 163, 164, 219"
         ]
     },
     "name": "Wimbledon architecture walk",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9391",
+    "original_url": "https://programme.openhouse.org.uk/listings/9391",
     "ticketed_events": false
 }

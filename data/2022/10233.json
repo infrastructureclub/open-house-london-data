@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1834"
             }
         ],
@@ -18,51 +18,12 @@
             "event"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 8,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:00:00+01:00",
-            "fully_booked": null,
-            "name": "Welcome to the Brandon Centre",
-            "notes": "This will depend on Covid Restrictions. We can welcome more people in the garden than the Centre at one time.",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 8,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Welcome to the Brandon Centre",
-            "notes": null,
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 8,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "Welcome to the Brandon Centre",
-            "notes": null,
-            "start": "2022-09-04T12:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Family activities during open house festival",
-            "Disabled access",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Family activities",
+        "Disabled access",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -90,20 +51,16 @@
     "id": 10233,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10233/building_10233_img_1502_ba7eaf5585e2635dc61b12da8a42a9bd.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10233/building_10233_img_1502_f26f13de7543af85fcbc9bb72583be54.jpg",
             "description": null,
             "title": "Brandon Centre, 26 Prince of Wales Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_10233_img_1502_ba7eaf5585e2635dc61b12da8a42a9bd.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10233_img_1502_f26f13de7543af85fcbc9bb72583be54.jpg"
         }
     ],
     "links": [
         {
-            "href": "http://Brandon-centre.org.uk",
-            "title": "Website"
-        },
-        {
-            "href": "https://twitter.com/BrandonCentre",
-            "title": "@BrandonCentre"
+            "href": "https://www.camden.gov.uk/documents/20142/7935747/West+Kentish+Town+conservation+area+statement.pdf/ea958f58-4a78-f91c-4f3f-f09ddfa02137",
+            "title": null
         }
     ],
     "location": {
@@ -112,12 +69,12 @@
         "longitude": -0.1447966,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Chalk Farm, Kentish Town",
-            "Nearest train: King's Cross, Kentish Town West, Kentish Town",
-            "Bus routes: 393, 214, 46, 134, 88, C2"
+            "Tube: Chalk Farm, Kentish Town",
+            "Train: King's Cross, Kentish Town West, Kentish Town",
+            "Bus: 393, 214, 46, 134, 88, C2"
         ]
     },
-    "name": "Brandon Centre ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/10233",
+    "name": "Brandon Centre",
+    "original_url": "https://programme.openhouse.org.uk/listings/10233",
     "ticketed_events": false
 }

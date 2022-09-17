@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Bodley & Garner",
-                "description": "Original design",
+                "description": null,
                 "year": "1892"
-            },
-            {
-                "architect": "Matthew Lloyd Architects",
-                "description": "Refurbishment",
-                "year": "2014"
             }
         ],
         "periods": [
+            "Matthew Lloyd Architects",
             "Victorian",
             "Historical/contemporary"
         ],
@@ -23,50 +19,11 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Church",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-12",
-            "end": "2022-09-12T11:15:00+01:00",
-            "fully_booked": null,
-            "name": "Morning service",
-            "notes": "You are welcome to join us and experience the building in it's intended use.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open church",
-            "notes": "Open for a look aroundVisitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T12:30:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access",
-            "Refreshments"
-        ]
+        "Toilets",
+        "Disabled access",
+        "Refreshments"
     ],
     "factsheet": [
         {
@@ -91,49 +48,49 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6392/building_6392_sme01bluxmoore_a4c9e2ca94f72354e8cb14a4249839db.jpg",
-            "description": "Benedict Luxmoore · 2015",
+            "description": null,
             "title": "St Mary of Eton",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6392_sme01bluxmoore_a4c9e2ca94f72354e8cb14a4249839db.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6392/building_6392_sme02bluxmoore_46201f10c45c77c2e8dcb19a25643d91.jpg",
-            "description": "Benedict Luxmoore · 2015",
+            "description": null,
             "title": "St Mary of Eton",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6392_sme02bluxmoore_46201f10c45c77c2e8dcb19a25643d91.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6392/building_6392_sme12pwoodward_b3f0a91de0ee6d80bc75d3ff5ed0dfbe.jpg",
-            "description": "Patricia Woodward · 2014",
+            "description": null,
             "title": "Old & New",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6392_sme12pwoodward_b3f0a91de0ee6d80bc75d3ff5ed0dfbe.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6392/building_6392_blessed-sacrament-window_7fbae39861683030a8909e825693f42e.jpg",
-            "description": "Rev'd S Makin · 2020",
+            "description": null,
             "title": "Blessed Sacrament Window",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6392_blessed-sacrament-window_7fbae39861683030a8909e825693f42e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6392/building_6392_church-christmas_8b2179bfcb1c9a148a5f10f1fb6d7658.jpg",
-            "description": "Rev'd S Makin · 2019",
+            "description": null,
             "title": "worship Space from screen",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6392_church-christmas_8b2179bfcb1c9a148a5f10f1fb6d7658.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6392/building_6392_arch-and-altar_08f22558e1ca4f5c7522db46db3960af.jpg",
-            "description": "S Makin · 2019",
+            "description": null,
             "title": "Screen arch and Altar",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6392_arch-and-altar_08f22558e1ca4f5c7522db46db3960af.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6392/building_6392_rev-sue-and-eton_139d56507c883a69528d528d21c1e65d.jpg",
-            "description": "D Grey · 2019",
+            "description": null,
             "title": "Eton College Choir visit",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6392_rev-sue-and-eton_139d56507c883a69528d528d21c1e65d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6392/building_6392_winter-blossom_00ba28a9947fc1123996429b018c7af6.jpg",
-            "description": "S Makin · 2021",
+            "description": null,
             "title": "Winter Blossom",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6392_winter-blossom_00ba28a9947fc1123996429b018c7af6.jpg"
         }
@@ -145,11 +102,11 @@
         "longitude": -0.030139,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Hackney Wick",
-            "Bus routes: 26, 30, 236, 276, 388, 488"
+            "Train: Hackney Wick",
+            "Bus: 26, 30, 236, 276, 388, 488"
         ]
     },
     "name": "St Mary of Eton Church Mixed Use Development",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6392",
+    "original_url": "https://programme.openhouse.org.uk/listings/6392",
     "ticketed_events": false
 }

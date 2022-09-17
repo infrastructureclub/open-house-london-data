@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1776"
-            },
-            {
-                "architect": "Julian Harrap Architects",
-                "description": "Restoration",
-                "year": "1980"
             }
         ],
         "periods": [
+            "Julian Harrap Architects",
             "Georgian"
         ],
         "types": [
@@ -24,25 +20,25 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided Tours of the Mill",
-            "notes": "10 people per Hourly Guided Tour, Covid Secure Requirements must be abided by including masks. Must be pre-booked at info@housemill.org.uk. A specific time for your visit will be advised. The Café and an Arts & Crafts Exhibition will also be open.  The Mill and Café are open on a regular basis throughout the year. Please see our website for details.",
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": true
+            "capacity": 18,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
+            "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Bookshop",
-            "Parking",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Bookshop",
+        "Parking",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -64,13 +60,13 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/697/building_697_mill-clockmill_1634d58226146506b8d1ea07b7fdfdfa.jpg",
-            "description": "",
+            "description": null,
             "title": "House Mill and Setting ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_697_mill-clockmill_1634d58226146506b8d1ea07b7fdfdfa.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/697/building_697_mill-below_300c0aabc1cf8dbbfe663e1af516f11e.jpg",
-            "description": "",
+            "description": null,
             "title": "House Mill at Low Tide ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_697_mill-below_300c0aabc1cf8dbbfe663e1af516f11e.jpg"
         }
@@ -82,11 +78,11 @@
         "longitude": -0.0095692,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Bromley By Bow",
-            "Bus routes: 488, 323, D8, 25"
+            "Tube: Bromley By Bow",
+            "Bus: 488, 323, D8, 25"
         ]
     },
     "name": "House Mill",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/697",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/697",
+    "ticketed_events": false
 }

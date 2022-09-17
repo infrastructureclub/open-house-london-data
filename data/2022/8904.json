@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Holloway Brothers",
-                "description": "Original design",
+                "description": null,
                 "year": "1894"
             }
         ],
@@ -17,24 +17,9 @@
             "infrastructure/engineering"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour",
-            "notes": "Access by pre-booked tour only. Tours starting on the hour, last tour at 3pm. All tours will follow current COVID guidelines.",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -55,51 +40,58 @@
                 "Over the subsequent years the yield from the well deteriorated until it was no longer economically viable to use it as a supply source. But that’s not to say the pumping station fell into disuse. The equipment actually proved to be invaluable as a booster pump between the mains and Norwood Reservoir. And the original well sunk in the 1880s is still in use today as an emergency water supply, and is stored in a huge underground tank beneath the front lawn of the property.",
                 "Thank you to John Brown, Local History publications and Streatham Society for sharing their research."
             ]
+        },
+        {
+            "heading": "Tour details and booking",
+            "paragraphs": [
+                "Tours will take place on 16 & 17 September. Tours start on the hour between 1100-1600 (last tour 1500) for ticket holders only",
+                "Booking link: https://bit.ly/streathamps"
+            ]
         }
     ],
     "id": 8904,
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8904/building_8904_shs-conyers-road-water-works-55_6bb602189430b4135a94db8aafa298d7.jpg",
-            "description": "Streatham History Society",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8904_shs-conyers-road-water-works-55_6bb602189430b4135a94db8aafa298d7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8904/building_8904_streatham-well-building-2_e6cac61af938929942ed67cb5104b2b0.jpg",
-            "description": "Streatham History Society",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8904_streatham-well-building-2_e6cac61af938929942ed67cb5104b2b0.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8904/building_8904_streatham-building-landscape_051ba89395e21ae2ee7ae332a389e653.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8904_streatham-building-landscape_051ba89395e21ae2ee7ae332a389e653.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8904/building_8904_img_20210709_135144465_424d6c1514e5eb39897276901bc8bf95.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8904_img_20210709_135144465_424d6c1514e5eb39897276901bc8bf95.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8904/building_8904_img_20210709_134904055_f1ec86e6702356c6c537af9ba9179828.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8904_img_20210709_134904055_f1ec86e6702356c6c537af9ba9179828.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8904/building_8904_img_20210904_131151163_60da5abe1b2e4a96cf87603b6ad5b74a.jpg",
-            "description": "Thames Water · 2021",
+            "description": null,
             "title": "Open House 2021",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8904_img_20210904_131151163_60da5abe1b2e4a96cf87603b6ad5b74a.jpg"
         }
     ],
     "links": [
         {
-            "href": "https://www.eventbrite.co.uk/e/streatham-pumping-station-open-house-festival-2021-tickets-162252209727",
-            "title": "Book tickets via Eventbrite"
+            "href": "https://bit.ly/streathamps",
+            "title": null
         }
     ],
     "location": {
@@ -108,12 +100,12 @@
         "longitude": -0.1371853,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Tooting Bec, Tooting Broadway",
-            "Nearest train: Streatham, Streatham Common",
-            "Bus routes: 57, 201, 333"
+            "Tube: Tooting Bec, Tooting Broadway",
+            "Train: Streatham, Streatham Common",
+            "Bus: 57, 201, 333"
         ]
     },
     "name": "Streatham Pumping Station",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8904",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/8904",
+    "ticketed_events": false
 }

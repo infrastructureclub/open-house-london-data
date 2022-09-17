@@ -4,17 +4,19 @@
     "design": {
         "designers": [
             {
-                "architect": "H Williams and Sir T G Jackson, Sir Charles Reilly",
-                "description": "Original design",
+                "architect": "H Williams and Sir T G Jackson",
+                "description": null,
                 "year": "1860"
             },
             {
-                "architect": "Timothy Dolby, Purcell",
-                "description": "Refurbishment",
-                "year": "2021"
+                "architect": "Sir Charles Reilly",
+                "description": null,
+                "year": "1860"
             }
         ],
         "periods": [
+            "Purcell",
+            "Timothy Dolby",
             "Edwardian",
             "Victorian"
         ],
@@ -24,23 +26,23 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Drapers' Hall",
-            "notes": "Last access 15.30",
-            "start": "2022-09-04T10:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -55,31 +57,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/276/building_276_livery-hall-2021-empty_9afed3253d7d55d230f3c419726fadb3.jpg",
-            "description": "Richard Kalina · 2021",
+            "description": null,
             "title": "The Livery Hall",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_276_livery-hall-2021-empty_9afed3253d7d55d230f3c419726fadb3.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/276/building_276_drawing-room4-flatten_1e067be738f0612587186aefd546548a.jpg",
-            "description": "2012",
+            "description": null,
             "title": "The Drawing Room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_276_drawing-room4-flatten_1e067be738f0612587186aefd546548a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/276/building_276_drapers-hall-full-height-front-door_e73e48528babc93721aab6ee4b879aeb.jpg",
-            "description": "Richard Valencia · 2014",
+            "description": null,
             "title": "The main entrance into the Hall from Throgmorton Street",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_276_drapers-hall-full-height-front-door_e73e48528babc93721aab6ee4b879aeb.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/276/building_276_job_0050_569bd124a4a36c1496af5cd38faf4ec3.jpg",
-            "description": "2020",
+            "description": null,
             "title": "The Court Dining Room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_276_job_0050_569bd124a4a36c1496af5cd38faf4ec3.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/276/building_276_3z2a1455-resized_b984812dca9b3028c25f6a7b97ef4fed.jpg",
-            "description": "Richard Kalina · 2020",
+            "description": null,
             "title": "The Court Room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_276_3z2a1455-resized_b984812dca9b3028c25f6a7b97ef4fed.jpg"
         }
@@ -91,12 +93,12 @@
         "longitude": -0.0861821,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Bank, Moorgate",
-            "Nearest train: Cannon Street, Liverpool Street, Moorgate",
-            "Bus routes: 21, 26, 76, 242, 388"
+            "Tube: Bank, Moorgate",
+            "Train: Cannon Street, Liverpool Street, Moorgate",
+            "Bus: 21, 26, 76, 242, 388"
         ]
     },
     "name": "Drapers' Hall",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/276",
+    "original_url": "https://programme.openhouse.org.uk/listings/276",
     "ticketed_events": false
 }

@@ -4,17 +4,18 @@
     "design": {
         "designers": [
             {
-                "architect": "J D Sedding,  Henry Wilson",
-                "description": "Original design",
+                "architect": "J D Sedding",
+                "description": null,
                 "year": "1888"
             },
             {
-                "architect": "J D Sedding",
-                "description": "Restoration",
+                "architect": "Henry Wilson",
+                "description": null,
                 "year": "1888"
             }
         ],
         "periods": [
+            " Henry Wilson",
             "Victorian"
         ],
         "types": [
@@ -23,37 +24,39 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-04",
-            "end": "2022-09-04T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Holy Trinity Arts & Crafts Festival 2021",
-            "notes": "Open House Weekend Saturday 4th & Sunday 5th September. Once again, we are delighted to work with Open House London to celebrate our glorious Grade One listed building with its wonderful Arts & Crafts interior. Highlights include: Displays & demonstrations by working craftsmen/women from 11.00; 30-minute guided tours of the church 1030hrs 1130hrs, 1415hrs and 1500hrs.  Organ recitals Saturday (1200-1300hrs) and Sunday (1530 website for times/tickets); 1430hrs Presentation – Traditional Craft Skills in Churches – Chana James Churches Conservation Trust;  1645hrs Presentation – Nature, Cosmos and Church Design – Tom Bree Artist and Geometer.  Tea garden and refreshments. If you have enjoyed your visit, you may also enjoy further Arts and Crafts centred programming in our annual festival https://www.holytrinityartsandcrafts.org/",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": true
+            "capacity": 250,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
+            "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Arts & Crafts Festival 2021",
-            "notes": "On the second day with Open House London we welcome you to our glorious Grade One listed building with its wonderful Arts & Crafts interior. 1100hrs Sunday Sung Eucharist Service celebrated by Rev Nicholas Wheeler – Rector of Holy Trinity; sermon Rev Ayla Lepine and Holy Trinity Choir. 1300hrs Guided Tour of the church.  1430hrs Art historian, Roger Button will be presenting Arts and Crafts Churches of Great Britain: Architects, Craftsmen and Patrons, based on his new book; 1530hrs Organ recital.  Tea garden and refreshments. If you have enjoyed your visit, you may also enjoy further Arts and Crafts centred programming in our annual festival https://www.holytrinityartsandcrafts.org/",
-            "start": "2022-09-05T13:00:00+01:00",
+            "capacity": 300,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T19:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Family activities during open house festival",
-            "Toilets",
-            "Disabled access",
-            "Refreshments"
-        ]
+        "Family activities",
+        "Toilets",
+        "Disabled access",
+        "Refreshments"
     ],
     "factsheet": [
         {
@@ -73,59 +76,54 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/649/building_649_adam-eve2hires_67ef0e31577d0e3df61f66444049aeaa.jpg",
-            "description": "Edward Burne Jones",
+            "description": null,
             "title": "Garden of Eden (element from East Window)",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_649_adam-eve2hires_67ef0e31577d0e3df61f66444049aeaa.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/649/building_649_holy-trinity-harvest-2016-96_2459685b395b66d016aeb46a7ab3a31e.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_649_holy-trinity-harvest-2016-96_2459685b395b66d016aeb46a7ab3a31e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/649/building_649_htwindow_9cdf9a2eda3da516f5dbef246a0287ce.jpg",
-            "description": "Holy Trinity Sloane Street",
+            "description": null,
             "title": "Holy Trinity window",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_649_htwindow_9cdf9a2eda3da516f5dbef246a0287ce.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/649/building_649_christopherwallang_e4b361d60f0986885dc8a60771fb9d8b.jpg",
-            "description": "Holy Trinity Sloane Street",
+            "description": null,
             "title": "Christopher Whall window at Holy Trinity",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_649_christopherwallang_e4b361d60f0986885dc8a60771fb9d8b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/649/building_649_htwindow2_c63ba134d9a9294d6430004b09cff692.jpg",
-            "description": "Holy Trinity Sloane Street",
+            "description": null,
             "title": "Holy Trinity window",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_649_htwindow2_c63ba134d9a9294d6430004b09cff692.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/649/building_649_htwindow3_8b0db8c00e6a5b7cca98732c6510a328.jpg",
-            "description": "Holy Trinity Sloane Street",
+            "description": null,
             "title": "Holy Trinity window",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_649_htwindow3_8b0db8c00e6a5b7cca98732c6510a328.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.holytrinityartsandcrafts.org/",
-            "title": "Website"
-        }
-    ],
+    "links": [],
     "location": {
-        "address": "146 Sloane Street (just off Sloane Square), SW1X 9BZ",
+        "address": "146 Sloane Street (just off Sloane Square)",
         "latitude": 51.4931409,
         "longitude": -0.157482,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Sloane Square",
-            "Nearest train: Victoria, Kensington Olympia",
-            "Bus routes: 19, 22, 137, C1, 360"
+            "Tube: Sloane Square",
+            "Train: Victoria, Kensington Olympia",
+            "Bus: 19, 22, 137, C1, 360"
         ]
     },
     "name": "Holy Trinity Church Sloane Square",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/649",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/649",
+    "ticketed_events": false
 }

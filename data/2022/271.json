@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Dora Gordine",
-                "description": "Original design",
+                "description": null,
                 "year": "1936"
             }
         ],
@@ -18,36 +18,38 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 6,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "self guided visit",
-            "notes": "Pre-book via the Dorich House Museum website",
-            "start": "2022-09-04T09:30:00+01:00",
-            "ticketed": true
+            "capacity": 50,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
+            "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 6,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "self guided visit",
-            "notes": "Pre-book via the Dorich House Museum website",
-            "start": "2022-09-11T09:30:00+01:00",
-            "ticketed": true
+            "capacity": 50,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
+            "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Parking",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Parking",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -74,65 +76,60 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/271/building_271_exterior-2016-dhm-photo-ellie-laycock-13_1c6f3536132bfff89348e78ea3945ba6.jpg",
-            "description": "© Dorich House Museum. Photo: Ellie Laycock. · 2016",
+            "description": null,
             "title": "Exterior View",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_271_exterior-2016-dhm-photo-ellie-laycock-13_1c6f3536132bfff89348e78ea3945ba6.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/271/building_271_modelling-studio-10_0a1a5ca9f571ed8b99596ac6d45e3b49.jpeg",
-            "description": "© Dorich House Museum. Photo: Ellie Laycock. · 2016",
+            "description": null,
             "title": "Modelling Studio",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_271_modelling-studio-10_0a1a5ca9f571ed8b99596ac6d45e3b49.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/271/building_271_gallery-3-dhm-photo-ellie-laycock-min_37b8ecf7ec5a2c83d46ddcc3c6fcef73.jpg",
-            "description": "© Dorich House Museum. Photo: Ellie Laycock. · 2016",
+            "description": null,
             "title": "Gallery ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_271_gallery-3-dhm-photo-ellie-laycock-min_37b8ecf7ec5a2c83d46ddcc3c6fcef73.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/271/building_271_living-room-dhm-photo-ellie-laycock-7_396f231344a6f55ffdc7bd476a4eff90.jpg",
-            "description": "© Dorich House Museum. Photo: Ellie Laycock. · 2016",
+            "description": null,
             "title": "Living Room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_271_living-room-dhm-photo-ellie-laycock-7_396f231344a6f55ffdc7bd476a4eff90.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/271/building_271_exterior-2016-dhm-photo-ellie-laycock-16_2b1146c64adf9c0dde854ee0810be255.jpg",
-            "description": "© Dorich House Museum. Photo: Ellie Laycock. · 2016",
+            "description": null,
             "title": "Exterior View",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_271_exterior-2016-dhm-photo-ellie-laycock-16_2b1146c64adf9c0dde854ee0810be255.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/271/building_271_exterior-001_1d4a090e85faa863c0c63c9afda2e7e7.jpg",
-            "description": "© Dorich House Museum. Photo: Ellie Laycock. · 2020",
+            "description": null,
             "title": "Exterior View",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_271_exterior-001_1d4a090e85faa863c0c63c9afda2e7e7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/271/building_271_gallery-window-with-javanese-dancer-torso-and-typhoon-2_417abb28b94d496e63837965977b9213.jpg",
-            "description": "© Dorich House Museum. Photo: Ellie Laycock. · 2020",
+            "description": null,
             "title": "Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_271_gallery-window-with-javanese-dancer-torso-and-typhoon-2_417abb28b94d496e63837965977b9213.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.dorichhousemuseum.org.uk/2021/08/06/open-house-festival-2021-dorich-house-museum/",
-            "title": "Book tickets via Dorich House Museum website"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "Dorich House Museum, 67 Kingston Vale, SW15 3RN",
         "latitude": 51.4333564,
         "longitude": -0.2630588,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Putney Bridge",
-            "Nearest train: Norbiton, Putney, Kingston",
-            "Bus routes: 85, k3, 265"
+            "Tube: Putney Bridge",
+            "Train: Norbiton, Putney, Kingston",
+            "Bus: 85, k3, 265"
         ]
     },
-    "name": "Dorich House Museum ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/271",
-    "ticketed_events": true
+    "name": "Dorich House Museum",
+    "original_url": "https://programme.openhouse.org.uk/listings/271",
+    "ticketed_events": false
 }

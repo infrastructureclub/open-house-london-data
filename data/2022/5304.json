@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1450"
-            },
-            {
-                "architect": "G F Bodley",
-                "description": "Restoration",
-                "year": "1896"
             }
         ],
         "periods": [
+            "G F Bodley",
             "Medieval"
         ],
         "types": [
@@ -23,25 +19,39 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 30,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:30:00+01:00",
-            "fully_booked": null,
-            "name": "Self-guided tours of the church & churchyard. Trail for children-with accompanying adults",
-            "notes": "Written material available for self-guided tours of the church, including 'question and answer for children' and for the churchyard.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T12:15:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T09:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 30,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T12:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Parking",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Parking",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -75,37 +85,37 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5304/building_5304_008_2de4381ec8231edb36f0bae4a6e2e08c.JPG",
-            "description": "",
+            "description": null,
             "title": "View from the Lych Gate",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_008_2de4381ec8231edb36f0bae4a6e2e08c.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5304/building_5304_009_79111ba521181f943255e8ea88b45e23.JPG",
-            "description": "",
+            "description": null,
             "title": "western yew avenue",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_009_79111ba521181f943255e8ea88b45e23.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5304/building_5304_003_844f69f002718c399c0eacc1db4d8651.JPG",
-            "description": "",
+            "description": null,
             "title": "Clock by Dent 1858",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_003_844f69f002718c399c0eacc1db4d8651.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5304/building_5304_sir-malcolm-campbell-004_9fdf38ae103b2065fc62ff9d87f6d83d.JPG",
-            "description": "",
+            "description": null,
             "title": "Sir Malcolm Campbell's Grave",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_sir-malcolm-campbell-004_9fdf38ae103b2065fc62ff9d87f6d83d.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5304/building_5304_horatio-finished-4_e44a4affad40b610ea5b7d16b63bf745.jpg",
-            "description": "",
+            "description": null,
             "title": "Hatchment (Horatio)",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_horatio-finished-4_e44a4affad40b610ea5b7d16b63bf745.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5304/building_5304_001_0e6a3b0e33cb62ec89f8756752758c83.JPG",
-            "description": "",
+            "description": null,
             "title": "The Church Clock",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_001_0e6a3b0e33cb62ec89f8756752758c83.JPG"
         }
@@ -117,11 +127,11 @@
         "longitude": 0.0758835,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Chislehurst, Petts Wood",
-            "Bus routes: 269, 273, 61, 160, 161, 162"
+            "Train: Chislehurst, Petts Wood",
+            "Bus: 269, 273, 61, 160, 161, 162"
         ]
     },
     "name": "St Nicholas Church, Chislehurst",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/5304",
+    "original_url": "https://programme.openhouse.org.uk/listings/5304",
     "ticketed_events": false
 }

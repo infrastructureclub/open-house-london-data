@@ -4,8 +4,18 @@
     "design": {
         "designers": [
             {
-                "architect": "Camden Architects Department, Ken Adie, Peter Tábori",
-                "description": "Original design",
+                "architect": "Camden Architects Department",
+                "description": null,
+                "year": "1972"
+            },
+            {
+                "architect": "Ken Adie",
+                "description": null,
+                "year": "1972"
+            },
+            {
+                "architect": "Peter Tábori",
+                "description": null,
                 "year": "1972"
             }
         ],
@@ -16,85 +26,10 @@
             "residence"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 25,
-            "date": "2022-09-11",
-            "end": "2022-09-11T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour",
-            "notes": null,
-            "start": "2022-09-11T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 25,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour",
-            "notes": null,
-            "start": "2022-09-11T15:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 25,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour",
-            "notes": null,
-            "start": "2022-09-11T16:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 25,
-            "date": "2022-09-12",
-            "end": "2022-09-12T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour",
-            "notes": null,
-            "start": "2022-09-12T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 25,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour",
-            "notes": null,
-            "start": "2022-09-12T15:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 25,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour",
-            "notes": null,
-            "start": "2022-09-12T16:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Bookshop"
-        ]
+        "Toilets",
+        "Bookshop"
     ],
     "factsheet": [
         {
@@ -118,10 +53,10 @@
     "id": 689,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/689/building_689_s320170712-4-1fmnplk20170712-4-z770sz20170712-4-xwkihx_58dc0e77bee8fbdba4e7a2d9d891804f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/689/building_689_img_1817_9dfc71288b47985788cd7ee5030a1899.jpg",
             "description": null,
             "title": "Whittington Estate",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_689_s320170712-4-1fmnplk20170712-4-z770sz20170712-4-xwkihx_58dc0e77bee8fbdba4e7a2d9d891804f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_689_img_1817_9dfc71288b47985788cd7ee5030a1899.jpg"
         }
     ],
     "links": [],
@@ -131,11 +66,11 @@
         "longitude": -0.1433845,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Archway",
-            "Bus routes: 4, C11"
+            "Tube: Archway",
+            "Bus: 4, C11"
         ]
     },
     "name": "8 Stoneleigh Terrace (Highgate New Town, Stage 1)",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/689",
+    "original_url": "https://programme.openhouse.org.uk/listings/689",
     "ticketed_events": false
 }

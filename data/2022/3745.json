@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1717"
             }
         ],
@@ -18,49 +18,25 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open, teas available",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open, teas available",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open, no teas available",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T14:30:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T13:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets",
-            "Bookshop",
-            "Disabled access"
-        ]
+        "Refreshments",
+        "Toilets",
+        "Bookshop",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -93,25 +69,25 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3745/building_3745_tower-01_ba525ee69580fd41aec272deb0370806.jpg",
-            "description": "Friends of Carshalton Water Tower · 2019",
+            "description": null,
             "title": "Tower View 1",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3745_tower-01_ba525ee69580fd41aec272deb0370806.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3745/building_3745_img022_2ea8be6c0e86b802fc94889c7cb935c5.jpg",
-            "description": "Friends of Carshalton Water Tower · 1998",
+            "description": null,
             "title": "South West Elevation",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3745_img022_2ea8be6c0e86b802fc94889c7cb935c5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3745/building_3745_tower-02_3afb40fb1437471f67927566285077b6.jpg",
-            "description": "Friends of Carshalton Water Tower · 2019",
+            "description": null,
             "title": "Tower View 2",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3745_tower-02_3afb40fb1437471f67927566285077b6.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3745/building_3745_tower-03_d8af9e495de36f0e10f544e3c147294a.jpg",
-            "description": "Friends of Carshalton Water Tower · 2019",
+            "description": null,
             "title": "Tower View 3",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3745_tower-03_d8af9e495de36f0e10f544e3c147294a.jpg"
         }
@@ -123,12 +99,12 @@
         "longitude": -0.1670357,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Morden",
-            "Nearest train: Carshalton",
-            "Bus routes: 157, 127, 407, X26, 154, S3"
+            "Tube: Morden",
+            "Train: Carshalton",
+            "Bus: 157, 127, 407, X26, 154, S3"
         ]
     },
     "name": "Carshalton Water Tower and Historic Gardens",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/3745",
+    "original_url": "https://programme.openhouse.org.uk/listings/3745",
     "ticketed_events": false
 }

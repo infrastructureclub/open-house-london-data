@@ -5,40 +5,21 @@
         "designers": [
             {
                 "architect": "John James",
-                "description": "Original design",
+                "description": null,
                 "year": "1715"
-            },
-            {
-                "architect": "James Gibbs",
-                "description": "Extension",
-                "year": "1735"
             }
         ],
         "periods": [
+            "James Gibbs",
             "Georgian"
         ],
         "types": [
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Church open for visits",
-            "notes": "The maximum number of visitors permitted in the church at one time will be reviewed in the light of government guidance.",
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Parking"
-        ]
+        "Parking"
     ],
     "factsheet": [
         {
@@ -54,13 +35,13 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2467/building_2467_dsc00185-version-2_817a324d47850d0aae11311a86c28cbd.JPG",
-            "description": "© Stuart Cawthorne · 2011",
+            "description": null,
             "title": "St Lawrence Little Stanmore",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2467_dsc00185-version-2_817a324d47850d0aae11311a86c28cbd.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2467/building_2467_st-lawrence-whitchurch-interior_fa2f32b49fdb64bbe69edc9ee9fd0a31.jpg",
-            "description": "© Stuart Cawthorne · 2015",
+            "description": null,
             "title": "St Lawrence Little Stanmore interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2467_st-lawrence-whitchurch-interior_fa2f32b49fdb64bbe69edc9ee9fd0a31.jpg"
         }
@@ -72,11 +53,11 @@
         "longitude": -0.2892053,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Canons Park",
-            "Bus routes: 186, 340, 79"
+            "Tube: Canons Park",
+            "Bus: 186, 340, 79"
         ]
     },
     "name": "Church of St Lawrence, Little Stanmore",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2467",
+    "original_url": "https://programme.openhouse.org.uk/listings/2467",
     "ticketed_events": false
 }

@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1638"
             }
         ],
@@ -16,25 +16,10 @@
             "historical house"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open House Day",
-            "notes": "Entrance to Main Ground Floor Hall and up Main Staircase only",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Photography is not permitted on site",
-            "Toilets"
-        ]
+        "Photography is not permitted on site",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -63,30 +48,30 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1939/building_1939_swakeleys-house-open-house-2011-08_4cc2ece7c5c31a3e61aae82f21f2dcee.jpg",
-            "description": "",
+            "description": null,
             "title": "Swakeleys House exterior ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1939_swakeleys-house-open-house-2011-08_4cc2ece7c5c31a3e61aae82f21f2dcee.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1939/building_1939_swakeleys-house-open-house-2011-01_e502099883127d80f765aee121cfe34b.jpg",
-            "description": "",
+            "description": null,
             "title": "Swakeleys House interior ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1939_swakeleys-house-open-house-2011-01_e502099883127d80f765aee121cfe34b.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Swakeleys Road, Ickenham (access from Milton Road) , UB10 8LD",
+        "address": "Swakeleys Road",
         "latitude": 51.565106,
         "longitude": -0.4572185,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Ickenham, Hillingdon",
-            "Nearest train: West Ruislip",
-            "Bus routes: U1, U2, U10"
+            "Tube: Ickenham, Hillingdon",
+            "Train: West Ruislip",
+            "Bus: U1, U2, U10"
         ]
     },
     "name": "Swakeleys Estate",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1939",
+    "original_url": "https://programme.openhouse.org.uk/listings/1939",
     "ticketed_events": false
 }

@@ -5,16 +5,15 @@
         "designers": [
             {
                 "architect": "Constructed for Harper Twelvetrees as part of Imperial Chemical Works",
-                "description": "Original design",
+                "description": null,
                 "year": "1871"
-            },
-            {
-                "architect": "PUP Architects, Thomas Randall-Page ",
-                "description": "Restoration",
-                "year": "2017"
             }
         ],
         "periods": [
+            "PUP Architects",
+            "Thomas Randall-Page ",
+            "Gallery",
+            "Garden",
             "Historical/contemporary"
         ],
         "types": [
@@ -29,25 +28,25 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Lighting up the Lea",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
+            "capacity": 200,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets",
-            "Disabled access",
-            "Family activities during open house festival"
-        ]
+        "Refreshments",
+        "Toilets",
+        "Disabled access",
+        "Family activities"
     ],
     "factsheet": [
         {
@@ -77,39 +76,39 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5424/building_5424_open-house-sunday-boat_0a97dff8a78fee05f13edcdb0cc14f9a.jpg",
-            "description": "Ruth Keating · 2012",
+            "description": null,
             "title": "River Princess Lea River Heritage Tours",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5424_open-house-sunday-boat_0a97dff8a78fee05f13edcdb0cc14f9a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5424/building_5424_img_0799_2341d0072e9bff87622f1912c57f4115.JPG",
-            "description": "PUP Architects · 2017",
+            "description": null,
             "title": "Cody Dock Master Plan Model",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5424_img_0799_2341d0072e9bff87622f1912c57f4115.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5424/building_5424_img-1208_c201f804efcaab5367c3941f2d62bc8d.jpg",
-            "description": "Ben Bishop · 2021",
+            "description": null,
             "title": "Gravel Garden at Cody Dock",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5424_img-1208_c201f804efcaab5367c3941f2d62bc8d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5424/building_5424_img-1662_410e42cfbaa2bed5362b41ae4d06bf24.jpg",
-            "description": "Ben Bishop · 2021",
+            "description": null,
             "title": "View onto Cody Dock and River Lea",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5424_img-1662_410e42cfbaa2bed5362b41ae4d06bf24.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5424/building_5424_img-3204_143cb1f1cb787b87cf4e22af49765b78.jpg",
-            "description": "Ben Bishop · 2021",
+            "description": null,
             "title": "Volunteers on the River Lea",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5424_img-3204_143cb1f1cb787b87cf4e22af49765b78.jpg"
         }
     ],
     "links": [
         {
-            "href": "https://codydock.org.uk/",
-            "title": "Website"
+            "href": "www.codydock.org.uk",
+            "title": null
         }
     ],
     "location": {
@@ -118,12 +117,12 @@
         "longitude": -0.0016269,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Canning Town, West Ham",
-            "Nearest train: Stratford",
-            "Bus routes: 323, 276"
+            "Tube: Canning Town, West Ham",
+            "Train: Stratford",
+            "Bus: 323, 276"
         ]
     },
     "name": "Cody Dock",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/5424",
+    "original_url": "https://programme.openhouse.org.uk/listings/5424",
     "ticketed_events": false
 }

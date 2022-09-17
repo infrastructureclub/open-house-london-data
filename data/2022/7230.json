@@ -4,12 +4,18 @@
     "design": {
         "designers": [
             {
-                "architect": "Interior design Associate at BDP , Kristen Liedl",
-                "description": "Original design",
+                "architect": "Interior design Associate at BDP",
+                "description": null,
+                "year": "2015"
+            },
+            {
+                "architect": "Kristen Liedl",
+                "description": null,
                 "year": "2015"
             }
         ],
         "periods": [
+            " Interior design Associate at BDP ",
             "Historical/contemporary"
         ],
         "types": [
@@ -18,25 +24,10 @@
             "online"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Digital Guided tour by Catherine Walker, Museum Officer at the RPS and Gino Martini Chief Scientist at the RPS",
-            "notes": "Tour available at  https://youtu.be/Yva7j6XhmcY",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -57,47 +48,42 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7230/building_7230_vil_7781_wb_outsidetree-1024x515_34b3cb8314a3762205429cfdd03a0cfe.jpg",
-            "description": "",
+            "description": null,
             "title": "Royal Pharmaceutical Society viewed from East Smithfield",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7230_vil_7781_wb_outsidetree-1024x515_34b3cb8314a3762205429cfdd03a0cfe.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7230/building_7230_07-society-with-stained-glass-and-busts_4054bc095982b7d3ff316610c7cd8e26.jpg",
-            "description": "Royal Pharmaceutical Society Museum",
+            "description": null,
             "title": "RPS Museum",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7230_07-society-with-stained-glass-and-busts_4054bc095982b7d3ff316610c7cd8e26.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7230/building_7230_01bcd-english-delftware-drug-jars_12bc641d66e71ad6ff3dde3f34e43473.jpg",
-            "description": "Royal Pharmaceutical Society Museum",
+            "description": null,
             "title": "Delftware Apothecary Jars",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7230_01bcd-english-delftware-drug-jars_12bc641d66e71ad6ff3dde3f34e43473.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7230/building_7230_04-05-06-georgian-pharmacy-etc_b12028d25ec948e677569ef770e694aa.jpg",
-            "description": "Royal Pharmaceutical Society Museum",
+            "description": null,
             "title": "Georgian Pharmacy Cases",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7230_04-05-06-georgian-pharmacy-etc_b12028d25ec948e677569ef770e694aa.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.rpharms.com/about-us/royal-pharmaceutical-society/museum",
-            "title": "Website"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "66 East Smithfield, E1W 1AW",
         "latitude": 51.5089904,
         "longitude": -0.0684059,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Tower Hill, Tower Gateway",
-            "Nearest train: Fenchurch Street",
-            "Bus routes: 100"
+            "Tube: Tower Hill, Tower Gateway",
+            "Train: Fenchurch Street",
+            "Bus: 100"
         ]
     },
-    "name": "Royal Pharmaceutical Society Museum ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/7230",
+    "name": "Royal Pharmaceutical Society Museum",
+    "original_url": "https://programme.openhouse.org.uk/listings/7230",
     "ticketed_events": false
 }

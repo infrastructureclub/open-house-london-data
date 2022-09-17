@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Sir Basil Spence",
-                "description": "Original design",
+                "description": null,
                 "year": "1976"
-            },
-            {
-                "architect": "de Metz Forbes Knight",
-                "description": "Refurbishment",
-                "year": "2016"
             }
         ],
         "periods": [
+            "de Metz Forbes Knight",
             "Post-war"
         ],
         "types": [
@@ -22,133 +18,10 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T10:45:00+01:00",
-            "fully_booked": null,
-            "name": "Timed Tour by Salters' Guide and Archives Spotlight",
-            "notes": "Please note tours are by pre booked tickets only. To keep our visitors safe there may be onsite testing for Covid-19.",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:30:00+01:00",
-            "fully_booked": null,
-            "name": "Timed Tour by Salters' Guide and Archives Spotlight",
-            "notes": "Please note tours are by pre booked tickets only. To keep our visitors safe there may be onsite testing for Covid-19.",
-            "start": "2022-09-04T10:45:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:15:00+01:00",
-            "fully_booked": null,
-            "name": "Timed Tour by Salters' Guide and Archives Spotlight",
-            "notes": "Please note tours are by pre booked tickets only. To keep our visitors safe there may be onsite testing for Covid-19.",
-            "start": "2022-09-04T11:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "Timed Tour by Salters' Guide and Archives Spotlight",
-            "notes": "Please note tours are by pre booked tickets only. To keep our visitors safe there may be onsite testing for Covid-19.",
-            "start": "2022-09-04T12:15:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:45:00+01:00",
-            "fully_booked": null,
-            "name": "Timed Tour by Salters' Guide and Archives Spotlight",
-            "notes": "Please note tours are by pre booked tickets only. To keep our visitors safe there may be onsite testing for Covid-19.",
-            "start": "2022-09-04T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T14:30:00+01:00",
-            "fully_booked": null,
-            "name": "Timed Tour by Salters' Guide and Archives Spotlight",
-            "notes": "Please note tours are by pre booked tickets only. To keep our visitors safe there may be onsite testing for Covid-19.",
-            "start": "2022-09-04T13:45:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:15:00+01:00",
-            "fully_booked": null,
-            "name": "Timed Tour by Salters' Guide and Archives Spotlight",
-            "notes": "Please note tours are by pre booked tickets only. To keep our visitors safe there may be onsite testing for Covid-19.",
-            "start": "2022-09-04T14:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Timed Tour by Salters' Guide and Archives Spotlight",
-            "notes": "Please note tours are by pre booked tickets only. To keep our visitors safe there may be onsite testing for Covid-19.",
-            "start": "2022-09-04T15:15:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:45:00+01:00",
-            "fully_booked": null,
-            "name": "Timed Tour by Salters' Guide and Archives Spotlight",
-            "notes": "Please note tours are by pre booked tickets only. To keep our visitors safe there may be onsite testing for Covid-19.",
-            "start": "2022-09-04T16:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:30:00+01:00",
-            "fully_booked": null,
-            "name": "Timed Tour by Salters' Guide and Archives Spotlight",
-            "notes": "Please note tours are by pre booked tickets only. To keep our visitors safe there may be onsite testing for Covid-19.",
-            "start": "2022-09-04T16:45:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -188,41 +61,36 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5677/building_5677_img_0251_305baeab0d0c4634c744ed38dfb7b4b2.JPG",
-            "description": "",
+            "description": null,
             "title": "View of building from garden side",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5677_img_0251_305baeab0d0c4634c744ed38dfb7b4b2.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5677/building_5677_salters-hall-interior_75f2eb2984e1351b94fcf8cb788739df.jpg",
-            "description": "",
+            "description": null,
             "title": "The Great Hall",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5677_salters-hall-interior_75f2eb2984e1351b94fcf8cb788739df.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5677/building_5677_saltersco_charter_complete_021daa49a7e9f2a26d64b84c2b2800e8.jpg",
-            "description": "",
+            "description": null,
             "title": "Royal Charter 1607",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5677_saltersco_charter_complete_021daa49a7e9f2a26d64b84c2b2800e8.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.salters.co.uk/news/",
-            "title": "Website"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "4 London Wall Place, EC2Y 5DE",
         "latitude": 51.518158,
         "longitude": -0.0920559,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Barbican, Moorgate, Bank, St. Paul's",
-            "Nearest train: Moorgate, Liverpool Street",
-            "Bus routes: 100, 21, 43, 141"
+            "Tube: Barbican, Moorgate, Bank, St. Paul's",
+            "Train: Moorgate, Liverpool Street",
+            "Bus: 100, 21, 43, 141"
         ]
     },
     "name": "Salters' Hall",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/5677",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/5677",
+    "ticketed_events": false
 }

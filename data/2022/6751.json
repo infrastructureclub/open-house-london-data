@@ -1,20 +1,16 @@
 {
-    "all_week": true,
-    "description": "Publicly accessible space outside the spectacular Grade I listed medieval civic Guildhall. Located above the remains of London's Roman amphitheatre, the outline of the arena is marked out by black paving stones within the Yard itself.",
+    "all_week": false,
+    "description": "Publicly accessible space outside the spectacular Grade I listed medieval civic Guildhall.",
     "design": {
         "designers": [
             {
                 "architect": "George Dance the Younger",
-                "description": "Original design",
+                "description": null,
                 "year": "1789"
-            },
-            {
-                "architect": "Richard Gilbert Scott",
-                "description": "Extension",
-                "year": "1999"
             }
         ],
         "periods": [
+            "Richard Gilbert Scott",
             "Historical/contemporary"
         ],
         "types": [
@@ -23,19 +19,82 @@
             "civic"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": true,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T23:59:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T00:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": true,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-19",
+            "drop_in": true,
+            "end": "2022-09-19T23:59:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-19T00:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": true,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-20",
+            "drop_in": true,
+            "end": "2022-09-20T23:59:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-20T00:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": true,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-21",
+            "drop_in": true,
+            "end": "2022-09-21T23:59:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-21T00:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
-        [
-            "Disabled access"
-        ]
+        "Disabled access"
     ],
     "factsheet": [
+        {
+            "heading": "What you can see in the Yard",
+            "paragraphs": [
+                "See the spectacular Grade I listed medieval civic Guildhall.",
+                "Located above the remains of London's Roman amphitheatre, the outline of the arena is marked out by black paving stones within the Yard itself.",
+                "Access to London's Roman Amphitheatre is via Guildhall Art Gallery. Open daily 10.30am-4pm. \nFree combined guided tours on Tuesdays, Thursdays, Fridays, Saturdays and Sundays, see details on the Open House listings \"London's Roman Amphitheatre\" and \"Guildhall Art Gallery\"."
+            ]
+        },
         {
             "heading": "History",
             "paragraphs": [
                 "As the home of the City of London, Guildhall has been the centre of City government since the Middle Ages.",
                 "The word 'guildhall' is said to derive from the Anglo-Saxon 'gild' meaning payment, so it was probably a place where citizens would pay their taxes. The present Guildhall was begun in 1411 and, having survived both the Great Fire of London and the Blitz, it is the only secular stone structure dating from before 1666 still standing in the City.",
-                "It is likely that at least one earlier guildhall existed on or near the current site. References to a London guildhall are made in a document dating back to 1128 and the current hall's west crypt is thought to be part of a late-13th century building. Remains of a long-lost Roman amphitheatre discovered in 1987 underneath what is now Guildhall Yard indicate that the site of Guildhall was significant as far back as Roman times. The location of the amphitheatre is marked by black paving stones around Guildhall Yard."
+                "It is likely that at least one earlier guildhall existed on or near the current site. References to a London guildhall are made in a document dating back to 1128 and the current hall's west crypt is thought to be part of a late-13th century building. Remains of a long-lost Roman amphitheatre discovered in 1987 underneath what is now Guildhall Yard indicate that the site of Guildhall was significant as far back as Roman times."
             ]
         }
     ],
@@ -43,13 +102,13 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6751/building_6751_guildhall-exterior-4_c73de3938a719bae168c577c426cf178.jpg",
-            "description": "",
+            "description": null,
             "title": "Guildhall Yard",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6751_guildhall-exterior-4_c73de3938a719bae168c577c426cf178.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6751/building_6751_yardgag-from-press_20668c0e52d4bd4af58b115e17d9c5d3.JPG",
-            "description": "City of London Corporation · 2007",
+            "description": null,
             "title": "The black line marks the location of London's Roman Amphitheatre under Guildhall Yard",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6751_yardgag-from-press_20668c0e52d4bd4af58b115e17d9c5d3.JPG"
         }
@@ -61,12 +120,12 @@
         "longitude": -0.0921379,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Mansion House, Moorgate, Bank, St. Paul's",
-            "Nearest train: Cannon Street, Liverpool Street, City Thameslink",
-            "Bus routes: 141, 100, 43, 25, 21, 8"
+            "Tube: Mansion House, Moorgate, Bank, St. Paul's",
+            "Train: Cannon Street, Liverpool Street, City Thameslink",
+            "Bus: 141, 100, 43, 25, 21, 8"
         ]
     },
     "name": "Guildhall Yard",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6751",
+    "original_url": "https://programme.openhouse.org.uk/listings/6751",
     "ticketed_events": false
 }

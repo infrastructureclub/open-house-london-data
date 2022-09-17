@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1100"
             }
         ],
@@ -18,36 +18,38 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open to Visitors",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open to Visitors",
-            "notes": null,
-            "start": "2022-09-05T13:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Parking",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Parking",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -66,102 +68,102 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0644_8ddcaaca5f59148e1f59c14caed498b0.JPG",
-            "description": "2017",
+            "description": null,
             "title": "View from main road",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0644_8ddcaaca5f59148e1f59c14caed498b0.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0634_6a3e1c898f31c04c6a451604b5ecd351.JPG",
-            "description": "2017",
+            "description": null,
             "title": "Porch",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0634_6a3e1c898f31c04c6a451604b5ecd351.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0618_ae4e82df5934f3751add71cd21e2aabb.JPG",
-            "description": "2017",
+            "description": null,
             "title": "Cats Heads on Porch Entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0618_ae4e82df5934f3751add71cd21e2aabb.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0619_150478c9723cb911b8585e4c178a2d9c.JPG",
-            "description": "2017",
+            "description": null,
             "title": "Interesting Creature on Porch Pillar",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0619_150478c9723cb911b8585e4c178a2d9c.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0639_0cf9798a729c7409fc4af4b8b8e0854d.JPG",
-            "description": "2017",
+            "description": null,
             "title": "Church Tower",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0639_0cf9798a729c7409fc4af4b8b8e0854d.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0610_2a581427080ea9ff2881ce5941a77d2e.JPG",
-            "description": "2017",
+            "description": null,
             "title": "Easter Sepulchre",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0610_2a581427080ea9ff2881ce5941a77d2e.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0643_5668ddb079b32f124dd71596d86eefeb.JPG",
-            "description": "2017",
+            "description": null,
             "title": "Clergy Vestry Door",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0643_5668ddb079b32f124dd71596d86eefeb.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0582_1419912c1abb9dfacf6d7af72f372693.JPG",
-            "description": "2017",
+            "description": null,
             "title": "View to East Window",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0582_1419912c1abb9dfacf6d7af72f372693.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0612_52b4594b19bb4f62e6f4a4069f2a6eab.JPG",
-            "description": "2017",
+            "description": null,
             "title": "Bennett Monument",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0612_52b4594b19bb4f62e6f4a4069f2a6eab.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0584_8f231c40478e224bc580c4adfdca41ce.JPG",
-            "description": "2017",
+            "description": null,
             "title": "St Christopher Window",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0584_8f231c40478e224bc580c4adfdca41ce.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0616_cf25c67fa83249ae4e4767946d2e6a8e.JPG",
-            "description": "2017",
+            "description": null,
             "title": "De Salis Memorial",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0616_cf25c67fa83249ae4e4767946d2e6a8e.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0609_f2434065a77986349059bdf2aaa1e355.JPG",
-            "description": "2017",
+            "description": null,
             "title": "De Salis Memorial",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0609_f2434065a77986349059bdf2aaa1e355.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0613_5b72619e7b296192a4e9be2b4626588c.JPG",
-            "description": "2017",
+            "description": null,
             "title": "Font",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0613_5b72619e7b296192a4e9be2b4626588c.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1855/building_1855_dscn0628_605693ff9e10c219dbeb9b2f51a1df37.JPG",
-            "description": "2017",
+            "description": null,
             "title": "Church View",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1855_dscn0628_605693ff9e10c219dbeb9b2f51a1df37.JPG"
         }
     ],
     "links": [],
     "location": {
-        "address": "St Peter's Way, High Street, Harlington, UB3 5AB",
+        "address": "St Peter's Way, High Street, Harlington",
         "latitude": 51.4915691,
         "longitude": -0.4339633,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Hatton Cross",
-            "Nearest train: Hayes & Harlington",
-            "Bus routes: 90, 140"
+            "Tube: Hatton Cross",
+            "Train: Hayes & Harlington",
+            "Bus: 90, 140"
         ]
     },
     "name": "St Peter & St Paul Harlington",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1855",
+    "original_url": "https://programme.openhouse.org.uk/listings/1855",
     "ticketed_events": false
 }

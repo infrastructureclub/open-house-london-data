@@ -5,16 +5,13 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1946"
-            },
-            {
-                "architect": "Interior design: Turning Earth, Wilder",
-                "description": "Refurbishment",
-                "year": "2017"
             }
         ],
         "periods": [
+            "Wilder",
+            "Interior design: Turning Earth",
             "Contemporary"
         ],
         "types": [
@@ -23,59 +20,37 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 5,
-            "date": "2022-09-04",
-            "end": "2022-09-04T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour of the studio",
-            "notes": null,
-            "start": "2022-09-04T12:00:00+01:00",
+            "capacity": 10,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T12:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 5,
-            "date": "2022-09-05",
-            "end": "2022-09-05T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour of the studio",
-            "notes": null,
-            "start": "2022-09-05T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 5,
-            "date": "2022-09-11",
-            "end": "2022-09-11T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour of the studio",
-            "notes": null,
-            "start": "2022-09-11T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 5,
-            "date": "2022-09-12",
-            "end": "2022-09-12T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour of the studio",
-            "notes": null,
-            "start": "2022-09-12T12:00:00+01:00",
+            "capacity": 10,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T12:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -89,31 +64,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6897/building_6897__dsf2321_a10a30589d2660c1c4d688adbb22863c.jpg",
-            "description": "Artur Rummel · 2017",
+            "description": null,
             "title": "Ceiling detail",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6897__dsf2321_a10a30589d2660c1c4d688adbb22863c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6897/building_6897__dsf2312_c565e48602cbbf6734131deaf5c8b0f2.jpg",
-            "description": "Artur Rummel · 2017",
+            "description": null,
             "title": "Main Room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6897__dsf2312_c565e48602cbbf6734131deaf5c8b0f2.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6897/building_6897__dsf2561_da39c48d25f872b951f9a0a7dc59da36.jpg",
-            "description": "Artur Rummel · 2017",
+            "description": null,
             "title": "Main room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6897__dsf2561_da39c48d25f872b951f9a0a7dc59da36.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6897/building_6897__dsf2534_90b29486d9f4bb9a840e98509e80aadf.jpg",
-            "description": "Artur Rummel · 2017",
+            "description": null,
             "title": "Kitchen detail",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6897__dsf2534_90b29486d9f4bb9a840e98509e80aadf.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6897/building_6897__dsf6278_1872179c7db35b4a24158bd4142fc51e.jpg",
-            "description": "Arthur Rummel",
+            "description": null,
             "title": "Members working",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6897__dsf6278_1872179c7db35b4a24158bd4142fc51e.jpg"
         }
@@ -125,12 +100,12 @@
         "longitude": -0.0392705,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Walthamstow Central",
-            "Nearest train: St.James' Street",
-            "Bus routes: W19, 48, 55, 56"
+            "Tube: Walthamstow Central",
+            "Train: St.James' Street",
+            "Bus: W19, 48, 55, 56"
         ]
     },
     "name": "Turning Earth Ceramics Leyton - E10",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6897",
+    "original_url": "https://programme.openhouse.org.uk/listings/6897",
     "ticketed_events": false
 }

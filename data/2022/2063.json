@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Casson Conder Partnership",
-                "description": "Original design",
+                "description": null,
                 "year": "1983"
             }
         ],
@@ -18,133 +18,25 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-02",
-            "end": "2022-09-02T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Ismaili Centre - by Virtual tour, and an Exhibition in Zamana Space",
-            "notes": null,
-            "start": "2022-09-02T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-03",
-            "end": "2022-09-03T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Ismaili Centre - by Virtual tour, and an Exhibition in Zamana Space",
-            "notes": null,
-            "start": "2022-09-03T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Ismaili Centre - by Virtual tour, and an Exhibition in Zamana Space",
-            "notes": null,
-            "start": "2022-09-04T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-06",
-            "end": "2022-09-06T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Ismaili Centre - by Virtual tour, and  an Exhibition in Zamana Space",
-            "notes": "Flyer and videolink will be uploaded later in August",
-            "start": "2022-09-06T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-07",
-            "end": "2022-09-07T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Ismaili Centre - by Virtual tour, and an Exhibition in Zamana Space",
-            "notes": null,
-            "start": "2022-09-07T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-08",
-            "end": "2022-09-08T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Ismaili Centre - by Virtual tour, and an Exhibition in Zamana Space",
-            "notes": null,
-            "start": "2022-09-08T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-09",
-            "end": "2022-09-09T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Ismaili Centre - by Virtual tour, and an Exhibition in Zamana Space",
-            "notes": null,
-            "start": "2022-09-09T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-10",
-            "end": "2022-09-10T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Ismaili Centre - by Virtual tour, and an Exhibition in Zamana Space",
-            "notes": null,
-            "start": "2022-09-10T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-11",
-            "end": "2022-09-11T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Ismaili Centre - by Virtual tour, and an Exhibition in Zamana Space",
-            "notes": null,
-            "start": "2022-09-11T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-12",
-            "end": "2022-09-12T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Ismaili Centre - by Virtual tour, and an Exhibition in Zamana Space",
-            "notes": null,
-            "start": "2022-09-12T11:30:00+01:00",
+            "capacity": 100,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Toilets",
-            "Refreshments",
-            "Photography is not permitted on site",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Refreshments",
+        "Photography is not permitted on site",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -173,34 +65,29 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2063/building_2063_ismaili-centre_30b5a520046666fb8dbb33610b2fba62.jpg",
-            "description": "",
+            "description": null,
             "title": "Ismaili Centre front of building",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2063_ismaili-centre_30b5a520046666fb8dbb33610b2fba62.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2063/building_2063_ismaili-centre1_f51fe2b5474b129cec6caa2f85a23f47.jpg",
-            "description": "",
+            "description": null,
             "title": "Ismaili Centre courtyard",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2063_ismaili-centre1_f51fe2b5474b129cec6caa2f85a23f47.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://youtu.be/fdhHaC3DcDQ",
-            "title": "Virtual Tour"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "1-7 Cromwell Gardens, SW7 2SL",
         "latitude": 51.4955821,
         "longitude": -0.1731175,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: South Kensington",
-            "Bus routes: 14, 70, 74, 345, 414, C1"
+            "Tube: South Kensington",
+            "Bus: 14, 70, 74, 345, 414, C1"
         ]
     },
     "name": "The Ismaili Centre",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2063",
+    "original_url": "https://programme.openhouse.org.uk/listings/2063",
     "ticketed_events": false
 }

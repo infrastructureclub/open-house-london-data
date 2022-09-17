@@ -1,46 +1,27 @@
 {
     "all_week": false,
-    "description": "Built as a Huguenot chapel in 1763, this building has been in continuous use as a synagogue since 1860 retains many original features including the gallery. Oldest  remaining Ashkenazi synagogue in London and third oldest in the country.",
+    "description": "Built as a Huguenot chapel in 1763, the building has been in continuous use as a synagogue since 1860 and retains many original features including the gallery. Oldest  remaining Ashkenazi synagogue in London and third oldest in the country.",
     "design": {
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1763"
-            },
-            {
-                "architect": "Nathan Solomon Joseph",
-                "description": "Refurbishment",
-                "year": "1867"
             }
         ],
         "periods": [
+            "Nathan Solomon Joseph",
             "Georgian"
         ],
         "types": [
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-12",
-            "end": "2022-09-12T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Sandys Row Synagogue",
-            "notes": "Kosher food and drink available",
-            "start": "2022-09-12T11:30:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Bookshop",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Bookshop",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -65,10 +46,10 @@
     "id": 5521,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5521/building_5521_s320170712-4-znlz3o20170712-4-1utpxau20170712-4-1uy5cz3_612659874efe49272979d00855d5be03.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5521/building_5521_srs-for-open-house-1_45ce9a7f2e28449a18dbf83786642555.jpg",
             "description": null,
             "title": "View of the sanctuary",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_5521_s320170712-4-znlz3o20170712-4-1utpxau20170712-4-1uy5cz3_612659874efe49272979d00855d5be03.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5521_srs-for-open-house-1_45ce9a7f2e28449a18dbf83786642555.jpg"
         }
     ],
     "links": [],
@@ -78,12 +59,12 @@
         "longitude": -0.0777377,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Liverpool Street",
-            "Nearest train: Shoreditch High Street, Liverpool Street",
-            "Bus routes: 100, 205, 42, 78, 135"
+            "Tube: Aldgate East, Aldgate, Liverpool Street",
+            "Train: Shoreditch High Street, Liverpool Street",
+            "Bus: 100, 205, 42, 78, 135"
         ]
     },
     "name": "Sandys Row Synagogue",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/5521",
+    "original_url": "https://programme.openhouse.org.uk/listings/5521",
     "ticketed_events": false
 }

@@ -1,11 +1,11 @@
 {
     "all_week": false,
-    "description": "Red brick and Bath stone grand 'Elizabethan Renaissance' style building altered by war, political changes and reflecting Richmond's history. Overlooking the war memorial and the Thames.",
+    "description": "Red brick and Bath stone grand 'Elizabethan Renaissance' style building altered by war, political changes and reflecting Richmond's history. Guided tours on 17 September start at the war memorial, Whittaker Avenue, on the hour 10am-2pm.",
     "design": {
         "designers": [
             {
                 "architect": "W J Ancell",
-                "description": "Original design",
+                "description": null,
                 "year": "1893"
             }
         ],
@@ -18,22 +18,120 @@
     },
     "events": [
         {
-            "all_day": true,
+            "activity_type": "Drop in",
+            "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T23:59:00+01:00",
-            "fully_booked": null,
-            "name": "Video tour",
-            "notes": "Available throughout Open House. Accessed from this link: https://youtu.be/Jk4X44htBYs",
-            "start": "2022-09-04T00:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T09:30:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-20",
+            "drop_in": true,
+            "end": "2022-09-20T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-20T09:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-21",
+            "drop_in": true,
+            "end": "2022-09-21T19:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-21T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/1381",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T11:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tours of the building - booking not required",
+            "notes": null,
+            "start": "2022-09-17T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/1381",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tours of the building - booking not required",
+            "notes": null,
+            "start": "2022-09-17T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/1381",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tours of the building - booking not required",
+            "notes": null,
+            "start": "2022-09-17T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/1381",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tours of the building - booking not required",
+            "notes": null,
+            "start": "2022-09-17T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/1381",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tours of the building - booking not required",
+            "notes": null,
+            "start": "2022-09-17T14:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -69,54 +167,47 @@
                 "In the 1980s the whole of the riverside area between Water Lane and Richmond Bridge was redeveloped to a design by Quinlan Terry. The complex was opened by Queen Elizabeth II on 28th October 1988. The Old Town Hall was refurbished and modified as part of this. In 1987 the Central Reference Library which previously had been housed with the Lending Library on the Little Green was opened on the first floor of the Old Town Hall. The Local Studies Library was given its own space and a small museum dedicated to the history of Richmond was also included – both on the top floor of the building.",
                 "In 2000 an extension was built into the attic space and a new air conditioned store built to house the Local Studies Collection. The Twickenham and Richmond collections were amalgamated and a new Local Studies centre opened."
             ]
-        },
-        {
-            "heading": "2021 Special Event- Video tour of the Old Town Hall, Richmond",
-            "paragraphs": [
-                "A pre-recorded video tour exploring the history of the Old Town Hall in Richmond.",
-                "First opened in 1893, Richmond's Old Town Hall is a red brick and Bath stone grand 'Elizabethan Renaissance' style building altered by war, political changes and reflecting Richmond's history. Explore the history of the building online through a video tour."
-            ]
         }
     ],
     "id": 1381,
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1381/building_1381_lcf-22706-old-town-hall_633f7fbb744c50b2bd6627f55086b7cf.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1381_lcf-22706-old-town-hall_633f7fbb744c50b2bd6627f55086b7cf.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1381/building_1381_oth-1_bd7ff478d85d3898c244d02ca238cf1c.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1381_oth-1_bd7ff478d85d3898c244d02ca238cf1c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1381/building_1381_oth-2_478fa9e6cd7658cd4836b3436a8d1c90.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1381_oth-2_478fa9e6cd7658cd4836b3436a8d1c90.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1381/building_1381_oth-3_6812a057b1cbc4e144184423ccc97db1.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1381_oth-3_6812a057b1cbc4e144184423ccc97db1.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Old Town Hall, Whittaker Avenue, Richmond, TW9 1TP",
+        "address": "Old Town Hall, Whittaker Avenue, Richmond",
         "latitude": 51.4588156,
         "longitude": -0.3068136,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Richmond",
-            "Nearest train: Richmond"
+            "Tube: Richmond",
+            "Train: Richmond"
         ]
     },
-    "name": "The Old Town Hall, Richmond ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1381",
-    "ticketed_events": false
+    "name": "The Old Town Hall, Richmond",
+    "original_url": "https://programme.openhouse.org.uk/listings/1381",
+    "ticketed_events": true
 }

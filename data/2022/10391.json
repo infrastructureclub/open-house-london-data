@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "HNNA",
-                "description": "Original design",
-                "year": "2021"
-            },
-            {
-                "architect": "Roz Barr Architects",
-                "description": "Refurbishment",
+                "description": null,
                 "year": "2021"
             }
         ],
         "periods": [
+            "Roz Barr Architects",
             "Contemporary"
         ],
         "types": [
@@ -23,36 +19,37 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Explore C3",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T11:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Explore C3",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T11:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Architect on site",
-            "Disabled access",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -73,58 +70,53 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10391/building_10391_dd_c3_hnna_taranwilkhu_8251751a5ddbebf89994efb34d00d12d.jpeg",
-            "description": "Architecture by Hannah Corlett, Photography by Taran Wilkhu · 2022",
+            "description": null,
             "title": "Aerial View from the East",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10391_dd_c3_hnna_taranwilkhu_8251751a5ddbebf89994efb34d00d12d.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10391/building_10391_01a_8137825856500ec2e04c2939a21cba0f.jpg",
-            "description": "Architecture by Hannah Corlett, Photography by Stale Eriksen · 2018",
+            "description": null,
             "title": "Model Photograph",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10391_01a_8137825856500ec2e04c2939a21cba0f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10391/building_10391_hnna-c3-dd-lorenzo-zandri-2021-10_972f5aa4e466bff20d854116110dbb45.jpg",
-            "description": "Architecture by Hannah Corlett, Photography by Lorenzo Zandri · 2022",
+            "description": null,
             "title": "External Top Floor View",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10391_hnna-c3-dd-lorenzo-zandri-2021-10_972f5aa4e466bff20d854116110dbb45.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10391/building_10391_hnna-c3-dd-lorenzo-zandri-2022-11-72dpi_83d035d34bd66b6bc5ac97d3dcebdbd9.jpg",
-            "description": "Architecture by Hannah Corlett, Fit-out by Roz Barr, Photography by Lorenzo Zandri · 2022",
+            "description": null,
             "title": "Internal View of Bureau Kitchen",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10391_hnna-c3-dd-lorenzo-zandri-2022-11-72dpi_83d035d34bd66b6bc5ac97d3dcebdbd9.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10391/building_10391_hnna-c3-dd-lorenzo-zandri-2022-5-72dpi_557377cbc6205365aff26e9f6f1a2d72.jpg",
-            "description": "Architecture by Hannah Corlett, Fit-out by Roz Barr, Photography by Lorenzo Zandri · 2022",
+            "description": null,
             "title": "Interior View of the Top Floor Studio Spaces",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10391_hnna-c3-dd-lorenzo-zandri-2022-5-72dpi_557377cbc6205365aff26e9f6f1a2d72.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10391/building_10391_hnna-c3-dd-lorenzo-zandri-2021-1-72dpi_f9625ca7caaf847981749238982c247a.jpg",
-            "description": "Architecture by Hannah Corlett, Photography by Lorenzo Zandri · 2022",
+            "description": null,
             "title": "External View from the Northern Entry",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10391_hnna-c3-dd-lorenzo-zandri-2021-1-72dpi_f9625ca7caaf847981749238982c247a.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://designdistrict.co.uk/workspace/building/C3",
-            "title": "Website"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "C3, 13 Soames Walk, SE10 0AX",
         "latitude": 51.4996712,
         "longitude": 0.0062057,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: North Greenwich",
-            "Bus routes: 108, 355, 422, 486"
+            "Tube: North Greenwich",
+            "Bus: 108, 355, 422, 486"
         ]
     },
     "name": "C3 - Bureau",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/10391",
+    "original_url": "https://programme.openhouse.org.uk/listings/10391",
     "ticketed_events": false
 }

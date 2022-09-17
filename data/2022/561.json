@@ -4,12 +4,25 @@
     "design": {
         "designers": [
             {
-                "architect": "Unwin & Parker, Lutyens, Bunney, Baillie Scott and others",
-                "description": "Original design",
-                "year": ""
+                "architect": "Unwin & Parker",
+                "description": null,
+                "year": "Baillie Scott and others"
+            },
+            {
+                "architect": "Lutyens",
+                "description": null,
+                "year": "Baillie Scott and others"
+            },
+            {
+                "architect": "Bunney",
+                "description": null,
+                "year": "Baillie Scott and others"
             }
         ],
         "periods": [
+            " Lutyens",
+            " Bunney",
+            " Baillie Scott and others",
             "Edwardian"
         ],
         "types": [
@@ -18,40 +31,32 @@
     },
     "events": [
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-12",
-            "end": "2022-09-12T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "guided tour",
+            "booking_link": "https://programme.openhouse.org.uk/listings/561",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Artisans Quarter Walk",
             "notes": null,
-            "start": "2022-09-12T14:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-18T14:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-12",
-            "end": "2022-09-12T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "guided walk",
+            "booking_link": "https://programme.openhouse.org.uk/listings/561",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Artisans Quarter Walk",
             "notes": null,
-            "start": "2022-09-12T14:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "guided walk",
-            "notes": null,
-            "start": "2022-09-12T15:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-18T15:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [],
@@ -76,13 +81,13 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/561/building_561_2010-hampstead-garden-suburb-3_7ee73dffc0c5a883b2ba256f8962810d.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_561_2010-hampstead-garden-suburb-3_7ee73dffc0c5a883b2ba256f8962810d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/561/building_561_2010-hampstead-garden-suburb-2_05c09d0cd2d6ff396de4861d8e2ff513.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_561_2010-hampstead-garden-suburb-2_05c09d0cd2d6ff396de4861d8e2ff513.jpg"
         }
@@ -92,13 +97,13 @@
         "address": "Central Square, NW11 7AH",
         "latitude": 51.5805196,
         "longitude": -0.1893314,
-        "meeting_point": "inside St Jude on the Hill",
+        "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Golders Green",
-            "Bus routes: 102, 13, H2, 460"
+            "Tube: Golders Green",
+            "Bus: 102, 13, H2, 460"
         ]
     },
     "name": "Hampstead Garden Suburb Artisans' Quarter Walk",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/561",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/561",
+    "ticketed_events": true
 }

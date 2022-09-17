@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "William Booth Bryan",
-                "description": "Original design",
+                "description": null,
                 "year": "1913"
             }
         ],
@@ -18,34 +18,22 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour",
-            "notes": "No need to book but tours will be in small groups subject to the COVID restrictions at the timeVisitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour",
-            "notes": "No need to book but tours will be in small groups subject to the COVID restrictions at the timeVisitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T10:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Parking"
-        ]
+        "Parking"
     ],
     "factsheet": [
         {
@@ -65,25 +53,32 @@
                 "Weir Inlet: the Italianate granite balustrade is placed above 4 cast iron outlet pipes with upturned ends. The piped emptied water into a brick chamber with a granite cill over which the water flowed down a cascade into the reservoir.",
                 "All buildings are listed Grade II."
             ]
+        },
+        {
+            "heading": "Tour details and booking",
+            "paragraphs": [
+                "The site will be open on 17 September between 10 - 4pm (last entry is 3.30pm) with ad-hoc tours running every 30mins or so.",
+                "This Thames Water site is only opened on special occasions for public tours, no need to book but depending on interest you may need to wait a while before gaining access."
+            ]
         }
     ],
     "id": 845,
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/845/building_845_img_1775_3b9493b7f8b5b5ef6d08d01b15976ec5.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_845_img_1775_3b9493b7f8b5b5ef6d08d01b15976ec5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/845/building_845_dsc_0008_9e09e6155d2631488124d54300d55c45.JPG",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_845_dsc_0008_9e09e6155d2631488124d54300d55c45.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/845/building_845_img_1768_2_a33c2060f42e076eef30ace8f49807ba.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_845_img_1768_2_a33c2060f42e076eef30ace8f49807ba.jpg"
         }
@@ -95,11 +90,11 @@
         "longitude": -0.0176685,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Enfield Lock",
-            "Bus routes: 491, 121"
+            "Train: Enfield Lock",
+            "Bus: 491, 121"
         ]
     },
     "name": "King George V Pumping Station",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/845",
+    "original_url": "https://programme.openhouse.org.uk/listings/845",
     "ticketed_events": false
 }

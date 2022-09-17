@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Sir Christoper Wren;  Robert Atkinson",
-                "description": "Original design",
+                "description": null,
                 "year": "1690"
             }
         ],
@@ -17,39 +17,12 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-10",
-            "end": "2022-09-10T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Church open",
-            "notes": null,
-            "start": "2022-09-10T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Church open",
-            "notes": null,
-            "start": "2022-09-11T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Disabled access",
-            "Parking",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Parking",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -82,63 +55,54 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8725/building_8725_all-hallows-tower_d614c8cc09b0223ed760e71dbb4f5662.jpg",
-            "description": "",
+            "description": null,
             "title": "External View of Tower ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8725_all-hallows-tower_d614c8cc09b0223ed760e71dbb4f5662.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8725/building_8725_all-hallows-interior_96589c81e5b10934a56d88737e78f8aa.jpg",
-            "description": "",
+            "description": null,
             "title": "Interior ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8725_all-hallows-interior_96589c81e5b10934a56d88737e78f8aa.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8725/building_8725_requiem-04_85925860cd6efeae41ce277f6530e43d.jpg",
-            "description": "",
+            "description": null,
             "title": "Interior 2 ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8725_requiem-04_85925860cd6efeae41ce277f6530e43d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8725/building_8725_requiem-02_165f0fb173e3905dab1198f65a640625.jpg",
-            "description": "",
+            "description": null,
             "title": "Font ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8725_requiem-02_165f0fb173e3905dab1198f65a640625.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8725/building_8725_requiem-10_aeb8ed42d461fb8b6adab89451c5ff9a.jpg",
-            "description": "",
+            "description": null,
             "title": "Font Detail ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8725_requiem-10_aeb8ed42d461fb8b6adab89451c5ff9a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8725/building_8725_twickenham_all_hallows200915__0f22898fec636e172eea1a7beff0e32b.jpg",
-            "description": "",
+            "description": null,
             "title": "Pulpit ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8725_twickenham_all_hallows200915__0f22898fec636e172eea1a7beff0e32b.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.allhallowstwick.org.uk/",
-            "title": "Website"
-        },
-        {
-            "href": "https://twitter.com/AHChurch_Twick",
-            "title": "@AHChurch_Twick"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "Erncroft Way, Twickenham , TW1 1DA",
         "latitude": 51.4536937,
         "longitude": -0.3350975,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Richmond",
-            "Nearest train: Twickenham",
-            "Bus routes: 281"
+            "Tube: Richmond",
+            "Train: Twickenham",
+            "Bus: 281"
         ]
     },
     "name": "All Hallows Twickenham",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8725",
+    "original_url": "https://programme.openhouse.org.uk/listings/8725",
     "ticketed_events": false
 }

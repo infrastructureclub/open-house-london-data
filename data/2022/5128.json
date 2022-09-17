@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "George Gilbert Scott",
-                "description": "Original design",
+                "description": null,
                 "year": "1861"
             }
         ],
@@ -18,37 +18,39 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tours available hourly from 10.30 am",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T10:00:00+01:00",
+            "date": "2022-11-19",
+            "drop_in": true,
+            "end": "2022-11-19T17:00:00+00:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-11-19T10:00:00+00:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:30:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tours available hourly from 1pm",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T12:30:00+01:00",
+            "date": "2022-11-20",
+            "drop_in": true,
+            "end": "2022-11-20T16:30:00+00:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-11-20T12:30:00+00:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Parking",
-            "Refreshments",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Parking",
+        "Refreshments",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -72,37 +74,37 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5128/building_5128_01-church-exterior-from-the-walker-ground_d95f8a11d47393c55162238f6c045177.jpg",
-            "description": "Phillip Dawson · 2014",
+            "description": null,
             "title": "Church exterior viewed from The Walker Ground",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5128_01-church-exterior-from-the-walker-ground_d95f8a11d47393c55162238f6c045177.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5128/building_5128_02-lady-chapel_eef121a46181d08c59bbe9948198ffc0.jpg",
-            "description": "Christine Matthews · 2005",
+            "description": null,
             "title": "Lady Chapel with wall paintings",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5128_02-lady-chapel_eef121a46181d08c59bbe9948198ffc0.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5128/building_5128_05-temperance-charity-by-edward-burne-jones_0c97fdec868235e52e103ce9f4c99d48.jpg",
-            "description": "John Salmon · 2014",
+            "description": null,
             "title": "Temperance & Charity by Edward Burne Jones",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5128_05-temperance-charity-by-edward-burne-jones_0c97fdec868235e52e103ce9f4c99d48.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5128/building_5128_03-interior-of-church-george-gilbert-scott_61fbae32107e686797f4fa50a7484c2b.jpg",
-            "description": "Phillip Dawson · 2015",
+            "description": null,
             "title": "Interior looking east",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5128_03-interior-of-church-george-gilbert-scott_61fbae32107e686797f4fa50a7484c2b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5128/building_5128_04-justice-by-edward-burne-jones-detail_de524a8d5d03e1181791c440271cf01f.jpg",
-            "description": "Phillip Dawson · 2015",
+            "description": null,
             "title": "Justice by Edward Burne Jones (detail)",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5128_04-justice-by-edward-burne-jones-detail_de524a8d5d03e1181791c440271cf01f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5128/building_5128_06-mosaic-reredos-by-salviati-detail_b3e71228ae4ebdf62e51432506badfad.jpg",
-            "description": "Phillip Dawson · 2015",
+            "description": null,
             "title": "Mosaic reredos by Salviati (detail)",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5128_06-mosaic-reredos-by-salviati-detail_b3e71228ae4ebdf62e51432506badfad.jpg"
         }
@@ -114,12 +116,12 @@
         "longitude": -0.1358408,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Arnos Grove, Southgate",
-            "Nearest train: New Southgate, Palmers Green",
-            "Bus routes: 121, 298, 299, W6"
+            "Tube: Arnos Grove, Southgate",
+            "Train: New Southgate, Palmers Green",
+            "Bus: 121, 298, 299, W6"
         ]
     },
     "name": "Christ Church Southgate and the Minchenden Oak Garden",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/5128",
+    "original_url": "https://programme.openhouse.org.uk/listings/5128",
     "ticketed_events": false
 }

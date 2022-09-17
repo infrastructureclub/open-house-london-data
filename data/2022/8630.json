@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Nevine Nasser",
-                "description": "Original design",
+                "description": null,
                 "year": "2016"
             }
         ],
@@ -21,23 +21,51 @@
     },
     "events": [
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 45,
-            "date": "2022-09-05",
-            "end": "2022-09-05T12:45:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of a Sufi zawiya",
-            "notes": "3 tours available, starting: 10.30am, 11.15am, 12pm. Each tour lasts for 45 minutes and all ends at 12.45pm. Visitors will be asked to take off their shoes at the entrance and to wear a face mask on arrival. Visitors will have the chance to ask questions to the tour guide/ architect.  If you have any questions, email schoolofsufiteaching@gmail.com or call/message Saif Osmani on 07915 234 404. You can book a ticket for the architecture tour on Sunday 5th September by registering through this Eventbrite page at the scheduled times listed on the ticket: https://www.eventbrite.com/e/new-zawiya-in-bethnal-green-tickets-167710076353",
-            "start": "2022-09-05T10:30:00+01:00",
+            "booking_link": "https://programme.openhouse.org.uk/listings/8630",
+            "capacity": null,
+            "date": "2022-09-20",
+            "drop_in": false,
+            "end": "2022-09-20T11:30:00+01:00",
+            "fully_booked": false,
+            "name": "10.30am tour with architect Nevine Nasser",
+            "notes": null,
+            "start": "2022-09-20T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/8630",
+            "capacity": null,
+            "date": "2022-09-20",
+            "drop_in": false,
+            "end": "2022-09-20T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "11.30am tour with architect Nevine Nasser",
+            "notes": null,
+            "start": "2022-09-20T11:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/8630",
+            "capacity": null,
+            "date": "2022-09-20",
+            "drop_in": false,
+            "end": "2022-09-20T13:30:00+01:00",
+            "fully_booked": false,
+            "name": "12.30am tour with architect Nevine Nasser",
+            "notes": null,
+            "start": "2022-09-20T12:30:00+01:00",
             "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Architect on site",
-            "Toilets"
-        ]
+        "Architect on site",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -66,53 +94,48 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8630/building_8630_school-of-sufi-teaching_2jpg_a48603accec499d388c773eb9aba4ae1.jpg",
-            "description": "Nevine Nasser · 2020",
+            "description": null,
             "title": "School of Sufi Teaching - window detailing",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8630_school-of-sufi-teaching_2jpg_a48603accec499d388c773eb9aba4ae1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8630/building_8630_front_55128c3371be51939ef553f6148d9a66.jpg",
-            "description": "Nevine Nasser · 2020",
+            "description": null,
             "title": "School of Sufi Teaching - exterior view",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8630_front_55128c3371be51939ef553f6148d9a66.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8630/building_8630_school-of-sufi-teaching_6_254612d7dbc31f9516d90d0b59fcaffa.jpg",
-            "description": "Nevine Nasser, Katya Nosyreva and Citi Yousoff · 2020",
+            "description": null,
             "title": "School of Sufi Teaching - entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8630_school-of-sufi-teaching_6_254612d7dbc31f9516d90d0b59fcaffa.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8630/building_8630_school-of-sufi-teaching_7_8fb61fc107814212fed5489c1f256d7c.jpg",
-            "description": "Nevine Nasser · 2020",
+            "description": null,
             "title": "School of Sufi Teaching - interior view",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8630_school-of-sufi-teaching_7_8fb61fc107814212fed5489c1f256d7c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8630/building_8630_zawiya-3_4a66084bb8512f6df5305d9c8e6087e2.jpg",
-            "description": "Saif Osmani · 2016",
+            "description": null,
             "title": "Zawiya interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8630_zawiya-3_4a66084bb8512f6df5305d9c8e6087e2.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.schoolofsufiteaching.org/",
-            "title": "Website link"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "253 Globe Road, Bethnal Green, E2 0JD",
         "latitude": 51.5284509,
         "longitude": -0.051334,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Bethnal Green",
-            "Nearest train: Bethnal Green",
-            "Bus routes: 106, 254, 309, 388, D3, D6"
+            "Tube: Bethnal Green",
+            "Train: Bethnal Green",
+            "Bus: 106, 254, 309, 388, D3, D6"
         ]
     },
-    "name": "New zawiya in Bethnal Green",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8630",
+    "name": "School of Sufi Teaching in Bethnal Green",
+    "original_url": "https://programme.openhouse.org.uk/listings/8630",
     "ticketed_events": true
 }

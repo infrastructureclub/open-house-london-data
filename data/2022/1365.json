@@ -5,78 +5,23 @@
         "designers": [
             {
                 "architect": "Robert McGuire & Keith Murray",
-                "description": "Original design",
+                "description": null,
                 "year": "1960"
-            },
-            {
-                "architect": "Avanti Architects",
-                "description": "Refurbishment",
-                "year": "2003"
             }
         ],
         "periods": [
+            "Avanti Architects",
             "Post-war"
         ],
         "types": [
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "St Paul's Bow Common",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Volunteer Led Tours",
-            "notes": null,
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "St Paul's Bow Common",
-            "notes": null,
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:30:00+01:00",
-            "fully_booked": null,
-            "name": "Volunteer Led Tours",
-            "notes": null,
-            "start": "2022-09-05T13:30:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Parking",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Parking",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -99,31 +44,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1365/building_1365_20160806_155512_5e56ad722996d5be91581b8f58e51ae6.jpg",
-            "description": "Bernadette Hegarty · 2016",
+            "description": null,
             "title": "Central Altar",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1365_20160806_155512_5e56ad722996d5be91581b8f58e51ae6.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1365/building_1365_img_20170103_110123_64d278d9e9d3201a39df7947b04d12dd.jpg",
-            "description": "Bernadette Hegarty · 2016",
+            "description": null,
             "title": "Picure of interior of church reflected in the Font",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1365_img_20170103_110123_64d278d9e9d3201a39df7947b04d12dd.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1365/building_1365_20170220_125426_bfd3ab333f5939b896debc03bc1fc825.jpg",
-            "description": "Bernadette Hegarty · 2017",
+            "description": null,
             "title": "View from across Burdett Rd",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1365_20170220_125426_bfd3ab333f5939b896debc03bc1fc825.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1365/building_1365_img-20190324-wa0000-22280_477874b3ceb47a059a35e0a08a498716.jpg",
-            "description": "Julian Bream · 2019",
+            "description": null,
             "title": "Sunday afternoon in Spring",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1365_img-20190324-wa0000-22280_477874b3ceb47a059a35e0a08a498716.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1365/building_1365_20190318_093638-22284_41b18f8b1a109387b0e7c895de01b832.jpg",
-            "description": "Bernadette Hegarty · 2019",
+            "description": null,
             "title": "Entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1365_20190318_093638-22284_41b18f8b1a109387b0e7c895de01b832.jpg"
         }
@@ -135,12 +80,12 @@
         "longitude": -0.0298277,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Mile End",
-            "Nearest train: Limehouse",
-            "Bus routes: 277, D6, D7, 309"
+            "Tube: Mile End",
+            "Train: Limehouse",
+            "Bus: 277, D6, D7, 309"
         ]
     },
     "name": "St Paul's Bow Common",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1365",
+    "original_url": "https://programme.openhouse.org.uk/listings/1365",
     "ticketed_events": false
 }

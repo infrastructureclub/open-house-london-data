@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Maurice Webb",
-                "description": "Original design",
+                "description": null,
                 "year": "1935"
             }
         ],
@@ -19,36 +19,66 @@
     },
     "events": [
         {
-            "all_day": true,
+            "activity_type": "Drop in",
+            "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-01",
-            "end": "2022-09-01T23:59:00+01:00",
-            "fully_booked": null,
-            "name": "Film - Kingston Guildhall",
-            "notes": "Available throughout September at www.kingstonheritage.org.uk/heritagefestival",
-            "start": "2022-09-01T00:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 6,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/6960",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T13:30:00+01:00",
+            "fully_booked": false,
             "name": "Guided tour",
-            "notes": "Guided tours starting at 10.15 in the History Centre and Magistrates courts, then the Guildhall.  Tours booked between 12.30 and 14.00 will include a visit to the Mayor's Parlour and the Mayor .  Book at https://www.kingstonheritage.org.uk/visit",
-            "start": "2022-09-11T10:15:00+01:00",
+            "notes": null,
+            "start": "2022-09-17T12:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/6960",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T14:15:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour",
+            "notes": null,
+            "start": "2022-09-17T13:15:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/6960",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour",
+            "notes": null,
+            "start": "2022-09-17T14:00:00+01:00",
             "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Toilets",
-            "Parking"
-        ]
+        "Disabled access",
+        "Toilets",
+        "Parking"
     ],
     "factsheet": [
         {
@@ -77,19 +107,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6960/building_6960_guildhall_e2cd1d7411a30f4c19285db0956560ac.jpg",
-            "description": "",
+            "description": null,
             "title": "Guildhall",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6960_guildhall_e2cd1d7411a30f4c19285db0956560ac.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6960/building_6960_k1-1196_53f34d66040321b4efb90a9c6e0b90df.jpg",
-            "description": "Kingston History Centre  · 1935",
+            "description": null,
             "title": "Guildhall from the air ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6960_k1-1196_53f34d66040321b4efb90a9c6e0b90df.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6960/building_6960_kingston-history-centre_1fcc4ad942c8fe2699c477d3015f8cce.jpg",
-            "description": "",
+            "description": null,
             "title": "Kingston History Centre",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6960_kingston-history-centre_1fcc4ad942c8fe2699c477d3015f8cce.jpg"
         }
@@ -101,10 +131,10 @@
         "longitude": -0.3080235,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Kingston"
+            "Train: Kingston"
         ]
     },
-    "name": "Kingston Guildhall and History Centre ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6960",
+    "name": "Kingston Guildhall and History Centre",
+    "original_url": "https://programme.openhouse.org.uk/listings/6960",
     "ticketed_events": true
 }

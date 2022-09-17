@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1948"
-            },
-            {
-                "architect": "Pawel Block",
-                "description": "Refurbishment",
-                "year": "2020"
             }
         ],
         "periods": [
+            "Pawel Block",
             "Post-war"
         ],
         "types": [
@@ -23,34 +19,36 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 10,
-            "date": "2022-09-11",
-            "end": "2022-09-11T19:00:00+01:00",
-            "fully_booked": null,
-            "name": "Saturday visiting time",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T10:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 10,
-            "date": "2022-09-12",
-            "end": "2022-09-12T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Sunday visiting time",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T11:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Architect on site"
-        ]
+        "Architect on site"
     ],
     "factsheet": [
         {
@@ -64,76 +62,88 @@
     "id": 10257,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_img_20210721_201702_00dc1cb79d2d7d18ee01dc1af5ba5a26.jpg",
-            "description": "",
-            "title": "Front facade",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_img_20210721_201702_00dc1cb79d2d7d18ee01dc1af5ba5a26.jpg"
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_dscf1693_311f81e085ac1953308859ae83a808f9.jpg",
+            "description": null,
+            "title": "Front of the house",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_dscf1693_311f81e085ac1953308859ae83a808f9.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_ff-bedroom-before-renovation_9c8b0b39d6135e1026541a32ca6b0cef.jpg",
-            "description": "",
+            "description": null,
             "title": "South bedroom during renovation",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_ff-bedroom-before-renovation_9c8b0b39d6135e1026541a32ca6b0cef.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_garden_5d44afa0ffe2502fda69421759a1423a.jpg",
-            "description": "",
+            "description": null,
             "title": "Garden side",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_garden_5d44afa0ffe2502fda69421759a1423a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_ff-bedroom_f357611beb716b0e17abd4d75e3156bd.jpg",
-            "description": "",
+            "description": null,
             "title": "South bedroom after floor instalation",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_ff-bedroom_f357611beb716b0e17abd4d75e3156bd.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_green-roof_0c0f200f25e3477a715415df8fe389a5.jpg",
-            "description": "",
+            "description": null,
             "title": "Green roof above extension",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_green-roof_0c0f200f25e3477a715415df8fe389a5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_visual-ff-bathroom-1_f14e82b70b97e4cd8642a6f315af3e29.jpg",
-            "description": "",
+            "description": null,
             "title": "Visual - FF bathroom 1",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_visual-ff-bathroom-1_f14e82b70b97e4cd8642a6f315af3e29.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_visual-ff-bathroom-2_793cc67bf65a46a801d439973765e84a.jpg",
-            "description": "",
+            "description": null,
             "title": "Visual - FF bathroom",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_visual-ff-bathroom-2_793cc67bf65a46a801d439973765e84a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_visual-living-room_31b0e2768a0f14ab94bec56d3c5a7d63.jpg",
-            "description": "",
+            "description": null,
             "title": "Visual - Extension living room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_visual-living-room_31b0e2768a0f14ab94bec56d3c5a7d63.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_visual-reception-room_f7f1cdcd53bc933204f81d5f4152df74.jpg",
-            "description": "",
+            "description": null,
             "title": "Visual - Reception room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_visual-reception-room_f7f1cdcd53bc933204f81d5f4152df74.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_visual-gf-bathroom-1_28e0354d66507db0c289e446d7bb0ccb.jpg",
-            "description": "",
+            "description": null,
             "title": "Visual - GF bathroom",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_visual-gf-bathroom-1_28e0354d66507db0c289e446d7bb0ccb.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_visual-gf-bathroom-2_de7dbab7a11ad12ba6ffc63cafd0d825.jpg",
-            "description": "",
-            "title": "Visual - GF bathroom",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_visual-gf-bathroom-2_de7dbab7a11ad12ba6ffc63cafd0d825.jpg"
-        },
-        {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_garden-shed_c7fa0ea88869f51657dd6f10fb057763.jpg",
-            "description": "",
+            "description": null,
             "title": "Garden shed",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_garden-shed_c7fa0ea88869f51657dd6f10fb057763.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_img_20220428_082352_a1fb920381b39f6348040cb5332a2334.jpg",
+            "description": null,
+            "title": "Staircase",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_img_20220428_082352_a1fb920381b39f6348040cb5332a2334.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_img_20220621_215135_aab3443beaa0bdc25af524ac03e9322d.jpg",
+            "description": null,
+            "title": "GF Bathroom Mirror ",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_img_20220621_215135_aab3443beaa0bdc25af524ac03e9322d.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10257/building_10257_img_20220605_184115_0237d5cacbdb0dd6b47c5b4c9f644578.jpg",
+            "description": null,
+            "title": "Staircase",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10257_img_20220605_184115_0237d5cacbdb0dd6b47c5b4c9f644578.jpg"
         }
     ],
     "links": [],
@@ -143,12 +153,12 @@
         "longitude": -0.3412144,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Boston Manor",
-            "Nearest train: Hanwell",
-            "Bus routes: 207, 427, E8, 483, 195"
+            "Tube: Boston Manor",
+            "Train: Hanwell",
+            "Bus: 207, 427, E8, 483, 195"
         ]
     },
     "name": "186A Uxbridge Road",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/10257",
+    "original_url": "https://programme.openhouse.org.uk/listings/10257",
     "ticketed_events": false
 }

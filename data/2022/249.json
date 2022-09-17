@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Thomas Ripley",
-                "description": "Original design",
+                "description": null,
                 "year": "1750"
             }
         ],
@@ -18,34 +18,36 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 15,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Devonport Mausoleum Drop In",
-            "notes": "Drop-in timeVisitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T10:30:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:30:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 15,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Devonport Mausoleum Drop In",
-            "notes": "Drop-in timeVisitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T10:30:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T10:30:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access"
-        ]
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -71,10 +73,10 @@
     "id": 249,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/249/building_249_devenport-mausoleum-exterior_c3e0784714b97e21721dc4d89037d38d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/249/building_249_devenport-mausoleum-exterior_6899d3b53581a8c16be553896685904f.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_249_devenport-mausoleum-exterior_c3e0784714b97e21721dc4d89037d38d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_249_devenport-mausoleum-exterior_6899d3b53581a8c16be553896685904f.jpg"
         }
     ],
     "links": [],
@@ -84,12 +86,12 @@
         "longitude": -0.0071148,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Cutty Sark",
-            "Nearest train: Greenwich, Maze Hill",
-            "Bus routes: 129, 177, 188, 286"
+            "Tube: Cutty Sark",
+            "Train: Greenwich, Maze Hill",
+            "Bus: 129, 177, 188, 286"
         ]
     },
     "name": "Devonport Mausoleum",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/249",
+    "original_url": "https://programme.openhouse.org.uk/listings/249",
     "ticketed_events": false
 }

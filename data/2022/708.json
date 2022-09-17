@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Patrice Bonnet",
-                "description": "Original design",
+                "description": null,
                 "year": "1939"
-            },
-            {
-                "architect": "Bisset Adams Architects",
-                "description": "Restoration",
-                "year": "2014"
             }
         ],
         "periods": [
+            "Bisset Adams Architects",
             "Inter-war"
         ],
         "types": [
@@ -24,59 +20,37 @@
     },
     "events": [
         {
+            "activity_type": "Exhibition",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Archives Exhibition",
+            "booking_link": "https://programme.openhouse.org.uk/listings/708",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Hourly Guided Tours",
             "notes": null,
-            "start": "2022-09-11T13:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-17T13:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Talk",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour by historian",
+            "booking_link": "https://programme.openhouse.org.uk/listings/708",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Hourly Guided Tours",
             "notes": null,
-            "start": "2022-09-11T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Archives Exhibition",
-            "notes": null,
-            "start": "2022-09-12T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tours by historian",
-            "notes": null,
-            "start": "2022-09-12T13:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-18T13:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -114,19 +88,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/708/building_708_facade-17queensberry_953b37d7a43d4b4494c336ebaf902bb5.jpg",
-            "description": "2013",
+            "description": null,
             "title": "View of the Art deco facade from Queensberry Palce",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_708_facade-17queensberry_953b37d7a43d4b4494c336ebaf902bb5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/708/building_708__mb00843_2500c2ef767b5224da09cf25dbb20a2a.jpg",
-            "description": "2013",
+            "description": null,
             "title": "View of the Art Deco facade - Entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_708__mb00843_2500c2ef767b5224da09cf25dbb20a2a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/708/building_708_readingroom3_22083b1bb9f278ea8dfb6e8c31dcbcd6.png",
-            "description": "2016",
+            "description": null,
             "title": "Former ballroom, now 'Reading Room Denis Saurat'",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_708_readingroom3_22083b1bb9f278ea8dfb6e8c31dcbcd6.png"
         }
@@ -138,11 +112,11 @@
         "longitude": -0.1771684,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: South Kensington, Gloucester Road",
-            "Bus routes: 14, 49, 70, 74, 345, C1"
+            "Tube: South Kensington, Gloucester Road",
+            "Bus: 14, 49, 70, 74, 345, C1"
         ]
     },
     "name": "Institut français du Royaume-Uni",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/708",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/708",
+    "ticketed_events": true
 }

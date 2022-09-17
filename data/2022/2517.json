@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Sir Edwin Lutyens",
-                "description": "Original design",
+                "description": null,
                 "year": "1911"
             }
         ],
@@ -18,49 +18,39 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Day",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T12:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Day",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Day",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T12:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:30:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Bookshop",
-            "Parking",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Bookshop",
+        "Parking",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -94,13 +84,13 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2517/building_2517_d8a93c47-7818-4b98-a625-7015a3ba291c_bdfe8029aefba8618ccae31ff35d62d8.jpeg",
-            "description": "St Jude’s Church · 2018",
+            "description": null,
             "title": "View from Central Square ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2517_d8a93c47-7818-4b98-a625-7015a3ba291c_bdfe8029aefba8618ccae31ff35d62d8.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2517/building_2517_st-jude-on-the-hill_ext_1_f0093779b651fba1d3c9b969d2b5a50a.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2517_st-jude-on-the-hill_ext_1_f0093779b651fba1d3c9b969d2b5a50a.jpg"
         }
@@ -112,11 +102,11 @@
         "longitude": -0.1893314,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Golders Green",
-            "Bus routes: H2, 13, 102, 460"
+            "Tube: Golders Green",
+            "Bus: H2, 13, 102, 460"
         ]
     },
     "name": "St Jude on the Hill",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2517",
+    "original_url": "https://programme.openhouse.org.uk/listings/2517",
     "ticketed_events": false
 }

@@ -4,8 +4,13 @@
     "design": {
         "designers": [
             {
-                "architect": "Richard Norman Shaw, Ernest Newton",
-                "description": "Original design",
+                "architect": "Richard Norman Shaw",
+                "description": null,
+                "year": "1775"
+            },
+            {
+                "architect": "Ernest Newton",
+                "description": null,
                 "year": "1775"
             }
         ],
@@ -20,34 +25,22 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "The Bishop's Palace",
-            "notes": null,
-            "start": "2022-09-11T15:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "The Bishop's Palace",
-            "notes": null,
-            "start": "2022-09-12T15:00:00+01:00",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T13:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -85,101 +78,101 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714_img_0581-copy_583b260682a6fdb41bbf84e8ff176228.jpg",
-            "description": "Katie Ryde · 2013",
+            "description": null,
             "title": "Southern view of the Bishop's Palace",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714_img_0581-copy_583b260682a6fdb41bbf84e8ff176228.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714_img_3393_da949507ab19e4e94738d69c5b6051a0.JPG",
-            "description": "Katie Ryde · 2015",
+            "description": null,
             "title": "Bishop's Palace (northern view) ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714_img_3393_da949507ab19e4e94738d69c5b6051a0.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714_2010_6024c08c29d4c7d3387abc6538e10b8e.jpg",
-            "description": "Katie Ryder · 2010",
+            "description": null,
             "title": "View of the Bishop's Palace (southern view)",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714_2010_6024c08c29d4c7d3387abc6538e10b8e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714_north-2010_cf90ae67670796f8c0f3f77a8601f8d9.jpg",
-            "description": "Katie Ryde · 2010",
+            "description": null,
             "title": "Bishop's Palace (northern view)",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714_north-2010_cf90ae67670796f8c0f3f77a8601f8d9.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714__mg_1253_edited-1_398f8e7c36acca7fce102ea8a0386572.jpg",
-            "description": "Katie Ryde · 2007",
+            "description": null,
             "title": "St Blaise's Well",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714__mg_1253_edited-1_398f8e7c36acca7fce102ea8a0386572.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714_p1014472_4dc26b37a4108a50eef142807a0e136e.JPG",
-            "description": "Sylvia Ramos · 2017",
+            "description": null,
             "title": "Main entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714_p1014472_4dc26b37a4108a50eef142807a0e136e.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714_p1014473_9fed26604e2e82bf013370db028b866f.JPG",
-            "description": "Sylvia Ramos · 2017",
+            "description": null,
             "title": "Palace's Function Room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714_p1014473_9fed26604e2e82bf013370db028b866f.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714_p1014476_2b26357ba783915fe51a0bbbf5c0c4ad.JPG",
-            "description": "Sylvia Ramos · 2017",
+            "description": null,
             "title": "Palace's Function Room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714_p1014476_2b26357ba783915fe51a0bbbf5c0c4ad.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714_p1014477_0103c3227e0a41d4640e316f39c930a8.JPG",
-            "description": "Sylvia Ramos · 2017",
+            "description": null,
             "title": "Palace's Function Room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714_p1014477_0103c3227e0a41d4640e316f39c930a8.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714_p1014480_633151e0b812937a0e3ec6458adc5b26.JPG",
-            "description": "Sylvia Ramos · 2017",
+            "description": null,
             "title": "Southern View of the Bishop's Palace",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714_p1014480_633151e0b812937a0e3ec6458adc5b26.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714_img_3061_d2b4b326106c3215b56f3c5c29d2c333.JPG",
-            "description": "Sylvia Ramos · 2017",
+            "description": null,
             "title": "Southern View of Bishop's Palace ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714_img_3061_d2b4b326106c3215b56f3c5c29d2c333.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714_img_3062_71a4efcb4e30f4866907b0b950a43f7b.JPG",
-            "description": "Sylvia Ramos · 2017",
+            "description": null,
             "title": "St. Blaise's Well",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714_img_3062_71a4efcb4e30f4866907b0b950a43f7b.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714__mg_1263_edited-1_d6c25aabaf35b321b7afe5e5a80f99f9.jpg",
-            "description": "Katie Ryde · 2007",
+            "description": null,
             "title": "St Blaise's Well",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714__mg_1263_edited-1_d6c25aabaf35b321b7afe5e5a80f99f9.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2714/building_2714_p1014470_c1b2425d248f833bd8862134f77e5e36.JPG",
-            "description": "",
+            "description": null,
             "title": "Main entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2714_p1014470_c1b2425d248f833bd8862134f77e5e36.JPG"
         }
     ],
     "links": [],
     "location": {
-        "address": "Civic Centre, Stockwell Close, , Bromley, BR1 3UH",
+        "address": "Civic Centre, Stockwell Close, , Bromley",
         "latitude": 51.4040913,
         "longitude": 0.0200754,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Bromley South, Bromley North",
-            "Bus routes: 61, 119, 126, 162, 208, 246, 261, 314, 320, 336, 358"
+            "Train: Bromley South, Bromley North",
+            "Bus: 61, 119, 126, 162, 208, 246, 261, 314, 320, 336, 358"
         ]
     },
     "name": "The Old Palace, Bromley Civic Centre (The Bishop's Palace)",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2714",
+    "original_url": "https://programme.openhouse.org.uk/listings/2714",
     "ticketed_events": false
 }

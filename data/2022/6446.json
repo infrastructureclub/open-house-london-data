@@ -4,8 +4,13 @@
     "design": {
         "designers": [
             {
-                "architect": "Light Earth Design, AVR London",
-                "description": "Original design",
+                "architect": "Light Earth Design",
+                "description": null,
+                "year": "2022"
+            },
+            {
+                "architect": "AVR London",
+                "description": null,
                 "year": "2022"
             }
         ],
@@ -20,74 +25,11 @@
             "architectural practice"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 50,
-            "date": "2022-09-10",
-            "end": "2022-09-10T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "10 Prints by 10 Artists Exhibition",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-10T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 50,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "10 Prints by 10 Artists Exhibition",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 50,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "10 Prints by 10 Artists Exhibition",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 50,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "10 Prints by 10 Artists - Meet the Artists - Kristina Chan and João Villas of Plaintiff Press",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 50,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "10 Prints by 10 Artists - Meet the Artists",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T14:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Disabled access",
-            "Architect on site",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Architect on site",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -118,33 +60,51 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6446/building_6446_david-mews-exterior_sm_e315b896244c4e5b43b8b304b497f27c.jpg",
-            "description": "AVR London · 2022",
+            "description": null,
             "title": "David Mews Exterior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6446_david-mews-exterior_sm_e315b896244c4e5b43b8b304b497f27c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6446/building_6446_david-mews-interior_8bd4aeb1f9c0e7bff46fc0d6a6f2e3ea.jpg",
-            "description": "AVR London · 2022",
+            "description": null,
             "title": "David Mews office interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6446_david-mews-interior_8bd4aeb1f9c0e7bff46fc0d6a6f2e3ea.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6446/building_6446_david-mews-interior-2_db8af86a7561f06de4d16ead622bfa63.jpg",
-            "description": "AVR London · 2022",
+            "description": null,
             "title": "David Mews office interior 2",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6446_david-mews-interior-2_db8af86a7561f06de4d16ead622bfa63.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6446/building_6446_david-mews-interior-3_63de3d5cfd9984b9c8a852b606fcad3f.jpg",
-            "description": "AVR London · 2022",
+            "description": null,
             "title": "David Mews office interior 3",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6446_david-mews-interior-3_63de3d5cfd9984b9c8a852b606fcad3f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6446/building_6446_tmiw-rachel-ara_1b1cc6e5e2a81a4eacece44da1dd2715.jpg",
-            "description": "Anise Gallery · 2022",
+            "description": null,
             "title": "This Much I'm Worth - Rachel Ara",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6446_tmiw-rachel-ara_1b1cc6e5e2a81a4eacece44da1dd2715.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6446/building_6446_open-house-2022_04_3543cf1c7fca17bc4dfdc6dbff480ae9.jpg",
+            "description": null,
+            "title": "",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6446_open-house-2022_04_3543cf1c7fca17bc4dfdc6dbff480ae9.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6446/building_6446_open-house-2022_01_e8ee08c57f0e3ede7626563cee8e58af.jpg",
+            "description": null,
+            "title": "",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6446_open-house-2022_01_e8ee08c57f0e3ede7626563cee8e58af.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6446/building_6446_open-house-2022_05_d415a68810e837f6f16e5a23ee456d59.jpg",
+            "description": null,
+            "title": "David Mews Interior and Lola",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6446_open-house-2022_05_d415a68810e837f6f16e5a23ee456d59.jpg"
         }
     ],
     "links": [],
@@ -154,11 +114,11 @@
         "longitude": -0.011313,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Greenwich",
-            "Bus routes: 177"
+            "Train: Greenwich",
+            "Bus: 177"
         ]
     },
-    "name": "AVR London ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6446",
+    "name": "AVR London",
+    "original_url": "https://programme.openhouse.org.uk/listings/6446",
     "ticketed_events": false
 }

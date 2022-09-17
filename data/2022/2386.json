@@ -1,20 +1,16 @@
 {
     "all_week": false,
-    "description": "The William Morris Gallery is a fine example of Georgian domestic architecture dating from about 1744 (the date scratched on a brick). The house is Grade II* listed, and once the childhood home of the Arts & Crafts designer William Morris.",
+    "description": "Join architecture practice Studio NYALI for an in-person talk discussing their installation ‘Bachelor Girl’s Room of Today’. Commissioned for the landmark retrospective exhibition, Althea McNish: Colour is Mine at William Morris Gallery.",
     "design": {
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1740"
-            },
-            {
-                "architect": "Studio NYALI",
-                "description": "Refurbishment",
-                "year": "2022"
             }
         ],
         "periods": [
+            "Studio NYALI",
             "Historical/contemporary"
         ],
         "types": [
@@ -23,28 +19,13 @@
             "art in the public realm"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-11",
-            "end": "2022-09-11T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Inspired by May Morris- Talk with Kerry Lemon",
-            "notes": "Join artist Kerry Lemon (kerrylemon.co.uk) in conversation with  Principal Curator, Rowan Bain to explore the role of May Morris in Lemon's latest Eco sculptural commission in Walthamstow and a wider discussion on art in the public realm. Book your free ticket here: www.wmgallery.org.uk",
-            "start": "2022-09-11T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Bookshop",
-            "Refreshments",
-            "Parking",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Bookshop",
+        "Refreshments",
+        "Parking",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -72,19 +53,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2386/building_2386_althea-mcnish-colour-is-mine-april-2022_credit_wmg_nicola-tree-91_ff55f60101ebe412c176984845bb894c.jpg",
-            "description": "Nicola Tree · 2022",
+            "description": null,
             "title": "Bachelor Girl Room at William Morris Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2386_althea-mcnish-colour-is-mine-april-2022_credit_wmg_nicola-tree-91_ff55f60101ebe412c176984845bb894c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2386/building_2386_2013-william-morris-gallery-2-william-morris-gallery-london-borough-of-waltham-forest_e09d15e0beac2f673924879786741eab.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2386_2013-william-morris-gallery-2-william-morris-gallery-london-borough-of-waltham-forest_e09d15e0beac2f673924879786741eab.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2386/building_2386_althea-mcnish-colour-is-mine-april-2022_credit_wmg_nicola-tree-15_a9a1c507b003f9b2510f86eab9f305dd.jpg",
-            "description": "Nicola Tree · 2022",
+            "description": null,
             "title": "Althea McNish: Colour is Mine at William Morris Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2386_althea-mcnish-colour-is-mine-april-2022_credit_wmg_nicola-tree-15_a9a1c507b003f9b2510f86eab9f305dd.jpg"
         }
@@ -96,12 +77,12 @@
         "longitude": -0.020408,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Walthamstow Central, Blackhorse Road",
-            "Nearest train: Walthamstow Central, Walthamstow Queens Road, Blackhorse Road",
-            "Bus routes: 123, 34, 97"
+            "Tube: Walthamstow Central, Blackhorse Road",
+            "Train: Walthamstow Central, Walthamstow Queens Road, Blackhorse Road",
+            "Bus: 123, 34, 97"
         ]
     },
     "name": "William Morris Gallery",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2386",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/2386",
+    "ticketed_events": false
 }

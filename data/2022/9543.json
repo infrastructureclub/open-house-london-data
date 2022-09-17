@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Penoyre & Prasad",
-                "description": "Original design",
+                "description": null,
                 "year": "2020"
             }
         ],
@@ -18,48 +18,24 @@
     },
     "events": [
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-04",
-            "end": "2022-09-04T10:45:00+01:00",
-            "fully_booked": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9543",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T14:00:00+01:00",
+            "fully_booked": false,
             "name": "Tour with architect",
             "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:45:00+01:00",
-            "fully_booked": null,
-            "name": "Tour with architect",
-            "notes": null,
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:45:00+01:00",
-            "fully_booked": null,
-            "name": "Tour with architect",
-            "notes": null,
-            "start": "2022-09-04T12:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-17T10:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Architect on site",
-            "Disabled access",
-            "Toilets"
-        ]
+        "Architect on site",
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -79,25 +55,25 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9543/building_9543_373-euston-rd-107-agnese-sanvito_e5f35326118c52c23f37cbaf2a712a74.jpg",
-            "description": "Agnese Sanvito · 2021",
+            "description": null,
             "title": "view from Euston road",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9543_373-euston-rd-107-agnese-sanvito_e5f35326118c52c23f37cbaf2a712a74.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9543/building_9543_672_n45_ed0e31e128731b805b7c512599ce6214.jpg",
-            "description": "Timothy Soar",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9543_672_n45_ed0e31e128731b805b7c512599ce6214.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9543/building_9543_672_n64_11274d688c939806a867041755ae1fab.jpg",
-            "description": "Timothy Soar",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9543_672_n64_11274d688c939806a867041755ae1fab.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9543/building_9543_672_n54_74b7d30374740f84fa7a88c8834f3b3b.jpg",
-            "description": "Timothy Soar",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9543_672_n54_74b7d30374740f84fa7a88c8834f3b3b.jpg"
         }
@@ -109,11 +85,11 @@
         "longitude": -0.1424736,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Great Portland Street",
-            "Nearest train: Euston"
+            "Tube: Great Portland Street",
+            "Train: Euston"
         ]
     },
     "name": "373 Euston Road, Birbeck College",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9543",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/9543",
+    "ticketed_events": true
 }

@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1850"
             }
         ],
@@ -18,34 +18,22 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 30,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Doors",
-            "notes": null,
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Doors",
-            "notes": null,
-            "start": "2022-09-05T11:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -67,93 +55,84 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7388/building_7388_blackbook_074_e8b1716597cf719bf0ab0763a40f79ee.JPG",
-            "description": "2019",
+            "description": null,
             "title": "Winemaker & owner, Sergio Verrillo",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7388_blackbook_074_e8b1716597cf719bf0ab0763a40f79ee.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7388/building_7388_img_2790_512ccb1534dc3c4ba9642b5caec2ba5d.JPG",
-            "description": "Blackbook Winery · 2018",
+            "description": null,
             "title": "The London Stone Business Estate",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7388_img_2790_512ccb1534dc3c4ba9642b5caec2ba5d.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7388/building_7388_img_2733_853e6edddf717391dcaf0128d7ac61ae.JPG",
-            "description": "Blackbook Winery · 2018",
+            "description": null,
             "title": "2017 wines resting in barrel",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7388_img_2733_853e6edddf717391dcaf0128d7ac61ae.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7388/building_7388_img_2763_172c147b6830aa98dadca8f4eec47410.JPG",
-            "description": "Blackbook Winery · 2018",
+            "description": null,
             "title": "Our tanks",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7388_img_2763_172c147b6830aa98dadca8f4eec47410.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7388/building_7388_img_3599_694163bfba7785453d96fc5ae859b5f5.JPG",
-            "description": "Lynsey Verrillo · 2018",
+            "description": null,
             "title": "2018 chardonnay harvest",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7388_img_3599_694163bfba7785453d96fc5ae859b5f5.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7388/building_7388_img_3620_a2c9b2642ca163e1c615ae9234fab4ac.JPG",
-            "description": "Lynsey Verrillo · 2018",
+            "description": null,
             "title": "2018 pinot noir harvest",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7388_img_3620_a2c9b2642ca163e1c615ae9234fab4ac.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7388/building_7388_blackbook-winery_7dd7b1bed412ae5939d2489c45c80d0a.jpg",
-            "description": "Lynsey Verrillo · 2018",
+            "description": null,
             "title": "Blackbook Winery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7388_blackbook-winery_7dd7b1bed412ae5939d2489c45c80d0a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7388/building_7388_blackbook_063_873d8888c9e293856a20958fc88b08a6.JPG",
-            "description": "2019",
+            "description": null,
             "title": "Selection of our 2019 wines",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7388_blackbook_063_873d8888c9e293856a20958fc88b08a6.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7388/building_7388_blackbook_232_c8dfb885a8f66b29cf7f5c1059cb7e7c.JPG",
-            "description": "2019",
+            "description": null,
             "title": "2017 GMF",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7388_blackbook_232_c8dfb885a8f66b29cf7f5c1059cb7e7c.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7388/building_7388_blackbook_212_3471af5188e523c439c10b792f936168.JPG",
-            "description": "2019",
+            "description": null,
             "title": "Winemaker Sergio in the winery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7388_blackbook_212_3471af5188e523c439c10b792f936168.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7388/building_7388_blackbook_067_ecc66e96ee59dc5a6de8ae2577f37ff3.JPG",
-            "description": "2019",
+            "description": null,
             "title": "Barrels",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7388_blackbook_067_ecc66e96ee59dc5a6de8ae2577f37ff3.JPG"
         }
     ],
-    "links": [
-        {
-            "href": "http://www.blackbookwinery.com",
-            "title": "Website"
-        },
-        {
-            "href": "http://blackbookwinery",
-            "title": "social media"
-        }
-    ],
+    "links": [],
     "location": {
-        "address": "Arch 41, London Stone Business Estate, Broughton Street, SW8 3QR",
+        "address": "Arch 41, London Stone Business Estate",
         "latitude": 51.471804,
         "longitude": -0.1508668,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Clapham Common",
-            "Nearest train: Queenstown Road (Battersea), Wandsworth Road",
-            "Bus routes: 137, 156, 452"
+            "Tube: Clapham Common",
+            "Train: Queenstown Road (Battersea), Wandsworth Road",
+            "Bus: 137, 156, 452"
         ]
     },
     "name": "Blackbook Winery",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/7388",
+    "original_url": "https://programme.openhouse.org.uk/listings/7388",
     "ticketed_events": false
 }

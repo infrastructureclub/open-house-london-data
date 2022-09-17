@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Trevor Dannatt",
-                "description": "Original design",
+                "description": null,
                 "year": "1972"
             }
         ],
@@ -18,24 +18,24 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Volunteers will show visitors around throughout the day.",
-            "notes": null,
-            "start": "2022-09-11T12:00:00+01:00",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Toilets",
-            "Refreshments",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Refreshments",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -100,31 +100,27 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4022/building_4022_b55b48c5-ea24-4a30-ae3e-59375ff21bd0_79c1b372306710e1d0bb190b0881d7bc.jpeg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4022_b55b48c5-ea24-4a30-ae3e-59375ff21bd0_79c1b372306710e1d0bb190b0881d7bc.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4022/building_4022_aed51951-fc7d-4f60-8917-f4a8326db150_df06f292ccba52e0c347900b5f6a4454.jpeg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4022_aed51951-fc7d-4f60-8917-f4a8326db150_df06f292ccba52e0c347900b5f6a4454.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4022/building_4022_d1351552-d92e-4eff-b74c-7928e844595e_9fc13ac2c18f4def053338a8bbe3600a.jpeg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4022_d1351552-d92e-4eff-b74c-7928e844595e_9fc13ac2c18f4def053338a8bbe3600a.jpeg"
         }
     ],
     "links": [
         {
-            "href": "http://www.blackheathquakers.org.uk",
-            "title": "Website"
-        },
-        {
-            "href": "https://twitter.com/quakersBH",
-            "title": "@quakersBH"
+            "href": "www.londonquakers.org.uk",
+            "title": null
         }
     ],
     "location": {
@@ -133,11 +129,11 @@
         "longitude": 0.0070563,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Blackheath",
-            "Bus routes: 54, 89, 108, 202, 380, 386"
+            "Train: Blackheath",
+            "Bus: 54, 89, 108, 202, 380, 386"
         ]
     },
     "name": "Blackheath Quaker Meeting House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/4022",
+    "original_url": "https://programme.openhouse.org.uk/listings/4022",
     "ticketed_events": false
 }

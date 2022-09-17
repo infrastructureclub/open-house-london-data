@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Sir Edward Maufe",
-                "description": "Original design",
+                "description": null,
                 "year": "1959"
-            },
-            {
-                "architect": "Stand Engineers",
-                "description": "Restoration",
-                "year": "2022"
             }
         ],
         "periods": [
+            "Stand Engineers",
             "Post-war"
         ],
         "types": [
@@ -23,24 +19,24 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "St Alphege Church, Edmonton",
-            "notes": null,
-            "start": "2022-09-04T11:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Parking",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Parking",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -100,58 +96,53 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7618/building_7618_edmonton_st_alphege130613_4_7ca64ddab00f3c7294680d9b3b93795e.jpg",
-            "description": "",
+            "description": null,
             "title": "East elevation, from Hertford Road",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7618_edmonton_st_alphege130613_4_7ca64ddab00f3c7294680d9b3b93795e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7618/building_7618_st-alphege-church-edmonton_ecc5ec69d372d71e46f4647798b868dc.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7618_st-alphege-church-edmonton_ecc5ec69d372d71e46f4647798b868dc.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7618/building_7618_internal-front_072a85710df28eef00ed4a2b69ad015a.jpg",
-            "description": "",
+            "description": null,
             "title": "Inside the church, looking east",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7618_internal-front_072a85710df28eef00ed4a2b69ad015a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7618/building_7618_internal-rear_fde1326a51544effa9fc4d6df51c486c.jpg",
-            "description": "",
+            "description": null,
             "title": "Inside the church, looking west",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7618_internal-rear_fde1326a51544effa9fc4d6df51c486c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7618/building_7618_img_5207_dfc6a33c3d1b455a1fff378b30bfa9b1.jpg",
-            "description": "Stuart Tappin · 2022",
+            "description": null,
             "title": "East window statue",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7618_img_5207_dfc6a33c3d1b455a1fff378b30bfa9b1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7618/building_7618_img_5208_9151ad721b7284232a92c2fcaaf63c49.jpg",
-            "description": "Stuart Tappin · 2022",
+            "description": null,
             "title": "Detail of the statue of Christ the King",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7618_img_5208_9151ad721b7284232a92c2fcaaf63c49.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.facebook.com/stalphegeedmonton/",
-            "title": "Website"
-        }
-    ],
+    "links": [],
     "location": {
-        "address": "Rossdale Drive/Hertford Road, , Lower Edmonton, , London, , N9 7LG",
+        "address": "Rossdale Drive/Hertford Road, , Lower Edmonton",
         "latitude": 51.6266746,
         "longitude": -0.0570319,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Edmonton Green, Ponders End, Southbury",
-            "Bus routes: 279, 349, 491, 191, 377"
+            "Train: Edmonton Green, Ponders End, Southbury",
+            "Bus: 279, 349, 491, 191, 377"
         ]
     },
     "name": "St Alphege Church, Edmonton",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/7618",
+    "original_url": "https://programme.openhouse.org.uk/listings/7618",
     "ticketed_events": false
 }

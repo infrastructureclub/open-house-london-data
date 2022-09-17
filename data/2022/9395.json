@@ -4,12 +4,28 @@
     "design": {
         "designers": [
             {
-                "architect": "Studio Sardar, Project Bunny Rabbit,  Thomas Randall-Page and Benedetta Rogers, Jamie Shorten",
-                "description": "Original design",
+                "architect": "Studio Sardar",
+                "description": null,
+                "year": "2017"
+            },
+            {
+                "architect": "Project Bunny Rabbit",
+                "description": null,
+                "year": "2017"
+            },
+            {
+                "architect": "Thomas Randall-Page and Benedetta Rogers",
+                "description": null,
+                "year": "2017"
+            },
+            {
+                "architect": "Jamie Shorten",
+                "description": null,
                 "year": "2017"
             }
         ],
         "periods": [
+            " Thomas Randall-Page and Benedetta Rogers",
             "Historical/contemporary"
         ],
         "types": [
@@ -23,35 +39,23 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Hoxton Docks Open House",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Hoxton Docks Open House",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T14:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T19:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T13:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Bookshop",
-            "Toilets"
-        ]
+        "Bookshop",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -98,45 +102,45 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9395/building_9395_peter-brooks_-ptrbrks_pavilion1_2c2d8dc040d087d6aad5f0e94066fafa.jpg",
-            "description": "Peter Brooks · 2021",
+            "description": null,
             "title": "All Along the Watchtower",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9395_peter-brooks_-ptrbrks_pavilion1_2c2d8dc040d087d6aad5f0e94066fafa.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9395/building_9395_antepavilion2-jimstephenson-11-webres_8b13780383a7d8bb74f9b91bb2c218bf.jpg",
-            "description": "Jim Stephenson · 2018",
+            "description": null,
             "title": "AirDraft inflated",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9395_antepavilion2-jimstephenson-11-webres_8b13780383a7d8bb74f9b91bb2c218bf.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9395/building_9395_img_2841-2_ea67913307da7e32fe39bef38ab15d4d.jpeg",
-            "description": "2022",
+            "description": null,
             "title": "Antechamber",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9395_img_2841-2_ea67913307da7e32fe39bef38ab15d4d.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9395/building_9395_274841973_358488325956733_2388749822426436889_n_23ba9b740d21da1d1bcf7c79554bf55b.jpg",
-            "description": "2022",
+            "description": null,
             "title": "Projection of Regent's Canal produced by Antechamber",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9395_274841973_358488325956733_2388749822426436889_n_23ba9b740d21da1d1bcf7c79554bf55b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9395/building_9395_166676334_878855519345339_6759784143630396758_n_e01956aa8390b3afd8c8066f4d712245.jpg",
-            "description": "2021",
+            "description": null,
             "title": "Sharks! in the City Road Basin",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9395_166676334_878855519345339_6759784143630396758_n_e01956aa8390b3afd8c8066f4d712245.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9395/building_9395_1_97a8dd1b4762b7730dcab5965b752a89.jpg",
-            "description": "",
+            "description": null,
             "title": "Priti Patel inspecting a tensegrity structure ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9395_1_97a8dd1b4762b7730dcab5965b752a89.jpg"
         }
     ],
     "links": [
         {
-            "href": "https://antepavilion.org/",
-            "title": "Website"
+            "href": "https://www.youtube.com/watch?v=_8xhdL8BPvU",
+            "title": null
         }
     ],
     "location": {
@@ -145,10 +149,10 @@
         "longitude": -0.0712453,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Haggerston"
+            "Train: Haggerston"
         ]
     },
     "name": "Hoxton Docks",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9395",
+    "original_url": "https://programme.openhouse.org.uk/listings/9395",
     "ticketed_events": false
 }

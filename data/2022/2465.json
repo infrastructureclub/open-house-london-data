@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "James Wild and Owen Jones",
-                "description": "Original design",
+                "description": null,
                 "year": "1841"
             }
         ],
@@ -18,36 +18,38 @@
     },
     "events": [
         {
+            "activity_type": "An opportunity to look at aspects of the various refurbishment programmes that have taken place in recent years.",
             "all_day": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2465",
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Explore Christ Church, Streatham",
-            "notes": "Children's Quiz and Adult Quiz sheets will be available. The quiz can be taken independently, at your own speed. Live organ music playing at intervals  throughout the weekend.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Self-guided tours of the church available all day. A free quiz for children.",
+            "notes": null,
+            "start": "2022-09-17T09:30:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "An opportunity to look at aspects of the various refurbishment programmes that have taken place in recent years.",
             "all_day": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2465",
             "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:30:00+01:00",
-            "fully_booked": null,
-            "name": "Explore Christ Church, Streatham",
-            "notes": "Children's Quiz and Adult Quiz sheets will be available. The quiz can be taken independently, at your own speed. Live organ music playing at intervals throughout the weekend.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": false
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Self-guided tours of the church available all day. A free quiz for children.",
+            "notes": null,
+            "start": "2022-09-18T13:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Refreshments",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -106,120 +108,125 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_streatham_christ_church061114_11-4_d8faf29a3b0465d4338a99bdd848ff90.jpg",
-            "description": "Steven Hilton · 2018",
+            "description": null,
             "title": "View from Christchurch Road",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_streatham_christ_church061114_11-4_d8faf29a3b0465d4338a99bdd848ff90.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_apse-sh_bbf60a5112bd7e97f49638c6a3a7147b.jpg",
-            "description": "Steven Hilton · 2017",
+            "description": null,
             "title": "Apse showing mosaics",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_apse-sh_bbf60a5112bd7e97f49638c6a3a7147b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_christ-church-from-palace-road-sh_1b80d2df191c2f850753240dfcc663f4.jpg",
-            "description": "Steven Hilton · 2017",
+            "description": null,
             "title": "View from Palace Road",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_christ-church-from-palace-road-sh_1b80d2df191c2f850753240dfcc663f4.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_high-altar-sh_df9823f55ab85a942f4f74e9b0c1a962.jpg",
-            "description": "Steven Hilton · 2017",
+            "description": null,
             "title": "High Altar",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_high-altar-sh_df9823f55ab85a942f4f74e9b0c1a962.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_mosaics-in-apse-sh_0959d699e403885474d493266d50fa9e.jpg",
-            "description": "Steven Hilton · 2017",
+            "description": null,
             "title": "Apse showing mosaics",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_mosaics-in-apse-sh_0959d699e403885474d493266d50fa9e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_apse-ceiling-and-windows-ldc_85b77464629ddf8c59f0c8b1d31e0570.jpg",
-            "description": "Lauren Downie-Campbell · 2015",
+            "description": null,
             "title": "Ceiling mosaics in Apse",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_apse-ceiling-and-windows-ldc_85b77464629ddf8c59f0c8b1d31e0570.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_baptistry-and-john-hayward-s-window_1184bd08b62f4a3b9557ecbdb5ca7075.jpg",
-            "description": "Lauren Downie-Campbell · 2015",
+            "description": null,
             "title": "Baptistry and John Hayward's window",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_baptistry-and-john-hayward-s-window_1184bd08b62f4a3b9557ecbdb5ca7075.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_craven-window-wn_056e52102a5270bb8b2b30dbe676ea4e.jpg",
-            "description": "Lauren Downie-Campbell · 2015",
+            "description": null,
             "title": "Walter Craven window 'weep not'",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_craven-window-wn_056e52102a5270bb8b2b30dbe676ea4e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_detail-on-capitals-at-top-of-columns_ebc2b53225f49f055881185fca3c02c7.jpg",
-            "description": "Lauren Downie-Campbell · 2015",
+            "description": null,
             "title": "Detail of Capitals on top of columns",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_detail-on-capitals-at-top-of-columns_ebc2b53225f49f055881185fca3c02c7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_entrance-to-southside-gallery_2c8f9a64e6328268d4fed0aff3ff24ab.jpg",
-            "description": "Lauren Downie-Campbell · 2015",
+            "description": null,
             "title": "Brickwork example at entrance to south gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_entrance-to-southside-gallery_2c8f9a64e6328268d4fed0aff3ff24ab.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_entrance_eb51d2aa16cb45ad008ecb10edfbac98.jpg",
-            "description": "Lauren Downie-Campbell · 2015",
+            "description": null,
             "title": "Psalm above entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_entrance_eb51d2aa16cb45ad008ecb10edfbac98.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_john-hayward-s-first-window_a4c99d85dea2d1296e979d6b41d6675f.jpg",
-            "description": "Lauren Downie-Campbell · 2015",
+            "description": null,
             "title": "John Hayward's first window",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_john-hayward-s-first-window_a4c99d85dea2d1296e979d6b41d6675f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_john-hayward-s-work_f5a1d4f9991505f3dc7ffd5b994563b6.jpg",
-            "description": "Lauren Downie-Campbell · 2015",
+            "description": null,
             "title": "Window and decoration by John Hayward",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_john-hayward-s-work_f5a1d4f9991505f3dc7ffd5b994563b6.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_open-house-banner_749ef64ea4748f846dd721f861f4c019.jpg",
-            "description": "Lauren Downie-Campbell · 2015",
+            "description": null,
             "title": "West Entrance of Christ Church",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_open-house-banner_749ef64ea4748f846dd721f861f4c019.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_20130922_143423_38f8c326f2ccb96fdc4648b3eaee383f.jpg",
-            "description": "Lauren Downie-Campbell · 2013",
+            "description": null,
             "title": "Organ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_20130922_143423_38f8c326f2ccb96fdc4648b3eaee383f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_christ-church-interior-2010_6c65c940d0cee108a4a3728448c737db.jpg",
-            "description": "Steven Hilton · 2017",
+            "description": null,
             "title": "High Altar and mosaics",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_christ-church-interior-2010_6c65c940d0cee108a4a3728448c737db.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2465/building_2465_main-entrance_523ab0677e74789fbb390c9b16970d2c.jpg",
-            "description": "L. E. Downie-Campbell · 2012",
+            "description": null,
             "title": "Main entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2465_main-entrance_523ab0677e74789fbb390c9b16970d2c.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "www.christchurchstreatham.org",
+            "title": null
+        }
+    ],
     "location": {
         "address": "3 Christchurch Road, Streatham, SW2 3ET",
         "latitude": 51.4444384,
         "longitude": -0.1224151,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Brixton",
-            "Nearest train: Streatham Hill, Tulse Hill",
-            "Bus routes: 59, 109, 250, 133, 201"
+            "Tube: Brixton",
+            "Train: Streatham Hill, Tulse Hill",
+            "Bus: 59, 109, 250, 133, 201"
         ]
     },
     "name": "Christ Church, Streatham",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2465",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/2465",
+    "ticketed_events": true
 }

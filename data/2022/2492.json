@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "George Dance the Elder",
-                "description": "Original design",
+                "description": null,
                 "year": "1744"
             }
         ],
@@ -16,110 +16,11 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T10:30:00+01:00",
-            "fully_booked": null,
-            "name": "Bell ringing talk",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:00:00+01:00",
-            "fully_booked": null,
-            "name": "Bell ringing talk",
-            "notes": null,
-            "start": "2022-09-04T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:30:00+01:00",
-            "fully_booked": null,
-            "name": "Bell ringing talk",
-            "notes": null,
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Bell ringing talk",
-            "notes": null,
-            "start": "2022-09-04T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T14:30:00+01:00",
-            "fully_booked": null,
-            "name": "Bell ringing talk",
-            "notes": null,
-            "start": "2022-09-04T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Bell ringing talk",
-            "notes": null,
-            "start": "2022-09-04T14:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Bell ringing talk",
-            "notes": null,
-            "start": "2022-09-04T15:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Bell ringing talk",
-            "notes": null,
-            "start": "2022-09-04T15:30:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Refreshments",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -153,36 +54,65 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2492/building_2492_st-botolphs01_f6dcfe772691546b9b1bdbff1bfd37eb.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2492_st-botolphs01_f6dcfe772691546b9b1bdbff1bfd37eb.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2492/building_2492_st-botolphs03_0c83ef332c91986322bd1705c89ab955.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2492_st-botolphs03_0c83ef332c91986322bd1705c89ab955.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2492/building_2492_st-botolphs02_aa02d9c9c6d0c48f0eec75abe8218362.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2492_st-botolphs02_aa02d9c9c6d0c48f0eec75abe8218362.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "www.cccbr.org.uk",
+            "title": null
+        },
+        {
+            "href": "http://www.bellringing.london/",
+            "title": null
+        },
+        {
+            "href": "www.kcacr.org.uk",
+            "title": null
+        },
+        {
+            "href": "www.hcacr.org.uk",
+            "title": null
+        },
+        {
+            "href": "www.eacr.org.uk",
+            "title": null
+        },
+        {
+            "href": "www.surreybellringers.org.uk",
+            "title": null
+        },
+        {
+            "href": "www.cccbr.org.uk",
+            "title": null
+        }
+    ],
     "location": {
-        "address": "St Botolph's Church, Aldgate High Street, EC3N 1AB",
+        "address": "St Botolph's Church, Aldgate High Street",
         "latitude": 51.5140611,
         "longitude": -0.0764628,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Aldgate, Aldgate East",
-            "Nearest train: Fenchurch Street, Liverpool Street",
-            "Bus routes: 100, 15, 25, 42, 78, 135, 205, 242, 343, 254, 115"
+            "Tube: Aldgate, Aldgate East",
+            "Train: Fenchurch Street, Liverpool Street",
+            "Bus: 100, 15, 25, 42, 78, 135, 205, 242, 343, 254, 115"
         ]
     },
     "name": "Bells and Belfries at St Botolph Aldgate",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2492",
+    "original_url": "https://programme.openhouse.org.uk/listings/2492",
     "ticketed_events": false
 }

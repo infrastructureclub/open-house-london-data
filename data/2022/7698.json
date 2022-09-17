@@ -4,12 +4,24 @@
     "design": {
         "designers": [
             {
-                "architect": "Rosemary Stjernstedt, Oliver Cox, LCC",
-                "description": "Original design",
+                "architect": "Rosemary Stjernstedt",
+                "description": null,
+                "year": "1950"
+            },
+            {
+                "architect": "Oliver Cox",
+                "description": null,
+                "year": "1950"
+            },
+            {
+                "architect": "LCC",
+                "description": null,
                 "year": "1950"
             }
         ],
         "periods": [
+            " Oliver Cox",
+            " LCC",
             "Post-war"
         ],
         "types": [
@@ -21,22 +33,25 @@
     },
     "events": [
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-04",
-            "end": "2022-09-04T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "Lunchtime Q & A at Cafe Joy",
+            "booking_link": "https://programme.openhouse.org.uk/listings/7698",
+            "capacity": null,
+            "date": "2022-09-21",
+            "drop_in": false,
+            "end": "2022-09-21T20:00:00+01:00",
+            "fully_booked": false,
+            "name": "Alton Estate walk with Miriam Howitt (tbc)",
             "notes": null,
-            "start": "2022-09-04T13:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-21T18:30:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Architect on site"
-        ]
+        "Toilets",
+        "Refreshments",
+        "Parking",
+        "Architect on site"
     ],
     "factsheet": [
         {
@@ -54,69 +69,60 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7698/building_7698_slab-block-highcliffe-drive-angus-r-1_91559a6b9b161d0b902dbf1bf33a3268.jpg",
-            "description": "Alesa Tonette · 2020",
+            "description": null,
             "title": "Slab Block Highcliffe Drive",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7698_slab-block-highcliffe-drive-angus-r-1_91559a6b9b161d0b902dbf1bf33a3268.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7698/building_7698_160618-22-medium_766b4277aacd46e163fd2883118dc05e.JPG",
-            "description": "Altonwatch.org.uk · 2016",
+            "description": null,
             "title": "View from one of the flats ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7698_160618-22-medium_766b4277aacd46e163fd2883118dc05e.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7698/building_7698_danebury-avenue-maisonettes-demolition-zone-at_0a40dfa16053f45adffa4451ad0a52f1.jpg",
-            "description": "Alesa Tonette · 2020",
+            "description": null,
             "title": "Maisonettes on Danebury Avenue",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7698_danebury-avenue-maisonettes-demolition-zone-at_0a40dfa16053f45adffa4451ad0a52f1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7698/building_7698_bungalows-for-the-elderly-2-minstead-gardens-at_544189f77fd2feb5d1b6146820d23c75.jpg",
-            "description": "Alesa Tonette · 2020",
+            "description": null,
             "title": "Minstead Gardens, Bungalows for the Elderly",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7698_bungalows-for-the-elderly-2-minstead-gardens-at_544189f77fd2feb5d1b6146820d23c75.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7698/building_7698_winchfield-house-highcliffe-drive_5d18f2ca6bdd42436ea99781d8de7bed.jpg",
-            "description": "Alesa Tonette · 2020",
+            "description": null,
             "title": "Winchfield House,  Highcliffe Drive",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7698_winchfield-house-highcliffe-drive_5d18f2ca6bdd42436ea99781d8de7bed.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7698/building_7698_mainsonettes-harbrisge-avenue-2_2cd69cfeefd563783ec72d83a99dfb96.jpg",
-            "description": "Alesa Tonette · 2020",
+            "description": null,
             "title": "Maisonettes, Harbridge Avenue ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7698_mainsonettes-harbrisge-avenue-2_2cd69cfeefd563783ec72d83a99dfb96.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7698/building_7698_albrook-house-2_1f14420b54e7c7a00d95305979ce261b.jpg",
-            "description": "Alesa Tonette · 2020",
+            "description": null,
             "title": "Albrook House",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7698_albrook-house-2_1f14420b54e7c7a00d95305979ce261b.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "http://www.altonwatch.org.uk",
-            "title": "Website"
-        },
-        {
-            "href": "https://twitter.com/altonwatch",
-            "title": "@altonwatch"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "49 Danebury Avenue, Roehampton, SW15 4DQ",
         "latitude": 51.4495974,
         "longitude": -0.242327,
-        "meeting_point": "Cafe Joy",
+        "meeting_point": null,
         "travel_info": [
-            "Nearest tube: East Putney",
-            "Nearest train: Putney",
-            "Bus routes: 170, 430"
+            "Tube: East Putney",
+            "Train: Putney",
+            "Bus: 170, 430"
         ]
     },
     "name": "Alton Estate",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/7698",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/7698",
+    "ticketed_events": true
 }

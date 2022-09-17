@@ -5,21 +5,14 @@
         "designers": [
             {
                 "architect": "Sir Edward M. Barry",
-                "description": "Original design",
+                "description": null,
                 "year": "1858"
-            },
-            {
-                "architect": "Jeremy Dixon, Building Design Partnership (BDP)",
-                "description": "Refurbishment",
-                "year": "1997"
-            },
-            {
-                "architect": "Stanton Williams Architects",
-                "description": "Refurbishment",
-                "year": "2018"
             }
         ],
         "periods": [
+            "Building Design Partnership (BDP)",
+            "Jeremy Dixon",
+            "Stanton Williams Architects",
             "Historical/contemporary",
             "Victorian",
             "Contemporary"
@@ -30,40 +23,13 @@
             "concert/performance space"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 600,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:30:00+01:00",
-            "fully_booked": null,
-            "name": "ROH Open House",
-            "notes": "Journey through time and enjoy some of the stunning front of house spaces in one of the worlds most celebrated theatres. Enter via the 21st century, through our newly refurbished main entrance, and quickly travel back in time to 1858 via the grand staircase and legendary Crush Room. Transition through time in the ever-evolving Paul Hamlyn Hall and ascend to take a peek inside a ballet studio. Be sure to take a moment to soak up the atmosphere, peruse our art work and enjoy items created by members of the Royal Opera House’s production departments. Watch short musical performances in the Paul Hamlyn Hall on the hour every hour from 11-4.",
-            "start": "2022-09-04T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 600,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:30:00+01:00",
-            "fully_booked": null,
-            "name": "ROH Open House",
-            "notes": "Journey through time and enjoy some of the stunning front of house spaces in one of the worlds most celebrated theatres. Enter via the 21st century, through our newly refurbished main entrance, and quickly travel back in time to 1858 via the grand staircase and legendary Crush Room. Transition through time in the ever-evolving Paul Hamlyn Hall and ascend to take a peek inside a ballet studio. Be sure to take a moment to soak up the atmosphere, peruse our art work and enjoy items created by members of the Royal Opera House’s production departments. Watch short musical performances in the Paul Hamlyn Hall on the hour every hour from 11-4.",
-            "start": "2022-09-05T10:30:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Bookshop",
-            "Disabled access",
-            "Refreshments",
-            "Toilets",
-            "Family activities during open house festival"
-        ]
+        "Bookshop",
+        "Disabled access",
+        "Refreshments",
+        "Toilets",
+        "Family activities"
     ],
     "factsheet": [
         {
@@ -106,13 +72,14 @@
         {
             "heading": "Tours - 10 &11th September",
             "paragraphs": [
-                "Tours run across the weekend (10-11 September) and last 30 minutes each. They explore the architecture of our world-famous building and its transformation over the centuries – and reveal how the historic and the contemporary connect seamlessly to create an epic urban set piece, the experience of which is as exhilarating as the action taking place on and off-stage. Over the weekend (10th and 11th September), visitors are also welcome to explore the Royal Opera House’s Front of House spaces, make use of an exclusive 10% discount in the Shop and a 20% discount on food and drink in the Café. Future tours can be booked for just £10 if tickets are purchased on the 10th or 11th September."
+                "Tours run across the weekend (10-11 September) and last 30 minutes each. They explore the architecture of our world-famous building and its transformation over the centuries – and reveal how the historic and the contemporary connect seamlessly to create an epic urban set piece, the experience of which is as exhilarating as the action taking place on and off-stage. Over the weekend (10th and 11th September), visitors are also welcome to explore the Royal Opera House’s Front of House spaces, and make use of an exclusive 10% discount in the Shop (if ‘Open House’ is quoted at the till) and a 20% discount on food and drink in the Café. Future tours can be booked for just £10 if tickets are purchased in person on the 10th or 11th September."
             ]
         },
         {
             "heading": "Drop In - 10th & 11th September",
             "paragraphs": [
-                "Have your moment in the spotlight and 'take a bow' on our Linbury Theatre stage – an exclusive experience never offered before. There is no need to book to attend this event, which will run over 10-11 September, but visitors should expect to queue. Admittance cannot be guaranteed and is dependent on maximum capacity. Over the weekend (10th and 11th September), visitors are also welcome to explore the Royal Opera House’s Front of House spaces, make use of an exclusive 10% discount in the Shop and a 20% discount on food and drink in the Café. They can also purchase discounted tickets for future tours."
+                "We are no longer hosting our Linbury Theatre event this weekend as part of the Open House Festival. However our building remains open from 10am to 6pm for you to come and visit. You can explore our iconic building and the shop, café and box office are open, all with offers when you quote “Open House”, in person only. Our Tours are all going ahead.",
+                "Over the weekend (10th and 11th September), visitors are also welcome to explore the Royal Opera House’s Front of House spaces, Make use of an exclusive 10% discount in the Shop (if ‘Open House’ is quoted at the till) and a 10% discount on food and drink in the Café. Future tours can be booked for just £10 if tickets are purchased in person on the 10th or 11th September."
             ]
         }
     ],
@@ -120,31 +87,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1550/building_1550_royal-opera-house-exterior-2018-roh-photograph-by-luke-hayes_97be13210edc854233e6adb4e37ef5f7.jpg",
-            "description": "Luke Hayes · 2018",
+            "description": null,
             "title": "Royal Opera House exterior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1550_royal-opera-house-exterior-2018-roh-photograph-by-luke-hayes_97be13210edc854233e6adb4e37ef5f7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1550/building_1550_royal-opera-house-new-exterior-2018-roh-photograph-by-luke-hayes_35db66d3222676b65db5ec46538540fc.jpg",
-            "description": "Luke Hayes  · 2018",
+            "description": null,
             "title": "Royal Opera House new exterior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1550_royal-opera-house-new-exterior-2018-roh-photograph-by-luke-hayes_35db66d3222676b65db5ec46538540fc.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1550/building_1550_screen-shot-2020-07-23-at-11-55-54_c2b020a943e0a4ed5d8c99ce86319cb2.png",
-            "description": "James Bellorini · 2018",
+            "description": null,
             "title": "ROH Front of house spaces",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1550_screen-shot-2020-07-23-at-11-55-54_c2b020a943e0a4ed5d8c99ce86319cb2.png"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1550/building_1550_joseph-sissens-and-olivia-cowley-in-the-linbury-foyer-2018-roh-photograph-by-luke-hayes_43f50b0edac0f3212eb88063f879edbe.jpg",
-            "description": "ROH. Photograph by Luke Hayes · 2018",
+            "description": null,
             "title": "Joseph Sissens and Olivia Cowley in the Linbury Foyer",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1550_joseph-sissens-and-olivia-cowley-in-the-linbury-foyer-2018-roh-photograph-by-luke-hayes_43f50b0edac0f3212eb88063f879edbe.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1550/building_1550_paul-hamlyn-hall-interior-2018-roh-photograph-by-luke-hayes_f5bea0ea8da0c45467bffd72b5707968.jpg",
-            "description": "ROH. Photograph by Luke Hayes · 2018",
+            "description": null,
             "title": "Paul Hamlyn Hall interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1550_paul-hamlyn-hall-interior-2018-roh-photograph-by-luke-hayes_f5bea0ea8da0c45467bffd72b5707968.jpg"
         }
@@ -156,11 +123,11 @@
         "longitude": -0.1221976,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Holborn, Leicester Square, Covent Garden",
-            "Nearest train: Charing Cross"
+            "Tube: Holborn, Leicester Square, Covent Garden",
+            "Train: Charing Cross"
         ]
     },
     "name": "Royal Opera House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1550",
+    "original_url": "https://programme.openhouse.org.uk/listings/1550",
     "ticketed_events": false
 }

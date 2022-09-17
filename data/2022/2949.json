@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1540"
             }
         ],
@@ -17,20 +17,7 @@
             "online"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T23:00:00+01:00",
-            "fully_booked": null,
-            "name": "Virtual Tour",
-            "notes": "Virtual Tour",
-            "start": "2022-09-04T07:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -64,16 +51,16 @@
     "id": 2949,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2949/building_2949_img_0773_70116678883d1b32613da7d9429aa617.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2949/building_2949_img_0773_023bec33b422e54a9def13a680595fec.JPG",
             "description": null,
             "title": "Coombe Conduit",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_2949_img_0773_70116678883d1b32613da7d9429aa617.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2949_img_0773_023bec33b422e54a9def13a680595fec.JPG"
         }
     ],
     "links": [
         {
-            "href": "http://www.kingstonhistoryresearch.co.uk ",
-            "title": "Virtual Tour available here"
+            "href": "www.kingstonhistoryresearch.co.uk",
+            "title": null
         }
     ],
     "location": {
@@ -82,11 +69,11 @@
         "longitude": -0.2638856,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Kingston, Wimbledon, Raynes Park, Norbiton",
-            "Bus routes: 57"
+            "Train: Kingston, Wimbledon, Raynes Park, Norbiton",
+            "Bus: 57"
         ]
     },
     "name": "Coombe Conduit",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2949",
+    "original_url": "https://programme.openhouse.org.uk/listings/2949",
     "ticketed_events": false
 }

@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Mae Architects",
-                "description": "Original design",
+                "description": null,
                 "year": "2020"
             }
         ],
@@ -18,31 +18,59 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Explore and chat to the Design Team",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
+            "capacity": 60,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 60,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 60,
+            "date": "2022-09-20",
+            "drop_in": true,
+            "end": "2022-09-20T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-20T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Architect on site",
-            "Disabled access",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Architect on site",
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
             "heading": "Intro",
             "paragraphs": [
-                "Mæ’s Sands End Arts and Community Centre is a welcome addition for the local community in Fulham, London. Sited beside the historic Clancarty Lodge in the north western corner of South Park, the centre caters to a wide range of users, providing a café alongside spaces for social and educational functions, clubs and events.",
+                "Mæ’s Sands End Arts & Community Centre is a welcome addition for the local community in Fulham, London. Sited beside the historic Clancarty Lodge in the north western corner of South Park, the centre caters to a wide range of users, providing a café alongside spaces for social and educational functions, clubs and events.",
                 "Hammersmith and Fulham Council’s ambitious brief sought to deliver community facilities that promoted social integration within the community. Mæ have delivered on the council’s aspirations, with a building that blends together several programmatic elements within a highly sustainable shell, and brings a former maintenance yard back into productive use."
             ]
         },
@@ -76,31 +104,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9662/building_9662_03_rorygardiner1421c_01_5052ba25d9f27904a430d0a6e956337d.jpg",
-            "description": "Rory Gardiner · 2021",
+            "description": null,
             "title": "The community centre's external envelope made out of recycled bricks from construction waste, in line with the environmental aspirations.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9662_03_rorygardiner1421c_01_5052ba25d9f27904a430d0a6e956337d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9662/building_9662_j6307_n14_high_60de25f896f64ecab517312170b7e39a.jpg",
-            "description": "Rory Gardiner · 2021",
+            "description": null,
             "title": "The project included refurbishing an existing historical lodge adjacent to the new buildings.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9662_j6307_n14_high_60de25f896f64ecab517312170b7e39a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9662/building_9662_j6307_n11_high_c07ce7e477c6bf423d5f02cfff6b837d.jpg",
-            "description": "Rory Gardiner · 2021",
+            "description": null,
             "title": "Full height glazing is protected from glare with a deep overhang on the garden side.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9662_j6307_n11_high_c07ce7e477c6bf423d5f02cfff6b837d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9662/building_9662_j6307_n12_high_b74f375e3f79dc84d5c3af8951b29be8.jpg",
-            "description": "Rory Gardiner · 2021",
+            "description": null,
             "title": "Flexibility has been a key element of the brief for the adaptable spaces.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9662_j6307_n12_high_b74f375e3f79dc84d5c3af8951b29be8.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9662/building_9662_j6307_n13_high_bf6a4a1f51ce2a339e678adcdd3fb7a5.jpg",
-            "description": "Rory Gardiner · 2021",
+            "description": null,
             "title": "Clerestory provides natural light and a link to the outdoors. Natural materials have been chosen throughout to echo surrounding environment. Services run in a buried trench to avoid disrupting the lines of exposed CLT elements.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9662_j6307_n13_high_bf6a4a1f51ce2a339e678adcdd3fb7a5.jpg"
         }
@@ -112,12 +140,12 @@
         "longitude": -0.1939309,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Parsons Green, Putney Bridge",
-            "Nearest train: Wandsworth Town, Putney",
-            "Bus routes: 424, 295, 28, C3"
+            "Tube: Parsons Green, Putney Bridge",
+            "Train: Wandsworth Town, Putney",
+            "Bus: 424, 295, 28, C3"
         ]
     },
-    "name": "Sands End Arts and Community Centre",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9662",
+    "name": "Sands End Arts & Community Centre",
+    "original_url": "https://programme.openhouse.org.uk/listings/9662",
     "ticketed_events": false
 }

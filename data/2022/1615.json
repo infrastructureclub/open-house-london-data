@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Walter Segal",
-                "description": "Original design",
+                "description": null,
                 "year": "1987"
             }
         ],
@@ -18,83 +18,23 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 20,
-            "date": "2022-09-05",
-            "end": "2022-09-05T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Films on Self building shown in street",
-            "notes": "Outdoors. Old films of Segal self building, including Walters way shown on a loop, 20 minutes per loop",
-            "start": "2022-09-05T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Two Houses open",
-            "notes": "10 people at any one time. Three steps to each house. Ground floors open, one house has one upstairs rooms open.",
-            "start": "2022-09-05T12:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Walter Segal Selfbuilt Architect Book Launch",
-            "notes": null,
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T14:30:00+01:00",
-            "fully_booked": null,
-            "name": "Walter Segal Selfbuilt Architect Authors Talk",
-            "notes": "Outdoors. Author Alice Grahame in conversation with Tim Oshodi, selfbuilder with Fusions Jameen, London’s first black-led housing co-opVisitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Walter Segal Selfbuilt Architect Authors Talk",
-            "notes": "Outdoors. Author Alice Grahame in conversation with 3pm John McKean, architectural historian and co-author of Walter Segal Selfbuilt Architect (via video)Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T15:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:30:00+01:00",
-            "fully_booked": null,
-            "name": "Walter Segal Selfbuilt Architect Authors Talk",
-            "notes": "Outdoors. Author Alice Grahame in conversation with Nicholas Taylor, Lewisham Councillor during the self-build period.",
-            "start": "2022-09-05T16:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T12:30:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -144,33 +84,41 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1615/building_1615_img_0409_bdf278f572d5a34148739c62cec7638d.jpg",
-            "description": "Ian White  · 2015",
+            "description": null,
             "title": "rear of house",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1615_img_0409_bdf278f572d5a34148739c62cec7638d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1615/building_1615_img_0406_0d908e76899862b02de7119714473007.jpg",
-            "description": "Ian White · 2015",
+            "description": null,
             "title": "half way up the street",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1615_img_0406_0d908e76899862b02de7119714473007.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1615/building_1615_ten_eight_b8f7aacdd4959ac938861309af89f29b.jpg",
-            "description": "Ian White · 2021",
+            "description": null,
             "title": "Renovated Segal house",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1615_ten_eight_b8f7aacdd4959ac938861309af89f29b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1615/building_1615_seven_five_10ecf8115b92a65e6a2d7c401bd2f3fe.jpg",
-            "description": "Ian White · 2021",
+            "description": null,
             "title": "Two Houses in Walters Way",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1615_seven_five_10ecf8115b92a65e6a2d7c401bd2f3fe.jpg"
         }
     ],
     "links": [
         {
-            "href": "https://www.youtube.com/watch?v=ZmiV5oiPNcs",
-            "title": "Open House Film"
+            "href": "www.segalselfbuild.co.uk",
+            "title": null
+        },
+        {
+            "href": "www.segalbuildings.me.uk",
+            "title": null
+        },
+        {
+            "href": "https://www.lundhumphries.com/products/walter-segal",
+            "title": null
         }
     ],
     "location": {
@@ -179,11 +127,11 @@
         "longitude": -0.0503453,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Honor Oak Park",
-            "Bus routes: P4, P12, 171, 172, 122"
+            "Train: Honor Oak Park",
+            "Bus: P4, P12, 171, 172, 122"
         ]
     },
-    "name": "Walter Segal Self-build Houses ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1615",
+    "name": "Walter Segal Self-build Houses",
+    "original_url": "https://programme.openhouse.org.uk/listings/1615",
     "ticketed_events": false
 }

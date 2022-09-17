@@ -4,48 +4,27 @@
     "design": {
         "designers": [
             {
-                "architect": "Crabtree, Slater & Moberley",
-                "description": "Original design",
+                "architect": "Crabtree",
+                "description": null,
+                "year": "1936"
+            },
+            {
+                "architect": "Slater & Moberley",
+                "description": null,
                 "year": "1936"
             }
         ],
         "periods": [
+            " Slater & Moberley",
             "Historical/contemporary"
         ],
         "types": [
             "retail"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Peter Jones",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Peter Jones",
-            "notes": null,
-            "start": "2022-09-05T12:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -88,43 +67,43 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1756/building_1756_jlpeterjones1-resized_a323d0f1114b551ac01d1692d2409c2e.jpg",
-            "description": "John Lewis Partnership · 2006",
+            "description": null,
             "title": "View from Symons Street",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1756_jlpeterjones1-resized_a323d0f1114b551ac01d1692d2409c2e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1756/building_1756_peter-jones-exterior-2014_994c66f69d4c59d23d998b376850c32a.jpeg",
-            "description": "John Lewis Partnership · 2014",
+            "description": null,
             "title": "View of 'curtain wall' from Sloane Square",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1756_peter-jones-exterior-2014_994c66f69d4c59d23d998b376850c32a.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1756/building_1756_pj-exterior-jpg-24-04-2017_e2bb3d60ba210deba4a50a53675df65e.jpg",
-            "description": "John Lewis Partnership · 2017",
+            "description": null,
             "title": "Close up of Peter Jones signage from Sloane Square",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1756_pj-exterior-jpg-24-04-2017_e2bb3d60ba210deba4a50a53675df65e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1756/building_1756_pj-mosaic-jpg-24-04-2017_44b4ace5b88de9914236716b822aae84.jpg",
-            "description": "John Lewis Partnership · 2017",
+            "description": null,
             "title": "Mosaic containing links to the Founder of the John Lewis Partnership",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1756_pj-mosaic-jpg-24-04-2017_44b4ace5b88de9914236716b822aae84.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1756/building_1756_13680723_1008539625867731_8785992884641165493_n_f80513884a8c176a827bbef09dab1b4d.jpg",
-            "description": "Jamie Dean  · 2017",
+            "description": null,
             "title": "View of Peter Jones from Sloane Square ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1756_13680723_1008539625867731_8785992884641165493_n_f80513884a8c176a827bbef09dab1b4d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1756/building_1756_img_9789_09931f4d3c7d67e1b574ed9d2a216a69.JPG",
-            "description": "Jamie Dean  · 2018",
+            "description": null,
             "title": "View of Peter Jones at Night from Sloane Square ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1756_img_9789_09931f4d3c7d67e1b574ed9d2a216a69.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1756/building_1756_img_1033_e0295895b67f1ff9fc23c5414a2b523a.JPG",
-            "description": "Jamie Dean  · 2019",
+            "description": null,
             "title": "View of Peter Jones from Sloane Square ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1756_img_1033_e0295895b67f1ff9fc23c5414a2b523a.JPG"
         }
@@ -136,12 +115,12 @@
         "longitude": -0.1570174,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Sloane Square",
-            "Nearest train: Victoria",
-            "Bus routes: 11, 19, 22, 319, C1, 137"
+            "Tube: Sloane Square",
+            "Train: Victoria",
+            "Bus: 11, 19, 22, 319, C1, 137"
         ]
     },
     "name": "Peter Jones",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1756",
+    "original_url": "https://programme.openhouse.org.uk/listings/1756",
     "ticketed_events": false
 }

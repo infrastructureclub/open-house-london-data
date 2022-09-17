@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Henning Stummel Architects",
-                "description": "Original design",
+                "description": null,
                 "year": "2015"
             }
         ],
@@ -16,26 +16,11 @@
             "residence"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access",
-            "Architect on site"
-        ]
+        "Toilets",
+        "Disabled access",
+        "Architect on site"
     ],
     "factsheet": [
         {
@@ -57,49 +42,49 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6428/building_6428__mg_0236hxfltr-1_73dde6977a43c871f3330f8f26de3537.jpg",
-            "description": "Tim Soar · 2016",
+            "description": null,
             "title": "courtyard",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6428__mg_0236hxfltr-1_73dde6977a43c871f3330f8f26de3537.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6428/building_6428_gavriilux_london_20190213_hd_f70e9133bad157014eb27ca529c3f3ec.jpg",
-            "description": "Gavriil Papadiotis  · 2018",
+            "description": null,
             "title": "View from South",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6428_gavriilux_london_20190213_hd_f70e9133bad157014eb27ca529c3f3ec.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6428/building_6428_2880_tin-house-231_d8e214031f23aa8c80cd6b54d3b5ffb0.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6428_2880_tin-house-231_d8e214031f23aa8c80cd6b54d3b5ffb0.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6428/building_6428_160806-henning-stummel-tin-house-376_58c0c9ed02d0db599be3ca279589fddc.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6428_160806-henning-stummel-tin-house-376_58c0c9ed02d0db599be3ca279589fddc.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6428/building_6428_160806-henning-stummel-tin-house-073_794723530e5d4aed898ea25d7cef7bf7.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6428_160806-henning-stummel-tin-house-073_794723530e5d4aed898ea25d7cef7bf7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6428/building_6428_hr-henning-stummel-tin-house-051_081bc1f171960d4c6884781609daa131.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6428_hr-henning-stummel-tin-house-051_081bc1f171960d4c6884781609daa131.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6428/building_6428_living-room-building-4-from-kitchen-building-3_de553e4b3b402718119ae9c9ffae4106.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6428_living-room-building-4-from-kitchen-building-3_de553e4b3b402718119ae9c9ffae4106.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6428/building_6428_tin-house-095-300dpi_b7a8024f406cb350c9746aa5a6e0f878.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6428_tin-house-095-300dpi_b7a8024f406cb350c9746aa5a6e0f878.jpg"
         }
@@ -111,12 +96,12 @@
         "longitude": -0.2309388,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Shepherd's Bush Hammersmith & City, Goldhawk Road",
-            "Nearest train: Shepherds Bush",
-            "Bus routes: 207, 260, 283"
+            "Tube: Shepherd's Bush Hammersmith & City, Goldhawk Road",
+            "Train: Shepherds Bush",
+            "Bus: 207, 260, 283"
         ]
     },
     "name": "Tin House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6428",
+    "original_url": "https://programme.openhouse.org.uk/listings/6428",
     "ticketed_events": false
 }

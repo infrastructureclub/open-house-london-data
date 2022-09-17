@@ -4,12 +4,13 @@
     "design": {
         "designers": [
             {
-                "architect": "Patrick Monaghan Architect ",
-                "description": "Original design",
+                "architect": "Patrick Monaghan Architect",
+                "description": null,
                 "year": "2020"
             }
         ],
         "periods": [
+            "Patrick Monaghan Architect ",
             "Contemporary"
         ],
         "types": [
@@ -18,35 +19,23 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 6,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Visit hosted by client and architect",
-            "notes": "All visitors to wear a face mask please",
-            "start": "2022-09-11T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 6,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Visit hosted by client and architect",
-            "notes": "All visitors to wear a face mask please",
-            "start": "2022-09-12T13:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T12:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Architect on site",
-            "Toilets"
-        ]
+        "Architect on site",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -78,73 +67,73 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9902/building_9902__i6e5823-pano_f4bd1bab93a1406d2879d3195af23ef6.jpg",
-            "description": "Timothy Haccius · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9902__i6e5823-pano_f4bd1bab93a1406d2879d3195af23ef6.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9902/building_9902__i6e5661-pano_86d2715a5f509c01d12ff8576694574e.jpg",
-            "description": "Timothy Haccius · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9902__i6e5661-pano_86d2715a5f509c01d12ff8576694574e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9902/building_9902__i6e5674-pano_8fdb5889d4df2b20a47c8a8825747eba.jpg",
-            "description": "Timothy Haccius · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9902__i6e5674-pano_8fdb5889d4df2b20a47c8a8825747eba.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9902/building_9902__i6e5725-pano_c46ef6c15f786e7c75e71895bcf5c1a5.jpg",
-            "description": "Timothy Haccius · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9902__i6e5725-pano_c46ef6c15f786e7c75e71895bcf5c1a5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9902/building_9902__i6e5808-pano_4ec17c7880fe72d9033f1dcd39223e09.jpg",
-            "description": "Timothy Haccius · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9902__i6e5808-pano_4ec17c7880fe72d9033f1dcd39223e09.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9902/building_9902__i6e6041_7baa0e6deffeac14e54748b3434819f0.jpg",
-            "description": "Timothy Haccius · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9902__i6e6041_7baa0e6deffeac14e54748b3434819f0.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9902/building_9902__i6e6064-pano_f85e811636ae2cdf08e5ae7a690367df.jpg",
-            "description": "Timothy Haccius · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9902__i6e6064-pano_f85e811636ae2cdf08e5ae7a690367df.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9902/building_9902__i6e6112-pano_a386a458d8808fac61502fce64cc1eba.jpg",
-            "description": "Timothy Haccius · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9902__i6e6112-pano_a386a458d8808fac61502fce64cc1eba.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9902/building_9902__i6e6130-pano_353b9c0bb2719da29c8c1f6a88ab3d63.jpg",
-            "description": "Timothy Haccius · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9902__i6e6130-pano_353b9c0bb2719da29c8c1f6a88ab3d63.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9902/building_9902__i6e6155-pano_85949638e949ac05eca2298ea41ab5e7.jpg",
-            "description": "Timothy Haccius · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9902__i6e6155-pano_85949638e949ac05eca2298ea41ab5e7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9902/building_9902__i6e6158-pano_d26a4067dbe29f4e7392dc3e3c5ab836.jpg",
-            "description": "Timothy Haccius · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9902__i6e6158-pano_d26a4067dbe29f4e7392dc3e3c5ab836.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9902/building_9902__i6e6166-pano_0cc4978500906f7ad89b0d0ff44037cc.jpg",
-            "description": "Timothy Haccius · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9902__i6e6166-pano_0cc4978500906f7ad89b0d0ff44037cc.jpg"
         }
@@ -156,12 +145,12 @@
         "longitude": -0.1018627,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Southgate, Wood Green",
-            "Nearest train: Palmers Green",
-            "Bus routes: W6, 329"
+            "Tube: Southgate, Wood Green",
+            "Train: Palmers Green",
+            "Bus: W6, 329"
         ]
     },
     "name": "Hedge Lane",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9902",
+    "original_url": "https://programme.openhouse.org.uk/listings/9902",
     "ticketed_events": false
 }

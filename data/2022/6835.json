@@ -5,21 +5,12 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1742"
-            },
-            {
-                "architect": "Sigismund Augustus von Gersdorff",
-                "description": "Refurbishment",
-                "year": "1753"
-            },
-            {
-                "architect": "Unknown",
-                "description": "Refurbishment",
-                "year": "1753"
             }
         ],
         "periods": [
+            "Sigismund Augustus von Gersdorff",
             "Georgian",
             "Tudor",
             "Inter-war"
@@ -31,38 +22,11 @@
             "cemetery"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access",
-            "notes": null,
-            "start": "2022-09-04T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access",
-            "notes": null,
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access",
-            "Refreshments"
-        ]
+        "Toilets",
+        "Disabled access",
+        "Refreshments"
     ],
     "factsheet": [
         {
@@ -99,19 +63,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6835/building_6835_img_0663_62d4116cd5a4db6b368e4caffcb9723e.JPG",
-            "description": "2017",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6835_img_0663_62d4116cd5a4db6b368e4caffcb9723e.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6835/building_6835_img_0659_e4884bcb12c5ad82864f7270df33b89a.JPG",
-            "description": "2017",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6835_img_0659_e4884bcb12c5ad82864f7270df33b89a.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6835/building_6835_fetter-lane-moravian-church_3d35ad13ad206384cfc7e06a32eed56f.jpg",
-            "description": "Fetter Lane Moravian Church · 2017",
+            "description": null,
             "title": "View from burial ground to the Manse and 17th C stable block.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6835_fetter-lane-moravian-church_3d35ad13ad206384cfc7e06a32eed56f.jpg"
         }
@@ -123,11 +87,11 @@
         "longitude": -0.1762358,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Sloane Square, South Kensington, Earl's Court",
-            "Bus routes: 22, 19, 319, 11, 49, 345, 328"
+            "Tube: Sloane Square, South Kensington, Earl's Court",
+            "Bus: 22, 19, 319, 11, 49, 345, 328"
         ]
     },
     "name": "Moravian Close",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6835",
+    "original_url": "https://programme.openhouse.org.uk/listings/6835",
     "ticketed_events": false
 }

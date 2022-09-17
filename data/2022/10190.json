@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "AStudio",
-                "description": "Original design",
+                "description": null,
                 "year": "2019"
             }
         ],
@@ -18,37 +18,10 @@
             "offices"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 25,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open to the Public",
-            "notes": null,
-            "start": "2022-09-05T09:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 25,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open to the Public",
-            "notes": null,
-            "start": "2022-09-12T09:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Disabled access",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -72,25 +45,25 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10190/building_10190_astudio_chicago-booth_-hufton-crow_029_7cda287f0c371a8260f8592b6e8e7fa5.jpg",
-            "description": "Hufton + Crow · 2020",
+            "description": null,
             "title": "View to Historic St. Paul's",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10190_astudio_chicago-booth_-hufton-crow_029_7cda287f0c371a8260f8592b6e8e7fa5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10190/building_10190_img_9954_da7ada6f54aa1abe037767e68da0dbe0.jpeg",
-            "description": "Chicago Booth  · 2020",
+            "description": null,
             "title": "One of More than 50 Pieces of Contemporary Art",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10190_img_9954_da7ada6f54aa1abe037767e68da0dbe0.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10190/building_10190_astudio_chicago-booth_-hufton-crow_056_f810307e0680dd141483fe38d298cad1.jpg",
-            "description": "Hufton + Crow · 2020",
+            "description": null,
             "title": "Chicago Booth's London Campus at Twilight",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10190_astudio_chicago-booth_-hufton-crow_056_f810307e0680dd141483fe38d298cad1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10190/building_10190_img_9960_ba2a3c86aca93da43b2c80bcac68115f.jpeg",
-            "description": "Chicago Booth · 2020",
+            "description": null,
             "title": "A Quiet Corner and an Enduring Truth",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10190_img_9960_ba2a3c86aca93da43b2c80bcac68115f.jpeg"
         }
@@ -102,12 +75,12 @@
         "longitude": -0.0984828,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Farringdon, St. Paul's, Bank, Barbican, Mansion House, Chancery Lane, Moorgate, Liverpool Street",
-            "Nearest train: City Thameslink, Moorgate, Farringdon, Liverpool Street",
-            "Bus routes: 4, 56, 17, 40, 63, 341, 8, 46, 521"
+            "Tube: Farringdon, St. Paul's, Bank, Barbican, Mansion House, Chancery Lane, Moorgate, Liverpool Street",
+            "Train: City Thameslink, Moorgate, Farringdon, Liverpool Street",
+            "Bus: 4, 56, 17, 40, 63, 341, 8, 46, 521"
         ]
     },
     "name": "University of Chicago Booth School of Business",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/10190",
+    "original_url": "https://programme.openhouse.org.uk/listings/10190",
     "ticketed_events": false
 }

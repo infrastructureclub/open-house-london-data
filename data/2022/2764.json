@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "J.B. Bunning",
-                "description": "Original design",
+                "description": null,
                 "year": "1850"
             }
         ],
@@ -20,71 +20,51 @@
     },
     "events": [
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 4,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tower Tour",
-            "notes": "Guided tour up the Cally Clock Tower, spaces are limited to ensure social distancing.",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2764",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Clock Tower tour",
+            "notes": null,
+            "start": "2022-09-17T11:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 4,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tower Tour",
-            "notes": "Guided tour up the Cally Clock Tower, spaces are limited to ensure social distancing.",
-            "start": "2022-09-04T15:00:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2764",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Clock Tower Tour",
+            "notes": null,
+            "start": "2022-09-17T13:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 4,
-            "date": "2022-09-05",
-            "end": "2022-09-05T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tower Tour",
-            "notes": "Spaces are limited to ensure social distancing. Health and safety: Before your visit please read the information below carefully to ensure you are familiar with our health and safety requirements and arrive suitably prepared.",
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 4,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tower Tour",
-            "notes": "Guided tour up the Cally Clock Tower, spaces are limited to ensure social distancing.",
-            "start": "2022-09-05T15:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:45:00+01:00",
-            "fully_booked": null,
-            "name": "Clock Tower Virtual Tour",
-            "notes": "Join us for this virtual tour (via Zoom) to explore the impressive Caledonian Park Clock Tower - from the comfort of your home.",
-            "start": "2022-09-05T15:00:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2764",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Clock Tower Tour",
+            "notes": null,
+            "start": "2022-09-17T15:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Architect on site",
-            "Toilets"
-        ]
+        "Architect on site",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -120,19 +100,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2764/building_2764_img_4299_3214a1ddf79ced09cfafe46dc0f80374.JPG",
-            "description": "Islington Council · 2019",
+            "description": null,
             "title": "The clock face, from the inside of the tower",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2764_img_4299_3214a1ddf79ced09cfafe46dc0f80374.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2764/building_2764_clock-mechanism_eb5e0f9c9cb9396e9e91145ffdb1ef18.jpg",
-            "description": "",
+            "description": null,
             "title": "Clock Mechanism",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2764_clock-mechanism_eb5e0f9c9cb9396e9e91145ffdb1ef18.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2764/building_2764_img_3936_3b39ed5a08660ccc86abff19f34872e5.JPG",
-            "description": "Islington Council · 2019",
+            "description": null,
             "title": "View from the top of the tower",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2764_img_3936_3b39ed5a08660ccc86abff19f34872e5.JPG"
         }
@@ -144,12 +124,12 @@
         "longitude": -0.1180571,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Caledonian Road",
-            "Nearest train: Caledonian Road & Barnsbury",
-            "Bus routes: 274, 390, 17, 91, 259"
+            "Tube: Caledonian Road",
+            "Train: Caledonian Road & Barnsbury",
+            "Bus: 274, 390, 17, 91, 259"
         ]
     },
-    "name": "Caledonian Park: Clock Tower Tours ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2764",
-    "ticketed_events": false
+    "name": "Caledonian Park: Clock Tower Tours",
+    "original_url": "https://programme.openhouse.org.uk/listings/2764",
+    "ticketed_events": true
 }

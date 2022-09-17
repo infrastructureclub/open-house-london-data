@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Tonkin Liu",
-                "description": "Original design",
+                "description": null,
                 "year": "2017"
             }
         ],
@@ -18,50 +18,11 @@
             "residence"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-10",
-            "end": "2022-09-10T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tonkin Liu",
-            "notes": null,
-            "start": "2022-09-10T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-10",
-            "end": "2022-09-10T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tonkin Liu",
-            "notes": null,
-            "start": "2022-09-10T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-10",
-            "end": "2022-09-10T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tonkin Liu",
-            "notes": null,
-            "start": "2022-09-10T17:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Architect on site",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Architect on site",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -78,43 +39,43 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6853/building_6853_tl_sun-rain-rooms_1_ff3c262669883a0ec54e2b607e879249.jpg",
-            "description": "Edmund Sumner · 2017",
+            "description": null,
             "title": "Sun Rain Rooms",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6853_tl_sun-rain-rooms_1_ff3c262669883a0ec54e2b607e879249.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6853/building_6853_tl_sun-rain-rooms_2_0166930031e11cd700d5dc471e2f46e7.jpg",
-            "description": "Edmund Sumner · 2017",
+            "description": null,
             "title": "Sun Rain Rooms",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6853_tl_sun-rain-rooms_2_0166930031e11cd700d5dc471e2f46e7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6853/building_6853_tl_sun-rain-rooms_3_287c2c5767c836c8c219e848b6e63183.jpg",
-            "description": "Alex Peacock · 2017",
+            "description": null,
             "title": "Sun Rain Rooms",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6853_tl_sun-rain-rooms_3_287c2c5767c836c8c219e848b6e63183.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6853/building_6853_tl_sun-rain-rooms_4_7b37d870c69a9e0bbf87eb078d6fd58e.jpg",
-            "description": "Edmund Sumner · 2017",
+            "description": null,
             "title": "Sun Rain Rooms",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6853_tl_sun-rain-rooms_4_7b37d870c69a9e0bbf87eb078d6fd58e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6853/building_6853_tl_sun-rain-rooms_5_483fbc685fa84a09182128e202b8e9f2.jpg",
-            "description": "Edmund Sumner · 2017",
+            "description": null,
             "title": "Sun Rain Rooms",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6853_tl_sun-rain-rooms_5_483fbc685fa84a09182128e202b8e9f2.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6853/building_6853_1-alexjames_804_015_7472fa2a81caec022bf98cfdac37705b.jpg",
-            "description": "Alex James · 2017",
+            "description": null,
             "title": "5 Wilmington Square",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6853_1-alexjames_804_015_7472fa2a81caec022bf98cfdac37705b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6853/building_6853_4-alexjames_804_076_dbe1ca739b94b88accfd2e6d5418ab1b.jpg",
-            "description": "Alex James · 2017",
+            "description": null,
             "title": "Sun Rain Rooms",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6853_4-alexjames_804_076_dbe1ca739b94b88accfd2e6d5418ab1b.jpg"
         }
@@ -126,12 +87,12 @@
         "longitude": -0.1101911,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Farringdon, King's Cross St. Pancras, Angel",
-            "Nearest train: Farringdon, King's Cross",
-            "Bus routes: 38, 341, 19, 63"
+            "Tube: Farringdon, King's Cross St. Pancras, Angel",
+            "Train: Farringdon, King's Cross",
+            "Bus: 38, 341, 19, 63"
         ]
     },
     "name": "Sun Rain Rooms",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6853",
+    "original_url": "https://programme.openhouse.org.uk/listings/6853",
     "ticketed_events": false
 }

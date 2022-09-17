@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Montague Wheeler",
-                "description": "Original design",
+                "description": null,
                 "year": "1926"
-            },
-            {
-                "architect": "Nicolas Pople",
-                "description": "Refurbishment",
-                "year": "2020"
             }
         ],
         "periods": [
+            "Nicolas Pople",
             "Inter-war"
         ],
         "types": [
@@ -26,25 +22,25 @@
     },
     "events": [
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tours",
-            "notes": "Guided tours of the House every 30 minutes",
-            "start": "2022-09-05T12:00:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/1571",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Open House ",
+            "notes": null,
+            "start": "2022-09-18T13:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Bookshop",
-            "Toilets",
-            "Disabled access",
-            "Architect on site"
-        ]
+        "Bookshop",
+        "Toilets",
+        "Disabled access",
+        "Architect on site"
     ],
     "factsheet": [
         {
@@ -82,25 +78,25 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1571/building_1571_staircase_04_31717c2666daccfa074c7ceb06d48b7f.jpg",
-            "description": "",
+            "description": null,
             "title": "Staircase",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1571_staircase_04_31717c2666daccfa074c7ceb06d48b7f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1571/building_1571_unknown-1_e042888b71c028a9bff35873d465d7a2.jpeg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1571_unknown-1_e042888b71c028a9bff35873d465d7a2.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1571/building_1571_rsh-theatre-photo-5_4e867c4fc0f89e21d8a8ed0d13e8f6a5.jpg",
-            "description": "",
+            "description": null,
             "title": "Refurbished theatre 2020",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1571_rsh-theatre-photo-5_4e867c4fc0f89e21d8a8ed0d13e8f6a5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1571/building_1571_rsh-theatre-photo-2_ae6c7add6f915a547ea36be72f2cc8e5.jpg",
-            "description": "",
+            "description": null,
             "title": "Refurbished theatre 2020",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1571_rsh-theatre-photo-2_ae6c7add6f915a547ea36be72f2cc8e5.jpg"
         }
@@ -112,12 +108,12 @@
         "longitude": -0.1603971,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Baker Street, Marylebone, Paddington",
-            "Nearest train: Marylebone, Paddington",
-            "Bus routes: 13, 274, 113, 139, 189"
+            "Tube: Baker Street, Marylebone, Paddington",
+            "Train: Marylebone, Paddington",
+            "Bus: 13, 274, 113, 139, 189"
         ]
     },
     "name": "Rudolf Steiner House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1571",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/1571",
+    "ticketed_events": true
 }

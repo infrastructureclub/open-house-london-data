@@ -1,12 +1,12 @@
 {
-    "all_week": true,
+    "all_week": false,
     "description": "This is a self-guided 2.3 mile circular trail - with a 3 mile extension - and has been designed to show Barnes at its best - just follow the silver 'Barnes Trail' discs in the ground. The oar signs en route tell you what to look for.",
     "design": {
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
-                "year": "0017"
+                "description": null,
+                "year": "17"
             }
         ],
         "periods": [
@@ -19,9 +19,7 @@
     },
     "events": [],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -135,46 +133,46 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10071/building_10071_swans-down-the-high-street_c45cccd9008c6e8ce37d639084260ba1.jpg",
-            "description": "",
+            "description": null,
             "title": "Our resident swans perusing Barnes High Street",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10071_swans-down-the-high-street_c45cccd9008c6e8ce37d639084260ba1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10071/building_10071_barnes-reflections-b_084e37ecd21f6a5e934810e1f3ac499c.jpg",
-            "description": "",
+            "description": null,
             "title": "Barnes Pond",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10071_barnes-reflections-b_084e37ecd21f6a5e934810e1f3ac499c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10071/building_10071_the-hedgehog-super-highway-210206-c_58e8746adf6df640762c4b99d38c356d.jpg",
-            "description": "",
+            "description": null,
             "title": "Barnes' Hedgehog Highway crossing",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10071_the-hedgehog-super-highway-210206-c_58e8746adf6df640762c4b99d38c356d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10071/building_10071_rose-house_d7c792c4f55023a59ccec9c84f74e009.jpg",
-            "description": "Dylan Clinton",
+            "description": null,
             "title": "Rose House",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10071_rose-house_d7c792c4f55023a59ccec9c84f74e009.jpg"
         }
     ],
     "links": [
         {
-            "href": "http://The trail map is available from Rose House or download from www.barnes-ca.org",
-            "title": "Website"
+            "href": "www.barnes-ca.org",
+            "title": null
         }
     ],
     "location": {
         "address": "70 Barnes High Street, Barnes, SW13 9LD",
         "latitude": 51.4735495,
         "longitude": -0.2480417,
-        "meeting_point": "Rose House",
+        "meeting_point": null,
         "travel_info": [
-            "Nearest train: Barnes, Barnes Bridge",
-            "Bus routes: 209, 485"
+            "Train: Barnes, Barnes Bridge",
+            "Bus: 209, 485"
         ]
     },
     "name": "BCA Barnes Trail - self-guided walk",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/10071",
+    "original_url": "https://programme.openhouse.org.uk/listings/10071",
     "ticketed_events": false
 }

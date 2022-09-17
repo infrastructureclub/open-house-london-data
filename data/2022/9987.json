@@ -4,12 +4,24 @@
     "design": {
         "designers": [
             {
-                "architect": "Sir Thomas P. Bennett, KBE, FRIBA",
-                "description": "Original design",
+                "architect": "Sir Thomas P. Bennett",
+                "description": null,
+                "year": "1959"
+            },
+            {
+                "architect": "KBE",
+                "description": null,
+                "year": "1959"
+            },
+            {
+                "architect": "FRIBA",
+                "description": null,
                 "year": "1959"
             }
         ],
         "periods": [
+            " KBE",
+            " FRIBA",
             "Post-war"
         ],
         "types": [
@@ -19,107 +31,51 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-04",
-            "end": "2022-09-04T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open to Public",
-            "notes": "Guided tours available throughout the day.",
-            "start": "2022-09-04T10:00:00+01:00",
+            "capacity": null,
+            "date": "2022-09-19",
+            "drop_in": true,
+            "end": "2022-09-19T20:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-19T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-05",
-            "end": "2022-09-05T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open to Public",
-            "notes": "Guided tours also available throughout the day.  All are welcome to attend Sunday services at 9:00 and 10:30 am for families and 1:00 pm for young single adults.",
-            "start": "2022-09-05T10:00:00+01:00",
+            "capacity": null,
+            "date": "2022-09-20",
+            "drop_in": true,
+            "end": "2022-09-20T20:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-20T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-07",
-            "end": "2022-09-07T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open to Public",
-            "notes": "Guided tours available throughout the day.",
-            "start": "2022-09-07T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-08",
-            "end": "2022-09-08T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open to Public",
-            "notes": "Guided tours available throughout the day.",
-            "start": "2022-09-08T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-09",
-            "end": "2022-09-09T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open to Public",
-            "notes": "Guided tours available throughout the day.",
-            "start": "2022-09-09T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-10",
-            "end": "2022-09-10T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open to Public",
-            "notes": "Guided tours available throughout the day.",
-            "start": "2022-09-10T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-11",
-            "end": "2022-09-11T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open to Public",
-            "notes": "Guided tours available throughout the day.",
-            "start": "2022-09-11T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-12",
-            "end": "2022-09-12T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open to Public",
-            "notes": "Guided tours also available throughout the day.  All are welcome to attend Sunday services at 9:00 and 10:30 am for families and 1:00 pm for young single adults.",
-            "start": "2022-09-12T10:00:00+01:00",
+            "capacity": null,
+            "date": "2022-09-21",
+            "drop_in": true,
+            "end": "2022-09-21T20:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-21T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -157,31 +113,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9987/building_9987_red-bus_c0591d7698969985513f2f305703b731.jpg",
-            "description": "Elder Greg Hansen · 2021",
+            "description": null,
             "title": "View from Imperial College London",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9987_red-bus_c0591d7698969985513f2f305703b731.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9987/building_9987_bomb-site_0a6ec9b11b65e3fcb967b9f2c3a1945a.jpg",
-            "description": "Elder Greg Hansen · 2021",
+            "description": null,
             "title": "Site view after WW2 bombing",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9987_bomb-site_0a6ec9b11b65e3fcb967b9f2c3a1945a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9987/building_9987_1-organ-pipes_b65a0ba20df32536426974f2b991791d.jpg",
-            "description": "Elder Greg Hansen · 2021",
+            "description": null,
             "title": "Chapel Organ--2,718 pipes",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9987_1-organ-pipes_b65a0ba20df32536426974f2b991791d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9987/building_9987_chapel-day_ae1a6075183985f145ee3d709c478ac5.jpg",
-            "description": "2022",
+            "description": null,
             "title": "Hyde Park Chapel from Science Museum",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9987_chapel-day_ae1a6075183985f145ee3d709c478ac5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9987/building_9987_chapel-night_31396708066a39d2225dae156c208fbe.jpg",
-            "description": "2021",
+            "description": null,
             "title": "Chapel at Night",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9987_chapel-night_31396708066a39d2225dae156c208fbe.jpg"
         }
@@ -193,12 +149,12 @@
         "longitude": -0.1734449,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: South Kensington, Knightsbridge",
-            "Nearest train: Victoria",
-            "Bus routes: 360"
+            "Tube: South Kensington, Knightsbridge",
+            "Train: Victoria",
+            "Bus: 360"
         ]
     },
     "name": "Hyde Park Chapel",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9987",
+    "original_url": "https://programme.openhouse.org.uk/listings/9987",
     "ticketed_events": false
 }

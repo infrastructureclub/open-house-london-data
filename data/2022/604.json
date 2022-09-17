@@ -4,37 +4,33 @@
     "design": {
         "designers": [
             {
-                "architect": "Central Hall Claude Pemberton Leach 1899 , Junior School Architype 2016, Clarke Kidwell Architects",
-                "description": "Original design",
+                "architect": "Central Hall Claude Pemberton Leach 1899",
+                "description": null,
+                "year": "1865"
+            },
+            {
+                "architect": "Junior School Architype 2016",
+                "description": null,
+                "year": "1865"
+            },
+            {
+                "architect": "Clarke Kidwell Architects",
+                "description": null,
                 "year": "1865"
             }
         ],
         "periods": [
+            "Central Hall Claude Pemberton Leach 1899 ",
             "Victorian"
         ],
         "types": [
             "education"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "Highgate School - Chapel Musuem and Library",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Refreshments"
-        ]
+        "Toilets",
+        "Refreshments"
     ],
     "factsheet": [
         {
@@ -65,19 +61,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/604/building_604_highgate_school_chapel_-_big_school_002_2cc5c626f24a84e4b1e0609dfd2cb910.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_604_highgate_school_chapel_-_big_school_002_2cc5c626f24a84e4b1e0609dfd2cb910.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/604/building_604_highgate_chapel_01_e1a1c0d1fe6c8130a064110ea630b534.jpg",
-            "description": "",
+            "description": null,
             "title": "Highgate Chapel",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_604_highgate_chapel_01_e1a1c0d1fe6c8130a064110ea630b534.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/604/building_604_highgate_chapel_02_547cbeeff88f33144e81ddc3651a8c9d.jpg",
-            "description": "",
+            "description": null,
             "title": "Chapel Interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_604_highgate_chapel_02_547cbeeff88f33144e81ddc3651a8c9d.jpg"
         }
@@ -89,11 +85,11 @@
         "longitude": -0.1492358,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Highgate, Archway",
-            "Bus routes: 143, 210, 271, 214"
+            "Tube: Highgate, Archway",
+            "Bus: 143, 210, 271, 214"
         ]
     },
-    "name": "Highgate School Chapel, Library, Museum ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/604",
+    "name": "Highgate School Chapel, Library, Museum",
+    "original_url": "https://programme.openhouse.org.uk/listings/604",
     "ticketed_events": false
 }

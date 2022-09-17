@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Wells Coates",
-                "description": "Original design",
+                "description": null,
                 "year": "1934"
-            },
-            {
-                "architect": "Avanti Architects",
-                "description": "Refurbishment",
-                "year": "2004"
             }
         ],
         "periods": [
+            "Avanti Architects",
             "Inter-war"
         ],
         "types": [
@@ -23,47 +19,37 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 6,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Isokon Gallery",
-            "notes": "Isokon Gallery museum only",
-            "start": "2022-09-04T11:00:00+01:00",
+            "capacity": 10,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 6,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Isokon Gallery",
-            "notes": "Isokon Gallery museum only",
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 280,
-            "date": "2022-09-08",
-            "end": "2022-09-08T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "At Home with Open House",
-            "notes": "Join us for a virtual tour and Q&A as part of the At Home with Open House series. Zoom links will be sent to registered attendees.",
-            "start": "2022-09-08T12:00:00+01:00",
+            "capacity": 10,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Bookshop",
-            "Architect on site"
-        ]
+        "Bookshop",
+        "Architect on site"
     ],
     "factsheet": [
         {
@@ -85,37 +71,37 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/768/building_768_isokon-at-night_45b9d7ca083e205a99db87424a13945d.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_768_isokon-at-night_45b9d7ca083e205a99db87424a13945d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/768/building_768_isokon_f7228cc7f08f4d8d1e528d5ddd949550.png",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_768_isokon_f7228cc7f08f4d8d1e528d5ddd949550.png"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/768/building_768_2_b2e981ce0dc0cf9c2ed93b748ef16b8f.jpg",
-            "description": "",
+            "description": null,
             "title": "The external staircase",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_768_2_b2e981ce0dc0cf9c2ed93b748ef16b8f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/768/building_768_3_82ea74af9ba06ea665c93bf5dc577d17.jpg",
-            "description": "",
+            "description": null,
             "title": "The Isokon Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_768_3_82ea74af9ba06ea665c93bf5dc577d17.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/768/building_768_4_4bca6b50452c7a8b237d3ac58930bf2b.jpg",
-            "description": "",
+            "description": null,
             "title": "The Isokon penthouse",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_768_4_4bca6b50452c7a8b237d3ac58930bf2b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/768/building_768_5_ab63b8cc56eeb6ac2c14af65720717d1.jpg",
-            "description": "",
+            "description": null,
             "title": "Typical Isokon kitchen",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_768_5_ab63b8cc56eeb6ac2c14af65720717d1.jpg"
         }
@@ -127,12 +113,12 @@
         "longitude": -0.1618582,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Belsize Park",
-            "Nearest train: Hampstead Heath",
-            "Bus routes: 24, 168, C11, 46"
+            "Tube: Belsize Park",
+            "Train: Hampstead Heath",
+            "Bus: 24, 168, C11, 46"
         ]
     },
     "name": "Isokon Building (Lawn Road Flats)",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/768",
+    "original_url": "https://programme.openhouse.org.uk/listings/768",
     "ticketed_events": false
 }

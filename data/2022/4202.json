@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Pitman Tozer Architects",
-                "description": "Original design",
+                "description": null,
                 "year": "2007"
             }
         ],
@@ -18,58 +18,64 @@
     },
     "events": [
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-12",
-            "end": "2022-09-12T10:30:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour of Gap House with Luke Tozer",
+            "booking_link": "https://programme.openhouse.org.uk/listings/4202",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T10:30:00+01:00",
+            "fully_booked": false,
+            "name": "Tour by Architect",
             "notes": null,
-            "start": "2022-09-12T10:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-18T10:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-12",
-            "end": "2022-09-12T11:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour of Gap House with Luke Tozer",
+            "booking_link": "https://programme.openhouse.org.uk/listings/4202",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T11:00:00+01:00",
+            "fully_booked": false,
+            "name": "Tour by Architect",
             "notes": null,
-            "start": "2022-09-12T10:30:00+01:00",
-            "ticketed": false
+            "start": "2022-09-18T10:30:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-12",
-            "end": "2022-09-12T11:30:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour of Gap House with Luke Tozer",
+            "booking_link": "https://programme.openhouse.org.uk/listings/4202",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T11:30:00+01:00",
+            "fully_booked": false,
+            "name": "Tour by Architect",
             "notes": null,
-            "start": "2022-09-12T11:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-18T11:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-12",
-            "end": "2022-09-12T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour of Gap House with Luke Tozer",
+            "booking_link": "https://programme.openhouse.org.uk/listings/4202",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Tour by Architect",
             "notes": null,
-            "start": "2022-09-12T11:30:00+01:00",
-            "ticketed": false
+            "start": "2022-09-18T11:30:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Architect on site"
-        ]
+        "Architect on site"
     ],
     "factsheet": [
         {
@@ -85,19 +91,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4202/building_4202_0519_1_gap_house_front_elevation_portrait_nick_kane_b2c53ccdc00457e8edb3ac7cd9d97ea2.jpg",
-            "description": "Nick Kane  · 2008",
+            "description": null,
             "title": "Front façade",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4202_0519_1_gap_house_front_elevation_portrait_nick_kane_b2c53ccdc00457e8edb3ac7cd9d97ea2.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4202/building_4202_0519_2_gap_house_rear_elevation_nick_kane_019e7e4a57864f6e17e3a093ae8fb475.jpg",
-            "description": "Nick Kane ",
+            "description": null,
             "title": "Rear Facade",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4202_0519_2_gap_house_rear_elevation_nick_kane_019e7e4a57864f6e17e3a093ae8fb475.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4202/building_4202_0519_3_gap_house_dining_to_living_nick_kane_7e035159faa00160049215ffc227bd69.jpg",
-            "description": "Nick Kane ",
+            "description": null,
             "title": "Dining to living space",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4202_0519_3_gap_house_dining_to_living_nick_kane_7e035159faa00160049215ffc227bd69.jpg"
         }
@@ -109,11 +115,11 @@
         "longitude": -0.1929879,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Bayswater, Queensway",
-            "Bus routes: 70, 23, 7, 27"
+            "Tube: Bayswater, Queensway",
+            "Bus: 70, 23, 7, 27"
         ]
     },
     "name": "Gap House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/4202",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/4202",
+    "ticketed_events": true
 }

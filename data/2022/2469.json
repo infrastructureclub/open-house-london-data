@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "James Brooks",
-                "description": "Original design",
+                "description": null,
                 "year": "1870"
             }
         ],
@@ -18,48 +18,24 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Gift and Open Day",
-            "notes": "Trips up the tower, COVID regulations permittingVisitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-11",
-            "end": "2022-09-11T12:45:00+01:00",
-            "fully_booked": null,
-            "name": "Lunchtime organ recital",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-11",
-            "end": "2022-09-11T15:45:00+01:00",
-            "fully_booked": null,
-            "name": "Lecture by local historian",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T15:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -94,10 +70,10 @@
     "id": 2469,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2469/building_2469_soc3_55ee9464a078cd8b497452bb8b0bb124.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2469/building_2469_soc3_0dde09b54994b7873e8b0a95d1fd3bb1.JPG",
             "description": null,
             "title": "Rood Screen and Chancel",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_2469_soc3_55ee9464a078cd8b497452bb8b0bb124.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2469_soc3_0dde09b54994b7873e8b0a95d1fd3bb1.JPG"
         }
     ],
     "links": [],
@@ -107,11 +83,11 @@
         "longitude": 0.066874,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Mottingham, Elmstead Woods, Chislehurst",
-            "Bus routes: 162, 161, 61, 160, 273"
+            "Train: Mottingham, Elmstead Woods, Chislehurst",
+            "Bus: 162, 161, 61, 160, 273"
         ]
     },
     "name": "Church of the Annunciation",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2469",
+    "original_url": "https://programme.openhouse.org.uk/listings/2469",
     "ticketed_events": false
 }

@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "James Weir",
-                "description": "Original design",
+                "description": null,
                 "year": "1887"
             }
         ],
@@ -16,38 +16,11 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 50,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open House",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 50,
-            "date": "2022-09-04",
-            "end": "2022-09-04T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "Musical Interludes",
-            "notes": null,
-            "start": "2022-09-04T10:30:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Refreshments",
-            "Disabled access",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -67,47 +40,42 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9976/building_9976_exterior-dec09_2_1-1_bc250ab6f184e00f6891037fbfb31cf4.jpg",
-            "description": "Not Known · 2009",
+            "description": null,
             "title": "View from the corner of Mandeville Place",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9976_exterior-dec09_2_1-1_bc250ab6f184e00f6891037fbfb31cf4.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9976/building_9976_pulpit_e2250359ce3b457fdad560b9285941db.jpg",
-            "description": "Not Known · 2009",
+            "description": null,
             "title": "The Pulpit",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9976_pulpit_e2250359ce3b457fdad560b9285941db.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9976/building_9976_front_4b8dcbde9da023d2e4a79130e981dfcb.jpeg",
-            "description": "Not Known · 2014",
+            "description": null,
             "title": "Interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9976_front_4b8dcbde9da023d2e4a79130e981dfcb.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9976/building_9976_interior-organ2_f536a0096dba098d83b43393eda091b4.jpg",
-            "description": "Not Known · 2019",
+            "description": null,
             "title": "The Organ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9976_interior-organ2_f536a0096dba098d83b43393eda091b4.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "http://hindestreet.org.uk",
-            "title": "Website"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "19 Thayer Street, W1U 2QJ",
         "latitude": 51.5171666,
         "longitude": -0.151156,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Bond Street, Baker Street, Edgware Road Bakerloo, Edgware Road Circle, Marble Arch, Oxford Circus",
-            "Nearest train: Marylebone",
-            "Bus routes: 113, 2, 30, 390, 74, 94, 98"
+            "Tube: Bond Street, Baker Street, Edgware Road Bakerloo, Edgware Road Circle, Marble Arch, Oxford Circus",
+            "Train: Marylebone",
+            "Bus: 113, 2, 30, 390, 74, 94, 98"
         ]
     },
     "name": "Hinde Street Methodist Church",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9976",
+    "original_url": "https://programme.openhouse.org.uk/listings/9976",
     "ticketed_events": false
 }

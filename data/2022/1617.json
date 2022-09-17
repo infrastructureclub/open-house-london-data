@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Charles Holden",
-                "description": "Original design",
+                "description": null,
                 "year": "1933"
-            },
-            {
-                "architect": "BDP",
-                "description": "Refurbishment",
-                "year": "2009"
             }
         ],
         "periods": [
+            "BDP",
             "Inter-war"
         ],
         "types": [
@@ -24,74 +20,11 @@
             "online"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:30:00+01:00",
-            "fully_booked": null,
-            "name": "Guided Tour",
-            "notes": "This is fully booked, but please do register for online events.",
-            "start": "2022-09-04T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 25,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Senate House Tour",
-            "notes": "This is fully booked, but please do register for online events.",
-            "start": "2022-09-04T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Senate House Virtual Tour",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "A virtual tour of Senate House",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Virtual tour of Senate House",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T16:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Refreshments",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -122,51 +55,59 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1617/building_1617_crush-hall-31_small_d2ea55da5a69cfc9d0b03ff226e28e3f.jpg",
-            "description": "University of London · 2016",
+            "description": null,
             "title": "Crush Hall",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1617_crush-hall-31_small_d2ea55da5a69cfc9d0b03ff226e28e3f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1617/building_1617_chancellors-hall-13_small_9180d72fa1d83f012411596d13272604.jpg",
-            "description": "University of London · 2016",
+            "description": null,
             "title": "Chancellors Hall",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1617_chancellors-hall-13_small_9180d72fa1d83f012411596d13272604.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1617/building_1617_cloisters_small_b0c56038994d795d9537dc2faa9c00f5.jpg",
-            "description": "University of London · 2016",
+            "description": null,
             "title": "Cloisters",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1617_cloisters_small_b0c56038994d795d9537dc2faa9c00f5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1617/building_1617_crush-hall-23_small_54a622aad7e5cbd6cde7561a48b74764.jpg",
-            "description": "University of London · 2016",
+            "description": null,
             "title": "Crush Hall",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1617_crush-hall-23_small_54a622aad7e5cbd6cde7561a48b74764.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1617/building_1617_exteriors-1-edit_small_b1498999dbacfd71a6d4a4476d042016.jpg",
-            "description": "University of London · 2016",
+            "description": null,
             "title": "View from Malet Street",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1617_exteriors-1-edit_small_b1498999dbacfd71a6d4a4476d042016.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1617/building_1617_senate-room-18_small_bcf6f397b6539929e53625806b5614d9.jpg",
-            "description": "University of London · 2016",
+            "description": null,
             "title": "Senate Room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1617_senate-room-18_small_bcf6f397b6539929e53625806b5614d9.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1617/building_1617_exteriors-43_small_ea1428a57da61c1d7891d6cf306c538f.jpg",
-            "description": "University of London · 2016",
+            "description": null,
             "title": "View from Malet Street",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1617_exteriors-43_small_ea1428a57da61c1d7891d6cf306c538f.jpg"
         }
     ],
     "links": [
         {
-            "href": "https://london.ac.uk/senate-house-library/events/OpenHouseVirtualTour",
-            "title": "Virtual Tours"
+            "href": "https://bit.ly/3QypoKK",
+            "title": null
+        },
+        {
+            "href": "https://bit.ly/3JEnuq1",
+            "title": null
+        },
+        {
+            "href": "https://bit.ly/3p6zwPi",
+            "title": null
         }
     ],
     "location": {
@@ -175,12 +116,12 @@
         "longitude": -0.1308206,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Russell Square, Goodge Street, Euston Square, Tottenham Court Road",
-            "Nearest train: Euston",
-            "Bus routes: 7, 10, 24, 29, 68, 73, 134, 188"
+            "Tube: Russell Square, Goodge Street, Euston Square, Tottenham Court Road",
+            "Train: Euston",
+            "Bus: 7, 10, 24, 29, 68, 73, 134, 188"
         ]
     },
     "name": "Senate House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1617",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/1617",
+    "ticketed_events": false
 }

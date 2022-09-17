@@ -13,28 +13,32 @@
     },
     "events": [
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-11",
-            "end": "2022-09-11T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "Monastic London Guided Walk by Rob Humphreys",
+            "booking_link": "https://programme.openhouse.org.uk/listings/10316",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Walk by London Blue Badge Guide",
             "notes": null,
-            "start": "2022-09-11T11:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-17T11:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Monastic London Guided Walk by Rob Humphreys",
+            "booking_link": "https://programme.openhouse.org.uk/listings/10316",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guide Walk by London Blue Badge Guide",
             "notes": null,
-            "start": "2022-09-11T15:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-17T14:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [],
@@ -50,36 +54,36 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10316/building_10316_image0_88ee608653c8479acdd66d7ba71b7193.jpeg",
-            "description": "Rob Humphreys · 2022",
+            "description": null,
             "title": "Clive of India",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10316_image0_88ee608653c8479acdd66d7ba71b7193.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10316/building_10316_the_end-_on_the_fourth_plinth-_trafalgar_square_6e5e03294c69cf3be0bbc88edb00407b.jpg",
-            "description": "Paul Farmer · 2020",
+            "description": null,
             "title": "The Fourth Plinth",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10316_the_end-_on_the_fourth_plinth-_trafalgar_square_6e5e03294c69cf3be0bbc88edb00407b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10316/building_10316_800px-millicent_fawcett_statue_02_-_courage_calls_-27810755638-_-cropped_38b357b9fa2b34b2f259ddd5c510d643.jpg",
-            "description": "Garry Knight · 2018",
+            "description": null,
             "title": "Millicent Fawcett",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10316_800px-millicent_fawcett_statue_02_-_courage_calls_-27810755638-_-cropped_38b357b9fa2b34b2f259ddd5c510d643.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Trafalgar Square, WC2N 5DN",
-        "latitude": 51.508039,
-        "longitude": -0.128069,
-        "meeting_point": "Meet in front of The Fourth Plinth in Trafalgar Square",
+        "address": "4th plinth Trafalgar Square, WC2N 5DN",
+        "latitude": 51.5082791,
+        "longitude": -0.1287338,
+        "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Embankment, Leicester Square, Charing Cross",
-            "Nearest train: Charing Cross",
-            "Bus routes: 176, 29, 24, 87, 9, 6, 91, 15, 11"
+            "Tube: Embankment, Leicester Square, Charing Cross",
+            "Train: Charing Cross",
+            "Bus: 176, 29, 24, 87, 9, 6, 91, 15, 11"
         ]
     },
     "name": "Public Statues in Westminster",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/10316",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/10316",
+    "ticketed_events": true
 }

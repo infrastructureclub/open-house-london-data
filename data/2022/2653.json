@@ -1,11 +1,11 @@
 {
     "all_week": false,
-    "description": "Learn about the built environment of the City of London. The interactive 1:500 scale Pipers model contains an overview of the City with the latest developments and architecture. See the future skyline with all of the proposed new towers.",
+    "description": "UPDATED: Drop-in Monday - Friday only. (not open weekends). Learn about the built environment of the City of London. See the interactive 1:500 scale Pipers model of the City with the latest developments and architecture.",
     "design": {
         "designers": [
             {
                 "architect": "Pipers Model Makers",
-                "description": "Original design",
+                "description": null,
                 "year": "2016"
             }
         ],
@@ -18,77 +18,43 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-06",
-            "end": "2022-09-06T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General access",
-            "notes": null,
-            "start": "2022-09-06T10:00:00+01:00",
+            "capacity": 200,
+            "date": "2022-09-20",
+            "drop_in": true,
+            "end": "2022-09-20T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-20T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-07",
-            "end": "2022-09-07T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General access",
-            "notes": null,
-            "start": "2022-09-07T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-08",
-            "end": "2022-09-08T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General access",
-            "notes": null,
-            "start": "2022-09-08T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-09",
-            "end": "2022-09-09T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General access",
-            "notes": null,
-            "start": "2022-09-09T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-10",
-            "end": "2022-09-10T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General access",
-            "notes": null,
-            "start": "2022-09-10T10:00:00+01:00",
+            "capacity": 200,
+            "date": "2022-09-21",
+            "drop_in": true,
+            "end": "2022-09-21T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-21T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
             "heading": "The Square Mile's Built Environment",
             "paragraphs": [
-                "The City Centre is a space to come to learn about and debate the built environment of the Square Mile and is home to the City of London’s official architectural model. Through exhibitions, events and learning activity, The City Centre provides access to the City for professionals, the public and young people, helping to inform good decision-making and inspiring young people to engage with the built environment. It is managed by Pipers on behalf of the City of London Corporation."
+                "The City Centre is a space to come to learn about and debate the built environment of the Square Mile and is home to the City of London’s official architectural model. Through exhibitions, events and learning activity, The City Centre provides access to the City for professionals, the public and young people, helping to inform good decision-making and inspiring young people to engage with the built environment. It is managed by New London Architecture on behalf of the City of London Corporation."
             ]
         },
         {
@@ -108,30 +74,35 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2653/building_2653_city-centre-model-2_b71151a6ab07005470c10051863e48c2.jpg",
-            "description": "City Centre · 2016",
+            "description": null,
             "title": "City Centre architectural model",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2653_city-centre-model-2_b71151a6ab07005470c10051863e48c2.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2653/building_2653_city-centre-model-1_7edd0a1bd138c454ab4341a79863e0cf.jpg",
-            "description": "City Centre · 2016",
+            "description": null,
             "title": "City Centre architectural model",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2653_city-centre-model-1_7edd0a1bd138c454ab4341a79863e0cf.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "VU.CITY",
+            "title": null
+        }
+    ],
     "location": {
-        "address": "City Centre, within Guildhall Complex , (entrance at 80 Basinghall Street, leading from Gresham Street), EC2V 5AR",
+        "address": "City Centre, within Guildhall Complex",
         "latitude": 51.5155499,
         "longitude": -0.0914523,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Bank, Moorgate, St. Paul's, Mansion House",
-            "Nearest train: Cannon Street, Liverpool Street",
-            "Bus routes: 25, 43, 8, 21, 76, 100"
+            "Tube: Bank, Moorgate, St. Paul's, Mansion House",
+            "Train: Cannon Street, Liverpool Street",
+            "Bus: 25, 43, 8, 21, 76, 100"
         ]
     },
-    "name": "The City Centre",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2653",
+    "name": "UPDATED: The City Centre",
+    "original_url": "https://programme.openhouse.org.uk/listings/2653",
     "ticketed_events": false
 }

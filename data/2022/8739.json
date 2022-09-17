@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Clark Barker & Partners",
-                "description": "Original design",
+                "description": null,
                 "year": "1964"
             }
         ],
@@ -18,121 +18,53 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-04",
-            "end": "2022-09-04T21:00:00+01:00",
-            "fully_booked": null,
-            "name": "Museum open",
-            "notes": "At 4pm bookings are closed as there will be a reopening party outside the museum and visitors will be able to view the museum as capacity allows",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-05",
-            "end": "2022-09-05T19:00:00+01:00",
-            "fully_booked": null,
-            "name": "Museum open",
-            "notes": null,
-            "start": "2022-09-05T11:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T19:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T12:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-06",
-            "end": "2022-09-06T19:00:00+01:00",
-            "fully_booked": null,
-            "name": "Museum open",
-            "notes": null,
-            "start": "2022-09-06T11:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T19:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T12:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-07",
-            "end": "2022-09-07T19:00:00+01:00",
-            "fully_booked": null,
-            "name": "Museum open",
-            "notes": null,
-            "start": "2022-09-07T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-08",
-            "end": "2022-09-08T19:00:00+01:00",
-            "fully_booked": null,
-            "name": "Museum open",
-            "notes": null,
-            "start": "2022-09-08T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-09",
-            "end": "2022-09-09T19:00:00+01:00",
-            "fully_booked": null,
-            "name": "Museum open",
-            "notes": null,
-            "start": "2022-09-09T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-10",
-            "end": "2022-09-10T19:00:00+01:00",
-            "fully_booked": null,
-            "name": "Museum open",
-            "notes": null,
-            "start": "2022-09-10T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-11",
-            "end": "2022-09-11T19:00:00+01:00",
-            "fully_booked": null,
-            "name": "Museum open",
-            "notes": null,
-            "start": "2022-09-11T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-12",
-            "end": "2022-09-12T19:00:00+01:00",
-            "fully_booked": null,
-            "name": "Museum open",
-            "notes": null,
-            "start": "2022-09-12T11:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-19",
+            "drop_in": true,
+            "end": "2022-09-19T19:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-19T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Bookshop",
-            "Disabled access",
-            "Parking",
-            "Toilets"
-        ]
+        "Bookshop",
+        "Disabled access",
+        "Parking",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -169,33 +101,33 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8739/building_8739_museum-of-neoliberalism-photo-outside_01cb66ac8db0f3c5d5f5a025b7c471ce.jpeg",
-            "description": "Darren Cullen · 2019",
+            "description": null,
             "title": "Outside view",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8739_museum-of-neoliberalism-photo-outside_01cb66ac8db0f3c5d5f5a025b7c471ce.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8739/building_8739_ee5yebtwwauon4f_0a86edbe6e84e1991689d164c08dd352.jpg",
-            "description": "@spellingmistakescostlives · 2019",
+            "description": null,
             "title": "Exhibit about rail privatisation",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8739_ee5yebtwwauon4f_0a86edbe6e84e1991689d164c08dd352.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8739/building_8739_ehboyf0wwaetret_3497ce6889ecc359d8e22d218c7b98d2.jpg",
-            "description": "Museum of Neoliberalism · 2019",
+            "description": null,
             "title": "Amazon diorama",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8739_ehboyf0wwaetret_3497ce6889ecc359d8e22d218c7b98d2.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8739/building_8739_grenfell_b001ddc09b30d3cd739fabba0243759e.jpg",
-            "description": "@spellingmistakescostlives · 2019",
+            "description": null,
             "title": "Exhibit showing cross-section of a wall in Grenfell Tower",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8739_grenfell_b001ddc09b30d3cd739fabba0243759e.jpg"
         }
     ],
     "links": [
         {
-            "href": "https://www.spellingmistakescostlives.com/museumofneoliberalism",
-            "title": "Website"
+            "href": "runner500.wordpress.com",
+            "title": null
         }
     ],
     "location": {
@@ -204,12 +136,12 @@
         "longitude": 0.0125015,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Lewisham",
-            "Nearest train: Blackheath, Lee, Lewisham",
-            "Bus routes: 321, 178, 122, 261, 202"
+            "Tube: Lewisham",
+            "Train: Blackheath, Lee, Lewisham",
+            "Bus: 321, 178, 122, 261, 202"
         ]
     },
     "name": "Museum of Neoliberalism",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8739",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/8739",
+    "ticketed_events": false
 }

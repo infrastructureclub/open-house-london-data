@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1793"
             }
         ],
@@ -18,22 +18,22 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 40,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Access",
-            "notes": "There's no level access into the buildingVisitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T11:00:00+01:00",
+            "capacity": 30,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -48,34 +48,29 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/415/building_415_8a-view-along-church-street-edmonton_f5c16f027201780c30a76c64ab74b931.jpeg",
-            "description": "",
+            "description": null,
             "title": "View along Church Street ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_415_8a-view-along-church-street-edmonton_f5c16f027201780c30a76c64ab74b931.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/415/building_415_charity-school-edmonton_225f71147e0cf09716b12f85852c28dc.jpg",
-            "description": "Live-in Guardians · 2020",
+            "description": null,
             "title": "View from Church Street ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_415_charity-school-edmonton_225f71147e0cf09716b12f85852c28dc.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "http://londonhistoricbuildings.org.uk",
-            "title": "Online Content"
-        }
-    ],
+    "links": [],
     "location": {
-        "address": "Charity School Hall (next door to 24 Church Street), N9 9DU",
+        "address": "Charity School Hall (next door to 24 Church Str",
         "latitude": 51.6251909,
         "longitude": -0.0622921,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Edmonton Green",
-            "Bus routes: W6, W8, 149, 192, 279"
+            "Train: Edmonton Green",
+            "Bus: W6, W8, 149, 192, 279"
         ]
     },
-    "name": "Former Edmonton Girls' Charity School ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/415",
+    "name": "Former Edmonton Girls' Charity School",
+    "original_url": "https://programme.openhouse.org.uk/listings/415",
     "ticketed_events": false
 }

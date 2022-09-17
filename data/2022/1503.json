@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Henry Fuller & James Cubitt",
-                "description": "Original design",
+                "description": null,
                 "year": "1871"
             }
         ],
@@ -17,24 +17,9 @@
             "concert/performance space"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 50,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Round Chapel Open House",
-            "notes": null,
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Disabled access"
-        ]
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -94,29 +79,29 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1503/building_1503_round-chapel-sw_4248339d66bb464eef5d7e48aea5690e.jpg",
-            "description": "Richard Allen · 2014",
+            "description": null,
             "title": "View from South West",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1503_round-chapel-sw_4248339d66bb464eef5d7e48aea5690e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1503/building_1503_img-0840_6ff19bea0cb5557c8114ab565f57f3c1.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1503_img-0840_6ff19bea0cb5557c8114ab565f57f3c1.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Lower Clapton Road (junction with Glenarm Road), E5 0NP",
+        "address": "Lower Clapton Road (junction with Glenarm Road)",
         "latitude": 51.5523664,
         "longitude": -0.0526051,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Hackney Downs, Hackney Central, Clapton",
-            "Bus routes: 38, 48, 55, 106, 253, 242, 254, 394, 488"
+            "Train: Hackney Downs, Hackney Central, Clapton",
+            "Bus: 38, 48, 55, 106, 253, 242, 254, 394, 488"
         ]
     },
     "name": "Round Chapel",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1503",
+    "original_url": "https://programme.openhouse.org.uk/listings/1503",
     "ticketed_events": false
 }

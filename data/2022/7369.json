@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Sir Christopher Wren",
-                "description": "Original design",
+                "description": null,
                 "year": "1170"
             }
         ],
@@ -16,24 +16,9 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 50,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "OPEN HOUSE",
-            "notes": "We will be serving light refreshments. Tea/coffee, cake.",
-            "start": "2022-09-05T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -49,34 +34,25 @@
     "id": 7369,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7369/building_7369_k-nave-to-e-6_9fa6aac5ae6a7ffc4a0205459cdb2595.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7369/building_7369_k-nave-to-e-6_c716cf9b29d88bb9b1d8aa70fd74272b.JPG",
             "description": null,
             "title": "View from Nave to Altar",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_7369_k-nave-to-e-6_9fa6aac5ae6a7ffc4a0205459cdb2595.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7369_k-nave-to-e-6_c716cf9b29d88bb9b1d8aa70fd74272b.JPG"
         }
     ],
-    "links": [
-        {
-            "href": "http://www.vedast.org.uk",
-            "title": "Website"
-        },
-        {
-            "href": "https://twitter.com/vedast",
-            "title": "@vedast"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "4 Foster Lane, EC2V 6HH",
         "latitude": 51.514999,
         "longitude": -0.0962895,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: St. Paul's",
-            "Nearest train: City Thameslink, Cannon Street",
-            "Bus routes: 4, 8, 11, 25, 56, 76, 100"
+            "Tube: St. Paul's",
+            "Train: City Thameslink, Cannon Street",
+            "Bus: 4, 8, 11, 25, 56, 76, 100"
         ]
     },
     "name": "St Vedast alias Foster",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/7369",
+    "original_url": "https://programme.openhouse.org.uk/listings/7369",
     "ticketed_events": false
 }

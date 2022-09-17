@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Woodroffe Buchanan & Coulter",
-                "description": "Original design",
+                "description": null,
                 "year": "1955"
             }
         ],
@@ -18,59 +18,37 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-04",
-            "end": "2022-09-04T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "St Paul's Tour and Talk",
-            "notes": "Tour and general access to St  Paul's Lorrimore Square. Stewards will be on hand to guide and inform you.",
-            "start": "2022-09-04T10:00:00+01:00",
+            "capacity": 50,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-05",
-            "end": "2022-09-05T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "St Paul's Tour and Talk",
-            "notes": "Tour and general access to St  Paul's Lorrimore Square. Stewards will be on hand to guide and inform you.",
-            "start": "2022-09-05T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-11",
-            "end": "2022-09-11T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "St Paul's Tour and Talk",
-            "notes": "Tour and general access to St  Paul's Lorrimore Square. Stewards will be on hand to guide and inform you.",
-            "start": "2022-09-11T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-12",
-            "end": "2022-09-12T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "St Paul's Tour and Talk",
-            "notes": "Tour and general access to St  Paul's Lorrimore Square. Stewards will be on hand to guide and inform you.",
-            "start": "2022-09-12T11:30:00+01:00",
+            "capacity": 50,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T12:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -101,66 +79,71 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2556/building_2556_exteriorside_a8df908b7d3531f934160348a1bba986.jpg",
-            "description": "St Paul's Church · 2020",
+            "description": null,
             "title": "Exterior Side View",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2556_exteriorside_a8df908b7d3531f934160348a1bba986.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2556/building_2556_figure0741-084-b_ced4ec1d2d799b6fcd0fdb5a631a7309.gif",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2556_figure0741-084-b_ced4ec1d2d799b6fcd0fdb5a631a7309.gif"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2556/building_2556_stpaulsaltar_oh_32de2a7461c6e26755c40b9e540b6f62.jpg",
-            "description": "St Paul's Church  · 2015",
+            "description": null,
             "title": "St Paul's Church Lorrimore Altar",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2556_stpaulsaltar_oh_32de2a7461c6e26755c40b9e540b6f62.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2556/building_2556_stpinner2-oh_b2841fded8e832fb79fd7e970a9a06af.jpg",
-            "description": "St Paul's Church · 2015",
+            "description": null,
             "title": "St Paul's Church Lorrimore Wall",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2556_stpinner2-oh_b2841fded8e832fb79fd7e970a9a06af.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2556/building_2556_img_20200117_134620_c2d4fb5724c37511591fe163970a82e1.jpg",
-            "description": "2020",
+            "description": null,
             "title": "Balcony view interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2556_img_20200117_134620_c2d4fb5724c37511591fe163970a82e1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2556/building_2556_mainbalconyinterior_e19d7ec4df18b39973bb9b3daad7d07d.jpg",
-            "description": "St Paul's Church · 2020",
+            "description": null,
             "title": "Main Balcony Interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2556_mainbalconyinterior_e19d7ec4df18b39973bb9b3daad7d07d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2556/building_2556_windowcrossinterior_53436bc215cb3af13a93f3c28b1ce8ed.jpg",
-            "description": "St Paul's Church · 2020",
+            "description": null,
             "title": "Window Cross Interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2556_windowcrossinterior_53436bc215cb3af13a93f3c28b1ce8ed.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2556/building_2556_christinglory_d8aee8f1d6aab07b844bf9b6b0452213.jpg",
-            "description": "Freda Skinner · 2020",
+            "description": null,
             "title": "Christ in Glory",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2556_christinglory_d8aee8f1d6aab07b844bf9b6b0452213.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "http://stpaulslorrimoresquare.org",
+            "title": null
+        }
+    ],
     "location": {
-        "address": "Walworth Road, Walworth Road, SE17 3QU",
-        "latitude": 51.4892267,
-        "longitude": -0.0962774,
+        "address": "Walworth Road, Lorrimore Square, SE17 3QU",
+        "latitude": 51.4849094,
+        "longitude": -0.1019112,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Kennington",
-            "Nearest train: Elephant & Castle",
-            "Bus routes: P5, 133, 12, 35"
+            "Tube: Kennington",
+            "Train: Elephant & Castle",
+            "Bus: P5, 133, 12, 35"
         ]
     },
     "name": "St Paul's, Newington",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2556",
+    "original_url": "https://programme.openhouse.org.uk/listings/2556",
     "ticketed_events": false
 }

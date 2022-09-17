@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Tim Drewitt",
-                "description": "Original design",
+                "description": null,
                 "year": "1995"
             }
         ],
@@ -17,26 +17,11 @@
             "online"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "'Open for Business' - celebrating Westminster's rich history of trade and entertainment",
-            "notes": "Displays of archive material, virtual tour and introduction to conservation",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Bookshop",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Bookshop",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -61,41 +46,36 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2336/building_2336_searchroom-from-above-2_8a5cd33cfbe99989dd9f220edc69ac3f.JPG",
-            "description": "Staff · 2000",
+            "description": null,
             "title": "Search room at City of Westminster Archives Centre",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2336_searchroom-from-above-2_8a5cd33cfbe99989dd9f220edc69ac3f.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2336/building_2336_e147-queen-elizabeth-initial_c42d8a0ef2d2520374e2a9db1640a80b.jpg",
-            "description": "Staff · 2000",
+            "description": null,
             "title": "Elizabeth I initial in St Margaret Westminster records",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2336_e147-queen-elizabeth-initial_c42d8a0ef2d2520374e2a9db1640a80b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2336/building_2336_exterior-view-of-westminster-archives-centre_1b725db888f3e6d60df582e632077ec2.jpg",
-            "description": "COWAC · 1995",
+            "description": null,
             "title": "External View",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2336_exterior-view-of-westminster-archives-centre_1b725db888f3e6d60df582e632077ec2.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.facebook.com/watch/?v=2702903073291148",
-            "title": "Online content here"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "10 St Ann's Street, SW1P 2DE",
         "latitude": 51.4974785,
         "longitude": -0.1306893,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: St. James's Park, Westminster, Victoria",
-            "Nearest train: Victoria",
-            "Bus routes: 11, 24, 88, 148"
+            "Tube: St. James's Park, Westminster, Victoria",
+            "Train: Victoria",
+            "Bus: 11, 24, 88, 148"
         ]
     },
-    "name": "City of Westminster Archives Centre ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2336",
+    "name": "City of Westminster Archives Centre",
+    "original_url": "https://programme.openhouse.org.uk/listings/2336",
     "ticketed_events": false
 }

@@ -5,16 +5,15 @@
         "designers": [
             {
                 "architect": "J L Pearson",
-                "description": "Original design",
+                "description": null,
                 "year": "1891"
-            },
-            {
-                "architect": "Caroe Architecture",
-                "description": "Restoration",
-                "year": "2013"
             }
         ],
         "periods": [
+            "Caroe Architecture",
+            "Institution/profession",
+            "Art in the public realm",
+            "Museum",
             "Victorian"
         ],
         "types": [
@@ -29,24 +28,38 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 60,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Venue open",
-            "notes": null,
-            "start": "2022-09-05T10:00:00+01:00",
+            "capacity": 70,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 70,
+            "date": "2022-09-21",
+            "drop_in": true,
+            "end": "2022-09-21T19:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-21T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Family activities during open house festival",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Family activities",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -71,50 +84,41 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6534/building_6534_dsc_4004_2cd2e479ba52b79dbe12baaf9a83b567.jpg",
-            "description": "Tareq Mooradun · 2016",
+            "description": null,
             "title": "The altar",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6534_dsc_4004_2cd2e479ba52b79dbe12baaf9a83b567.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6534/building_6534_dsc_3989_9a0dfac22d2685b2a7b27a5cad924322.jpg",
-            "description": "Tareq Mooradun · 2016",
+            "description": null,
             "title": "View of the gold ceiling",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6534_dsc_3989_9a0dfac22d2685b2a7b27a5cad924322.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6534/building_6534_dsc_4011_7576139b76e2ea6a077a941de5f34ded.jpg",
-            "description": "Tareq Mooradun · 2016",
+            "description": null,
             "title": "Stained glass windows",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6534_dsc_4011_7576139b76e2ea6a077a941de5f34ded.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6534/building_6534_dsc_4088_54fc77a6f247e616eb90f5532274712f.jpg",
-            "description": "2017",
+            "description": null,
             "title": "The ornate baptisery of the Fitzrovia Chapel",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6534_dsc_4088_54fc77a6f247e616eb90f5532274712f.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "http://www.fitzroviachapel.org",
-            "title": "Website"
-        },
-        {
-            "href": "https://twitter.com/fitzroviachapel",
-            "title": "@fitzroviachapel"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "2 Pearson Square, Fitzroy Place, W1T 3BF",
         "latitude": 51.5193306,
         "longitude": -0.1385956,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Tottenham Court Road, Oxford Circus, Goodge Street, Warren Street",
-            "Nearest train: Euston"
+            "Tube: Tottenham Court Road, Oxford Circus, Goodge Street, Warren Street",
+            "Train: Euston"
         ]
     },
     "name": "Fitzrovia Chapel",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6534",
+    "original_url": "https://programme.openhouse.org.uk/listings/6534",
     "ticketed_events": false
 }

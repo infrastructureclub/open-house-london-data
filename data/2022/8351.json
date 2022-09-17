@@ -1,11 +1,16 @@
 {
-    "all_week": true,
+    "all_week": false,
     "description": "Publicly accessible landscaped Square featuring a pavilion with an asymmetrical steel structure and sliding glass walls set between three triangular support points. Also a stunning contemporary outdoor artwork from Sculpture in the City.",
     "design": {
         "designers": [
             {
-                "architect": "Gillespies, Make Architects",
-                "description": "Original design",
+                "architect": "Gillespies",
+                "description": null,
+                "year": "2018"
+            },
+            {
+                "architect": "Make Architects",
+                "description": null,
                 "year": "2018"
             }
         ],
@@ -16,11 +21,66 @@
             "public realm/landscape"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": true,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T23:59:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T00:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": true,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-19",
+            "drop_in": true,
+            "end": "2022-09-19T23:59:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-19T00:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": true,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-20",
+            "drop_in": true,
+            "end": "2022-09-20T23:59:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-20T00:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": true,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2022-09-21",
+            "drop_in": true,
+            "end": "2022-09-21T23:59:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-21T00:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
-        [
-            "Disabled access"
-        ]
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -55,13 +115,13 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8351/building_8351_img_0261_525823afcc2d1725be47b6d2b2c14e27.JPG",
-            "description": "2018",
+            "description": null,
             "title": "Aldgate Square",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8351_img_0261_525823afcc2d1725be47b6d2b2c14e27.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8351/building_8351_1-earthing-by-jocelyn-mcgregor-aldgate-square-commission-copyright-the-artist-photo-nick-turpin-courtesy-of-sculpture-in-the-city_67b94bb5dff811cc98a4cb7acb2eb4a0.jpg",
-            "description": "Photo by Nick Turpin · 2022",
+            "description": null,
             "title": "Jocelyn McGregor, Earthing, 2022 © the artist",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8351_1-earthing-by-jocelyn-mcgregor-aldgate-square-commission-copyright-the-artist-photo-nick-turpin-courtesy-of-sculpture-in-the-city_67b94bb5dff811cc98a4cb7acb2eb4a0.jpg"
         }
@@ -73,12 +133,12 @@
         "longitude": -0.0766465,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Aldgate East, Aldgate, Tower Gateway",
-            "Nearest train: Fenchurch Street, Liverpool Street",
-            "Bus routes: 343, 254, 242, 205, 135, 100, 25, 78, 42, 15"
+            "Tube: Aldgate East, Aldgate, Tower Gateway",
+            "Train: Fenchurch Street, Liverpool Street",
+            "Bus: 343, 254, 242, 205, 135, 100, 25, 78, 42, 15"
         ]
     },
     "name": "Aldgate Square",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8351",
+    "original_url": "https://programme.openhouse.org.uk/listings/8351",
     "ticketed_events": false
 }

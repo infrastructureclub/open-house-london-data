@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Sir Christopher Wren",
-                "description": "Original design",
+                "description": null,
                 "year": "1683"
-            },
-            {
-                "architect": "Laurence King",
-                "description": "Restoration",
-                "year": "1964"
             }
         ],
         "periods": [
+            "Laurence King",
             "Historical/contemporary"
         ],
         "types": [
@@ -23,39 +19,59 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:30:00+01:00",
-            "fully_booked": null,
-            "name": "Guided Tour",
-            "notes": null,
-            "start": "2022-09-04T12:30:00+01:00",
+            "capacity": 30,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Guided Tour",
-            "notes": null,
-            "start": "2022-09-04T14:30:00+01:00",
+            "capacity": 30,
+            "date": "2022-09-19",
+            "drop_in": true,
+            "end": "2022-09-19T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-19T09:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-05",
-            "end": "2022-09-05T11:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided Tour",
-            "notes": null,
-            "start": "2022-09-05T10:00:00+01:00",
+            "capacity": 30,
+            "date": "2022-09-20",
+            "drop_in": true,
+            "end": "2022-09-20T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-20T09:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 30,
+            "date": "2022-09-21",
+            "drop_in": true,
+            "end": "2022-09-21T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-21T09:00:00+01:00",
             "ticketed": false
         }
     ],
@@ -75,43 +91,43 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3873/building_3873_dazeley-nave-lr_08e1e3be4c2f47af40655b440f1c3d0d.jpg",
-            "description": "Dazeley · 2015",
+            "description": null,
             "title": "Sanctuary and nave showing the hanging rood crucifix",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3873_dazeley-nave-lr_08e1e3be4c2f47af40655b440f1c3d0d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3873/building_3873_stmarylebow_interior01m_89410b8b5b19e2a219f19f3e92c379f0.jpg",
-            "description": "Sugarfree",
+            "description": null,
             "title": "The sanctuary; windows by John Hayward",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3873_stmarylebow_interior01m_89410b8b5b19e2a219f19f3e92c379f0.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3873/building_3873_smlb-05-medium-02_c4954b7e6df7f678f83725e87f52c89d.jpg",
-            "description": "Dazeley",
+            "description": null,
             "title": "Hanging Rood carved by Otto Irsara, a gift from the people of the Federal Republic of Germany",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3873_smlb-05-medium-02_c4954b7e6df7f678f83725e87f52c89d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3873/building_3873_bells-medium-dazeley_1c39d36730cb1d8ed5aa8ddb4c90e79a.jpg",
-            "description": "Dazeley",
+            "description": null,
             "title": "The current ring of 12 bells dates from 1961",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3873_bells-medium-dazeley_1c39d36730cb1d8ed5aa8ddb4c90e79a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3873/building_3873_mary-window-medium-ibl_85a0514061050cacd93f8eb603dc1c2d.jpg",
-            "description": "Ian Boyd-Livingston | ian@iblfoto.com",
+            "description": null,
             "title": "The Blessed Virgin Mary depicted holding the church of St Mary-le-Bow, surrounded by other City churches and their patrons ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3873_mary-window-medium-ibl_85a0514061050cacd93f8eb603dc1c2d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3873/building_3873_tower-01-photo-matthew-power_ef225205c1542218a062c7eabfcc1ac6.JPG",
-            "description": "Matthew Power · 2008",
+            "description": null,
             "title": "Wren's Tower viewed from Bow Churchyard",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3873_tower-01-photo-matthew-power_ef225205c1542218a062c7eabfcc1ac6.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3873/building_3873_smlb-from-across-cheapside-2016_3024583ce0fd7343beff0bb74efd88cf.jpg",
-            "description": "parish archive · 2016",
+            "description": null,
             "title": "St Mary-le-Bow seen from Cheapside ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3873_smlb-from-across-cheapside-2016_3024583ce0fd7343beff0bb74efd88cf.jpg"
         }
@@ -123,12 +139,12 @@
         "longitude": -0.0941925,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Bank, Mansion House, St. Paul's",
-            "Nearest train: Cannon Street, Moorgate, City Thameslink",
-            "Bus routes: 8, 25"
+            "Tube: Bank, Mansion House, St. Paul's",
+            "Train: Cannon Street, Moorgate, City Thameslink",
+            "Bus: 8, 25"
         ]
     },
     "name": "The City Churches: St Mary-le-Bow",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/3873",
+    "original_url": "https://programme.openhouse.org.uk/listings/3873",
     "ticketed_events": false
 }

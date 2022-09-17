@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "William Ford Robinson Stanley",
-                "description": "Original design",
+                "description": null,
                 "year": "1903"
             }
         ],
@@ -22,35 +22,135 @@
     },
     "events": [
         {
+            "activity_type": "Exhibition",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/4825",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
             "name": "Exhibition: The Life of Stanley Halls",
-            "notes": "Pictures, papers & artefacts from the Stanley Halls Archive. Open access. Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T10:30:00+01:00",
-            "ticketed": false
+            "notes": null,
+            "start": "2022-09-17T12:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Talk",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:30:00+01:00",
-            "fully_booked": null,
-            "name": "Stanley Hall Tours",
-            "notes": "Three tours of the building at 11.00,12.30 & 3.00 each lasting about an hour. Pre-booking via Stanley Halls required https://stanleyarts.org/event/open-house-london-2021/all",
-            "start": "2022-09-05T11:00:00+01:00",
+            "booking_link": "https://programme.openhouse.org.uk/listings/4825",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T13:30:00+01:00",
+            "fully_booked": false,
+            "name": "Stanley Arts talk and tour",
+            "notes": null,
+            "start": "2022-09-17T12:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/4825",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Stanley Arts talk and tour",
+            "notes": null,
+            "start": "2022-09-17T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/4825",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Stanley Arts talk and tour",
+            "notes": null,
+            "start": "2022-09-17T15:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Exhibition",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/4825",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Exhibition: The Life of Stanley Halls",
+            "notes": null,
+            "start": "2022-09-18T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/4825",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Stanley Arts talk and tour",
+            "notes": null,
+            "start": "2022-09-18T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/4825",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T13:30:00+01:00",
+            "fully_booked": false,
+            "name": "Stanley Arts talk and tour",
+            "notes": null,
+            "start": "2022-09-18T12:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/4825",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Stanley Arts talk and tour",
+            "notes": null,
+            "start": "2022-09-18T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/4825",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Stanley Arts talk and tour",
+            "notes": null,
+            "start": "2022-09-18T15:30:00+01:00",
             "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -96,37 +196,37 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4825/building_4825_gallery-photo-1024x682_5d71b3b1bb63671cbf57e7b59c719eef.jpg",
-            "description": "Nomad Creative Studio · 2015",
+            "description": null,
             "title": "The Art Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4825_gallery-photo-1024x682_5d71b3b1bb63671cbf57e7b59c719eef.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4825/building_4825_img_2714_0d5fb37b423c900d9666800bcb1e34cf.jpg",
-            "description": "Nomad Creative Studios · 2016",
+            "description": null,
             "title": "Stanley Halls Assembly Rooms Staircase",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4825_img_2714_0d5fb37b423c900d9666800bcb1e34cf.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4825/building_4825_img_20170402_201842_fe8a85c72f7e0a912d11d78102d70d05.jpg",
-            "description": "Amie Salmon · 2017",
+            "description": null,
             "title": "The Fly Pit",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4825_img_20170402_201842_fe8a85c72f7e0a912d11d78102d70d05.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4825/building_4825_wedding-susie-lee-norwood-august-20170677_914ef09eeb477393046a1feb7e4b7fec.jpg",
-            "description": "Steve Wood · 2017",
+            "description": null,
             "title": "Concert Hall Used for Wedding",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4825_wedding-susie-lee-norwood-august-20170677_914ef09eeb477393046a1feb7e4b7fec.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4825/building_4825_assembly-room_0ff0ebddb448e699e6b712c964dd4f32.jpg",
-            "description": "Nomad Studios · 2015",
+            "description": null,
             "title": "The Assembly room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4825_assembly-room_0ff0ebddb448e699e6b712c964dd4f32.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4825/building_4825_20180420_233333_30fc13219ba0af7bb065148806c8244e.jpg",
-            "description": "2018",
+            "description": null,
             "title": "Northern Soul - Main Hall",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4825_20180420_233333_30fc13219ba0af7bb065148806c8244e.jpg"
         }
@@ -138,11 +238,11 @@
         "longitude": -0.0754022,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Norwood Junction",
-            "Bus routes: 75, 196, 197, 410, 130"
+            "Train: Norwood Junction",
+            "Bus: 75, 196, 197, 410, 130"
         ]
     },
     "name": "Stanley Arts",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/4825",
+    "original_url": "https://programme.openhouse.org.uk/listings/4825",
     "ticketed_events": true
 }

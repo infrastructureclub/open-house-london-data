@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Cheston and Elcock",
-                "description": "Original design",
+                "description": null,
                 "year": "1930"
             }
         ],
@@ -22,36 +22,52 @@
     },
     "events": [
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-06",
-            "end": "2022-09-06T12:30:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of Bethlem Hospital Grounds",
-            "notes": "Tour begins and ends on Museum steps; Museum and Gallery will be open to visitors afterwards. Places must be pre-booked; do not attend without a ticket.",
-            "start": "2022-09-06T11:00:00+01:00",
+            "booking_link": "https://programme.openhouse.org.uk/listings/3521",
+            "capacity": null,
+            "date": "2022-09-20",
+            "drop_in": false,
+            "end": "2022-09-20T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided walk around Hospital grounds",
+            "notes": null,
+            "start": "2022-09-20T10:30:00+01:00",
             "ticketed": true
         },
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-06",
-            "end": "2022-09-06T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of Bethlem Hospital Grounds",
-            "notes": "Tour begins and ends on Museum steps; Museum and Gallery will be open to visitors afterwards. Places must be pre-booked; do not attend without a ticket.",
-            "start": "2022-09-06T12:30:00+01:00",
+            "booking_link": "https://programme.openhouse.org.uk/listings/3521",
+            "capacity": null,
+            "date": "2022-09-20",
+            "drop_in": false,
+            "end": "2022-09-20T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided walk around Hospital grounds",
+            "notes": null,
+            "start": "2022-09-20T12:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/3521",
+            "capacity": null,
+            "date": "2022-09-20",
+            "drop_in": false,
+            "end": "2022-09-20T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided walk around Hospital grounds",
+            "notes": null,
+            "start": "2022-09-20T14:30:00+01:00",
             "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Parking",
-            "Toilets",
-            "Photography is not permitted on site"
-        ]
+        "Parking",
+        "Toilets",
+        "Photography is not permitted on site"
     ],
     "factsheet": [
         {
@@ -76,10 +92,10 @@
     "id": 3521,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3521/building_3521_s320170712-4-mqgrtn20170712-4-1mr66tp20170712-4-1tq1li9_ab4f83705f0326788052b9e8e28c76bf.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3521/building_3521_bethlem-9531_d65253ea0540429f8c59fa5e33343d91.jpg",
             "description": null,
             "title": "Bethlem Museum of the Mind",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_3521_s320170712-4-mqgrtn20170712-4-1mr66tp20170712-4-1tq1li9_ab4f83705f0326788052b9e8e28c76bf.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3521_bethlem-9531_d65253ea0540429f8c59fa5e33343d91.jpg"
         }
     ],
     "links": [],
@@ -89,11 +105,11 @@
         "longitude": -0.027998,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Eden Park, East Croydon",
-            "Bus routes: 356, 119, 194, 198, 358"
+            "Train: Eden Park, East Croydon",
+            "Bus: 356, 119, 194, 198, 358"
         ]
     },
     "name": "Bethlem Royal Hospital",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/3521",
+    "original_url": "https://programme.openhouse.org.uk/listings/3521",
     "ticketed_events": true
 }

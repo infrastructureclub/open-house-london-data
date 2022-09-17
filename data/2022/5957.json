@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Haworth Tompkins",
-                "description": "Original design",
+                "description": null,
                 "year": "2016"
             }
         ],
@@ -18,46 +18,36 @@
     },
     "events": [
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-10",
-            "end": "2022-09-10T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Silchester Estate with David Graham",
+            "booking_link": "https://programme.openhouse.org.uk/listings/5957",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Tour by Architect",
             "notes": null,
-            "start": "2022-09-10T11:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-17T12:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-10",
-            "end": "2022-09-10T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "Silchester Estate with David Graham",
+            "booking_link": "https://programme.openhouse.org.uk/listings/5957",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T14:15:00+01:00",
+            "fully_booked": false,
+            "name": "Tour by Architect",
             "notes": null,
-            "start": "2022-09-10T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-10",
-            "end": "2022-09-10T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "Silchester Estate with David Graham",
-            "notes": null,
-            "start": "2022-09-10T13:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-17T13:15:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Architect on site"
-        ]
+        "Architect on site"
     ],
     "factsheet": [
         {
@@ -100,10 +90,10 @@
     "id": 5957,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5957/building_5957_s320170712-4-1fddtw20170712-4-1us2s7420170712-4-camug2_6afa92d295f0ed2bca26f6b7071d423a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5957/building_5957_1pr-silchester-philip-vile_b9fe53565d84e7c15299dd3e833f7a49.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_5957_s320170712-4-1fddtw20170712-4-1us2s7420170712-4-camug2_6afa92d295f0ed2bca26f6b7071d423a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5957_1pr-silchester-philip-vile_b9fe53565d84e7c15299dd3e833f7a49.jpg"
         }
     ],
     "links": [],
@@ -113,11 +103,11 @@
         "longitude": -0.2196223,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Latimer Road",
-            "Bus routes: 295, 316, 7"
+            "Tube: Latimer Road",
+            "Bus: 295, 316, 7"
         ]
     },
     "name": "Silchester Estate",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/5957",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/5957",
+    "ticketed_events": true
 }

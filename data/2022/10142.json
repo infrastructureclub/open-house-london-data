@@ -12,70 +12,22 @@
     },
     "events": [
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 5000,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Information from Purcell UK architects",
-            "notes": "Explore behind-the-scenes stories of Boston Manor and its former residents with the Heritage Architects, Purcell. This online snapshot series will take you through some of the stories hidden within and behind the bricks, mortar, paint and plaster; celebrating the fascinating discoveries and expert re-telling of times bygone.",
-            "start": "2022-09-04T09:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-08",
-            "end": "2022-09-08T11:15:00+01:00",
-            "fully_booked": null,
-            "name": "Walk with Boston Manor House volunteer",
+            "booking_link": "https://programme.openhouse.org.uk/listings/10142",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Boston Manor House to Gunnersbury Walk",
             "notes": null,
-            "start": "2022-09-08T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 5000,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Virtual tour of Boston Manor House",
-            "notes": "We will be releasing a virtual tour of the site whilst it's closed for restoration through our social media channels.",
-            "start": "2022-09-11T09:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-11",
-            "end": "2022-09-11T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Walk with Boston Manor House volunteer",
-            "notes": null,
-            "start": "2022-09-11T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-12",
-            "end": "2022-09-12T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Walk with Boston Manor House volunteer",
-            "notes": null,
-            "start": "2022-09-12T11:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-17T10:30:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Parking"
-        ]
+        "Family activities"
     ],
     "factsheet": [
         {
@@ -96,25 +48,25 @@
     "id": 10142,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10142/building_10142_bmh-front_d2e939a741d57a572a467bfec36d03ee.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10142/building_10142_bmh-front_b1c3a37768c6f16d03c5ae1da7fe96aa.jpg",
             "description": null,
             "title": "Boston Manor House ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_10142_bmh-front_d2e939a741d57a572a467bfec36d03ee.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10142_bmh-front_b1c3a37768c6f16d03c5ae1da7fe96aa.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Boston Manor House, Boston Manor Road, Brentford, TW8 9JX",
+        "address": "Boston Manor House, Boston Manor Road",
         "latitude": 51.4919183,
         "longitude": -0.3183739,
-        "meeting_point": "By Boston Manor House's front gate (currently locked), near The Ride bus stop (Stop S) and opposite The Ride road.",
+        "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Boston Manor",
-            "Nearest train: Brentford",
-            "Bus routes: E8, 195, H91"
+            "Tube: Boston Manor",
+            "Train: Brentford",
+            "Bus: E8, 195, H91"
         ]
     },
-    "name": "Boston Manor House and Park Walks",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/10142",
-    "ticketed_events": false
+    "name": "CANCELLED Boston Manor House and Park Walks",
+    "original_url": "https://programme.openhouse.org.uk/listings/10142",
+    "ticketed_events": true
 }

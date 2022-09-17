@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1514"
-            },
-            {
-                "architect": "Butler & Hegarty",
-                "description": "Restoration",
-                "year": "2022"
             }
         ],
         "periods": [
+            "Butler & Hegarty",
             "Tudor",
             "Stuart",
             "Georgian",
@@ -28,124 +24,196 @@
     },
     "events": [
         {
+            "activity_type": "Young people",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-04",
-            "end": "2022-09-04T11:30:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tours (outside)",
-            "notes": "This is an external guided tour of the manorhouse and grounds, by Museum & Archive staff",
-            "start": "2022-09-04T10:30:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Family Activities - dressing up, Bruce Castle style!",
+            "notes": null,
+            "start": "2022-09-17T13:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour (outside)",
-            "notes": "This is an external guided tour of the manorhouse and grounds, by Museum & Archive staff",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T14:15:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour of Bruce Castle and Tudor Tower ",
+            "notes": null,
+            "start": "2022-09-17T13:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-04",
-            "end": "2022-09-04T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour (outside)",
-            "notes": "This is an external guided tour of the manorhouse and grounds, by Museum & Archive staff",
-            "start": "2022-09-04T13:00:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T14:45:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour of Bruce Castle and Tudor Tower",
+            "notes": null,
+            "start": "2022-09-17T13:30:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Talk",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour (outside)",
-            "notes": "This is an external guided tour of the manorhouse and grounds, by Museum & Archive staff",
-            "start": "2022-09-04T14:30:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T14:15:00+01:00",
+            "fully_booked": false,
+            "name": "Talk by conservation architect Butler & Hegarty",
+            "notes": null,
+            "start": "2022-09-17T13:45:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour (outside)",
-            "notes": "This is an external guided tour of the manorhouse and grounds, by Museum & Archive staff",
-            "start": "2022-09-04T15:00:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T15:45:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour of Bruce Castle and Tudor Tower",
+            "notes": null,
+            "start": "2022-09-17T14:30:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Talk",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-05",
-            "end": "2022-09-05T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour (outside)",
-            "notes": "This is an external guided tour of the manorhouse and grounds, by Museum & Archive staff",
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T15:15:00+01:00",
+            "fully_booked": false,
+            "name": "Talk by conservation architect Butler & Hegarty",
+            "notes": null,
+            "start": "2022-09-17T14:45:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-05",
-            "end": "2022-09-05T14:30:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour (outside)",
-            "notes": "This is an external guided tour of the manorhouse and grounds, by Museum & Archive staff",
-            "start": "2022-09-05T13:30:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T16:15:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour of Bruce Castle and Tudor Tower",
+            "notes": null,
+            "start": "2022-09-17T15:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Talk",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour (outside)",
-            "notes": "This is an external guided tour of the manorhouse and grounds, by Museum & Archive staff",
-            "start": "2022-09-05T14:30:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T16:15:00+01:00",
+            "fully_booked": false,
+            "name": "Talk by conservation architect Butler & Hegarty",
+            "notes": null,
+            "start": "2022-09-17T15:45:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Young people",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour (outside)",
-            "notes": "This is an external guided tour of the manorhouse and grounds, by Museum & Archive staff",
-            "start": "2022-09-05T15:00:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Living History: Face to face with Bruce Castle's Past",
+            "notes": null,
+            "start": "2022-09-18T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T14:15:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour of Bruce Castle and Tudor Tower",
+            "notes": null,
+            "start": "2022-09-18T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T14:45:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour of Bruce Castle and Tudor Tower",
+            "notes": null,
+            "start": "2022-09-18T13:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T15:45:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour of Bruce Castle and Tudor Tower",
+            "notes": null,
+            "start": "2022-09-18T14:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T16:15:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour of Bruce Castle and Tudor Tower",
+            "notes": null,
+            "start": "2022-09-18T15:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Family activities during open house festival",
-            "Architect on site",
-            "Bookshop",
-            "Parking",
-            "Refreshments",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Family activities",
+        "Architect on site",
+        "Bookshop",
+        "Parking",
+        "Refreshments",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -177,48 +245,48 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2728/building_2728_brucecastlelowres005_e2394a4ee36e0a5c402bbd7b3c2318dc.jpg",
-            "description": "Warren Cooper · 2021",
+            "description": null,
             "title": "Bruce Castle - south facade",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2728_brucecastlelowres005_e2394a4ee36e0a5c402bbd7b3c2318dc.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2728/building_2728_exterior-front-towards-tower-no-shadows_61db1c297e4de24349525d4ec63add08.jpg",
-            "description": "Bruce Castle Museum & Archive · 2021",
+            "description": null,
             "title": "View from south east",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2728_exterior-front-towards-tower-no-shadows_61db1c297e4de24349525d4ec63add08.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2728/building_2728_resized-20210927_123723_51b725994c00a1f04b40b170cd4b842c.jpg",
-            "description": "Henry Jacobs · 2021",
+            "description": null,
             "title": "Open House tour at Bruce Castle in 2021",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2728_resized-20210927_123723_51b725994c00a1f04b40b170cd4b842c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2728/building_2728_brucecastlelowres015_bad5c22d112885c7aea0e3999a4c43d5.jpg",
-            "description": "Warren Cooper · 2021",
+            "description": null,
             "title": "East Wing of Bruce Castle",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2728_brucecastlelowres015_bad5c22d112885c7aea0e3999a4c43d5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2728/building_2728_brucecastlelowres080_fbd02b1c62c1c6ea79cb84f69f4ce602.jpg",
-            "description": "Warren Cooper · 2021",
+            "description": null,
             "title": "North elevation of Bruce Castle",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2728_brucecastlelowres080_fbd02b1c62c1c6ea79cb84f69f4ce602.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Bruce Castle Museum,, Lordship Lane, Tottenham, N17 8NU",
+        "address": "Bruce Castle Museum,, Lordship Lane, Tottenham",
         "latitude": 51.5991494,
         "longitude": -0.0754686,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Seven Sisters, Wood Green, Tottenham Hale",
-            "Nearest train: Bruce Grove",
-            "Bus routes: 123, 243, 318"
+            "Tube: Seven Sisters, Wood Green, Tottenham Hale",
+            "Train: Bruce Grove",
+            "Bus: 123, 243, 318"
         ]
     },
     "name": "Bruce Castle Museum",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2728",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/2728",
+    "ticketed_events": true
 }

@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Nicholas Barbon",
-                "description": "Original design",
+                "description": null,
                 "year": "1690"
             }
         ],
@@ -17,24 +17,9 @@
             "livery hall"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-11",
-            "end": "2022-09-11T15:30:00+01:00",
-            "fully_booked": null,
-            "name": "Open House at Coopers' Hall",
-            "notes": "Please register your interest in visiting Coopers' Hall by emailing CommsManager@coopers-hall.co.uk stating when you want to visit (entry on the hour and half hour from 10am, last entry 3pm) and how many people in your group.",
-            "start": "2022-09-11T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -60,44 +45,35 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8446/building_8446_coopers-hall-1_2d0c7e034bd81f00f5987487790958dd.jpg",
-            "description": "",
+            "description": null,
             "title": "Staircase and entrance at Coopers' Hall",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8446_coopers-hall-1_2d0c7e034bd81f00f5987487790958dd.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8446/building_8446_dining-room-2_ca5e05169f4a9b4aefc8dd0b11852077.jpg",
-            "description": "",
+            "description": null,
             "title": "Dining Room",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8446_dining-room-2_ca5e05169f4a9b4aefc8dd0b11852077.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8446/building_8446_watercolour-painting-of-the-hall-2009-artist-martin-millard_147b96a46e346ba77f5618bd80abc048.jpg",
-            "description": "Martin Millard · 2009",
+            "description": null,
             "title": "Watercolour painting of the hall",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8446_watercolour-painting-of-the-hall-2009-artist-martin-millard_147b96a46e346ba77f5618bd80abc048.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "http://www.coopers-hall.co.uk",
-            "title": "Website"
-        },
-        {
-            "href": "https://twitter.com/cooperscompany",
-            "title": "@cooperscompany"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "13 Devonshire Square, City of London, EC2M 4TH",
         "latitude": 51.5168085,
         "longitude": -0.0792252,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Liverpool Street",
-            "Nearest train: Liverpool Street"
+            "Tube: Liverpool Street",
+            "Train: Liverpool Street"
         ]
     },
     "name": "Coopers' Hall",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8446",
+    "original_url": "https://programme.openhouse.org.uk/listings/8446",
     "ticketed_events": false
 }

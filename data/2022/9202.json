@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Community Garden",
-                "description": "Original design",
+                "description": null,
                 "year": "2019"
             }
         ],
@@ -21,83 +21,37 @@
     },
     "events": [
         {
-            "all_day": true,
-            "booking_link": null,
-            "capacity": 5,
-            "date": "2022-09-04",
-            "end": "2022-09-04T23:59:00+01:00",
-            "fully_booked": null,
-            "name": "Planting and kids-friendly activities",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T00:00:00+01:00",
-            "ticketed": false
-        },
-        {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Day",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T11:30:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T12:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Garden tour",
-            "notes": null,
-            "start": "2022-09-04T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": true,
-            "booking_link": null,
-            "capacity": 5,
-            "date": "2022-09-05",
-            "end": "2022-09-05T23:59:00+01:00",
-            "fully_booked": null,
-            "name": "Planting and kids-friendly activities",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T00:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Day",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Garden tour",
-            "notes": null,
-            "start": "2022-09-05T12:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T12:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Architect on site",
-            "Disabled access"
-        ]
+        "Architect on site",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -111,64 +65,59 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9202/building_9202_img_6672_a7d3e875fcb748274c7d5c4528685ee0.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9202_img_6672_a7d3e875fcb748274c7d5c4528685ee0.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9202/building_9202_img_6679_3abd36cdf512612f7e1dbe74ecf4b9af.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9202_img_6679_3abd36cdf512612f7e1dbe74ecf4b9af.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9202/building_9202_large-photo-3_eeeb3e618abe1a553574740619c3ea3a.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9202_large-photo-3_eeeb3e618abe1a553574740619c3ea3a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9202/building_9202_sunflowersged_10bcbde5d5a925462b4947e2563c3a53.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9202_sunflowersged_10bcbde5d5a925462b4947e2563c3a53.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9202/building_9202_ab42ba99-9fea-4839-ac90-81215350437e_b94140918b1e257b9c2094d9fa198eb2.jpeg",
-            "description": "2022",
+            "description": null,
             "title": "life in the GED",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9202_ab42ba99-9fea-4839-ac90-81215350437e_b94140918b1e257b9c2094d9fa198eb2.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9202/building_9202_de95fbb0-954f-4bef-9896-d86211941f6e_e8934cf5429d211a9aca53aab2544441.jpeg",
-            "description": "2022",
+            "description": null,
             "title": "meeting with nature",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9202_de95fbb0-954f-4bef-9896-d86211941f6e_e8934cf5429d211a9aca53aab2544441.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9202/building_9202_34be6530-3ea0-4ed6-b6cf-685ce9406e7d_48cf9cf601ad4e98d2030cd34f6d7af0.jpeg",
-            "description": "2022",
+            "description": null,
             "title": "oh,hi",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9202_34be6530-3ea0-4ed6-b6cf-685ce9406e7d_48cf9cf601ad4e98d2030cd34f6d7af0.jpeg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.instagram.com/gardenearthlydelights/",
-            "title": "Website"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "161 Graham Rd, E8 1BT",
         "latitude": 51.5463131,
         "longitude": -0.0606722,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Hackney Central",
-            "Bus routes: 277, 38, 242"
+            "Train: Hackney Central",
+            "Bus: 277, 38, 242"
         ]
     },
     "name": "GARDEN OF EARTHLY DELIGHTS🌱🐝🍅🦋",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9202",
+    "original_url": "https://programme.openhouse.org.uk/listings/9202",
     "ticketed_events": false
 }

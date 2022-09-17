@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1250"
             }
         ],
@@ -18,36 +18,24 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Access to church",
-            "notes": null,
-            "start": "2022-09-04T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Access to church",
-            "notes": null,
-            "start": "2022-09-05T11:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Disabled access",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -65,37 +53,37 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/841/building_841_img_7798_6e8184159d6e755d026f8b70a84fe813.jpg",
-            "description": "Astrid Weinmann · 2021",
+            "description": null,
             "title": "View from South East",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_841_img_7798_6e8184159d6e755d026f8b70a84fe813.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/841/building_841_img_8684_3af180dd01d6b5fd565d746018b2495f.jpg",
-            "description": "Astrid Weinmann · 2021",
+            "description": null,
             "title": "View from North West",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_841_img_8684_3af180dd01d6b5fd565d746018b2495f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/841/building_841_img_7793_ea914795432f15109a4934a5626d2968.jpg",
-            "description": "Astrid Weinmann · 2021",
+            "description": null,
             "title": "Nave",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_841_img_7793_ea914795432f15109a4934a5626d2968.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/841/building_841_img_7792_884f1708119871e1702231512e728d90.jpg",
-            "description": "Astrid Weinmann · 2021",
+            "description": null,
             "title": "Chancel",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_841_img_7792_884f1708119871e1702231512e728d90.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/841/building_841_img_7797_98a4bbfa031d399bb50517476386a892.jpg",
-            "description": "Astrid Weinmann · 2021",
+            "description": null,
             "title": "Font",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_841_img_7797_98a4bbfa031d399bb50517476386a892.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/841/building_841_img_2208a_47fa99190c227d5bea42fe1ae4c166ae.jpg",
-            "description": "Kai Liu · 2021",
+            "description": null,
             "title": "Churchyard (West)",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_841_img_2208a_47fa99190c227d5bea42fe1ae4c166ae.jpg"
         }
@@ -107,11 +95,11 @@
         "longitude": -0.4707656,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: West Drayton",
-            "Bus routes: 222, U5, 350, U3, U1"
+            "Train: West Drayton",
+            "Bus: 222, U5, 350, U3, U1"
         ]
     },
     "name": "St Martin's Parish Church, West Drayton",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/841",
+    "original_url": "https://programme.openhouse.org.uk/listings/841",
     "ticketed_events": false
 }

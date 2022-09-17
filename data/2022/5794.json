@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Sanya Polescuk Architects",
-                "description": "Original design",
+                "description": null,
                 "year": "2012"
             }
         ],
@@ -18,25 +18,10 @@
             "online"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-12",
-            "end": "2022-09-12T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "Walkabout",
-            "notes": "Online only, link here: https://www.youtube.com/watch?v=O_9blevxSkY",
-            "start": "2022-09-12T11:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Architect on site"
-        ]
+        "Toilets",
+        "Architect on site"
     ],
     "factsheet": [
         {
@@ -54,41 +39,36 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5794/building_5794_8a-belsize-03_312d4f67e973db261f0156a28c31c856.jpg",
-            "description": "",
+            "description": null,
             "title": "Upper Maisonette - Dining Area",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5794_8a-belsize-03_312d4f67e973db261f0156a28c31c856.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5794/building_5794_upper_living_with_reclaimed_heating_aa3ce66d623b884698145e40b7373a74.jpg",
-            "description": "",
+            "description": null,
             "title": "Upper Maisonette - Living area, with reclaimed heating",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5794_upper_living_with_reclaimed_heating_aa3ce66d623b884698145e40b7373a74.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5794/building_5794_architects_studio_exposed_original_cobbles_and_new_rubber_floor_6e922ba6a92bd994aef24ce78bf0311e.JPG",
-            "description": "",
+            "description": null,
             "title": "Architects' Studio, with exposed original cobbles and new rubber floor",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5794_architects_studio_exposed_original_cobbles_and_new_rubber_floor_6e922ba6a92bd994aef24ce78bf0311e.JPG"
         }
     ],
-    "links": [
-        {
-            "href": "https://polescukarchitects.com/2021/09/open-house-2021/",
-            "title": "Website"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "8a Belsize Court Garages, NW3 5AJ",
         "latitude": 51.5500659,
         "longitude": -0.1709004,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Belsize Park, Swiss Cottage",
-            "Nearest train: Hampstead Heath",
-            "Bus routes: 168, 268, 46"
+            "Tube: Belsize Park, Swiss Cottage",
+            "Train: Hampstead Heath",
+            "Bus: 168, 268, 46"
         ]
     },
     "name": "8a Belsize Court Garages",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/5794",
+    "original_url": "https://programme.openhouse.org.uk/listings/5794",
     "ticketed_events": false
 }

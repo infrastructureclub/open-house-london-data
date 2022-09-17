@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "WW Lee and JA Tregelles",
-                "description": "Original design",
+                "description": null,
                 "year": "1883"
             }
         ],
@@ -17,25 +17,10 @@
             "mixed use"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Westminster Quaker Meeting House",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -82,59 +67,64 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3523/building_3523_interior-photo_fde21ed50e53760bb3f7af3462b87eff.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3523_interior-photo_fde21ed50e53760bb3f7af3462b87eff.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3523/building_3523_exterior-photo_9dd0b1278fbfbeca5a4ec87d8e298bc1.JPG",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3523_exterior-photo_9dd0b1278fbfbeca5a4ec87d8e298bc1.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3523/building_3523_interior-photo_3dccbf13f6dcb0d5f3e2360db0832323.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3523_interior-photo_3dccbf13f6dcb0d5f3e2360db0832323.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3523/building_3523_exterior-photo_cef0ad9f2ba784b0ef2375a86da49b61.JPG",
-            "description": "",
+            "description": null,
             "title": "interior of Westminster meeting house today",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3523_exterior-photo_cef0ad9f2ba784b0ef2375a86da49b61.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3523/building_3523_exterior-photo_a50860b7e0660eefed43f5bc3bf650bc.jpg",
-            "description": "2019",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3523_exterior-photo_a50860b7e0660eefed43f5bc3bf650bc.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3523/building_3523_interior-photo_9a1b0bb698113b94a6784ad13f125b32.jpg",
-            "description": "2018",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3523_interior-photo_9a1b0bb698113b94a6784ad13f125b32.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3523/building_3523_interior-photo_fe8a65d079bef62c71845f9b374b9fcb.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3523_interior-photo_fe8a65d079bef62c71845f9b374b9fcb.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "http://heritage.quaker.org.uk/files/Westminster%20LM.pdf",
+            "title": null
+        }
+    ],
     "location": {
         "address": "52 St Martin's Lane, WC2N 4EH",
         "latitude": 51.5107621,
         "longitude": -0.1268556,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Leicester Square, Covent Garden",
-            "Nearest train: Charing Cross"
+            "Tube: Leicester Square, Covent Garden",
+            "Train: Charing Cross"
         ]
     },
     "name": "Westminster Quaker Meeting House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/3523",
+    "original_url": "https://programme.openhouse.org.uk/listings/3523",
     "ticketed_events": false
 }

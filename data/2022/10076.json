@@ -13,22 +13,22 @@
     },
     "events": [
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 40,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Segal buildings Tour of Walters Way and One Tree Hill allotments",
-            "notes": "Some ground uneven, no wheelchair access sorry! Note: the houses in Walters Way are NOT open on this day.",
-            "start": "2022-09-04T14:00:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/10076",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Segal Method Talk and Tour",
+            "notes": null,
+            "start": "2022-09-17T14:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -68,29 +68,38 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10076/building_10076_tour_ww_10_b47d5c4d08af900c2eee9043e830a55d.jpg",
-            "description": "Ian white · 2019",
+            "description": null,
             "title": "House in Walters Way",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10076_tour_ww_10_b47d5c4d08af900c2eee9043e830a55d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10076/building_10076_tour_afril_shelter2_afff7ab77147e36e1886b0a539824e37.jpg",
-            "description": "Ian White · 2021",
+            "description": null,
             "title": "Afril Shelter",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10076_tour_afril_shelter2_afff7ab77147e36e1886b0a539824e37.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "www.segalselfbuild.co.uk",
+            "title": null
+        },
+        {
+            "href": "www.segalbuildings.me.uk",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Walters Way, Honor Oak Park, SE23 3LH",
         "latitude": 51.4497048,
         "longitude": -0.0503453,
-        "meeting_point": "Meet in Walters Way",
+        "meeting_point": null,
         "travel_info": [
-            "Nearest train: Honor Oak Park",
-            "Bus routes: P4, P12"
+            "Train: Honor Oak Park",
+            "Bus: P4, P12"
         ]
     },
     "name": "Walter Segal buildings tour",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/10076",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/10076",
+    "ticketed_events": true
 }

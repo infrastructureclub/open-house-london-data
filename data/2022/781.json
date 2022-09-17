@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Alfred Cox",
-                "description": "Original design",
+                "description": null,
                 "year": "1903"
             }
         ],
@@ -21,60 +21,24 @@
     },
     "events": [
         {
-            "all_day": true,
+            "activity_type": "Drop in",
+            "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T23:59:00+01:00",
-            "fully_booked": null,
-            "name": "Film - Kingston Museum",
-            "notes": "Available throughout September at www.kingstonheritage.org.uk/heritagefestival",
-            "start": "2022-09-04T00:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 6,
-            "date": "2022-09-11",
-            "end": "2022-09-11T11:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour",
-            "notes": "Book at https://www.kingstonheritage.org.uk/visit",
-            "start": "2022-09-11T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 6,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "General admission",
-            "notes": "Book at https://www.kingstonheritage.org.uk/visit",
-            "start": "2022-09-11T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 6,
-            "date": "2022-09-11",
-            "end": "2022-09-11T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided tour",
-            "notes": "Book at https://www.kingstonheritage.org.uk/visit",
-            "start": "2022-09-11T14:00:00+01:00",
-            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Bookshop",
-            "Disabled access",
-            "Toilets"
-        ]
+        "Bookshop",
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -96,13 +60,13 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/781/building_781_kingston-museum2-nap-logo_f884d4d62fe2bfbe895b8bbb2f53c187.jpg",
-            "description": "",
+            "description": null,
             "title": "Kingston Museum",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_781_kingston-museum2-nap-logo_f884d4d62fe2bfbe895b8bbb2f53c187.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/781/building_781_kingston-museum2_04d76b25f920842153ec0c3aea8df7d9.JPG",
-            "description": "",
+            "description": null,
             "title": "Kingston Museum",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_781_kingston-museum2_04d76b25f920842153ec0c3aea8df7d9.JPG"
         }
@@ -114,10 +78,10 @@
         "longitude": -0.3007265,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Kingston"
+            "Train: Kingston"
         ]
     },
-    "name": "Kingston Library, Museum and Art Gallery ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/781",
-    "ticketed_events": true
+    "name": "Kingston Library, Museum and Art Gallery",
+    "original_url": "https://programme.openhouse.org.uk/listings/781",
+    "ticketed_events": false
 }

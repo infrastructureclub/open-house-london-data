@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Anna Versteeg & Ollie Price",
-                "description": "Original design",
+                "description": null,
                 "year": "2010"
             }
         ],
@@ -18,35 +18,37 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Hermitage Community Moorings",
-            "notes": null,
-            "start": "2022-09-04T11:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Hermitage Community Moorings",
-            "notes": null,
-            "start": "2022-09-05T11:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -63,13 +65,13 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4642/building_4642_hermitagemoorings-1_799bd7dfc733796d5ea4a981042feea0.jpeg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4642_hermitagemoorings-1_799bd7dfc733796d5ea4a981042feea0.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/4642/building_4642_img_1027_3280e0477775d1d0c955e6d83c70700c.JPG",
-            "description": "Tom Cochrane · 2017",
+            "description": null,
             "title": "Sunset View from Hermitage Moorings",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4642_img_1027_3280e0477775d1d0c955e6d83c70700c.JPG"
         }
@@ -81,12 +83,12 @@
         "longitude": -0.0665883,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Tower Hill",
-            "Nearest train: Wapping",
-            "Bus routes: 100, 42, 78, 343"
+            "Tube: Tower Hill",
+            "Train: Wapping",
+            "Bus: 100, 42, 78, 343"
         ]
     },
     "name": "Hermitage Community Moorings",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/4642",
+    "original_url": "https://programme.openhouse.org.uk/listings/4642",
     "ticketed_events": false
 }

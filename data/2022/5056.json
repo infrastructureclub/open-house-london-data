@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Thomas Cubitt",
-                "description": "Original design",
+                "description": null,
                 "year": "1828"
             }
         ],
@@ -18,37 +18,10 @@
             "embassy/high commission"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 40,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of the Romanian Cultural Institute (Sat)",
-            "notes": null,
-            "start": "2022-09-11T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 40,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour of the Romanian Cultural Institute (Sun)",
-            "notes": null,
-            "start": "2022-09-12T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Disabled access"
-        ]
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -72,43 +45,43 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5056/building_5056_belgrave-square1_25499104e78c4179221fff7f10a0512b.jpg",
-            "description": "Romanian Cultural Institute · 2016",
+            "description": null,
             "title": "View from the front",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5056_belgrave-square1_25499104e78c4179221fff7f10a0512b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5056/building_5056_belgrave-square1-2_05a4a951a3bdff2350ff63896d3a81c2.jpg",
-            "description": "Romanian Cultural Institute · 2016",
+            "description": null,
             "title": "View from the side",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5056_belgrave-square1-2_05a4a951a3bdff2350ff63896d3a81c2.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5056/building_5056_interior_2b4b685209c29c6c5a4cc950e128b429.jpg",
-            "description": "2019",
+            "description": null,
             "title": "Interior View 1",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5056_interior_2b4b685209c29c6c5a4cc950e128b429.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5056/building_5056_web_pic2_e38f7b182f8902a07a61996070716b14.jpg",
-            "description": "2019",
+            "description": null,
             "title": "Interior View 2",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5056_web_pic2_e38f7b182f8902a07a61996070716b14.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5056/building_5056_web_pic9_3c235a1406769e0c513faebdcdafe1a1.jpg",
-            "description": "2019",
+            "description": null,
             "title": "Interior View 3",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5056_web_pic9_3c235a1406769e0c513faebdcdafe1a1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5056/building_5056_rci-exterior-2_127514c5b4307c719a66113ec1dfa6f6.jpg",
-            "description": "RCI London · 2017",
+            "description": null,
             "title": "Romanian Cultural Institute",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5056_rci-exterior-2_127514c5b4307c719a66113ec1dfa6f6.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5056/building_5056_rci-exterior-1_d5be1c022ecea1d02572eb5b0a397a9c.jpg",
-            "description": "RCI London · 2018",
+            "description": null,
             "title": "Romanian Cultural Institute",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5056_rci-exterior-1_d5be1c022ecea1d02572eb5b0a397a9c.jpg"
         }
@@ -120,12 +93,12 @@
         "longitude": -0.1539844,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Hyde Park Corner",
-            "Nearest train: Victoria",
-            "Bus routes: 2, 9, 14, 137, 148, 436, 13, 390, 23"
+            "Tube: Hyde Park Corner",
+            "Train: Victoria",
+            "Bus: 2, 9, 14, 137, 148, 436, 13, 390, 23"
         ]
     },
     "name": "Romanian Cultural Institute",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/5056",
+    "original_url": "https://programme.openhouse.org.uk/listings/5056",
     "ticketed_events": false
 }

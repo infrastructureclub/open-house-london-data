@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "James M Bignall",
-                "description": "Original design",
+                "description": null,
                 "year": "1885"
             }
         ],
@@ -18,36 +18,38 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 50,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access and Talk",
-            "notes": null,
-            "start": "2022-09-04T11:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 50,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access and Talk",
-            "notes": null,
-            "start": "2022-09-05T13:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T13:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -80,43 +82,43 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7801/building_7801_st-michael-s-walthamstow_67655d4aeace83d7b521a8159b326e7f",
-            "description": "",
+            "description": null,
             "title": "St Michael's exterior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7801_st-michael-s-walthamstow_67655d4aeace83d7b521a8159b326e7f"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7801/building_7801_high-altar_838a061ca2ab7ada6f7992e58f149d01.jpg",
-            "description": "",
+            "description": null,
             "title": "High Altar",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7801_high-altar_838a061ca2ab7ada6f7992e58f149d01.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7801/building_7801_our-lady-of-walsingham_079af73cd5ecb1122739eb2b34d578f9.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7801_our-lady-of-walsingham_079af73cd5ecb1122739eb2b34d578f9.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7801/building_7801_the-ceiling_6761c268af069c05b5a8c00ca9065f7b.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7801_the-ceiling_6761c268af069c05b5a8c00ca9065f7b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7801/building_7801_the-high-altar-and-ceiling_c415d8c55a9aa568737918b66770eee5.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7801_the-high-altar-and-ceiling_c415d8c55a9aa568737918b66770eee5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7801/building_7801_the-high-altar_4fbe5056a4a02f7f8f67ba7ab7eabf94.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7801_the-high-altar_4fbe5056a4a02f7f8f67ba7ab7eabf94.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7801/building_7801_the-memorial_219b08a998294049b43ea2850f22a26b.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7801_the-memorial_219b08a998294049b43ea2850f22a26b.jpg"
         }
@@ -128,12 +130,12 @@
         "longitude": -0.0294614,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Walthamstow Central",
-            "Nearest train: Blackhorse Road",
-            "Bus routes: W11, W15"
+            "Tube: Walthamstow Central",
+            "Train: Blackhorse Road",
+            "Bus: W11, W15"
         ]
     },
     "name": "St Michael and All Angels Church",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/7801",
+    "original_url": "https://programme.openhouse.org.uk/listings/7801",
     "ticketed_events": false
 }

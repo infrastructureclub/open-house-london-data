@@ -4,8 +4,23 @@
     "design": {
         "designers": [
             {
-                "architect": "Rae Evans, Roger Bicknell, Don Eastaugh, Ted Hollamby",
-                "description": "Original design",
+                "architect": "Rae Evans",
+                "description": null,
+                "year": "1967"
+            },
+            {
+                "architect": "Roger Bicknell",
+                "description": null,
+                "year": "1967"
+            },
+            {
+                "architect": "Don Eastaugh",
+                "description": null,
+                "year": "1967"
+            },
+            {
+                "architect": "Ted Hollamby",
+                "description": null,
                 "year": "1967"
             }
         ],
@@ -16,62 +31,11 @@
             "housing"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 5,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Estate tours",
-            "notes": "Tours conducted on rolling basis.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Exhibition",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 5,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Estate tours",
-            "notes": "Tours conducted on rolling basis.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Exhibition",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-12T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets",
-            "Disabled access"
-        ]
+        "Refreshments",
+        "Toilets",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -109,36 +73,36 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6047/building_6047_img_1422_aedd378a2303054b487b06b30b6801bf.JPG",
-            "description": "Joanne Parkes · 2017",
+            "description": null,
             "title": "Towards Bodley Manor Way across the Telly Tubby",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6047_img_1422_aedd378a2303054b487b06b30b6801bf.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6047/building_6047_cressinghamgardenstour-3_highres_b18d38fad12ffe3e7c9b2a3e75f86a0e.jpg",
-            "description": "Susanne Hakuba · 2014",
+            "description": null,
             "title": "Rotunda",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6047_cressinghamgardenstour-3_highres_b18d38fad12ffe3e7c9b2a3e75f86a0e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6047/building_6047_img_2937_df265bcabeefc11084ac4285a7840b6a.JPG",
-            "description": "2016",
+            "description": null,
             "title": "Ivy Lady",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6047_img_2937_df265bcabeefc11084ac4285a7840b6a.JPG"
         }
     ],
     "links": [],
     "location": {
-        "address": "Cressingham Gardens Rotunda, Tulse Hill , SW2 2QG",
+        "address": "Cressingham Gardens Rotunda, Tulse Hill",
         "latitude": 51.4470837,
         "longitude": -0.1118877,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Brixton",
-            "Nearest train: Herne Hill, Tulse Hill",
-            "Bus routes: 415, 432, 2, 201"
+            "Tube: Brixton",
+            "Train: Herne Hill, Tulse Hill",
+            "Bus: 415, 432, 2, 201"
         ]
     },
     "name": "Cressingham Gardens",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6047",
+    "original_url": "https://programme.openhouse.org.uk/listings/6047",
     "ticketed_events": false
 }

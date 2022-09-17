@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "John Brown of Norwich    / James Brooks",
-                "description": "Original design",
+                "description": null,
                 "year": "1841"
             }
         ],
@@ -18,49 +18,39 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-08",
-            "end": "2022-09-08T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "Help with children's quizzes",
-            "notes": "Adults welcomed as well. For the online tour visit www.stmargaretslee.org.uk",
-            "start": "2022-09-08T10:00:00+01:00",
+            "capacity": 50,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:30:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Help with Children's Quizzes",
-            "notes": "Adults welcomed as well.  For the online tour visit www.stmargaretslee.org.uk",
-            "start": "2022-09-11T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-12",
-            "end": "2022-09-12T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "General Access and Children's quizzes",
-            "notes": "General access and help with Children's Quizzes.   For the online tour visit www.stmargaretslee.org.uk",
-            "start": "2022-09-12T12:00:00+01:00",
+            "capacity": 50,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T13:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Parking",
-            "Toilets",
-            "Family activities during open house festival"
-        ]
+        "Disabled access",
+        "Parking",
+        "Toilets",
+        "Family activities"
     ],
     "factsheet": [
         {
@@ -105,59 +95,64 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8327/building_8327_dsc04346_d4140ffeb0c18306c707475e5b2eb2e5.JPG",
-            "description": "Ray Brookes · 2014",
+            "description": null,
             "title": "St Margaret, Lee ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8327_dsc04346_d4140ffeb0c18306c707475e5b2eb2e5.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8327/building_8327_dsc04382_3d4ed950ed8b9f0888b74ea5dd0606e0.JPG",
-            "description": "",
+            "description": null,
             "title": "St Margaret, Lee. View towards the West End",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8327_dsc04382_3d4ed950ed8b9f0888b74ea5dd0606e0.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8327/building_8327_dsc04400_8bcc087d8ec6ba15f6c7f1b2dbe73000.JPG",
-            "description": "",
+            "description": null,
             "title": "St Margaret, Lee. Wall Paintings",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8327_dsc04400_8bcc087d8ec6ba15f6c7f1b2dbe73000.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8327/building_8327_church-1_ea4c6bf95f331d96327df6700fe74f77.jpg",
-            "description": "",
+            "description": null,
             "title": "Church building ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8327_church-1_ea4c6bf95f331d96327df6700fe74f77.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8327/building_8327_church-img_6625-east-end-2_3fca7fa64c51bffa633c8d337b19d681.jpg",
-            "description": "",
+            "description": null,
             "title": "East end of church interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8327_church-img_6625-east-end-2_3fca7fa64c51bffa633c8d337b19d681.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8327/building_8327_img_6619-exterior_d239b82cd97abfda7c5c61f0d9d5ef7e.jpg",
-            "description": "",
+            "description": null,
             "title": "Exterior east end view",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8327_img_6619-exterior_d239b82cd97abfda7c5c61f0d9d5ef7e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8327/building_8327_magna-carta-window_956c8325e1c72427a4ecf760cbfb713a.jpg",
-            "description": "",
+            "description": null,
             "title": "Magna Carta stained glass window",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8327_magna-carta-window_956c8325e1c72427a4ecf760cbfb713a.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.stmargaretslee.org.uk/page/?title=Open+House+Church+Tour&pid=76",
+            "title": null
+        }
+    ],
     "location": {
         "address": "St Margarets Church,  Lee Terrace, SE13 5DN",
         "latitude": 51.4629384,
         "longitude": 0.0008993,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Blackheath, Lewisham",
-            "Bus routes: 54, 89, 108"
+            "Train: Blackheath, Lewisham",
+            "Bus: 54, 89, 108"
         ]
     },
-    "name": "St Margaret's Church, Lee ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8327",
+    "name": "St Margaret's Church, Lee",
+    "original_url": "https://programme.openhouse.org.uk/listings/8327",
     "ticketed_events": false
 }

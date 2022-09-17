@@ -5,48 +5,19 @@
         "designers": [
             {
                 "architect": "John Grene",
-                "description": "Original design",
+                "description": null,
                 "year": "1693"
-            },
-            {
-                "architect": "Austen Hall",
-                "description": "Restoration",
-                "year": "1920"
             }
         ],
         "periods": [
+            "Austen Hall",
             "Stuart"
         ],
         "types": [
             "historical house"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour",
-            "notes": "Access by pre-booked tour only. Tours starting on the hour, last tour at 4pm. All tours will follow current COVID guidelines.",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Tour",
-            "notes": "Access by pre-booked tour only. Tours starting on the hour, last tour at 4pm. All tours will follow current COVID guidelines.",
-            "start": "2022-09-05T10:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -62,21 +33,29 @@
                 "Originally situated on the first floor, it is almost square but has anterooms at each end, each with two entrances. It is panelled in dark oak, with half-columns framing the fireplace and deep window frames. On each side of the fireplace are recessed shelves. Grinling Gibbons, a protege of Wren, was commissioned to do the decorative carving, and the overmantel and panels over the doors and shelving are of the finest quality. They portray water-plants and animals, fish and anglers’ tackle. In the ceiling the oval, gilt-framed portrait of William of Orange celebrates the Treaty of Ryswick of 1697, as does the Royal Arms over the fireplace. Also on the ceiling are the arms of Myddleton and the Company Clerk, John Grene. The ceiling is richly moulded with foliage and birds and delightful tiny scenes of riparian rural life at its edge.",
                 "In 1904 the newly formed Metropolitan Water Board bought the Oak Room from the New River Company and installed it in the new Headquarters building designed in 1920 by Austin Hall as New River Head. During the war the Room was dismantled and stored, but it was re-instated in 1945. Now it remains marooned in the building which has been converted into luxury apartments."
             ]
+        },
+        {
+            "heading": "Tour details and booking",
+            "paragraphs": [
+                "Tours will take place on:",
+                "- Sunday 11 September: Tours start on the hour between 1000-1600 (last tour 1500) for ticket holders only\n- Saturday 17 September: Tours start on the hour between 1000-1500 (last tour 1400) for ticket holders only",
+                "Booking link: https://bit.ly/OakRooms"
+            ]
         }
     ],
     "id": 1188,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1188/building_1188_s320170712-4-1nzbd7r20170712-4-188hzer20170712-4-1q1zk0w_45ac0b75f5f80898149b7da33e573f3b.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1188/building_1188_screen-shot-2017-06-19-at-14-44-06_c0c3dc35cee20e002ae99d94dec34e40.png",
             "description": null,
             "title": "Oak Room",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_1188_s320170712-4-1nzbd7r20170712-4-188hzer20170712-4-1q1zk0w_45ac0b75f5f80898149b7da33e573f3b.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1188_screen-shot-2017-06-19-at-14-44-06_c0c3dc35cee20e002ae99d94dec34e40.png"
         }
     ],
     "links": [
         {
-            "href": "https://www.eventbrite.co.uk/e/oak-room-new-river-head-open-house-festival-2021-tickets-162248895815",
-            "title": "Book tickets via Eventbrite"
+            "href": "https://bit.ly/OakRooms",
+            "title": null
         }
     ],
     "location": {
@@ -85,12 +64,12 @@
         "longitude": -0.1075423,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Angel",
-            "Nearest train: Farringdon, King's Cross",
-            "Bus routes: 19, 38, 153, 341"
+            "Tube: Angel",
+            "Train: Farringdon, King's Cross",
+            "Bus: 19, 38, 153, 341"
         ]
     },
     "name": "Oak Room, New River Head",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1188",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/1188",
+    "ticketed_events": false
 }

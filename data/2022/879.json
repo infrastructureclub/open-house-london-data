@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Rivington Street Studio",
-                "description": "Original design",
+                "description": null,
                 "year": "1744"
-            },
-            {
-                "architect": "John Shaw",
-                "description": "Extension",
-                "year": "1837"
             }
         ],
         "periods": [
+            "John Shaw",
             "Historical/contemporary"
         ],
         "types": [
@@ -23,62 +19,11 @@
             "concert/performance space"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Lamorbey House Welcomes Open House London 2021",
-            "notes": "There will also be the opportunity to explore the campus and grounds.",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "Lamorbey House Welcomes Open House London 2021",
-            "notes": "There will also be the opportunity to explore the campus and grounds.",
-            "start": "2022-09-04T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-04",
-            "end": "2022-09-04T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "Lamorbey House Welcomes Open House London 2021",
-            "notes": "There will also be the opportunity to explore the campus and grounds.",
-            "start": "2022-09-04T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-04",
-            "end": "2022-09-04T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Lamorbey House Welcomes Open House London 2021",
-            "notes": "There will also be the opportunity to explore the campus and grounds.",
-            "start": "2022-09-04T14:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Parking",
-            "Toilets",
-            "Refreshments"
-        ]
+        "Parking",
+        "Toilets",
+        "Refreshments"
     ],
     "factsheet": [
         {
@@ -107,35 +52,35 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/879/building_879_lamorbeyhouse-21april15-9707_f488e4e3277f28eb310b8ece749229c1.jpg",
-            "description": "Rose Bruford College · 2015",
+            "description": null,
             "title": "View from The Glades",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_879_lamorbeyhouse-21april15-9707_f488e4e3277f28eb310b8ece749229c1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/879/building_879_lamorbey_house__44e0fdf63e8f542ce060363eaf6747f0.jpg",
-            "description": "Mere Words Photography",
+            "description": null,
             "title": "View of Facade",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_879_lamorbey_house__44e0fdf63e8f542ce060363eaf6747f0.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/879/building_879_lamorbey-house-2_cccdf55e8280523f4b627932590e2793.jpg",
-            "description": "Rose Bruford College · 2017",
+            "description": null,
             "title": "Front of Lamorbey House",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_879_lamorbey-house-2_cccdf55e8280523f4b627932590e2793.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Rose Bruford College, Burnt Oak Lane,,  Sidcup, DA15 9DF",
+        "address": "Rose Bruford College, Burnt Oak Lane,,  Sidcup",
         "latitude": 51.4388016,
         "longitude": 0.1076975,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Sidcup",
-            "Bus routes: 51, 229, 269, 286"
+            "Train: Sidcup",
+            "Bus: 51, 229, 269, 286"
         ]
     },
     "name": "Lamorbey House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/879",
+    "original_url": "https://programme.openhouse.org.uk/listings/879",
     "ticketed_events": false
 }

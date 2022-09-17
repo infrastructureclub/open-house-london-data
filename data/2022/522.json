@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Frankl + Luty",
-                "description": "Original design",
+                "description": null,
                 "year": "2000"
             }
         ],
@@ -16,40 +16,13 @@
             "sport"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open day",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open day",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-05T13:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Family activities during open house festival",
-            "Toilets",
-            "Parking",
-            "Refreshments",
-            "Disabled access"
-        ]
+        "Family activities",
+        "Toilets",
+        "Parking",
+        "Refreshments",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -83,19 +56,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/522/building_522_gyc-clubhouse-aug-2013-033-3_5548071edb2b266d170d19f512a3b421.jpg",
-            "description": "Chris Francis · 2008",
+            "description": null,
             "title": "Dinghy Sailing against backdrop of the GYC Clubhouse",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_522_gyc-clubhouse-aug-2013-033-3_5548071edb2b266d170d19f512a3b421.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/522/building_522_clubhouse_6f2ebc40716d387a0fa16b6d35d89773.jpg",
-            "description": "Chris Francis  · 2020",
+            "description": null,
             "title": "Clubhouse from Thames Pathway at Charlton",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_522_clubhouse_6f2ebc40716d387a0fa16b6d35d89773.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/522/building_522_lady-libby-2_50d2d4fac3682ad94c1fdb9efd70a098.jpg",
-            "description": "Chris Francis  · 2014",
+            "description": null,
             "title": "View from Clubhouse - Lady Libby - Work in Progress",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_522_lady-libby-2_50d2d4fac3682ad94c1fdb9efd70a098.jpg"
         }
@@ -107,12 +80,12 @@
         "longitude": 0.0177407,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: North Greenwich",
-            "Nearest train: Charlton, Westcombe Park",
-            "Bus routes: 129, 108, 132, 161, 472, 486"
+            "Tube: North Greenwich",
+            "Train: Charlton, Westcombe Park",
+            "Bus: 129, 108, 132, 161, 472, 486"
         ]
     },
     "name": "Greenwich Yacht Club",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/522",
+    "original_url": "https://programme.openhouse.org.uk/listings/522",
     "ticketed_events": false
 }

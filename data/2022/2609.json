@@ -4,8 +4,13 @@
     "design": {
         "designers": [
             {
-                "architect": "Ernest Newton, E.J.May",
-                "description": "Original design",
+                "architect": "Ernest Newton",
+                "description": null,
+                "year": "1890"
+            },
+            {
+                "architect": "E.J.May",
+                "description": null,
                 "year": "1890"
             }
         ],
@@ -16,36 +21,9 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 150,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Additional talk by local historian",
-            "notes": "At Annunciation Church Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T15:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Talk by local historian",
-            "notes": "Free entry. Talk about local houses of interest.  See self guided tour Donations acceptable Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T15:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Parking"
-        ]
+        "Parking"
     ],
     "factsheet": [
         {
@@ -82,34 +60,34 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2609/building_2609_img_3074_289c5feea50e54ac4f73d06fe59208a5.jpg",
-            "description": "The Chislehurst Society · 2016",
+            "description": null,
             "title": "The Cedars by Ernest Newton for William Willett",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2609_img_3074_289c5feea50e54ac4f73d06fe59208a5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2609/building_2609_armshousing1_cc17480a6006243f82d02c8bc5cb431e.jpg",
-            "description": "The Chislehurst Society · 2017",
+            "description": null,
             "title": "Manning and Anderdon  Alms Houses",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2609_armshousing1_cc17480a6006243f82d02c8bc5cb431e.jpg"
         }
     ],
     "links": [
         {
-            "href": "http:// www.chislehurst-society.org.uk/CATTWALK.pdf",
-            "title": "Download Trail here"
+            "href": "http://www.chislehurst-society.org.uk/PDFs/CATTWALK2017V3.pdf",
+            "title": null
         }
     ],
     "location": {
         "address": "Organised by the Chislehurst Society, BR7 5AQ",
         "latitude": 51.4182292,
         "longitude": 0.068507,
-        "meeting_point": "start at Church of the Annunciation of the Blessed Virgin Mary, 42 High St, Chislehurst BR7 5AQ",
+        "meeting_point": null,
         "travel_info": [
-            "Nearest train: Chislehurst, Elmstead Woods",
-            "Bus routes: 61, 269, 162"
+            "Train: Chislehurst, Elmstead Woods",
+            "Bus: 61, 269, 162"
         ]
     },
     "name": "Self-guided Architecture of Chislehurst Walk",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2609",
+    "original_url": "https://programme.openhouse.org.uk/listings/2609",
     "ticketed_events": false
 }

@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Religious Society of Friends",
-                "description": "Original design",
+                "description": null,
                 "year": "1791"
             }
         ],
@@ -18,24 +18,24 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 25,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open House",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T14:00:00+01:00",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T14:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Toilets",
-            "Refreshments"
-        ]
+        "Disabled access",
+        "Toilets",
+        "Refreshments"
     ],
     "factsheet": [
         {
@@ -66,25 +66,25 @@
     "id": 440,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/440/building_440_s320170712-4-1j62t0f20170712-4-a1fjs520170712-4-xyifwn_9b930994e1cabaa6fb7447cd15d9cbe5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/440/building_440_mh-front_8688872aee07b395e9d949399b7b5234.jpg",
             "description": null,
             "title": "Winchmore Hill Meeting House",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_440_s320170712-4-1j62t0f20170712-4-a1fjs520170712-4-xyifwn_9b930994e1cabaa6fb7447cd15d9cbe5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_440_mh-front_8688872aee07b395e9d949399b7b5234.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Winchmore Hill Quaker Meeting House, 59 Church Hill, N21 1LE",
+        "address": "Winchmore Hill Quaker Meeting House",
         "latitude": 51.63524,
         "longitude": -0.1041714,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Southgate",
-            "Nearest train: Winchmore Hill",
-            "Bus routes: 125, 329, W9"
+            "Tube: Southgate",
+            "Train: Winchmore Hill",
+            "Bus: 125, 329, W9"
         ]
     },
     "name": "Winchmore Hill Friends Meeting House & Burial Ground",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/440",
+    "original_url": "https://programme.openhouse.org.uk/listings/440",
     "ticketed_events": false
 }

@@ -5,53 +5,22 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1330"
-            },
-            {
-                "architect": "Henry Hakewill",
-                "description": "Restoration",
-                "year": "1863"
             }
         ],
         "periods": [
+            "Henry Hakewill",
             "Medieval"
         ],
         "types": [
             "religious"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open day",
-            "notes": null,
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Day",
-            "notes": null,
-            "start": "2022-09-05T12:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Parking",
-            "Toilets"
-        ]
+        "Parking",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -74,37 +43,37 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2616/building_2616_all-saints-foots-cray2_87911376c637e0f002fcb372ec63a01d.jpg",
-            "description": "2015",
+            "description": null,
             "title": "view of church from churchyard",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2616_all-saints-foots-cray2_87911376c637e0f002fcb372ec63a01d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2616/building_2616_altar_b9ecffc0fc8557ccc6bec3e2e0b8c73a.jpg",
-            "description": "2017",
+            "description": null,
             "title": "altar",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2616_altar_b9ecffc0fc8557ccc6bec3e2e0b8c73a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2616/building_2616_from-above_19fda8027cd235b54fba8b03b93ecb99.JPG",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2616_from-above_19fda8027cd235b54fba8b03b93ecb99.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2616/building_2616_one-of-the-beautiful-windows-in-the-lady-chapel_76624276440a3eec890672fdb2905b8d.JPG",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2616_one-of-the-beautiful-windows-in-the-lady-chapel_76624276440a3eec890672fdb2905b8d.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2616/building_2616_mass-dial-2_137c01399588d33e923232ad4cb5b549.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2616_mass-dial-2_137c01399588d33e923232ad4cb5b549.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2616/building_2616_the-ancient-font-at-all-saints-church_058eab8d907365a2f36855fdca5919c1.JPG",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2616_the-ancient-font-at-all-saints-church_058eab8d907365a2f36855fdca5919c1.JPG"
         }
@@ -116,11 +85,11 @@
         "longitude": 0.1090664,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Sidcup",
-            "Bus routes: 321, 51, 492, 233"
+            "Train: Sidcup",
+            "Bus: 321, 51, 492, 233"
         ]
     },
     "name": "All Saints, Foots Cray",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2616",
+    "original_url": "https://programme.openhouse.org.uk/listings/2616",
     "ticketed_events": false
 }

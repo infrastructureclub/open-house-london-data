@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1958"
             }
         ],
@@ -18,34 +18,36 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 12,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Kaymet Factory",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
             "capacity": 12,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Kaymet Factory",
-            "notes": null,
-            "start": "2022-09-05T10:00:00+01:00",
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -64,31 +66,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6826/building_6826_1-img_7919_56b54ea36b91f71b10cd8be32d918a69.jpg",
-            "description": "Mark Brearley · 2017",
+            "description": null,
             "title": "Looking in from the factory porch.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6826_1-img_7919_56b54ea36b91f71b10cd8be32d918a69.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6826/building_6826_2-img_7949_e4c6d0fc381860f75074f9c2ee0472a0.jpg",
-            "description": "Mark Brearley · 2017",
+            "description": null,
             "title": "Looking across the bending bench towards the polishing shop and big Bentley power press.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6826_2-img_7949_e4c6d0fc381860f75074f9c2ee0472a0.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6826/building_6826_3-img_7932_6d1d278547c5b72f39f53b018ffdbfe3.jpg",
-            "description": "Mark Brearley · 2017",
+            "description": null,
             "title": "Looking along the polishing shop window towards the extrusion racks.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6826_3-img_7932_6d1d278547c5b72f39f53b018ffdbfe3.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6826/building_6826_4-img_7954_60956673da1abd6628f4afd6b55541b6.jpg",
-            "description": "Mark Brearley · 2017",
+            "description": null,
             "title": "View across the factory from the assembly area.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6826_4-img_7954_60956673da1abd6628f4afd6b55541b6.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6826/building_6826_5-img_7945_996b8ccd3e2502dbd993dc2a0e2730a0.jpg",
-            "description": "Mark Brearley · 2017",
+            "description": null,
             "title": "Stacks of raw pressed trays and storage racks.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6826_5-img_7945_996b8ccd3e2502dbd993dc2a0e2730a0.jpg"
         }
@@ -100,12 +102,12 @@
         "longitude": -0.0710449,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Bermondsey",
-            "Nearest train: South Bermondsey, Queen's Road Peckham, Peckham Rye",
-            "Bus routes: 63, 363, 78, 21, 381, 172, 53, 453"
+            "Tube: Bermondsey",
+            "Train: South Bermondsey, Queen's Road Peckham, Peckham Rye",
+            "Bus: 63, 363, 78, 21, 381, 172, 53, 453"
         ]
     },
     "name": "Kaymet Factory",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6826",
+    "original_url": "https://programme.openhouse.org.uk/listings/6826",
     "ticketed_events": false
 }

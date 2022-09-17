@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "James Gibbs",
-                "description": "Original design",
+                "description": null,
                 "year": "1730"
             }
         ],
@@ -19,24 +19,9 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 50,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Opening of the North Wing at St Bartholomew's Hospital with access to Hogarth Stair, Great Hall, Museum and special exhibition",
-            "notes": null,
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets"
-        ]
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -59,36 +44,36 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2231/building_2231_14123-matthewandrews_285fd3f4db975d16f192fc7cc36173bf.jpg",
-            "description": "Matthew Andrews · 2021",
+            "description": null,
             "title": "The Hogarth Stair",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2231_14123-matthewandrews_285fd3f4db975d16f192fc7cc36173bf.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2231/building_2231_sbh_0005_c5a5b39b16a91b14024e97b36fe4de99.jpg",
-            "description": "Paul Tucker · 2016",
+            "description": null,
             "title": "View of the North Wing from the hospital square",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2231_sbh_0005_c5a5b39b16a91b14024e97b36fe4de99.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2231/building_2231_great-hall_7b9453d4a2d159db47e2d9dcb898d09b.jpg",
-            "description": "David Butler",
+            "description": null,
             "title": "Great Hall, North Wing, St Bartholomew's Hospital",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2231_great-hall_7b9453d4a2d159db47e2d9dcb898d09b.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "St Bartholomew's Hospital, West Smithfield, EC1A 7BE",
+        "address": "St Bartholomew's Hospital, West Smithfield",
         "latitude": 51.517496,
         "longitude": -0.1000463,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Barbican, Farringdon, St. Paul's",
-            "Nearest train: City Thameslink, Farringdon",
-            "Bus routes: 56, 46"
+            "Tube: Barbican, Farringdon, St. Paul's",
+            "Train: City Thameslink, Farringdon",
+            "Bus: 56, 46"
         ]
     },
-    "name": "The North Wing, St Bartholomew's 'Barts' Hospital",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2231",
+    "name": "The North Wing & Museum, St Bartholomew's 'Barts' Hospital",
+    "original_url": "https://programme.openhouse.org.uk/listings/2231",
     "ticketed_events": false
 }

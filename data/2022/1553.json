@@ -5,54 +5,23 @@
         "designers": [
             {
                 "architect": "Board of Ordnance",
-                "description": "Original design",
+                "description": null,
                 "year": "1854"
-            },
-            {
-                "architect": "Shepheard Epstein Hunter",
-                "description": "Restoration",
-                "year": "2001"
             }
         ],
         "periods": [
+            "Shepheard Epstein Hunter",
             "Historical/contemporary"
         ],
         "types": [
             "industrial"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 6,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "RSA Interpretation Centre Open Day",
-            "notes": "Viewing our small collection of objects devoted to the history of the Royal Small Arms Factory. Meet engineers who worked at the Factory during its lifetime.Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 2,
-            "date": "2022-09-11",
-            "end": "2022-09-11T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Clock Tower Tours",
-            "notes": "Access to view our John Thwaite birdcage clock (at the Keeper's discretion)Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Bookshop",
-            "Parking",
-            "Toilets"
-        ]
+        "Bookshop",
+        "Parking",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -69,50 +38,41 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1553/building_1553_dsc02365_f68f190f89b6ce76c692d2245da0ea51.JPG",
-            "description": "RSA Trust · 2009",
+            "description": null,
             "title": "The clocktower & canal basin",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1553_dsc02365_f68f190f89b6ce76c692d2245da0ea51.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1553/building_1553_2017-02-22-13-25-30_0b6602237e854f4921474c63b146cadd.jpg",
-            "description": "P. Gray / RSA Trust · 2017",
+            "description": null,
             "title": "The John Thwaite Clock",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1553_2017-02-22-13-25-30_0b6602237e854f4921474c63b146cadd.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1553/building_1553_19980101-c-block-from-nw_51836ad47ba19d1ab3d71eba28e67bbd.jpg",
-            "description": "G. Walker / RSA Trust · 1999",
+            "description": null,
             "title": "The Main Machine Shop, circa 1999, before restoration",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1553_19980101-c-block-from-nw_51836ad47ba19d1ab3d71eba28e67bbd.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1553/building_1553_p-35-ext_faea141f7e052bbc8922392c34e9c1be.JPG",
-            "description": "P. Gray / RSA Trust · 2014",
+            "description": null,
             "title": "The renovated Main machine shop, today, as the RSA Island Centre",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1553_p-35-ext_faea141f7e052bbc8922392c34e9c1be.JPG"
         }
     ],
-    "links": [
-        {
-            "href": "https://youtu.be/ayHSF7FDaZI",
-            "title": "Website"
-        },
-        {
-            "href": "https://youtu.be/tJxfWO6NRnk",
-            "title": "social media"
-        }
-    ],
+    "links": [],
     "location": {
-        "address": "RSA Island Centre, 49 Island Centre Way, Enfield (off A1055 Mollison Avenue), EN3 6GS",
+        "address": "RSA Island Centre, 49 Island Centre Way",
         "latitude": 51.668702,
         "longitude": -0.016694,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Enfield Lock",
-            "Bus routes: 121, 491"
+            "Train: Enfield Lock",
+            "Bus: 121, 491"
         ]
     },
-    "name": "Royal Small Arms Factory ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1553",
+    "name": "Royal Small Arms Factory",
+    "original_url": "https://programme.openhouse.org.uk/listings/1553",
     "ticketed_events": false
 }

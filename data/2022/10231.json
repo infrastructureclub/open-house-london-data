@@ -11,24 +11,9 @@
             "housing"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-12",
-            "end": "2022-09-12T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Walking tour of Unity Place, South Kilburn Estate",
-            "notes": null,
-            "start": "2022-09-12T14:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Architect on site"
-        ]
+        "Architect on site"
     ],
     "factsheet": [
         {
@@ -42,31 +27,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10231/building_10231_01-unity-place_landscape-paul-riddle_6ebb706756b267fd628d63759b56f3c4.jpg",
-            "description": "Paul Riddle · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10231_01-unity-place_landscape-paul-riddle_6ebb706756b267fd628d63759b56f3c4.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10231/building_10231_unity-place_highres_photography-paul-riddle_19_27e447623dad8147a49dc79998b85370.jpg",
-            "description": "Paul Riddle  · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10231_unity-place_highres_photography-paul-riddle_19_27e447623dad8147a49dc79998b85370.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10231/building_10231_02-unity-place_landscape-paul-riddle_2dcc7cd46732a313207a7c0165940a67.jpg",
-            "description": "Paul Riddle · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10231_02-unity-place_landscape-paul-riddle_2dcc7cd46732a313207a7c0165940a67.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10231/building_10231_06-unity-place-paul-riddle_f8e09192a2ae66fe7dc126b3f8b06b4b.jpg",
-            "description": "Paul Riddle · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10231_06-unity-place-paul-riddle_f8e09192a2ae66fe7dc126b3f8b06b4b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/10231/building_10231_12-unity-place-paul-riddle_57233f3f2b4dc542b8513bc4112db880.jpg",
-            "description": "Paul Riddle · 2021",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10231_12-unity-place-paul-riddle_57233f3f2b4dc542b8513bc4112db880.jpg"
         }
@@ -76,14 +61,14 @@
         "address": "Unity Place, Kilburn Park Road, NW6 5XE",
         "latitude": 51.5313424,
         "longitude": -0.1935545,
-        "meeting_point": "St Augustine’s Church, Kilburn Park Rd, London NW6 5XB",
+        "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Kilburn Park",
-            "Nearest train: Kilburn High Road",
-            "Bus routes: 6, 316, 31, 328"
+            "Tube: Kilburn Park",
+            "Train: Kilburn High Road",
+            "Bus: 6, 316, 31, 328"
         ]
     },
     "name": "Walking tour of Unity Place, South Kilburn Estate",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/10231",
+    "original_url": "https://programme.openhouse.org.uk/listings/10231",
     "ticketed_events": false
 }

@@ -5,53 +5,26 @@
         "designers": [
             {
                 "architect": "William Woods",
-                "description": "Original design",
+                "description": null,
                 "year": "1814"
-            },
-            {
-                "architect": "Unknown",
-                "description": "Extension",
-                "year": "1840"
-            },
-            {
-                "architect": "City of London Corporation",
-                "description": "Restoration",
-                "year": "1999"
-            },
-            {
-                "architect": "City of London Corporation / Heritage Lottery Fund",
-                "description": "Refurbishment",
-                "year": "2007"
             }
         ],
         "periods": [
+            "Unknown",
+            "City of London Corporation",
+            "City of London Corporation / Heritage Lottery Fund",
             "Georgian"
         ],
         "types": [
             "historical house"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 24,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:30:00+01:00",
-            "fully_booked": null,
-            "name": "Visit Keats House and garden",
-            "notes": "Free entry to visit Keats House and garden - the home of Romantic poet John Keats from December 1818 to September 1820. Access to the house may be restricted to 24 people at any one time, but talks, tours and poetry readings will be available indoors and outdoors throughout the day. Our #Keats200 outdoor exhibition, celebrating the life and works of Keats, can also be enjoyed for free, either in the garden or nearby on Hampstead Heath.",
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Bookshop",
-            "Toilets",
-            "Disabled access",
-            "Family activities during open house festival"
-        ]
+        "Bookshop",
+        "Toilets",
+        "Disabled access",
+        "Family activities"
     ],
     "factsheet": [
         {
@@ -78,19 +51,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/822/building_822_keatsshoot1-30-front-of-house_732ef8d4e0e0ad5979810de360cc412d.jpg",
-            "description": "2015",
+            "description": null,
             "title": "Front view of Keats House",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_822_keatsshoot1-30-front-of-house_732ef8d4e0e0ad5979810de360cc412d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/822/building_822_keatsshoot1smallsize-26_8c904eae42051ca9e8603db17a771e89.jpg",
-            "description": "",
+            "description": null,
             "title": "Keats House",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_822_keatsshoot1smallsize-26_8c904eae42051ca9e8603db17a771e89.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/822/building_822_k_pz_05_043-c_day-wentworth_place_d4f4785aa8a14dc3e4518667808c39ad.jpg",
-            "description": "",
+            "description": null,
             "title": "‘Wentworth Place,Ham[p]stead’. Fred Holland Day. c. 1890. Watercolour on paper. Image courtesy of Keats House, City of London Corporation. K/PZ/05/043.",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_822_k_pz_05_043-c_day-wentworth_place_d4f4785aa8a14dc3e4518667808c39ad.jpg"
         }
@@ -102,12 +75,12 @@
         "longitude": -0.1679444,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Belsize Park, Hampstead",
-            "Nearest train: Hampstead Heath",
-            "Bus routes: 24, 46, 168, 268, C11"
+            "Tube: Belsize Park, Hampstead",
+            "Train: Hampstead Heath",
+            "Bus: 24, 46, 168, 268, C11"
         ]
     },
     "name": "Keats House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/822",
+    "original_url": "https://programme.openhouse.org.uk/listings/822",
     "ticketed_events": false
 }

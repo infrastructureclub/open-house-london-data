@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Haworth Tompkins",
-                "description": "Original design",
+                "description": null,
                 "year": "2019"
             }
         ],
@@ -16,49 +16,10 @@
             "education"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-10",
-            "end": "2022-09-10T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Dan Tassell",
-            "notes": null,
-            "start": "2022-09-10T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-10",
-            "end": "2022-09-10T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "Dan Tassell",
-            "notes": null,
-            "start": "2022-09-10T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-10",
-            "end": "2022-09-10T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "Dan Tassell",
-            "notes": null,
-            "start": "2022-09-10T13:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Toilets",
-            "Architect on site"
-        ]
+        "Toilets",
+        "Architect on site"
     ],
     "factsheet": [
         {
@@ -86,47 +47,52 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8791/building_8791_1617_n183_webview_c06a791761c50315cf0bf61dfbc49d4d.jpg",
-            "description": "Philip Vile  · 2019",
+            "description": null,
             "title": "Aerial view of Kingston School of Art",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8791_1617_n183_webview_c06a791761c50315cf0bf61dfbc49d4d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8791/building_8791_1617_n186_htweb_4d20feb7ed610d2b0c2ddff65c159ff0.jpg",
-            "description": "Philip Vile · 2019",
+            "description": null,
             "title": "View from the river",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8791_1617_n186_htweb_4d20feb7ed610d2b0c2ddff65c159ff0.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8791/building_8791_1617_n199_htweb_585ee64f34c7ef27e0cc426f10e87da4.jpg",
-            "description": "Philip Vile · 2019",
+            "description": null,
             "title": "Kingston School of Art",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8791_1617_n199_htweb_585ee64f34c7ef27e0cc426f10e87da4.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8791/building_8791_1617_ksa_n166_htweb_bf2e1274e2c85fd61d58f0be7f8820bf.jpg",
-            "description": "Philip Vile · 2019",
+            "description": null,
             "title": "Kingston School of Art",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8791_1617_ksa_n166_htweb_bf2e1274e2c85fd61d58f0be7f8820bf.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8791/building_8791_1617_ksa_n150_htweb_82e4f4ff067d22bf1f6321e7974b2741.jpg",
-            "description": "Philip Vile · 2019",
+            "description": null,
             "title": "Darkroom facilities",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8791_1617_ksa_n150_htweb_82e4f4ff067d22bf1f6321e7974b2741.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "open-city.org.uk/stewardship-awards",
+            "title": null
+        }
+    ],
     "location": {
-        "address": "Knights Park Reception , Mill Lane, Kingston Upon Thames, Surrey, KT1 2QJ",
+        "address": "Knights Park Reception , Grange Road",
         "latitude": 51.4050157,
         "longitude": -0.2986955,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Kingston, Surbiton",
-            "Bus routes: 71, 281, K2, k3"
+            "Train: Kingston, Surbiton",
+            "Bus: 71, 281, K2, k3"
         ]
     },
     "name": "Kingston School of Art",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8791",
+    "original_url": "https://programme.openhouse.org.uk/listings/8791",
     "ticketed_events": false
 }

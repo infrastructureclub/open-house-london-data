@@ -5,24 +5,15 @@
         "designers": [
             {
                 "architect": "Georgian",
-                "description": "Original design",
+                "description": null,
                 "year": "1713"
-            },
-            {
-                "architect": "F W Troup",
-                "description": "Extension",
-                "year": "1914"
-            },
-            {
-                "architect": "Simon Hurst",
-                "description": "Refurbishment",
-                "year": "2016"
             }
         ],
         "periods": [
+            "F W Troup",
+            "Simon Hurst",
             "Contemporary",
-            "Edwardian",
-            "Georgian"
+            "Edwardian"
         ],
         "types": [
             "institution/profession"
@@ -30,109 +21,53 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:30:00+01:00",
-            "fully_booked": null,
-            "name": "Talk and tour",
-            "notes": "The Guild’s Master, Alan Powers, will give a short talk on the history of the Guild and this will be followed by a tour of the building with our Honorary Architect, Simon Hurst.",
-            "start": "2022-09-04T11:00:00+01:00",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "Talk and tour",
-            "notes": "The Guild’s Master, Alan Powers, will give a short talk on the history of the Guild and this will be followed by a tour of the building with our Honorary Architect, Simon Hurst.",
-            "start": "2022-09-04T12:30:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2003",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Tour of the building by the Honorary Architect",
+            "notes": null,
+            "start": "2022-09-18T12:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Talk and tour",
-            "notes": "The Guild’s Master, Alan Powers, will give a short talk on the history of the Guild and this will be followed by a tour of the building with our Honorary Architect, Simon Hurst.",
-            "start": "2022-09-04T14:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:30:00+01:00",
-            "fully_booked": null,
-            "name": "Talk and tour",
-            "notes": "The Guild’s Master, Alan Powers, will give a short talk on the history of the Guild and this will be followed by a tour of the building with our Honorary Architect, Simon Hurst.",
-            "start": "2022-09-04T16:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T12:30:00+01:00",
-            "fully_booked": null,
-            "name": "Talk and tour",
-            "notes": "The Guild’s Master, Alan Powers, will give a short talk on the history of the Guild and this will be followed by a tour of the building with our Honorary Architect, Simon Hurst.",
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T14:00:00+01:00",
-            "fully_booked": null,
-            "name": "Talk and tour",
-            "notes": "The Guild’s Master, Alan Powers, will give a short talk on the history of the Guild and this will be followed by a tour of the building with our Honorary Architect, Simon Hurst.",
-            "start": "2022-09-05T12:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Talk and tour",
-            "notes": "The Guild’s Master, Alan Powers, will give a short talk on the history of the Guild and this will be followed by a tour of the building with our Honorary Architect, Simon Hurst.",
-            "start": "2022-09-05T14:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:30:00+01:00",
-            "fully_booked": null,
-            "name": "Talk and tour",
-            "notes": "The Guild’s Master, Alan Powers, will give a short talk on the history of the Guild and this will be followed by a tour of the building with our Honorary Architect, Simon Hurst.",
-            "start": "2022-09-05T16:00:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/2003",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Tour of the building by the Honorary Architect",
+            "notes": null,
+            "start": "2022-09-18T14:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Architect on site",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Architect on site",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -172,47 +107,42 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2003/building_2003_img_7387_7f624ccd25a540849799e5e8a0e43ccc.jpg",
-            "description": "Monica Grose-Hodge · 2015",
+            "description": null,
             "title": "The Art Workers' Guild in Queen Square",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2003_img_7387_7f624ccd25a540849799e5e8a0e43ccc.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2003/building_2003_hall-graham-miller_df70b1d2e52649ba9713b619550002cb.jpg",
-            "description": "Graham Miller · 2017",
+            "description": null,
             "title": "The lecture hall designed by F W Troup",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2003_hall-graham-miller_df70b1d2e52649ba9713b619550002cb.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2003/building_2003_20170926_102734_resized_a7bc2c61216d8d811d6ab5e4f99bc73b.jpg",
-            "description": "Simon Hurst · 2017",
+            "description": null,
             "title": "The new courtyard",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2003_20170926_102734_resized_a7bc2c61216d8d811d6ab5e4f99bc73b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2003/building_2003_img_7709_b2a02d12afd395611c6e88d80e50dae6.jpg",
-            "description": "Graham Miller · 2016",
+            "description": null,
             "title": "Portraits of Past Masters",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2003_img_7709_b2a02d12afd395611c6e88d80e50dae6.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "http://www.artworkersguild.org/virtual-tour",
-            "title": "Virtual Tour"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "6 Queen Square, WC1N 3AT",
         "latitude": 51.5214982,
         "longitude": -0.1227227,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Russell Square, Holborn",
-            "Nearest train: King's Cross, Euston",
-            "Bus routes: 59, 68, 91, 168, 188"
+            "Tube: Russell Square, Holborn",
+            "Train: King's Cross, Euston",
+            "Bus: 59, 68, 91, 168, 188"
         ]
     },
-    "name": "Table Top Museums at the Art Workers' Guild ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2003",
-    "ticketed_events": false
+    "name": "Table Top Museums at the Art Workers' Guild",
+    "original_url": "https://programme.openhouse.org.uk/listings/2003",
+    "ticketed_events": true
 }

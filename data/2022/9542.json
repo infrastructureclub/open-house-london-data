@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Penoyre & Prasad",
-                "description": "Original design",
+                "description": null,
                 "year": "2021"
             }
         ],
@@ -23,37 +23,53 @@
     },
     "events": [
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9542",
             "capacity": null,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "PEARL Open House",
-            "notes": "We will escort people around the building in groups, to explain what the building is, how it works, what we do in it, and why it is here",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tours of UCL PEARL",
+            "notes": null,
+            "start": "2022-09-17T10:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9542",
             "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "PEARL Open House",
-            "notes": "We will escort people around the building in groups, to explain what the building is, how it works, what we do in it, and why it is here",
-            "start": "2022-09-05T10:00:00+01:00",
-            "ticketed": false
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of UCL PEARL",
+            "notes": null,
+            "start": "2022-09-17T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9542",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of UCL PEARL",
+            "notes": null,
+            "start": "2022-09-17T14:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Architect on site",
-            "Disabled access",
-            "Parking",
-            "Toilets"
-        ]
+        "Architect on site",
+        "Disabled access",
+        "Parking",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -97,13 +113,13 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9542/building_9542_pearl-westfacade_2546ebdf33a1bf5fea56d0a4e5f04147.jpg",
-            "description": "Jordy Adjagboni · 2021",
+            "description": null,
             "title": "PEARL West façade",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9542_pearl-westfacade_2546ebdf33a1bf5fea56d0a4e5f04147.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9542/building_9542_pearl-interior_2_df50e7c1d104670566e8b4d026fc0e4d.jpg",
-            "description": "Joe Boxshall · 2021",
+            "description": null,
             "title": "Inside PEARL there is a whole world to imagine!",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9542_pearl-interior_2_df50e7c1d104670566e8b4d026fc0e4d.jpg"
         }
@@ -115,12 +131,12 @@
         "longitude": 0.16966,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Dagenham East",
-            "Nearest train: Romford",
-            "Bus routes: 103"
+            "Tube: Dagenham East",
+            "Train: Romford",
+            "Bus: 103"
         ]
     },
     "name": "UCL PEARL",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9542",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/9542",
+    "ticketed_events": true
 }

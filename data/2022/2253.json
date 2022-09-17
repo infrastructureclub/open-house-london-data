@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1400"
             }
         ],
@@ -20,28 +20,13 @@
             "museum"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 300,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Becontree@War",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Bookshop",
-            "Parking",
-            "Toilets",
-            "Refreshments",
-            "Disabled access"
-        ]
+        "Bookshop",
+        "Parking",
+        "Toilets",
+        "Refreshments",
+        "Disabled access"
     ],
     "factsheet": [
         {
@@ -71,31 +56,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2253/building_2253_2010-valence-house-small_8059ccd3a28cc7c8a5bdfc3c41e95fc2.jpg",
-            "description": "2010",
+            "description": null,
             "title": "Valence House",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2253_2010-valence-house-small_8059ccd3a28cc7c8a5bdfc3c41e95fc2.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2253/building_2253_herb-garden_5cac5b789715dc5b9b6597f33b12bd79.jpg",
-            "description": "LBBD · 2012",
+            "description": null,
             "title": "The herb garden at Valence House",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2253_herb-garden_5cac5b789715dc5b9b6597f33b12bd79.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2253/building_2253_v103ref-vh-n-e-c1918-sb4248-small_e40fc3ed750804a988b55a689fa57ca7.jpg",
-            "description": "LBBD · 1918",
+            "description": null,
             "title": "Valence House in 1918, from the north east",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2253_v103ref-vh-n-e-c1918-sb4248-small_e40fc3ed750804a988b55a689fa57ca7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2253/building_2253__dsc1272-2_518e2f9d0004c033e110cac2b2b84689.jpg",
-            "description": "The Exhibition Factory · 2010",
+            "description": null,
             "title": "Barking New Town Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2253__dsc1272-2_518e2f9d0004c033e110cac2b2b84689.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2253/building_2253__dsc1285_56a4aa4cc1453fd677f2ece0428038f3.jpg",
-            "description": "The Exhibition Factory · 2010",
+            "description": null,
             "title": "The River Industries Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2253__dsc1285_56a4aa4cc1453fd677f2ece0428038f3.jpg"
         }
@@ -107,12 +92,12 @@
         "longitude": 0.1338659,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Becontree, Dagenham Heathway",
-            "Nearest train: Chadwell Heath",
-            "Bus routes: 150, 62, 128, 368"
+            "Tube: Becontree, Dagenham Heathway",
+            "Train: Chadwell Heath",
+            "Bus: 150, 62, 128, 368"
         ]
     },
     "name": "Valence House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2253",
+    "original_url": "https://programme.openhouse.org.uk/listings/2253",
     "ticketed_events": false
 }

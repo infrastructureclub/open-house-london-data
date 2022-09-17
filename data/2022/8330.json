@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1990"
             }
         ],
@@ -18,35 +18,37 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-11",
-            "end": "2022-09-11T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Studio",
-            "notes": null,
-            "start": "2022-09-11T10:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-12",
-            "end": "2022-09-12T18:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Studio",
-            "notes": null,
-            "start": "2022-09-12T10:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -54,7 +56,8 @@
             "paragraphs": [
                 "Founded in 2011 by Annahita Hessami, the workshop provides a complete high-end architectural glass service covering bespoke design, manufacture and installation. The studio prides itself on using the finest quality materials and craftsmanship.",
                 "We have recently taken over Philip Bradbury Glass Ltd and are excited to be able to offer a whole new range of etched glass products.",
-                "Passionate about exploring every aspect of stained glass we have embarked on projects ranging from contemporary installations and collaborations to traditional reproduction and restoration. We believe anything is possible and are passionate about pushing the boundaries of the craft, so whatever your project or idea we would love to hear it."
+                "Passionate about exploring every aspect of stained glass we have embarked on projects ranging from contemporary installations and collaborations to traditional reproduction and restoration. We believe anything is possible and are passionate about pushing the boundaries of the craft, so whatever your project or idea we would love to hear it.",
+                "There will be demonstrations of glass cutting and stained glass."
             ]
         },
         {
@@ -91,114 +94,114 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_7307612d-d168-4f0e-8932-131d8920fb58_87c959a8ff456367e7164f41344991b8.jpeg",
-            "description": "2019",
+            "description": null,
             "title": "Studio view ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_7307612d-d168-4f0e-8932-131d8920fb58_87c959a8ff456367e7164f41344991b8.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_388b71bc-7575-43bc-addd-4c1fa15cf246_24f8994fb1840af354f5c6836e7ddddf.jpeg",
-            "description": "2019",
+            "description": null,
             "title": "Studio view ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_388b71bc-7575-43bc-addd-4c1fa15cf246_24f8994fb1840af354f5c6836e7ddddf.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_d56f1337-fa18-426e-8170-7b2430318d75_fa83879675f24e4de3172429a48ade19.jpeg",
-            "description": "2019",
+            "description": null,
             "title": "Studio view",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_d56f1337-fa18-426e-8170-7b2430318d75_fa83879675f24e4de3172429a48ade19.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_9cc1cd18-ee4c-455c-aaac-4458365943a7_581d6c1e731b7fd18eb1bd2756aa77aa.jpeg",
-            "description": "2018",
+            "description": null,
             "title": "Open House 2018",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_9cc1cd18-ee4c-455c-aaac-4458365943a7_581d6c1e731b7fd18eb1bd2756aa77aa.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_fe88fb56-6cf3-40a8-96e9-2b2791b69675_ea79e48c2922192c69f1d6945bff4648.jpeg",
-            "description": "2019",
+            "description": null,
             "title": "Studio View ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_fe88fb56-6cf3-40a8-96e9-2b2791b69675_ea79e48c2922192c69f1d6945bff4648.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_06f6b069-2615-4ba8-813b-9a4dff9d7ed3_82b9d92e8524afa3f29f88cfce0e89da.jpeg",
-            "description": "2019",
+            "description": null,
             "title": "Studio view ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_06f6b069-2615-4ba8-813b-9a4dff9d7ed3_82b9d92e8524afa3f29f88cfce0e89da.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_207eaaaa-ec82-455a-9dc1-25af4ce5ef3c_cc99b3a45d4ae105d3f72593a3c51a74.jpeg",
-            "description": "2019",
+            "description": null,
             "title": "Studio view ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_207eaaaa-ec82-455a-9dc1-25af4ce5ef3c_cc99b3a45d4ae105d3f72593a3c51a74.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_2799a721-24db-4c67-a9cd-70495aca0263_8cbab72715162750a5230edd6c6d29fa.jpeg",
-            "description": "2019",
+            "description": null,
             "title": "Studio view",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_2799a721-24db-4c67-a9cd-70495aca0263_8cbab72715162750a5230edd6c6d29fa.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_bded0f42-5e95-488b-b4bf-74a61229839d_9dee9d5413597d49e0d7430bd7b500a0.jpeg",
-            "description": "2019",
+            "description": null,
             "title": "Studio view ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_bded0f42-5e95-488b-b4bf-74a61229839d_9dee9d5413597d49e0d7430bd7b500a0.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_ee24bd9f-8528-43de-934c-0f42af39c073_05853c2c1e056efa86c231e2df07a4b9.jpeg",
-            "description": "2019",
+            "description": null,
             "title": "Cut Glass Studio Ltd",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_ee24bd9f-8528-43de-934c-0f42af39c073_05853c2c1e056efa86c231e2df07a4b9.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_img_2870_1d3cfc2333b80045ec100270236f37aa.jpg",
-            "description": "Annahita Hessami · 2019",
+            "description": null,
             "title": "Stained Glass 'Love You' Collaboration with Ryan Mills",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_img_2870_1d3cfc2333b80045ec100270236f37aa.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_img_1134_cfff03b4bf1f5ba489a21f27c6d3341f.jpg",
-            "description": "Annahita Hessami · 2015",
+            "description": null,
             "title": "Stained Glass 'Audrey Hepburn' collaboration with Pure Evil ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_img_1134_cfff03b4bf1f5ba489a21f27c6d3341f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_img_6055_140231c2846ba48e66f4939b72ffff44.jpg",
-            "description": "Annahita Hessami · 2016",
+            "description": null,
             "title": "Stained Glass 'Dazzle Disc' collaboration with Sir Peter Blake ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_img_6055_140231c2846ba48e66f4939b72ffff44.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_img_7922_6a91b512fe509d1cb77703abebcd66af.jpg",
-            "description": "Annahita Hessami · 2018",
+            "description": null,
             "title": "Stained Glass detail of patchwork window",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_img_7922_6a91b512fe509d1cb77703abebcd66af.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_thumbnail_image2_7b1fb547c1b80de873a7847c67dac685.jpg",
-            "description": "Annahita Hessami · 2019",
+            "description": null,
             "title": "Stained Glass bespoke front door set East Finchley, London",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_thumbnail_image2_7b1fb547c1b80de873a7847c67dac685.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/8330/building_8330_thumbnail_image0_484aa1ee3c3a52cd022a94e60e6f2ec4.jpg",
-            "description": "Annahita Hessami · 2019",
+            "description": null,
             "title": "Stained Glass bespoke Art Nouveau inspired panels",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8330_thumbnail_image0_484aa1ee3c3a52cd022a94e60e6f2ec4.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "15-16 The High Cross Centre, Fountayne Road, N15 4QN",
+        "address": "15-16 The High Cross Centre, Fountayne Road",
         "latitude": 51.5850051,
         "longitude": -0.0614091,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Tottenham Hale, Seven Sisters",
-            "Nearest train: Tottenham Hale, South Tottenham, Bruce Grove",
-            "Bus routes: 123, 230, 76, W4, 41"
+            "Tube: Tottenham Hale, Seven Sisters",
+            "Train: Tottenham Hale, South Tottenham, Bruce Grove",
+            "Bus: 123, 230, 76, W4, 41"
         ]
     },
     "name": "Cut Glass Studio Ltd, Tottenham Hale",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/8330",
+    "original_url": "https://programme.openhouse.org.uk/listings/8330",
     "ticketed_events": false
 }

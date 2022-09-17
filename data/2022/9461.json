@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "C.J. Freake",
-                "description": "Original design",
+                "description": null,
                 "year": "1857"
-            },
-            {
-                "architect": "Buckley Gray Yeoman",
-                "description": "Restoration",
-                "year": "2020"
             }
         ],
         "periods": [
+            "Buckley Gray Yeoman",
             "Victorian",
             "Historical/contemporary",
             "Georgian"
@@ -30,36 +26,38 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-04",
-            "end": "2022-09-04T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "Cromwell Place",
-            "notes": "Visitors will have access to open galleries and communal spaces.",
-            "start": "2022-09-04T10:00:00+01:00",
+            "capacity": 150,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 15,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided Tours every 30 minutes",
-            "notes": null,
-            "start": "2022-09-04T11:00:00+01:00",
+            "capacity": 150,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T12:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Disabled access",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -85,109 +83,109 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_4cp-entrance-facade-2_39839f7dde8afcdad0a49b97df0e371c.jpg",
-            "description": "Pedro Lima · 2022",
+            "description": null,
             "title": "4 Cromwell Place Entrance Facade",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_4cp-entrance-facade-2_39839f7dde8afcdad0a49b97df0e371c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_cp-exterior-dec-2020-photography-lucy-emms_3-1_9b15abc2bb0524a2d9fa50355e63c0ce.jpg",
-            "description": "Lucy Emms · 2020",
+            "description": null,
             "title": "Visitor Entrance from 4 Cromwell Place",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_cp-exterior-dec-2020-photography-lucy-emms_3-1_9b15abc2bb0524a2d9fa50355e63c0ce.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_cp-exterior-dec-2020-photography-lucy-emms_24_098a10dc732cfdd7595a2079296a8fc7.jpg",
-            "description": "Lucy Emms · 2020",
+            "description": null,
             "title": "Outer Facade Views",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_cp-exterior-dec-2020-photography-lucy-emms_24_098a10dc732cfdd7595a2079296a8fc7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_cromwell-place-headshots-buildings_dan-weill-photography-6-lr_bdeea6667eb3b180c3cf7d6fac42c45a.jpg",
-            "description": "Dan Weil · 2018",
+            "description": null,
             "title": "Street View",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_cromwell-place-headshots-buildings_dan-weill-photography-6-lr_bdeea6667eb3b180c3cf7d6fac42c45a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_cp-exterior-dec-2020-photography-lucy-emms_12-1_7f915e49f98a06ec1aa7425eb67b9214.jpg",
-            "description": "Lucy Emms · 2020",
+            "description": null,
             "title": "Thurloe Place Entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_cp-exterior-dec-2020-photography-lucy-emms_12-1_7f915e49f98a06ec1aa7425eb67b9214.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_cromwell-place_taran-wilkhu_8c2a0c19c49f05df1b0bb683f4912408.jpg",
-            "description": "Taran Wilkhu · 2020",
+            "description": null,
             "title": "Pavilion Gallery Entrance from 4 Cromwell Place",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_cromwell-place_taran-wilkhu_8c2a0c19c49f05df1b0bb683f4912408.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_cromwell-place_-photography-by-taran-wilkhu_23ed022b3552c767694570122bb24f5c.jpg",
-            "description": "Taran Wilkhu · 2020",
+            "description": null,
             "title": "Ground Floor, 5 Cromwell Place",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_cromwell-place_-photography-by-taran-wilkhu_23ed022b3552c767694570122bb24f5c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_lucy-emms-april-2021_36-1_b69305b9c0cc3e515fc85f0a633e08b1.jpg",
-            "description": "Lucy Emms · 2021",
+            "description": null,
             "title": "Pavilion Gallery Entrance from 2 Cromwell Place",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_lucy-emms-april-2021_36-1_b69305b9c0cc3e515fc85f0a633e08b1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_cromwell-place_low-contrast_hr-14_d8e81f86aaa24435e48ac7563aa3734c.jpg",
-            "description": "Lucy Emms · 2020",
+            "description": null,
             "title": "Upwards View from the Courtyard",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_cromwell-place_low-contrast_hr-14_d8e81f86aaa24435e48ac7563aa3734c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_cromwell-place_low-contrast_hr-2_b04cf2973ba116bd65f13f6d1efdef8a.jpg",
-            "description": "Lucy Emms · 2020",
+            "description": null,
             "title": "Link Bridge, Ground Floor",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_cromwell-place_low-contrast_hr-2_b04cf2973ba116bd65f13f6d1efdef8a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_pavilion-gallery-courtyard-c-matt-chisnall_12c478c65d80f48ab5a95dc18bec0972.jpg",
-            "description": "Matt Chisnall · 2019",
+            "description": null,
             "title": "Pavilion Gallery Front Courtyard",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_pavilion-gallery-courtyard-c-matt-chisnall_12c478c65d80f48ab5a95dc18bec0972.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_gallery11_view2_photo-lucyemms_5a703cde1718f7f60c803617c6d63fa3.jpg",
-            "description": "Lucy Emms · 2020",
+            "description": null,
             "title": "Gallery 11",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_gallery11_view2_photo-lucyemms_5a703cde1718f7f60c803617c6d63fa3.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_gallery3_room1_view2_photo-lucyemms-2_4d7ed771728c673e9901e171d70511df.jpg",
-            "description": "Lucy Emms · 2020",
+            "description": null,
             "title": "Gallery 3",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_gallery3_room1_view2_photo-lucyemms-2_4d7ed771728c673e9901e171d70511df.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_gallery1-room1-view3_photo-lucyemms_9ea05d31282948fed42ce47e4627a80a.jpg",
-            "description": "Lucy Emms · 2020",
+            "description": null,
             "title": "Gallery 1",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_gallery1-room1-view3_photo-lucyemms_9ea05d31282948fed42ce47e4627a80a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_cromwell-place-12-09-17_dan-weill-photography-11_0ec5f510dbc145a64f5047eeea7e42e1.jpg",
-            "description": "Dan Weil · 2018",
+            "description": null,
             "title": "Club Room Detail",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_cromwell-place-12-09-17_dan-weill-photography-11_0ec5f510dbc145a64f5047eeea7e42e1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_cp-club-room-wide-dec-2020-photography-lucy-emms_4_2b9a950475e18a6f2bad11a6db603f6d.jpg",
-            "description": "Lucy Emms · 2020",
+            "description": null,
             "title": "Club Room - Dining Room View",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_cp-club-room-wide-dec-2020-photography-lucy-emms_4_2b9a950475e18a6f2bad11a6db603f6d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_cromwellplace_2ndjuly_londonartweek-cromwellplace-lucy-2-9_b60f9821c5a907939108e6920b68df6a.jpg",
-            "description": "Lucy Emms · 2021",
+            "description": null,
             "title": "London Art Week at Cromwell Place",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_cromwellplace_2ndjuly_londonartweek-cromwellplace-lucy-2-9_b60f9821c5a907939108e6920b68df6a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9461/building_9461_cromwellplace_install_may17i8570_lucy-emms-1_1b034da1052d28c29cec6b52d816d443.jpg",
-            "description": "Aleya Dwivedi · 2021",
+            "description": null,
             "title": "Entrance to Pavilion Gallery",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9461_cromwellplace_install_may17i8570_lucy-emms-1_1b034da1052d28c29cec6b52d816d443.jpg"
         }
@@ -199,12 +197,12 @@
         "longitude": -0.174608,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: South Kensington, Gloucester Road",
-            "Nearest train: Victoria",
-            "Bus routes: 70, 430, 14, 49, 74, 360, 414, C1"
+            "Tube: South Kensington, Gloucester Road",
+            "Train: Victoria",
+            "Bus: 70, 430, 14, 49, 74, 360, 414, C1"
         ]
     },
     "name": "Cromwell Place",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9461",
+    "original_url": "https://programme.openhouse.org.uk/listings/9461",
     "ticketed_events": false
 }

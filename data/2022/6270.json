@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Nicholas Hawksmoor",
-                "description": "Original design",
+                "description": null,
                 "year": "1730"
             }
         ],
@@ -18,63 +18,12 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T17:00:00+01:00",
-            "fully_booked": null,
-            "name": "St Anne's Church, Limehouse",
-            "notes": "We have not yet raised the funds to establish lift access. Visitors will need to be able to climb Hawksmoor's imposing stairs into the church.",
-            "start": "2022-09-05T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 140,
-            "date": "2022-09-05",
-            "end": "2022-09-05T11:30:00+01:00",
-            "fully_booked": null,
-            "name": "Morning service",
-            "notes": "Join us for our church family service.",
-            "start": "2022-09-05T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-05",
-            "end": "2022-09-05T13:30:00+01:00",
-            "fully_booked": null,
-            "name": "Sunday Funday",
-            "notes": "All are welcome at our community fun day in the churchyard.",
-            "start": "2022-09-05T12:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-09",
-            "end": "2022-09-09T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Church open",
-            "notes": null,
-            "start": "2022-09-09T09:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Family activities during open house festival",
-            "Refreshments",
-            "Toilets",
-            "Parking"
-        ]
+        "Family activities",
+        "Refreshments",
+        "Toilets",
+        "Parking"
     ],
     "factsheet": [
         {
@@ -118,25 +67,25 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6270/building_6270_image1_19141b52d389a283bb9be7ec309dc501.jpeg",
-            "description": "Greywolf Studios London · 2017",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6270_image1_19141b52d389a283bb9be7ec309dc501.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6270/building_6270_churchandpyramid_ec44e4b75c727ae4fede91807bff6b57.jpg",
-            "description": "St Anne's Limehouse",
+            "description": null,
             "title": "Clock above West Door",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6270_churchandpyramid_ec44e4b75c727ae4fede91807bff6b57.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6270/building_6270_sa3_d04e40d1db8ccf1987cbcfc3818c44d5.jpg",
-            "description": "2017",
+            "description": null,
             "title": "The church family",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6270_sa3_d04e40d1db8ccf1987cbcfc3818c44d5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6270/building_6270_photo-in-ven-roger-preece-installation-high-res-google-photos-5_52c526166901cf3b50ba5e65df7e647c.jpg",
-            "description": "2019",
+            "description": null,
             "title": "Interior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6270_photo-in-ven-roger-preece-installation-high-res-google-photos-5_52c526166901cf3b50ba5e65df7e647c.jpg"
         }
@@ -148,12 +97,12 @@
         "longitude": -0.0302359,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Limehouse, Westferry",
-            "Nearest train: Limehouse",
-            "Bus routes: 15, 115, 135, D3"
+            "Tube: Limehouse, Westferry",
+            "Train: Limehouse",
+            "Bus: 15, 115, 135, D3"
         ]
     },
     "name": "St Anne's Church, Limehouse",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6270",
+    "original_url": "https://programme.openhouse.org.uk/listings/6270",
     "ticketed_events": false
 }

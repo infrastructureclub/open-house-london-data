@@ -5,53 +5,22 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1960"
-            },
-            {
-                "architect": "Dr Phil Askew",
-                "description": "Landscape design",
-                "year": "2017"
             }
         ],
         "periods": [
+            "Dr Phil Askew",
             "Post-war"
         ],
         "types": [
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-11",
-            "end": "2022-09-11T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "Walking Tour of Thamesmead's Lost Landscape",
-            "notes": "Join Phil Askew as he takes you on a walking tour through some of Thamesmead's lesser known and sometimes forgotten landscapes. Meeting in Cygnet Square, this tour takes between 90 and 120 mins.",
-            "start": "2022-09-11T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Walking Tour of Thamesmead's Lost Landscape",
-            "notes": "Join Phil Askew as he takes you on a walking tour through some of Thamesmead's lesser known and sometimes forgotten landscapes. Meeting in Cygnet Square, this tour takes between 90 and 120 mins.",
-            "start": "2022-09-11T14:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Refreshments",
-            "Toilets"
-        ]
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -68,29 +37,29 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7002/building_7002_screen-shot-2017-07-13-at-16-21-00_f9e21f0c22eb084e5f806dcb0304ecd2.png",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7002_screen-shot-2017-07-13-at-16-21-00_f9e21f0c22eb084e5f806dcb0304ecd2.png"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/7002/building_7002_025_4b8aa532a37098cbb65af53935d18958.jpg",
-            "description": "Paul Upward · 2018",
+            "description": null,
             "title": "Thamesmead Lost Landscape",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7002_025_4b8aa532a37098cbb65af53935d18958.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "2 Cygnet Sqaure, SE2 9UJ",
-        "latitude": 51.4978324,
-        "longitude": 0.1228853,
-        "meeting_point": "Outside The Nest",
+        "address": "Cygnet Square, SE2 9LH",
+        "latitude": 51.4976521,
+        "longitude": 0.1224991,
+        "meeting_point": null,
         "travel_info": [
-            "Nearest train: Abbey Wood",
-            "Bus routes: 472, 244, B11"
+            "Train: Abbey Wood",
+            "Bus: 472, 244, B11"
         ]
     },
     "name": "Thamesmead's Lost Landscapes",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/7002",
+    "original_url": "https://programme.openhouse.org.uk/listings/7002",
     "ticketed_events": false
 }

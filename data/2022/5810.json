@@ -5,21 +5,13 @@
         "designers": [
             {
                 "architect": "Unknown",
-                "description": "Original design",
+                "description": null,
                 "year": "1506"
-            },
-            {
-                "architect": "A. W. Blomfield",
-                "description": "Refurbishment",
-                "year": "1866"
-            },
-            {
-                "architect": "George F. Bodley",
-                "description": "Extension",
-                "year": "1904"
             }
         ],
         "periods": [
+            "A. W. Blomfield",
+            "George F. Bodley",
             "Victorian"
         ],
         "types": [
@@ -28,35 +20,23 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-04",
-            "end": "2022-09-04T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Day",
-            "notes": null,
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 30,
-            "date": "2022-09-11",
-            "end": "2022-09-11T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open Day",
-            "notes": null,
-            "start": "2022-09-11T10:00:00+01:00",
+            "capacity": 59,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -74,31 +54,31 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5810/building_5810_st-mary-magdalene_eaf657fec0a373ded5753de745f1edaa.jpg",
-            "description": "",
+            "description": null,
             "title": "South side from Paradise Road",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_st-mary-magdalene_eaf657fec0a373ded5753de745f1edaa.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5810/building_5810_img-1683_a5cb6798b8b8155c73cf25b8bf9de4f4.JPG",
-            "description": "",
+            "description": null,
             "title": "Tower at the west end",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_img-1683_a5cb6798b8b8155c73cf25b8bf9de4f4.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5810/building_5810_img-1699_94014b8ad021cac0e21a7d72da72a55c.JPG",
-            "description": "",
+            "description": null,
             "title": "View towards the nave and east end window",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_img-1699_94014b8ad021cac0e21a7d72da72a55c.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5810/building_5810_img-1686_2b9b267f82d4f6afbd1c1cc0bfe249e5.JPG",
-            "description": "",
+            "description": null,
             "title": "North side towards the tower",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_img-1686_2b9b267f82d4f6afbd1c1cc0bfe249e5.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/5810/building_5810_east-window-full-02_3efc44bd23c996c0ba3b4b5acd8024be.jpg",
-            "description": "Peter Moore · 2008",
+            "description": null,
             "title": "East Window",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_east-window-full-02_3efc44bd23c996c0ba3b4b5acd8024be.jpg"
         }
@@ -110,12 +90,12 @@
         "longitude": -0.3016406,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Richmond",
-            "Nearest train: Richmond",
-            "Bus routes: 490, 371, 337, 110, 65, 33"
+            "Tube: Richmond",
+            "Train: Richmond",
+            "Bus: 490, 371, 337, 110, 65, 33"
         ]
     },
     "name": "St Mary Magdalene",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/5810",
+    "original_url": "https://programme.openhouse.org.uk/listings/5810",
     "ticketed_events": false
 }

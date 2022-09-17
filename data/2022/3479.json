@@ -5,53 +5,22 @@
         "designers": [
             {
                 "architect": "Inigo Jones",
-                "description": "Original design",
+                "description": null,
                 "year": "1640"
-            },
-            {
-                "architect": "Sir John Soane",
-                "description": "Extension",
-                "year": "1795"
             }
         ],
         "periods": [
+            "Sir John Soane",
             "Stuart"
         ],
         "types": [
             "legal"
         ]
     },
-    "events": [
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided Tour",
-            "notes": "Access will be  by conducted tours on 4th and 5th September 2021. 1st tour at 10 am and then on the hour until last tour beginning at 4pm on the Saturday and 1pm on Sunday. Only 10 people will be taken at a time. There will be no booking system so it will be \"1st come 1st served\". Wearing masks and hand sanitising at the outset are conditions of entry.",
-            "start": "2022-09-04T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "Guided Tour",
-            "notes": "Access will be by conducted tours on 4th and 5th September 2021. 1st tour at 10 am and then on the hour until last tour beginning at 4pm on the Saturday and 1pm on Sunday. Only 10 people will be taken at a time. There will be no booking system so it will be \"1st come 1st served\". Wearing masks and hand sanitising at the outset are conditions of entry.",
-            "start": "2022-09-05T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
-        [
-            "Disabled access",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -85,71 +54,66 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3479/building_3479_2012-gc-facade-01-lores_c7b1d26dea189ed357d0e43d718a67be.jpg",
-            "description": "Steffan Roberts · 2012",
+            "description": null,
             "title": "View of Frontage 57-60 LIF",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3479_2012-gc-facade-01-lores_c7b1d26dea189ed357d0e43d718a67be.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3479/building_3479_eliptical-staircase_c32a718d82113a74d42f573a4a8bf386.jpg",
-            "description": "Steffan Roberts · 2012",
+            "description": null,
             "title": "Elliptical Staircase",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3479_eliptical-staircase_c32a718d82113a74d42f573a4a8bf386.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3479/building_3479_square-staircase-2_ff3fca9c3bf051ddbb6d36bbc72e86bd.jpg",
-            "description": "Steffan Roberts · 2012",
+            "description": null,
             "title": "Square Staircase",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3479_square-staircase-2_ff3fca9c3bf051ddbb6d36bbc72e86bd.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3479/building_3479_5ddd5542-66c6-4752-9afe-3e5a8baec2e4_91a99936965b5c548450d89f7e0f37eb.jpeg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3479_5ddd5542-66c6-4752-9afe-3e5a8baec2e4_91a99936965b5c548450d89f7e0f37eb.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3479/building_3479_bf5995b9-9634-40cf-8f81-99f41640d39d_57564b9981d7d36a9ec6345a74b6be6d.jpeg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3479_bf5995b9-9634-40cf-8f81-99f41640d39d_57564b9981d7d36a9ec6345a74b6be6d.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3479/building_3479_214dc731-6c2f-4d70-a502-aea55cbeacb0_e3a49a5e80a92d590926d00481880795.jpeg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3479_214dc731-6c2f-4d70-a502-aea55cbeacb0_e3a49a5e80a92d590926d00481880795.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3479/building_3479_b7346fe0-f9df-434f-beff-f17a0e2f4c2c_cb957738b4c53ccbf3cc866960077751.jpeg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3479_b7346fe0-f9df-434f-beff-f17a0e2f4c2c_cb957738b4c53ccbf3cc866960077751.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/3479/building_3479_272273af-530f-4f23-93b3-303345e8ee5f_a058435856d4f9de13d779286e73a267.jpeg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3479_272273af-530f-4f23-93b3-303345e8ee5f_a058435856d4f9de13d779286e73a267.jpeg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.gardencourtchambers.co.uk/resources/download/236/open-house-factsheet-garden-court-chambers.pdf​ ",
-            "title": "Download the pdf here"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "57-60 Lincoln's Inn Fields, WC2A 3LJ",
         "latitude": 51.5157532,
         "longitude": -0.1184708,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Holborn",
-            "Nearest train: Blackfriars",
-            "Bus routes: 1, 59, 68, 91, 168, 188, 243"
+            "Tube: Holborn",
+            "Train: Blackfriars",
+            "Bus: 1, 59, 68, 91, 168, 188, 243"
         ]
     },
     "name": "Garden Court Chambers",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/3479",
+    "original_url": "https://programme.openhouse.org.uk/listings/3479",
     "ticketed_events": false
 }

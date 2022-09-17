@@ -5,21 +5,13 @@
         "designers": [
             {
                 "architect": "LCC Parks Dept",
-                "description": "Original design",
+                "description": null,
                 "year": "1906"
-            },
-            {
-                "architect": "WM Architects",
-                "description": "Extension",
-                "year": "2001"
-            },
-            {
-                "architect": "David Gibson Architects",
-                "description": "Extension",
-                "year": "2017"
             }
         ],
         "periods": [
+            "WM Architects",
+            "David Gibson Architects",
             "Historical/contemporary"
         ],
         "types": [
@@ -28,73 +20,81 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-04",
-            "end": "2022-09-04T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "History tours of Tooting Bec Lido",
-            "notes": "History tours at 11am and 12 midday",
-            "start": "2022-09-04T11:00:00+01:00",
+            "capacity": 15,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "History tours of Tooting Bec Lido",
-            "notes": "History tours at 2pm and 3pm",
-            "start": "2022-09-04T14:00:00+01:00",
+            "capacity": 15,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T15:30:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 20,
-            "date": "2022-09-05",
-            "end": "2022-09-05T12:30:00+01:00",
-            "fully_booked": null,
-            "name": "SLSC free art event",
-            "notes": "This is a drop in session",
-            "start": "2022-09-05T10:30:00+01:00",
+            "capacity": 30,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T10:30:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-05",
-            "end": "2022-09-05T13:00:00+01:00",
-            "fully_booked": null,
-            "name": "History tours of Tooting Bec Lido",
-            "notes": "History tours at 11am and 12 midday",
-            "start": "2022-09-05T11:00:00+01:00",
+            "capacity": 15,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 12,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "History tours of Tooting Bec Lido",
-            "notes": "History tours at 2pm and 3pm",
-            "start": "2022-09-05T14:00:00+01:00",
+            "capacity": 15,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T15:30:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Family activities during open house festival",
-            "Disabled access",
-            "Refreshments",
-            "Toilets"
-        ]
+        "Family activities",
+        "Disabled access",
+        "Refreshments",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -140,59 +140,54 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2181/building_2181_alexmcfayden_2_80e9d4a4dde7c123330dc07d53e9bbb3.JPG",
-            "description": "Alex McFadyen · 2014",
+            "description": null,
             "title": "View from railway side",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2181_alexmcfayden_2_80e9d4a4dde7c123330dc07d53e9bbb3.JPG"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2181/building_2181_alexmcfayden_4_smaller_5075d59389c4baa54e3f8592328cffa4.jpg",
-            "description": "Alex McFadyen · 2012",
+            "description": null,
             "title": "Lido fountain",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2181_alexmcfayden_4_smaller_5075d59389c4baa54e3f8592328cffa4.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2181/building_2181_2001_entrance_6105e3699f513f5b3471b5d52d2325df.jpg",
-            "description": "SLSC · 2014",
+            "description": null,
             "title": "New entrance built in 2001",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2181_2001_entrance_6105e3699f513f5b3471b5d52d2325df.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2181/building_2181_pavilion-2_c4f4a59bf0403db80cd4f11c225fa3a5.jpg",
-            "description": "Gail McLean · 2017",
+            "description": null,
             "title": "View from green roof of new pavilion",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2181_pavilion-2_c4f4a59bf0403db80cd4f11c225fa3a5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2181/building_2181_pavilion-1_8caa4b1bbaf8895608872e52d084d88b.jpg",
-            "description": "Gail McLean · 2017",
+            "description": null,
             "title": "Lido pavilion - East elevation",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2181_pavilion-1_8caa4b1bbaf8895608872e52d084d88b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2181/building_2181_pavilion_132d42e8c422fd3f8f8091c86ddffd40.jpg",
-            "description": "Gail McLean · 2017",
+            "description": null,
             "title": "Pavilion entrance and view through to the pool",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2181_pavilion_132d42e8c422fd3f8f8091c86ddffd40.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://www.youtube.com/watch?v=ad1lKHXGkvE",
-            "title": "Open House Film"
-        }
-    ],
+    "links": [],
     "location": {
         "address": "Tooting Bec Lido, Tooting Bec Road, SW16 1RU",
         "latitude": 51.432008,
         "longitude": -0.1391803,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Tooting Bec",
-            "Nearest train: Balham, Streatham",
-            "Bus routes: 249, 319, 315"
+            "Tube: Tooting Bec",
+            "Train: Balham, Streatham",
+            "Bus: 249, 319, 315"
         ]
     },
-    "name": "Tooting Bec Lido ",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2181",
+    "name": "Tooting Bec Lido",
+    "original_url": "https://programme.openhouse.org.uk/listings/2181",
     "ticketed_events": false
 }

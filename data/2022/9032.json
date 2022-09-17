@@ -4,12 +4,13 @@
     "design": {
         "designers": [
             {
-                "architect": "Various including John Taylor Jnr and John Norton & P E Massey ",
-                "description": "Original design",
+                "architect": "Various including John Taylor Jnr and John Norton & P E Massey",
+                "description": null,
                 "year": "1860"
             }
         ],
         "periods": [
+            "Various including John Taylor Jnr and John Norton & P E Massey ",
             "Historical/contemporary"
         ],
         "types": [
@@ -19,28 +20,18 @@
     },
     "events": [
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 24,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Hounslow Heritage Guides",
+            "booking_link": "https://programme.openhouse.org.uk/listings/9032",
+            "capacity": null,
+            "date": "2022-09-17",
+            "drop_in": false,
+            "end": "2022-09-17T16:15:00+01:00",
+            "fully_booked": false,
+            "name": "Exploring Spring Grove, Isleworth",
             "notes": null,
-            "start": "2022-09-04T14:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 24,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Hounslow Heritage Guides",
-            "notes": null,
-            "start": "2022-09-11T14:30:00+01:00",
-            "ticketed": false
+            "start": "2022-09-17T14:30:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [],
@@ -57,30 +48,25 @@
     "id": 9032,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9032/building_9032_lancaster-house_3eb217e268f5a41a6d599ba56615fc31.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/9032/building_9032_lancaster-house_c8d0501d8716deca949e6f2bada54ef3.jpg",
             "description": null,
             "title": "Former International and Borough Road College now apartments",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/medium_golden/building_9032_lancaster-house_3eb217e268f5a41a6d599ba56615fc31.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9032_lancaster-house_c8d0501d8716deca949e6f2bada54ef3.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "http://www.hounslow-heritage.org.uk",
-            "title": "Website"
-        }
-    ],
+    "links": [],
     "location": {
-        "address": "Forecourt, Isleworth Railway Station, London Road, Isleworth, TW7 4BX",
+        "address": "Forecourt, Isleworth Railway Station",
         "latitude": 51.47476,
         "longitude": -0.33689,
-        "meeting_point": "Forecourt, Isleworth Railway Station",
+        "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Hounslow East",
-            "Nearest train: Isleworth",
-            "Bus routes: 237"
+            "Tube: Hounslow East",
+            "Train: Isleworth",
+            "Bus: 237"
         ]
     },
     "name": "Exploring Spring Grove Isleworth",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/9032",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/9032",
+    "ticketed_events": true
 }

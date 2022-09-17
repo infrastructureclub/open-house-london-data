@@ -4,8 +4,33 @@
     "design": {
         "designers": [
             {
-                "architect": "Roger Westman, Brian Roberts, Frank de Marco, Adrian Sansom, Ted Hollamby, Rosemary Stjernstedt",
-                "description": "Original design",
+                "architect": "Roger Westman",
+                "description": null,
+                "year": "1963"
+            },
+            {
+                "architect": "Brian Roberts",
+                "description": null,
+                "year": "1963"
+            },
+            {
+                "architect": "Frank de Marco",
+                "description": null,
+                "year": "1963"
+            },
+            {
+                "architect": "Adrian Sansom",
+                "description": null,
+                "year": "1963"
+            },
+            {
+                "architect": "Ted Hollamby",
+                "description": null,
+                "year": "1963"
+            },
+            {
+                "architect": "Rosemary Stjernstedt",
+                "description": null,
                 "year": "1963"
             }
         ],
@@ -20,47 +45,52 @@
     },
     "events": [
         {
+            "activity_type": "Walking tour",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 40,
-            "date": "2022-09-12",
-            "end": "2022-09-12T12:00:00+01:00",
-            "fully_booked": null,
-            "name": "Walks On Central Hill",
-            "notes": "Meet at bowl / mural /playground in centre of the estate.",
-            "start": "2022-09-12T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "all_day": false,
-            "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-12",
-            "end": "2022-09-12T14:30:00+01:00",
-            "fully_booked": null,
-            "name": "Lunchtime talk",
+            "booking_link": "https://programme.openhouse.org.uk/listings/6556",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Central Hill Estate Walk",
             "notes": null,
-            "start": "2022-09-12T13:00:00+01:00",
-            "ticketed": false
+            "start": "2022-09-18T10:00:00+01:00",
+            "ticketed": true
         },
         {
+            "activity_type": "Talk",
             "all_day": false,
-            "booking_link": null,
-            "capacity": 40,
-            "date": "2022-09-12",
-            "end": "2022-09-12T15:00:00+01:00",
-            "fully_booked": null,
-            "name": "Walks On Central Hill",
-            "notes": "Meet at bowl / mural /playground in centre of the estate.",
-            "start": "2022-09-12T14:00:00+01:00",
-            "ticketed": false
+            "booking_link": "https://programme.openhouse.org.uk/listings/6556",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Central Hill Lunchtime Talk",
+            "notes": null,
+            "start": "2022-09-18T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/6556",
+            "capacity": null,
+            "date": "2022-09-18",
+            "drop_in": false,
+            "end": "2022-09-18T17:30:00+01:00",
+            "fully_booked": false,
+            "name": "Central Hill Estate Afternoon Walk",
+            "notes": null,
+            "start": "2022-09-18T15:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
-        [
-            "Refreshments",
-            "Parking"
-        ]
+        "Architect on site",
+        "Refreshments",
+        "Parking"
     ],
     "factsheet": [
         {
@@ -81,59 +111,65 @@
             "paragraphs": [
                 "To increase the density without building higher than the treeline, staggered housing blocks hug the southern border of the main road at Central Hill. Dual aspect flats at slightly different floor levels have balconies on both sides. With one block of housing over the shop, the other at Lunham Road, Peartree House is situated over a secret nuclear bunker one of the first projects built on the site in 1963."
             ]
+        },
+        {
+            "heading": "Save Central Hill Community Campaign",
+            "paragraphs": [
+                "The residents of Central Hill have been fighting to save their homes and community against the backdrop of demolition and regeneration forced upon them by Lambeth Council and their various consultants. Lambeth created its own Special Purpose Vehicle to bypass its own planning process to kick start demolition even before a resident ballot or proper environmental assessments have been made. Central Hill is one of six estates being demolished to make way for housing that does not replace the social housing that it wished to replace."
+            ]
         }
     ],
     "id": 6556,
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6556/building_6556_11219332_10153345242489571_6762811978258410858_n-1_22c8d338522beee9a34090fd8cadd400.jpg",
-            "description": "Architects for Social Housing · 2015",
+            "description": null,
             "title": "View alongside Police Station",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_11219332_10153345242489571_6762811978258410858_n-1_22c8d338522beee9a34090fd8cadd400.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6556/building_6556_11265452_10153345244629571_735317034742873598_n_df5f286ce1889ba50555dda6803dbbb5.jpg",
-            "description": "Architects for Social Housing · 2015",
+            "description": null,
             "title": "View looking over Bowl across the Estate",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_11265452_10153345244629571_735317034742873598_n_df5f286ce1889ba50555dda6803dbbb5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6556/building_6556_11265022_10153345242384571_8330159083908547133_n_2fd9036aaf319e8423ec5a90eb988384.jpg",
-            "description": "Architects for Social Housing · 2015",
+            "description": null,
             "title": "View form Lunham Road",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_11265022_10153345242384571_8330159083908547133_n_2fd9036aaf319e8423ec5a90eb988384.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6556/building_6556_1554484_10153345244579571_7517375603899582657_n_001e615201b2294e305cad048dfa1ded.jpg",
-            "description": "Architects for Social Housing · 2015",
+            "description": null,
             "title": "View looking from Vicars Oak Road end",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_1554484_10153345244579571_7517375603899582657_n_001e615201b2294e305cad048dfa1ded.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6556/building_6556_10403701_10152749981311841_2357176624291627814_n_8f9d87ccbe9ed778db4972414d1012f5.jpg",
-            "description": "Architects for Social Housing · 2015",
+            "description": null,
             "title": "View from Plane Tree Walk",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_10403701_10152749981311841_2357176624291627814_n_8f9d87ccbe9ed778db4972414d1012f5.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/6556/building_6556_img_20200529_151600_ab5d298ac6d937217523ac710310a222.jpg",
-            "description": "Senaka Weeraman · 2020",
+            "description": null,
             "title": "View of the Mural",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_img_20200529_151600_ab5d298ac6d937217523ac710310a222.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Central Hill Bowl (behind Gipsy Hill Police Station) next to Mural / Basketball Court, Central Hill Estate, SE19 1DT",
-        "latitude": 51.4202087,
-        "longitude": -0.0865743,
+        "address": "Central Hill Bowl (behind Gipsy Hill Police Sta",
+        "latitude": 51.4194278,
+        "longitude": -0.0843493,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: Gipsy Hill, Crystal Palace",
-            "Bus routes: 3, 322, 417, 450, 202"
+            "Train: Gipsy Hill, Crystal Palace",
+            "Bus: 3, 322, 417, 450, 202"
         ]
     },
     "name": "Central Hill Estate",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/6556",
-    "ticketed_events": false
+    "original_url": "https://programme.openhouse.org.uk/listings/6556",
+    "ticketed_events": true
 }

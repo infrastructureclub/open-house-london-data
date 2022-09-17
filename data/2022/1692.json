@@ -5,21 +5,13 @@
         "designers": [
             {
                 "architect": "Robert Pearsall for the Metropolitan Board of Works",
-                "description": "Original design",
+                "description": null,
                 "year": "1881"
-            },
-            {
-                "architect": "owen luder",
-                "description": "Refurbishment",
-                "year": "1967"
-            },
-            {
-                "architect": "Thomas Ford & Partners",
-                "description": "Restoration",
-                "year": "2018"
             }
         ],
         "periods": [
+            "owen luder",
+            "Thomas Ford & Partners",
             "Victorian"
         ],
         "types": [
@@ -28,23 +20,79 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-12",
-            "end": "2022-09-12T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Hourly Tours",
-            "notes": "Hourly tours available of the Old Fire Station and Theatre. No Booking required, simply drop in!",
-            "start": "2022-09-12T11:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T12:45:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 20,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T13:45:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T13:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 20,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T14:45:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T14:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 20,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T15:45:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T15:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": 20,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:45:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T16:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Disabled access",
-            "Toilets"
-        ]
+        "Disabled access",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -80,59 +128,68 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1692/building_1692_dsc_0672a_c417fb00078a70fe47e95a9279591638.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1692_dsc_0672a_c417fb00078a70fe47e95a9279591638.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1692/building_1692_01_ef6f052a85aee32fd36db66929add976.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1692_01_ef6f052a85aee32fd36db66929add976.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1692/building_1692_02_39a78192b0567f7c01c369817248b6af.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1692_02_39a78192b0567f7c01c369817248b6af.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1692/building_1692_07_8734779061b29b4af87d21f43952184c.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1692_07_8734779061b29b4af87d21f43952184c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1692/building_1692_dsc_0692a_cd7c52c0aa9c01f3c8838ebe8cbc1c98.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1692_dsc_0692a_cd7c52c0aa9c01f3c8838ebe8cbc1c98.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1692/building_1692_dsc_0668a_f99a28d3252d77616eff692f862fd06e.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1692_dsc_0668a_f99a28d3252d77616eff692f862fd06e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/1692/building_1692_dsc_0700a_858b5fd98abf261e5fd8e087d396c275.jpg",
-            "description": "",
+            "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1692_dsc_0700a_858b5fd98abf261e5fd8e087d396c275.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "www.southlondontheatre.co.uk",
+            "title": null
+        },
+        {
+            "href": "Pearsall.It",
+            "title": null
+        }
+    ],
     "location": {
-        "address": "The Old Fire Station, 2a Norwood High Street, SE27 9NS",
+        "address": "The Old Fire Station, 2a Norwood High Street",
         "latitude": 51.4319384,
         "longitude": -0.1029459,
         "meeting_point": null,
         "travel_info": [
-            "Nearest train: West Norwood, Tulse Hill",
-            "Bus routes: 2, 68, 196, 315, 322, 432, 468"
+            "Train: West Norwood, Tulse Hill",
+            "Bus: 2, 68, 196, 315, 322, 432, 468"
         ]
     },
     "name": "South London Theatre",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/1692",
+    "original_url": "https://programme.openhouse.org.uk/listings/1692",
     "ticketed_events": false
 }

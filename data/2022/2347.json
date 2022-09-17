@@ -5,16 +5,12 @@
         "designers": [
             {
                 "architect": "Baron William Craven the Younger",
-                "description": "Original design",
+                "description": null,
                 "year": "1732"
-            },
-            {
-                "architect": "Patrick Dillon Architect",
-                "description": "Restoration",
-                "year": "1998"
             }
         ],
         "periods": [
+            "Patrick Dillon Architect",
             "Georgian"
         ],
         "types": [
@@ -24,35 +20,37 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-04",
-            "end": "2022-09-04T16:30:00+01:00",
-            "fully_booked": null,
-            "name": "Architectural Tours of Benjamin Franklin House",
-            "notes": "Timed entry on first come first served basis. Book at https://www.eventbrite.com/e/open-house-london-architectural-tour-of-benjamin-franklin-house-tickets-117986539917",
-            "start": "2022-09-04T11:00:00+01:00",
-            "ticketed": true
+            "capacity": 35,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T10:00:00+01:00",
+            "ticketed": false
         },
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 10,
-            "date": "2022-09-05",
-            "end": "2022-09-05T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Architectural Tours of Benjamin Franklin House",
-            "notes": "Timed entry on first come first served basis. Book at https://www.eventbrite.com/e/open-house-london-architectural-tour-of-benjamin-franklin-house-tickets-117986539917",
-            "start": "2022-09-05T11:00:00+01:00",
-            "ticketed": true
+            "capacity": 35,
+            "date": "2022-09-18",
+            "drop_in": true,
+            "end": "2022-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-18T10:00:00+01:00",
+            "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Bookshop",
-            "Toilets"
-        ]
+        "Bookshop",
+        "Toilets"
     ],
     "factsheet": [
         {
@@ -100,19 +98,19 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2347/building_2347_108471840_10157814229813191_5282745387740849018_n_24f71542e0ff0b420a0f9ca2f30ac3dc.jpg",
-            "description": "Mark Weeks Photography · 2020",
+            "description": null,
             "title": "Franklin's Floor ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2347_108471840_10157814229813191_5282745387740849018_n_24f71542e0ff0b420a0f9ca2f30ac3dc.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2347/building_2347_bfh-exterior-19_6ed8eb30fbc83f684b32dea739ffa4f0.jpg",
-            "description": "© Benjamin Franklin House",
+            "description": null,
             "title": "View from outside",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2347_bfh-exterior-19_6ed8eb30fbc83f684b32dea739ffa4f0.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2347/building_2347_202_bbb9c2c3a0a8e459dc0233b46d04bb41.jpg",
-            "description": "Mark Weeks Photography · 2020",
+            "description": null,
             "title": "Georgian decoration on central staircase ",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2347_202_bbb9c2c3a0a8e459dc0233b46d04bb41.jpg"
         }
@@ -124,11 +122,11 @@
         "longitude": -0.1248869,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Embankment, Charing Cross",
-            "Nearest train: Charing Cross"
+            "Tube: Embankment, Charing Cross",
+            "Train: Charing Cross"
         ]
     },
     "name": "Benjamin Franklin House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2347",
-    "ticketed_events": true
+    "original_url": "https://programme.openhouse.org.uk/listings/2347",
+    "ticketed_events": false
 }

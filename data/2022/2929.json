@@ -5,7 +5,7 @@
         "designers": [
             {
                 "architect": "Fairfax B Wade-Palmer",
-                "description": "Original design",
+                "description": null,
                 "year": "1885"
             }
         ],
@@ -18,23 +18,23 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 100,
-            "date": "2022-09-11",
-            "end": "2022-09-11T16:00:00+01:00",
-            "fully_booked": null,
-            "name": "Open House",
-            "notes": "Visitors can arrive at any time during the opening hours.There may be queues at busy times.",
-            "start": "2022-09-11T10:00:00+01:00",
+            "capacity": 20,
+            "date": "2022-09-17",
+            "drop_in": true,
+            "end": "2022-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
+            "start": "2022-09-17T11:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        [
-            "Toilets",
-            "Bookshop"
-        ]
+        "Toilets",
+        "Bookshop"
     ],
     "factsheet": [
         {
@@ -55,43 +55,43 @@
     "images": [
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2929/building_2929_top_studio_sm-1_768cf46b72986e61cd4c5e08327d6ef1.jpg",
-            "description": "2019",
+            "description": null,
             "title": "Top Studio",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2929_top_studio_sm-1_768cf46b72986e61cd4c5e08327d6ef1.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2929/building_2929_img_7189_372cebdd0772797962348e9ff9f499c8.jpeg",
-            "description": "2019",
+            "description": null,
             "title": "TOP STUDIO",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2929_img_7189_372cebdd0772797962348e9ff9f499c8.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2929/building_2929_colet-gardens_c7ff3d72d1ba7024246eadb812d426bb.jpg",
-            "description": "1930",
+            "description": null,
             "title": "As it was",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2929_colet-gardens_c7ff3d72d1ba7024246eadb812d426bb.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2929/building_2929_es4_20e4dbba3325811d62a077d34d5dced7.jpg",
-            "description": "2020",
+            "description": null,
             "title": "East Studio",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2929_es4_20e4dbba3325811d62a077d34d5dced7.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2929/building_2929_ws-5_326edab0d3c2efa1da36b498773ac2d2.jpg",
-            "description": "2018",
+            "description": null,
             "title": "West Studio",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2929_ws-5_326edab0d3c2efa1da36b498773ac2d2.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2929/building_2929_colet-jpeg_9f089bddec84d0a44c6fc8719521fbe5.crdownload",
-            "description": "2010",
+            "description": null,
             "title": "Exterior",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2929_colet-jpeg_9f089bddec84d0a44c6fc8719521fbe5.crdownload"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2022/2929/building_2929_colet-garden_4672c1408dd81933575e5accbb1289a1.jpg",
-            "description": "2017",
+            "description": null,
             "title": "West Garden",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2929_colet-garden_4672c1408dd81933575e5accbb1289a1.jpg"
         }
@@ -103,12 +103,12 @@
         "longitude": -0.2144088,
         "meeting_point": null,
         "travel_info": [
-            "Nearest tube: Barons Court, Hammersmith",
-            "Nearest train: Kensington Olympia",
-            "Bus routes: 9, 27, 190, 295, 391, 220, 23"
+            "Tube: Barons Court, Hammersmith",
+            "Train: Kensington Olympia",
+            "Bus: 9, 27, 190, 295, 391, 220, 23"
         ]
     },
     "name": "Colet House",
-    "original_url": "https://openhouselondon.open-city.org.uk/listings/2929",
+    "original_url": "https://programme.openhouse.org.uk/listings/2929",
     "ticketed_events": false
 }
