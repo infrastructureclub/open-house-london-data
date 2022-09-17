@@ -18,22 +18,7 @@
             "library"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/5197",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Searchroom to Strongroom plus tour (Afternoon Tour)",
-            "notes": null,
-            "start": "2022-09-17T15:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Disabled access",
@@ -69,5 +54,5 @@
     },
     "name": "Dalston C.L.R. James Library & Hackney Archives",
     "original_url": "https://programme.openhouse.org.uk/listings/5197",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -16,36 +16,7 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": true,
-            "end": "2022-09-17T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
-            "start": "2022-09-17T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Exhibition",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/4597",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T16:30:00+01:00",
-            "fully_booked": false,
-            "name": " Barking Photographic Society and Historical Societies ",
-            "notes": null,
-            "start": "2022-09-17T10:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Disabled access",
@@ -141,5 +112,5 @@
     },
     "name": "St Patrick's Church",
     "original_url": "https://programme.openhouse.org.uk/listings/4597",
-    "ticketed_events": true
+    "ticketed_events": false
 }

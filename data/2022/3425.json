@@ -17,22 +17,7 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Building tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/3425",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Conway Hall tour",
-            "notes": null,
-            "start": "2022-09-17T15:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets"
     ],
@@ -106,5 +91,5 @@
     },
     "name": "Conway Hall",
     "original_url": "https://programme.openhouse.org.uk/listings/3425",
-    "ticketed_events": true
+    "ticketed_events": false
 }

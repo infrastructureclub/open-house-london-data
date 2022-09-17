@@ -16,36 +16,7 @@
             "residence"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10304",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Tour of house by owner",
-            "notes": null,
-            "start": "2022-09-17T16:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10304",
-            "capacity": null,
-            "date": "2022-09-17",
-            "drop_in": false,
-            "end": "2022-09-17T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Tour of house by owner",
-            "notes": null,
-            "start": "2022-09-17T16:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Toilets",
@@ -173,5 +144,5 @@
     },
     "name": "23 Sedgeford Road",
     "original_url": "https://programme.openhouse.org.uk/listings/10304",
-    "ticketed_events": true
+    "ticketed_events": false
 }
