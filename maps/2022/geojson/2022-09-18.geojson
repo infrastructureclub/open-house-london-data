@@ -49,7 +49,7 @@
             "properties": {
                 "description": "Built in a Renaissance style with high level Diocletian windows and a prominent grand cupola. In 2016 a new Fly Tower opened followed by remodelling of the auditorium in 2018 and the creation of a new basement space opening in the Autumn.",
                 "end": "10:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Shaftesbury Theatre",
                 "start": "09:00:00",
                 "ticketed_events": "Yes",
@@ -581,7 +581,7 @@
             "properties": {
                 "description": "Wren and Hawksmoor building, completed 1749 when Thomas Ripley built the pavilions facing the river. Highlights include council boardroom, grand staircase and restored Portland stonework. Refurbished in 2000 for University of Greenwich.",
                 "end": "11:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Old Royal Naval College - Queen Anne Court",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -828,7 +828,7 @@
             "properties": {
                 "description": "Influential early Gothic revival building restored to its dramatic original glory, recreating Walpole's original intention for his own home.",
                 "end": "11:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Strawberry Hill House & Garden",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
@@ -1884,25 +1884,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.09203789999999999,
-                    51.5152512
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "Publicly accessible space outside the spectacular Grade I listed medieval civic Guildhall.",
-                "end": "23:59:00",
-                "fully_booked": "",
-                "name": "Guildhall Yard",
-                "start": "00:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/6751"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.0710449,
                     51.4847424
                 ],
@@ -2302,25 +2283,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0766465,
-                    51.5135989
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "Publicly accessible landscaped Square featuring a pavilion with an asymmetrical steel structure and sliding glass walls set between three triangular support points. Also a stunning contemporary outdoor artwork from Sculpture in the City.",
-                "end": "23:59:00",
-                "fully_booked": "",
-                "name": "Aldgate Square",
-                "start": "00:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/8351"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.0171706,
                     51.4573807
                 ],
@@ -2709,7 +2671,7 @@
             "properties": {
                 "description": "Architect Ana Sutherland will lead a guided tour of the Cator Estate, covering Eric Lyons' Span estates and unique modernist homes designed by architects Patrick Gwynne, Peter Moro and Walter Greaves.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Modern Architecture in Blackheath walk",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
@@ -3431,7 +3393,7 @@
             "properties": {
                 "description": "Start Stamford Brook tube. Follow the hidden river, Stamford Brook, through streets and parks.  Amongst the architecture we will see on this route is a delightful square with great variety   Finish near Hammersmith Station around 4 pm",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Stamford brook walk",
                 "start": "14:30:00",
                 "ticketed_events": "Yes",
@@ -3678,7 +3640,7 @@
             "properties": {
                 "description": "The tour charts the evolution of Covent Garden-incorporating the piazza, the wholesale produce market, social residential areas and supporting neighbourhoods - highlighting the social and commercial highs, lows and challenges.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Fruit to Fashion: how a kitchen garden became a world famous piazza",
                 "start": "10:30:00",
                 "ticketed_events": "Yes",
@@ -3963,7 +3925,7 @@
             "properties": {
                 "description": "This mosque started as the adaptation of a terraced house a little further along Commercial Road back in the 1940s. It has since had a remarkable history that has seen it grow into one of the most significant Muslim institutions in the UK",
                 "end": "11:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "East London Mosque",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
