@@ -33,20 +33,6 @@
             "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
             "start": "2022-09-18T11:00:00+01:00",
             "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2003",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Tour of the building by the Honorary Architect",
-            "notes": null,
-            "start": "2022-09-18T14:00:00+01:00",
-            "ticketed": true
         }
     ],
     "facilities": [
@@ -130,5 +116,5 @@
     },
     "name": "Table Top Museums at the Art Workers' Guild",
     "original_url": "https://programme.openhouse.org.uk/listings/2003",
-    "ticketed_events": true
+    "ticketed_events": false
 }
