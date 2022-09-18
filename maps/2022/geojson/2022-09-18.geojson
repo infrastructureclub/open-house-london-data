@@ -48,10 +48,10 @@
             },
             "properties": {
                 "description": "Built in a Renaissance style with high level Diocletian windows and a prominent grand cupola. In 2016 a new Fly Tower opened followed by remodelling of the auditorium in 2018 and the creation of a new basement space opening in the Autumn.",
-                "end": "11:15:00",
+                "end": "12:15:00",
                 "fully_booked": "No",
                 "name": "Shaftesbury Theatre",
-                "start": "10:30:00",
+                "start": "11:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/152"
             },
@@ -315,7 +315,7 @@
             "properties": {
                 "description": "1939 Art Deco Grade II listed building refurbished in 1950, then restructured and modernised in 2014. Contains an authentically classic cinema, private salons and multimedia library.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Institut français du Royaume-Uni",
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
@@ -371,10 +371,10 @@
             },
             "properties": {
                 "description": "Wren-designed building completed under the direction of Hawksmoor and Vanbrugh, 1698-1712. Original wood panelling, refurbished by Dannatt Johnson in 2001 for University of Greenwich.",
-                "end": "11:15:00",
+                "end": "12:15:00",
                 "fully_booked": "No",
                 "name": "Old Royal Naval College - King William Court",
-                "start": "10:30:00",
+                "start": "11:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/846"
             },
@@ -466,10 +466,10 @@
             },
             "properties": {
                 "description": "Grade I listed, late Georgian sugar warehouse now housing the Museum of London Docklands. Sensitively restored, the new multimedia displays coexist with the massive timber and brick structures of the original building.",
-                "end": "11:30:00",
+                "end": "13:00:00",
                 "fully_booked": "No",
                 "name": "Museum of London Docklands",
-                "start": "11:00:00",
+                "start": "12:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/1148"
             },
@@ -485,10 +485,10 @@
             },
             "properties": {
                 "description": "Early Tudor Palace with Georgian reception rooms, Victorian Chapel, 13 acres of botanic gardens and walled garden.",
-                "end": "12:15:00",
+                "end": "13:15:00",
                 "fully_booked": "No",
                 "name": "Fulham Palace",
-                "start": "11:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/1150"
             },
@@ -580,10 +580,10 @@
             },
             "properties": {
                 "description": "Wren and Hawksmoor building, completed 1749 when Thomas Ripley built the pavilions facing the river. Highlights include council boardroom, grand staircase and restored Portland stonework. Refurbished in 2000 for University of Greenwich.",
-                "end": "11:45:00",
+                "end": "12:45:00",
                 "fully_booked": "No",
                 "name": "Old Royal Naval College - Queen Anne Court",
-                "start": "11:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/1425"
             },
@@ -618,10 +618,10 @@
             },
             "properties": {
                 "description": "Last major building on the site (1751). Original layout, timber panelling, barrel vaulting and Portland stone. Refurbished in 2000 by Dannatt Johnson for University of Greenwich.",
-                "end": "11:45:00",
+                "end": "12:45:00",
                 "fully_booked": "No",
                 "name": "Old Royal Naval College - Queen Mary Court",
-                "start": "11:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/1433"
             },
@@ -657,7 +657,7 @@
             "properties": {
                 "description": "Unique example of Expressionist architecture in London with sculptural staircase based on organic plant forms. Grade II listed. New cafe area and renovations in 2008. Refurbishment of theatre and foyer 2020.",
                 "end": "18:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Rudolf Steiner House",
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
@@ -808,31 +808,12 @@
             },
             "properties": {
                 "description": "Ground breaking post-war reinforced concrete building with cavernous interior. Sweeping roof structure with a clear single span of 194 feet, the lack of internal columns making best use of space. Opening by kind permission of Go-Ahead.",
-                "end": "11:45:00",
+                "end": "12:45:00",
                 "fully_booked": "No",
                 "name": "Stockwell Bus Garage",
-                "start": "11:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/1894"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.3348029,
-                    51.4382129
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "Influential early Gothic revival building restored to its dramatic original glory, recreating Walpole's original intention for his own home.",
-                "end": "11:30:00",
-                "fully_booked": "No",
-                "name": "Strawberry Hill House & Garden",
-                "start": "10:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/1913"
             },
             "type": "Feature"
         },
@@ -1056,7 +1037,7 @@
             "properties": {
                 "description": "A Grade I and II*  treasure that’s home to an inclusive church, an award winning venue, a unique organ and The Margins Project for those in crisis in London. Book organ workshop and performance https://unionchapel.org.uk/venue/whats-on",
                 "end": "15:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Union Chapel",
                 "start": "13:30:00",
                 "ticketed_events": "Yes",
@@ -1151,7 +1132,7 @@
             "properties": {
                 "description": "Magnificent English Baroque church, Grade I listed, gutted by fire in 1941 and restored by Sir Albert Richardson to original design. Many original features. Burial site of Thomas Tallis, organist/choirmaster (1505-85).",
                 "end": "14:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "St Alfege Church, Greenwich",
                 "start": "13:30:00",
                 "ticketed_events": "Yes",
@@ -1549,31 +1530,12 @@
             },
             "properties": {
                 "description": "New building as an urban accent - two independent houses atop each other. Contemporary in design it draws from the tectonic composition of adjacent Victorian houses. Features include rain water harvesting,  roof garden, solar water heating.",
-                "end": "12:00:00",
+                "end": "17:00:00",
                 "fully_booked": "",
                 "name": "264 Westbourne Park Road",
-                "start": "10:00:00",
+                "start": "13:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/4169"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1929879,
-                    51.5147926
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "Family home with a minimal carbon footprint on a very narrow site (8ft wide). Environmentally friendly house, utilising amongst many eco-friendly devices ground source heat pump heating & rainwater harvesting. RIBA Manser Medal Winner 2009.",
-                "end": "11:30:00",
-                "fully_booked": "No",
-                "name": "Gap House",
-                "start": "11:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/4202"
             },
             "type": "Feature"
         },
@@ -1758,10 +1720,10 @@
             },
             "properties": {
                 "description": "Former Midland Grand Hotel, now St Pancras Renaissance Hotel and Chambers apartments. Includes hotel lobby and clock tower.",
-                "end": "11:45:00",
+                "end": "12:45:00",
                 "fully_booked": "No",
                 "name": "St Pancras Chambers and Clock Tower",
-                "start": "11:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/6076"
             },
@@ -1777,10 +1739,10 @@
             },
             "properties": {
                 "description": "The building features a limestone exterior designed to 'complement but not mimic' the surrounding historical architecture, whilst behind the façade is a 4-storey composition of steel, glass and exposed concrete.",
-                "end": "12:00:00",
+                "end": "13:00:00",
                 "fully_booked": "No",
                 "name": "University of Greenwich, Stockwell Street",
-                "start": "11:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/6096"
             },
@@ -1910,10 +1872,10 @@
             },
             "properties": {
                 "description": "A BREEAM ‘Excellent’ high quality, contemporary and flexible office building with central atrium, exhibition space, restaurant, café, gym and terraces providing a dynamic and exciting workplace environment for staff and visitors.",
-                "end": "11:30:00",
+                "end": "13:00:00",
                 "fully_booked": "No",
                 "name": "Subsea 7",
-                "start": "10:30:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/6840"
             },
@@ -2062,10 +2024,10 @@
             },
             "properties": {
                 "description": "An interlocking set of gallery spaces and archive across 5 floors of an old 3-storey 19C warehouse in a mews street in Bloomsbury. Its dark brick concealing a newly luminous interior carved out inside.",
-                "end": "11:30:00",
+                "end": "12:30:00",
                 "fully_booked": "No",
                 "name": "The Perimeter",
-                "start": "11:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/7545"
             },
@@ -2366,10 +2328,10 @@
             },
             "properties": {
                 "description": "Terrace of five three-storey houses and a studio incorporating a sequence of communal and private spaces. Influential prototype for Camden social housing developments of the 1960s and 70s.",
-                "end": "11:30:00",
+                "end": "12:15:00",
                 "fully_booked": "No",
                 "name": "Winscombe Street 1960s terrace",
-                "start": "10:45:00",
+                "start": "11:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/8738"
             },
@@ -2404,10 +2366,10 @@
             },
             "properties": {
                 "description": "A radical transformation of an Edwardian Semi that has been completely opened up and renovated with bold materials and bright colours. A stage-set mountain is elevated on an exposed structure to form the striking rear extension.",
-                "end": "12:00:00",
+                "end": "13:30:00",
                 "fully_booked": "No",
                 "name": "Mountain View House",
-                "start": "11:30:00",
+                "start": "13:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/8897"
             },
@@ -2423,10 +2385,10 @@
             },
             "properties": {
                 "description": "1 Finsbury Avenue is a Grade II listed building constructed in the early 1980s by Arup Associates (Peter Foggo). As the first building in the Broadgate development it was significant in defining the speculative office typology in London.",
-                "end": "11:45:00",
+                "end": "12:45:00",
                 "fully_booked": "No",
                 "name": "1 Finsbury Avenue",
-                "start": "11:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/8957"
             },
@@ -2632,10 +2594,10 @@
             },
             "properties": {
                 "description": "This Grade I Mansion House, close to St Paul's Cathedral was designed by Edward Woodroofe in 1669 and completed in 1673.  The residence of successive Deans of St Pauls until the 1970's today it is the office to the Bishop of London",
-                "end": "11:45:00",
+                "end": "12:45:00",
                 "fully_booked": "No",
                 "name": "The Old Deanery",
-                "start": "11:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/10192"
             },
@@ -2663,25 +2625,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0095829,
-                    51.4641667
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "Architect Ana Sutherland will lead a guided tour of the Cator Estate, covering Eric Lyons' Span estates and unique modernist homes designed by architects Patrick Gwynne, Peter Moro and Walter Greaves.",
-                "end": "12:00:00",
-                "fully_booked": "No",
-                "name": "Modern Architecture in Blackheath walk",
-                "start": "10:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/10273"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.1099428,
                     51.528361
                 ],
@@ -2689,31 +2632,12 @@
             },
             "properties": {
                 "description": "An industrial heritage site that was the hub of one of London’s first major pieces of urban infrastructure.\r\nIts 18th and 19th century buildings will be restored by Tim Ronalds Architects to create the Quentin Blake Centre for Illustration.",
-                "end": "12:00:00",
+                "end": "13:00:00",
                 "fully_booked": "No",
                 "name": "Quentin Blake Centre for Illustration - New River Head",
-                "start": "11:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/10280"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.3044465,
-                    51.3925568
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "Join us for an interesting and informative walk around Surbiton with our experienced guide. Find out why Surbiton was called the Queen of the suburbs and plenty more. \r\n\r\nVisit our website: https://www.kingstontourguides.org.uk/",
-                "end": "12:00:00",
-                "fully_booked": "No",
-                "name": "Surbiton Queen of the Suburbs",
-                "start": "11:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/10284"
             },
             "type": "Feature"
         },
@@ -2727,10 +2651,10 @@
             },
             "properties": {
                 "description": "Vanbrugh Park Estate was designed by Chamberlin, Powell and Bon. The estate shares many stylistic similarities with their wider work such as the semi-circular curved motifs, purposeful use of light, and approach to community living.",
-                "end": "12:00:00",
+                "end": "12:30:00",
                 "fully_booked": "No",
                 "name": "Vanbrugh Park Estate",
-                "start": "11:00:00",
+                "start": "11:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/10329"
             },
@@ -2847,25 +2771,6 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/10630"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1390767,
-                    51.5149679
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "Tour of the new Soho Photography Quarter and The Photographers’ Gallery's refurbished ground floor, which has been redesigned to connect to this new public space that features a 45m ‘Artfrieze’ at the core of a curated public art programme.",
-                "end": "12:00:00",
-                "fully_booked": "No",
-                "name": "Soho Photography Quarter",
-                "start": "11:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/10735"
             },
             "type": "Feature"
         },
@@ -3202,10 +3107,10 @@
             },
             "properties": {
                 "description": "Celebrate the Open House Festival with this fun and interactive walking tour about Britain's forgotten history of the Black Tudors. Learn how African and European alliances, wars and conquests shaped the journeys of four Black Tudors.",
-                "end": "11:30:00",
+                "end": "13:30:00",
                 "fully_booked": "No",
                 "name": "The Mysterious Black Tudors - Riverside Walking Tour",
-                "start": "10:30:00",
+                "start": "12:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11063"
             },
@@ -3265,25 +3170,6 @@
                 "start": "11:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11108"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.2092666,
-                    51.5365323
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "As park of Queen's Park Day, this hour long stroll around Queen's Park will reveal its fascinating history, natural beauty and cultural inheritance",
-                "end": "11:30:00",
-                "fully_booked": "No",
-                "name": "Festival Walk in London's Queen's Park",
-                "start": "10:30:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/11140"
             },
             "type": "Feature"
         },
@@ -3506,10 +3392,10 @@
             },
             "properties": {
                 "description": "The long terrace at 17a–79b Mansfield Road was the last part of the post-war Gospel Oak Redevelopment Area to be completed, and formed part of the London Borough of Camden’s ‘Golden Era’ of housing under borough architect Sydney Cook.",
-                "end": "12:00:00",
+                "end": "13:00:00",
                 "fully_booked": "No",
                 "name": "17a–79b Mansfield Road (access to two flats)",
-                "start": "11:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11287"
             },
@@ -3601,10 +3487,10 @@
             },
             "properties": {
                 "description": "A plain Victorian Church set in a wooded Churchyard, with a vibrant and striking set of Murals around the altar and the Choir. \r\nHas indoor toilet facilities. \r\nA good quality well used organ in good condition, and an excellent accoustic",
-                "end": "12:00:00",
+                "end": "18:00:00",
                 "fully_booked": "",
                 "name": "St Mary's Church Bromley",
-                "start": "10:00:00",
+                "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11317"
             },
@@ -3620,10 +3506,10 @@
             },
             "properties": {
                 "description": "This walk is a celebration of South Norwood’s history of invention and creativity. Learn about famous local, historic figures like inventor & industrialist William Stanley and the composer Samuel Coleridge Taylor as you explore the area.",
-                "end": "11:45:00",
-                "fully_booked": "No",
+                "end": "14:45:00",
+                "fully_booked": "Yes",
                 "name": "Inventions of South Norwood",
-                "start": "11:00:00",
+                "start": "14:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11319"
             },
@@ -3867,10 +3753,10 @@
             },
             "properties": {
                 "description": "This mosque started as the adaptation of a terraced house a little further along Commercial Road back in the 1940s. It has since had a remarkable history that has seen it grow into one of the most significant Muslim institutions in the UK",
-                "end": "11:30:00",
-                "fully_booked": "No",
+                "end": "15:00:00",
+                "fully_booked": "Yes",
                 "name": "East London Mosque",
-                "start": "11:00:00",
+                "start": "14:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11392"
             },
@@ -3905,10 +3791,10 @@
             },
             "properties": {
                 "description": "Carved out of five historic military Grade II and II* listed buildings, Woolwich Works is a new cultural destination in London located in the royal Arsenal.",
-                "end": "11:45:00",
+                "end": "13:00:00",
                 "fully_booked": "No",
                 "name": "Woolwich Works",
-                "start": "11:00:00",
+                "start": "12:15:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11399"
             },

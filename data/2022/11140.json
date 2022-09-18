@@ -22,22 +22,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11140",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T11:30:00+01:00",
-            "fully_booked": false,
-            "name": "Festival walk in Queen's Park, London",
-            "notes": null,
-            "start": "2022-09-18T10:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Refreshments",
@@ -93,5 +78,5 @@
     },
     "name": "Festival Walk in London's Queen's Park",
     "original_url": "https://programme.openhouse.org.uk/listings/11140",
-    "ticketed_events": true
+    "ticketed_events": false
 }

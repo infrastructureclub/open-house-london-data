@@ -10,22 +10,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10284",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": null,
-            "start": "2022-09-18T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Disabled access"
     ],
@@ -71,5 +56,5 @@
     },
     "name": "Surbiton Queen of the Suburbs",
     "original_url": "https://programme.openhouse.org.uk/listings/10284",
-    "ticketed_events": true
+    "ticketed_events": false
 }
