@@ -22,22 +22,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11306",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T13:30:00+01:00",
-            "fully_booked": false,
-            "name": "Time and tide waits for no man",
-            "notes": null,
-            "start": "2022-09-18T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -91,5 +76,5 @@
     },
     "name": "Time and tide waits for no man: a walk under, on and over water",
     "original_url": "https://programme.openhouse.org.uk/listings/11306",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -16,22 +16,7 @@
             "residence"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7807",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Self Built Home Tour at East House",
-            "notes": null,
-            "start": "2022-09-18T10:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Refreshments",
         "Architect on site"
@@ -168,5 +153,5 @@
     },
     "name": "East House: The story of a self-built home in London",
     "original_url": "https://programme.openhouse.org.uk/listings/7807",
-    "ticketed_events": true
+    "ticketed_events": false
 }

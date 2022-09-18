@@ -19,22 +19,7 @@
             "art studio"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11374",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T13:45:00+01:00",
-            "fully_booked": false,
-            "name": "Tour by Lead Architect",
-            "notes": null,
-            "start": "2022-09-18T13:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Parking",
@@ -124,5 +109,5 @@
     },
     "name": "A4 & B4: Design District",
     "original_url": "https://programme.openhouse.org.uk/listings/11374",
-    "ticketed_events": true
+    "ticketed_events": false
 }
