@@ -28,22 +28,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2571",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Walk",
-            "notes": null,
-            "start": "2022-09-18T10:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Refreshments",
@@ -95,5 +80,5 @@
     },
     "name": "Brentham Garden Suburb",
     "original_url": "https://programme.openhouse.org.uk/listings/2571",
-    "ticketed_events": true
+    "ticketed_events": false
 }

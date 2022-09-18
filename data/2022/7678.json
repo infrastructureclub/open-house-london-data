@@ -16,22 +16,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7678",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided walk",
-            "notes": null,
-            "start": "2022-09-18T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Disabled access"
     ],
@@ -119,5 +104,5 @@
     },
     "name": "Kingston Historic walk",
     "original_url": "https://programme.openhouse.org.uk/listings/7678",
-    "ticketed_events": true
+    "ticketed_events": false
 }
