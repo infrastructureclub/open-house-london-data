@@ -16,22 +16,7 @@
             "housing"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10954",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Walking Tour and House Visit",
-            "notes": null,
-            "start": "2022-09-18T15:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Architect on site"
     ],
@@ -111,5 +96,5 @@
     },
     "name": "Blenheim Gardens Estate",
     "original_url": "https://programme.openhouse.org.uk/listings/10954",
-    "ticketed_events": true
+    "ticketed_events": false
 }

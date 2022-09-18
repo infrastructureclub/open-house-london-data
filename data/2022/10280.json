@@ -27,22 +27,7 @@
             "industrial"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Self-guided visit",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10280",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Self-guided visit",
-            "notes": null,
-            "start": "2022-09-18T16:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Bookshop",
         "Toilets"
@@ -136,5 +121,5 @@
     },
     "name": "Quentin Blake Centre for Illustration - New River Head",
     "original_url": "https://programme.openhouse.org.uk/listings/10280",
-    "ticketed_events": true
+    "ticketed_events": false
 }

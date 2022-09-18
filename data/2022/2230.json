@@ -21,20 +21,6 @@
     },
     "events": [
         {
-            "activity_type": "Young people",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2230",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Free organ workshop",
-            "notes": null,
-            "start": "2022-09-18T15:15:00+01:00",
-            "ticketed": true
-        },
-        {
             "activity_type": "Guided tour",
             "all_day": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2230",
@@ -56,7 +42,7 @@
             "date": "2022-09-21",
             "drop_in": false,
             "end": "2022-09-21T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Free guided tours of Union Chapel",
             "notes": null,
             "start": "2022-09-21T12:00:00+01:00",

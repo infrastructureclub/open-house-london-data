@@ -20,36 +20,7 @@
             "concert/performance space"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Exhibition",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/4825",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Exhibition: The Life of Stanley Halls",
-            "notes": null,
-            "start": "2022-09-18T10:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/4825",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Stanley Arts talk and tour",
-            "notes": null,
-            "start": "2022-09-18T15:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Refreshments",
         "Toilets"
@@ -146,5 +117,5 @@
     },
     "name": "Stanley Arts",
     "original_url": "https://programme.openhouse.org.uk/listings/4825",
-    "ticketed_events": true
+    "ticketed_events": false
 }
