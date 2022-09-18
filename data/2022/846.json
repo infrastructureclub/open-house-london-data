@@ -29,22 +29,7 @@
             "education"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/846",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T15:15:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tours King William Building",
-            "notes": null,
-            "start": "2022-09-18T14:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Disabled access"
@@ -98,5 +83,5 @@
     },
     "name": "Old Royal Naval College - King William Court",
     "original_url": "https://programme.openhouse.org.uk/listings/846",
-    "ticketed_events": true
+    "ticketed_events": false
 }

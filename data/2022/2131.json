@@ -25,22 +25,7 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2131",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": null,
-            "start": "2022-09-18T14:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Family activities",
         "Bookshop",
@@ -113,5 +98,5 @@
     },
     "name": "Barbican Centre",
     "original_url": "https://programme.openhouse.org.uk/listings/2131",
-    "ticketed_events": true
+    "ticketed_events": false
 }

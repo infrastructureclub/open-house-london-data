@@ -16,22 +16,7 @@
             "livery hall"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11108",
-            "capacity": null,
-            "date": "2022-09-18",
-            "drop_in": false,
-            "end": "2022-09-18T15:15:00+01:00",
-            "fully_booked": false,
-            "name": "Talk & Tour",
-            "notes": null,
-            "start": "2022-09-18T14:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Disabled access"
@@ -139,5 +124,5 @@
     },
     "name": "Saddlers' Hall",
     "original_url": "https://programme.openhouse.org.uk/listings/11108",
-    "ticketed_events": true
+    "ticketed_events": false
 }
