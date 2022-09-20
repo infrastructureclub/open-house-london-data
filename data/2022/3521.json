@@ -20,22 +20,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/3521",
-            "capacity": null,
-            "date": "2022-09-20",
-            "drop_in": false,
-            "end": "2022-09-20T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided walk around Hospital grounds",
-            "notes": null,
-            "start": "2022-09-20T14:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Toilets",
@@ -83,5 +68,5 @@
     },
     "name": "Bethlem Royal Hospital",
     "original_url": "https://programme.openhouse.org.uk/listings/3521",
-    "ticketed_events": true
+    "ticketed_events": false
 }
