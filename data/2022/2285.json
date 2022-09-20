@@ -18,22 +18,7 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2285",
-            "capacity": null,
-            "date": "2022-09-20",
-            "drop_in": false,
-            "end": "2022-09-20T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Town Hall Walking Tour",
-            "notes": null,
-            "start": "2022-09-20T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Disabled access"
@@ -97,5 +82,5 @@
     },
     "name": "Waltham Forest Town Hall",
     "original_url": "https://programme.openhouse.org.uk/listings/2285",
-    "ticketed_events": true
+    "ticketed_events": false
 }
