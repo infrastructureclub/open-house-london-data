@@ -326,25 +326,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.09203789999999999,
-                    51.5152512
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "Publicly accessible space outside the spectacular Grade I listed medieval civic Guildhall.",
-                "end": "23:59:00",
-                "fully_booked": "",
-                "name": "Guildhall Yard",
-                "start": "00:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/6751"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.0246804,
                     51.5470083
                 ],
@@ -396,25 +377,6 @@
                 "start": "18:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/7698"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.0766465,
-                    51.5135989
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "Publicly accessible landscaped Square featuring a pavilion with an asymmetrical steel structure and sliding glass walls set between three triangular support points. Also a stunning contemporary outdoor artwork from Sculpture in the City.",
-                "end": "23:59:00",
-                "fully_booked": "",
-                "name": "Aldgate Square",
-                "start": "00:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/8351"
             },
             "type": "Feature"
         },
@@ -885,7 +847,7 @@
             "properties": {
                 "description": "Come and explore the history of the Royal Docks, once a global centre of maritime trade. Recognising the impact of the decline and closure of the docks, we will look to the future and the next chapter for this special part of our city.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Trading Places - The changing face of the Royal Docks",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
