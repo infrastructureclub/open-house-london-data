@@ -67,10 +67,10 @@
             },
             "properties": {
                 "description": "First \"University Settlement\" to open Sept 1884. Arts, community & heritage space. Grade II. Heritage refurbishment (2019) includes new entrance/café, repairs and lighting to chapel and roof terrace.",
-                "end": "11:15:00",
+                "end": "12:15:00",
                 "fully_booked": "No",
                 "name": "Oxford House in Bethnal Green",
-                "start": "10:30:00",
+                "start": "11:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/1291"
             },
@@ -315,7 +315,7 @@
             "properties": {
                 "description": "The home of the Royal Astronomical Society since 1874, refurbished in 2007. Part of the extension to Burlington House to provide accommodation for learned societies.",
                 "end": "14:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Burlington House: Royal Astronomical Society",
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
@@ -334,7 +334,7 @@
             "properties": {
                 "description": "Built beneath the arches of Waterloo Bridge, the BFI Southbank has undergone a series of architectural interventions to create a new public identity for the institution, transforming its entrance, cinemas and major hospitality functions.",
                 "end": "14:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "BFI Southbank",
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
@@ -548,25 +548,6 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10548"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1080343,
-                    51.5141288
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "This new sundial faces East so gets only morning sun. It is 10 m. square and was opened in 2021, and is publicly accessible 24/7",
-                "end": "11:00:00",
-                "fully_booked": "No",
-                "name": "Fleet Street heritage sundial",
-                "start": "09:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/10644"
             },
             "type": "Feature"
         },
