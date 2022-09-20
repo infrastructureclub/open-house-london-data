@@ -17,22 +17,7 @@
             "online"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Online event",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/30",
-            "capacity": null,
-            "date": "2022-09-20",
-            "drop_in": false,
-            "end": "2022-09-20T23:00:00+01:00",
-            "fully_booked": false,
-            "name": "Online video tour of buildings",
-            "notes": null,
-            "start": "2022-09-20T07:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -99,5 +84,5 @@
     },
     "name": "New Ground (online only)",
     "original_url": "https://programme.openhouse.org.uk/listings/30",
-    "ticketed_events": true
+    "ticketed_events": false
 }
