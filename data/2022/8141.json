@@ -24,22 +24,7 @@
             "cemetery"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8141",
-            "capacity": null,
-            "date": "2022-09-20",
-            "drop_in": false,
-            "end": "2022-09-20T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Tour with Architect",
-            "notes": null,
-            "start": "2022-09-20T12:15:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -156,5 +141,5 @@
     },
     "name": "St. Mary's Church, Walthamstow Village",
     "original_url": "https://programme.openhouse.org.uk/listings/8141",
-    "ticketed_events": true
+    "ticketed_events": false
 }

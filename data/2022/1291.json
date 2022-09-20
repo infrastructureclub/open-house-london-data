@@ -23,22 +23,7 @@
             "garden"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Building tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1291",
-            "capacity": null,
-            "date": "2022-09-20",
-            "drop_in": false,
-            "end": "2022-09-20T13:15:00+01:00",
-            "fully_booked": false,
-            "name": "Building tour",
-            "notes": null,
-            "start": "2022-09-20T12:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Refreshments",
         "Toilets",
@@ -148,5 +133,5 @@
     },
     "name": "Oxford House in Bethnal Green",
     "original_url": "https://programme.openhouse.org.uk/listings/1291",
-    "ticketed_events": true
+    "ticketed_events": false
 }
