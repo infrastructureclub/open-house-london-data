@@ -12,22 +12,7 @@
             "historical house"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Performance",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10014",
-            "capacity": null,
-            "date": "2022-09-20",
-            "drop_in": false,
-            "end": "2022-09-20T20:30:00+01:00",
-            "fully_booked": false,
-            "name": "The Site Report Book Launch at Flat Time House",
-            "notes": null,
-            "start": "2022-09-20T18:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Refreshments",
@@ -81,5 +66,5 @@
     },
     "name": "Site Report Book Launch at Flat Time House",
     "original_url": "https://programme.openhouse.org.uk/listings/10014",
-    "ticketed_events": true
+    "ticketed_events": false
 }
