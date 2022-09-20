@@ -21,22 +21,7 @@
             "housing"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11077",
-            "capacity": null,
-            "date": "2022-09-20",
-            "drop_in": false,
-            "end": "2022-09-20T20:00:00+01:00",
-            "fully_booked": false,
-            "name": "Walking tour of Battersea Exchange",
-            "notes": null,
-            "start": "2022-09-20T18:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Architect on site"
     ],
@@ -115,5 +100,5 @@
     },
     "name": "Battersea Exchange",
     "original_url": "https://programme.openhouse.org.uk/listings/11077",
-    "ticketed_events": true
+    "ticketed_events": false
 }
