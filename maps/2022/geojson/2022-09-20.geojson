@@ -98,25 +98,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0899439,
-                    51.5127333
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "Wren's own and 'finest City Church'.  Fantastic architecture with different shapes,  twelve Corinthian columns and covered by huge dome - first of its type. Central stone altar by Henry Moore installed in 1987. Birthplace of the Samaritans.",
-                "end": "14:00:00",
-                "fully_booked": "No",
-                "name": "The City Churches: St Stephen Walbrook",
-                "start": "13:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/1867"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.1531897,
                     51.5005504
                 ],
@@ -174,25 +155,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0914523,
-                    51.5155499
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "UPDATED: Drop-in Monday - Friday only. (not open weekends). Learn about the built environment of the City of London. See the interactive 1:500 scale Pipers model of the City with the latest developments and architecture.",
-                "end": "14:30:00",
-                "fully_booked": "",
-                "name": "UPDATED: The City Centre",
-                "start": "10:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/2653"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.027998,
                     51.3783833
                 ],
@@ -200,10 +162,10 @@
             },
             "properties": {
                 "description": "Last surviving psychiatric hospital built in England according to the villa system. Walk takes in Hospital Chapel, Walled Garden used in occupational therapy, and former Admin Building, repurposed as Bethlem Museum and Bethlem Gallery.",
-                "end": "14:00:00",
+                "end": "16:00:00",
                 "fully_booked": "No",
                 "name": "Bethlem Royal Hospital",
-                "start": "12:30:00",
+                "start": "14:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/3521"
             },
@@ -269,25 +231,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.139365,
-                    51.5082999
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "The home of the Royal Astronomical Society since 1874, refurbished in 2007. Part of the extension to Burlington House to provide accommodation for learned societies.",
-                "end": "14:00:00",
-                "fully_booked": "No",
-                "name": "Burlington House: Royal Astronomical Society",
-                "start": "13:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/4496"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.1150595,
                     51.5067628
                 ],
@@ -295,31 +238,12 @@
             },
             "properties": {
                 "description": "Built beneath the arches of Waterloo Bridge, the BFI Southbank has undergone a series of architectural interventions to create a new public identity for the institution, transforming its entrance, cinemas and major hospitality functions.",
-                "end": "14:00:00",
+                "end": "15:00:00",
                 "fully_booked": "No",
                 "name": "BFI Southbank",
-                "start": "13:00:00",
+                "start": "14:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/8064"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.051334,
-                    51.5284509
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "The School of Sufi Teaching's new zawiya has input from an international group of architects, artists and craftspersons who have woven Islamic design principles into the context of the Globe Town Conservation Area.",
-                "end": "13:30:00",
-                "fully_booked": "No",
-                "name": "School of Sufi Teaching in Bethnal Green",
-                "start": "12:30:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/8630"
             },
             "type": "Feature"
         },
@@ -448,10 +372,10 @@
             "properties": {
                 "description": "Wren designed building of 1675, interior lost in blitz of 1940, reopened 1957 with 'Wren inspired' interior",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "",
                 "name": "St Bride's Church, Fleet Street",
                 "start": "08:00:00",
-                "ticketed_events": "Yes",
+                "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10035"
             },
             "type": "Feature"
@@ -543,7 +467,7 @@
             "properties": {
                 "description": "Fish Island Village is a major new live-work neighbourhood in east London - a mid-rise development comprising 588 mixed tenure dwellings with 5,522m² commercial space delivered by The Trampery as a campus for sustainable fashion businesses.",
                 "end": "19:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Fish Island Village",
                 "start": "18:30:00",
                 "ticketed_events": "Yes",
@@ -619,30 +543,11 @@
             "properties": {
                 "description": "Battersea Exchange creates 290 new homes, 21% of which are affordable, a new two-form entry primary school and around 4000 sqm of commercial space for shops, offices and restaurants, as well as a new entrance to Queenstown Road Station.",
                 "end": "20:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Battersea Exchange",
                 "start": "18:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11077"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1238411,
-                    51.4792217
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "A small urban site packed with possibilities: three towers, two mansion blocks, maisonettes, shops and cafes, green space and a school. Keybridge explores the heterogenous Vauxhall context to consider what the new urban vernacular might be.",
-                "end": "13:30:00",
-                "fully_booked": "No",
-                "name": "Keybridge Walking Tour",
-                "start": "12:30:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/11116"
             },
             "type": "Feature"
         },

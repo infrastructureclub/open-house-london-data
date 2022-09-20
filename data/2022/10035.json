@@ -49,20 +49,6 @@
             "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
             "start": "2022-09-21T08:00:00+01:00",
             "ticketed": false
-        },
-        {
-            "activity_type": "Musical recital",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10035",
-            "capacity": null,
-            "date": "2022-09-20",
-            "drop_in": false,
-            "end": "2022-09-20T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Recital",
-            "notes": null,
-            "start": "2022-09-20T13:15:00+01:00",
-            "ticketed": true
         }
     ],
     "facilities": [
@@ -245,5 +231,5 @@
     },
     "name": "St Bride's Church, Fleet Street",
     "original_url": "https://programme.openhouse.org.uk/listings/10035",
-    "ticketed_events": true
+    "ticketed_events": false
 }
