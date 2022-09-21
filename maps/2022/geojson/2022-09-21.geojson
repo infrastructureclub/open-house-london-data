@@ -752,7 +752,7 @@
             "properties": {
                 "description": "A modern conversion of a 19th-century hop warehouse and a 1980s office building, joined by a striking helical staircase. It is the home of the Royal College of Obstetricians and Gynaecologists and other women’s health organisations.",
                 "end": "12:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Royal College of Obstetricians and Gynaecologists",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -801,25 +801,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1219973,
-                    51.5134882
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "Discover the history of law and (dis)order in Covent Garden through the architecture of No. 28 Bow Street. This tour takes place outside and will focus on the external features of the former Bow Street Magistrates' Court and Police Station.",
-                "end": "10:00:00",
-                "fully_booked": "No",
-                "name": "Bow Street Police Museum",
-                "start": "09:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/11261"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.0248209,
                     51.4814509
                 ],
@@ -847,7 +828,7 @@
             "properties": {
                 "description": "Come and explore the history of the Royal Docks, once a global centre of maritime trade. Recognising the impact of the decline and closure of the docks, we will look to the future and the next chapter for this special part of our city.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Trading Places - The changing face of the Royal Docks",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
