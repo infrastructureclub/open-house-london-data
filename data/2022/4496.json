@@ -20,22 +20,7 @@
             "library"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Exhibition",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/4496",
-            "capacity": null,
-            "date": "2022-09-21",
-            "drop_in": false,
-            "end": "2022-09-21T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open House tours",
-            "notes": null,
-            "start": "2022-09-21T13:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Family activities",
         "Toilets",
@@ -140,5 +125,5 @@
     },
     "name": "Burlington House: Royal Astronomical Society",
     "original_url": "https://programme.openhouse.org.uk/listings/4496",
-    "ticketed_events": true
+    "ticketed_events": false
 }
