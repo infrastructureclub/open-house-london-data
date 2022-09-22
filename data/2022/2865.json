@@ -16,22 +16,7 @@
             "civic"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2865",
-            "capacity": null,
-            "date": "2022-09-22",
-            "drop_in": false,
-            "end": "2022-09-22T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Tour and talk",
-            "notes": null,
-            "start": "2022-09-22T14:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Parking"
@@ -175,5 +160,5 @@
     },
     "name": "DATE CHANGE Chiswick Town Hall",
     "original_url": "https://programme.openhouse.org.uk/listings/2865",
-    "ticketed_events": true
+    "ticketed_events": false
 }
