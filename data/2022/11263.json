@@ -36,20 +36,6 @@
             "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
             "start": "2022-09-24T10:00:00+01:00",
             "ticketed": false
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11263",
-            "capacity": null,
-            "date": "2022-09-22",
-            "drop_in": false,
-            "end": "2022-09-22T20:30:00+01:00",
-            "fully_booked": false,
-            "name": "Artists Talk & Roundtable Discussion -Free Public Space",
-            "notes": null,
-            "start": "2022-09-22T18:30:00+01:00",
-            "ticketed": true
         }
     ],
     "facilities": [
@@ -186,5 +172,5 @@
     },
     "name": "Canterbury Square SW9- AR in public space \"Holding the Flame\"",
     "original_url": "https://programme.openhouse.org.uk/listings/11263",
-    "ticketed_events": true
+    "ticketed_events": false
 }
