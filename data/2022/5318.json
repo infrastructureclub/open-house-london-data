@@ -21,7 +21,7 @@
             "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 200,
+            "capacity": 150,
             "date": "2022-09-23",
             "drop_in": true,
             "end": "2022-09-23T17:30:00+01:00",
@@ -35,7 +35,7 @@
             "activity_type": "Drop in",
             "all_day": false,
             "booking_link": null,
-            "capacity": 200,
+            "capacity": 150,
             "date": "2022-09-26",
             "drop_in": true,
             "end": "2022-09-26T18:00:00+01:00",
@@ -46,32 +46,32 @@
             "ticketed": false
         },
         {
-            "activity_type": "Open day",
+            "activity_type": "Drop in",
             "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/5318",
-            "capacity": null,
+            "booking_link": null,
+            "capacity": 150,
             "date": "2022-09-27",
-            "drop_in": false,
+            "drop_in": true,
             "end": "2022-09-27T12:30:00+01:00",
             "fully_booked": false,
-            "name": "City Hall open day and film screening",
-            "notes": null,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
             "start": "2022-09-27T08:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
-            "activity_type": "Open day",
+            "activity_type": "Drop in",
             "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/5318",
-            "capacity": null,
+            "booking_link": null,
+            "capacity": 150,
             "date": "2022-09-29",
-            "drop_in": false,
+            "drop_in": true,
             "end": "2022-09-29T15:30:00+01:00",
             "fully_booked": false,
-            "name": "City Hall open day and film screening",
-            "notes": null,
+            "name": "Drop in",
+            "notes": "Visitors can arrive at any time during the opening hours. There may be queues at busy times.",
             "start": "2022-09-29T08:30:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -186,5 +186,5 @@
     },
     "name": "City Hall",
     "original_url": "https://programme.openhouse.org.uk/listings/5318",
-    "ticketed_events": true
+    "ticketed_events": false
 }
