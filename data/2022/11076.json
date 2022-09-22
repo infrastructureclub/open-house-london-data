@@ -32,12 +32,15 @@
             "ticketed": true
         }
     ],
-    "facilities": [],
+    "facilities": [
+        "Parking"
+    ],
     "factsheet": [
         {
             "heading": "The Meeting Point",
             "paragraphs": [
-                "Meeting outside Bang Bang Oriental Foodhall \n399 Edgware Road, London NW9 OFH"
+                "Meeting outside Bang Bang Oriental Foodhall \n399 Edgware Road, London NW9 OFH",
+                "Parking\nFree 3-hour Parking available at both Bang Bang/Morrison's car park and ASDA's car park (next to Morrison's)"
             ]
         },
         {
@@ -49,10 +52,11 @@
             ]
         },
         {
-            "heading": "The Guide - Lisa Lu of Eclectic Tours",
+            "heading": "The Guide - Lisa Lu of Eclectic Tours - eclectic-tours.com",
             "paragraphs": [
                 "Lisa Lu is an American with a MA in Shakespeare Studies who has lived in London for over 10 years. Originally from Los Angeles, she has lived in New York and Chicago and has a background in theatre and film.",
-                "Lisa is a holder of a 2021 Golden Key Badge as a trained tour guide from Open City. After completing the Golden Key Academy course during the Open House Festival 2022 with her walk Kingsbury & Colindale: Re-Imaging Suburbia, Lisa founded Eclectic Tours which encompasses a wide range of tours in central and greater London."
+                "Lisa is a holder of a 2021 Golden Key Badge as a trained tour guide from Open City. After completing the Golden Key Academy course during the Open House Festival 2022 with her walk Kingsbury & Colindale: Re-Imaging Suburbia, Lisa founded Eclectic Tours which encompasses a wide range of tours in central and greater London.",
+                "For information on more tours, please go to: eclectic-tours.com"
             ]
         }
     ],
@@ -65,11 +69,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11076_watch-tower-ll_66163fa510265e23358db054844e900d.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "eclectic-tours.com",
+            "title": null
+        }
+    ],
     "location": {
-        "address": "Bang Bang Oriental Foodhall, 399 Edgware Rd",
-        "latitude": 51.5934072,
-        "longitude": -0.2594928,
+        "address": "Bang Bang, 399 Edgware Rd, NW9 0FH",
+        "latitude": 51.5230902,
+        "longitude": -0.1749715,
         "meeting_point": null,
         "travel_info": [
             "Tube: Colindale",
