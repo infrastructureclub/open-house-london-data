@@ -28,22 +28,7 @@
             "hotel"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11391",
-            "capacity": null,
-            "date": "2022-09-23",
-            "drop_in": false,
-            "end": "2022-09-23T11:00:00+01:00",
-            "fully_booked": false,
-            "name": "Discover Andaz London and It's History!",
-            "notes": null,
-            "start": "2022-09-23T10:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets"
     ],
@@ -149,5 +134,5 @@
     },
     "name": "Andaz London Liverpool Street",
     "original_url": "https://programme.openhouse.org.uk/listings/11391",
-    "ticketed_events": true
+    "ticketed_events": false
 }
