@@ -23,22 +23,7 @@
             "gallery"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2527",
-            "capacity": null,
-            "date": "2022-09-24",
-            "drop_in": false,
-            "end": "2022-09-24T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Free Heritage Guided tour",
-            "notes": null,
-            "start": "2022-09-24T12:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Family activities",
         "Disabled access",
@@ -146,5 +131,5 @@
     },
     "name": "Grand Junction at St Mary Magdalene Church, Paddington",
     "original_url": "https://programme.openhouse.org.uk/listings/2527",
-    "ticketed_events": true
+    "ticketed_events": false
 }
