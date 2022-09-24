@@ -30,10 +30,10 @@
             "properties": {
                 "description": "Chalk and flint house dating to 17C with additions including extensions of 1896 and 1903 when owned by John Pattinson Kirk. Rich in period detail and the interior restored and stairs opened up with funding from the Heritage Lottery Fund.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "",
                 "name": "Honeywood Museum",
                 "start": "10:00:00",
-                "ticketed_events": "Yes",
+                "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/3939"
             },
             "type": "Feature"
@@ -86,31 +86,12 @@
             },
             "properties": {
                 "description": "2 Marylebone Road is a Grade II listed, Regency-style mansion in Camden borough, forming part of the Crown Estate. It now houses  offices for consumer champion Which?. In 2016 the building underwent significant renovations in the interior.",
-                "end": "15:00:00",
+                "end": "15:30:00",
                 "fully_booked": "No",
                 "name": "2 Marylebone Road, Which?",
-                "start": "14:30:00",
+                "start": "15:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/10595"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1917403,
-                    51.3457232
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "The London Cancer Hub is Europe’s leading oncology district and a partnership between The London Borough of Sutton, The Institute of Cancer Research, The Royal Marsden NHS Trust, Epsom and St Helier NHS Trust, Harris Academy and The GLA",
-                "end": "15:00:00",
-                "fully_booked": "No",
-                "name": "Open House at London Cancer Hub",
-                "start": "14:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/10953"
             },
             "type": "Feature"
         },
