@@ -16,6 +16,7 @@ jobs:
         env:
           OH_SESSION_COOKIE: ${{ secrets.OH_SESSION_COOKIE }}
         run: |
+          sudo apt-get install libgeos-dev
           pip install -r requirements.txt
 
           # we'll regenerate these, so remove them now and git add -u will
