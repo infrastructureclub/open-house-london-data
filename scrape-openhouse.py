@@ -11,6 +11,10 @@ from dateutil import parser
 import pytz
 from urlextract import URLExtract
 
+headers={
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36'
+}
+
 cookies = {}
 session_cookie = os.getenv("OH_SESSION_COOKIE")
 if session_cookie:
@@ -25,7 +29,7 @@ year = 2022
 timezone = pytz.timezone("Europe/London")
 
 buildings = []
-response = requests.get("https://programme.openhouse.org.uk/map")
+response = requests.get("https://programme.openhouse.org.uk/map", headers=headers)
 root = lxml.html.document_fromstring(response.content)
 marker_nodes = root.xpath('//ul[@class="markers"]/li')
 for node in marker_nodes:
@@ -40,13 +44,17 @@ for node in marker_nodes:
         }
     )
 
+if len(buildings) == 0:
+    print("ERROR: No buildings found")
+    sys.exit(1)
+
 count = 0
 for building in buildings:
     count += 1
     print("Fetching listing %s/%s - %s" % (count, len(buildings), building))
 
     original_url = "https://programme.openhouse.org.uk/listings/%s" % building["id"]
-    response = requests.get(original_url, cookies=cookies)
+    response = requests.get(original_url, cookies=cookies, headers=headers)
     if response.content == b"Retry later\n":
         print("Hit rate limiting, cannot continue")
         raise Exception("Rate limited")
