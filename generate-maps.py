@@ -9,7 +9,7 @@ import simplekml
 from shapely.geometry import mapping
 from shapely.geometry import Point
 
-year = 2022
+year = 2023
 data_path = "data/%s" % year
 maps_path = "maps/%s" % year
 
