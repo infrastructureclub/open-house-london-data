@@ -25,7 +25,7 @@ else:
         "NOT using session cookie - this will not have accurate booking status data..."
     )
 
-year = 2022
+year = 2023
 timezone = pytz.timezone("Europe/London")
 
 buildings = []
@@ -58,6 +58,14 @@ for building in buildings:
     if response.content == b"Retry later\n":
         print("Hit rate limiting, cannot continue")
         raise Exception("Rate limited")
+
+    # FIXME: If the server has downtime this will result in all listings being
+    # removed as we delete them all before the run. Instead we should be
+    # skipping over them and only deleting listings that now 404, from within
+    # this code instead of the github workflow.
+    if response.status_code == 500:
+        print("SKIPPING due to 500 response from server - likely this listing isn't public yet")
+        continue
 
     root = lxml.html.document_fromstring(response.content)
 

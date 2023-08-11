@@ -21,9 +21,9 @@ jobs:
 
           # we'll regenerate these, so remove them now and git add -u will
           # later mark them as deleted in git
-          rm data/2022/*
-          rm csv/2022/*
-          rm -rf maps/2022/*
+          rm data/2023/* || true
+          rm csv/2023/* || true
+          rm -rf maps/2023/* || true
 
           python -u scrape-openhouse.py
           python -u generate-csv-summary.py
