@@ -133,7 +133,7 @@ for building in buildings:
         data["facilities"].append(node.text_content())
 
     # Short description
-    description_nodes = root.xpath('//p[contains(@class, "summary")]')
+    description_nodes = root.xpath('//p[contains(@class, "description")]')
     data["description"] = description_nodes[0].text_content().strip()
 
     # Design notes + tags
