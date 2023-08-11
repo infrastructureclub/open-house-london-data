@@ -93,7 +93,7 @@ for building in buildings:
             data["images"].append(
                 {
                     "url": image.attrib["src"],
-                    "title": image.attrib["alt"],
+                    "title": image.attrib.get("alt", None),
                     "description": None,
                 }
             )
