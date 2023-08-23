@@ -171,9 +171,9 @@ for building in buildings:
         "content"
     ]
     data["design"]["periods"] = [
-        t
+        t.strip()
         for t in design_types.split(",")
-        if (t not in architects) and (t.lower() not in data["design"]["types"])
+        if (t not in architects) and (t.lower() not in data["design"]["types"]) and t.strip()
     ]
 
     # Big free text section at the bottom, they call it the factsheet
@@ -233,8 +233,8 @@ for building in buildings:
                     matches = re.search("(\d+)", capacity_node[0])
                     capacity = int(matches.group(1))
 
-                notes = event.xpath(".//p[not(@*)]")[0].text_content()
-                time_string = event.xpath(".//h3/text()")[0]
+                notes = event.xpath('.//p[contains(@class, "text")]/text()')[0]
+                time_string = event.xpath(".//p[not(@*)]")[0].text_content()
 
                 all_day = False
                 if time_string == "All day":
@@ -243,7 +243,7 @@ for building in buildings:
                     start_time = "00:00"
                     end_time = "23:59"
                 else:
-                    start_time, end_time = time_string.split(" to ")
+                    start_time, end_time = time_string.split("–")
 
                 start_datetime = parser.parse(date_string + " " + start_time)
                 start_datetime = timezone.localize(start_datetime)
@@ -284,10 +284,10 @@ for building in buildings:
 
             for event in event_node.xpath('.//div[@class="event"]'):
                 activity_type = event.xpath(
-                    './/p[contains(@class, "activity-type")]/text()'
+                    './/p[contains(@class, "uppercase")]/text()'
                 )[0]
-                time_string = event.xpath('.//p[@class="time"]/text()')[0]
-                name = event.xpath('.//h3[@class="name"]/text()')[0]
+                time_string = event.xpath(".//p[not(@*)]")[0].text_content()
+                name = event.xpath('.//h3[@class="text"]/text()')[0]
                 booking_string = (
                     event.xpath('.//div[@class="action"]')[0].text_content().strip()
                 )
