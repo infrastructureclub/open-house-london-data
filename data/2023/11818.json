@@ -14,7 +14,36 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "We'll be running tours of this striking art deco building every half hour.",
+            "start": "2023-09-09T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Help us build the 'dream neighbourhood' in this hands-on creative activity. Designed for all ages.",
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Step free access",
@@ -59,10 +88,40 @@
     "id": 11818,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_patch-twickenham-exterior_1c5ec79d6a5482a27e1be1294fea14a5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-6690_a03afe13cc367d9a953a07a84b90119c.jpg",
             "description": null,
-            "title": "Patch, housed in a striking art deco building on the corner of York Street",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_patch-twickenham-exterior_1c5ec79d6a5482a27e1be1294fea14a5.jpg"
+            "title": "Patch, a new neighbourhood workspace & community venue, formerly the South Eastern Electricity Board",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-6690_a03afe13cc367d9a953a07a84b90119c.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-5610_85273fee38160db3d886e5ba2c02b5e0.jpg",
+            "description": null,
+            "title": "New neighbourhood workspace at 42 York Street",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-5610_85273fee38160db3d886e5ba2c02b5e0.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-5343_335705fc0ce9f27efafea4dee29babb3.jpg",
+            "description": null,
+            "title": "Patch Market - a public cafe and events space",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-5343_335705fc0ce9f27efafea4dee29babb3.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-5440_7675931a7ccabbc8fc61ec2b6a74e84e.jpg",
+            "description": null,
+            "title": "A family of spaces for community and cultural events",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-5440_7675931a7ccabbc8fc61ec2b6a74e84e.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-5490_4b69a8dec1c447b8f2a8bf7971b5f4ef.jpg",
+            "description": null,
+            "title": "A new neighbourhood podcast studio",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-5490_4b69a8dec1c447b8f2a8bf7971b5f4ef.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img_5711_b7b1cf8632cfd1ae4d78cf4b159e5da5.jpg",
+            "description": null,
+            "title": "The Faraday Room",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img_5711_b7b1cf8632cfd1ae4d78cf4b159e5da5.jpg"
         }
     ],
     "links": [],

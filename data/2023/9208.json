@@ -16,7 +16,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9208",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "Beating the Bounds Tour",
+            "notes": null,
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -29,10 +44,10 @@
     "id": 9208,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9208/building_9208_beating-the-bounds-roupell_0bc6e9cc6d64f82dee569616c59e4ad5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9208/building_9208_beating-the-bounds-roupell_1b986b6db1c6504c8eb7152818b7aa7c.jpg",
             "description": null,
             "title": "Beating the Bounds - Roupell St.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9208_beating-the-bounds-roupell_0bc6e9cc6d64f82dee569616c59e4ad5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9208_beating-the-bounds-roupell_1b986b6db1c6504c8eb7152818b7aa7c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9208/building_9208_dsc00163a_9d47b51c6ea0fe82536dc69d1a9c06a7.jpg",
@@ -52,7 +67,7 @@
         }
     ],
     "location": {
-        "address": "By the London Eye Pier, , The Queen's Walk",
+        "address": "By the London Eye Pier, The Queen's Walk",
         "latitude": 51.5032915,
         "longitude": -0.1202671,
         "meeting_point": null,
@@ -64,5 +79,5 @@
     },
     "name": "Beating the Bounds",
     "original_url": "https://programme.openhouse.org.uk/listings/9208",
-    "ticketed_events": false
+    "ticketed_events": true
 }

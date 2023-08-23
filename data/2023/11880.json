@@ -16,7 +16,36 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11880",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Photography walking tour: Chelsea Creek",
+            "notes": null,
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11880",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Photography tour: Chelsea Creek",
+            "notes": null,
+            "start": "2023-09-16T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Step free access",
@@ -59,5 +88,5 @@
     },
     "name": "Chelsea Creek: photography walk & talk",
     "original_url": "https://programme.openhouse.org.uk/listings/11880",
-    "ticketed_events": false
+    "ticketed_events": true
 }

@@ -10,14 +10,42 @@
             }
         ],
         "periods": [
-            "  ",
             "Historical/contemporary"
         ],
         "types": [
             "hotel"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9211",
+            "capacity": null,
+            "date": "2023-09-11",
+            "drop_in": false,
+            "end": "2023-09-11T16:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-11T15:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9211",
+            "capacity": null,
+            "date": "2023-09-11",
+            "drop_in": false,
+            "end": "2023-09-11T17:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-11T16:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Architect on site",
@@ -51,10 +79,10 @@
     "id": 9211,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9211/building_9211_standard-exterior_017-final_high_63abd47f10f23d1acb86603a85021bab.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9211/building_9211_standard-exterior_017-final_high_90411b68f571f9497d63b671bfcc6001.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9211_standard-exterior_017-final_high_63abd47f10f23d1acb86603a85021bab.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9211_standard-exterior_017-final_high_90411b68f571f9497d63b671bfcc6001.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9211/building_9211_library_lounge_002_1d64d44e3f9a2e728c4ee0ab36d8d057.jpg",
@@ -137,5 +165,5 @@
     },
     "name": "The Standard, London",
     "original_url": "https://programme.openhouse.org.uk/listings/9211",
-    "ticketed_events": false
+    "ticketed_events": true
 }

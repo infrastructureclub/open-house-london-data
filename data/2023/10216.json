@@ -16,7 +16,36 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-13",
+            "drop_in": true,
+            "end": "2023-09-13T11:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-13T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-13",
+            "drop_in": true,
+            "end": "2023-09-13T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-13T13:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Food and drink",
         "Baby changing facilities",
@@ -50,10 +79,16 @@
     "id": 10216,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10216/building_10216_255_holbornhouse-8_6aarchitects_ff90c920b6091d676a46a622c73ad85e.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10216/building_10216_220823_3fb40fc0619520371cf97c4fa6a33f09.png",
+            "description": null,
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10216_220823_3fb40fc0619520371cf97c4fa6a33f09.png"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10216/building_10216_255_holbornhouse-8_6aarchitects_2a25407ef98404df9650a8b1bb6cb8d2.png",
             "description": null,
             "title": "View from stair",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10216_255_holbornhouse-8_6aarchitects_ff90c920b6091d676a46a622c73ad85e.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10216_255_holbornhouse-8_6aarchitects_2a25407ef98404df9650a8b1bb6cb8d2.png"
         }
     ],
     "links": [],

@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "We would like to include Little Mouse Cheese Shop/212A Selhurst Road, in the Open City Programme the weekend of 10th-11th September.",
+    "description": "Visit Little Mouse, an Edwardian shop in South Norwood with original wooden frontage and fascia that is now an artisan cheesemonger.",
     "design": {
         "designers": [
             {
@@ -10,14 +10,70 @@
             }
         ],
         "periods": [
-            "  ",
             "Edwardian"
         ],
         "types": [
             "retail"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-09T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-10T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": true,
+            "end": "2023-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-17T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Gender neutral toilets"
@@ -26,7 +82,7 @@
         {
             "heading": "Peeling back the layers - restoring an Edwardian shop",
             "paragraphs": [
-                "Visit Little Mouse at 212A Selhurst Road, a Edwardian shop in South Norwood with original wooden frontage and fascia that is now an artisan cheesemonger.",
+                "Visit Little Mouse at 212A Selhurst Road, an Edwardian shop in South Norwood with original wooden frontage and fascia that is now an artisan cheesemonger.",
                 "On display within the shop will be an exhibition outlining the history of the shop explaining the architectural and social history and plans for restoring the frontage as part of the South Norwood HAZ. You will see the shop’s historic fabric, showing clearly how the original 1850s building was remodelled in the 1900s.",
                 "In addition to historic photographs of the high street, you will be able to see the proposed plans for further restoration work of this beautiful historic building, as well as works in progress - tile and fascia restoration - and have an opportunity to chat with the shop owner who has uncovered its fascinating history."
             ]
@@ -60,8 +116,8 @@
         "longitude": -0.07719,
         "meeting_point": null,
         "travel_info": [
-            "Train: Norwood Junction",
-            "Bus: 75"
+            "Train: Selhurst, Norwood Junction",
+            "Bus: 410, 196, 75"
         ]
     },
     "name": "Little Mouse Cheese Shop",

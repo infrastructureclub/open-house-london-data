@@ -16,7 +16,50 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11780",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T10:00:00+01:00",
+            "fully_booked": true,
+            "name": "Tour",
+            "notes": null,
+            "start": "2023-09-09T09:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11780",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T11:30:00+01:00",
+            "fully_booked": true,
+            "name": "Tour",
+            "notes": null,
+            "start": "2023-09-09T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11780",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "Tour",
+            "notes": null,
+            "start": "2023-09-09T12:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Architect on site"
     ],
@@ -69,5 +112,5 @@
     },
     "name": "Tour of Convoys Wharf",
     "original_url": "https://programme.openhouse.org.uk/listings/11780",
-    "ticketed_events": false
+    "ticketed_events": true
 }

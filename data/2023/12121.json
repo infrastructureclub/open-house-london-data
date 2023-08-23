@@ -16,7 +16,36 @@
             "mixed use"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Lynton Pepper from Architecture 00 will be available to show the building and answer questions.",
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": true,
+            "end": "2023-09-17T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Lynton Pepper from Architecture 00 will be available to show the building and answer questions.",
+            "start": "2023-09-17T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Gender neutral toilets",

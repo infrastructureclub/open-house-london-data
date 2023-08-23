@@ -10,7 +10,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11059",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "River Walk - explore the Thames",
+            "notes": null,
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -23,10 +38,10 @@
     "id": 11059,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11059/building_11059_river-picture_fec9e7b3ed900d97f426f2a4e2a4f77a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11059/building_11059_river-picture_934452e8bb6ae3cf17ed797635f63383.jpg",
             "description": null,
             "title": "The Thames is full of stories ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11059_river-picture_fec9e7b3ed900d97f426f2a4e2a4f77a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11059_river-picture_934452e8bb6ae3cf17ed797635f63383.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11059/building_11059_open-house-version_b58d5c0257e1df4ddcc32ac306f7a5b4.jpg",
@@ -60,5 +75,5 @@
     },
     "name": "River Walk",
     "original_url": "https://programme.openhouse.org.uk/listings/11059",
-    "ticketed_events": false
+    "ticketed_events": true
 }

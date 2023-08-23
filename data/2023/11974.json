@@ -21,7 +21,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11974",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "ARCHITECTS’ HOUSES OF HAMPSTEAD WALKING TOUR",
+            "notes": null,
+            "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets"
     ],
@@ -49,6 +64,13 @@
             "paragraphs": [
                 "When wartime bombing reduced much of housing stock to rubble, Hampstead fared particularly badly due to its proximity to the train line running north from Euston. But this sudden availability of infill plots contributed to a significant strand of English architectural culture in the early 1950s, quite distinct from modern movement buildings of the 1930s. During and immediately after the war a number of architectural historians began to question the International style as the de facto model for reconstruction. In 1944, for example, John Cloag – former resident of Isokon Flats and co-founder of the Modern Architectural Research Group(MARS) – published a study of English house, from Roman Britain to the present day, hoping that the experts whom the book was dedicated to – ‘the officials, the reformers, the architects, the teachers - who make plans for the way their fellow countrymen should live, will remember that the Englishman’s House is his Castle.’ Surprisingly, considering Cloag’s conspicuous advocacy of modern design in the 1930s, this warning came with a stern assessment of modernism’s suitability for English buildings. Finely knitting together the national character and climate, Cloag pointed out that modernism’s ‘influence on English house-building in the 1930s’ had been erroneously based on ‘the extraordinary belief that England is a land of hot and almost continuous sunshine’. In a particular sense, large windows meant poor insulation, flat roofs were prone to leak, and white walls without cornices soon became stained by rain. On another level, windows were an affront to ‘the Englishman mastery of the art of living a private life’, the roofs ‘deprived the houses of useful lofts and box-rooms’ and the walls ‘were inclined to forget that ornament is an ancient human need.’ If interwar modernism in London – and in England as a whole – had been preserve of a few progressive members of the middle class, and this material experience gradually filtered down through society after war, at the hands of the welfare state, then there was a further mandate for young architects in the 1950s: to better align the teachings of the 1920s and 1930s with a residual Englishness when they design and build their own houses in the rubble-strewn plots that had been made available throughout the city. ‘What, then, makes this generation different from their forerunners and closer also to the continental architects of the 30s?’, Arthur Korn asked in 1959. ‘It is their attitude to the unlimited possibilities that surround us’ all of which are welcomed as the basis for the new interpretation of materials, functions, expressions and symbols’. (Brooks, T., 2013)"
             ]
+        },
+        {
+            "heading": "Golden Key Academy",
+            "paragraphs": [
+                "This tour is led by an alumnus of Open City’s Golden Key Academy – a course training up insightful and engaging guides dedicated to explaining London and bringing its many stories to life.",
+                "Further info on the Golden Key Academy can be found here https://open-city.org.uk/golden-key-academy"
+            ]
         }
     ],
     "id": 11974,
@@ -60,7 +82,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11974_beige-collage-morning-coffee-instagram-post-2_0050f393642c514ee593abc6cf1cf265.png"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://open-city.org.uk/golden-key-academy",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Hampstead Heath Railway Station, NW3 2PY",
         "latitude": 51.55525,
@@ -74,5 +101,5 @@
     },
     "name": "Architects’ Houses of Hampstead Walking Tour",
     "original_url": "https://programme.openhouse.org.uk/listings/11974",
-    "ticketed_events": false
+    "ticketed_events": true
 }

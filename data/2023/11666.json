@@ -16,7 +16,64 @@
             "entertainment"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11666",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:10:00+01:00",
+            "fully_booked": true,
+            "name": "Hoxton Hall Tour 11am",
+            "notes": null,
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11666",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Hoxton Hall Tour 12:15pm",
+            "notes": null,
+            "start": "2023-09-16T12:15:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11666",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T15:10:00+01:00",
+            "fully_booked": true,
+            "name": "Hoxton Hall Tour 2pm",
+            "notes": null,
+            "start": "2023-09-16T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11666",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T16:10:00+01:00",
+            "fully_booked": true,
+            "name": "Hoxton Hall Tour 3:15pm",
+            "notes": null,
+            "start": "2023-09-16T15:15:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Refreshments",
@@ -28,14 +85,13 @@
         {
             "heading": "About the Hoxton Hall Open House",
             "paragraphs": [
-                "Past meets present as Hoxton Hall opens its doors on Saturday September 16 with tours of the Grade Two listed historic Music Hall."
+                "Past meets present as Hoxton Hall opens its doors on Saturday September 16 with tours of the Grade Two listed historic Music Hall.",
+                "Originally built in 1863, the building has seen many changes reflecting the diversity and voices of local people and is still a thriving performance and community venue. With the Lady of the Manor as your tour guide, learn about the history of Music Hall and explore every nook and cranny of this architectural marvel, and even step foot on the very same stage where countless performers have left their mark!"
             ]
         },
         {
             "heading": "Partnership with Pollocks Toy Museum",
             "paragraphs": [
-                "From its roots as a Victorian Music Hall, Hoxton Hall has been a pillar of the Hoxton community for many years. Originally built in 1863, the building has seen many changes reflecting the diversity and voices of local people and is still a thriving performance and community venue.",
-                "With the Lady of the Manor as your tour guide, learn about the history of Music Hall and explore every nook and cranny of this architectural marvel, and even step foot on the very same stage where countless performers have left their mark!",
                 "As well as experiencing Hoxton Hall, visitors can also enjoy the collection of Pollock’s Toy Museum and special performances. This much-loved collection of puppets, optical toys, teddy bears, games and traditional toys - including some of their wonderful toy theatres - will capture imaginations."
             ]
         }
@@ -43,10 +99,10 @@
     "id": 11666,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11666/building_11666_hoxtonhall-0981pm_theatre_43e506eeafa19dc82f7b2a3872b38360.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11666/building_11666_hoxtonhall-0981pm_theatre_3fe11cd023c774d0facef405da1d8554.jpg",
             "description": null,
             "title": "Hoxton Hall Theatre Space",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11666_hoxtonhall-0981pm_theatre_43e506eeafa19dc82f7b2a3872b38360.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11666_hoxtonhall-0981pm_theatre_3fe11cd023c774d0facef405da1d8554.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11666/building_11666_rsz_clare-howard-3058b_1ffd8b376168d3f3a5ddab1095a2415b.jpg",
@@ -93,5 +149,5 @@
     },
     "name": "Hoxton Hall",
     "original_url": "https://programme.openhouse.org.uk/listings/11666",
-    "ticketed_events": false
+    "ticketed_events": true
 }

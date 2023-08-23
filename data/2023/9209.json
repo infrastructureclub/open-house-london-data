@@ -4,9 +4,9 @@
     "design": {
         "designers": [
             {
-                "architect": "Soda Studio",
+                "architect": "",
                 "description": null,
-                "year": "2019"
+                "year": "0"
             }
         ],
         "periods": [
@@ -17,7 +17,36 @@
             "event"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9209",
+            "capacity": null,
+            "date": "2023-09-12",
+            "drop_in": false,
+            "end": "2023-09-12T13:45:00+01:00",
+            "fully_booked": true,
+            "name": "SODA x SOHO x DAY",
+            "notes": null,
+            "start": "2023-09-12T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9209",
+            "capacity": null,
+            "date": "2023-09-12",
+            "drop_in": false,
+            "end": "2023-09-12T20:15:00+01:00",
+            "fully_booked": true,
+            "name": "SODA x SOHO x NIGHT",
+            "notes": null,
+            "start": "2023-09-12T19:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Architect on site"
     ],
@@ -32,10 +61,10 @@
     "id": 9209,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9209/building_9209_01_soda_walkerscourt_exterior_jackhobhouse_b724192347a7b32ede795463c552d775.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9209/building_9209_01_soda_walkerscourt_exterior_jackhobhouse_8decda8d4372742e490f222fe3544788.jpg",
             "description": null,
             "title": "The Revuebar neon sign within the theatreland setting",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9209_01_soda_walkerscourt_exterior_jackhobhouse_b724192347a7b32ede795463c552d775.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9209_01_soda_walkerscourt_exterior_jackhobhouse_8decda8d4372742e490f222fe3544788.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9209/building_9209_07_soda_walkerscourt_exterior_jackhobhouse_fd928093542d0b8acb3045962569e1a3.JPG",
@@ -80,7 +109,7 @@
             "Bus: 55, 73, 12, 88, 94, 159"
         ]
     },
-    "name": "SODA x SOHO x DAY",
+    "name": "SODA x SOHO",
     "original_url": "https://programme.openhouse.org.uk/listings/9209",
-    "ticketed_events": false
+    "ticketed_events": true
 }

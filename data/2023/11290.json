@@ -16,7 +16,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11290",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T16:30:00+01:00",
+            "fully_booked": true,
+            "name": "All along the dock edge",
+            "notes": null,
+            "start": "2023-09-16T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Architect on site"
     ],
@@ -47,10 +62,10 @@
     "id": 11290,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11290/building_11290_ag_aatde_thumb_0294a9c47bedccaaed44a3347003aace.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11290/building_11290_ag_aatde_thumb_138976db0710ddfa1f41102cf5d1a519.jpg",
             "description": null,
             "title": "All Along the Dock Edge Illustration ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11290_ag_aatde_thumb_0294a9c47bedccaaed44a3347003aace.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11290_ag_aatde_thumb_138976db0710ddfa1f41102cf5d1a519.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11290/building_11290_ag_aatde_thumb_02_9c58bcf6bafb6411ba30e5a3d6fbf34e.jpg",
@@ -101,5 +116,5 @@
     },
     "name": "All along the dock edge",
     "original_url": "https://programme.openhouse.org.uk/listings/11290",
-    "ticketed_events": false
+    "ticketed_events": true
 }

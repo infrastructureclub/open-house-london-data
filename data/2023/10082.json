@@ -16,7 +16,22 @@
             "theatre"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": true,
+            "end": "2023-09-17T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Tours will be rolling throughout the day, starting in regular intervals.",
+            "start": "2023-09-17T10:30:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Step free access",
         "Accessible toilet",
@@ -40,10 +55,10 @@
     "id": 10082,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10082/building_10082_little-angel-theatre-credit-ellie-kurttz_174a3a3646cdad523b6dc0b3403d3085.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10082/building_10082_little-angel-theatre-credit-ellie-kurttz_54f4b1e7cc45a5e92a9ae14344f91702.jpg",
             "description": null,
             "title": "View of the theatre from Dagmar Terrace",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10082_little-angel-theatre-credit-ellie-kurttz_174a3a3646cdad523b6dc0b3403d3085.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10082_little-angel-theatre-credit-ellie-kurttz_54f4b1e7cc45a5e92a9ae14344f91702.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10082/building_10082_la-059-document-name_1a06735412af60f2e2a05bfff64ecdb8.jpg",

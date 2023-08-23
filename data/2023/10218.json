@@ -10,7 +10,7 @@
             }
         ],
         "periods": [
-            "Hugh Lea ",
+            "Hugh Lea",
             "Contemporary",
             "Historical/contemporary"
         ],
@@ -19,7 +19,50 @@
             "civic"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Explore the rise of  Croydon’s urban landscape between the 1950s and ‘70s with a family art  workshop (AM)  & architecture talk (PM)",
+            "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Young people",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10218",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T11:30:00+01:00",
+            "fully_booked": false,
+            "name": "WORKSHOP:  Exploring Croydon's Urban Landscape",
+            "notes": null,
+            "start": "2023-09-16T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10218",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T14:45:00+01:00",
+            "fully_booked": true,
+            "name": "TALK: Post-war Architecture of Croydon - John Grindrod",
+            "notes": null,
+            "start": "2023-09-16T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Step free access",
         "Toilets"
@@ -76,10 +119,10 @@
     "id": 10218,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_screenshot-2021-07-22-at-15-13-03_4ff09bf842bbfd173fb28021fbd563a3.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_screenshot-2021-07-22-at-15-13-03_7385a5cc2d51a73dd2f3c64ab80512ec.png",
             "description": null,
             "title": "Corner View from Selhurst and Lawrence Roads",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_screenshot-2021-07-22-at-15-13-03_4ff09bf842bbfd173fb28021fbd563a3.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_screenshot-2021-07-22-at-15-13-03_7385a5cc2d51a73dd2f3c64ab80512ec.png"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_snl-original-proposal-croydon-archive_5fef42c873ab73021f2b5d3dd708a502.jpg",
@@ -146,5 +189,5 @@
     },
     "name": "South Norwood Library",
     "original_url": "https://programme.openhouse.org.uk/listings/10218",
-    "ticketed_events": false
+    "ticketed_events": true
 }

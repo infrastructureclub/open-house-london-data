@@ -16,7 +16,106 @@
             "religious"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Join us for an afternoon of building tours, talks, meditation taster sessions a Buddhist art exhibition, or pop in for a cuppa and chat!",
+            "start": "2023-09-16T13:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T16:45:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "How do you make an ordinary space sacred? Learn about the building and its transformation into a space for Buddhist practice and community.",
+            "start": "2023-09-16T16:15:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11996",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T13:45:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of the North London Buddhist Centre",
+            "notes": null,
+            "start": "2023-09-16T13:15:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11996",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Meditation taster session",
+            "notes": null,
+            "start": "2023-09-16T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11996",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T15:15:00+01:00",
+            "fully_booked": false,
+            "name": "Dr Ambedkar and his connection to North London",
+            "notes": null,
+            "start": "2023-09-16T14:45:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11996",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T15:15:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of the North London Buddhist Centre",
+            "notes": null,
+            "start": "2023-09-16T14:45:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11996",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Meditation taster session",
+            "notes": null,
+            "start": "2023-09-16T15:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Refreshments",
@@ -68,5 +167,5 @@
     },
     "name": "North London Buddhist Centre",
     "original_url": "https://programme.openhouse.org.uk/listings/11996",
-    "ticketed_events": false
+    "ticketed_events": true
 }

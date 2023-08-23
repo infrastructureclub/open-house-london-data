@@ -16,7 +16,92 @@
             "residence"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11972",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T10:30:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11972",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T11:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-16T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11972",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T11:30:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11972",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-16T11:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11972",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:30:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-16T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11972",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-16T12:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Architect on site"
     ],
@@ -86,5 +171,5 @@
     },
     "name": "60 Blenheim Grove",
     "original_url": "https://programme.openhouse.org.uk/listings/11972",
-    "ticketed_events": false
+    "ticketed_events": true
 }

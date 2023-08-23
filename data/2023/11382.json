@@ -16,7 +16,36 @@
             "monument"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Site open Saturday 9th and Sunday 10th September from 14.00 - 17.00 (Last entry 16.30).",
+            "start": "2023-09-09T14:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Site open Saturday 9th and Sunday 10th September 14.00- 17.00 (Last entry 16.30)",
+            "start": "2023-09-10T14:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Bookshop",
         "Architect on site"
@@ -38,10 +67,10 @@
     "id": 11382,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11382/building_11382_scadbury-moated-manor_15b7da6245690253b8e4decdcd784d1e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11382/building_11382_scadbury-moated-manor_b8a4928c6b463741700b0ce7711ade6c.jpg",
             "description": null,
             "title": "Scadbury Moated Manor",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11382_scadbury-moated-manor_15b7da6245690253b8e4decdcd784d1e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11382_scadbury-moated-manor_b8a4928c6b463741700b0ce7711ade6c.jpg"
         }
     ],
     "links": [],

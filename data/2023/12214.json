@@ -16,7 +16,36 @@
             "mixed use"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T20:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": true,
+            "end": "2023-09-17T20:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-17T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Gender neutral toilets",
@@ -25,10 +54,9 @@
     ],
     "factsheet": [
         {
-            "heading": "Public Art",
+            "heading": "The Tide",
             "paragraphs": [
-                "Turner Prize nominee Ian Davenport has reimagined the entrance stairwell of The Tide to reveal ‘Poured Staircase’. In addition to this, The Tide’s glass facade has been re-imagined by artist Marwan Kaabour.",
-                "The Open House weekend will also see the launch of Murugiah's new public art installation on the Saturday, positioned at the gateway to Design District. The sculpture is a contemporary interpretation of a Mandala Rangoli. Mandalas are graphic representations of the cosmos; Rangoli are bright, coloured patterns, traditionally painted in the entrance of homes to welcome the Hindu goddess Lakshmi and luck, positivity and happiness to the household. These ideas are fused in Mirrored Cosmos, by creating a colourful mandala to represent the beauty of the perplexing Universe we inhabit. The mirrored surfaces reflect ourselves - small, confounding, intricate individuals, connected by existence - tiny cosmoses, within a larger one."
+                "Turner Prize nominee Ian Davenport has reimagined the entrance stairwell of The Tide to reveal the public art installarion ‘Poured Staircase’. In addition to this, The Tide’s glass facade has been re-imagined by artist Marwan Kaabour."
             ]
         },
         {
@@ -36,6 +64,12 @@
             "paragraphs": [
                 "Design District is a collection of 16 buildings designed by eight architects, one minute from North Greenwich station. The district is a thriving home for creative businesses offering permanent and purpose-designed workspaces, co-working within Bureau, Canteen an international food hall and bar, an exciting events programme and more.",
                 "You can explore the site which includes A1 The Institute of Creativity and Technology at Ravensbourne University, by Barozzi Veiga and witness 3D printing at A4, designed by David Kohn. Between Open Studios and a transparent central Canteen by SelgasCano, you can take a tour of Public Realm."
+            ]
+        },
+        {
+            "heading": "Mirrored Cosmos by Murugiah",
+            "paragraphs": [
+                "The Open House weekend will also see the launch of Murugiah's new public art installation on the Saturday, positioned at the gateway to Design District. The sculpture is a contemporary interpretation of a Mandala Rangoli. Mandalas are graphic representations of the cosmos; Rangoli are bright, coloured patterns, traditionally painted in the entrance of homes to welcome the Hindu goddess Lakshmi and luck, positivity and happiness to the household. These ideas are fused in Mirrored Cosmos, by creating a colourful mandala to represent the beauty of the perplexing Universe we inhabit. The mirrored surfaces reflect ourselves - small, confounding, intricate individuals, connected by existence - tiny cosmoses, within a larger one."
             ]
         }
     ],
@@ -46,6 +80,18 @@
             "description": null,
             "title": "Design District",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12214_dd_march_17-3-22_hr-20_c895643651cdd04f060fcede09fd02ab.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12214/building_12214_the-tide_8d48ef382ee40cb87f95b4655997ad6c.jpeg",
+            "description": null,
+            "title": "The Tide by Visit Greenwich",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12214_the-tide_8d48ef382ee40cb87f95b4655997ad6c.jpeg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12214/building_12214_design-district-greenwich-penisular-london_dezeen_2364_col_1-scaled_e3ad84cdbcd195f609d20407805bd076.jpeg",
+            "description": null,
+            "title": "The Canteen",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12214_design-district-greenwich-penisular-london_dezeen_2364_col_1-scaled_e3ad84cdbcd195f609d20407805bd076.jpeg"
         }
     ],
     "links": [],

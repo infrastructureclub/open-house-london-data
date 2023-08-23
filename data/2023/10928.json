@@ -10,7 +10,36 @@
             "government"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10928",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Walking tour",
+            "notes": null,
+            "start": "2023-09-16T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10928",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Walking tour",
+            "notes": null,
+            "start": "2023-09-17T12:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Food and drink",
         "Refreshments",
@@ -35,10 +64,10 @@
     "id": 10928,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10928/building_10928_dp262538_3eca230e7da20f954fe3c250f15a06fc.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10928/building_10928_dp262538_4e84abe223792b08761507286c9b509d.jpg",
             "description": null,
             "title": "Nos 527-535 High Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10928_dp262538_3eca230e7da20f954fe3c250f15a06fc.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10928_dp262538_4e84abe223792b08761507286c9b509d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10928/building_10928_dp262536_fa9e426833689fdd4605cb1eeb80235c.jpg",
@@ -73,5 +102,5 @@
     },
     "name": "Heritage on the High Road (High Street HAZ)",
     "original_url": "https://programme.openhouse.org.uk/listings/10928",
-    "ticketed_events": false
+    "ticketed_events": true
 }

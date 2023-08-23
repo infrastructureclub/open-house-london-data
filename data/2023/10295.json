@@ -10,14 +10,28 @@
             }
         ],
         "periods": [
-            "  ",
             "Historical/contemporary"
         ],
         "types": [
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10295",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "South Ealing walking tour",
+            "notes": null,
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Food and drink"
     ],
@@ -45,10 +59,10 @@
     "id": 10295,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10295/building_10295_south_ealing_walk_c4f8da18ab959f6302b719ae47370f02.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10295/building_10295_south_ealing_walk_851ec723687dde2f11c65d48e49efb5d.jpg",
             "description": null,
             "title": "South Ealing Walk - route map",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10295_south_ealing_walk_c4f8da18ab959f6302b719ae47370f02.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10295_south_ealing_walk_851ec723687dde2f11c65d48e49efb5d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10295/building_10295_1-christ-the-saviour-church_39c799546bedfe82d1b008cfc99ffef9.jpg",
@@ -179,5 +193,5 @@
     },
     "name": "Ealing South Walk",
     "original_url": "https://programme.openhouse.org.uk/listings/10295",
-    "ticketed_events": false
+    "ticketed_events": true
 }

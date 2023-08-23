@@ -8,7 +8,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11834",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T13:30:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-10T11:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Refreshments"
@@ -19,6 +34,13 @@
             "paragraphs": [
                 "KEY DATES",
                 "1908 Anglo-French Exhibition - 9 million visitors.\n1908 London Olympics- the longest Modern games , at more than 180 days.\n1960 BBC Television Centre opens.\n2004 White City designated an Opportunity Area in Mayor’s London Plan.\n2008 Westfield opens.\n2013 BBC leaves Television Centre, area redeveloped."
+            ]
+        },
+        {
+            "heading": "Golden Key Academy",
+            "paragraphs": [
+                "This tour is led by an alumnus of Open City’s Golden Key Academy – a course training up insightful and engaging guides dedicated to explaining London and bringing its many stories to life.",
+                "Further info on the Golden Key Academy can be found here https://open-city.org.uk/golden-key-academy"
             ]
         }
     ],
@@ -31,7 +53,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11834_img_0020_a3033cc42a5ec2ae55ea1d236e140145.jpeg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://open-city.org.uk/golden-key-academy",
+            "title": null
+        }
+    ],
     "location": {
         "address": "White City Tube, W12 7SL",
         "latitude": 51.511885,
@@ -44,5 +71,5 @@
     },
     "name": "Reimagining the Great White City",
     "original_url": "https://programme.openhouse.org.uk/listings/11834",
-    "ticketed_events": false
+    "ticketed_events": true
 }

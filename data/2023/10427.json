@@ -12,14 +12,29 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10427",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "The Mysterious Black Tudors Westminster Walking Tour",
+            "notes": null,
+            "start": "2023-09-09T10:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
             "heading": "About the trail",
             "paragraphs": [
                 "Help us solve the mystery of the forgotten history of the Black Tudors. Join us on our search for clues as we visit some of London’s Tudor buildings and take a peek into the lives of five Black Tudors.",
-                "We will visit Westminster Abbey, The Palace of Whitehall and St James Palace with a short break in St James Park. Please note that this event does not include admission to any of these buildings."
+                "We will visit Westminster Abbey, the remains of the Palace of Whitehall and St James's Palace with a short break in St James's Park. Please note that this event does not include admission to any of these buildings."
             ]
         },
         {
@@ -39,10 +54,10 @@
     "id": 10427,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10427/building_10427_ohl-the-mysterious-black-tudors-luke-o-donovan-low-res-21-of-21_32323f6f3f01d29e5c9dbe86b8efba9a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10427/building_10427_ohl-the-mysterious-black-tudors-luke-o-donovan-low-res-21-of-21_f406132f4363b83e8aaa53173d8a9b27.jpg",
             "description": null,
             "title": "Previous event",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10427_ohl-the-mysterious-black-tudors-luke-o-donovan-low-res-21-of-21_32323f6f3f01d29e5c9dbe86b8efba9a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10427_ohl-the-mysterious-black-tudors-luke-o-donovan-low-res-21-of-21_f406132f4363b83e8aaa53173d8a9b27.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10427/building_10427_ohl-the-mysterious-black-tudors-luke-o-donovan-low-res-8-of-21_9ebe0c917a17fa057d050797bb8732f4.jpg",
@@ -71,5 +86,5 @@
     },
     "name": "The Mysterious Black Tudors - Westminster Family Trail",
     "original_url": "https://programme.openhouse.org.uk/listings/10427",
-    "ticketed_events": false
+    "ticketed_events": true
 }

@@ -16,7 +16,50 @@
             "education"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9543",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T11:00:00+01:00",
+            "fully_booked": false,
+            "name": "373 Euston Road Building tour with Architect",
+            "notes": null,
+            "start": "2023-09-09T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9543",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T12:15:00+01:00",
+            "fully_booked": false,
+            "name": "373 Euston Road Building tour with Architect",
+            "notes": null,
+            "start": "2023-09-09T11:15:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9543",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T13:30:00+01:00",
+            "fully_booked": false,
+            "name": "373 Euston Road Building tour with Architect",
+            "notes": null,
+            "start": "2023-09-09T12:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Architect on site",
         "Toilets"
@@ -38,10 +81,10 @@
     "id": 9543,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9543/building_9543_373-euston-rd-107-agnese-sanvito_e5f35326118c52c23f37cbaf2a712a74.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9543/building_9543_373-euston-rd-107-agnese-sanvito_c3bf3519dc4b5fa921bcafdc3fd19fad.jpg",
             "description": null,
             "title": "view from Euston road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9543_373-euston-rd-107-agnese-sanvito_e5f35326118c52c23f37cbaf2a712a74.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9543_373-euston-rd-107-agnese-sanvito_c3bf3519dc4b5fa921bcafdc3fd19fad.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9543/building_9543_672_n45_ed0e31e128731b805b7c512599ce6214.jpg",
@@ -75,5 +118,5 @@
     },
     "name": "373 Euston Road, Birkbeck College",
     "original_url": "https://programme.openhouse.org.uk/listings/9543",
-    "ticketed_events": false
+    "ticketed_events": true
 }

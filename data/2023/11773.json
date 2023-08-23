@@ -16,7 +16,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11773",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T12:30:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour",
+            "notes": null,
+            "start": "2023-09-09T10:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -32,10 +47,10 @@
     "id": 11773,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11773/building_11773_belvedere-court-front-elevation-3_5298_f234bf9aebda3397c4bb49cec9057e22.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11773/building_11773_belvedere-court-front-elevation-3_5298_f2fab888512be4d2d13e9a202bb7f942.jpg",
             "description": null,
             "title": "Belvedere Court (Ernst Freud, 1938)",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11773_belvedere-court-front-elevation-3_5298_f234bf9aebda3397c4bb49cec9057e22.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11773_belvedere-court-front-elevation-3_5298_f2fab888512be4d2d13e9a202bb7f942.jpg"
         }
     ],
     "links": [],
@@ -51,5 +66,5 @@
     },
     "name": "Streamline in the Suburb",
     "original_url": "https://programme.openhouse.org.uk/listings/11773",
-    "ticketed_events": false
+    "ticketed_events": true
 }

@@ -11,7 +11,36 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11313",
+            "capacity": null,
+            "date": "2023-09-15",
+            "drop_in": false,
+            "end": "2023-09-15T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour",
+            "notes": null,
+            "start": "2023-09-15T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11313",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour",
+            "notes": null,
+            "start": "2023-09-17T10:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -38,10 +67,10 @@
     "id": 11313,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11313/building_11313_b0a5c0a7-7118-4970-97cc-843cc023af07_08c6eb9bdfc31e3c5c8330d359eeb1df.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11313/building_11313_b0a5c0a7-7118-4970-97cc-843cc023af07_88a583efe3c38f0ad7731c4a34cde565.jpeg",
             "description": null,
             "title": "Carrying goods by Floral Hall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11313_b0a5c0a7-7118-4970-97cc-843cc023af07_08c6eb9bdfc31e3c5c8330d359eeb1df.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11313_b0a5c0a7-7118-4970-97cc-843cc023af07_88a583efe3c38f0ad7731c4a34cde565.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11313/building_11313_4a17b3c0-d469-45d7-8e06-c622163e5576_9cbf323f98e9743f28d0ef86fe093f17.jpeg",
@@ -104,5 +133,5 @@
     },
     "name": "Fruit to Fashion: how a kitchen garden became a world famous piazza",
     "original_url": "https://programme.openhouse.org.uk/listings/11313",
-    "ticketed_events": false
+    "ticketed_events": true
 }

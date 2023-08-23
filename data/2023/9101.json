@@ -19,7 +19,36 @@
             "recreational"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9101",
+            "capacity": null,
+            "date": "2023-09-06",
+            "drop_in": false,
+            "end": "2023-09-06T19:15:00+01:00",
+            "fully_booked": false,
+            "name": "StreetGym® Urban Adventure",
+            "notes": null,
+            "start": "2023-09-06T18:15:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9101",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T14:15:00+01:00",
+            "fully_booked": false,
+            "name": "StreetGym® Urban Adventure",
+            "notes": null,
+            "start": "2023-09-16T13:15:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets"
     ],
@@ -43,10 +72,10 @@
     "id": 9101,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9101/building_9101_a9325ea1-0f2d-4552-b049-8878d3a783c6_d074d7c1c424ff9f531083fba062145f.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9101/building_9101_a9325ea1-0f2d-4552-b049-8878d3a783c6_5ceb7e4a4c4404479f3ca5c7830b7bd7.jpeg",
             "description": null,
             "title": "Unique Views of London - StreetGym",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9101_a9325ea1-0f2d-4552-b049-8878d3a783c6_d074d7c1c424ff9f531083fba062145f.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9101_a9325ea1-0f2d-4552-b049-8878d3a783c6_5ceb7e4a4c4404479f3ca5c7830b7bd7.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9101/building_9101_3785c6f0-ca62-4d6e-a41f-05c2ad0703cc_cc024821598356443202abed7052c42b.jpeg",
@@ -105,5 +134,5 @@
     },
     "name": "StreetGym® Urban Adventure",
     "original_url": "https://programme.openhouse.org.uk/listings/9101",
-    "ticketed_events": false
+    "ticketed_events": true
 }

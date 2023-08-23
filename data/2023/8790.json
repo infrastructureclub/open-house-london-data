@@ -16,7 +16,22 @@
             "museum"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T17:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-10T10:30:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Bookshop",
         "Toilets"
@@ -39,10 +54,10 @@
     "id": 8790,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8790/building_8790_cartoonmuseum_sjs-jimstephenson-20-midres-1024x0-c-default_570a4f7c1f580d55dc5df997511246ca.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8790/building_8790_cartoonmuseum_sjs-jimstephenson-20-midres-1024x0-c-default_460a707edf2af54b74eba3c706408134.jpg",
             "description": null,
             "title": "Entrance to The Cartoon Museum",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8790_cartoonmuseum_sjs-jimstephenson-20-midres-1024x0-c-default_570a4f7c1f580d55dc5df997511246ca.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8790_cartoonmuseum_sjs-jimstephenson-20-midres-1024x0-c-default_460a707edf2af54b74eba3c706408134.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8790/building_8790_cartoonmuseum_sjs-jimstephenson-60-webres_9bcf9455174fc086dd5ec34cdf8963bb.jpg",

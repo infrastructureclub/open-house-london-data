@@ -17,7 +17,78 @@
             "library"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10973",
+            "capacity": null,
+            "date": "2023-09-06",
+            "drop_in": false,
+            "end": "2023-09-06T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour of Hornsey Library",
+            "notes": null,
+            "start": "2023-09-06T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10973",
+            "capacity": null,
+            "date": "2023-09-08",
+            "drop_in": false,
+            "end": "2023-09-08T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of Hornsey Library",
+            "notes": null,
+            "start": "2023-09-08T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10973",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour of Hornsey Library",
+            "notes": null,
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10973",
+            "capacity": null,
+            "date": "2023-09-13",
+            "drop_in": false,
+            "end": "2023-09-13T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of Hornsey Library",
+            "notes": null,
+            "start": "2023-09-13T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10973",
+            "capacity": null,
+            "date": "2023-09-15",
+            "drop_in": false,
+            "end": "2023-09-15T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of Hornsey Library",
+            "notes": null,
+            "start": "2023-09-15T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Baby changing facilities",
         "Accessible toilet",
@@ -44,10 +115,10 @@
     "id": 10973,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10973/building_10973_220531-hornsey-library-external-image_17b775072733f468fdae37eb8b407380.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10973/building_10973_220531-hornsey-library-external-image_7bd33ba7c3e9b53763abb6444bd5983b.jpg",
             "description": null,
             "title": "Hornsey Library from street",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10973_220531-hornsey-library-external-image_17b775072733f468fdae37eb8b407380.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10973_220531-hornsey-library-external-image_7bd33ba7c3e9b53763abb6444bd5983b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10973/building_10973_hornsey-j_1f53a67c71d48ad6b2a0b348e3bf036b.jpg",
@@ -82,5 +153,5 @@
     },
     "name": "Hornsey Library",
     "original_url": "https://programme.openhouse.org.uk/listings/10973",
-    "ticketed_events": false
+    "ticketed_events": true
 }

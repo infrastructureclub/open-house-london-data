@@ -16,7 +16,36 @@
             "religious"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "There will be displays and tours on the history of the church, the architect, and architecture of the building",
+            "start": "2023-09-09T13:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "There will be displays and tours on the history of the church, the architect, and architecture of the building",
+            "start": "2023-09-10T13:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Step free access",

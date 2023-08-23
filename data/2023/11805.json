@@ -8,13 +8,28 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Drop ins welcome from 10am to 4pm, with two 30 min talks at 11am and 2pm limited to 15 people-entry to talks will be on a first come basis.",
+            "start": "2023-09-09T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
             "heading": "Talks at the Archives",
             "paragraphs": [
-                "Victor Keegan, local historian and author of two acclaimed books on Lost London, will ask how the streets around the archive of the Thorney Island Society in Old Pye Street could have been so lawless and deprived yet barely 100 yards from the prosperity of Westminster Abbey and Parliament."
+                "Victor Keegan, author of two acclaimed books on Lost London, asks how the streets around the Thorney Island Society Archives in Old Pye Street could have been so lawless and deprived, so close to Westminster Abbey and Parliament that Dickens dubbed them the Devil's Acre."
             ]
         },
         {
@@ -25,7 +40,14 @@
         }
     ],
     "id": 11805,
-    "images": [],
+    "images": [
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11805/building_11805_archives-front-door-image-500x500_b004e5c6b812dce8e98b7d7e6adb86a4.png",
+            "description": null,
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11805_archives-front-door-image-500x500_b004e5c6b812dce8e98b7d7e6adb86a4.png"
+        }
+    ],
     "links": [],
     "location": {
         "address": "10 Old Pye Street, SW1P 2DG",

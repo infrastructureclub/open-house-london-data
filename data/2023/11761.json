@@ -16,7 +16,36 @@
             "cinema"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11761",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T11:30:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-09T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11761",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T11:30:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-10T10:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Refreshments",
         "Food and drink",
@@ -40,10 +69,10 @@
     "id": 11761,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11761/building_11761_fulham-rd_8973d64995db55be41c4a5ed7191b66e.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11761/building_11761_fulham-rd_6b7bdf43c742cd70787b596b26370fa1.jpeg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11761_fulham-rd_8973d64995db55be41c4a5ed7191b66e.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11761_fulham-rd_6b7bdf43c742cd70787b596b26370fa1.jpeg"
         }
     ],
     "links": [],
@@ -60,5 +89,5 @@
     },
     "name": "Fulham Road Picturehouse",
     "original_url": "https://programme.openhouse.org.uk/listings/11761",
-    "ticketed_events": false
+    "ticketed_events": true
 }

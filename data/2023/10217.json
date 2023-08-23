@@ -16,7 +16,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10217",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T17:00:00+01:00",
+            "fully_booked": true,
+            "name": "East Croydon History Walk",
+            "notes": null,
+            "start": "2023-09-09T15:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets"
     ],
@@ -52,17 +67,17 @@
         {
             "heading": "Bibliography",
             "paragraphs": [
-                "Many thanks to Croydon Local Studies Library and Tony Skrzypczyk from whose holdings much of this information was gleaned.  Sources include\n•\tAnon. (not dated) Notes from the reproduction of a print of Brickwood House 1805 by John Hassell.\n•\tAnon. (1844) Croydon Tithe Award Index. Croydon Museum & Archive Service.\n•\tBerwick Sayers, W.C. (1925) The Story of Croydon. Croydon: Croydon Central Library\n•\tCorbett Anderson, J. (1889) Croydon Enclosure 1787-1801. Croydon\n•\tCox, R. (not dated) The Cherry Orchard Road. Manuscript: Croydon Natural History & Scientific Society Collection.\n•\tDucarel, Dr. (1783) Account of the Town, Church, and Archepiscopal Palace of Croydon in the county of Surrey from its foundation to 1783 Croydon: J.Nichols\n•\tGent, J. (2002) Croydon Past. 2002. Philimore & Co Ltd: Chichester\n•\tHobbs, D.  date  The Making of Modern Addiscombe Publisher Angela I do not recall this book?  Do you mean the item I have added below or was it a CNHSS proceeding?\n•\tHobbs. D. (1985) Nineteenth Century Addiscombe.  Typescript dissertation.  \n•\tLokke, C.L. (1938) London merchant interest in the St. Domingue plantations of the émigrés, The American Historical Review 43 (4):795-802.\n•\tMalden, H.E. (1912) The Victoria County History of the County of Surrey, vol. 4. London: Constable\n•\tPaget, C.G. (1937) Croydon Houses of the Past. Croydon: Croydon Central Library\n•\tPenson, L (1924)  Colonial Agents  of the British West Indies. University of London Press: London.\n•\tCanning & Clyde Residents Association & Friends. (2000) The Book of Addiscombe vol 1 Tiverton: Halsgrove.\n•\tCanning & Clyde Residents Association & Friends. (2002) The Book of Addiscombe vol 2 Tiverton: Halsgrove.\n•\tWandle Park Heritage Project. (2015) Modernist Croydon Architecture Walk: Croydon"
+                "Many thanks to Croydon Local Studies Library and Tony Skrzypczyk from whose holdings much of this information was gleaned.  Sources include\n•\tAnon. (not dated) Notes from the reproduction of a print of Brickwood House 1805 by John Hassell.\n•\tAnon. (1844) Croydon Tithe Award Index. Croydon Museum & Archive Service.\n•\tBerwick Sayers, W.C. (1925) The Story of Croydon. Croydon: Croydon Central Library\n•\tCorbett Anderson, J. (1889) Croydon Enclosure 1787-1801. Croydon\n•\tCox, R. (not dated) The Cherry Orchard Road. Manuscript: Croydon Natural History & Scientific Society Collection.\n•\tDucarel, Dr. (1783) Account of the Town, Church, and Archepiscopal Palace of Croydon in the county of Surrey from its foundation to 1783 Croydon: J.Nichols\n•\tGent, J. (2002) Croydon Past. 2002. Philimore & Co Ltd: Chichester\n•\tHobbs, D.  date  The Making of Modern Addiscombe Publisher \n•\tHobbs. D. (1985) Nineteenth Century Addiscombe.  Typescript dissertation.  \n•\tLokke, C.L. (1938) London merchant interest in the St. Domingue plantations of the émigrés, The American Historical Review 43 (4):795-802.\n•\tMalden, H.E. (1912) The Victoria County History of the County of Surrey, vol. 4. London: Constable\n•\tPaget, C.G. (1937) Croydon Houses of the Past. Croydon: Croydon Central Library\n•\tPenson, L (1924)  Colonial Agents  of the British West Indies. University of London Press: London.\n•\tCanning & Clyde Residents Association & Friends. (2000) The Book of Addiscombe vol 1 Tiverton: Halsgrove.\n•\tCanning & Clyde Residents Association & Friends. (2002) The Book of Addiscombe vol 2 Tiverton: Halsgrove.\n•\tWandle Park Heritage Project. (2015) Modernist Croydon Architecture Walk: Croydon"
             ]
         }
     ],
     "id": 10217,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10217/building_10217_1801croydonenclosuremapdetail_d8c950618d886bbca53b3faa12537140.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10217/building_10217_1801croydonenclosuremapdetail_7327a0ec85c9c46a2f6b4401bc085875.jpg",
             "description": null,
             "title": "Croydon Enclosure Map",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10217_1801croydonenclosuremapdetail_d8c950618d886bbca53b3faa12537140.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10217_1801croydonenclosuremapdetail_7327a0ec85c9c46a2f6b4401bc085875.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10217/building_10217_eastcroydonmap2015_c93008b763e08005dee381be786d32e8.jpg",
@@ -84,5 +99,5 @@
     },
     "name": "East Croydon Community Organisation",
     "original_url": "https://programme.openhouse.org.uk/listings/10217",
-    "ticketed_events": false
+    "ticketed_events": true
 }

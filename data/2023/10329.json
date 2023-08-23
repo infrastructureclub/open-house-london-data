@@ -16,7 +16,36 @@
             "housing"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Open day of one flat on the Vanbrugh Park Estate currently being refurbished by Laura Lewis-Davies.",
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "A mix of flats and houses will be open for Open House Festival with a set route of tours and hopefully some music and food.",
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Parking",
         "Toilets"
@@ -40,10 +69,10 @@
     "id": 10329,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10329/building_10329_westcombe-court-01_61232fd2454e54d0988b8f7dd0d5fbe6_305a5c6cc3a35eafa3f0b5c2a3ea040a.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10329/building_10329_westcombe-court-01_61232fd2454e54d0988b8f7dd0d5fbe6_e70d121fac6cdda427b87d10e088bcb4.jpeg",
             "description": null,
             "title": "Main tower in the north west corner of the estate",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10329_westcombe-court-01_61232fd2454e54d0988b8f7dd0d5fbe6_305a5c6cc3a35eafa3f0b5c2a3ea040a.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10329_westcombe-court-01_61232fd2454e54d0988b8f7dd0d5fbe6_e70d121fac6cdda427b87d10e088bcb4.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10329/building_10329_combe-mews-02_61232fd2454e54d0988b8f7dd0d5fbe6_9c9e069a3fcc48fd31041b5959119a70.jpeg",

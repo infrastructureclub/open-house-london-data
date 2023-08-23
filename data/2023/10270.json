@@ -23,7 +23,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10270",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "A Tour of Victorian Bromley",
+            "notes": null,
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Step free access",
@@ -87,10 +102,10 @@
     "id": 10270,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10270/building_10270_dsc_0258_d0ded784a6b8010533b672f30db1d476.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10270/building_10270_dsc_0258_7a53572437abfd6ffe0cfa8fac7882fa.jpg",
             "description": null,
             "title": "Local Board Office, East Street",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10270_dsc_0258_d0ded784a6b8010533b672f30db1d476.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10270_dsc_0258_7a53572437abfd6ffe0cfa8fac7882fa.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10270/building_10270_no-8-south-st_6e510b232e9206ad2de11764744c8802.jpg",
@@ -166,5 +181,5 @@
     },
     "name": "A tour of Victorian Bromley",
     "original_url": "https://programme.openhouse.org.uk/listings/10270",
-    "ticketed_events": false
+    "ticketed_events": true
 }

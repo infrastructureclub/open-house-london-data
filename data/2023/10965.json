@@ -16,7 +16,106 @@
             "library"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10965",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T11:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-09T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10965",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10965",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-09T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10965",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T14:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-09T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10965",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T15:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-09T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10965",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-09T15:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10965",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T17:15:00+01:00",
+            "fully_booked": false,
+            "name": "Preserving History, Embracing Change: Creating LPL",
+            "notes": null,
+            "start": "2023-09-09T16:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Cloakroom",
         "Accessible toilet",
@@ -56,10 +155,10 @@
     "id": 10965,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10965/building_10965_wright-wright_lambeth-palace-library_hufton-crow_007__9999bbb2f3fa9969d10f0e446551a916.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10965/building_10965_wright-wright_lambeth-palace-library_hufton-crow_007__fa4752d0c1b29970a7a0aae7db823a02.jpg",
             "description": null,
             "title": "The Entrance Hall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10965_wright-wright_lambeth-palace-library_hufton-crow_007__9999bbb2f3fa9969d10f0e446551a916.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10965_wright-wright_lambeth-palace-library_hufton-crow_007__fa4752d0c1b29970a7a0aae7db823a02.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10965/building_10965_wright-wright_lambeth-palace-library_hufton-crow_070__e874007436c6fb03b33259afa7bf8bea.jpg",
@@ -100,5 +199,5 @@
     },
     "name": "Lambeth Palace Library",
     "original_url": "https://programme.openhouse.org.uk/listings/10965",
-    "ticketed_events": false
+    "ticketed_events": true
 }

@@ -8,7 +8,36 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12005",
+            "capacity": null,
+            "date": "2023-09-15",
+            "drop_in": false,
+            "end": "2023-09-15T12:15:00+01:00",
+            "fully_booked": true,
+            "name": "Walking tour",
+            "notes": null,
+            "start": "2023-09-15T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12005",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:15:00+01:00",
+            "fully_booked": true,
+            "name": "Walking tour",
+            "notes": null,
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -20,13 +49,19 @@
         {
             "heading": "About the guide",
             "paragraphs": [
-                "I’m a qualified City of London tour guide and ITG Green Badge guide. I've lived in London for most of my life and love sharing its history and stories. I run regular public and private tours in the City, on a range of themes including women's history; literary London (Shakespeare, Charles Dickens, Samuel Johnson and Samuel Pepys); Christopher Wren's churches; London's river; and the ancient livery companies.  I am also a volunteer at St Paul's cathedral."
+                "Jenny Mill is a qualified City of London tour guide and ITG Green Badge guide. She has lived in London for most of her life and loves sharing its history and stories. She leads regular public and private tours in the City, on a range of themes including women's history; literary London (Shakespeare, Charles Dickens, Samuel Johnson and Samuel Pepys); Christopher Wren's churches; London's river; and the ancient livery companies.  She is also a volunteer at St Paul's cathedral."
             ]
         },
         {
             "heading": "About the walk",
             "paragraphs": [
                 "The tour starts at Liverpool Street station and finishes at St Paul's cathedral. It takes about 75 minutes, stopping at different places along the route. We will not be going inside any of the places so wear suitable clothing for the weather, and comfortable shoes."
+            ]
+        },
+        {
+            "heading": "Meeting place",
+            "paragraphs": [
+                "We will be meeting by the Kindertransport statue next to McDonalds in Hope Square, just outside the Liverpool St/Old Broad St entrance to Liverpool Street National Rail station."
             ]
         }
     ],
@@ -41,9 +76,9 @@
     ],
     "links": [],
     "location": {
-        "address": "Liverpool St station, EC2M 7PY",
-        "latitude": 51.51875,
-        "longitude": -0.08143,
+        "address": "Kindertransport statue",
+        "latitude": 51.51763,
+        "longitude": -0.08263,
         "meeting_point": null,
         "travel_info": [
             "Tube: Liverpool Street",
@@ -53,5 +88,5 @@
     },
     "name": "Walking tour: Sisters in the City",
     "original_url": "https://programme.openhouse.org.uk/listings/12005",
-    "ticketed_events": false
+    "ticketed_events": true
 }

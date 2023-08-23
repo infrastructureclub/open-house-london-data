@@ -16,7 +16,64 @@
             "livery hall"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11108",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T10:45:00+01:00",
+            "fully_booked": true,
+            "name": "Talk & Tour",
+            "notes": null,
+            "start": "2023-09-17T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11108",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T12:15:00+01:00",
+            "fully_booked": true,
+            "name": "Talk & Tour",
+            "notes": null,
+            "start": "2023-09-17T11:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11108",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T13:45:00+01:00",
+            "fully_booked": true,
+            "name": "Talk & Tour",
+            "notes": null,
+            "start": "2023-09-17T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11108",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T15:15:00+01:00",
+            "fully_booked": true,
+            "name": "Talk & Tour",
+            "notes": null,
+            "start": "2023-09-17T14:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Cloakroom",
         "Accessible toilet",
@@ -87,10 +144,10 @@
     "id": 11108,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11108/building_11108_01_saddlers_hall_mk2_web_ad546db58ff6172751e86854a9ebd470.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11108/building_11108_01_saddlers_hall_mk2_web_5a999dbca8f21350014e45eb6448930d.jpg",
             "description": null,
             "title": "View from Goldsmith Stret",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11108_01_saddlers_hall_mk2_web_ad546db58ff6172751e86854a9ebd470.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11108_01_saddlers_hall_mk2_web_5a999dbca8f21350014e45eb6448930d.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11108/building_11108_saddlers-hall-156_6b42dbdc54799e785f3e97e882350047.jpg",
@@ -125,5 +182,5 @@
     },
     "name": "Saddlers' Hall",
     "original_url": "https://programme.openhouse.org.uk/listings/11108",
-    "ticketed_events": false
+    "ticketed_events": true
 }

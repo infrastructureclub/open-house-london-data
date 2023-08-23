@@ -8,7 +8,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11970",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T13:30:00+01:00",
+            "fully_booked": true,
+            "name": "Notting Hill Walking Tour",
+            "notes": null,
+            "start": "2023-09-10T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -67,5 +82,5 @@
     },
     "name": "Stories from Notting Hill",
     "original_url": "https://programme.openhouse.org.uk/listings/11970",
-    "ticketed_events": false
+    "ticketed_events": true
 }

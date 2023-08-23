@@ -19,7 +19,50 @@
             "club"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11389",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T13:15:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-10T12:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11389",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T14:30:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-10T13:45:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11389",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T15:45:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-10T15:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Refreshments",
@@ -54,10 +97,10 @@
     "id": 11389,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11389/building_11389_my-project-2_5d314314adaf0c534a721823482a9308.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11389/building_11389_my-project-2_16c2a9114c862550ead4e0646d0d1ad3.jpg",
             "description": null,
             "title": "The Library",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11389_my-project-2_5d314314adaf0c534a721823482a9308.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11389_my-project-2_16c2a9114c862550ead4e0646d0d1ad3.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11389/building_11389_my-project-3_eaf53900a074b95a01c11b6bb94cad1a.jpg",
@@ -104,5 +147,5 @@
     },
     "name": "University Women's Club",
     "original_url": "https://programme.openhouse.org.uk/listings/11389",
-    "ticketed_events": false
+    "ticketed_events": true
 }

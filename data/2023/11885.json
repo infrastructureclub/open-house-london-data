@@ -16,7 +16,36 @@
             "housing"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Tour of 1982 SPAN house designed by Eric Lyons",
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "This will be a guided tour by the architect owner who moved  in three years ago. Soft drinks will be available.",
+            "start": "2023-09-10T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Architect on site"
@@ -42,14 +71,20 @@
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11885/building_11885_8f67bcf3b37f7eeb44937120c951fbb9d8dc1135_96f1e6fad3d19a4f41c8d595c46fbe88.jpg",
             "description": null,
-            "title": null,
+            "title": "Front of house with tile hung cladding",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11885_8f67bcf3b37f7eeb44937120c951fbb9d8dc1135_96f1e6fad3d19a4f41c8d595c46fbe88.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11885/building_11885_img_2816_1d164a4f7c56514d651bd581b2ee0b5f.jpeg",
             "description": null,
-            "title": null,
+            "title": "View from river side communal lawn in front of houses",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11885_img_2816_1d164a4f7c56514d651bd581b2ee0b5f.jpeg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11885/building_11885_img_3792_1ed8318438bd96cca37abc2549de8ef7.jpeg",
+            "description": null,
+            "title": "Split-level living area with view out to river Thames",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11885_img_3792_1ed8318438bd96cca37abc2549de8ef7.jpeg"
         }
     ],
     "links": [],

@@ -18,7 +18,22 @@
             "residence"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "We will give a tour and people can drop in nd make a dolls'house.",
+            "start": "2023-09-09T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Architect on site",
         "Refreshments"
@@ -35,10 +50,10 @@
     "id": 9888,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9888/building_9888_catja2small_c19b528f6e4cb6ceaf08657e786987f3.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9888/building_9888_catja2small_c05c54dba52009164bbe446af7946998.jpg",
             "description": null,
             "title": "New loftspace",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9888_catja2small_c19b528f6e4cb6ceaf08657e786987f3.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9888_catja2small_c05c54dba52009164bbe446af7946998.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9888/building_9888_catja3small_53e5c4d8c6b087f3ef4cdd3595c581fa.jpg",

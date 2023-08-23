@@ -10,14 +10,28 @@
             }
         ],
         "periods": [
-            "  ",
             "Contemporary"
         ],
         "types": [
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Join us as we take a gentle stroll around the Community Garden and nearby streets of Durham Road Conservation Area.",
+            "start": "2023-09-09T12:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Refreshments"
     ],
@@ -117,7 +131,7 @@
             "Bus: W19, 474, 101"
         ]
     },
-    "name": "Manor Park Community Garden E12",
+    "name": "Manor Park Community Garden",
     "original_url": "https://programme.openhouse.org.uk/listings/11827",
     "ticketed_events": false
 }

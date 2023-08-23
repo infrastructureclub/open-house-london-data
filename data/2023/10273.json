@@ -11,7 +11,36 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10273",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "Modern Architecture in the Cator Estate",
+            "notes": null,
+            "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10273",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T17:00:00+01:00",
+            "fully_booked": true,
+            "name": "Modern Architecture in the Cator Estate",
+            "notes": null,
+            "start": "2023-09-16T15:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -34,10 +63,10 @@
     "id": 10273,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10273/building_10273_the-priory-1_3dc6836eacda8aa05394fce9cf4f71b3.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10273/building_10273_the-priory-1_1c902f9710c4b5898ddb72577098ab09.jpg",
             "description": null,
             "title": "The Priory, Blackheath",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10273_the-priory-1_3dc6836eacda8aa05394fce9cf4f71b3.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10273_the-priory-1_1c902f9710c4b5898ddb72577098ab09.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10273/building_10273_open-house-span-priory-house_59957fd59cb675b32dbf59e131d094da.jpg",
@@ -65,5 +94,5 @@
     },
     "name": "Modern Architecture in Blackheath walk",
     "original_url": "https://programme.openhouse.org.uk/listings/10273",
-    "ticketed_events": false
+    "ticketed_events": true
 }

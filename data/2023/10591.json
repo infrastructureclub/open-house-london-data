@@ -17,7 +17,148 @@
             "architectural practice"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Exhibition of the practice's work, drop-in building tour slots may also be available",
+            "start": "2023-09-16T10:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10591",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T11:00:00+01:00",
+            "fully_booked": true,
+            "name": "Tour 1",
+            "notes": null,
+            "start": "2023-09-16T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10591",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T11:30:00+01:00",
+            "fully_booked": true,
+            "name": "Tour 2",
+            "notes": null,
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10591",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "Tour 3",
+            "notes": null,
+            "start": "2023-09-16T11:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10591",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:30:00+01:00",
+            "fully_booked": true,
+            "name": "Tour 4",
+            "notes": null,
+            "start": "2023-09-16T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10591",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "Tour 5",
+            "notes": null,
+            "start": "2023-09-16T12:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10591",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T14:30:00+01:00",
+            "fully_booked": true,
+            "name": "Tour 6",
+            "notes": null,
+            "start": "2023-09-16T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10591",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T15:00:00+01:00",
+            "fully_booked": true,
+            "name": "Tour 7",
+            "notes": null,
+            "start": "2023-09-16T14:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10591",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T15:30:00+01:00",
+            "fully_booked": true,
+            "name": "Tour 8",
+            "notes": null,
+            "start": "2023-09-16T15:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10591",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T16:00:00+01:00",
+            "fully_booked": true,
+            "name": "Tour 9",
+            "notes": null,
+            "start": "2023-09-16T15:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Gender neutral toilets",
         "Accessible toilet",
@@ -47,10 +188,10 @@
     "id": 10591,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10591/building_10591_008_7535_000_n5_hip_d73e982e06f817f1809338812e8f9556.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10591/building_10591_008_7535_000_n5_hip_7dba7ec03ee2d153bf91bc0f49ffef9f.jpg",
             "description": null,
             "title": "View from Thomas More Street",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10591_008_7535_000_n5_hip_d73e982e06f817f1809338812e8f9556.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10591_008_7535_000_n5_hip_7dba7ec03ee2d153bf91bc0f49ffef9f.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10591/building_10591_008_7535_000_n114_medium_88e6765c9848e8b85391f34988a3fcac.jpg",
@@ -103,5 +244,5 @@
     },
     "name": "6 Moretown (Gensler London Studio)",
     "original_url": "https://programme.openhouse.org.uk/listings/10591",
-    "ticketed_events": false
+    "ticketed_events": true
 }

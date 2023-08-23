@@ -10,13 +10,28 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11965",
+            "capacity": null,
+            "date": "2023-09-08",
+            "drop_in": false,
+            "end": "2023-09-08T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "STRATFORD ART AND CULTURE TRAIL",
+            "notes": null,
+            "start": "2023-09-08T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
             "heading": "About the tour",
             "paragraphs": [
-                "Stratford has a depth of cultural and social history and this walk leads with the idea that London 2012 was just the most recent event in many centuries of change. Beginning at Pudding Mill Lane and  ending near Stratford station, discover histories from porcelain to printing to perfume and the proud theatrical culture that continues today. Find out about some of the legacies of transport infrastructure that defined Stratford as a railway landscape. Learn about local communities and how these have been affected by changes to housing policy and development proposals. The art, and architecture that you will see on the walk is the key to uncovering these histories and the Stratford Art and Culture trail will explore how the past continues to contribute to Stratford’s current sense of place."
+                "Stratford has a depth of cultural and social history and this walk leads with the idea that London 2012 was just the most recent event in many centuries of change. Beginning at Pudding Mill Lane and  ending near Stratford station, discover industrial histories from porcelain to printing to perfume. Find out about some of the legacies of transport infrastructure that defined Stratford as a railway landscape. Learn about local communities and how these have been affected by changes to housing policy and development proposals. From Art Deco to contemporary art and sculpture, the Stratford Art and Culture trail interprets the art and architecture that you will see on the walk to explain change and appreciate how the past continues to contribute to Stratford’s current sense of place."
             ]
         },
         {
@@ -81,7 +96,7 @@
             "Bus: D8, 425, 108, 25"
         ]
     },
-    "name": "Stratford Art and Culture Trail",
+    "name": "Stratford art and culture trail",
     "original_url": "https://programme.openhouse.org.uk/listings/11965",
-    "ticketed_events": false
+    "ticketed_events": true
 }

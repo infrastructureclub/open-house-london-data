@@ -14,18 +14,44 @@
             "residence"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "This is a residential property, and at a time 6-8 people group is better.",
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Refreshments",
         "Gender neutral toilets",
-        "Food and drink",
         "Architect on site"
     ],
     "factsheet": [
         {
-            "heading": "Cultural",
+            "heading": "A cultural blast!",
             "paragraphs": [
-                "When I started the design process, I tried to keep rooted with Indian elements such as courtyards, and natural light conditions and tried to incorporate them into the UK environment, so as not to feel bad in gloomy times.  We will involve visitors in describing how Indian culture and context drove me to design this house in London while incorporating a swing, water features, and plants as a part of India where we spend our evening and it's an integral part of our social communication while having tea."
+                "Indian elements including courtyards and lots of natural light incorporated in the local environment were centric to my design for this house. An indoor water feature, a swing, triple height atrium, plants and a seamless connection with the outdoor spaces were incorporated within a typical end-terrace house."
+            ]
+        },
+        {
+            "heading": "Beauty in imperfection",
+            "paragraphs": [
+                "We followed the Wabi-sabi principle and kept raw elements exposed, including concrete floor, walls and ceiling and a metal staircase. Natural light with plants brings a beautiful connection of these materials to nature and enhances their lifecycles, together with ours."
+            ]
+        },
+        {
+            "heading": "Reason for being",
+            "paragraphs": [
+                "The house’s minimalism and pureness flows into our lifestyles and that’s our Ikigai! Natural light and imperfect finishes bring soul soothing tranquility within highly functional spaces."
             ]
         }
     ],
@@ -76,13 +102,14 @@
     ],
     "links": [],
     "location": {
-        "address": "12, E14 3LW",
+        "address": "12 Hickin Street, E14 3LW",
         "latitude": 51.49706,
         "longitude": -0.01238,
         "meeting_point": null,
         "travel_info": [
-            "Train: Canada Water, Bethnal Green",
-            "Bus: 135"
+            "Tube: Crossharbour & London Arena",
+            "Train: Limehouse, Greenwich",
+            "Bus: D8, D6, 135"
         ]
     },
     "name": "Ikigai_12 Hickin Street",

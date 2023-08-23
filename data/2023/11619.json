@@ -10,7 +10,50 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11619",
+            "capacity": null,
+            "date": "2023-09-15",
+            "drop_in": false,
+            "end": "2023-09-15T10:40:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-15T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11619",
+            "capacity": null,
+            "date": "2023-09-15",
+            "drop_in": false,
+            "end": "2023-09-15T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-15T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11619",
+            "capacity": null,
+            "date": "2023-09-15",
+            "drop_in": false,
+            "end": "2023-09-15T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-15T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Step free access",
@@ -28,10 +71,10 @@
     "id": 11619,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11619/building_11619_img_20220323_094021_resized_20230323_080415529_b279fe56b1b46b360d50cdb3cd53b96b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11619/building_11619_img_20220323_094021_resized_20230323_080415529_62506729dcbd5a1735d601f95ca4ace3.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11619_img_20220323_094021_resized_20230323_080415529_b279fe56b1b46b360d50cdb3cd53b96b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11619_img_20220323_094021_resized_20230323_080415529_62506729dcbd5a1735d601f95ca4ace3.jpg"
         }
     ],
     "links": [],
@@ -48,5 +91,5 @@
     },
     "name": "Longfield Hall",
     "original_url": "https://programme.openhouse.org.uk/listings/11619",
-    "ticketed_events": false
+    "ticketed_events": true
 }

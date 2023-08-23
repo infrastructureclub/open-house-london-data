@@ -45,14 +45,14 @@
             }
         ],
         "periods": [
-            " including Scott",
-            " Hodgkinson",
-            " Soane",
-            " Hardwick",
-            " Lutyens",
-            " Inigo Jones (attributed)",
-            " Gibbs",
-            " Wren and Chambers",
+            "including Scott",
+            "Hodgkinson",
+            "Soane",
+            "Hardwick",
+            "Lutyens",
+            "Inigo Jones (attributed)",
+            "Gibbs",
+            "Wren and Chambers",
             "Historical/contemporary"
         ],
         "types": [
@@ -60,7 +60,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10415",
+            "capacity": null,
+            "date": "2023-09-15",
+            "drop_in": false,
+            "end": "2023-09-15T12:30:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-15T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Food and drink",
@@ -89,10 +104,10 @@
     "id": 10415,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10415/building_10415_911px-st_pancras_railway_station_2012-06-23_a5aba88d67d058e017ef037a4cfee5bb.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10415/building_10415_911px-st_pancras_railway_station_2012-06-23_4a36c7197988ecd8ee0f8c92b9ca3379.jpg",
             "description": null,
             "title": "St Pancras Station and hotel",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10415_911px-st_pancras_railway_station_2012-06-23_a5aba88d67d058e017ef037a4cfee5bb.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10415_911px-st_pancras_railway_station_2012-06-23_4a36c7197988ecd8ee0f8c92b9ca3379.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10415/building_10415_footwaysmap-38-copy_039f0e9cbab04db16790eab49a18c691.jpg",
@@ -127,5 +142,5 @@
     },
     "name": "London Living Streets and Footways London",
     "original_url": "https://programme.openhouse.org.uk/listings/10415",
-    "ticketed_events": false
+    "ticketed_events": true
 }

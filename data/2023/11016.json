@@ -17,7 +17,22 @@
             "cemetery"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": true,
+            "end": "2023-09-17T16:20:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "We will be running hourly Talks & Walks at 11am, and 12pm. 2pm and 3pm.",
+            "start": "2023-09-17T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Step free access",
         "Refreshments",

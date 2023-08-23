@@ -16,7 +16,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11082",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T16:30:00+01:00",
+            "fully_booked": true,
+            "name": "The American Other in London",
+            "notes": null,
+            "start": "2023-09-10T14:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -66,10 +81,10 @@
     "id": 11082,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11082/building_11082_us-embassy-1960_951002d2f132a8bf1279f0a08f2b6dc5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11082/building_11082_us-embassy-1960_5c9b7c0a2e272f12f2c2e24699d4e34a.jpg",
             "description": null,
             "title": "Former US Embassy",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11082_us-embassy-1960_951002d2f132a8bf1279f0a08f2b6dc5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11082_us-embassy-1960_5c9b7c0a2e272f12f2c2e24699d4e34a.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11082/building_11082_stafford-hotel_5d44ad3a61594ce4492ed722082344e7.jpg",
@@ -97,5 +112,5 @@
     },
     "name": "The American Other in London",
     "original_url": "https://programme.openhouse.org.uk/listings/11082",
-    "ticketed_events": false
+    "ticketed_events": true
 }

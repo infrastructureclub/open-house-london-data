@@ -10,7 +10,7 @@
             }
         ],
         "periods": [
-            "Unknown ",
+            "Unknown",
             "Victorian"
         ],
         "types": [
@@ -20,7 +20,22 @@
             "garden"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11038",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Pop-up exhibition , portraits and interviews",
+            "notes": null,
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Food and drink",
         "Toilets",
@@ -44,10 +59,10 @@
     "id": 11038,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_001_17916e8e10f78bd79df07ab71bb7eb27.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_001_58ac43c754e76fa227ca415d58a306dd.jpeg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11038_001_17916e8e10f78bd79df07ab71bb7eb27.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11038_001_58ac43c754e76fa227ca415d58a306dd.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_002_c51405f1cfa136d8ad9fdc2a810492ca.jpeg",
@@ -99,5 +114,5 @@
     },
     "name": "Central Park, War Memorial and Cafe",
     "original_url": "https://programme.openhouse.org.uk/listings/11038",
-    "ticketed_events": false
+    "ticketed_events": true
 }

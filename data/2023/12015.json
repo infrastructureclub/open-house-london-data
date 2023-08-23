@@ -10,14 +10,56 @@
             }
         ],
         "periods": [
-            "  ",
             "Contemporary"
         ],
         "types": [
             "offices"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12015",
+            "capacity": null,
+            "date": "2023-09-06",
+            "drop_in": false,
+            "end": "2023-09-06T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided buildings tour",
+            "notes": null,
+            "start": "2023-09-06T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12015",
+            "capacity": null,
+            "date": "2023-09-06",
+            "drop_in": false,
+            "end": "2023-09-06T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided buildings tour",
+            "notes": null,
+            "start": "2023-09-06T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12015",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T11:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided buildings tour",
+            "notes": null,
+            "start": "2023-09-10T10:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Architect on site",
@@ -31,15 +73,17 @@
                 "At that time they developed a masterplan of eight buildings, five of which (totalling 96,000 sqm GEA) have been constructed, including the Broadcast Centre, the Media Centre and Garden House. The Corporation's administrative headquarters White City One (Scott Brownrigg) had been on the site since 1990.",
                 "The disposition of the new buildings was carefully considered as a piece of urban planning with a particular emphasis on the quality of the new public realm, integrating shops and cafes, and outdoor spaces for public-facing events.",
                 "Ten years later the BBC decided to decentralise staff outside London and three of the Media Village buildings were vacated and their leaseholds sold on to new clients, Stanhope, Mitsui Fudosan and AIMCo who commissioned Allies and Morrison to repurpose them for a second life as multi-tenanted offices. Now known as White City Place, the campus has a strong focus on media, technology and the creative industries, and an established profile for life sciences and research.",
-                "White City Place's shift in character from providing support to services for the BBC to becoming a front-facing media, tech and education campus continues with the addition of Gateway Central (Allies and Morrison) and Gateway West (Gort Scott) now completed. A third building, Gateway East (Allies and Morrison), will complete the triology of workplaces, and once completed will together provide an additional 101,675 sqm of office space with retail, restaurants and training space on the ground floor, further reinforcing the aspirations of the White City Opportunity Area Planning Framework."
+                "White City Place's shift in character from providing support to services for the BBC to becoming a front-facing media, tech and education campus continues with the addition of Gateway Central (Allies and Morrison) and Gateway West (Gort Scott) now completed. A third building, Gateway East (Allies and Morrison), will complete the triology of workplaces, and once completed will provide an additional 101,675 sqm of office space with retail, restaurants and training space on the ground floor, further reinforcing the aspirations of the White City Opportunity Area Planning Framework."
             ]
         },
         {
             "heading": "Gateway Project Approach",
             "paragraphs": [
                 "On the Gateway site, Allies and Morrison proposed three buildings of varying scales and style that continue the existing grain and materiality:",
-                "Gateway West is the smallest, a full stop to the line of perimeter brick buildings. Gort Scott were appointed to design Gateway West.\nGateway Central is in the middle in terms of size and location. \nGateway East (still to be completed), will be the tallest and together with Gateway Central will frame the entrance into White City Place. Both Central and East relate to the larger aluminum and glass buildings already on site.",
-                "Gateway Central is linked to Gateway West by a shared service basement, and goods enter both buildings via the latter. This frees the ground floor of the buildings to be public facing and engaging: cafés, shops, restaurants, generous reception areas, a cycle hub and a hairdressing academy for L’Oréal, an occupier of Gateway Central.\nBetween Gateway Central and Gateway West is a new garden, created to add to the network of existing publicly accessible spaces in White City Place that are well used by local residents and office occupants. The fully landscaped garden has an intimate feel and provides a place to rest, and a pleasant shortcut to shops and other buildings."
+                "Gateway West designed by Gort Scott, has a compact yet assertive and playful presence that suits its prominent corner location. Its distinctive, angular form and brick materiality mediates between nearby commercial buildings and older mid-century residential blocks.\nThe building helps to frame the new public garden, and long life, loose fit principles inform the design of the flexible and healthy commercial spaces within.",
+                "Gateway Central is in the middle in terms of size and location. The building steps back along the south as it rises over 11 storeys, creating two generous south-facing terraces for occupiers. The façade design is simple and calm in materiality, and delicate and precise in detailing, comprising a series of layers: a filigree of glossy white aluminium fins and shelves stands proud of anodised spandrels and darker, textured aluminium panels. Two picture windows which bookend the entrance reveal at one end a cafe within the reception, at the other, a sculptural, generous and light-filled accommodation stair.",
+                "Gateway Central is linked to Gateway West by a shared basement. This frees the ground floor of the buildings to be public facing and engaging - cafés, shops, generous reception areas, a shared cycle hub and a hairdressing academy for L’Oréal, an occupier of Gateway Central.",
+                "Between the two buildings is a new garden, created to add to the network of existing publicly accessible spaces in White City Place that are well used by local residents and office occupants. The fully landscaped garden has an intimate feel and provides a place to rest, and a pleasant shortcut to shops and other buildings."
             ]
         }
     ],
@@ -90,5 +134,5 @@
     },
     "name": "Gateway Central and Gateway West building tour",
     "original_url": "https://programme.openhouse.org.uk/listings/12015",
-    "ticketed_events": false
+    "ticketed_events": true
 }

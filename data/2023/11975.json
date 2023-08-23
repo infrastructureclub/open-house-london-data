@@ -8,9 +8,30 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11975",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T16:30:00+01:00",
+            "fully_booked": true,
+            "name": "🚴📚 Bibliomania: Cycling Book Lovers' London",
+            "notes": null,
+            "start": "2023-09-09T13:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
+        {
+            "heading": "Meeting point",
+            "paragraphs": [
+                "Meet in the British Library piazza, in front of the main entrance by The Last Word Cafe."
+            ]
+        },
         {
             "heading": "The end of reading?",
             "paragraphs": [
@@ -20,7 +41,6 @@
         {
             "heading": "Bookshops and libraries reinvent themselves",
             "paragraphs": [
-                "",
                 "Today, bookshops are thriving once again, and — despite repeated funding cuts — libraries are very much not obsolete. This tour traces the ways British bookshops and libraries have reinvented themselves time and again — not just over the past decade, but over the past century — borrowing ideas from each other along the way."
             ]
         },
@@ -33,14 +53,13 @@
         {
             "heading": "Your guide",
             "paragraphs": [
-                "Justin Manley has designed and led architecture tours in Chicago as part of that city’s annual urbanist festival. This is his first architecture tour in the UK since arriving in London at the end of 2020. Justin works for a London-based tech company building software to support construction on large civil infrastructure projects."
+                "Justin Manley has designed and led architecture tours in Chicago as part of that city’s annual urbanist festival. This is his first architecture tour in the UK since arriving in London at the end of 2020. Justin works for a London-based tech company building software to support construction on large civil infrastructure projects. You can find more of Justin's work at https://justinmanley.work."
             ]
         },
         {
             "heading": "Golden Key Academy",
             "paragraphs": [
-                "This tour is led by a participant of Open City’s Golden Key Academy – a course training up insightful and engaging guides dedicated to explaining London and bringing its many stories to life. It is part of a wider collection of tour events created by Golden Key Academy guides for the Open House Festival celebrating their conclusion of the eight month course.",
-                "Further information on the Golden Key Academy can be found here https://open-city.org.uk/golden-key-academy"
+                "This tour is led by a participant of Open City’s Golden Key Academy – a course training up insightful and engaging guides dedicated to explaining London and bringing its many stories to life. It is part of a wider collection of tour events created by Golden Key Academy guides for the Open House Festival celebrating their conclusion of the eight month course. Further information on the Golden Key Academy can be found here https://open-city.org.uk/golden-key-academy."
             ]
         }
     ],
@@ -55,7 +74,11 @@
     ],
     "links": [
         {
-            "href": "https://open-city.org.uk/golden-key-academy",
+            "href": "https://justinmanley.work",
+            "title": null
+        },
+        {
+            "href": "https://open-city.org.uk/golden-key-academy.",
             "title": null
         }
     ],
@@ -71,5 +94,5 @@
     },
     "name": "Cycling Book Lovers’ London",
     "original_url": "https://programme.openhouse.org.uk/listings/11975",
-    "ticketed_events": false
+    "ticketed_events": true
 }

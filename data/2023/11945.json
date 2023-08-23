@@ -16,7 +16,36 @@
             "architectural practice"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "The practice's conference room will be open with a selection of architectural models on display. The cafe will also be open.",
+            "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11945",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T14:30:00+01:00",
+            "fully_booked": true,
+            "name": "Talk by Architect",
+            "notes": null,
+            "start": "2023-09-16T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Refreshments",
         "Food and drink",
@@ -67,7 +96,7 @@
             "Bus: 21, 141"
         ]
     },
-    "name": "Chris Dyson Architects, LLP",
+    "name": "Chris Dyson Architects LLP",
     "original_url": "https://programme.openhouse.org.uk/listings/11945",
-    "ticketed_events": false
+    "ticketed_events": true
 }

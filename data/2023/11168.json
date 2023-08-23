@@ -16,7 +16,22 @@
             "housing"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": true,
+            "end": "2023-09-17T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-17T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -42,10 +57,10 @@
     "id": 11168,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11168/building_11168_dolly-hills-and-car_3ee458eb2c644d848616e5a3905ffa72.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11168/building_11168_dolly-hills-and-car_c9e9e995d96c05b24dc065d8446bd9ca.jpg",
             "description": null,
             "title": "Nubia Way today",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11168_dolly-hills-and-car_3ee458eb2c644d848616e5a3905ffa72.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11168_dolly-hills-and-car_c9e9e995d96c05b24dc065d8446bd9ca.jpg"
         }
     ],
     "links": [

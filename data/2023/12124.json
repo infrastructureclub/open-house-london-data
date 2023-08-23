@@ -16,7 +16,50 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12124",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Open day and gallery exhibition tour",
+            "notes": null,
+            "start": "2023-09-16T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12124",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Open day and gallery exhibition tour",
+            "notes": null,
+            "start": "2023-09-16T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12124",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T17:00:00+01:00",
+            "fully_booked": true,
+            "name": "Open day and gallery exhibition tour",
+            "notes": null,
+            "start": "2023-09-16T16:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Step free access",
@@ -58,5 +101,5 @@
     },
     "name": "198 Contemporary Arts and Learning",
     "original_url": "https://programme.openhouse.org.uk/listings/12124",
-    "ticketed_events": false
+    "ticketed_events": true
 }

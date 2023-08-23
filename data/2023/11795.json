@@ -16,7 +16,106 @@
             "housing"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": true,
+            "end": "2023-09-17T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Come and find out information about the history of the Pepys Estate and learn about local community projects!",
+            "start": "2023-09-17T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11795",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T11:30:00+01:00",
+            "fully_booked": true,
+            "name": "Visit to the top of Eddystone Tower",
+            "notes": null,
+            "start": "2023-09-17T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11795",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T12:30:00+01:00",
+            "fully_booked": true,
+            "name": "Visit to the top of Eddystone Tower",
+            "notes": null,
+            "start": "2023-09-17T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11795",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T13:30:00+01:00",
+            "fully_booked": true,
+            "name": "Visit to the top of Eddystone Tower",
+            "notes": null,
+            "start": "2023-09-17T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11795",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T14:30:00+01:00",
+            "fully_booked": true,
+            "name": "Visit to the top of Eddystone Tower",
+            "notes": null,
+            "start": "2023-09-17T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11795",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T15:30:00+01:00",
+            "fully_booked": true,
+            "name": "Visit to the top of Eddystone Tower",
+            "notes": null,
+            "start": "2023-09-17T15:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11795",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T16:30:00+01:00",
+            "fully_booked": true,
+            "name": "Visit to the top of Eddystone Tower",
+            "notes": null,
+            "start": "2023-09-17T16:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Step free access",
@@ -50,6 +149,12 @@
             "paragraphs": [
                 "If you are unable to attend one of the tour sessions, please do still come to the drop-in at 2000 Community Action Centre! There will be information about the estate on display, archival material from Lewisham's social housing and more!"
             ]
+        },
+        {
+            "heading": "Summary",
+            "paragraphs": [
+                "The Pepys Estate is historic: the land used to be Henry VIII’s naval yard and later the Royal Navy’s rum store, and when the estate arrived it received a Civic Trust Award for its “impeccable design.” We will celebrate the estate’s role in its residents’ lives over the decades and showcase the roles residents have played in shaping the estate, particularly in improving communal green spaces."
+            ]
         }
     ],
     "id": 11795,
@@ -75,5 +180,5 @@
     },
     "name": "Lewisham Homes presents: The Pepys Estate, High Up",
     "original_url": "https://programme.openhouse.org.uk/listings/11795",
-    "ticketed_events": false
+    "ticketed_events": true
 }

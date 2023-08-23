@@ -10,7 +10,64 @@
             "art studio"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-10T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": true,
+            "end": "2023-09-17T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-17T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Step free access"
@@ -26,7 +83,8 @@
                 "Artists will be available to chat, and work will be available for sale.",
                 "Please come and meet the artists in one of London's most dynamic, iconic and ever-changing creative hubs.",
                 "Your support will ensure our continued visibility and survival in a landscape under huge pressure from gentrification.",
-                "It will be a great chance to experience art in an intimate setting within an amazing listed building, and to explore the real Hackney Wick itself - a buzzing microcosm of not just artists but performers, musicians, creatives and now some of the best bars and food London has to offer. Come see our world!"
+                "It will be a great chance to experience art in an intimate setting within an amazing listed building, and to explore the real Hackney Wick itself - a buzzing microcosm of not just artists but performers, musicians, creatives and now some of the best bars and food London has to offer. Come see our world!",
+                "www.instagram.com/motherxartandmake"
             ]
         }
     ],
@@ -45,7 +103,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11914_chocolate-factory_23fa0b2e85ab3926cda5c42d71e90154.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "www.instagram.com/motherxartandmake",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Floor D and E, 9B Queens Yard, Hackney Wick",
         "latitude": 51.5430381,

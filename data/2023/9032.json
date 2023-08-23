@@ -10,7 +10,7 @@
             }
         ],
         "periods": [
-            "Various including John Taylor Jnr and John Norton & P E Massey ",
+            "Various including John Taylor Jnr and John Norton & P E Massey",
             "Historical/contemporary"
         ],
         "types": [
@@ -18,7 +18,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9032",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided walking tour",
+            "notes": null,
+            "start": "2023-09-09T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -33,10 +48,10 @@
     "id": 9032,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9032/building_9032_lancaster-house_c8d0501d8716deca949e6f2bada54ef3.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9032/building_9032_lancaster-house_d5c962cdef38cd018bcb0acb3897b57a.jpg",
             "description": null,
             "title": "Former International and Borough Road College now apartments",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9032_lancaster-house_c8d0501d8716deca949e6f2bada54ef3.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9032_lancaster-house_d5c962cdef38cd018bcb0acb3897b57a.jpg"
         }
     ],
     "links": [],
@@ -53,5 +68,5 @@
     },
     "name": "Exploring Spring Grove Isleworth",
     "original_url": "https://programme.openhouse.org.uk/listings/9032",
-    "ticketed_events": false
+    "ticketed_events": true
 }

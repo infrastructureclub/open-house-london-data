@@ -2,21 +2,31 @@
     "all_week": false,
     "description": "Tranquil Clerkenwell, so close to the bustling City has a distinct character and intriguing history. Once centred around great religious houses, the area has been the scene of fierce rebellion, innovative architecture, and major commerce.",
     "design": {
-        "designers": [
-            {
-                "architect": "-",
-                "description": null,
-                "year": "1371"
-            }
-        ],
+        "designers": [],
         "periods": [
+            "-",
             "Tudor"
         ],
         "types": [
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11973",
+            "capacity": null,
+            "date": "2023-09-15",
+            "drop_in": false,
+            "end": "2023-09-15T13:30:00+01:00",
+            "fully_booked": true,
+            "name": "Calamity and civility: contrasts in Clerkenwell",
+            "notes": null,
+            "start": "2023-09-15T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Bookshop",
@@ -64,5 +74,5 @@
     },
     "name": "Calamity and civility: contrasts in Clerkenwell",
     "original_url": "https://programme.openhouse.org.uk/listings/11973",
-    "ticketed_events": false
+    "ticketed_events": true
 }

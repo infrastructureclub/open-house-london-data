@@ -16,7 +16,22 @@
             "housing"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T17:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Tours every half hour, on the half hour, with the last tour starting at 5pm.",
+            "start": "2023-09-16T13:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Architect on site"
     ],
@@ -32,10 +47,10 @@
     "id": 11764,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11764/building_11764_lydford-road_artefact_1_ivanjones_7ca85b591aafafb3d37b88825aa77917.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11764/building_11764_lydford-road_artefact_1_ivanjones_7e59bd46f65ed980ca71a285b1570afd.jpg",
             "description": null,
             "title": "Ivan Jones",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11764_lydford-road_artefact_1_ivanjones_7ca85b591aafafb3d37b88825aa77917.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11764_lydford-road_artefact_1_ivanjones_7e59bd46f65ed980ca71a285b1570afd.jpg"
         }
     ],
     "links": [],

@@ -20,7 +20,22 @@
             "museum"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Visitors are free to visit the three main rooms where our archive collection is based. A free leaflet is available. Last entry is 15.30.",
+            "start": "2023-09-10T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets"
     ],
@@ -49,10 +64,10 @@
     "id": 10880,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10880/building_10880_08410006_40739deac8883a4f50e8e0128629e170.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10880/building_10880_08410006_83bac55177fcf9c0ef0818aaba7fcc48.jpg",
             "description": null,
             "title": "9 Fitzroy Square front",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10880_08410006_40739deac8883a4f50e8e0128629e170.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10880_08410006_83bac55177fcf9c0ef0818aaba7fcc48.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10880/building_10880_9fitzroy1_0b360fc2fadfae21e17f84132a5fe986.jpg",

@@ -16,7 +16,22 @@
             "residence"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Drop in but due to limited capacity you may have to wait for other visitors to leave if it is busy.",
+            "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Gender neutral toilets"
     ],
@@ -24,7 +39,7 @@
         {
             "heading": "Deep retrofit to a detached 1960s house",
             "paragraphs": [
-                "A detached 1960s house, which has had a (very nearly finished) deep retrofit in preparation for the 21st century. As part of a complete refurbishment, a range of energy efficiency improvements have been made to the fabric of the house. Low carbon heating and ventilation systems have also been installed. Information will be provided to visitors about the measures and materials used in the project as well as the process of retrofitting. Some information and activities for children."
+                "A detached 1960s house, which has had a (very nearly finished) deep retrofit. As part of a complete refurbishment, a range of energy efficiency improvements have been made to the fabric of the house. Low carbon heating and ventilation systems have also been installed. Information will be provided to visitors about the measures and materials used in the project as well as the process of retrofitting."
             ]
         },
         {
@@ -54,23 +69,23 @@
         {
             "heading": "Cooling and other future measures",
             "paragraphs": [
-                "Insulation has created a warm box in the winter, but potentially a hot box in the summer. Although the insulation acts as a barrier to outside warm air, the internal temperature can rise because of solar gain through the windows. Further passive cooling measures are planned to reduce solar gain, including a pergola at the back of the house, external blinds, and other passive shading measures such as tree planting. Cooling measures are likely to become an integral part of retrofit planning as global temperatures rise in coming years. Other future measures could include rainwater harvesting and electricity generation."
+                "Insulation has created a warm box in the winter, but potentially a hot box in the summer. Although the insulation acts as a barrier, the internal temperature can rise because of solar gain through the windows. Further passive cooling measures are planned to reduce solar gain, including a pergola at the back of the house, external blinds, and other passive shading measures such as tree planting. Cooling measures are likely to become an integral part of retrofit planning as global temperatures rise in coming years. Other future measures could include rainwater harvesting and electricity generation."
             ]
         },
         {
             "heading": "Other",
             "paragraphs": [
-                "While you are in the area you could also visit the nearby 'Deep Retrofit to a Terraced 1960s House' and check out the Sydenham Arts Artists Trail: https://sydenhamarts.co.uk/artists-trail."
+                "While you are in the area you could also visit the nearby 'Deep Retrofit to  1960s Terraced  House' and check out the Sydenham Arts Artists Trail: https://sydenhamarts.co.uk/artists-trail."
             ]
         }
     ],
     "id": 11689,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11689/building_11689_thumbnail-13_9841963bc130047d3cce55f8773835f8.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11689/building_11689_69801ec4-99e9-4c47-a3d6-1bed79c1ffcf_592bf3c9cde6b4f735ed7cbd82eb4ebb.jpeg",
             "description": null,
-            "title": "Deep retrofit of a detached 1960s house",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11689_thumbnail-13_9841963bc130047d3cce55f8773835f8.jpeg"
+            "title": "Deep Retrofit to a Detached 1960s House",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11689_69801ec4-99e9-4c47-a3d6-1bed79c1ffcf_592bf3c9cde6b4f735ed7cbd82eb4ebb.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11689/building_11689_thumbnail_53906bc2014ea8c939335b6b322c1617.jpeg",
@@ -137,12 +152,6 @@
             "description": null,
             "title": "Heat Pump",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11689_thumbnail-3_5e71124e50189f55c58874aaca55e028.jpeg"
-        },
-        {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11689/building_11689_thumbnail-15_0b1df8a7678664912c99d4c39f569844.jpeg",
-            "description": null,
-            "title": "Internal",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11689_thumbnail-15_0b1df8a7678664912c99d4c39f569844.jpeg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11689/building_11689_thumbnail-10_62cfb597e0a0061dba3024e8211dd131.jpeg",

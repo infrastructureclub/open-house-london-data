@@ -16,7 +16,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11076",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "Discovering Colindale & Its Role in Early Aviation",
+            "notes": null,
+            "start": "2023-09-10T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Parking"
     ],
@@ -48,10 +63,10 @@
     "id": 11076,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11076/building_11076_watch-tower-ll_66163fa510265e23358db054844e900d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11076/building_11076_watch-tower-ll_d59341ced60fd5cd8226863c7d59dd05.jpg",
             "description": null,
             "title": "RAF Museum",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11076_watch-tower-ll_66163fa510265e23358db054844e900d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11076_watch-tower-ll_d59341ced60fd5cd8226863c7d59dd05.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11076/building_11076_colindale-hospital-admin-bldg_d708048453bffb7452f60aa20bbfae9e.jpg",
@@ -67,9 +82,9 @@
         }
     ],
     "location": {
-        "address": "Bang Bang, 399 Edgware Rd, NW9 0FH",
-        "latitude": 51.5230902,
-        "longitude": -0.1749715,
+        "address": "Bang Bang Oriental Food Hall, 399 Edgware Rd",
+        "latitude": 51.5934,
+        "longitude": -0.25949,
         "meeting_point": null,
         "travel_info": [
             "Tube: Colindale",
@@ -78,5 +93,5 @@
     },
     "name": "Discovering Colindale - How Early Aviation Forged Colindale’s Development",
     "original_url": "https://programme.openhouse.org.uk/listings/11076",
-    "ticketed_events": false
+    "ticketed_events": true
 }

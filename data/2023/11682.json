@@ -16,7 +16,22 @@
             "religious"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11682",
+            "capacity": null,
+            "date": "2023-09-12",
+            "drop_in": false,
+            "end": "2023-09-12T19:30:00+01:00",
+            "fully_booked": false,
+            "name": "Memorials and Communities Presentation",
+            "notes": null,
+            "start": "2023-09-12T16:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Parking",
@@ -34,10 +49,10 @@
     "id": 11682,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11682/building_11682_girl-look-at-plaque-the-hac-bow_48bed5cf383dd636d70fa3fb78249c7c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11682/building_11682_girl-look-at-plaque-the-hac-bow_af65d625966fdfdc5cbd1a764c4b7f2b.jpg",
             "description": null,
             "title": "A Significant wall memorial at The HAC Bow",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11682_girl-look-at-plaque-the-hac-bow_48bed5cf383dd636d70fa3fb78249c7c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11682_girl-look-at-plaque-the-hac-bow_af65d625966fdfdc5cbd1a764c4b7f2b.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11682/building_11682_photo-for-brochure_3578c539f6ab3ace6c15231d0f5cc136.jpg",
@@ -72,5 +87,5 @@
     },
     "name": "Memorials and Communities Presentation at the HAC Bow",
     "original_url": "https://programme.openhouse.org.uk/listings/11682",
-    "ticketed_events": false
+    "ticketed_events": true
 }

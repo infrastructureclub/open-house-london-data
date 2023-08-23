@@ -14,7 +14,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12169",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T15:30:00+01:00",
+            "fully_booked": true,
+            "name": "Town of Tomorrow: Thamesmead Through Film",
+            "notes": null,
+            "start": "2023-09-16T13:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -23,7 +38,15 @@
                 "Envisioned as a new town on the south eastern edges of London, Thamesmead offered a leap forward into what was seen as futuristic 21st century-style living to both residents and visitors alike. Among its most famous visitors was director Stanley Kubrick, who filmed iconic scenes from his cult classic film A Clockwork Orange on the newly built estate in 1970.",
                 "Since Kubrick, Thamesmead has continued to attract filmmakers, providing a compelling backdrop for urban storytelling.",
                 "With the estate now undergoing large scale regeneration including building 20,000 new homes, community and cultural facilities in a vision to realise Thamesmead’s potential as London’s new town, this walking tour revisits its original design intentions and by focusing on film offers a unique re-reading of its landscape to reveal its multiple identities and its enduring humanity.",
-                "The entertaining and insightful route will visit the ancient ruins of Lesnes Abbey before heading north into the 1960s and 1970s Parkview and Southmere neighbourhoods where new landscaping has transformed public spaces and set the stage for a civic centre featuring a new library by the acclaimed architects Bisset Adams. This tour is supported by Peabody."
+                "The entertaining and insightful route will visit the ancient ruins of Lesnes Abbey before heading north into the 1960s and 1970s Parkview and Southmere neighbourhoods where new landscaping has transformed public spaces and set the stage for a civic centre featuring a new library by the acclaimed architects Bisset Adams. This tour is supported by Peabody.",
+                "This tour is a regular tour that runs as part of the Open City year-round tours programme, more tour dates can be viewed here https://open-city.org.uk/events"
+            ]
+        },
+        {
+            "heading": "Golden Key Academy",
+            "paragraphs": [
+                "This tour is led by an alumnus of Open City’s Golden Key Academy – a course training up insightful and engaging guides dedicated to explaining London and bringing its many stories to life.",
+                "Further info on the Golden Key Academy can be found here https://open-city.org.uk/golden-key-academy"
             ]
         }
     ],
@@ -36,7 +59,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12169_tmca_bxac_014_1_web_552560c8aa6741a8be64f2d125e32e99_5680ea302d4600151e7f0490f7aad423.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://open-city.org.uk/events",
+            "title": null
+        },
+        {
+            "href": "https://open-city.org.uk/golden-key-academy",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Abbey Arms Pub (next to Abbey Wood Station)",
         "latitude": 51.4907,
@@ -48,5 +80,5 @@
     },
     "name": "Town of Tomorrow: Thamesmead Through Film Walking Tour",
     "original_url": "https://programme.openhouse.org.uk/listings/12169",
-    "ticketed_events": false
+    "ticketed_events": true
 }

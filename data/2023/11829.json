@@ -10,7 +10,64 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11829",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Meet the woman behind the books",
+            "notes": null,
+            "start": "2023-09-10T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11829",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Meet the woman behind the books",
+            "notes": null,
+            "start": "2023-09-10T12:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11829",
+            "capacity": null,
+            "date": "2023-09-11",
+            "drop_in": false,
+            "end": "2023-09-11T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Meet the woman behind the books",
+            "notes": null,
+            "start": "2023-09-11T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11829",
+            "capacity": null,
+            "date": "2023-09-11",
+            "drop_in": false,
+            "end": "2023-09-11T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Meet the woman behind the books",
+            "notes": null,
+            "start": "2023-09-11T12:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Bookshop"
     ],
@@ -51,5 +108,5 @@
     },
     "name": "A bookshop for All",
     "original_url": "https://programme.openhouse.org.uk/listings/11829",
-    "ticketed_events": false
+    "ticketed_events": true
 }

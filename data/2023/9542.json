@@ -21,7 +21,92 @@
             "scientific"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9542",
+            "capacity": null,
+            "date": "2023-09-08",
+            "drop_in": false,
+            "end": "2023-09-08T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "UCL PEARL Guided Tour with Light and Sound Demos",
+            "notes": null,
+            "start": "2023-09-08T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9542",
+            "capacity": null,
+            "date": "2023-09-08",
+            "drop_in": false,
+            "end": "2023-09-08T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "UCL PEARL Guided Tour with Light and Sound Demos",
+            "notes": null,
+            "start": "2023-09-08T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9542",
+            "capacity": null,
+            "date": "2023-09-08",
+            "drop_in": false,
+            "end": "2023-09-08T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "UCL PEARL Guided Tour with Light and Sound Demos",
+            "notes": null,
+            "start": "2023-09-08T15:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9542",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "UCL PEARL Guided Tour with Light and Sound Demos",
+            "notes": null,
+            "start": "2023-09-09T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9542",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "UCL PEARL Guided Tour with Light and Sound Demos",
+            "notes": null,
+            "start": "2023-09-09T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9542",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "UCL PEARL Guided Tour with Light and Sound Demos",
+            "notes": null,
+            "start": "2023-09-09T15:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Baby changing facilities",
         "Step free access",
@@ -59,10 +144,10 @@
     "id": 9542,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9542/building_9542_pearl-westfacade_2546ebdf33a1bf5fea56d0a4e5f04147.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9542/building_9542_pearl-westfacade_5be0d039bef7a34e486986dad48c6c74.jpg",
             "description": null,
             "title": "PEARL West façade",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9542_pearl-westfacade_2546ebdf33a1bf5fea56d0a4e5f04147.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9542_pearl-westfacade_5be0d039bef7a34e486986dad48c6c74.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9542/building_9542_pearl-interior_2_df50e7c1d104670566e8b4d026fc0e4d.jpg",
@@ -91,5 +176,5 @@
     },
     "name": "UCL PEARL",
     "original_url": "https://programme.openhouse.org.uk/listings/9542",
-    "ticketed_events": false
+    "ticketed_events": true
 }

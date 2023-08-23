@@ -10,14 +10,28 @@
             }
         ],
         "periods": [
-            "  ",
             "Victorian"
         ],
         "types": [
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11784",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T14:00:00+01:00",
+            "fully_booked": true,
+            "name": "A Tale of Two Cities: North Kensington Walking Tour",
+            "notes": null,
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -30,6 +44,13 @@
                 "Bringing us up to the present day, we discuss the influence of Richard Curtis' 1990s films in shaping a new identity for this area, as an exclusive and affluent London neighbourhood. All the while, we walk in the shadow of the remains of the Grenfell Tower, devastated by fire on the 14th June 2017; the signs of a grieving community are all around us as we explore these streets.",
                 "This is an important story to tell for London, and for wider society, in the aftermath of the Grenfell fire and subsequent inquiry as we find ourselves on the cusp of regulatory change."
             ]
+        },
+        {
+            "heading": "Golden Key Academy",
+            "paragraphs": [
+                "This tour is led by an alumnus of Open City’s Golden Key Academy – a course training up insightful and engaging guides dedicated to explaining London and bringing its many stories to life.",
+                "Further info on the Golden Key Academy can be found here https://open-city.org.uk/golden-key-academy"
+            ]
         }
     ],
     "id": 11784,
@@ -41,7 +62,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11784_trellick_tower_-_north_kensington_from_20th_flr_of_hall_tower_facc3e771a1a80492147d70965f4f3a3.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://open-city.org.uk/golden-key-academy",
+            "title": null
+        }
+    ],
     "location": {
         "address": "St John's Church, 152 Lansdowne Crescent",
         "latitude": 51.51071,
@@ -53,5 +79,5 @@
     },
     "name": "A Tale of Two Cities: North Kensington Walking Tour",
     "original_url": "https://programme.openhouse.org.uk/listings/11784",
-    "ticketed_events": false
+    "ticketed_events": true
 }

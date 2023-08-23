@@ -14,7 +14,22 @@
             "industrial"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "The site will be open for visitors to explore, with guided tours from our team, and the change to meet some of our member businesses.",
+            "start": "2023-09-16T12:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Refreshments",
         "Toilets",
@@ -97,7 +112,7 @@
         "longitude": -0.13223,
         "meeting_point": null,
         "travel_info": [
-            "Tube: Vauxhall",
+            "Tube: Nine Elms",
             "Train: Vauxhall",
             "Bus: 87, 77, 452, 196"
         ]

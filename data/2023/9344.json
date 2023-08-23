@@ -10,7 +10,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9344",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T16:30:00+01:00",
+            "fully_booked": true,
+            "name": "Slavery and the City walking tour",
+            "notes": null,
+            "start": "2023-09-16T14:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -25,10 +40,10 @@
     "id": 9344,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9344/building_9344_1200px-slaveshipposter_018ebb010a08d1c66e9b648feb44c537.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9344/building_9344_1200px-slaveshipposter_ced74b9490816446d59d4571878ac779.jpg",
             "description": null,
             "title": "Brookes slave ship plan",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9344_1200px-slaveshipposter_018ebb010a08d1c66e9b648feb44c537.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9344_1200px-slaveshipposter_ced74b9490816446d59d4571878ac779.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9344/building_9344_open-house-version_01bee9785e29f91c0e86eb7193ad71d6.jpg",
@@ -55,5 +70,5 @@
     },
     "name": "Slavery and the City",
     "original_url": "https://programme.openhouse.org.uk/listings/9344",
-    "ticketed_events": false
+    "ticketed_events": true
 }

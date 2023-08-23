@@ -20,15 +20,30 @@
             }
         ],
         "periods": [
-            " Levitt Bernstein",
-            " James Waterton",
-            " LUC"
+            "Levitt Bernstein",
+            "James Waterton",
+            "LUC"
         ],
         "types": [
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12107",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "Walking Tour",
+            "notes": null,
+            "start": "2023-09-16T10:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Refreshments",
@@ -80,5 +95,5 @@
     },
     "name": "Walking tour: Closing the Green Gap in Tottenham Hale",
     "original_url": "https://programme.openhouse.org.uk/listings/12107",
-    "ticketed_events": false
+    "ticketed_events": true
 }

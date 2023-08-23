@@ -16,7 +16,78 @@
             "mixed use"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Creating highly covetable kicks out of castoffs and deadstock, Helen Kirkum makes unique sneakers.",
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Conjured up on a bike tour somewhere between Japan and Malaysia, Veronica and Harry are still making bike bags, 8 years on.",
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12122",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "Mole Architects",
+            "notes": null,
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12122",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Mole Architects",
+            "notes": null,
+            "start": "2023-09-16T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12122",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Mole Architects",
+            "notes": null,
+            "start": "2023-09-16T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Gender neutral toilets",
         "Food and drink",
@@ -75,5 +146,5 @@
     },
     "name": "D2 : Design District",
     "original_url": "https://programme.openhouse.org.uk/listings/12122",
-    "ticketed_events": false
+    "ticketed_events": true
 }

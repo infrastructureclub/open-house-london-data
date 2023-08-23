@@ -8,7 +8,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11978",
+            "capacity": null,
+            "date": "2023-09-11",
+            "drop_in": false,
+            "end": "2023-09-11T15:30:00+01:00",
+            "fully_booked": true,
+            "name": "A LESSER KNOWN CITY: WORKING CLASS SPACES OF BLOOMSBURY",
+            "notes": null,
+            "start": "2023-09-11T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -77,5 +92,5 @@
     },
     "name": "Working class spaces of Bloomsbury",
     "original_url": "https://programme.openhouse.org.uk/listings/11978",
-    "ticketed_events": false
+    "ticketed_events": true
 }

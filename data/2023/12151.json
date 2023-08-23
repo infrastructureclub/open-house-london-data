@@ -16,7 +16,36 @@
             "mixed use"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12151",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T11:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour",
+            "notes": null,
+            "start": "2023-09-09T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12151",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour",
+            "notes": null,
+            "start": "2023-09-09T12:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Refreshments",
         "Parking",
@@ -109,5 +138,5 @@
     },
     "name": "Centre Court Shopping Centre, Wimbledon",
     "original_url": "https://programme.openhouse.org.uk/listings/12151",
-    "ticketed_events": false
+    "ticketed_events": true
 }

@@ -11,7 +11,50 @@
             "transport"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11819",
+            "capacity": null,
+            "date": "2023-09-13",
+            "drop_in": false,
+            "end": "2023-09-13T20:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour, Bank Monument",
+            "notes": null,
+            "start": "2023-09-13T19:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11819",
+            "capacity": null,
+            "date": "2023-09-14",
+            "drop_in": false,
+            "end": "2023-09-14T20:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour, Bank Monument",
+            "notes": null,
+            "start": "2023-09-14T19:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11819",
+            "capacity": null,
+            "date": "2023-09-15",
+            "drop_in": false,
+            "end": "2023-09-15T20:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour, Bank Monument",
+            "notes": null,
+            "start": "2023-09-15T19:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "BSL guide available"
     ],
@@ -70,5 +113,5 @@
     },
     "name": "Bank/Monument station",
     "original_url": "https://programme.openhouse.org.uk/listings/11819",
-    "ticketed_events": false
+    "ticketed_events": true
 }

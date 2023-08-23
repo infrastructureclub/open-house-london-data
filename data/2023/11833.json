@@ -16,7 +16,22 @@
             "residence"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11833",
+            "capacity": null,
+            "date": "2023-09-14",
+            "drop_in": false,
+            "end": "2023-09-14T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "Walking tour",
+            "notes": null,
+            "start": "2023-09-14T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -49,5 +64,5 @@
     },
     "name": "The Architecture of Community in Edwardian Suburbia",
     "original_url": "https://programme.openhouse.org.uk/listings/11833",
-    "ticketed_events": false
+    "ticketed_events": true
 }

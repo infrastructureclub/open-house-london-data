@@ -16,7 +16,50 @@
             "education"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9135",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T11:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9135",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9135",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-16T12:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets"
     ],
@@ -50,10 +93,10 @@
     "id": 9135,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9135/building_9135_img_6033_42f327b8a96b38725c68b69fdb3d0b19.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9135/building_9135_img_6033_1e76d829a6a3d01761a170e4f52017f6.jpg",
             "description": null,
             "title": "Entrance",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9135_img_6033_42f327b8a96b38725c68b69fdb3d0b19.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9135_img_6033_1e76d829a6a3d01761a170e4f52017f6.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9135/building_9135_img_6021_11695094e9012cf9c3e4004c8b99ab57.jpg",
@@ -105,5 +148,5 @@
     },
     "name": "Lansbury Lawrence Primary School",
     "original_url": "https://programme.openhouse.org.uk/listings/9135",
-    "ticketed_events": false
+    "ticketed_events": true
 }

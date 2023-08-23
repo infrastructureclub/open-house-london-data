@@ -14,7 +14,50 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11292",
+            "capacity": null,
+            "date": "2023-09-12",
+            "drop_in": false,
+            "end": "2023-09-12T17:00:00+01:00",
+            "fully_booked": true,
+            "name": "Walking around Ermine Street, Spitalfields",
+            "notes": null,
+            "start": "2023-09-12T15:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11292",
+            "capacity": null,
+            "date": "2023-09-13",
+            "drop_in": false,
+            "end": "2023-09-13T20:00:00+01:00",
+            "fully_booked": true,
+            "name": "Walking around Ermine Street, Spitalfields",
+            "notes": null,
+            "start": "2023-09-13T18:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11292",
+            "capacity": null,
+            "date": "2023-09-15",
+            "drop_in": false,
+            "end": "2023-09-15T17:00:00+01:00",
+            "fully_booked": true,
+            "name": "Walking around Ermine Street, Spitalfields",
+            "notes": null,
+            "start": "2023-09-15T15:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -42,10 +85,10 @@
     "id": 11292,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11292/building_11292_shoreditch_charles_watson_ac8b3207b4f1c91137274337ef35abaf.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11292/building_11292_shoreditch_charles_watson_4c5239a45ef727eebde618e00c17c65c.png",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11292_shoreditch_charles_watson_ac8b3207b4f1c91137274337ef35abaf.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11292_shoreditch_charles_watson_4c5239a45ef727eebde618e00c17c65c.png"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11292/building_11292_p4272133_1024_e5c19c2e7baf8cfd5e725bf202b1f307.jpg",
@@ -78,5 +121,5 @@
     },
     "name": "Walking around Ermine Street, Spitalfields",
     "original_url": "https://programme.openhouse.org.uk/listings/11292",
-    "ticketed_events": false
+    "ticketed_events": true
 }

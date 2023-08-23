@@ -16,7 +16,78 @@
             "education"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Find out more at Ravensbourne University open day where you can also take a tour of the state of the art A1 building.",
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12183",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Introduction to Laser Cutting",
+            "notes": null,
+            "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12183",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Introduction to RISO Printing",
+            "notes": null,
+            "start": "2023-09-16T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12183",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Design & decorate your own tile or coaster",
+            "notes": null,
+            "start": "2023-09-16T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12183",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Design & decorate your own tile or coaster",
+            "notes": null,
+            "start": "2023-09-16T15:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Gender neutral toilets",
@@ -65,7 +136,7 @@
             "Bus: 486, 472, 422, 188, 180, 161, 132, 129, 108"
         ]
     },
-    "name": "The Institute of Creativity & Technology: Building A1",
+    "name": "A1 The Institute of Creativity & Technology: Design District",
     "original_url": "https://programme.openhouse.org.uk/listings/12183",
-    "ticketed_events": false
+    "ticketed_events": true
 }

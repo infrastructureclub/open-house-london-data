@@ -8,7 +8,64 @@
             ""
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11672",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "TYRANTS, COLONIALISM AND SLAVERY GUIDED WALKING TOUR",
+            "notes": null,
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11672",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T15:00:00+01:00",
+            "fully_booked": true,
+            "name": "TYRANTS, COLONIALISM AND SLAVERY GUIDED WALKING TOUR",
+            "notes": null,
+            "start": "2023-09-09T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11672",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "TYRANTS, COLONIALISM AND SLAVERY GUIDED WALKING TOUR",
+            "notes": null,
+            "start": "2023-09-10T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11672",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T15:00:00+01:00",
+            "fully_booked": true,
+            "name": "TYRANTS, COLONIALISM AND SLAVERY GUIDED WALKING TOUR",
+            "notes": null,
+            "start": "2023-09-10T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Step free access",
@@ -37,10 +94,10 @@
     "id": 11672,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11672/building_11672_james-ii-slaver_4c17a20634e32dbaf245f5819395d7f7.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11672/building_11672_james-ii-slaver_bfec20ec75018e5ce100b0f387a3c6be.jpg",
             "description": null,
             "title": "Tyrants, Colonialism and Slavery walking tour",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11672_james-ii-slaver_4c17a20634e32dbaf245f5819395d7f7.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11672_james-ii-slaver_bfec20ec75018e5ce100b0f387a3c6be.jpg"
         }
     ],
     "links": [],
@@ -56,5 +113,5 @@
     },
     "name": "Tyrants, Colonialism and Slavery walking tour",
     "original_url": "https://programme.openhouse.org.uk/listings/11672",
-    "ticketed_events": false
+    "ticketed_events": true
 }

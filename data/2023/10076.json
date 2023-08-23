@@ -11,7 +11,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10076",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T15:00:00+01:00",
+            "fully_booked": true,
+            "name": "Tour of Walters Way and community building",
+            "notes": null,
+            "start": "2023-09-16T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets"
     ],
@@ -52,10 +67,10 @@
     "id": 10076,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10076/building_10076_tour_ww_10_b47d5c4d08af900c2eee9043e830a55d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10076/building_10076_tour_ww_10_7db84762ca7d8133363faa56833cf9b8.jpg",
             "description": null,
             "title": "House in Walters Way",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10076_tour_ww_10_b47d5c4d08af900c2eee9043e830a55d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10076_tour_ww_10_7db84762ca7d8133363faa56833cf9b8.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10076/building_10076_tour_afril_shelter2_afff7ab77147e36e1886b0a539824e37.jpg",
@@ -86,5 +101,5 @@
     },
     "name": "Walter Segal buildings tour",
     "original_url": "https://programme.openhouse.org.uk/listings/10076",
-    "ticketed_events": false
+    "ticketed_events": true
 }

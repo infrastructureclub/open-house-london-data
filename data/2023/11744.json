@@ -20,14 +20,29 @@
             }
         ],
         "periods": [
-            " London Borough of Hammersmith and Fulham",
-            " Noel and Alina Moffett and Darbourne and Darke"
+            "London Borough of Hammersmith and Fulham",
+            "Noel and Alina Moffett and Darbourne and Darke"
         ],
         "types": [
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11744",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "Contrasting social housing solutions in White City",
+            "notes": null,
+            "start": "2023-09-09T10:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Step free access"
@@ -45,15 +60,21 @@
             ]
         },
         {
-            "heading": "Your guide",
+            "heading": "About your tour guide",
             "paragraphs": [
-                "Joanna Oyediran is a qualified Open City guide.  She regularly leads walks round White City for Open City.  She is the founder of Iya London, which unearths and shares London’s overlooked stories, past and present."
+                "Joanna Oyediran is a qualified Open City guide.  She regularly leads walks round White City for Open City as part of their year-round tours programme.  She is the founder of Iya London, which unearths and shares London’s overlooked stories, past and present."
             ]
         },
         {
             "heading": "Meeting point",
             "paragraphs": [
                 "We will meet outside East Acton tube station on Erconwald Street."
+            ]
+        },
+        {
+            "heading": "Golden Key Academy",
+            "paragraphs": [
+                "This tour is led by an alumnus of Open City’s Golden Key Academy – a course training up insightful and engaging guides dedicated to explaining London and bringing its many stories to life.\nFurther info on the Golden Key Academy can be found here https://open-city.org.uk/golden-key-academy"
             ]
         }
     ],
@@ -96,7 +117,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11744_img_1376_4bb2dfbab1036b7f29b33bf63e1586bd.jpeg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://open-city.org.uk/golden-key-academy",
+            "title": null
+        }
+    ],
     "location": {
         "address": "East Acton Tube Station,, Erconwald Street",
         "latitude": 51.51661,
@@ -108,5 +134,5 @@
     },
     "name": "From Old Oak to White City",
     "original_url": "https://programme.openhouse.org.uk/listings/11744",
-    "ticketed_events": false
+    "ticketed_events": true
 }

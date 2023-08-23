@@ -16,7 +16,92 @@
             "offices"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10574",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T10:45:00+01:00",
+            "fully_booked": true,
+            "name": "Architect guided tour",
+            "notes": null,
+            "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10574",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:45:00+01:00",
+            "fully_booked": true,
+            "name": "Architect guided tour",
+            "notes": null,
+            "start": "2023-09-16T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10574",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T14:45:00+01:00",
+            "fully_booked": true,
+            "name": "Architect guided tour",
+            "notes": null,
+            "start": "2023-09-16T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10574",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T10:45:00+01:00",
+            "fully_booked": true,
+            "name": "Architect guided tour",
+            "notes": null,
+            "start": "2023-09-17T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10574",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T12:00:00+01:00",
+            "fully_booked": true,
+            "name": "Architect guided tour",
+            "notes": null,
+            "start": "2023-09-17T11:15:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10574",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "Architect guided tour",
+            "notes": null,
+            "start": "2023-09-17T12:15:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Step free access",
         "Gender neutral toilets",
@@ -58,10 +143,10 @@
     "id": 10574,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10574/building_10574_hts-chart-edmund-sumner-0015_a613d795a1eecf80bc96a69155888f93.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10574/building_10574_hts-chart-edmund-sumner-0015_9491996f267585462656030f46925b5c.jpg",
             "description": null,
             "title": "Third Floor Event Space ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10574_hts-chart-edmund-sumner-0015_a613d795a1eecf80bc96a69155888f93.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10574_hts-chart-edmund-sumner-0015_9491996f267585462656030f46925b5c.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10574/building_10574_hts-chart-edmund-sumner-0014_fc71c148aee48acc454d40d46c95556d.jpg",
@@ -101,5 +186,5 @@
     },
     "name": "Chart Street Studios",
     "original_url": "https://programme.openhouse.org.uk/listings/10574",
-    "ticketed_events": false
+    "ticketed_events": true
 }

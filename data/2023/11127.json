@@ -17,7 +17,64 @@
             "architectural practice"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11127",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T11:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour",
+            "notes": null,
+            "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11127",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour",
+            "notes": null,
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11127",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour",
+            "notes": null,
+            "start": "2023-09-16T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11127",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T14:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour",
+            "notes": null,
+            "start": "2023-09-16T13:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Refreshments",
@@ -53,10 +110,10 @@
     "id": 11127,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11127/building_11127_77-parkway_sheppard-robson_1_06e9365addf0a75f53b622d4002f9476.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11127/building_11127_77-parkway_sheppard-robson_1_f2eb4fc80bde2ee25b4e9588619f180e.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11127_77-parkway_sheppard-robson_1_06e9365addf0a75f53b622d4002f9476.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11127_77-parkway_sheppard-robson_1_f2eb4fc80bde2ee25b4e9588619f180e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11127/building_11127_77-parkway_sheppard-robson_2_008bde41b4b48f1df02919a509ca8a07.jpg",
@@ -127,5 +184,5 @@
     },
     "name": "Sheppard Robson 77 Parkway",
     "original_url": "https://programme.openhouse.org.uk/listings/11127",
-    "ticketed_events": false
+    "ticketed_events": true
 }

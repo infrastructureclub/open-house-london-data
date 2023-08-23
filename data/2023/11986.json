@@ -11,7 +11,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11986",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T13:30:00+01:00",
+            "fully_booked": true,
+            "name": "Connected Capital: London's Communication Architecture",
+            "notes": null,
+            "start": "2023-09-17T11:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -55,5 +70,5 @@
     },
     "name": "Connected capital:  London's communication architecture",
     "original_url": "https://programme.openhouse.org.uk/listings/11986",
-    "ticketed_events": false
+    "ticketed_events": true
 }

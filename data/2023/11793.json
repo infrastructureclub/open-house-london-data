@@ -16,7 +16,36 @@
             "housing"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": true,
+            "end": "2023-09-17T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-17T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Refreshments",
@@ -37,10 +66,10 @@
     "id": 11793,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11793/building_11793_56-cottage-green-web-res-4_e1eb9fc078e2a21220105c55595b1bb5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11793/building_11793_56-cottage-green-web-res-4_be74e6af7621f17d51d3d0c736d7e365.jpg",
             "description": null,
             "title": "Photography by Nick Dearden",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11793_56-cottage-green-web-res-4_e1eb9fc078e2a21220105c55595b1bb5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11793_56-cottage-green-web-res-4_be74e6af7621f17d51d3d0c736d7e365.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11793/building_11793_56-cottage-green-web-res-25_1a2ec2cd579829b4c85597861e39029f.jpg",
@@ -91,7 +120,7 @@
             "Bus: 343, 314"
         ]
     },
-    "name": "Lloyd Eist House (DPA2023)",
+    "name": "Lloyd Eist House",
     "original_url": "https://programme.openhouse.org.uk/listings/11793",
     "ticketed_events": false
 }

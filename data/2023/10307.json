@@ -21,7 +21,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10307",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T13:00:00+01:00",
+            "fully_booked": true,
+            "name": "The Making of Pimlico",
+            "notes": null,
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Step free access"
     ],
@@ -43,10 +58,10 @@
     "id": 10307,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10307/building_10307_pimlico-22_b4969e416ec94a75dabd03853020290b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10307/building_10307_pimlico-22_1ace68891076f3945b49a20595f00443.jpg",
             "description": null,
             "title": "A Pimlico Square",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10307_pimlico-22_b4969e416ec94a75dabd03853020290b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10307_pimlico-22_1ace68891076f3945b49a20595f00443.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10307/building_10307_dsc_0743_05b6ec3fe1ab325efe087dbf3df49106.jpg",
@@ -128,5 +143,5 @@
     },
     "name": "The Making of Pimlico",
     "original_url": "https://programme.openhouse.org.uk/listings/10307",
-    "ticketed_events": false
+    "ticketed_events": true
 }

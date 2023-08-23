@@ -10,7 +10,22 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11980",
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": false,
+            "end": "2023-09-17T12:30:00+01:00",
+            "fully_booked": true,
+            "name": "Radical Women of Bow and Bethnal Green",
+            "notes": null,
+            "start": "2023-09-17T10:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -53,5 +68,5 @@
     },
     "name": "Radical women of Bow and Bethnal Green",
     "original_url": "https://programme.openhouse.org.uk/listings/11980",
-    "ticketed_events": false
+    "ticketed_events": true
 }

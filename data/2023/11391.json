@@ -20,15 +20,72 @@
             }
         ],
         "periods": [
-            " Charles Barry",
-            " Jr.",
+            "Charles Barry",
+            "Jr.",
             "Victorian"
         ],
         "types": [
             "hotel"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11391",
+            "capacity": null,
+            "date": "2023-09-13",
+            "drop_in": false,
+            "end": "2023-09-13T15:30:00+01:00",
+            "fully_booked": true,
+            "name": "Tour of Andaz London and discovering it's History.",
+            "notes": null,
+            "start": "2023-09-13T14:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11391",
+            "capacity": null,
+            "date": "2023-09-13",
+            "drop_in": false,
+            "end": "2023-09-13T17:30:00+01:00",
+            "fully_booked": true,
+            "name": "Tour of Andaz London and discovering it's History.",
+            "notes": null,
+            "start": "2023-09-13T16:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11391",
+            "capacity": null,
+            "date": "2023-09-15",
+            "drop_in": false,
+            "end": "2023-09-15T15:30:00+01:00",
+            "fully_booked": true,
+            "name": "Tour of Andaz London and  discovering it's History.",
+            "notes": null,
+            "start": "2023-09-15T14:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11391",
+            "capacity": null,
+            "date": "2023-09-15",
+            "drop_in": false,
+            "end": "2023-09-15T17:30:00+01:00",
+            "fully_booked": true,
+            "name": "Tour of Andaz London and  discovering it's History.",
+            "notes": null,
+            "start": "2023-09-15T16:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Food and drink",
         "Accessible toilet",
@@ -137,5 +194,5 @@
     },
     "name": "Andaz London Liverpool Street",
     "original_url": "https://programme.openhouse.org.uk/listings/11391",
-    "ticketed_events": false
+    "ticketed_events": true
 }
