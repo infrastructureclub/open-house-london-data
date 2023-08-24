@@ -220,7 +220,7 @@
 
   });
 
-  const buildDates = async (dateChooser) => {
+  const buildDates = async (dateEl) => {
     const resp = await fetch(`maps/${year}/dates.json`);
     const dates = await resp.json();
     const els = [];
@@ -244,7 +244,7 @@
 
       checked = "";
     }
-    dateChooser.insertAdjacentHTML('afterbegin', els.join(''));
+    dateEl.insertAdjacentHTML('afterbegin', els.join(''));
     document.body.classList.remove('not-ready');
   };
 
@@ -253,8 +253,10 @@
   });
 
   await domContentLoaded;
-  await buildDates(document.getElementById('date'));
+  const dateEl = document.getElementById('date');
+  await buildDates(dateEl);
   loadFilter();
+  dateEl.querySelector(':checked').scrollIntoView({ inline: 'center' });
   await updateListings();
 
 })();

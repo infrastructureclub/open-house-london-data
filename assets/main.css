@@ -67,9 +67,14 @@ fieldset {
     text-align: center;
   }
 
+  /* this should be the container for #date */
   fieldset:first-child {
     display: block;
     text-align: center;
+  }
+
+  fieldset:first-child .options {
+    width: 15em;
   }
 
   fieldset:not(:first-child) {
@@ -240,3 +245,16 @@ fieldset {
   display: none;
 }
 
+
+.scrollable {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollable::-webkit-scrollbar {
+  display: none;
+}
+
+.scroll-x {
+  overflow-x: scroll;
+  white-space: nowrap;
+}
