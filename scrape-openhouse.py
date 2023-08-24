@@ -24,6 +24,7 @@ else:
     print(
         "NOT using session cookie - this will not have accurate booking status data..."
     )
+    cookies = {"_open_house_session": "no_session"}
 
 year = 2023
 timezone = pytz.timezone("Europe/London")
