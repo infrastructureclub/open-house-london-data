@@ -1,5 +1,10 @@
 (async () => {
-  const year = '2023';
+  const hash = new URLSearchParams(document.location.hash.substr(1));
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const currentYear = today.getFullYear();
+  const hashYear = hash.get('year');
+  const year = (hashYear == null) ? currentYear : Number(hashYear);
 
   const domContentLoaded = new Promise((resolve, reject) => {
     if (document.readyState !== 'loading') resolve();
@@ -219,16 +224,17 @@
     const resp = await fetch(`maps/${year}/dates.json`);
     const dates = await resp.json();
     const els = [];
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
 
     var checked = " checked";
     for (const datestr of dates) {
-      if (datestr == 'all_week') continue;
+      if (datestr == 'all_week') {
+          els.push(`<input type="radio" name="date" value="all_week" id="date-all_week"><label for="date-all_week">Other</label>`);
+          continue;
+      }
 
       const date = new Date(datestr);
       date.setHours(0, 0, 0, 0);
-      if (date < today) continue;
+      if (hashYear === null && date < today) continue;
 
       const mm_dd = `${date.getDate()}/${date.getMonth() + 1}`;
       var day = date.toLocaleString('en-GB', {weekday: 'short'});
