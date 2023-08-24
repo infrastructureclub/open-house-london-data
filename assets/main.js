@@ -42,6 +42,8 @@
     const map = await mapReady;
     console.log(`Updating listings`);
     map.getSource('listings').setData(getListingsUrl());
+    map.getLayer('listings-markers').visibility = 'visible';
+    map.getLayer('listings-labels').visibility = 'visible';
 
     console.log(`Updating filters`);
     const filter = getListingsFilter();
@@ -178,6 +180,12 @@
     map.on('mouseenter', 'listings-markers', () => map.getCanvas().style.cursor = 'pointer');
     map.on('mouseleave', 'listings-markers', () => map.getCanvas().style.cursor = '');
 
+    map.on('error', (response) => {
+        console.log(`Error from map: ${response.error.message}`);
+        map.getLayer('listings-markers').visibility = 'none';
+        map.getLayer('listings-labels').visibility = 'none';
+    });
+
     map.on('load', async () => {
       console.log(`Adding markers`);
       /* We need the markers in order to add the layer */
@@ -234,7 +242,7 @@
 
       const date = new Date(datestr);
       date.setHours(0, 0, 0, 0);
-      if (hashYear === null && date < today) continue;
+      if (hashYear == null && date < today) continue;
 
       const mm_dd = `${date.getDate()}/${date.getMonth() + 1}`;
       var day = date.toLocaleString('en-GB', {weekday: 'short'});
