@@ -120,9 +120,11 @@ for building in buildings:
     address_nodes = root.xpath('//p[contains(@class, "address")]/text()')
     data["location"]["address"] = address_nodes[0].strip()
 
-    map_link = root.xpath('//a[@class="map-link"]')[0]
-    data["location"]["latitude"] = float(map_link.attrib["data-lat"])
-    data["location"]["longitude"] = float(map_link.attrib["data-lon"])
+    # The map link now only exists if you have JS on, there is no non-JS default /o\
+    lat_matches = re.search("const lat = (-?\d+\.\d+)", str(response.content))
+    data["location"]["latitude"] = float(lat_matches.group(1))
+    lon_matches = re.search("const lon = (-?\d+\.\d+)", str(response.content))
+    data["location"]["longitude"] = float(lon_matches.group(1))
 
     travel_and_facilities_prefix = (
         '//section[contains(@class, "oc-listing-details")]/div[2]'
