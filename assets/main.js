@@ -1,5 +1,5 @@
 (async () => {
-  const year = '2022';
+  const year = '2023';
 
   const domContentLoaded = new Promise((resolve, reject) => {
     if (document.readyState !== 'loading') resolve();
