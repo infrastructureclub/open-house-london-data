@@ -52,52 +52,30 @@ header {
 
 header form {
   padding: 0.3ex 0.5em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
 }
 
 fieldset {
   border: none;
-  display: inline-block;
-  vertical-align: middle;
-  white-space: nowrap;
   padding: 0;
+  display: flex;
+  align-items: center;
+}
+
+/* This will be the container for #date */
+fieldset:first-child {
+  min-width: 0;
+  flex: 1 1 20em;
+  width: calc(100vw - 3.5em);
+  max-width: max-content;
 }
 
 @media screen and (max-width: 40em) {
-  form {
-    text-align: center;
-  }
-
-  /* this should be the container for #date */
-  fieldset:first-child {
-    display: block;
-    text-align: center;
-  }
-
-  fieldset:first-child .options {
-    width: 15em;
-  }
-
-  fieldset:not(:first-child) {
-    padding-top: 0.5ex;
-    width: 9em;
-    display: inline-block;
-    text-align: center;
-  }
-
-  fieldset:not(:first-child) > label {
-    display: block;
-    white-space: inherit;
-    text-align: center;
-  }
-
-  fieldset:not(:first-child) .options {
-    padding-top: 0.2ex;
-  }
-
   .report-bug {
     display: none;
   }
-
 }
 
 .options {
@@ -106,7 +84,6 @@ fieldset {
   margin: 0.3ex 0.5em 0.3ex;
   font-size: 14pt;
   height: 4.8ex;
-  vertical-align: middle;
 }
 
 .options label {
@@ -256,5 +233,4 @@ fieldset {
 
 .scroll-x {
   overflow-x: scroll;
-  white-space: nowrap;
 }
