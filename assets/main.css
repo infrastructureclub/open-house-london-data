@@ -96,6 +96,11 @@ fieldset:first-child {
   align-items: center;
 }
 
+.options label.weekend {
+  color: #363;
+  background-color: #ddd;
+}
+
 .options label small {
   font-size: 60%;
 }
@@ -156,6 +161,32 @@ fieldset:first-child {
 .options:hover input + label:last-child {
   border-right-color: #242 !important;
 }
+
+
+.options .date-gap {
+  background-color: #fff;
+  border: 1px solid;
+  border-top-color: #ccc;
+  border-bottom-color: #ccc;
+  border-left: none;
+  border-right: none;
+  padding: 1px;
+  display: flex;
+}
+
+.options .date-gap:before {
+  border-right: 1px dashed #ccc;
+  margin-right: 1px;
+  content: " ";
+  display: block;
+}
+
+.options:hover .date-gap {
+  border-top-color: #242 !important;
+  border-bottom-color: #242 !important;
+}
+
+
 
 
 .mapboxgl-popup-content {

@@ -233,7 +233,7 @@
     const dates = await resp.json();
     const els = [];
 
-    var checked = " checked";
+    let lastDate;
     for (const datestr of dates) {
       if (datestr == 'all_week') {
           els.push(`<input type="radio" name="date" value="all_week" id="date-all_week"><label for="date-all_week">Other</label>`);
@@ -244,15 +244,21 @@
       date.setHours(0, 0, 0, 0);
       if (hashYear == null && date < today) continue;
 
+      if (lastDate && date - lastDate > 24 * 60 * 60 * 1000 * 1.5) {
+        els.push(`<div class="date-gap"></div>`);
+      }
+
       const mm_dd = `${date.getDate()}/${date.getMonth() + 1}`;
-      var day = date.toLocaleString('en-GB', {weekday: 'short'});
-      if (+date == +today) day = "Today";
+      const day = date.toLocaleString('en-GB', {weekday: 'short'});
+      const dayLabel = (date - today == 0) ? "Today" : day;
+      const weekdayClass = (day == 'Sat' || day == 'Sun') ? "weekend" : "weekday";
 
-      els.push(`<input type="radio" value="${datestr}" id="date-${datestr}" name="date"${checked}><label for="date-${datestr}">${mm_dd} <small>${day}</small></label>`);
+      els.push(`<input type="radio" value="${datestr}" id="date-${datestr}" name="date"><label for="date-${datestr}" class="${weekdayClass}">${mm_dd} <small>${dayLabel}</small></label>`);
 
-      checked = "";
+      lastDate = date;
     }
     dateEl.insertAdjacentHTML('afterbegin', els.join(''));
+    document.forms.filter.date.value = document.forms.filter.date[0].value;
     document.body.classList.remove('not-ready');
   };
 
