@@ -312,10 +312,18 @@
 
     scrollable.style.cursor = 'grabbing';
     scrollable.addEventListener('pointermove', scrollMove);
-    scrollable.addEventListener('lostpointercapture', (e) => {
+    const scrollEnd = () => {
       scrollable.style.cursor = 'auto';
       scrollable.removeEventListener('pointermove', scrollMove);
-    });
+    };
+    scrollable.addEventListener('lostpointercapture', scrollEnd);
+    const redispatch = (e) => {
+      if (!e.isTrusted) return;
+      const actualTarget = document.elementFromPoint(e.clientX, e.clientY);
+      if (actualTarget.closest('.scrollable') == scrollable) actualTarget.dispatchEvent(new e.constructor(e.type, e));
+    };
+    scrollable.addEventListener('click', redispatch);
+    scrollable.addEventListener('mousedown', redispatch);
     scrollable.setPointerCapture(pointerId);
   });
 
