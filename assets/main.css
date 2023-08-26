@@ -473,23 +473,17 @@ input[type="range"]#to_time::-moz-range-track {
 .connect-google {
   background-color: #488;
   font-size: 14pt;
+  font-family: inherit;
   color: #fff;
   border-radius: 15px;
-  height: 8ex;
-  width: 6em;
+  height: 4.8ex;
+  border-width: 1px;
+  width: 7em;
   margin: auto 0;
 }
 
-.connect-google.complete {
-  display: none;
+.connect-google img {
+  margin-bottom: 4px;
+  vertical-align: middle;
 }
-
-.google-state.pending::after {
-  content: "Pending";
-}
-
-.google-state.success::after {
-  content: "Saved";
-}
-
 

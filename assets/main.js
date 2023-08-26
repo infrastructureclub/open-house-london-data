@@ -363,7 +363,6 @@
     API_KEY = 'AIzaSyBJ6FV7dy5vHpxevMub_EXm2PPpg-OSD3M';
     SCOPES = 'https://www.googleapis.com/auth/drive.file';
     DISCOVERY_DOC = 'https://sheets.googleapis.com/$discovery/rest?version=v4';
-    CALLBACK_URL = '/callback.html';
 
     async loadGoogle() {
       /*
