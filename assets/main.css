@@ -201,6 +201,12 @@ timerange {
 
 @media screen and (max-width: 40em) {
   timerange {
+    --track-width: 25em;
+  }
+}
+
+@media screen and (max-width: 35em) {
+  timerange {
     --track-width: 20em;
   }
 }
