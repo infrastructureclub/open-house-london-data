@@ -1,6 +1,7 @@
 html {
   overflow-y: scroll;
   height: 100%;
+  user-select: none;
 }
 
 body {
