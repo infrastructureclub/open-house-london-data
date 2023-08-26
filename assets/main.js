@@ -293,43 +293,46 @@
   };
 
 
-  const scrollable = document.querySelector('.scrollable.scroll-x');
+  const addScrollableHandlers = () => {
+    const scrollable = document.querySelector('.scrollable.scroll-x');
 
-  scrollable.addEventListener('pointerdown', (e) => {
-    if (e.pointerType != 'mouse') return;
+    scrollable.addEventListener('pointerdown', (e) => {
+      if (e.pointerType != 'mouse') return;
 
-    startX = e.pageX - scrollable.offsetLeft;
-    scrollLeft = scrollable.scrollLeft;
-    pointerId = e.pointerId;
+      startX = e.pageX - scrollable.offsetLeft;
+      scrollLeft = scrollable.scrollLeft;
+      pointerId = e.pointerId;
 
-    const scrollMove = (e) => {
-      if (e.pointerId != pointerId) return;
-      e.preventDefault();
-      const x = e.pageX - scrollable.offsetLeft;
-      const walkX = (x - startX) * 1;
-      scrollable.scrollLeft = scrollLeft - walkX;
-    };
+      const scrollMove = (e) => {
+        if (e.pointerId != pointerId) return;
+        e.preventDefault();
+        const x = e.pageX - scrollable.offsetLeft;
+        const walkX = (x - startX) * 1;
+        scrollable.scrollLeft = scrollLeft - walkX;
+      };
 
-    scrollable.style.cursor = 'grabbing';
-    scrollable.addEventListener('pointermove', scrollMove);
-    const scrollEnd = () => {
-      scrollable.style.cursor = 'auto';
-      scrollable.removeEventListener('pointermove', scrollMove);
-    };
-    scrollable.addEventListener('lostpointercapture', scrollEnd);
-    const redispatch = (e) => {
-      if (!e.isTrusted) return;
-      const actualTarget = document.elementFromPoint(e.clientX, e.clientY);
-      if (actualTarget.closest('.scrollable') == scrollable) actualTarget.dispatchEvent(new e.constructor(e.type, e));
-    };
-    scrollable.addEventListener('click', redispatch);
-    scrollable.addEventListener('mousedown', redispatch);
-    scrollable.setPointerCapture(pointerId);
-  });
+      scrollable.style.cursor = 'grabbing';
+      scrollable.addEventListener('pointermove', scrollMove);
+      const scrollEnd = () => {
+        scrollable.style.cursor = 'auto';
+        scrollable.removeEventListener('pointermove', scrollMove);
+      };
+      scrollable.addEventListener('lostpointercapture', scrollEnd);
+      const redispatch = (e) => {
+        if (!e.isTrusted) return;
+        const actualTarget = document.elementFromPoint(e.clientX, e.clientY);
+        if (actualTarget.closest('.scrollable') == scrollable) actualTarget.dispatchEvent(new e.constructor(e.type, e));
+      };
+      scrollable.addEventListener('click', redispatch);
+      scrollable.addEventListener('mousedown', redispatch);
+      scrollable.setPointerCapture(pointerId);
+    });
+  };
 
   await domContentLoaded;
 
   addTimeRangeHandlers();
+  addScrollableHandlers();
   document.forms.filter.addEventListener('click', (e) => {
     if (e.target.closest('input')) updateListings();
   });
