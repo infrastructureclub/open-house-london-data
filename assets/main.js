@@ -495,7 +495,7 @@
 
   const saveFavourites = () => {
     localStorage.setItem('infraclub-favourites', JSON.stringify(favourites));
-    if (window?.gapi?.client?.getToken() === null) return;
+    if (window?.gapi?.client?.getToken() == null) return;
     document.querySelector('.connect-google').innerText = 'Saving';
     gc.saveData();
   };
