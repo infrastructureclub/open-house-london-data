@@ -288,8 +288,8 @@
       if (a.valueAsNumber > 24 - b.valueAsNumber) a.valueAsNumber = 24 - b.valueAsNumber;
       updateTimeFilter();
     }
-    fromTimeEl.addEventListener('input', () => checkTimeRange(fromTimeEl, toTimeEl));
-    toTimeEl.addEventListener('input', () => checkTimeRange(toTimeEl, fromTimeEl));
+    fromTimeEl.addEventListener('change', () => checkTimeRange(fromTimeEl, toTimeEl));
+    toTimeEl.addEventListener('change', () => checkTimeRange(toTimeEl, fromTimeEl));
   };
 
 
