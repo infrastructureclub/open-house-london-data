@@ -219,13 +219,28 @@ input[type="range"] {
   overflow: hidden;
   pointer-events: none;
 }
+/* Chrome gets upset if you combine these */
 input[type="range"]::-webkit-slider-runnable-track {
+  height: 30px;
+  overflow: hidden;
+}
+input[type="range"]::-moz-range-track {
   height: 30px;
   overflow: hidden;
 }
 input[type="range"]::-webkit-slider-thumb {
   width: var(--slider-width);
-  -webkit-appearance: none;
+  appearance: none;
+  height: 100%;
+  cursor: ew-resize;
+  background: #488;
+  border: 1px solid #688;
+  pointer-events: all;
+  position: relative;
+}
+input[type="range"]::-moz-range-thumb {
+  width: var(--slider-width);
+  appearance: none;
   height: 100%;
   cursor: ew-resize;
   background: #488;
@@ -234,10 +249,16 @@ input[type="range"]::-webkit-slider-thumb {
   position: relative;
 }
 
+input[type="range"]:focus::-moz-range-thumb {
+  background: #6aa;
+}
 input[type="range"]:focus::-webkit-slider-thumb {
   background: #6aa;
 }
 
+timerange:hover input[type="range"]::-moz-range-thumb {
+  border-color: #242;
+}
 timerange:hover input[type="range"]::-webkit-slider-thumb {
   border-color: #242;
 }
@@ -249,9 +270,20 @@ input[type="range"]#from_time::-webkit-slider-thumb {
   border-radius: 0 0 0 50%;
   box-shadow: calc(var(--track-width) / -2) 0 0 calc(var(--track-width) / 2) rgba(0, 82, 81, 0.7);
 }
+input[type="range"]#from_time::-moz-range-thumb {
+  border-radius: 0 0 0 50%;
+  box-shadow: calc(var(--track-width) / -2) 0 0 calc(var(--track-width) / 2) rgba(0, 82, 81, 0.7);
+}
 /* The one at the back provides the widget.
    It might be better to push this to another div overlaid in the container */
 input[type="range"]#from_time::-webkit-slider-runnable-track {
+  background: radial-gradient(circle at 4px 15px, #d8e8e6 0px, #d8e8e6 4px, transparent 4px),
+  radial-gradient(circle at calc(100% - 4px) 15px, #d8e8e6 0px, #d8e8e6 4px, transparent 4px),
+  linear-gradient(90deg, rgb(0, 82, 81) 6px, transparent 6px),
+  linear-gradient(270deg, rgb(0, 82, 81) 6px, transparent 6px),
+  linear-gradient(180deg, transparent 11px, #fff 11px, #d8e8e6 12px, #d8e8e6 18px, #fff 19px, transparent 19px);
+}
+input[type="range"]#from_time::-moz-range-track {
   background: radial-gradient(circle at 4px 15px, #d8e8e6 0px, #d8e8e6 4px, transparent 4px),
   radial-gradient(circle at calc(100% - 4px) 15px, #d8e8e6 0px, #d8e8e6 4px, transparent 4px),
   linear-gradient(90deg, rgb(0, 82, 81) 6px, transparent 6px),
@@ -266,7 +298,14 @@ input[type="range"]#to_time::-webkit-slider-thumb {
   border-radius: 0 0 50% 0;
   box-shadow: calc(var(--track-width) / 2) 0 0 calc(var(--track-width) / 2) rgba(0, 82, 81, 0.7);
 }
+input[type="range"]#to_time::-moz-range-thumb {
+  border-radius: 0 0 50% 0;
+  box-shadow: calc(var(--track-width) / 2) 0 0 calc(var(--track-width) / 2) rgba(0, 82, 81, 0.7);
+}
 input[type="range"]#to_time::-webkit-slider-runnable-track {
+  background-color: transparent;
+}
+input[type="range"]#to_time::-moz-range-track {
   background-color: transparent;
 }
 
