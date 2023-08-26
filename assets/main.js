@@ -87,8 +87,9 @@
   };
 
 
-  const buildPopupHtml = (feature) => {
+  const buildPopupContent = (feature) => {
     const { name, description, url, fully_booked, ticketed_events, start, end } = feature.properties;
+    const id = Number(url.split(/\//).pop());
     const ticket_class = ticketed_events == 'Yes' ? 'ticketed' : '';
     const data = [
       `<dt>Ticketed</dt><dd class="${ticket_class}">${ticketed_events}</dd>`
@@ -109,22 +110,48 @@
     const gmapsParams = new URLSearchParams({'api': 1, 'destination': latlng});
     const gmapsUrl = `https://www.google.com/maps/dir/?${gmapsParams}`;
     const cmParams = new URLSearchParams({'endcoord': latlng, 'endname': name});
+    const date = document.forms.filter.date.value;
+    const faveData = favourites[id]?.[date];
+    const bookmarked = faveData?.state == 'bookmarked';
     const cmUrl = `https://citymapper.com/directions?${cmParams}`;
-    return `
-      <a href="${url}" target="_blank">${name}</a>
-      <p>${description}</p>
-      <p>
-        <a class="gmaps-link" href="${gmapsUrl}" target="_blank">
-          <img src="assets/googlemaps-icon-167px.png"/>
-        </a>
-        <a class="cm-link" href="${cmUrl}" target="_blank">
-          <img src="assets/citymapper-logo-220px.png"/>
-        </a>
-      </p>
-      <dl>${data.join('\n')}</dl>
+    const div = document.createElement('div');
+    div.innerHTML = `
+      <header>
+        <label><input type="checkbox" class="bookmark"${bookmarked ? ' checked' : ''}/>Bookmark</label>
+      </header>
+      <section>
+        <a class="ohl-link" target="_blank"></a>
+        <p class="description"></p>
+        <p>
+          <a class="gmaps-link" href="${gmapsUrl}" target="_blank">
+            <img src="assets/googlemaps-icon-167px.png"/>
+          </a>
+          <a class="cm-link" href="${cmUrl}" target="_blank">
+            <img src="assets/citymapper-logo-220px.png"/>
+          </a>
+        </p>
+        <dl>${data.join('\n')}</dl>
+      </section>
     `;
+    div.querySelector('a.ohl-link').href = url;
+    div.querySelector('a.ohl-link').innerText = name;
+    div.querySelector('.description').innerText = description;
+    const bookmarkEl = div.querySelector('input')
+    bookmarkEl.addEventListener('change', updateBookmark);
+    bookmarkEl.dataset.name = name;
+    bookmarkEl.dataset.url = url;
+    return div;
   };
 
+  const updateBookmark = (e) => {
+    const name = e.target.dataset.name;
+    const url = e.target.dataset.url;
+    const id = Number(url.split(/\//).pop());
+    const date = document.forms.filter.date.value;
+    const state = e.target.checked ? 'bookmarked' : '';
+    setFavourite(id, name, date, state);
+    saveFavourites();
+  }
 
   const fetchMarkers = () => {
     const markers = {
@@ -175,7 +202,7 @@
 
       const feature = e.features[0];
       const coordinates = [...feature.geometry.coordinates];
-      const html = buildPopupHtml(feature);
+      const content = buildPopupContent(feature);
 
       // Find the right marker if the map is zoomed out enough to wrap
       while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
@@ -184,7 +211,7 @@
 
       lastPopup = new mapboxgl.Popup()
         .setLngLat(coordinates)
-        .setHTML(html)
+        .setDOMContent(content)
         .addTo(map);
     };
 
@@ -331,7 +358,165 @@
     });
   };
 
+  class GoogleClient {
+    CLIENT_ID = '136294280370-vkc203h8fv0ojaee9j4n1fqfick1pirg.apps.googleusercontent.com';
+    API_KEY = 'AIzaSyBJ6FV7dy5vHpxevMub_EXm2PPpg-OSD3M';
+    SCOPES = 'https://www.googleapis.com/auth/drive.file';
+    DISCOVERY_DOC = 'https://sheets.googleapis.com/$discovery/rest?version=v4';
+    CALLBACK_URL = '/callback.html';
+
+    async loadGoogle() {
+      /*
+        Sheets doesn't seem to support these:
+        https://www.googleapis.com/auth/drive.appdata
+        https://www.googleapis.com/auth/drive.appfolder
+        https://www.googleapis.com/auth/drive.resource
+       */
+
+      const loadScript = (src) => {
+        return new Promise((res, rej) => {
+          const s = document.createElement('script');
+          s.setAttribute('src', src);
+          s.addEventListener('load', res);
+          s.addEventListener('error', rej);
+          document.body.appendChild(s);
+        });
+      };
+      const loadApi = (api) => {
+        return new Promise((res, rej) => {
+          gapi.load(api, {callback: res, onerror: rej});
+        });
+      };
+      const loadGapi = async () => {
+        await loadScript('https://apis.google.com/js/api.js');
+        await Promise.all([loadApi('client'), loadApi('picker')]);
+        await gapi.client.init({
+          apiKey: this.API_KEY,
+          discoveryDocs: [this.DISCOVERY_DOC],
+        });
+      };
+      const loadGis = async () => {
+        await loadScript('https://accounts.google.com/gsi/client');
+        this.tokenClient = google.accounts.oauth2.initTokenClient({
+          client_id: this.CLIENT_ID,
+          scope: this.SCOPES,
+          // FIXME: make this a Promise too
+          callback: null,
+        });
+      };
+      await Promise.all([loadGapi(), loadGis()]);
+    };
+
+    authGoogle() {
+      return new Promise((res, rej) => {
+        const accessToken = localStorage.getItem('infraclub-google-access-token');
+        if (accessToken) gapi.client.setToken({access_token: accessToken});
+        this.tokenClient.callback = (resp) => {
+          if (resp.error !== undefined) rej(resp);
+          if (!resp.access_token) rej(resp);
+          localStorage.setItem('infraclub-google-access-token', resp.access_token);
+          res(resp.access_token);
+        };
+
+        const prompt = (gapi.client.getToken() === null) ? 'consent' : '';
+        this.tokenClient.requestAccessToken({prompt});
+      });
+    }
+
+    async getSpreadsheet() {
+      if (this.spreadsheetId) return this.spreadsheetId;
+
+      let spreadsheetId = localStorage.getItem('infraclub-spreadsheet-id');
+      if (spreadsheetId) {
+        try {
+          await gapi.client.sheets.spreadsheets.get({
+            spreadsheetId
+          });
+        } catch (err) {
+          if (err.status == 404) {
+            console.log(`Spreadsheet returned 404, recreating`);
+            spreadsheetId = null;
+          }
+        }
+      }
+      if (!spreadsheetId) {
+        // TODO: show picker
+        const title = 'Infrastructure Club Open House London 2023';
+        const resp = await gapi.client.sheets.spreadsheets.create({
+          properties: { title },
+          fields: 'spreadsheetId',
+        });
+        spreadsheetId = resp.result.spreadsheetId;
+        localStorage.setItem('infraclub-spreadsheet-id', spreadsheetId);
+      }
+      this.spreadsheetId = spreadsheetId;
+      return this.spreadsheetId;
+    };
+
+    async loadData() {
+      const spreadsheetId = await this.getSpreadsheet();
+      const resp = await gapi.client.sheets.spreadsheets.values.get({
+        spreadsheetId: spreadsheetId,
+        range: 'A:D',
+      });
+      if (!resp.result.values) return;
+      if (JSON.stringify(resp.result.values[0]) != '["id","name","date","state"]') {
+        throw "Headings do not match expected format";
+      }
+      for (const [id, name, date, state] of resp.result.values.slice(1)) {
+        setFavourite(id, name, date, state);
+      }
+    }
+
+    async saveData() {
+      const data = [];
+      for (const [id, dates] of Object.entries(favourites)) {
+        for (const [date, {name, state}] of Object.entries(dates)) {
+          data.push([id, name, date, state]);
+        }
+      }
+      // Sort by id, and then date
+      data.sort((a, b) => a[0] == b[0] ? b[2] - a[2] : b[0] - a[0]);
+      data.unshift(['id', 'name', 'date', 'state']);
+      const spreadsheetId = await this.getSpreadsheet();
+      const resp = await gapi.client.sheets.spreadsheets.values.update({
+        spreadsheetId: spreadsheetId,
+        range: 'A:D',
+        valueInputOption: 'RAW',
+        values: data,
+      });
+      document.querySelector('.connect-google').innerText = 'Saved';
+    }
+  }
+
+  const favourites = {};
+  const savedFavourites = localStorage.getItem('infraclub-favourites');
+  if (savedFavourites) Object.assign(favourites, JSON.parse(savedFavourites));
+  window.favourites = favourites;
+
+  const saveFavourites = () => {
+    localStorage.setItem('infraclub-favourites', JSON.stringify(favourites));
+    if (window?.gapi?.client?.getToken() === null) return;
+    document.querySelector('.connect-google').innerText = 'Saving';
+    gc.saveData();
+  };
+  const setFavourite = (id, name, date, state) => {
+    if (!favourites[id]) favourites[id] = {};
+    favourites[id][date] = {name, state};
+  };
+
+  const gc = new GoogleClient();
+  window.gc = gc;
+
   await domContentLoaded;
+
+  document.querySelector('.connect-google').addEventListener('click', async (e) => {
+    await gc.loadGoogle();
+    await gc.authGoogle();
+    await gc.loadData();
+    e.target.innerText = 'Loaded';
+    return false;
+  });
 
   addTimeRangeHandlers();
   addScrollableHandlers();

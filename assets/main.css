@@ -16,42 +16,42 @@ body {
 }
 
 
-footer {
+body > footer {
   z-index: 1;
   font-size: 10pt;
   padding: 0 1ex;
   text-align: right;
 }
 
-footer a, .mapboxgl-popup-content a {
+body > footer a, .mapboxgl-popup-content a {
   text-decoration: underline;
   font-weight: bold;
   color: inherit;
 }
 
-footer a:hover {
+body > footer a:hover {
   color: #fff;
 }
 
-footer ul {
+body > footer ul {
   margin: 0;
   padding: 0;
 }
 
-footer ul li {
+body > footer ul li {
   display: inline;
 }
-footer ul li:not(:first-child)::before {
+body > footer ul li:not(:first-child)::before {
   content: "| ";
 }
 
 
-header {
+body > header {
   z-index: 1;
   box-shadow: 0 0 0.4ex #000;
 }
 
-header form {
+body > header form {
   padding: 0.3ex 0.5em;
   display: flex;
   flex-wrap: wrap;
@@ -356,6 +356,7 @@ input[type="range"]#to_time::-moz-range-track {
 .mapboxgl-popup-content {
   color: rgb(0, 82, 81);
   font-size: 12pt;
+  padding: 0 !important;
 }
 
 .mapboxgl-popup-content dl {
@@ -391,8 +392,47 @@ input[type="range"]#to_time::-moz-range-track {
 }
 
 .mapboxgl-popup-content a,
-.mapboxgl-popup-content button {
+.mapboxgl-popup-content button,
+.mapboxgl-popup-content input,
+.mapboxgl-popup-content label {
   pointer-events: auto !important;
+}
+
+.mapboxgl-popup-content header {
+  background-color: #d8e8e6;
+  margin-bottom: 1ex;
+  height: 45px;
+}
+
+.mapboxgl-popup-content .mapboxgl-popup-close-button {
+  font-size: 150%;
+}
+
+.mapboxgl-popup-content section {
+  margin: 5px;
+}
+
+.mapboxgl-popup-content input.bookmark {
+  width: 4ex;
+  height: 6ex;
+  appearance: none;
+  background-image: url(bookmark-icon.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+  cursor: pointer;
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+.mapboxgl-popup-content label {
+  cursor: pointer;
+  display: block;
+  margin-right: 20px;
+}
+
+.mapboxgl-popup-content input.bookmark:checked {
+  background-image: url(bookmark-icon-selected.svg);
 }
 
 .mapboxgl-popup-content a {
@@ -429,3 +469,27 @@ input[type="range"]#to_time::-moz-range-track {
 .scroll-x {
   overflow-x: scroll;
 }
+
+.connect-google {
+  background-color: #488;
+  font-size: 14pt;
+  color: #fff;
+  border-radius: 15px;
+  height: 8ex;
+  width: 6em;
+  margin: auto 0;
+}
+
+.connect-google.complete {
+  display: none;
+}
+
+.google-state.pending::after {
+  content: "Pending";
+}
+
+.google-state.success::after {
+  content: "Saved";
+}
+
+
