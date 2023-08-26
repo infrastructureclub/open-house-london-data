@@ -1,4 +1,7 @@
 (async () => {
+  const formatTimePart = (n) => `${String(Math.floor(n)).padStart(2, '0')}`;
+  const formatTime = (t) => `${formatTimePart(t)}:${formatTimePart((t % 1) * 60)}`;
+
   const hash = new URLSearchParams(document.location.hash.substr(1));
   const today = new Date();
   today.setHours(0, 0, 0, 0);
@@ -35,6 +38,12 @@
        * see any ambiguous events anyway. */
       case 'no': filter.push(['in', ['get', 'fully_booked'], ['literal', ['No', 'Unknown', '']]]); break;
     }
+    if (document.forms.filter.from_time.valueAsNumber > 0) {
+      filter.push(['>', ['get', 'end'], ['literal', `${formatTime(document.forms.filter.from_time.valueAsNumber)}:00`]]);
+    }
+    if (document.forms.filter.to_time.valueAsNumber > 0) {
+      filter.push(['<', ['get', 'start'], ['literal', `${formatTime(24 - document.forms.filter.to_time.valueAsNumber)}:00`]]);
+    }
     return filter;
   };
 
@@ -57,7 +66,9 @@
     const date = document.forms.filter.date.value;
     const ticketed_events = document.forms.filter.ticketed_events.value;
     const fully_booked = document.forms.filter.fully_booked.value;
-    hash.set('filter', `${date}/${ticketed_events}/${fully_booked}`);
+    const from_time = document.forms.filter.from_time.valueAsNumber;
+    const to_time = 24 - document.forms.filter.to_time.valueAsNumber;
+    hash.set('filter', `${date}/${from_time}/${to_time}/${ticketed_events}/${fully_booked}`);
     document.location.hash = '#' + hash.toString().replaceAll('%2F', '/');
   };
 
@@ -65,11 +76,14 @@
     const hash = new URLSearchParams(document.location.hash.substr(1));
     const filter = hash.get('filter');
     if (!filter) return;
-    const [date, ticketed_events, fully_booked] = filter.split('/');
+    const [date, from_time, to_time, ticketed_events, fully_booked] = filter.split('/');
     /* These assignments will be ignored if the values are invalid */
     document.forms.filter.date.value = date;
+    document.forms.filter.from_time.valueAsNumber = from_time;
+    document.forms.filter.to_time.valueAsNumber = 24 - to_time;
     document.forms.filter.ticketed_events.value = ticketed_events;
     document.forms.filter.fully_booked.value = fully_booked;
+    updateTimeFilter();
   };
 
 
@@ -262,11 +276,29 @@
     document.body.classList.remove('not-ready');
   };
 
+  const fromTimeEl = document.querySelector('#from_time');
+  const toTimeEl = document.querySelector('#to_time');
+  const timeRangeEl = fromTimeEl.closest('timerange');
+  const timeTextEl = timeRangeEl.querySelector('.time-text');
+  const updateTimeFilter = () => {
+    timeTextEl.innerText = `${formatTime(fromTimeEl.valueAsNumber)}-${formatTime(24 - toTimeEl.valueAsNumber)}`;
+  };
+  const addTimeRangeHandlers = () => {
+    const checkTimeRange = (a, b) => {
+      if (a.valueAsNumber > 24 - b.valueAsNumber) a.valueAsNumber = 24 - b.valueAsNumber;
+      updateTimeFilter();
+    }
+    fromTimeEl.addEventListener('input', () => checkTimeRange(fromTimeEl, toTimeEl));
+    toTimeEl.addEventListener('input', () => checkTimeRange(toTimeEl, fromTimeEl));
+  };
+
+  await domContentLoaded;
+
+  addTimeRangeHandlers();
   document.forms.filter.addEventListener('click', (e) => {
     if (e.target.closest('input')) updateListings();
   });
 
-  await domContentLoaded;
   const dateEl = document.getElementById('date');
   await buildDates(dateEl);
   loadFilter();
