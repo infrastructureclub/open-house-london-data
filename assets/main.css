@@ -198,6 +198,12 @@ timerange {
   margin: 0.3ex 0.5em 0.3ex;
 }
 
+@media screen and (max-width: 40em) {
+  timerange {
+    --track-width: 20em;
+  }
+}
+
 timerange .time-text {
   grid-area: 1 / 1;
   text-align: center;
