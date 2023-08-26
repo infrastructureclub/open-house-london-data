@@ -292,6 +292,33 @@
     toTimeEl.addEventListener('input', () => checkTimeRange(toTimeEl, fromTimeEl));
   };
 
+
+  const scrollable = document.querySelector('.scrollable.scroll-x');
+
+  scrollable.addEventListener('pointerdown', (e) => {
+    if (e.pointerType != 'mouse') return;
+
+    startX = e.pageX - scrollable.offsetLeft;
+    scrollLeft = scrollable.scrollLeft;
+    pointerId = e.pointerId;
+
+    const scrollMove = (e) => {
+      if (e.pointerId != pointerId) return;
+      e.preventDefault();
+      const x = e.pageX - scrollable.offsetLeft;
+      const walkX = (x - startX) * 1;
+      scrollable.scrollLeft = scrollLeft - walkX;
+    };
+
+    scrollable.style.cursor = 'grabbing';
+    scrollable.addEventListener('pointermove', scrollMove);
+    scrollable.addEventListener('lostpointercapture', (e) => {
+      scrollable.style.cursor = 'auto';
+      scrollable.removeEventListener('pointermove', scrollMove);
+    });
+    scrollable.setPointerCapture(pointerId);
+  });
+
   await domContentLoaded;
 
   addTimeRangeHandlers();
