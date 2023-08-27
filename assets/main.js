@@ -90,6 +90,7 @@
 
   let currentListings;
   const updateListings = async () => {
+    lastPopup?.remove();
     const map = await mapReady;
     console.log(`Updating listings`);
     currentListings = await getListings();
@@ -214,6 +215,7 @@
   /* Set them downloading as early as possible */
   const markers = fetchMarkers();
 
+  let lastPopup = null;
   const mapReady = new Promise(async (resolve, reject) => {
     /* Ensure CSS has been loaded */
     await windowReady;
@@ -240,7 +242,6 @@
     }));
 
 
-    let lastPopup = null;
     const showPopup = (e) => {
       /* MapBox passes clicks through to all listening layers.
        * This now means you can't click between events easily. */
