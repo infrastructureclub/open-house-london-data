@@ -21,11 +21,49 @@
     window.addEventListener('load', resolve);
   });
 
-
-  const getListingsUrl = () => {
-    const date = document.forms.filter.date.value;
-    return `maps/${year}/geojson/${date}.geojson`;
+  const fetchDate = async (datestr) => {
+    const resp = await fetch(`maps/${year}/geojson/${datestr}.geojson`);
+    return await resp.json();
   };
+  const getListings = async () => {
+    const date = document.forms.filter.date.value;
+    if (date != 'all') return await fetchDate(date);
+
+    const listings = {
+        'features': [],
+        'type': 'FeatureCollection',
+    };
+    const jsons = await Promise.all(listingDates.map(d => fetchDate(d)));
+    const ids = {};
+    for (const json of jsons) {
+      for (const feature of json.features) {
+        const id = Number(feature.properties.url.split(/\//).pop());
+        if (id in ids) continue;
+        ids[id] = feature;
+        listings.features.push(feature);
+      }
+    }
+    return listings;
+  };
+
+  const updateProperties = (listings) => {
+    for (const feature of listings.features) {
+      feature.properties.state = '';
+      feature.properties.icon = 'marker-red';
+      const id = Number(feature.properties.url.split(/\//).pop());
+      const dates = favourites[id];
+      if (!dates) continue;
+      const anyBookmarked = Object.values(dates).some(f => f.state == 'bookmarked');
+      const currentBookmarked = dates?.[document.forms.filter.date.value]?.state;
+      if (currentBookmarked == 'bookmarked' || (document.forms.filter.date.value == 'all' && anyBookmarked)) {
+        feature.properties.state = 'bookmarked';
+        feature.properties.icon = 'marker-green';
+      } else if (anyBookmarked) {
+        feature.properties.state = 'bookmarked-elsewhere';
+        feature.properties.icon = 'marker-yellow';
+      }
+    }
+  }
 
   const getListingsFilter = () => {
     const filter = ['all', ['literal', true]];
@@ -43,16 +81,20 @@
     if (document.forms.filter.from_time.valueAsNumber > 0) {
       filter.push(['>', ['get', 'end'], ['literal', `${formatTime(document.forms.filter.from_time.valueAsNumber)}:00`]]);
     }
-    if (document.forms.filter.to_time.valueAsNumber > 0) {
-      filter.push(['<', ['get', 'start'], ['literal', `${formatTime(24 - document.forms.filter.to_time.valueAsNumber)}:00`]]);
+    switch (document.forms.filter.bookmarked.value) {
+      case 'yes': filter.push(['in', ['get', 'state'], ['literal', ['bookmarked']]]); break;
+      case 'no': filter.push(['in', ['get', 'state'], ['literal', ['']]]); break;
     }
     return filter;
   };
 
+  let currentListings;
   const updateListings = async () => {
     const map = await mapReady;
     console.log(`Updating listings`);
-    map.getSource('listings').setData(getListingsUrl());
+    currentListings = await getListings();
+    updateProperties(currentListings);
+    map.getSource('listings').setData(currentListings);
     map.getLayer('listings-markers').visibility = 'visible';
     map.getLayer('listings-labels').visibility = 'visible';
 
@@ -138,7 +180,7 @@
     div.querySelector('a.ohl-link').href = url;
     div.querySelector('a.ohl-link').innerText = name;
     div.querySelector('.description').innerText = description;
-    const bookmarkEl = div.querySelector('input')
+    const bookmarkEl = div.querySelector('input');
     bookmarkEl.addEventListener('change', updateBookmark);
     bookmarkEl.dataset.name = name;
     bookmarkEl.dataset.url = url;
@@ -157,7 +199,9 @@
 
   const fetchMarkers = () => {
     const markers = {
-      'marker': 'assets/mapbox-marker-icon-48px-red.png',
+      'marker-red': 'assets/mapbox-marker-icon-48px-red.png',
+      'marker-green': 'assets/mapbox-marker-icon-48px-green.png',
+      'marker-yellow': 'assets/mapbox-marker-icon-48px-yellow.png',
     };
     const promises = [];
     for (const [name, url] of Object.entries(markers)) {
@@ -227,6 +271,7 @@
         console.log(`Error from map: ${response.error.message}`);
         map.getLayer('listings-markers').visibility = 'none';
         map.getLayer('listings-labels').visibility = 'none';
+        throw response.error;
     });
 
     map.on('load', async () => {
@@ -238,13 +283,17 @@
 
       console.log(`Adding source and layers`);
       /* Apparently we can't create a source without data */
-      map.addSource('listings', { type: 'geojson', data: getListingsUrl() });
+      const emptyGeojson = {
+          'features': [],
+          'type': 'FeatureCollection',
+      };
+      map.addSource('listings', { type: 'geojson', data: emptyGeojson });
       map.addLayer({
         'id': 'listings-markers',
         'type': 'symbol',
         'source': 'listings',
         'layout': {
-          'icon-image': 'marker',
+          'icon-image': ['get', 'icon'],
           'icon-allow-overlap': true,
           'icon-ignore-placement': true,
         },
@@ -271,13 +320,14 @@
 
   });
 
+  let listingDates;
   const buildDates = async (dateEl) => {
     const resp = await fetch(`maps/${year}/dates.json`);
-    const dates = await resp.json();
+    listingDates = await resp.json();
     const els = [];
 
     let lastDate;
-    for (const datestr of dates) {
+    for (const datestr of listingDates) {
       if (datestr == 'all_week') {
           els.push(`<input type="radio" name="date" value="all_week" id="date-all_week"><label for="date-all_week">Other</label>`);
           continue;
@@ -390,7 +440,7 @@
     SCOPES = 'https://www.googleapis.com/auth/drive.file';
     DISCOVERY_DOC = 'https://sheets.googleapis.com/$discovery/rest?version=v4';
 
-    async loadGoogle() {
+    async initGoogle() {
       /*
         Sheets doesn't seem to support these:
         https://www.googleapis.com/auth/drive.appdata
@@ -434,8 +484,6 @@
 
     authGoogle() {
       return new Promise((res, rej) => {
-        const accessToken = localStorage.getItem('infraclub-google-access-token');
-        if (accessToken) gapi.client.setToken({access_token: accessToken});
         this.tokenClient.callback = (resp) => {
           if (resp.error !== undefined) rej(resp);
           if (!resp.access_token) rej(resp);
@@ -443,6 +491,7 @@
           res(resp.access_token);
         };
 
+        // If they've connected before we only need a click through
         const prompt = (gapi.client.getToken() === null) ? 'consent' : '';
         this.tokenClient.requestAccessToken({prompt});
       });
@@ -461,6 +510,9 @@
           if (err.status == 404) {
             console.log(`Spreadsheet returned 404, recreating`);
             spreadsheetId = null;
+          } else if (err.status == 403) {
+            // TODO: we could try reauthing here
+            console.log(`Spreadsheet returned 403, possibly session expired`);
           }
         }
       }
@@ -510,19 +562,23 @@
         valueInputOption: 'RAW',
         values: data,
       });
-      document.querySelector('.connect-google').innerText = 'Saved';
+      connectGoogle.innerText = 'Saved';
     }
   }
 
   const favourites = {};
+  window.favourites = favourites;
   const savedFavourites = localStorage.getItem('infraclub-favourites');
   if (savedFavourites) Object.assign(favourites, JSON.parse(savedFavourites));
-  window.favourites = favourites;
 
-  const saveFavourites = () => {
+  const saveFavourites = async () => {
     localStorage.setItem('infraclub-favourites', JSON.stringify(favourites));
+    const map = await mapReady;
+    updateProperties(currentListings);
+    map.getSource('listings').setData(currentListings);
+
     if (window?.gapi?.client?.getToken() == null) return;
-    document.querySelector('.connect-google').innerText = 'Saving';
+    connectGoogle.innerText = 'Saving';
     gc.saveData();
   };
   const setFavourite = (id, name, date, state) => {
@@ -531,17 +587,32 @@
   };
 
   const gc = new GoogleClient();
-  window.gc = gc;
 
   await domContentLoaded;
 
-  document.querySelector('.connect-google').addEventListener('click', async (e) => {
-    await gc.loadGoogle();
-    await gc.authGoogle();
+  const connectGoogle = document.querySelector('.connect-google');
+  const loadFromGoogle = async (e) => {
     await gc.loadData();
-    e.target.innerText = 'Loaded';
-    return false;
+    connectGoogle.innerText = 'Loaded';
+    connectGoogle.removeEventListener('click', loadFromGoogle);
+    connectGoogle.addEventListener('click', () => {
+      window.open(`https://docs.google.com/spreadsheets/d/${gc.spreadsheetId}/edit`, '_blank');
+    });
+  };
+  connectGoogle.addEventListener('click', async () => {
+    await gc.initGoogle();
+    await gc.authGoogle();
+    await loadFromGoogle();
   });
+
+  const tryLoadFromGoogle = async () => {
+    const accessToken = localStorage.getItem('infraclub-google-access-token');
+    if (!accessToken) return;
+    await gc.initGoogle();
+    gapi.client.setToken({access_token: accessToken});
+    await loadFromGoogle();
+  };
+  tryLoadFromGoogle();
 
   addTimeRangeHandlers();
   addScrollableHandlers();

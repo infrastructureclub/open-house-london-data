@@ -83,7 +83,17 @@
             </div>
           </timerange>
         </fieldset>
-        <button class="connect-google"><img width=20px height=20px src="assets/google-drive-icon-220px.png"/> Connect</button>
+
+        <fieldset>
+          <label for="bookmarked">Bookmarked</label>
+          <div class="options" id="bookmarked">
+            <input type="radio" name="bookmarked" value="yes" id="bookmarked-yes"><label for="bookmarked-yes">Yes</label>
+            <input type="radio" name="bookmarked" value="no" id="bookmarked-no"><label for="bookmarked-no">No</label>
+            <input type="radio" name="bookmarked" value="any" id="bookmarked-any" checked><label for="bookmarked-any">Any</label>
+          </div>
+        </fieldset>
+
+        <button type="button" class="connect-google"><img width=20px height=20px src="assets/google-drive-icon-220px.png"/> Connect</button>
       </form>
     </header>
     <main id="map"></main>
