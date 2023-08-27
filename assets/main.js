@@ -308,9 +308,27 @@
   const timeRangeEl = fromTimeEl.closest('timerange');
   const timeTextEl = timeRangeEl.querySelector('.time-text');
   const updateTimeFilter = () => {
-    timeTextEl.innerText = `${formatTime(fromTimeEl.valueAsNumber)}-${formatTime(24 - toTimeEl.valueAsNumber)}`;
+    const from = fromTimeEl.valueAsNumber;
+    const to = 24 - toTimeEl.valueAsNumber;
+    timeTextEl.innerText = `${formatTime(from)}-${formatTime(to)}`;
+    const gap1 = from;
+    const gap2 = to - from;
+    const gap3 = 24 - to;
+    let pos;
+    // The 1 and 2 here should match the overhang size
+    if (gap2 >= gap1 && gap2 >= gap3) {
+      pos = from + gap2 / 2 + 1;
+    } else if (gap1 >= gap3) {
+      pos = gap1 / 2;
+    } else {
+      pos = 24 - gap3 / 2 + 2;
+    }
+    // The 26 here should match the slider-width calculation in the CSS
+    // and widths must match input[type="range"] and .time-text
+    timeTextEl.style.left = `calc(var(--track-width) / var(--text-scale) / 26 * ${pos} - 6em / 2 - var(--text-padding-sides))`;
   };
   const addTimeRangeHandlers = () => {
+    timeTextEl.classList.add('movable');
     const checkTimeRange = (a, b) => {
       if (a.valueAsNumber > 24 - b.valueAsNumber) a.valueAsNumber = 24 - b.valueAsNumber;
       updateTimeFilter();
