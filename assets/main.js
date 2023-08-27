@@ -81,6 +81,9 @@
     if (document.forms.filter.from_time.valueAsNumber > 0) {
       filter.push(['>', ['get', 'end'], ['literal', `${formatTime(document.forms.filter.from_time.valueAsNumber)}:00`]]);
     }
+    if (document.forms.filter.to_time.valueAsNumber > 0) {
+      filter.push(['<', ['get', 'start'], ['literal', `${formatTime(24 - document.forms.filter.to_time.valueAsNumber)}:00`]]);
+    }
     switch (document.forms.filter.bookmarked.value) {
       case 'yes': filter.push(['in', ['get', 'state'], ['literal', ['bookmarked']]]); break;
       case 'no': filter.push(['in', ['get', 'state'], ['literal', ['']]]); break;
