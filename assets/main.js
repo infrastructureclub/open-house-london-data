@@ -328,10 +328,16 @@
     const els = [];
 
     let lastDate;
-    for (const datestr of listingDates) {
+    for (const datestr of [...listingDates, 'all']) {
       if (datestr == 'all_week') {
-          els.push(`<input type="radio" name="date" value="all_week" id="date-all_week"><label for="date-all_week">Other</label>`);
-          continue;
+        // Events scheduled to last all week
+        els.push(`<input type="radio" name="date" value="all_week" id="date-all_week"><label for="date-all_week">Other</label>`);
+        continue;
+      } else if (datestr == 'all') {
+        // Special option to show all listings
+        els.push(`<input type="radio" name="date" value="all" id="date-all"><label for="date-all">All</label>`);
+        continue;
+
       }
 
       const date = new Date(datestr);
