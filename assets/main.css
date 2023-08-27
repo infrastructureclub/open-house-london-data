@@ -296,6 +296,10 @@ timerange:hover input[type="range"]::-webkit-slider-thumb {
   border-color: #242;
 }
 
+timerange:hover .time-text {
+  border-color: #242
+}
+
 input[type="range"]#from_time {
   direction: ltr;
 }
@@ -347,8 +351,8 @@ input[type="range"]#to_time::-moz-range-track {
   display: flex;
   justify-content: space-between;
   /* I can't work out the correct factor here */
-  margin-left: calc(var(--slider-width) / 1.3);
-  margin-right: calc(var(--slider-width) / 1.3);
+  margin-left: calc(var(--slider-width) / 1);
+  margin-right: calc(var(--slider-width) / 1);
   height: 1ex;
 }
 
@@ -371,6 +375,7 @@ input[type="range"]#to_time::-moz-range-track {
   display: flex;
   justify-content: space-between;
   font-size: 60%;
+  /* I can't work out the correct factor here */
   margin-left: calc(var(--slider-width) / 2);
   margin-right: calc(var(--slider-width) / 2);
 }
@@ -504,13 +509,22 @@ input[type="range"]#to_time::-moz-range-track {
   color: #fff;
   border-radius: 15px;
   height: 4.8ex;
-  border-width: 1px;
+  border: 1px solid #686;
   width: 7em;
   margin: auto 0;
 }
 
+.connect-google:hover {
+  border-color: #242;
+}
+
+.connect-google:active {
+  background-color: #469090;
+}
+
 .connect-google img {
   margin-bottom: 4px;
+  margin-right: 2px;
   vertical-align: middle;
 }
 
