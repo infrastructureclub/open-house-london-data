@@ -396,6 +396,7 @@
     toTimeEl.addEventListener('input', () => checkTimeRange(toTimeEl, fromTimeEl));
     fromTimeEl.addEventListener('change', () => checkTimeRange(fromTimeEl, toTimeEl));
     toTimeEl.addEventListener('change', () => checkTimeRange(toTimeEl, fromTimeEl));
+    updateTimeFilter();
   };
 
 
