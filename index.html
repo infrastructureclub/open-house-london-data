@@ -93,7 +93,20 @@
           </div>
         </fieldset>
 
-        <button type="button" class="connect-google"><img width=20px height=20px src="assets/google-drive-icon-220px.png"/> Connect</button>
+        <fieldset>
+          <div class="connect-google">
+            <button type="button" class="google-new">
+              Connect
+            </button>
+            <input type="checkbox" class="button-down" id="connect-google-down" aria-haspopup="menu"/><label for="connect-google-down">▼</label>
+            <div class="button-menu">
+              <button type="button" class="google-existing">Open existing</button>
+            </div>
+            <button type="button" class="google-status">
+              Loading
+            </button>
+          </div>
+        </fieldset>
       </form>
     </header>
     <main id="map"></main>

@@ -348,7 +348,7 @@
       if (hashYear == null && date < today) continue;
 
       if (lastDate && date - lastDate > 24 * 60 * 60 * 1000 * 1.5) {
-        els.push(`<div class="date-gap"></div>`);
+        els.push(`<div role="separator" class="date-gap"></div>`);
       }
 
       const mm_dd = `${date.getDate()}/${date.getMonth() + 1}`;
@@ -451,6 +451,10 @@
     SCOPES = 'https://www.googleapis.com/auth/drive.file';
     DISCOVERY_DOC = 'https://sheets.googleapis.com/$discovery/rest?version=v4';
 
+    constructor() {
+      this.spreadsheetId = null;
+    }
+
     async initGoogle() {
       /*
         Sheets doesn't seem to support these:
@@ -493,8 +497,9 @@
       await Promise.all([loadGapi(), loadGis()]);
     };
 
-    authGoogle() {
-      return new Promise((res, rej) => {
+    async authGoogle() {
+      // Should only be called from a click handler as it creates a popup
+      return await new Promise((res, rej) => {
         this.tokenClient.callback = (resp) => {
           if (resp.error !== undefined) rej(resp);
           if (!resp.access_token) rej(resp);
@@ -508,43 +513,63 @@
       });
     }
 
-    async getSpreadsheet() {
-      if (this.spreadsheetId) return this.spreadsheetId;
-
-      let spreadsheetId = localStorage.getItem('infraclub-spreadsheet-id');
+    async checkSpreadsheet() {
+      const spreadsheetId = localStorage.getItem('infraclub-spreadsheet-id');
+      // If this fails we want to show the create/pick button
       if (spreadsheetId) {
         try {
-          await gapi.client.sheets.spreadsheets.get({
-            spreadsheetId
-          });
+          const spreadsheet = await gapi.client.sheets.spreadsheets.get({ spreadsheetId });
+          this.spreadsheetId = spreadsheetId;
         } catch (err) {
           if (err.status == 404) {
-            console.log(`Spreadsheet returned 404, recreating`);
-            spreadsheetId = null;
+            console.log(`Spreadsheet returned 404`);
           } else if (err.status == 403) {
-            // TODO: we could try reauthing here
+            // TODO: we could try reauthing here?
             console.log(`Spreadsheet returned 403, possibly session expired`);
           }
         }
       }
-      if (!spreadsheetId) {
-        // TODO: show picker
-        const title = 'Infrastructure Club Open House London 2023';
-        const resp = await gapi.client.sheets.spreadsheets.create({
-          properties: { title },
-          fields: 'spreadsheetId',
-        });
-        spreadsheetId = resp.result.spreadsheetId;
-        localStorage.setItem('infraclub-spreadsheet-id', spreadsheetId);
-      }
-      this.spreadsheetId = spreadsheetId;
       return this.spreadsheetId;
     };
 
+    setSpreadsheet(spreadsheetId) {
+      localStorage.setItem('infraclub-spreadsheet-id', spreadsheetId);
+      this.spreadsheetId = spreadsheetId;
+    }
+
+    async createSpreadsheet() {
+      const title = 'Infrastructure Club Open House London 2023';
+      const resp = await gapi.client.sheets.spreadsheets.create({
+        properties: { title },
+        fields: 'spreadsheetId',
+      });
+      return resp.result.spreadsheetId;
+    }
+
+    async pickSpreadsheet() {
+      return await new Promise((resolve, reject) => {
+        const callback = (data) => {
+          if (data[google.picker.Response.ACTION] == google.picker.Action.PICKED) {
+            const doc = data[google.picker.Response.DOCUMENTS][0];
+            const id = doc[google.picker.Document.ID];
+            resolve(id);
+          }
+        };
+        const picker = new google.picker.PickerBuilder()
+          .addView(google.picker.ViewId.SPREADSHEETS)
+          .enableFeature(google.picker.Feature.NAV_HIDDEN)
+          .setOAuthToken(gapi.client.getToken().access_token)
+          .setDeveloperKey(this.API_KEY)
+          .setCallback(callback)
+          .setTitle(`Open existing spreadsheet`)
+          .build();
+        picker.setVisible(true);
+      });
+    }
+
     async loadData() {
-      const spreadsheetId = await this.getSpreadsheet();
       const resp = await gapi.client.sheets.spreadsheets.values.get({
-        spreadsheetId: spreadsheetId,
+        spreadsheetId: this.spreadsheetId,
         range: 'A:D',
       });
       if (!resp.result.values) return;
@@ -566,15 +591,15 @@
       // Sort by id, and then date
       data.sort((a, b) => a[0] == b[0] ? b[2] - a[2] : b[0] - a[0]);
       data.unshift(['id', 'name', 'date', 'state']);
-      const spreadsheetId = await this.getSpreadsheet();
       const resp = await gapi.client.sheets.spreadsheets.values.update({
-        spreadsheetId: spreadsheetId,
+        spreadsheetId: this.spreadsheetId,
         range: 'A:D',
         valueInputOption: 'RAW',
         values: data,
       });
-      connectGoogle.innerText = 'Saved';
+      googleStatus.innerText = 'Saved';
     }
+
   }
 
   const favourites = {};
@@ -589,7 +614,7 @@
     map.getSource('listings').setData(currentListings);
 
     if (window?.gapi?.client?.getToken() == null) return;
-    connectGoogle.innerText = 'Saving';
+    googleStatus.innerText = 'Saving';
     gc.saveData();
   };
   const setFavourite = (id, name, date, state) => {
@@ -601,27 +626,37 @@
 
   await domContentLoaded;
 
-  const connectGoogle = document.querySelector('.connect-google');
-  const loadFromGoogle = async (e) => {
-    await gc.loadData();
-    connectGoogle.innerText = 'Loaded';
-    connectGoogle.removeEventListener('click', loadFromGoogle);
-    connectGoogle.addEventListener('click', () => {
-      window.open(`https://docs.google.com/spreadsheets/d/${gc.spreadsheetId}/edit`, '_blank');
-    });
-  };
-  connectGoogle.addEventListener('click', async () => {
-    await gc.initGoogle();
-    await gc.authGoogle();
-    await loadFromGoogle();
+  const googleStatus = document.querySelector('.google-status');
+  document.querySelector('.google-status').addEventListener('click', () => {
+    // TODO: use checkSpreadsheet to get this
+    window.open(`https://docs.google.com/spreadsheets/d/${gc.spreadsheetId}/edit`, '_blank');
   });
 
+  const loadData = async () => {
+    await gc.loadData();
+    googleStatus.innerText = 'Loaded';
+    document.querySelector('.connect-google').classList.add('connected');
+  }
+  document.querySelector('.google-new').addEventListener('click', async () => {
+    await gc.initGoogle();
+    await gc.authGoogle();
+    gc.setSpreadsheet(await gc.createSpreadsheet());
+    await loadData();
+  });
+  document.querySelector('.google-existing').addEventListener('click', async () => {
+    await gc.initGoogle();
+    await gc.authGoogle();
+    gc.setSpreadsheet(await gc.pickSpreadsheet());
+    await loadData();
+  });
   const tryLoadFromGoogle = async () => {
     const accessToken = localStorage.getItem('infraclub-google-access-token');
     if (!accessToken) return;
     await gc.initGoogle();
     gapi.client.setToken({access_token: accessToken});
-    await loadFromGoogle();
+    // TODO: check if token is valid, and skip authGoogle later if so
+    if (!await gc.checkSpreadsheet()) return;
+    await loadData();
   };
   tryLoadFromGoogle();
 

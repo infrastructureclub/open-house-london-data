@@ -503,28 +503,125 @@ input[type="range"]#to_time::-moz-range-track {
 }
 
 .connect-google {
-  background-color: #488;
+  display: grid;
+  grid-template-columns: fit-content(6em) fit-content(1em) auto;
+  height: 4.8ex;
+  overflow: visible;
+}
+
+.connect-google button {
+  height: 4.8ex;
   font-size: inherit;
   font-family: inherit;
   color: #fff;
-  border-radius: 15px;
-  height: 4.8ex;
-  border: 1px solid #686;
-  width: 7em;
-  margin: auto 0;
+  background: #488;
 }
 
-.connect-google:hover {
+.connect-google .google-new {
+  grid-area: 1 / 1;
+  background: #488 url(google-drive-icon-220px.png) no-repeat 0.5em 50% / 20px;
+  border: 1px solid #686;
+  border-right: none;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  padding-left: 2em;
+  padding-right: 0.5em;
+}
+
+.connect-google .google-new:hover {
   border-color: #242;
 }
 
-.connect-google:active {
+.connect-google .google-new:active {
   background-color: #469090;
 }
 
-.connect-google img {
-  margin-bottom: 4px;
-  margin-right: 2px;
-  vertical-align: middle;
+.connect-google input.button-down {
+  width: 0;
+  height: 0;
+  margin: 0;
+  appearance: none;
+}
+
+.connect-google input.button-down + label {
+  grid-area: 1 / 2;
+  display: flex;
+  margin: auto 0;
+  align-items: center;
+  background-color: #488;
+  height: 4.8ex;
+  width: 1em;
+  border-left: 1px solid #686;
+  border-right: 1px solid #686;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  font-size: inherit;
+  padding: 0 3px;
+}
+
+.connect-google input.button-down + label:hover {
+  border-color: #242;
+}
+
+.connect-google input.button-down:active {
+  background-color: #469090;
+}
+
+.connect-google input.button-down + label + .button-menu {
+  display: none;
+}
+
+.connect-google input.button-down:checked + label {
+  background-color: #469090;
+}
+
+.connect-google input.button-down:checked + label + .button-menu {
+  display: block;
+}
+
+.connect-google .button-menu {
+  background-color: #488;
+  grid-area: 2 / span 3;
+  border-radius: 15px;
+  padding: 6px 6px;
+  margin-left: 0.5em;
+}
+
+.connect-google .button-menu button {
+  height: 4ex;
+  width: 100%;
+  appearance: none;
+  border: none;
+}
+
+.connect-google .button-menu button:hover {
+  background-color: #479292;
+}
+
+.connect-google .google-status {
+  background-color: rgb(0, 82, 81);
+  border: 1px solid #686;
+  border-radius: 15px;
+  padding: 0.5ex 1em;
+}
+
+.connect-google .google-status:hover {
+  border-color: #242;
+}
+
+.connect-google .google-status:active {
+  background-color: #469090;
+}
+
+.connect-google .google-status {
+  display: none;
+}
+
+.connect-google.connected > * {
+  display: none !important;
+}
+
+.connect-google.connected > .google-status {
+  display: block !important;
 }
 
