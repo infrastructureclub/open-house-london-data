@@ -636,6 +636,11 @@
     await gc.loadData();
     googleStatus.innerText = 'Loaded';
     document.querySelector('.connect-google').classList.add('connected');
+    if (currentListings) {
+      const map = await mapReady;
+      updateProperties(currentListings);
+      map.getSource('listings').setData(currentListings);
+    }
   }
   document.querySelector('.google-new').addEventListener('click', async () => {
     await gc.initGoogle();
