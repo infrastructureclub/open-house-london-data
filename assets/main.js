@@ -272,10 +272,10 @@
     map.on('mouseleave', 'listings-markers', () => map.getCanvas().style.cursor = '');
 
     map.on('error', (response) => {
-        console.log(`Error from map: ${response.error.message}`);
-        map.getLayer('listings-markers').visibility = 'none';
-        map.getLayer('listings-labels').visibility = 'none';
-        throw response.error;
+      console.log(`Error from map: ${response.error.message}`);
+      map.getLayer('listings-markers').visibility = 'none';
+      map.getLayer('listings-labels').visibility = 'none';
+      throw response.error;
     });
 
     map.on('load', async () => {
