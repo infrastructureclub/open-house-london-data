@@ -555,13 +555,16 @@
             resolve(id);
           }
         };
+        const view = new google.picker.DocsView(google.picker.ViewId.SPREADSHEETS)
+          .setQuery('Infrastructure Club Open House London 2023')
+          .setMode(google.picker.DocsViewMode.LIST);
         const picker = new google.picker.PickerBuilder()
-          .addView(google.picker.ViewId.SPREADSHEETS)
+          .addView(view)
           .enableFeature(google.picker.Feature.NAV_HIDDEN)
+          .hideTitleBar()
           .setOAuthToken(gapi.client.getToken().access_token)
           .setDeveloperKey(this.API_KEY)
           .setCallback(callback)
-          .setTitle(`Open existing spreadsheet`)
           .build();
         picker.setVisible(true);
       });
