@@ -644,6 +644,7 @@
     await loadData();
   });
   document.querySelector('.google-existing').addEventListener('click', async () => {
+    document.querySelector('.button-down').checked = false;
     await gc.initGoogle();
     await gc.authGoogle();
     gc.setSpreadsheet(await gc.pickSpreadsheet());
@@ -664,6 +665,27 @@
   addScrollableHandlers();
   document.forms.filter.addEventListener('click', (e) => {
     if (e.target.closest('input')) updateListings();
+  });
+
+  const updateAriaExpanded = () => {
+    const el = document.querySelector('.button-down');
+    el.setAttribute('aria-expanded', el.checked);
+  };
+  document.querySelector('.button-down').addEventListener('input', updateAriaExpanded);
+  document.querySelector('.button-down').addEventListener('change', updateAriaExpanded);
+  const hideMenuOnBlur = (e) => {
+    if (!e?.relatedTarget?.closest('.button-menu')) {
+      document.querySelector('.button-down').checked = false;
+      updateAriaExpanded();
+    }
+  };
+  document.querySelector('.button-down').addEventListener('focusout', hideMenuOnBlur);
+  document.querySelector('.button-menu').addEventListener('focusout', hideMenuOnBlur);
+  document.body.addEventListener('keydown', (e) => {
+    if (e.key == 'Escape') {
+      document.querySelector('.button-down').checked = false;
+      updateAriaExpanded();
+    }
   });
 
   const dateEl = document.getElementById('date');
