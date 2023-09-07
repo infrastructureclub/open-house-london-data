@@ -59,8 +59,15 @@ for building in buildings:
     original_url = "https://programme.openhouse.org.uk/listings/%s" % building["id"]
     response = requests.get(original_url, cookies=cookies, headers=headers)
     if response.content == b"Retry later\n":
-        print("Hit rate limiting, cannot continue")
+        print("!! Hit rate limiting, cannot continue")
         raise Exception("Rate limited")
+
+    if session_cookie and b"Log out" not in response.content:
+        print("!! Invalid session cookie, cannot continue without scraping incorrect data")
+        raise Exception("Invalid session cookie")
+
+    # OH now reissues a time-limited cookie on each page load
+    cookies = {"_open_house_session": response.cookies["_open_house_session"]}
 
     # FIXME: If the server has downtime this will result in all listings being
     # removed as we delete them all before the run. Instead we should be
