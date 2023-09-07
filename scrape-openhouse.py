@@ -129,19 +129,19 @@ for building in buildings:
     data["location"]["longitude"] = float(lat_lon_matches.group(2))
 
     travel_and_facilities_prefix = (
-        '//section[contains(@class, "oc-listing-details")]/div[2]'
+        '//section[contains(@class, "oc-listing-details")]/div'
     )
 
     # Travel info
-    travel_titles = root.xpath(travel_and_facilities_prefix + "/h4")
-    travel_ps = root.xpath(travel_and_facilities_prefix + "/p")
+    travel_titles = root.xpath(travel_and_facilities_prefix + "[2]/h4")
+    travel_ps = root.xpath(travel_and_facilities_prefix + "[2]/p")
     for node in zip(travel_titles, travel_ps):
         data["location"]["travel_info"].append(
             "%s: %s" % (node[0].text_content(), node[1].text_content())
         )
 
     # Facilities
-    for node in root.xpath(travel_and_facilities_prefix + "/ul/li"):
+    for node in root.xpath(travel_and_facilities_prefix + "[3]/ul/li"):
         data["facilities"].append(node.text_content())
 
     # Short description
