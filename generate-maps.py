@@ -108,8 +108,8 @@ for date, locations in sorted(dates.items()):
                     "fully_booked": fully_booked,
                     "start": start_time,
                     "end": end_time,
-                    "balloted": balloted_events,
-                    "new_venue_this_year": location["new_venue_this_year"],
+                    "balloted": "Yes" if balloted_events else "No",
+                    "new_venue_this_year": "Yes" if location["new_venue_this_year"] else "No",
                 },
                 "geometry": p,
             }
