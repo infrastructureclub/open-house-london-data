@@ -650,6 +650,7 @@ input[type="range"]#to_time::-moz-range-track {
   border-radius: 15px;
   padding: 6px 6px;
   margin-left: 0.5em;
+  z-index: 1;
 }
 
 .connect-google .button-menu button {
