@@ -41,6 +41,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0310355,
+                    51.35844849999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Founded in 11C, with Jacobean memorial c1615. Burial site of 5 Archbishops of Canterbury.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "name": "Church of St Mary the Blessed Virgin",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3547"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0941925,
                     51.51413950000001
                 ],
@@ -66,7 +85,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "London's main tourist information centre is clad in a specially manufactured system of 220 pre-finished stainless steel panels. The subtly reflective surface provides a striking counterpoint to St Paul's. NOTE: Closed on Monday 19 September",
+                "description": "London's main tourist information centre is clad in a specially manufactured system of 220 pre-finished stainless steel panels. The subtly reflective surface provides a striking counterpoint to St Paul's.",
                 "end": "17:30:00",
                 "fully_booked": "",
                 "name": "City Information Centre",
@@ -117,6 +136,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1019914,
+                    51.4871574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Our timber frame building was designed by Matrix Feminist Design Co-Operative, and built by women. It represents our community's history of activism-the same ethos that transformed our site from dereliction, into a thriving community garden",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "name": "Walworth Garden",
+                "start": "09:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10950"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.06168650000000001,
                     51.533015
                 ],
@@ -124,12 +162,31 @@
             },
             "properties": {
                 "description": "Our 1950's warehouse has been converted to provide a new home for creative studio Acrylicize, to provide a mixture of workshop spaces, co-working and traditional studio space, all centred around a large events and gallery space.",
-                "end": "16:30:00",
+                "end": "17:00:00",
                 "fully_booked": "",
                 "name": "The Art House",
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11141"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.015066,
+                    51.4130778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A plain Victorian Church set in a wooded Churchyard, with a vibrant and striking set of Murals around the altar and the Choir. \r\nHas indoor toilet facilities. \r\nA good quality well used organ in good condition, and an excellent accoustic",
+                "end": "12:00:00",
+                "fully_booked": "",
+                "name": "St Mary's Church Bromley",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11317"
             },
             "type": "Feature"
         },
@@ -144,7 +201,7 @@
             "properties": {
                 "description": "Poroban is a multi-disciplinary design studio, based off Old Kent Road, specialising in low carbon building design. We are offering free design surgeries throughout September and are hosting an open day on Saturday 9th Sept.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Poroban studio",
                 "start": "09:30:00",
                 "ticketed_events": "Yes",
@@ -162,7 +219,7 @@
             },
             "properties": {
                 "description": "Newham Bookshop has been running for 45 years; it was founded in 1978. The bookshop plays an important role in this community, providing students, teachers, parents and the whole community with a rich variety of books.",
-                "end": "12:30:00",
+                "end": "13:00:00",
                 "fully_booked": "No",
                 "name": "A bookshop for All",
                 "start": "12:00:00",
@@ -263,6 +320,44 @@
                 "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12042"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.02931,
+                    51.38092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Guided walking tours of the grounds of Bethlem Royal Hospital, taking in the Hospital's historic Chapel, its beautiful grounds, Bethlem Museum of the Mind, and Bethlem Gallery. Open House 2023 tours delivered as part of This is Croydon, London Borough of Culture, with the support of Mayor of London and Croydon Council.",
+                "end": "12:00:00",
+                "fully_booked": "Yes",
+                "name": "Bethlem Royal Hospital",
+                "start": "10:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12129"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.00249,
+                    51.36993
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Art Deco building designed in 1934 by Leslie Kemp and Tasker in International Moderne style. Now the temporary home of West Wickham Library.",
+                "end": "19:00:00",
+                "fully_booked": "",
+                "name": "West Wickham Library",
+                "start": "09:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12207"
             },
             "type": "Feature"
         }

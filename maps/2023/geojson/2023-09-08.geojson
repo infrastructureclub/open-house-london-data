@@ -30,7 +30,7 @@
             "properties": {
                 "description": "Highly acclaimed building of red brick with colourful window details and roof, the British Library is the ultimate in post-modernity. The design follows the English Free Style of architecture. RIBA Award Winner.",
                 "end": "11:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "British Library",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
@@ -49,7 +49,7 @@
             "properties": {
                 "description": "Founded as a Black Death burial ground, the site has served as a Carthusian monastery, Tudor mansion, school and an almshouse, which it remains to this day. The Charterhouse opened to the public in 2017 with a new museum.",
                 "end": "11:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "The Charterhouse",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -73,6 +73,25 @@
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/2865"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0310355,
+                    51.35844849999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Founded in 11C, with Jacobean memorial c1615. Burial site of 5 Archbishops of Canterbury.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "name": "Church of St Mary the Blessed Virgin",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3547"
             },
             "type": "Feature"
         },
@@ -104,7 +123,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "London's main tourist information centre is clad in a specially manufactured system of 220 pre-finished stainless steel panels. The subtly reflective surface provides a striking counterpoint to St Paul's. NOTE: Closed on Monday 19 September",
+                "description": "London's main tourist information centre is clad in a specially manufactured system of 220 pre-finished stainless steel panels. The subtly reflective surface provides a striking counterpoint to St Paul's.",
                 "end": "17:30:00",
                 "fully_booked": "",
                 "name": "City Information Centre",
@@ -155,16 +174,16 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0711383,
-                    51.5188618
+                    -0.07113,
+                    51.51886
                 ],
                 "type": "Point"
             },
             "properties": {
-                "description": "The Gilbert & George Centre was originally established as a registered charity by the artist in 2009 with the objective to advance the education of the public in the arts, and generally to advance the arts, architecture, heritage, and culture for the benefit of the public.",
+                "description": "The Gilbert & George Centre was originally established as a registered charity by the artist in 2009 with the objective to advance the education of the public in the arts, and generally to advance the arts, architecture, heritage and culture for the benefit of the public.",
                 "end": "17:00:00",
                 "fully_booked": "No",
-                "name": "Gilbert & George Centre",
+                "name": "The Gilbert & George Centre",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/7098"
@@ -206,6 +225,25 @@
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/7788"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.2158112,
+                    51.5688198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Our Yard at Clitterhouse Farm is a community enterprise working to protect historic Victorian farm outbuildings and transform the site into a vibrant and sustainable community hub. Shortlisted for the Open City Stewardship Awards 2021.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "name": "Our Yard at Clitterhouse Farm",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/8339"
             },
             "type": "Feature"
         },
@@ -307,6 +345,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1019914,
+                    51.4871574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Our timber frame building was designed by Matrix Feminist Design Co-Operative, and built by women. It represents our community's history of activism-the same ethos that transformed our site from dereliction, into a thriving community garden",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "name": "Walworth Garden",
+                "start": "09:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10950"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1309568,
                     51.5310613
                 ],
@@ -383,6 +440,44 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.015066,
+                    51.4130778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A plain Victorian Church set in a wooded Churchyard, with a vibrant and striking set of Murals around the altar and the Choir. \r\nHas indoor toilet facilities. \r\nA good quality well used organ in good condition, and an excellent accoustic",
+                "end": "12:00:00",
+                "fully_booked": "",
+                "name": "St Mary's Church Bromley",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11317"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0953226,
+                    51.5130649
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Situated adjacent to St. Paul’s Cathedral, our reworking of this six-storey neo-classical building has created 116,000 sq ft of high-quality office space, three levels of communal terraces and a large new garden designed by Tom Stuart-Smith",
+                "end": "19:00:00",
+                "fully_booked": "No",
+                "name": "25 Cannon Street",
+                "start": "17:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/11339"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0790748,
                     51.48900930000001
                 ],
@@ -391,7 +486,7 @@
             "properties": {
                 "description": "Poroban is a multi-disciplinary design studio, based off Old Kent Road, specialising in low carbon building design. We are offering free design surgeries throughout September and are hosting an open day on Saturday 9th Sept.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Poroban studio",
                 "start": "09:30:00",
                 "ticketed_events": "Yes",
@@ -429,7 +524,7 @@
             "properties": {
                 "description": "Have you ever walked through London and wondered “Where are the statues of women?” or have you ever walked around London and counted the statues of women then tried to do the same with the statues of men?",
                 "end": "15:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Amazing Women in London Tour",
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
@@ -448,7 +543,7 @@
             "properties": {
                 "description": "An illustrated talk on 8th September by Patrick Hellicar.  Exploring Scruby’s vision, foresight and energy that, in the 1920s and 1930’s, transformed a swathe of indifferent farmland in Kent into a desirable residential garden suburb.",
                 "end": "21:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Basil Scruby - The Man Who Made Petts Wood",
                 "start": "20:00:00",
                 "ticketed_events": "Yes",
@@ -487,7 +582,7 @@
                 "description": "A 2.5 hour walking tour showcasing unexpected and hidden architectural landmarks, both historic and contemporary, of the South Bank area along a route from Lambeth Palace/Garden Museum to Bernie Spain Gardens. Held on 2 weekends.",
                 "end": "14:00:00",
                 "fully_booked": "Yes",
-                "name": "LOST AND HIDDEN ARCHITECTURE OF SOUTH BANK WALK",
+                "name": "Lost & Hidden Architecture of South Bank Walk",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11778"
@@ -562,7 +657,7 @@
             "properties": {
                 "description": "Discover another side to Stratford beyond the regeneration narratives on this Art and Culture Trail featuring intriguing forgotten histories alongside contemporary stories reflected in the area's public art, local monuments and heritage buildings.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Stratford art and culture trail",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -600,11 +695,30 @@
             "properties": {
                 "description": "Imagine a history of smells woven through the streets of a bygone industrial Bermondsey. This walk will explore  & trace the way food has shaped the architecture of the area known as 'London's Larder’ How do we value our food heritage?",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "The architecture of eating- how food shapes our city",
                 "start": "10:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11985"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.03557,
+                    51.54551
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "This a new self-build house by two architect friends, Anthony Engi Meacock and Alexander Hills, on a narrow infill site within a late Victorian terrace.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "name": "Kenworthy Road",
+                "start": "10:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/11990"
             },
             "type": "Feature"
         },
@@ -638,7 +752,7 @@
             "properties": {
                 "description": "On the surface Stratford is all Olympics and Westfield: this tour unearths the area's Roman and religious origins, unusual buildings, famous manufacturing pioneers, 20th century hard times and considers (from above) the impacts of its newest quarter.",
                 "end": "18:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Stratford: past, present and future",
                 "start": "15:30:00",
                 "ticketed_events": "Yes",
@@ -657,7 +771,7 @@
             "properties": {
                 "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights 3 scale architectural models of London: the New London Model, the City Model and the Royal Docks Model.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "The London Centre",
                 "start": "12:30:00",
                 "ticketed_events": "Yes",
@@ -700,6 +814,82 @@
                 "start": "09:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12155"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10418,
+                    51.51927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Hidden behind two Listed Building facades opposite Smithfield Market, and spread across eight floors below and above ground, E.ON's Citigen energy centre produces electricity, heat and cooling to buildings across the Square Mile.",
+                "end": "15:30:00",
+                "fully_booked": "No",
+                "name": "E.ON's Citigen energy centre",
+                "start": "14:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0225,
+                    51.50153
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "This Open House Festival, biophilia-inspired development Wardian London is opening the doors to its breathtaking 53rd floor sky lounge: The Observatory.",
+                "end": "17:00:00",
+                "fully_booked": "Yes",
+                "name": "Wardian London: The Observatory",
+                "start": "15:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12252"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.175,
+                    51.50478
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A special morning view and curator's tour of the 2023 Pavilion  by Lina Ghotmeh — Architecture.\r\n\r\n9am Doors open: Serpentine Pavilion\r\n\r\n9.15am Introduction to the Pavilion with Alexa Chow, Assistant Curator",
+                "end": "10:00:00",
+                "fully_booked": "No",
+                "name": "Serpentine Pavilion 2023",
+                "start": "09:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12276"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.06764,
+                    51.61015
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "We will Solve the Riddle, Match the House and Freeze the Art, where you will all have the opportunity to interact with and contribute to a live art piece. Our aim is for you to leave with a renewed sense of home and the ability to reimagine what home means to you.",
+                "end": "19:30:00",
+                "fully_booked": "",
+                "name": "Home: Simple Faces, Complex Minds",
+                "start": "16:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12280"
             },
             "type": "Feature"
         }

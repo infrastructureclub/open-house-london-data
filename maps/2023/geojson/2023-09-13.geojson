@@ -66,7 +66,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "London's main tourist information centre is clad in a specially manufactured system of 220 pre-finished stainless steel panels. The subtly reflective surface provides a striking counterpoint to St Paul's. NOTE: Closed on Monday 19 September",
+                "description": "London's main tourist information centre is clad in a specially manufactured system of 220 pre-finished stainless steel panels. The subtly reflective surface provides a striking counterpoint to St Paul's.",
                 "end": "17:30:00",
                 "fully_booked": "",
                 "name": "City Information Centre",
@@ -92,6 +92,25 @@
                 "start": "09:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/4108"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0743683,
+                    51.5457087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "4-storey multi-purpose, state of the art library and archives building.",
+                "end": "12:15:00",
+                "fully_booked": "No",
+                "name": "Dalston C.L.R. James Library & Hackney Archives",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/5197"
             },
             "type": "Feature"
         },
@@ -142,13 +161,32 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "A redevelopment of Holborn’s community centre improving and increasing facilities  -  the space has been designed by Stirling prize nominated 6a architects and includes a public artwork for the building, created by artist Cargh Thuring",
+                "description": "A redevelopment of Holborn’s community centre improving and increasing facilities  -  the space has been designed by Stirling prize nominated 6a architects and includes a public artwork for the building, created by artist Cargh Thuring. This project is supported by the Mayor of London.",
                 "end": "11:30:00",
                 "fully_booked": "",
                 "name": "Holborn House",
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1019914,
+                    51.4871574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Our timber frame building was designed by Matrix Feminist Design Co-Operative, and built by women. It represents our community's history of activism-the same ethos that transformed our site from dereliction, into a thriving community garden",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "name": "Walworth Garden",
+                "start": "09:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10950"
             },
             "type": "Feature"
         },
@@ -182,7 +220,7 @@
             "properties": {
                 "description": "Hornsey Library is a Grade II listed building, featuring Huxley-Jones' \"Reclining figure\" sculpture and the intricately etched glass \"Hornsey window\". A recent refurbishment has added practical updates while keeping the 1960s aesthetic.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Hornsey Library",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -200,7 +238,7 @@
             },
             "properties": {
                 "description": "Our 1950's warehouse has been converted to provide a new home for creative studio Acrylicize, to provide a mixture of workshop spaces, co-working and traditional studio space, all centred around a large events and gallery space.",
-                "end": "16:30:00",
+                "end": "17:00:00",
                 "fully_booked": "",
                 "name": "The Art House",
                 "start": "10:00:00",
@@ -244,6 +282,25 @@
                 "start": "18:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11292"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.015066,
+                    51.4130778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A plain Victorian Church set in a wooded Churchyard, with a vibrant and striking set of Murals around the altar and the Choir. \r\nHas indoor toilet facilities. \r\nA good quality well used organ in good condition, and an excellent accoustic",
+                "end": "12:00:00",
+                "fully_booked": "",
+                "name": "St Mary's Church Bromley",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11317"
             },
             "type": "Feature"
         },
@@ -294,9 +351,9 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "Studio Weave were commissioned to design an extension to the Grade-II listed Lea Bridge Library in East London, adding a cafe and adaptable community space – to deliver a revived civic heart for the Borough of Waltham Forest.",
+                "description": "Studio Weave were commissioned to design an extension to the Grade-II listed Lea Bridge Library in East London, adding a cafe and adaptable community space – to deliver a revived civic heart for the Borough of Waltham Forest. This project is supported by the Mayor of London.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Lea Bridge Library",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -427,13 +484,51 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "Public Tours tours by Architect's DSDHA and the team at National Youth Theatre of the NYT's recently redeveloped RIBA-award-winning building, which created the UK's first theatre dedicated to staging work created by young people.",
+                "description": "Public Tours tours by Architect's DSDHA and the team at National Youth Theatre of the NYT's recently redeveloped RIBA-award-winning building, which created the UK's first theatre dedicated to staging work created by young people. This project is supported by the Mayor of London.",
                 "end": "19:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "National Youth Theatre",
                 "start": "18:15:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.3662,
+                    51.46323
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "The Gurdwara exists to serve the local community in the Hounslow and surrounding areas, providing a space within which the community can congregate and worship in accordance with the Sikh faith.",
+                "end": "12:00:00",
+                "fully_booked": "No",
+                "name": "Hounslow Sri Guru Singh Sabha",
+                "start": "10:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09939,
+                    51.37226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A lunchtime guided tour of the Croydon Clocktower exhibition 'Croydon from the palette of Evacustes Phipson'",
+                "end": "13:40:00",
+                "fully_booked": "",
+                "name": "'Croydon from the palette of Evacustes Phipson' tour",
+                "start": "13:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12240"
             },
             "type": "Feature"
         }

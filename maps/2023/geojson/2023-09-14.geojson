@@ -3,6 +3,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.21223,
+                    51.5124344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Forming a discreet and private set of four interlocking houses set around an open courtyard, Walmer Yard is Peter Salter's only UK project. The houses now form the home of the Baylight Foundation.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "name": "Walmer Yard",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/189"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.3073139,
                     51.51144919999999
                 ],
@@ -85,7 +104,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "London's main tourist information centre is clad in a specially manufactured system of 220 pre-finished stainless steel panels. The subtly reflective surface provides a striking counterpoint to St Paul's. NOTE: Closed on Monday 19 September",
+                "description": "London's main tourist information centre is clad in a specially manufactured system of 220 pre-finished stainless steel panels. The subtly reflective surface provides a striking counterpoint to St Paul's.",
                 "end": "17:30:00",
                 "fully_booked": "",
                 "name": "City Information Centre",
@@ -125,7 +144,7 @@
             "properties": {
                 "description": "Barking town centre has seen significant development over recent years with substantial growth in housing and infrastructure. These guided tours will visit existing award winning schemes and set out the vision for the future of the town.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Barking Town Centre Tour",
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
@@ -155,6 +174,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1285292,
+                    51.5144001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "The first purpose-built new-build community centre to be built in the heart of Soho for generations, located within the renowned Phoenix Gardens. Winner: RIBA London Award. Designed by RIBA London Architect of the Year Winner.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "name": "Phoenix Gardens Community Building",
+                "start": "13:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/6841"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1948925,
                     51.3624214
                 ],
@@ -174,16 +212,16 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0711383,
-                    51.5188618
+                    -0.07113,
+                    51.51886
                 ],
                 "type": "Point"
             },
             "properties": {
-                "description": "The Gilbert & George Centre was originally established as a registered charity by the artist in 2009 with the objective to advance the education of the public in the arts, and generally to advance the arts, architecture, heritage, and culture for the benefit of the public.",
+                "description": "The Gilbert & George Centre was originally established as a registered charity by the artist in 2009 with the objective to advance the education of the public in the arts, and generally to advance the arts, architecture, heritage and culture for the benefit of the public.",
                 "end": "17:00:00",
                 "fully_booked": "No",
-                "name": "Gilbert & George Centre",
+                "name": "The Gilbert & George Centre",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/7098"
@@ -199,7 +237,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "Tour the UK’s oldest brewery site, once home to Young’s.\r\nWalk/talk covers history & redevelopment, incl. new boulevard, square, river walk & restored listed buildings.",
+                "description": "The UK’s oldest brewery site, home to Young’s for almost 200 years. Architect's talk covers history, planning, redevelopment, design and materiality, and includes the new public square, boulevard, riverwalk, new buildings & restored listed buildings.",
                 "end": "11:45:00",
                 "fully_booked": "No",
                 "name": "Ram Quarter",
@@ -225,6 +263,25 @@
                 "start": "09:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/10644"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1019914,
+                    51.4871574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Our timber frame building was designed by Matrix Feminist Design Co-Operative, and built by women. It represents our community's history of activism-the same ethos that transformed our site from dereliction, into a thriving community garden",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "name": "Walworth Garden",
+                "start": "09:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10950"
             },
             "type": "Feature"
         },
@@ -257,12 +314,50 @@
             },
             "properties": {
                 "description": "Our 1950's warehouse has been converted to provide a new home for creative studio Acrylicize, to provide a mixture of workshop spaces, co-working and traditional studio space, all centred around a large events and gallery space.",
-                "end": "16:30:00",
+                "end": "17:00:00",
                 "fully_booked": "",
                 "name": "The Art House",
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11141"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0808266,
+                    51.5229472
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "The route of a tiny hidden stream offers the opportunity for a walk through 2000 years of London’s development. \r\n\r\nWalk from Shoreditch to the Thames, taking in landmarks & buildings that span the history of The City.",
+                "end": "18:00:00",
+                "fully_booked": "Yes",
+                "name": "Walbrook River Walk",
+                "start": "16:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/11291"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.015066,
+                    51.4130778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A plain Victorian Church set in a wooded Churchyard, with a vibrant and striking set of Murals around the altar and the Choir. \r\nHas indoor toilet facilities. \r\nA good quality well used organ in good condition, and an excellent accoustic",
+                "end": "12:00:00",
+                "fully_booked": "",
+                "name": "St Mary's Church Bromley",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11317"
             },
             "type": "Feature"
         },
@@ -320,6 +415,25 @@
                 "start": "19:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11819"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.08427,
+                    51.51767
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "For hundreds of years, Spitalfields has been a place where those seeking safety, work, and community have settled.  They all leave their mark in streets buildings in an area rich in history and architectural interest.",
+                "end": "13:00:00",
+                "fully_booked": "Yes",
+                "name": "Spitalfields - stories of people",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/11821"
             },
             "type": "Feature"
         },
@@ -465,7 +579,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "Public Tours tours by Architect's DSDHA and the team at National Youth Theatre of the NYT's recently redeveloped RIBA-award-winning building, which created the UK's first theatre dedicated to staging work created by young people.",
+                "description": "Public Tours tours by Architect's DSDHA and the team at National Youth Theatre of the NYT's recently redeveloped RIBA-award-winning building, which created the UK's first theatre dedicated to staging work created by young people. This project is supported by the Mayor of London.",
                 "end": "19:00:00",
                 "fully_booked": "Yes",
                 "name": "National Youth Theatre",
@@ -510,6 +624,101 @@
                 "start": "18:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12167"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.00249,
+                    51.36993
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Art Deco building designed in 1934 by Leslie Kemp and Tasker in International Moderne style. Now the temporary home of West Wickham Library.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "name": "West Wickham Library",
+                "start": "09:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12207"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.06533,
+                    51.38935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A walking tour of Woodside near Croydon",
+                "end": "16:30:00",
+                "fully_booked": "",
+                "name": "Woodside walking tour",
+                "start": "14:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10871,
+                    51.52336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bringing together placemakers from across England. Join us for an online event series led by our Associates and discover the questions, challenges, and inspirations at the forefront of their minds after one year of working in local gov.",
+                "end": "14:00:00",
+                "fully_booked": "No",
+                "name": "Public Practice Talks (Online Only)",
+                "start": "13:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12246"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.03668,
+                    51.56667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "From prominent Motion (the site of Black Marsh Farm), through some Warner Estate housing to Lea Bridge Library with its handsome new extension, part the layers of history to glimpse stories between typical and amazing.",
+                "end": "12:30:00",
+                "fully_booked": "",
+                "name": "Walk: the Lea Valley fringe of Leyton",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12257"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.07338,
+                    51.52435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Community arts hub staging music, dance and spoken word performance, art shows and film screenings.",
+                "end": "21:00:00",
+                "fully_booked": "No",
+                "name": "RichMix",
+                "start": "18:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12273"
             },
             "type": "Feature"
         }

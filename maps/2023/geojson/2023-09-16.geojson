@@ -22,6 +22,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.21223,
+                    51.5124344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Forming a discreet and private set of four interlocking houses set around an open courtyard, Walmer Yard is Peter Salter's only UK project. The houses now form the home of the Baylight Foundation.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "name": "Walmer Yard",
+                "start": "14:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/189"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.007114799999999999,
                     51.4805875
                 ],
@@ -35,6 +54,25 @@
                 "start": "10:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/249"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1081791,
+                    51.5150637
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Fine example of an early 5-floor Queen Anne town house with original panelling, open staircase and unique 'swinging panels' on the open-plan first floor. Johnson compiled his famous 'Dictionary of the English Language' (1755)  here.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "name": "Dr Johnson's House",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/275"
             },
             "type": "Feature"
         },
@@ -106,11 +144,30 @@
             "properties": {
                 "description": "Founded to house the widows of clergymen, the original building consisted of 20 houses built around a classically-styled quadrangle. Captain Richard Ryder – one of Sir Christopher Wren's surveyors – was in charge of design and construction.",
                 "end": "11:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Bromley and Sheppard's College",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/555"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.11877,
+                    51.51864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A new sustainable neighbourhood being created alongside 2km of south-facing Thames river frontage. A partnership with The Mayor of London and L&Q, 10,800 new homes will house up to 29,000 people.",
+                "end": "19:00:00",
+                "fully_booked": "",
+                "name": "Barking Riverside London",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/600"
             },
             "type": "Feature"
         },
@@ -161,7 +218,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "A sumptuous feast of Victorian stained glass & bold sacred sculpture in what Sir John Betjeman called the 'cathedral of the Arts and Crafts movement.' Work by William Morris, Edward Burne-Jones, William Blake Richamind & Christopher Whall.",
+                "description": "A sumptuous feast of Victorian stained glass & bold sacred sculpture in what Sir John Betjeman called the 'cathedral of the Arts and Crafts movement.' Work by William Morris, Edward Burne-Jones, William Blake- Richmond & Christopher Whall.",
                 "end": "11:00:00",
                 "fully_booked": "",
                 "name": "Holy Trinity Church Sloane Square",
@@ -334,11 +391,30 @@
             "properties": {
                 "description": "RIBA award-winning building.  Part listed frontage with purpose built archive and exhibition building added to the rear in 2002. The building now houses the University's Special Collections & Archives",
                 "end": "13:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "The Wash Houses",
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/910"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.096377,
+                    51.6537785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Fine Victorian Gothic church with impressive windows and painted chancel. Paintings by Buckeridge and Westlake 1897. Restoration of chancel paintings was to celebrate the Diamond Jubilee of Queen Elizabeth II. (2012)",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "name": "St Mary Magdalene Church",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/945"
             },
             "type": "Feature"
         },
@@ -389,13 +465,32 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "A masterpiece of Victorian engineering, Markfield Beam Engine provided a vital public health facility from 1855-1964. \r\n\r\nOn 17 & 18 Sept the 1888 beam engine will be steaming as follows:\r\n12.30 - 1.15pm \r\n2.00 - 2.45pm \r\n3.30 - 4.15pm",
+                "description": "A masterpiece of Victorian engineering, Markfield Beam Engine provided a vital public health facility from 1855-1964.",
                 "end": "17:00:00",
                 "fully_booked": "",
                 "name": "Markfield Beam Engine and House",
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/1041"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1056922,
+                    51.5229739
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Grade II listed, built as a Welsh Charity School in 1738. A library with a focus on Marxism and Socialism since 1933. Lenin worked here 1902-03 and his office is preserved. Fresco by Jack Hastings in 1st floor. Late 15C tunnels.",
+                "end": "12:00:00",
+                "fully_booked": "",
+                "name": "Marx Memorial Library & Workers' School",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/1048"
             },
             "type": "Feature"
         },
@@ -560,7 +655,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "UPDATED: Open daily 10.30am-4pm. Closed Mon 19 September.\r\nGuided tours 12.15pm & 1.15pm on Tuesdays, Thursdays, Fridays, Saturdays & Sundays, see below.\r\nHome of the City of London's art collection, & remains of London's Roman Amphitheatre",
+                "description": "UPDATED: Open daily 10.30am-4pm. \r\nGuided tours 12.15pm & 1.15pm on Tuesdays, Thursdays, Fridays, Saturdays & Sundays, see below.\r\nHome of the City of London's art collection, & remains of London's Roman Amphitheatre",
                 "end": "11:30:00",
                 "fully_booked": "No",
                 "name": "Guildhall Art Gallery",
@@ -693,7 +788,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "Numbered amongst the UK's architectural glories and boasting 66 acres of beautiful grounds, the Royal Hospital Chelsea has been home to the iconic Army veteran community fondly known as the 'Chelsea Pensioners' since its foundation in 1692.",
+                "description": "Numbered amongst the UK's architectural glories and boasting 66 acres of beautiful grounds, the Royal Hospital Chelsea has been home to the iconic Army veteran community fondly known as the 'Chelsea Pensioners' since its foundation in 1692. \r\nThe Great Hall and Chapel will not be accessible from 12.00-14.00 on Saturday 16th September due to an internal event. The remainder of the site will be open during this time. \r\n\r\nVisitors should note that filming will be taking place during the afternoon of Sunday 17th September. If you would like to be excluded from any filming, please let our staff and volunteers know on arrival at the site.",
                 "end": "16:00:00",
                 "fully_booked": "No",
                 "name": "Royal Hospital Chelsea, Home of the Chelsea Pensioners",
@@ -790,11 +885,30 @@
             "properties": {
                 "description": "Convent in 18C Grade II listed house, c1764-1792, with original features including fine decorative plasterwork. Various additions including west wing (1913-15), and harmonious care home facilities and chapel by PRP Architects (1998-2001).\r\nApologies to visitors turned away last year. Please book for this year.",
                 "end": "11:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "St Mary's Convent",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/1831"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.4339633,
+                    51.4915691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Grade I listed church dating from 1086, representing the architectural styles of many centuries, including Norman font and carved cats heads around Norman south doorway arch, Easter sepulchre and ancient yew tree in churchyard.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "name": "St Peter & St Paul Harlington",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/1855"
             },
             "type": "Feature"
         },
@@ -1055,7 +1169,7 @@
             },
             "properties": {
                 "description": "The recently automated impounding station controls the water level in the docks using the original Worthington Simpson pumps driven by Lancashire dynamo.",
-                "end": "16:00:00",
+                "end": "11:00:00",
                 "fully_booked": "Yes",
                 "name": "West India Dock Impounding Station",
                 "start": "10:00:00",
@@ -1181,6 +1295,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1385812,
+                    51.5713748
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Victorian/Arts and Crafts church completed in 20C. Imposing west front by J Harold Gibbons with statuary by Dorothy Rope. Lady chapel by Henry Wilson. Stained glass by Margaret Aldridge Rope. Fine Hunter organ plus case.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "name": "St Augustine of Canterbury",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2489"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0764628,
                     51.5140611
                 ],
@@ -1194,6 +1327,25 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/2492"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1893314,
+                    51.5805196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Eccentric Edwardian church, Grade I listed. Described by Simon Jenkins as 'one of Lutyens' most distinctive creations'. Extensive 20C wall-paintings by Walter Starmer, memorial to horses of WWI. Local archives display.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "name": "St Jude on the Hill",
+                "start": "09:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2517"
             },
             "type": "Feature"
         },
@@ -1346,6 +1498,25 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/3091"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.0061333,
+                    51.5871381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "An 'Italian Romanesque' church set in Epping Forest, St Peter's was founded in 1840 and extended in 1887. The building underwent a major reordering throughout 2020 to save it from subsidence and create new community facilities.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "name": "St Peter-in-the-Forest Church & Community Centre",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3093"
             },
             "type": "Feature"
         },
@@ -1523,6 +1694,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1928988,
+                    51.5355055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Built 1863 - a large corrugated iron chapel. Inside was transformed after the last war into a battleship by local sailors for Sea Cadets. \r\nIt has decks, portholes a Bofors Gun and alter from the set of the 1964 film Becket.",
+                "end": "16:30:00",
+                "fully_booked": "",
+                "name": "The Tin Tabernacle / Cambridge Hall",
+                "start": "12:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3660"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0640998,
                     51.4720392
                 ],
@@ -1548,7 +1738,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "London's main tourist information centre is clad in a specially manufactured system of 220 pre-finished stainless steel panels. The subtly reflective surface provides a striking counterpoint to St Paul's. NOTE: Closed on Monday 19 September",
+                "description": "London's main tourist information centre is clad in a specially manufactured system of 220 pre-finished stainless steel panels. The subtly reflective surface provides a striking counterpoint to St Paul's.",
                 "end": "17:30:00",
                 "fully_booked": "",
                 "name": "City Information Centre",
@@ -1713,6 +1903,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0733723,
+                    51.5469316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A vital community garden offering a model for maximum good for communities and for the environment on a small urban plot. It is now a site of Local Importance for Nature Conservation. Shortlisted for the Open City Stewardship Awards 2021.",
+                "end": "13:45:00",
+                "fully_booked": "No",
+                "name": "Dalston Eastern Curve Garden",
+                "start": "13:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/5006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1358408,
                     51.6212818
                 ],
@@ -1726,6 +1935,25 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/5128"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0743683,
+                    51.5457087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "4-storey multi-purpose, state of the art library and archives building.",
+                "end": "13:00:00",
+                "fully_booked": "No",
+                "name": "Dalston C.L.R. James Library & Hackney Archives",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/5197"
             },
             "type": "Feature"
         },
@@ -1814,7 +2042,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "Designed by the world renowned Zaha Hadid Architects, Roca London Gallery is a unique space where water acts as the architectural theme. Guests can also visit 'Everything Flows', a major exhibition exploring the work of Zaha Hadid Design.",
+                "description": "Designed by the world renowned Zaha Hadid Architects, Roca London Gallery is a unique space where water acts as the architectural theme. Guests can also visit 'Small Spaces in the City: Rethinking Inside the Box', a major exhibition exploring the challenges and innovative solutions for small live-and-work spaces in the city.",
                 "end": "17:00:00",
                 "fully_booked": "",
                 "name": "Roca London Gallery",
@@ -1873,7 +2101,7 @@
             "properties": {
                 "description": "Barking town centre has seen significant development over recent years with substantial growth in housing and infrastructure. These guided tours will visit existing award winning schemes and set out the vision for the future of the town.",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Barking Town Centre Tour",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
@@ -1988,7 +2216,7 @@
                 "description": "The NOW Gallery is an art space - contained within two curved glass pavilions linked by a patinated brass-edged canopy - which defines the southern edge of Peninsula Square and acts as a gateway to the south, the cable car and Central Park.",
                 "end": "17:00:00",
                 "fully_booked": "",
-                "name": "NOW Gallery",
+                "name": "NOW Gallery : Design District",
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/6449"
@@ -2169,16 +2397,16 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0711383,
-                    51.5188618
+                    -0.07113,
+                    51.51886
                 ],
                 "type": "Point"
             },
             "properties": {
-                "description": "The Gilbert & George Centre was originally established as a registered charity by the artist in 2009 with the objective to advance the education of the public in the arts, and generally to advance the arts, architecture, heritage, and culture for the benefit of the public.",
+                "description": "The Gilbert & George Centre was originally established as a registered charity by the artist in 2009 with the objective to advance the education of the public in the arts, and generally to advance the arts, architecture, heritage and culture for the benefit of the public.",
                 "end": "17:00:00",
                 "fully_booked": "No",
-                "name": "Gilbert & George Centre",
+                "name": "The Gilbert & George Centre",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/7098"
@@ -2270,7 +2498,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "St.Margaret's has delivered community activity on Old Ford Road since the start of the 20th century. In 2022, they started working with Tower Hamlets Council to bring activities to Tramshed, Digby St, E2 0LS - where this event will be held.",
+                "description": "St.Margaret's has delivered community activity on Old Ford Road since the start of the 20th century.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "name": "St. Margaret's House",
@@ -2346,7 +2574,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "A House for Artists is an ambitious project, designed to provide affordable, sustainable housing for artists, who will offer long-term civic and cultural engagement for communities in Barking Town Centre. Drop in to the creative workshop.",
+                "description": "A House for Artists is an ambitious project, designed to provide affordable, sustainable housing for artists, who will offer long-term civic and cultural engagement for communities in Barking Town Centre. Drop in to the creative workshop. This project is supported by the Mayor of London.",
                 "end": "18:00:00",
                 "fully_booked": "",
                 "name": "A House for Artists",
@@ -2367,7 +2595,7 @@
             "properties": {
                 "description": "Grade II* listed church dating from 12C with Medieval, Tudor, Georgian & Victorian features. 16C Tower. Church refurbishment and new extension in progress in 2022. Over 1300 monuments with four Grade II listed tombs in churchyard.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "St. Mary's Church, Walthamstow Village",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -2557,7 +2785,7 @@
             "properties": {
                 "description": "StreetGym® is a one hour, mind/body urban physical adventure where we jog from workstation to workstation.  A workstation is an item of street furniture, gradient or architectural feature where we perform bodyweight based exercises.",
                 "end": "14:15:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "StreetGym® Urban Adventure",
                 "start": "13:15:00",
                 "ticketed_events": "Yes",
@@ -2644,6 +2872,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0863057,
+                    51.4952748
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A garden atop a former parking structure at the base of Peveril House. It sits on top of artists studios, also refurbished using minimal interventions by architects Sanchez Benton. Shortlisted for the Open City Stewardship Awards 2021. This project is supported by the Mayor of London.",
+                "end": "12:00:00",
+                "fully_booked": "",
+                "name": "Forma HQ & Peveril Gardens",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/9816"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0503453,
                     51.4497048
                 ],
@@ -2708,10 +2955,10 @@
             },
             "properties": {
                 "description": "Chicago Booth's London campus combines the best of old and new. Located near St. Paul's, the campus features more than 50 pieces of contemporary art and houses our Executive MBA Programme Europe, Executive Education, and conference centre.",
-                "end": "17:00:00",
+                "end": "12:00:00",
                 "fully_booked": "",
                 "name": "University of Chicago Booth School of Business",
-                "start": "14:00:00",
+                "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10190"
             },
@@ -2727,12 +2974,69 @@
             },
             "properties": {
                 "description": "The purpose-built library is a fine example of brutalist architecture. Built by Hugh Lea, Borough Architect for Croydon, in 1968 the main volume shows miesian influence with an abundance of natural light, interrupted by a concrete cuboid.",
-                "end": "16:00:00",
+                "end": "16:30:00",
                 "fully_booked": "No",
                 "name": "South Norwood Library",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/10218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09212719999999999,
+                    51.5151073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "In 1666, the conflagration devastated most of the City, thousands of houses, many churches and St Paul's Cathedral destroyed. Christopher Wren played a major role in rebuilding the City. \r\nFree walks led by City of London Guides",
+                "end": "11:15:00",
+                "fully_booked": "",
+                "name": "The Great Fire of London",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10238"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09202719999999999,
+                    51.5151073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "On this walk we will see many historic & modern buildings. see different architecture styles having regard to the environment and sustainability, and hear about famous architects, past and present.\r\n\r\nFree walks led by City of London Guides",
+                "end": "11:30:00",
+                "fully_booked": "",
+                "name": "Historic & Modern Buildings in the City",
+                "start": "10:15:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10240"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09192719999999999,
+                    51.5151073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "On this walk we shall discover some of the livery companies, learn about their ancient traditions and ceremonies, which are repeated every year. Also hear about  their important role in the City.\r\nFree walks led by City of London Guides",
+                "end": "11:45:00",
+                "fully_booked": "",
+                "name": "Ancient Livery Companies in the City of London",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10242"
             },
             "type": "Feature"
         },
@@ -2766,7 +3070,7 @@
             "properties": {
                 "description": "Starting at the Exhibition 'Historic Bromley Town' taking place on the Lower Mall of The Glades, the tour tells the story of Bromley's phenomenal growth in the late 19thC  showing how the town progressed from a rural market town to suburb in about 20 yrs.",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "A tour of Victorian Bromley",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -2823,7 +3127,7 @@
             "properties": {
                 "description": "Join us for an interesting and informative walk around Surbiton with our experienced guide. Find out why Surbiton was called the Queen of the suburbs and plenty more. \r\n\r\nVisit our website: https://www.kingstontourguides.org.uk/",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Surbiton Queen of the Suburbs",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -2900,7 +3204,7 @@
                 "description": "C3 is home to Bureau, a members club at the heart of Design District. Its undulating white facade creates informal pockets of space on the interior, ideal for flexible working models.",
                 "end": "15:00:00",
                 "fully_booked": "",
-                "name": "C3 : Bureau",
+                "name": "C3 : Bureau Design at District",
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10391"
@@ -3024,6 +3328,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.1170762,
+                    51.5044916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Newly refurbished former social club, which is now a multi-use community space in the heart of Satge 3 Thamesmead - The Moorings \r\nOpen Access and Tours running all day",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "name": "Moorings Social Club",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10925"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.07235,
                     51.59624
                 ],
@@ -3032,11 +3355,30 @@
             "properties": {
                 "description": "Hear about some of the initiatives under way in the Tottenham High Street Heritage Action Zone (High Street HAZ). LB Haringey and the Tottenham Civic Society host a tour uncovering the rich heritage of this bustling, multicultural area.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Heritage on the High Road (High Street HAZ)",
                 "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/10928"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1019914,
+                    51.4871574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Our timber frame building was designed by Matrix Feminist Design Co-Operative, and built by women. It represents our community's history of activism-the same ethos that transformed our site from dereliction, into a thriving community garden",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "name": "Walworth Garden",
+                "start": "09:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10950"
             },
             "type": "Feature"
         },
@@ -3119,6 +3461,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.05598329999999999,
+                    51.52639790000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "This is an artist-run, community-focused space, that offers affordable studios since 2011. Built around 1893 and adjacent to Almshouses. Also, used as a bakery and later became laboratory glassware in the late 1950s.",
+                "end": "13:00:00",
+                "fully_booked": "",
+                "name": "Red Door Studios: Family workshop, Exhibition featuring Ferha Farooqui's painting and more",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11039"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0988526,
                     51.5132944
                 ],
@@ -3147,7 +3508,7 @@
                 "description": "Tucked behind a busy road in W12, this former foundry is a multi-level development featuring an architects’ studio with courtyards and spaces for exhibitions and musical performances. The  building's 15m brick chimney is a local landmark.",
                 "end": "17:00:00",
                 "fully_booked": "",
-                "name": "The Foundry",
+                "name": "Timothy Hatton Architects – The Foundry",
                 "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11069"
@@ -3163,7 +3524,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "Climb onto The Table, a concrete structure that looms over site & hear our plans to transform this 40 acre site into a car-free, beyond net zero mixed use development that will bring the wonder back to Earls Court. No wheelchair access.",
+                "description": "Learn about our plans to transform this 40-acre site into a largely car free mixed use development that aims to go beyond net zero and bring the wonder back to Earls Court",
                 "end": "13:00:00",
                 "fully_booked": "No",
                 "name": "The Earls Court Development Company",
@@ -3271,6 +3632,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.080083,
+                    51.3971421
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "end": "12:30:00",
+                "fully_booked": "",
+                "name": "Holy Innocents Church",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.0054362,
                     51.500307
                 ],
@@ -3280,7 +3660,7 @@
                 "description": "The building, designed by Mole Architects, comprises a 2000 square foot rehearsal top-lit studio, open-plan office, music production studio. Constructed entirely from timber, clad in weathered steel and designed to limit energy consumption.",
                 "end": "16:00:00",
                 "fully_booked": "No",
-                "name": "C2 : Clod Ensemble Studios",
+                "name": "C2 Clod Ensemble Studios : Design District",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11214"
@@ -3423,6 +3803,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.015066,
+                    51.4130778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "A plain Victorian Church set in a wooded Churchyard, with a vibrant and striking set of Murals around the altar and the Choir. \r\nHas indoor toilet facilities. \r\nA good quality well used organ in good condition, and an excellent accoustic",
+                "end": "12:00:00",
+                "fully_booked": "",
+                "name": "St Mary's Church Bromley",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11317"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0790748,
                     51.48900930000001
                 ],
@@ -3431,7 +3830,7 @@
             "properties": {
                 "description": "Poroban is a multi-disciplinary design studio, based off Old Kent Road, specialising in low carbon building design. We are offering free design surgeries throughout September and are hosting an open day on Saturday 9th Sept.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Poroban studio",
                 "start": "09:30:00",
                 "ticketed_events": "Yes",
@@ -3619,13 +4018,32 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "The Brady Arts & Community Centre is on Hanbury St, just off Brick Lane in the busy & creative part of East London. It opened in 1935 as the Brady Jewish Girls & Boys Clubs.We aim to host our open day on Sat 16 Sept with various activities.",
+                "description": "The Brady Arts & Community Centre is on Hanbury St, just off Brick Lane in the busy & creative part of East London. It opened in 1935 as the Brady Jewish Girls & Boys Clubs.  We are holding our open day on Saturday 16 September.  Come and find out about the centre’s history and take part in drop in arts activities’.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "name": "Brady Arts and Community Centre",
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11669"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1542658,
+                    51.49173
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "The Church was built in 1874 by R.J Withers. The adjoining building was remodeled by Goodhart Rendell in the 1920s Arts and Crafts style. The Pineapple Project for community use, by Matthew Lloyd Architects, was completed this year.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "name": "The Church of St Mary's and new community centre",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11683"
             },
             "type": "Feature"
         },
@@ -3727,6 +4145,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1063079,
+                    51.4944734
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Join EPR Architects for tours of our new net zero carbon in operation London studio, All Saints. Led by the project architects, we will delve into the rich history and stories behind the building, and what inspired our innovative design.",
+                "end": "11:00:00",
+                "fully_booked": "No",
+                "name": "Tours of All Saints (EPR Architects), Austral Street",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/11765"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1216658,
                     51.5398566
                 ],
@@ -3754,7 +4191,7 @@
             "properties": {
                 "description": "Take a tour around Bromley Archives. The archive store itself is normally closed to the public and visitors will be allowed access within this space and a look at some of the items that we have in our collection.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Bromley Archives- Bromley Central Library",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -3860,6 +4297,44 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.08700920000000001,
+                    51.5441392
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Flexible use garden room in a newly established garden.",
+                "end": "17:30:00",
+                "fully_booked": "",
+                "name": "Garden Room",
+                "start": "13:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11813"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.08506240000000001,
+                    51.55461529999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Victorian Terraced House in Stoke Newington with a ground floor rear extension and new mansard roof conversion with master bedroom and ensuite by WILLIAM TOZER Associates.",
+                "end": "13:30:00",
+                "fully_booked": "",
+                "name": "Intersect House",
+                "start": "09:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11817"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0547752,
                     51.5275283
                 ],
@@ -3911,6 +4386,25 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11840"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0417312,
+                    51.4968031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "This summer Jan Kattein Architects complete one of the most ambitious circular economy buildings attempted in the UK in decades. The 300m2 educational building  in Canada Water forms part of the Paper Garden, for charity Global Generation.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "name": "The Paper Garden",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11845"
             },
             "type": "Feature"
         },
@@ -4001,7 +4495,7 @@
             "properties": {
                 "description": "Join Chris Hopkinson, of Chromaphotography for an architecture photography walk around Chelsea Creek, a new canalside neighbourhood by St George. Chris is a qualified Architect, turned professional photographer & videographer.",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Chelsea Creek: photography walk & talk",
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
@@ -4020,7 +4514,7 @@
             "properties": {
                 "description": "This tour will tell the story of the English nursery - bringing milk, sunshine and playtime to slum children, giving working women a safe place to send their infants, taking over spaces that were designed for other things.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Deptford Nurseries Walking Tour",
                 "start": "10:30:00",
                 "ticketed_events": "Yes",
@@ -4044,6 +4538,44 @@
                 "start": "10:45:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11888"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0915096,
+                    51.311863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Join us for an open tour exploring the architecture, use, and restoration of the WWII fighter pens and air raid shelters that were part of RAF Kenley's airfield defenses.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "name": "WWII fighter pen tours at former RAF Kenley",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11891"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0002,
+                    51.51328
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Aberfeldy is an ambitious regeneration project in Poplar, designed for and alongside its residents and the local community.",
+                "end": "12:30:00",
+                "fully_booked": "No",
+                "name": "Aberfeldy Village",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/11900"
             },
             "type": "Feature"
         },
@@ -4183,6 +4715,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.07904,
+                    51.52603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Architect led tours",
+                "end": "16:10:00",
+                "fully_booked": "",
+                "name": "Black & White Building",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11948"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.13426,
                     51.50972
                 ],
@@ -4202,6 +4753,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.05944,
+                    51.53695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Explore a vibrant artist community beneath a railway arch at our open studios! Engage with talented artists, discover diverse exhibitions. Join us in celebrating the creativity and sense of togetherness that define this unique space.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "name": "Beck Road Studios: Open Studios Exhibitions",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11954"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.01643,
                     51.40373
                 ],
@@ -4215,6 +4785,25 @@
                 "start": "09:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11955"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09003,
+                    51.52953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Join us on September 16th for guided tours of the award-winning innovative Makers Building in Hackney. Explore the school, residential spaces, and new square. Refreshments and project materials available at Avanti Architect's office nearby.",
+                "end": "14:00:00",
+                "fully_booked": "",
+                "name": "The Makers Building and Avanti Architects’ offices",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11957"
             },
             "type": "Feature"
         },
@@ -4436,7 +5025,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "Bloqs is the UK's first open-access factory providing flexible and affordable access to industrial machinery, workshops and training with cafe / exhibition space and events venue. Winner of 3 architectural awards in 2023 from RIBA and AJ.",
+                "description": "Bloqs is the UK's first open-access factory providing flexible and affordable access to industrial machinery, workshops and training with cafe / exhibition space and events venue. Winner of 3 architectural awards in 2023 from RIBA and AJ. This project is supported by the Mayor of London.",
                 "end": "20:00:00",
                 "fully_booked": "",
                 "name": "Bloqs",
@@ -4481,6 +5070,25 @@
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12038"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.07004,
+                    51.59452
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Guided tours of Grade-II listed Public Conveniences under refurbishment to become a new social value commercial space, including the basement (c1910), ground floor pavilion (c1922) and extension (under construction) and discuss the site’s history and future.",
+                "end": "12:45:00",
+                "fully_booked": "No",
+                "name": "Bruce Grove Public Conveniences",
+                "start": "12:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12043"
             },
             "type": "Feature"
         },
@@ -4532,7 +5140,7 @@
             },
             "properties": {
                 "description": "Open day / weekend of a contemporary house extension within a conservation area. The build was completed in 2022.",
-                "end": "17:00:00",
+                "end": "16:00:00",
                 "fully_booked": "",
                 "name": "3 Arbuthnot Road",
                 "start": "10:00:00",
@@ -4590,7 +5198,7 @@
             "properties": {
                 "description": "The first custom-build homes built in London. A terrace of flats and houses which was built from scratch and sold at 'shell' for the owners to fit-out themselves.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "name": "Blenheim Grove",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
@@ -4703,10 +5311,10 @@
             },
             "properties": {
                 "description": "Building A3 by Adam Khan Architects with its sturdy, geometric concrete exterior, can be seen as a nod to the aesthetics of raw construction found on emerging sites across the evolving Greenwich Peninsula.",
-                "end": "15:00:00",
+                "end": "14:00:00",
                 "fully_booked": "",
                 "name": "A3: Design District",
-                "start": "12:00:00",
+                "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12123"
             },
@@ -4721,13 +5329,32 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "We will be offering tours of this RIBA and AJ Retrofit award winning building. The architect will be on hand to discuss the design and construction process. We will also run  curator led tours of  the exhibition in our gallery spaces",
+                "description": "We will be offering tours of this RIBA and AJ Retrofit award winning building. The architect will be on hand to discuss the design and construction process. We will also run  curator led tours of  the exhibition in our gallery spaces. This project is supported by the Mayor of London.",
                 "end": "13:00:00",
                 "fully_booked": "No",
                 "name": "198 Contemporary Arts and Learning",
                 "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.09878,
+                    51.52189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Barking and Dagenham has become the blueprint for urban regeneration. Starting at Industria, - the UK’s first multi-storey light industrial development - and finishing at A House for Artists, this self-guided trail gives visitors the opportunity to experience the transformation of the borough. These projects are supported by the Mayor of London.",
+                "end": "16:30:00",
+                "fully_booked": "No",
+                "name": "Barking & Dagenham - regeneration trail",
+                "start": "12:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12127"
             },
             "type": "Feature"
         },
@@ -4747,6 +5374,25 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12128"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.02931,
+                    51.38092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Guided walking tours of the grounds of Bethlem Royal Hospital, taking in the Hospital's historic Chapel, its beautiful grounds, Bethlem Museum of the Mind, and Bethlem Gallery. Open House 2023 tours delivered as part of This is Croydon, London Borough of Culture, with the support of Mayor of London and Croydon Council.",
+                "end": "12:00:00",
+                "fully_booked": "Yes",
+                "name": "Bethlem Royal Hospital",
+                "start": "10:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12129"
             },
             "type": "Feature"
         },
@@ -4797,7 +5443,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "Mission Kitchen is a shared workspace for London's independent food businesses. It supports a community of more than 100 food and drink entrepreneurs. Part of the Mayor’s Good Growth Collection.",
+                "description": "Mission Kitchen is a shared workspace for London's independent food businesses. It supports a community of more than 100 food and drink entrepreneurs.  This project is supported by the Mayor of London.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "name": "Mission Kitchen",
@@ -4829,6 +5475,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.20992,
+                    51.46414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "An opportunity to experience a private home situated on the bankside of River Thames. A contextual intervention by VATRAA, restoring and extending a Victorian house with an atmospheric feel inspired by the homeowner's personality.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "name": "Rear and basement extension of a riverside house",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12157"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.13117,
                     51.5328
                 ],
@@ -4848,6 +5513,25 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.07417,
+                    51.54613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Join us for a live talk and tour around the searchroom and explore what's in our collections. We will show you how to explore Hackney's past and present.",
+                "end": "12:30:00",
+                "fully_booked": "Yes",
+                "name": "Hackney Archives - Searchroom Strongroom Tour 16th Sept",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12163"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.02937,
                     51.38084
                 ],
@@ -4861,6 +5545,25 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12166"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09927,
+                    51.37235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Croydon Town Hall will be opened for a limited number of guided tours, providing rare access this unique Victorian-style, Grade II listed building. Croydon Town Hall was designed by local architect Charles Henman and opened in 1896.",
+                "end": "10:45:00",
+                "fully_booked": "",
+                "name": "Croydon Town Hall",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12168"
             },
             "type": "Feature"
         },
@@ -4924,13 +5627,32 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13905,
+                    51.5579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "At Vertical Meadow we have developed two unique living wall solutions: Vertical Meadow Wrap and Vertical Meadow Cladding. Our aim is simple: to bring biodiversity into urban spaces, make construction greener and out cities more liveable.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "name": "Vertical Meadow Cladding Solution",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12185"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.06396,
                     51.49268
                 ],
                 "type": "Point"
             },
             "properties": {
-                "description": "Following three years of research and development, the ‘Made in Bermondsey’ people powered regeneration project was created and driven by passionate local community partners who truly care about the place where they live or their business.",
+                "description": "Following three years of research and development, the ‘Made in Bermondsey’ people powered regeneration project was created and driven by passionate local community partners who truly care about the place where they live or their business. This project is supported by the Mayor of London.",
                 "end": "14:30:00",
                 "fully_booked": "No",
                 "name": "The Blue Market - Made in Bermondsey",
@@ -4943,19 +5665,57 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.00249,
+                    51.36993
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Art Deco building designed in 1934 by Leslie Kemp and Tasker in International Moderne style. Now the temporary home of West Wickham Library.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "name": "West Wickham Library",
+                "start": "09:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12207"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.00536,
                     51.50094
                 ],
                 "type": "Point"
             },
             "properties": {
-                "description": "Design District is a collection of 16 buildings designed by eight architects, one minute from North Greenwich station. The district is a thriving home for creative businesses offering permanent and purpose-designed workspaces, co-working wi",
+                "description": "Design District is a collection of 16 buildings designed by eight architects, one minute from North Greenwich station. The District supports an ecosystem of creative businesses and helps foster connections through affordable spaces, comprehensive facilities and a thriving events programme.",
                 "end": "20:00:00",
                 "fully_booked": "",
                 "name": "Design District Public Realm",
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.37488,
+                    51.45991
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Hounslow Jamia Masjid & Islamic Centre is the largest purpose built Mosque in West London. Serving the needs of the local community and working towards the common good.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "name": "Hounslow Jamia Masjid & Islamic Centre",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12218"
             },
             "type": "Feature"
         },
@@ -4970,7 +5730,7 @@
             "properties": {
                 "description": "Imperial Nostalgia & the Built Environment –  A thought-provoking keynote address followed by a panel discussion exploring the theme of imperial nostalgia in the built environment, using Wembley as a case study.",
                 "end": "19:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "name": "Decolonising Wembley",
                 "start": "17:00:00",
                 "ticketed_events": "Yes",
@@ -4987,7 +5747,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "Welcoming visitors to Angel Edmonton to explore a number of newly developed places and spaces that are helping steward the area through significant change. Delivered by Enfield Council with support of the GLA's Good Growth Fund.",
+                "description": "Welcoming visitors to Angel Edmonton to explore a number of newly developed places and spaces that are helping steward the area through significant change. Delivered by Enfield Council with support from the Mayor of London.",
                 "end": "17:00:00",
                 "fully_booked": "No",
                 "name": "Good Growth in Angel Edmonton",
@@ -5000,19 +5760,95 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.11304,
+                    51.51727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Chancery House, on Chancery Lane, close to Lincoln’s Inn Fields, is a building with a fascinating history. Architects DMFK redeveloped the existing building for clients The Office Group, transformed the site into a new flexible workspace.",
+                "end": "14:00:00",
+                "fully_booked": "Yes",
+                "name": "Chancery House",
+                "start": "13:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12226"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.12812,
                     51.50942
                 ],
                 "type": "Point"
             },
             "properties": {
-                "description": "Discover the architecture of the National Portrait Gallery, designed in 1896 by Ewan Christian and now transformed by Jamie Fobert Architects. Meet by the information desk in the Gallery's main hall. Drop-in 9, 10, 16 & 17 Sept, 10.30am",
+                "description": "Discover the architecture of the National Portrait Gallery, designed in 1896 by Ewan Christian and now transformed by Jamie Fobert Architects. Please meet at the Ross Street Entrance. Drop-in 9, 10, 16 & 17 September specific times listed below.",
                 "end": "18:45:00",
                 "fully_booked": "",
                 "name": "National Portrait Gallery Architecture Highlights Tours",
                 "start": "18:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10437,
+                    51.33044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "1920s Art Deco house, formerly the home of Peter Cushing OBE. English Heritage Blue Plaque.",
+                "end": "14:30:00",
+                "fully_booked": "Yes",
+                "name": "Peter Cushing House",
+                "start": "14:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12230"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.01101,
+                    51.49364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "The most recent chapter of Greenwich Millennium Village’s remarkable 25 year history is told through this audio walking tour, featuring a rich variety of stories from current residents.",
+                "end": "12:30:00",
+                "fully_booked": "No",
+                "name": "Greenwich Millennium Village",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12251"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1142,
+                    51.34052
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "This tour will give an insight into the many different eras and building styles represented on one of Croydon's busiest streets- from Victorian industry, the World Wars, Brutalism and even a ghost swimming pool.",
+                "end": "12:30:00",
+                "fully_booked": "No",
+                "name": "Purley Way to Wandle Park",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12258"
             },
             "type": "Feature"
         }
