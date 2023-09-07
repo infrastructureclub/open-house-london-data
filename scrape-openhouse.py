@@ -59,16 +59,9 @@ for building in buildings:
 
     original_url = "https://programme.openhouse.org.uk/listings/%s" % building["id"]
     response = requests.get(original_url, cookies=cookies, headers=headers)
-    if response.content == b"Retry later\n":
+    if response.content == b"Retry later\n" or response.status_code == 503:
         print("!! Hit rate limiting, cannot continue")
         raise Exception("Rate limited")
-
-    if session_cookie and b"Log out" not in response.content:
-        print("!! Invalid session cookie, cannot continue without scraping incorrect data")
-        raise Exception("Invalid session cookie")
-
-    # OH now reissues a time-limited cookie on each page load
-    cookies = {"_open_house_session": response.cookies["_open_house_session"]}
 
     # FIXME: If the server has downtime this will result in all listings being
     # removed as we delete them all before the run. Instead we should be
@@ -77,6 +70,15 @@ for building in buildings:
     if response.status_code == 500:
         print("SKIPPING due to 500 response from server - likely this listing isn't public yet")
         continue
+
+    if session_cookie and b"Log out" not in response.content:
+        print("!! Invalid session cookie, cannot continue without scraping incorrect data")
+        print(response.status_code)
+        print(response.content)
+        raise Exception("Invalid session cookie")
+
+    # OH now reissues a time-limited cookie on each page load
+    cookies = {"_open_house_session": response.cookies["_open_house_session"]}
 
     root = lxml.html.document_fromstring(response.content)
 
@@ -369,5 +371,4 @@ for building in buildings:
             )
         )
 
-    # 7s appears to avoid the rate limiting, but let's give ourselves some headroom
-    time.sleep(8)
+    time.sleep(15)
