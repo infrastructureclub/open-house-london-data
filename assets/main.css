@@ -405,7 +405,11 @@ input[type="range"]#to_time::-moz-range-track {
 
 .mapboxgl-popup-content dl {
   display: grid;
-  grid-template: auto / 6em 1fr;
+  grid-template: auto / 8em 1fr;
+  margin: 0;
+}
+
+.mapboxgl-popup-content dd {
   margin: 0;
 }
 

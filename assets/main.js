@@ -79,6 +79,10 @@
     if (document.forms.filter.search.value) {
       filter.push(['get', 'match']);
     }
+    switch (document.forms.filter.new_venue_this_year.value) {
+      case 'yes': filter.push(['==', ['get', 'new_venue_this_year'], 'Yes']); break;
+      case 'no': filter.push(['==', ['get', 'new_venue_this_year'], 'No']); break;
+    }
     switch (document.forms.filter.ticketed_events.value) {
       case 'yes': filter.push(['==', ['get', 'ticketed_events'], 'Yes']); break;
       case 'no': filter.push(['==', ['get', 'ticketed_events'], 'No']); break;
@@ -124,11 +128,12 @@
   const saveFilter = () => {
     const hash = new URLSearchParams(document.location.hash.substr(1));
     const date = document.forms.filter.date.value;
+    const new_venue_this_year = document.forms.filter.new_venue_this_year.value;
     const ticketed_events = document.forms.filter.ticketed_events.value;
     const fully_booked = document.forms.filter.fully_booked.value;
     const from_time = document.forms.filter.from_time.valueAsNumber;
     const to_time = 24 - document.forms.filter.to_time.valueAsNumber;
-    hash.set('filter', `${date}/${from_time}/${to_time}/${ticketed_events}/${fully_booked}`);
+    hash.set('filter', `${date}/${from_time}/${to_time}/${new_venue_this_year}/${ticketed_events}/${fully_booked}`);
     hash.set('search', document.forms.filter.search.value);
     if (!hash.get('search')) hash.delete('search');
     document.location.hash = '#' + hash.toString().replaceAll('%2F', '/');
@@ -140,11 +145,12 @@
     document.forms.filter.search.value = search;
     const filter = hash.get('filter');
     if (!filter) return;
-    const [date, from_time, to_time, ticketed_events, fully_booked] = filter.split('/');
+    const [date, from_time, to_time, new_venue_this_year, ticketed_events, fully_booked] = filter.split('/');
     /* These assignments will be ignored if the values are invalid */
     document.forms.filter.date.value = date;
     document.forms.filter.from_time.valueAsNumber = from_time;
     document.forms.filter.to_time.valueAsNumber = 24 - to_time;
+    document.forms.filter.new_venue_this_year.value = new_venue_this_year;
     document.forms.filter.ticketed_events.value = ticketed_events;
     document.forms.filter.fully_booked.value = fully_booked;
     updateTimeFilter();
@@ -152,7 +158,7 @@
 
 
   const buildPopupContent = (feature) => {
-    const { name, description, url, fully_booked, ticketed_events, start, end } = feature.properties;
+    const { name, description, url, new_venue_this_year, fully_booked, ticketed_events, start, end } = feature.properties;
     const id = Number(url.split(/\//).pop());
     const ticket_class = ticketed_events == 'Yes' ? 'ticketed' : '';
     const data = [
@@ -169,6 +175,7 @@
         data.push(`<dt>Starts</dt><dd>${startMin}</dd><dt>Finishes</dt><dd>${endMin}</dd>`);
       }
     }
+    data.push(`<dt>New this year</dt><dd>${new_venue_this_year}</dd>`);
     const coords = feature.geometry.coordinates;
     const latlng = `${coords[1]},${coords[0]}`;
     const gmapsParams = new URLSearchParams({'api': 1, 'destination': latlng});
