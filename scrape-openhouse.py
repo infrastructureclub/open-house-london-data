@@ -271,6 +271,7 @@ for building in buildings:
                         "ticketed": False,
                         "booking_link": None,
                         "drop_in": True,
+                        "balloted": False,
                     }
                 )
 
@@ -303,6 +304,10 @@ for building in buildings:
                 if booking_string == "Full":
                     fully_booked = True
 
+                balloted = False
+                if "Ballot" in booking_string:
+                    balloted = True
+
                 all_day = False
                 if time_string == "All day":
                     all_day = True
@@ -331,6 +336,7 @@ for building in buildings:
                         "ticketed": True,
                         "booking_link": original_url,
                         "drop_in": False,
+                        "balloted": balloted,
                     }
                 )
 
