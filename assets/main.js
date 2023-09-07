@@ -736,6 +736,12 @@
     }
   });
 
+  const resizeMap = async () => {
+    const map = await mapReady;
+    map.resize();
+  };
+  document.querySelector('.expand').addEventListener('click', resizeMap);
+
   const dateEl = document.getElementById('date');
   await buildDates(dateEl);
   loadFilter();
