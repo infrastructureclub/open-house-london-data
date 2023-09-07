@@ -5,7 +5,7 @@ All of it. Automatically scraped every 3 hours with updates committed to git, au
 
 Things you can use
 ------------------
-* **<a href="https://jonty.github.io/open-house-london-data/">A lovely browsable map, with filtering options by day and booking!</a>**
+* **<a href="http://openhouse.infrastructureclub.co.uk/">A lovely browsable map, with filtering options by day and booking!</a>**
 * Per-venue JSON data files containing all data from the Open House website in the [data/2023 directory](data/2023).
 * Per-day CSV files of venues in the [csv/2023 directory](csv/2023).
 * Per-day venue maps in both [GeoJSON](maps/2023/geojson) & [KML](maps/2023/kml) format in the [maps/2023 directory](maps/2023). You can [view the GeoJSON maps directly](maps/2023/geojson/2023-09-11.geojson).
@@ -115,7 +115,6 @@ Example JSON file
 
 Todo
 ----
-* New venues this year (perhaps add a "last open house this was available" field)
 * Ability to mark venues as "want to see" and "seen" and filter by this - perhaps with a backing store in google sheets per-user, using JS?
 * List view of all venues (with filters)
 * Show images
