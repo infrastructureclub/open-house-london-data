@@ -38,6 +38,7 @@ for date, locations in sorted(dates.items()):
     seen_latlons = set()
     for location in sorted(locations, key=lambda l: l["id"]):
         fully_booked = "Yes"
+        balloted_events = False
 
         start = None
         end = None
@@ -66,6 +67,9 @@ for date, locations in sorted(dates.items()):
                     end = event_end
 
                 break
+
+            if event["balloted"]:
+                balloted_events = True
 
         else:
             # No events, this must be an all_week thing
@@ -104,6 +108,8 @@ for date, locations in sorted(dates.items()):
                     "fully_booked": fully_booked,
                     "start": start_time,
                     "end": end_time,
+                    "balloted": balloted_events,
+                    "new_venue_this_year": location["new_venue_this_year"],
                 },
                 "geometry": p,
             }
