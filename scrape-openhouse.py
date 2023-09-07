@@ -237,7 +237,10 @@ for building in buildings:
                     matches = re.search("(\d+)", capacity_node[0])
                     capacity = int(matches.group(1))
 
-                notes = event.xpath('.//p[contains(@class, "text")]/text()')[0]
+                notes_node = event.xpath('.//p[contains(@class, "text")]/text()')
+                notes = ""
+                if notes_node:
+                    notes = notes_node[0]
                 time_string = event.xpath(".//p[not(@*)]")[0].text_content()
 
                 all_day = False
