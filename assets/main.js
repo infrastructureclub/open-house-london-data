@@ -361,9 +361,8 @@
         continue;
       } else if (datestr == 'all') {
         // Special option to show all listings
-        els.push(`<input type="radio" name="date" value="all" id="date-all"><label for="date-all">All</label>`);
+        els.unshift(`<input type="radio" name="date" value="all" id="date-all"><label for="date-all">All</label>`);
         continue;
-
       }
 
       const date = new Date(datestr);
