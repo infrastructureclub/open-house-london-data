@@ -48,25 +48,37 @@
 
   const updateProperties = (listings) => {
     for (const feature of listings.features) {
-      feature.properties.state = '';
-      feature.properties.icon = 'marker-red';
-      const id = Number(feature.properties.url.split(/\//).pop());
+      const props = feature.properties;
+      props.match = false;
+      props.state = '';
+      props.icon = 'marker-red';
+      const search = document.forms.filter.search.value;
+      if (search) {
+        props.match = (
+          props.description.toLowerCase().includes(search.toLowerCase()) ||
+          props.name.toLowerCase().includes(search.toLowerCase())
+        );
+      }
+      const id = Number(props.url.split(/\//).pop());
       const dates = favourites[id];
       if (!dates) continue;
       const anyBookmarked = Object.values(dates).some(f => f.state == 'bookmarked');
       const currentBookmarked = dates?.[document.forms.filter.date.value]?.state;
       if (currentBookmarked == 'bookmarked' || (document.forms.filter.date.value == 'all' && anyBookmarked)) {
-        feature.properties.state = 'bookmarked';
-        feature.properties.icon = 'marker-green';
+        props.state = 'bookmarked';
+        props.icon = 'marker-green';
       } else if (anyBookmarked) {
-        feature.properties.state = 'bookmarked-elsewhere';
-        feature.properties.icon = 'marker-yellow';
+        props.state = 'bookmarked-elsewhere';
+        props.icon = 'marker-yellow';
       }
     }
   }
 
   const getListingsFilter = () => {
     const filter = ['all', ['literal', true]];
+    if (document.forms.filter.search.value) {
+      filter.push(['get', 'match']);
+    }
     switch (document.forms.filter.ticketed_events.value) {
       case 'yes': filter.push(['==', ['get', 'ticketed_events'], 'Yes']); break;
       case 'no': filter.push(['==', ['get', 'ticketed_events'], 'No']); break;
@@ -117,11 +129,15 @@
     const from_time = document.forms.filter.from_time.valueAsNumber;
     const to_time = 24 - document.forms.filter.to_time.valueAsNumber;
     hash.set('filter', `${date}/${from_time}/${to_time}/${ticketed_events}/${fully_booked}`);
+    hash.set('search', document.forms.filter.search.value);
+    if (!hash.get('search')) hash.delete('search');
     document.location.hash = '#' + hash.toString().replaceAll('%2F', '/');
   };
 
   const loadFilter = () => {
     const hash = new URLSearchParams(document.location.hash.substr(1));
+    const search = hash.get('search');
+    document.forms.filter.search.value = search;
     const filter = hash.get('filter');
     if (!filter) return;
     const [date, from_time, to_time, ticketed_events, fully_booked] = filter.split('/');
@@ -492,6 +508,8 @@
           scope: this.SCOPES,
           // FIXME: make this a Promise too
           callback: null,
+          // TODO
+          error_callback: null,
         });
       };
       await Promise.all([loadGapi(), loadGis()]);
@@ -674,6 +692,22 @@
   document.forms.filter.addEventListener('click', (e) => {
     if (e.target.closest('input')) updateListings();
   });
+
+  document.forms.filter.addEventListener('submit', (e) => {
+    e.preventDefault();
+  });
+
+  let searchTimer = null;
+  const doSearch = () => {
+    updateListings();
+    searchTimer = null;
+  };
+  document.querySelector('#search').addEventListener('input', (e) => {
+    const search = document.forms.filter.search.value;
+    if (searchTimer) clearTimeout(searchTimer);
+    searchTimer = setTimeout(doSearch, [1, 2].includes(search.length) ? 1000 : 100);
+  });
+  document.querySelector('#search').addEventListener('change', doSearch);
 
   const updateAriaExpanded = () => {
     const el = document.querySelector('.button-down');

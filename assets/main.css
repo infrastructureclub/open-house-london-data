@@ -79,6 +79,18 @@ fieldset:first-child {
   }
 }
 
+input[type="text"] {
+  height: 4.8ex;
+  background-color: #fff;
+  border-radius: 15px;
+  border: 1px solid #ccc;
+  padding: 0 0.5em;
+  font-size: inherit;
+  font-family: inherit;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+
 .options {
   display: inline-grid;
   grid-auto-flow: column;
