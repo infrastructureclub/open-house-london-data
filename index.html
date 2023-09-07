@@ -15,6 +15,7 @@
   </head>
   <body class="not-ready">
     <header>
+      <input type="checkbox" class="expand"/>
       <form name="filter" action="">
         <fieldset>
           <label for="date">Date</label>
@@ -29,6 +30,21 @@
         </fieldset>
 
         <fieldset>
+          <div class="connect-google">
+            <button type="button" class="google-new">
+              Connect
+            </button>
+            <input type="checkbox" class="button-down" id="connect-google-down" aria-haspopup="menu" aria-label="Other Google options"/><label for="connect-google-down"></label>
+            <div class="button-menu">
+              <button type="button" class="google-existing">Open existing</button>
+            </div>
+            <button type="button" class="google-status">
+              Loading
+            </button>
+          </div>
+        </fieldset>
+
+        <fieldset class="expanded-only">
           <label for="new_venue_this_year">New</label>
           <div class="options" id="new_venue_this_year">
             <input type="radio" name="new_venue_this_year" value="yes" id="new_venue_this_year-yes"><label for="new_venue_this_year-yes">Yes</label>
@@ -37,7 +53,7 @@
           </div>
         </fieldset>
 
-        <fieldset>
+        <fieldset class="expanded-only">
           <label for="ticketed_events">Ticketed</label>
           <div class="options" id="ticketed_events">
             <input type="radio" name="ticketed_events" value="yes" id="ticketed_events-yes"><label for="ticketed_events-yes">Yes</label>
@@ -46,7 +62,7 @@
           </div>
         </fieldset>
 
-        <fieldset>
+        <fieldset class="expanded-only">
           <label for="fully_booked">Fully booked</label>
           <div class="options" id="fully_booked">
             <input type="radio" name="fully_booked" value="yes" id="fully_booked-yes"><label for="fully_booked-yes">Yes</label>
@@ -55,7 +71,7 @@
           </div>
         </fieldset>
 
-        <fieldset>
+        <fieldset class="expanded-only">
           <label for="from_time">Time</label>
           <div class="time-graph"></div>
           <timerange>
@@ -99,27 +115,12 @@
           </timerange>
         </fieldset>
 
-        <fieldset>
+        <fieldset class="expanded-only">
           <label for="bookmarked">Bookmarked</label>
           <div class="options" id="bookmarked">
             <input type="radio" name="bookmarked" value="yes" id="bookmarked-yes"><label for="bookmarked-yes">Yes</label>
             <input type="radio" name="bookmarked" value="no" id="bookmarked-no"><label for="bookmarked-no">No</label>
             <input type="radio" name="bookmarked" value="any" id="bookmarked-any" checked><label for="bookmarked-any">Any</label>
-          </div>
-        </fieldset>
-
-        <fieldset>
-          <div class="connect-google">
-            <button type="button" class="google-new">
-              Connect
-            </button>
-            <input type="checkbox" class="button-down" id="connect-google-down" aria-haspopup="menu"/><label for="connect-google-down">▼</label>
-            <div class="button-menu">
-              <button type="button" class="google-existing">Open existing</button>
-            </div>
-            <button type="button" class="google-status">
-              Loading
-            </button>
           </div>
         </fieldset>
       </form>

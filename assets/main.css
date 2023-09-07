@@ -49,9 +49,37 @@ body > footer ul li:not(:first-child)::before {
 body > header {
   z-index: 1;
   box-shadow: 0 0 0.4ex #000;
+  display: flex;
+  flex-direction: column;
 }
 
-body > header form {
+body > header > input.expand {
+  appearance: none;
+  font-size: inherit;
+  height: 2ex;
+  margin: 0.5ex;
+  order: 2;
+  background: transparent url(double-arrow-down.svg) no-repeat 50% 50% / 16px;
+}
+
+body > header > input.expand:checked {
+  background-image: url(double-arrow-up.svg);
+}
+
+body > header > input.expand:hover,
+body > header > input.expand:active {
+  background-color: #377;
+}
+
+body > header > input.expand + form > .expanded-only {
+  display: none;
+}
+
+body > header > input.expand:checked + form > .expanded-only {
+  display: inherit;
+}
+
+body > header > form {
   padding: 0.3ex 0.5em;
   display: flex;
   flex-wrap: wrap;
@@ -63,15 +91,36 @@ fieldset {
   padding: 0;
   display: flex;
   align-items: center;
+  margin: 0.2ex 0;
 }
 
-/* This will be the container for #date */
-fieldset:first-child {
+/* Container for #date */
+fieldset:nth-child(1) {
   min-width: 0;
   flex: 1 1 20em;
   width: calc(100vw - 3.5em);
   max-width: max-content;
 }
+
+/* Container for #search */
+fieldset:nth-child(2) {
+  flex: 1 1 12em;
+}
+
+@media screen and (min-width: 600px) {
+  fieldset:nth-child(2) {
+    flex: 1 1 20em;
+  }
+}
+
+fieldset:nth-child(2) > input {
+  width: 100%;
+}
+
+input.expand:checked + form > fieldset:first-child {
+  flex: auto;
+}
+
 
 @media screen and (max-width: 40em) {
   .report-bug {
@@ -522,6 +571,7 @@ input[type="range"]#to_time::-moz-range-track {
   display: grid;
   grid-template-columns: fit-content(6em) fit-content(1em) auto;
   height: 4.8ex;
+  margin: 0.4ex 0.5em 0.4ex;
   overflow: visible;
 }
 
@@ -555,7 +605,6 @@ input[type="range"]#to_time::-moz-range-track {
 .connect-google input.button-down {
   width: 0;
   height: 0;
-  margin: 0;
   appearance: none;
 }
 
@@ -564,7 +613,7 @@ input[type="range"]#to_time::-moz-range-track {
   display: flex;
   margin: auto 0;
   align-items: center;
-  background-color: #488;
+  background: #488 url('arrow-down.svg') no-repeat 50% 60% / 16px;
   height: 4.8ex;
   width: 1em;
   border-left: 1px solid #686;
