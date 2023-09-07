@@ -102,6 +102,7 @@ for building in buildings:
         "events": [],
         "all_week": False,  # Not used anymore, preserved for backward compat
         "ticketed_events": False,
+        "new_venue_this_year": True,
     }
 
     # Images
@@ -349,6 +350,11 @@ for building in buildings:
 
     if links_ticketed or events_ticketed:
         data["ticketed_events"] = True
+
+    # If we've seen this venue in the past five years, it's not new
+    for previous_year in (year-1, year-2, year-3, year-4, year-5):
+        if os.path.exists("data/%s/%s.json" % (previous_year, data["id"])):
+            data["new_venue_this_year"] = False
 
     os.makedirs("data/%s" % year, exist_ok=True)
     with open("data/%s/%s.json" % (year, data["id"]), "w", encoding="utf8") as f:
