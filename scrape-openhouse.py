@@ -124,10 +124,9 @@ for building in buildings:
     data["location"]["address"] = address_nodes[0].strip()
 
     # The map link now only exists if you have JS on, there is no non-JS default /o\
-    lat_matches = re.search("const lat = (-?\d+\.\d+)", str(response.content))
-    data["location"]["latitude"] = float(lat_matches.group(1))
-    lon_matches = re.search("const lon = (-?\d+\.\d+)", str(response.content))
-    data["location"]["longitude"] = float(lon_matches.group(1))
+    lat_lon_matches = re.search('"https://www.openstreetmap.org/#map=18/(-?\d+\.\d+)/(-?\d+\.\d+)"', str(response.content))
+    data["location"]["latitude"] = float(lat_lon_matches.group(1))
+    data["location"]["longitude"] = float(lat_lon_matches.group(2))
 
     travel_and_facilities_prefix = (
         '//section[contains(@class, "oc-listing-details")]/div[2]'
