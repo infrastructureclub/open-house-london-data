@@ -1,7 +1,7 @@
 name: Update open house data
 on: 
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 jobs:
   scrape-and-commit:
