@@ -23,6 +23,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -37,6 +38,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -51,6 +53,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -65,6 +68,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -125,21 +129,21 @@
     "id": 10902,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10902/building_10902_roman-amphitheatre-resize-square_35a567719e9ca66c583eb11a25551262.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10902/building_10902_roman-amphitheatre-resize-square_9ae1adc560e04bc1bca04278998749d1.jpg",
             "description": null,
             "title": "London's Roman Amphitheatre",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10902_roman-amphitheatre-resize-square_35a567719e9ca66c583eb11a25551262.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10902_roman-amphitheatre-resize-square_9ae1adc560e04bc1bca04278998749d1.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10902/building_10902_roman-amphitheatre-resize_e9a0df20f094ba33a145d3f72a9337e7.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10902/building_10902_roman-amphitheatre-resize_725f114eb5a1f59bd0ce13d82cd611f6.jpg",
             "description": null,
             "title": "London's Roman Amphitheatre",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10902_roman-amphitheatre-resize_e9a0df20f094ba33a145d3f72a9337e7.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10902_roman-amphitheatre-resize_725f114eb5a1f59bd0ce13d82cd611f6.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "London’s Roman Amphitheatre at Guildhall Art Ga",
+        "address": "London’s Roman Amphitheatre at Guildhall Art Gallery, Guildhall Yard",
         "latitude": 51.5155471,
         "longitude": -0.0914547,
         "meeting_point": null,
@@ -150,6 +154,7 @@
         ]
     },
     "name": "London's Roman Amphitheatre",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10902",
     "ticketed_events": false
 }

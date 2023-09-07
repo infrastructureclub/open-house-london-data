@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -70,42 +71,44 @@
     "id": 7702,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7702/building_7702_st-je_c0ad6971befcf7dbeb897f6ff333d2e1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7702/building_7702_st-je_27dae6de8d34ccfd53b1292a01a8a22e.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7702_st-je_c0ad6971befcf7dbeb897f6ff333d2e1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7702_st-je_27dae6de8d34ccfd53b1292a01a8a22e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7702/building_7702_font_ea0d2711bc4ba1fc5cc165519ca7dc3c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7702/building_7702_font_50a19b16b6bb78f29e5f7e6767b9e5a4.jpg",
             "description": null,
             "title": "The Font ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7702_font_ea0d2711bc4ba1fc5cc165519ca7dc3c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7702_font_50a19b16b6bb78f29e5f7e6767b9e5a4.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7702/building_7702_img-0772_bdc9ec0a94b0c6cf72c42cf582f177ea.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7702/building_7702_img-0772_61afc1ad27b30d7cd81dfa33da3f01f6.jpg",
             "description": null,
             "title": "View of the Alter",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7702_img-0772_bdc9ec0a94b0c6cf72c42cf582f177ea.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7702_img-0772_61afc1ad27b30d7cd81dfa33da3f01f6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7702/building_7702_img-0778_62f8d19873194c145f974018d0d87050.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7702/building_7702_img-0778_238ab155a77051aa197c1cafb48fa4c8.jpg",
             "description": null,
             "title": "One of the internal pillars",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7702_img-0778_62f8d19873194c145f974018d0d87050.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7702_img-0778_238ab155a77051aa197c1cafb48fa4c8.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Grove Lane, Kingston upon thames",
+        "address": "Grove Lane, Kingston upon thames, Kingston upon Thames, KT1 2SU",
         "latitude": 51.4025463,
         "longitude": -0.2985612,
         "meeting_point": null,
         "travel_info": [
             "Train: Kingston, Surbiton",
-            "Bus: K2, K1, K4"
+            "Bus: K2, K1, K4",
+            "Additional travel info: We are close to Kingston University and County Hall so any bus that goes near there is close to us.\r\nThere is on street meter parking."
         ]
     },
     "name": "St John the Evangelist, Kingston upon Thames",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/7702",
     "ticketed_events": false
 }

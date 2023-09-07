@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -63,16 +64,16 @@
     "id": 3549,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3549/building_3549_image_df2cc31687fcbb8af6beccaaf9e83042.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3549/building_3549_image_62ed5af4ed430ebb7ce41e2720f370ce.jpeg",
             "description": null,
             "title": "View from Upper Shirley Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3549_image_df2cc31687fcbb8af6beccaaf9e83042.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3549_image_62ed5af4ed430ebb7ce41e2720f370ce.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3549/building_3549_image_843e4230df938974fa875f8f8dd9a8f3.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3549/building_3549_image_21f618348fdc225015706906e3a9e96f.jpeg",
             "description": null,
             "title": "View from Visitors Centre",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3549_image_843e4230df938974fa875f8f8dd9a8f3.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3549_image_21f618348fdc225015706906e3a9e96f.jpeg"
         }
     ],
     "links": [
@@ -82,7 +83,7 @@
         }
     ],
     "location": {
-        "address": "Postmill Close, Upper Shirley Road, Croydon",
+        "address": "Postmill Close, Upper Shirley Road, Croydon, CR0 5DY",
         "latitude": 51.3686336,
         "longitude": -0.05618869999999999,
         "meeting_point": null,
@@ -92,6 +93,7 @@
         ]
     },
     "name": "Shirley Windmill",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/3549",
     "ticketed_events": false
 }

@@ -18,6 +18,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11292",
             "capacity": null,
             "date": "2023-09-12",
@@ -32,6 +33,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11292",
             "capacity": null,
             "date": "2023-09-13",
@@ -46,6 +48,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11292",
             "capacity": null,
             "date": "2023-09-15",
@@ -85,22 +88,22 @@
     "id": 11292,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11292/building_11292_shoreditch_charles_watson_4c5239a45ef727eebde618e00c17c65c.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11292/building_11292_shoreditch_charles_watson_339739020e15a18f562e530ac745f971.png",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11292_shoreditch_charles_watson_4c5239a45ef727eebde618e00c17c65c.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11292_shoreditch_charles_watson_339739020e15a18f562e530ac745f971.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11292/building_11292_p4272133_1024_e5c19c2e7baf8cfd5e725bf202b1f307.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11292/building_11292_p4272133_1024_5bfebc78b59d9f70383d821c14f3bc7c.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11292_p4272133_1024_e5c19c2e7baf8cfd5e725bf202b1f307.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11292_p4272133_1024_5bfebc78b59d9f70383d821c14f3bc7c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11292/building_11292_610c4e610df092db76_8719128339_195bf09074_k_e00be4e1113d6efc2ee8efd1cdface23.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11292/building_11292_610c4e610df092db76_8719128339_195bf09074_k_a744d369635c96cb8c307ed30dbe2e45.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11292_610c4e610df092db76_8719128339_195bf09074_k_e00be4e1113d6efc2ee8efd1cdface23.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11292_610c4e610df092db76_8719128339_195bf09074_k_a744d369635c96cb8c307ed30dbe2e45.jpg"
         }
     ],
     "links": [
@@ -110,7 +113,7 @@
         }
     ],
     "location": {
-        "address": "Brushfield Street (opposite Hotel Chocolate)",
+        "address": "Brushfield Street (opposite Hotel Chocolate), E1 6AA",
         "latitude": 51.5189216,
         "longitude": -0.0778201,
         "meeting_point": null,
@@ -120,6 +123,7 @@
         ]
     },
     "name": "Walking around Ermine Street, Spitalfields",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11292",
     "ticketed_events": true
 }

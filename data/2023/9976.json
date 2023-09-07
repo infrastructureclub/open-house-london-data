@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -57,28 +58,28 @@
     "id": 9976,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9976/building_9976_exterior-dec09_2_1-1_a039676217778c66ecc3d472c8ee4930.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9976/building_9976_exterior-dec09_2_1-1_39c852ca0481b83f272d050ca761302a.jpg",
             "description": null,
             "title": "View from the corner of Mandeville Place",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9976_exterior-dec09_2_1-1_a039676217778c66ecc3d472c8ee4930.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9976_exterior-dec09_2_1-1_39c852ca0481b83f272d050ca761302a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9976/building_9976_pulpit_e2250359ce3b457fdad560b9285941db.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9976/building_9976_pulpit_9365d2f09a6c282fa81b1d261cfd61d5.jpg",
             "description": null,
             "title": "The Pulpit",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9976_pulpit_e2250359ce3b457fdad560b9285941db.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9976_pulpit_9365d2f09a6c282fa81b1d261cfd61d5.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9976/building_9976_front_4b8dcbde9da023d2e4a79130e981dfcb.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9976/building_9976_front_1ca9cb0b04cba5731b6282a8eaad51b0.jpeg",
             "description": null,
             "title": "Interior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9976_front_4b8dcbde9da023d2e4a79130e981dfcb.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9976_front_1ca9cb0b04cba5731b6282a8eaad51b0.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9976/building_9976_interior-organ2_f536a0096dba098d83b43393eda091b4.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9976/building_9976_interior-organ2_e64dbdf4120c734a3b4af6d407c24703.jpg",
             "description": null,
             "title": "The Organ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9976_interior-organ2_f536a0096dba098d83b43393eda091b4.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9976_interior-organ2_e64dbdf4120c734a3b4af6d407c24703.jpg"
         }
     ],
     "links": [],
@@ -90,10 +91,12 @@
         "travel_info": [
             "Tube: Bond Street, Baker Street, Marble Arch, Oxford Circus",
             "Train: Marylebone",
-            "Bus: 113, 2, 30, 390, 74, 94, 98"
+            "Bus: 113, 2, 30, 390, 74, 94, 98",
+            "Additional travel info: The church is located 3 blocks north of Bond Street Tube Station.  Walk up Marylebone Lane or James Street, then Mandeville Place."
         ]
     },
     "name": "Hinde Street Methodist Church",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/9976",
     "ticketed_events": false
 }

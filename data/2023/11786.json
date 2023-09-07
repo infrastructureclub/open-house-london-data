@@ -20,12 +20,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11786",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T11:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": null,
             "start": "2023-09-09T10:00:00+01:00",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11786",
             "capacity": null,
             "date": "2023-09-09",
@@ -48,6 +50,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11786",
             "capacity": null,
             "date": "2023-09-09",
@@ -62,6 +65,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11786",
             "capacity": null,
             "date": "2023-09-09",
@@ -76,6 +80,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11786",
             "capacity": null,
             "date": "2023-09-09",
@@ -90,6 +95,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11786",
             "capacity": null,
             "date": "2023-09-09",
@@ -116,33 +122,33 @@
     "id": 11786,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11786/building_11786_50707_0c520469b5897cb01c8efd3fb74cd8a2.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11786/building_11786_50707_836fda11b7309a4d0df3ccf17d8ff8b1.jpg",
             "description": null,
             "title": "Brent Cross station (c) TfL Visual Services",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11786_50707_0c520469b5897cb01c8efd3fb74cd8a2.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11786_50707_836fda11b7309a4d0df3ccf17d8ff8b1.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11786/building_11786_50743_fe7a23f8eca071a0a09dc4b1a21a8080.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11786/building_11786_50743_359b503d2025f715c11d8dce08c8d363.jpg",
             "description": null,
             "title": "Hendon Central station (c) TfL Visual Services",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11786_50743_fe7a23f8eca071a0a09dc4b1a21a8080.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11786_50743_359b503d2025f715c11d8dce08c8d363.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11786/building_11786_hendon-central_0b456bd9ebf163634ff167fd78077b55.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11786/building_11786_hendon-central_9d7dc089e9afb444aa711c8ab3420852.jpg",
             "description": null,
             "title": "Hendon Central, 1924 (c) TfL courtesy of the London Transport Museum",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11786_hendon-central_0b456bd9ebf163634ff167fd78077b55.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11786_hendon-central_9d7dc089e9afb444aa711c8ab3420852.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11786/building_11786_golders-green_a7d529912fbd35ef48cf987173515844.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11786/building_11786_golders-green_82fb10f6ae3b33bec6e0767f99e33b7d.jpg",
             "description": null,
             "title": "Golders Green 1907, (c) TfL courtesy of the London Transport Museum",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11786_golders-green_a7d529912fbd35ef48cf987173515844.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11786_golders-green_82fb10f6ae3b33bec6e0767f99e33b7d.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Golders Green Underground Station",
+        "address": "Golders Green Underground Station, North End Road, NW11 7RN",
         "latitude": 51.5722281,
         "longitude": -0.1942171,
         "meeting_point": null,
@@ -152,6 +158,7 @@
         ]
     },
     "name": "1923 Northern Line Extension stations",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11786",
     "ticketed_events": true
 }

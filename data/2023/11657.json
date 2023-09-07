@@ -20,6 +20,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11657",
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11657",
             "capacity": null,
             "date": "2023-09-16",
@@ -48,6 +50,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11657",
             "capacity": null,
             "date": "2023-09-16",
@@ -62,6 +65,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11657",
             "capacity": null,
             "date": "2023-09-16",
@@ -76,6 +80,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11657",
             "capacity": null,
             "date": "2023-09-16",
@@ -90,6 +95,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11657",
             "capacity": null,
             "date": "2023-09-16",
@@ -104,6 +110,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11657",
             "capacity": null,
             "date": "2023-09-17",
@@ -118,6 +125,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11657",
             "capacity": null,
             "date": "2023-09-17",
@@ -132,6 +140,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11657",
             "capacity": null,
             "date": "2023-09-17",
@@ -146,6 +155,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11657",
             "capacity": null,
             "date": "2023-09-17",
@@ -160,6 +170,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11657",
             "capacity": null,
             "date": "2023-09-17",
@@ -202,16 +213,16 @@
     "id": 11657,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11657/building_11657_01-view-from-public-highway-to-side-elevation-of-house_f5012bc2aa4b919b616d715380565954.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11657/building_11657_01-view-from-public-highway-to-side-elevation-of-house_0269eed6019996b9b717142c0865f3b7.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11657_01-view-from-public-highway-to-side-elevation-of-house_f5012bc2aa4b919b616d715380565954.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11657_01-view-from-public-highway-to-side-elevation-of-house_0269eed6019996b9b717142c0865f3b7.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11657/building_11657_06-internal-view-of-kitchen-towards-main-external-brick-elevation_ec10680a05e1a24cff66df0812de383f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11657/building_11657_06-internal-view-of-kitchen-towards-main-external-brick-elevation_45122f8bbdc113c6e027235ed9205383.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11657_06-internal-view-of-kitchen-towards-main-external-brick-elevation_ec10680a05e1a24cff66df0812de383f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11657_06-internal-view-of-kitchen-towards-main-external-brick-elevation_45122f8bbdc113c6e027235ed9205383.jpg"
         }
     ],
     "links": [
@@ -231,10 +242,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Leyton",
-            "Train: Leyton Midland Road"
+            "Train: Leyton Midland Road",
+            "Additional travel info: Leytonstone tube"
         ]
     },
     "name": "Leyton House",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11657",
     "ticketed_events": true
 }

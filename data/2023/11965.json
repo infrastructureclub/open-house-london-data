@@ -14,12 +14,13 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11965",
             "capacity": null,
             "date": "2023-09-08",
             "drop_in": false,
             "end": "2023-09-08T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "STRATFORD ART AND CULTURE TRAIL",
             "notes": null,
             "start": "2023-09-08T11:00:00+01:00",
@@ -50,34 +51,34 @@
     "id": 11965,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11965/building_11965_p1010924_5468d4072696ed727941e2f0e75ce930.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11965/building_11965_p1010924_00ea31f3f99427d9d06d864a66d1e2a9.jpg",
             "description": null,
             "title": "Warton House @ Anthony Palmer",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11965_p1010924_5468d4072696ed727941e2f0e75ce930.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11965_p1010924_00ea31f3f99427d9d06d864a66d1e2a9.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11965/building_11965_sdim0628_176782726938a3b8b55977530d44fb7d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11965/building_11965_sdim0628_7a3268dfee19cc24968b5f5f88bcd0ef.jpg",
             "description": null,
             "title": "Anthony Palmer",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11965_sdim0628_176782726938a3b8b55977530d44fb7d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11965_sdim0628_7a3268dfee19cc24968b5f5f88bcd0ef.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11965/building_11965_sdim0640_3d23e42ad10cf0cf74425fe39197dec0.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11965/building_11965_sdim0640_39e4492214294787aa6df1eb2a38efb4.jpg",
             "description": null,
             "title": "Anthony Palmer",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11965_sdim0640_3d23e42ad10cf0cf74425fe39197dec0.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11965_sdim0640_39e4492214294787aa6df1eb2a38efb4.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11965/building_11965_sdim0601_ef8638793776abefc9abc4de5ec4a212.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11965/building_11965_sdim0601_58825e2fe0b89664693b7c0757071426.jpg",
             "description": null,
             "title": "Anthony Palmer",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11965_sdim0601_ef8638793776abefc9abc4de5ec4a212.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11965_sdim0601_58825e2fe0b89664693b7c0757071426.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11965/building_11965_sdim0587_3124eac31d5ec48a14b140b691a3d474.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11965/building_11965_sdim0587_f44b30fe8730683e1a5a47fa7adfdde9.jpg",
             "description": null,
             "title": "Anthony Palmer",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11965_sdim0587_3124eac31d5ec48a14b140b691a3d474.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11965_sdim0587_f44b30fe8730683e1a5a47fa7adfdde9.jpg"
         }
     ],
     "links": [
@@ -93,10 +94,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Pudding Mill Lane",
-            "Bus: D8, 425, 108, 25"
+            "Bus: D8, 425, 108, 25",
+            "Additional travel info: The tour begins at the street level concourse of Pudding Mill Lane DLR station and ends near to Stratford Station."
         ]
     },
     "name": "Stratford art and culture trail",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11965",
     "ticketed_events": true
 }

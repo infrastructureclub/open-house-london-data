@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -79,36 +81,38 @@
     "id": 6449,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6449/building_6449_greenwichgatewaypavilionsggp12timsoar_9151ec9693ea2e696383fc0ba9e70249.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6449/building_6449_greenwichgatewaypavilionsggp12timsoar_8b1bfcf535f0ceeac132b9ae7381b3e2.jpeg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6449_greenwichgatewaypavilionsggp12timsoar_9151ec9693ea2e696383fc0ba9e70249.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6449_greenwichgatewaypavilionsggp12timsoar_8b1bfcf535f0ceeac132b9ae7381b3e2.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6449/building_6449_8ad167acc875314961cb57ef0f6d5595_47da1da46af455be0e863dd1bae305a7.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6449/building_6449_8ad167acc875314961cb57ef0f6d5595_7a6796a1b855b2aec85bbf1c9eb84577.jpeg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6449_8ad167acc875314961cb57ef0f6d5595_47da1da46af455be0e863dd1bae305a7.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6449_8ad167acc875314961cb57ef0f6d5595_7a6796a1b855b2aec85bbf1c9eb84577.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6449/building_6449_portada_greenwichgatewaypavilionsggp07timsoar_29da679f74136b4e178134d2fa248dea.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6449/building_6449_portada_greenwichgatewaypavilionsggp07timsoar_0b99e861d33e1f69f015b4c4be5f923a.jpeg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6449_portada_greenwichgatewaypavilionsggp07timsoar_29da679f74136b4e178134d2fa248dea.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6449_portada_greenwichgatewaypavilionsggp07timsoar_0b99e861d33e1f69f015b4c4be5f923a.jpeg"
         }
     ],
     "links": [],
     "location": {
-        "address": "The Gateway Pavilions, Peninsula Square",
+        "address": "The Gateway Pavilions, Peninsula Square, Greenwich Peninsula",
         "latitude": 51.5003067,
         "longitude": 0.0049082,
         "meeting_point": null,
         "travel_info": [
             "Tube: North Greenwich",
-            "Bus: 161, 129, 472, 108, 188"
+            "Bus: 161, 129, 472, 108, 188",
+            "Additional travel info: The closest tube station in North Greenwich (30 metres). On the 24-hour Jubilee line, it gets you to London Bridge in 8 minutes and Waterloo in 11 minutes.\r\n\r\nEMIRATES AIR LINE CABLE CAR\r\nConnecting the Design District to the Royal Docks (near ExCel London) and the DLR.\r\n\r\nNorth Greenwich bus station is a major hub providing direct links across the city."
         ]
     },
-    "name": "NOW Gallery",
+    "name": "NOW Gallery : Design District",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6449",
     "ticketed_events": false
 }

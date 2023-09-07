@@ -26,6 +26,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -40,6 +41,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -98,22 +100,22 @@
     "id": 6835,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6835/building_6835_img_0663_7a58f2bcf26a551646318a00aafd4ae8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6835/building_6835_img_0663_4fa2f339a39ae04f0ecc81fcf51fb242.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6835_img_0663_7a58f2bcf26a551646318a00aafd4ae8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6835_img_0663_4fa2f339a39ae04f0ecc81fcf51fb242.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6835/building_6835_img_0659_e4884bcb12c5ad82864f7270df33b89a.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6835/building_6835_img_0659_d44af0a3ace8cd78ce6397b47224ce27.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6835_img_0659_e4884bcb12c5ad82864f7270df33b89a.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6835_img_0659_d44af0a3ace8cd78ce6397b47224ce27.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6835/building_6835_fetter-lane-moravian-church_3d35ad13ad206384cfc7e06a32eed56f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6835/building_6835_fetter-lane-moravian-church_bcebe47a04f465f808608e3e36f4b13f.jpg",
             "description": null,
             "title": "View from burial ground to the Manse and 17th C stable block.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6835_fetter-lane-moravian-church_3d35ad13ad206384cfc7e06a32eed56f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6835_fetter-lane-moravian-church_bcebe47a04f465f808608e3e36f4b13f.jpg"
         }
     ],
     "links": [],
@@ -124,10 +126,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Sloane Square, South Kensington, Earl's Court",
-            "Bus: 22, 19, 319, 11, 49, 345, 328"
+            "Bus: 22, 19, 319, 11, 49, 345, 328",
+            "Additional travel info: There is no parking in the Close.  On-street parking is mainly for residents with some pay-and-display.  Bikes may be brought into the Close although there is no secure storage."
         ]
     },
     "name": "Moravian Close",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6835",
     "ticketed_events": false
 }

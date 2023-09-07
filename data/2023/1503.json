@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -91,21 +92,21 @@
     "id": 1503,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1503/building_1503_round-chapel-sw_031a8e867cf0927160340972efccb35b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1503/building_1503_round-chapel-sw_adffcf6337ef8dee0ca88f0dd9fb5556.jpg",
             "description": null,
             "title": "View from South West",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1503_round-chapel-sw_031a8e867cf0927160340972efccb35b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1503_round-chapel-sw_adffcf6337ef8dee0ca88f0dd9fb5556.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1503/building_1503_img-0840_6ff19bea0cb5557c8114ab565f57f3c1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1503/building_1503_img-0840_2d6c438ebffaca397be2da29db1bc035.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1503_img-0840_6ff19bea0cb5557c8114ab565f57f3c1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1503_img-0840_2d6c438ebffaca397be2da29db1bc035.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Lower Clapton Road (junction with Glenarm Road)",
+        "address": "Lower Clapton Road (junction with Glenarm Road), E5 0NP",
         "latitude": 51.5523664,
         "longitude": -0.0526051,
         "meeting_point": null,
@@ -115,6 +116,7 @@
         ]
     },
     "name": "Round Chapel",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1503",
     "ticketed_events": false
 }

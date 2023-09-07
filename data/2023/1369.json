@@ -24,6 +24,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -38,6 +39,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-14",
@@ -52,6 +54,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1369",
             "capacity": null,
             "date": "2023-09-14",
@@ -95,28 +98,28 @@
     "id": 1369,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1369/building_1369_thumbnail_img_3284-1_6aadb876a38493df370509cca3a305df.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1369/building_1369_thumbnail_img_3284-1_fea4ac539e3fbbd40a0e9fce1ac2706e.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1369_thumbnail_img_3284-1_6aadb876a38493df370509cca3a305df.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1369_thumbnail_img_3284-1_fea4ac539e3fbbd40a0e9fce1ac2706e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1369/building_1369_phm-04-003_b110b3c4d7e7b5e1cbaa5476b67f5aa5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1369/building_1369_phm-04-003_fcad303705a22c3881ce10cb2b5633b6.jpg",
             "description": null,
             "title": "Pitzhanger Manor & Gallery",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1369_phm-04-003_b110b3c4d7e7b5e1cbaa5476b67f5aa5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1369_phm-04-003_fcad303705a22c3881ce10cb2b5633b6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1369/building_1369_13_vestibule_up_angled_pitzhanger16july21383_7aacf8ebbda3696f8279d9d07d5cf5e6.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1369/building_1369_13_vestibule_up_angled_pitzhanger16july21383_81cd1e4f84321ef3e40d8d8277c6d24f.jpg",
             "description": null,
             "title": "Vestibule ceiling",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1369_13_vestibule_up_angled_pitzhanger16july21383_7aacf8ebbda3696f8279d9d07d5cf5e6.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1369_13_vestibule_up_angled_pitzhanger16july21383_81cd1e4f84321ef3e40d8d8277c6d24f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1369/building_1369_drawingrmwide_pitzhangera21323_3b922adf380cb7d54a8fedb5aa29c6b2.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1369/building_1369_drawingrmwide_pitzhangera21323_4be2b6f044c9f46e3373587fb9605537.jpg",
             "description": null,
             "title": "Upper Drawing Room",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1369_drawingrmwide_pitzhangera21323_3b922adf380cb7d54a8fedb5aa29c6b2.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1369_drawingrmwide_pitzhangera21323_4be2b6f044c9f46e3373587fb9605537.jpg"
         }
     ],
     "links": [],
@@ -128,10 +131,12 @@
         "travel_info": [
             "Tube: Ealing Broadway, South Ealing",
             "Train: Ealing Broadway",
-            "Bus: 65, 207, 427, 483"
+            "Bus: 65, 207, 427, 483",
+            "Additional travel info: 65, 207, 427, 483, 607"
         ]
     },
     "name": "Pitzhanger Manor & Gallery",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1369",
     "ticketed_events": true
 }

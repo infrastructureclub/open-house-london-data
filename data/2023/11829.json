@@ -12,8 +12,39 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "This a rare opportunity to get closer to the woman behind the books and discover what motivates her.",
+            "start": "2023-09-10T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-11",
+            "drop_in": true,
+            "end": "2023-09-11T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "This a rare opportunity to get closer to the woman behind the books and discover what motivates her.",
+            "start": "2023-09-11T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11829",
             "capacity": null,
             "date": "2023-09-10",
@@ -28,6 +59,7 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11829",
             "capacity": null,
             "date": "2023-09-10",
@@ -42,6 +74,7 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11829",
             "capacity": null,
             "date": "2023-09-11",
@@ -56,6 +89,7 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11829",
             "capacity": null,
             "date": "2023-09-11",
@@ -89,10 +123,10 @@
     "id": 11829,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11829/building_11829_telemmglpict000321185836_trans_nvbqzqnjv4bqro-_hxfdloltop2z5mtoinsz8pkkqlae5tq5zi7xfxu_578578d60ddeea17b2d8541a83cd88b6.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11829/building_11829_telemmglpict000321185836_trans_nvbqzqnjv4bqro-_hxfdloltop2z5mtoinsz8pkkqlae5tq5zi7xfxu_0890a4106982c55ef71d7a8c7d401c1b.jpeg",
             "description": null,
             "title": "Photo displaying Vivian Archer at Newham Bookshop",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11829_telemmglpict000321185836_trans_nvbqzqnjv4bqro-_hxfdloltop2z5mtoinsz8pkkqlae5tq5zi7xfxu_578578d60ddeea17b2d8541a83cd88b6.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11829_telemmglpict000321185836_trans_nvbqzqnjv4bqro-_hxfdloltop2z5mtoinsz8pkkqlae5tq5zi7xfxu_0890a4106982c55ef71d7a8c7d401c1b.jpeg"
         }
     ],
     "links": [],
@@ -103,10 +137,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Upton Park",
-            "Bus: 58, 330, 147, 104"
+            "Bus: 58, 330, 147, 104",
+            "Additional travel info: 9 minutes walking from Upton Park Underground Station"
         ]
     },
     "name": "A bookshop for All",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11829",
     "ticketed_events": true
 }

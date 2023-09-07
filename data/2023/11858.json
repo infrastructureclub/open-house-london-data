@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -75,22 +76,22 @@
     "id": 11858,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11858/building_11858_img_4931_05cd82164fd0542bb1c1be66eb8777c4.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11858/building_11858_img_4931_0c9cabbef57b454a69ce113c02b3875b.jpg",
             "description": null,
             "title": "Cody Dock featuring the Rolling Bridge by Thomas Randall-Page and Steuart Padwick sculpture.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11858_img_4931_05cd82164fd0542bb1c1be66eb8777c4.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11858_img_4931_0c9cabbef57b454a69ce113c02b3875b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11858/building_11858_20210612_155127_f5faea2ce8914dedda5e5a8f19052c3a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11858/building_11858_20210612_155127_37e52af5b7f58429bef6aa363d236fc2.jpg",
             "description": null,
             "title": "Madge Gill 'Nature in Mind' large-scale installation curated by The Line with Sophie Dutton",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11858_20210612_155127_f5faea2ce8914dedda5e5a8f19052c3a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11858_20210612_155127_37e52af5b7f58429bef6aa363d236fc2.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11858/building_11858_20210615_171135_3e50a396e31e616a7b81c2286362bdda.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11858/building_11858_20210615_171135_561be455316536cb4a24410bd1554e29.jpg",
             "description": null,
             "title": "Cody Dock",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11858_20210615_171135_3e50a396e31e616a7b81c2286362bdda.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11858_20210615_171135_561be455316536cb4a24410bd1554e29.jpg"
         }
     ],
     "links": [],
@@ -101,10 +102,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Canning Town",
-            "Bus: 323"
+            "Bus: 323",
+            "Additional travel info: Cody Dock is a 6 minute walk from Star Lane DLR Station. The DLR is a fully accessible public transport network with step-free access into all stations. Use the Stephenson Street exit from Star Lane station (the exit to the left) when departing from the platform. \r\n\r\nCody Dock is a 4 minute walk to the 323 bus stops, South Crescent Business Centre Stop H and North Crescent Business Centre, Stop J"
         ]
     },
     "name": "Cody Dock - Lea Way Celebration",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11858",
     "ticketed_events": false
 }

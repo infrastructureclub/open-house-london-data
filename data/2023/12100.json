@@ -20,6 +20,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12100",
             "capacity": null,
             "date": "2023-09-14",
@@ -51,43 +52,45 @@
     "id": 12100,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12100/building_12100_86dc7fba-54d3-4c0e-9778-d3143f480c56_5167f2ff839afd126858d2fffd2fa551.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12100/building_12100_86dc7fba-54d3-4c0e-9778-d3143f480c56_5e89425fae703b4180f2514e0226b21c.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12100_86dc7fba-54d3-4c0e-9778-d3143f480c56_5167f2ff839afd126858d2fffd2fa551.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12100_86dc7fba-54d3-4c0e-9778-d3143f480c56_5e89425fae703b4180f2514e0226b21c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12100/building_12100_he-clissold-house-wedding-35mm-0001_websize_67349cb23dd652d1f01395b715c50496.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12100/building_12100_he-clissold-house-wedding-35mm-0001_websize_d8c64c2cccd7b9411b509453eca89703.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12100_he-clissold-house-wedding-35mm-0001_websize_67349cb23dd652d1f01395b715c50496.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12100_he-clissold-house-wedding-35mm-0001_websize_d8c64c2cccd7b9411b509453eca89703.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12100/building_12100_he-clissold-house-wedding-0122_websize_ca3c56810264912b18f734a5a0d6fa48.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12100/building_12100_he-clissold-house-wedding-0122_websize_d678fe5abca126bcc152a992b5d7034b.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12100_he-clissold-house-wedding-0122_websize_ca3c56810264912b18f734a5a0d6fa48.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12100_he-clissold-house-wedding-0122_websize_d678fe5abca126bcc152a992b5d7034b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12100/building_12100_first-floor-landing-area_884fe266c55b10a4d6cbe935a508a883.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12100/building_12100_first-floor-landing-area_a0327be0a6738b06dd116e3fbc7525fa.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12100_first-floor-landing-area_884fe266c55b10a4d6cbe935a508a883.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12100_first-floor-landing-area_a0327be0a6738b06dd116e3fbc7525fa.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Stoke Newington Church Street, Clissold Park",
+        "address": "Stoke Newington Church Street, Clissold Park, N16 9HJ",
         "latitude": 51.56169,
         "longitude": -0.08823,
         "meeting_point": null,
         "travel_info": [
             "Tube: Manor House, Highbury & Islington, Finsbury Park",
             "Train: Stoke Newington, Canonbury",
-            "Bus: 476, 393, 341, 141"
+            "Bus: 476, 393, 341, 141",
+            "Additional travel info: Closest park gate access via Green lanes, Stoke Newington Church Street and Lordship Terrace"
         ]
     },
     "name": "Clissold House",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12100",
     "ticketed_events": true
 }

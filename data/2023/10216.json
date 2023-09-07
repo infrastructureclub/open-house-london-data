@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "A redevelopment of Holborn’s community centre improving and increasing facilities  -  the space has been designed by Stirling prize nominated 6a architects and includes a public artwork for the building, created by artist Cargh Thuring",
+    "description": "A redevelopment of Holborn’s community centre improving and increasing facilities  -  the space has been designed by Stirling prize nominated 6a architects and includes a public artwork for the building, created by artist Cargh Thuring. This project is supported by the Mayor of London.",
     "design": {
         "designers": [
             {
@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-13",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-13",
@@ -41,7 +43,7 @@
             "end": "2023-09-13T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "notes": "Architects from 6a will lead tours at 1pm and 2pm",
             "start": "2023-09-13T13:00:00+01:00",
             "ticketed": false
         }
@@ -79,16 +81,16 @@
     "id": 10216,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10216/building_10216_220823_3fb40fc0619520371cf97c4fa6a33f09.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10216/building_10216_2-holborn-house_4c85d8d116463958d03b760cafb1cad0.png",
             "description": null,
-            "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10216_220823_3fb40fc0619520371cf97c4fa6a33f09.png"
+            "title": "Holborn House Community",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10216_2-holborn-house_4c85d8d116463958d03b760cafb1cad0.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10216/building_10216_255_holbornhouse-8_6aarchitects_2a25407ef98404df9650a8b1bb6cb8d2.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10216/building_10216_255-holbornhouse-6a-005_733acc56857e2e7c16bb482e297c8aae.jpeg",
             "description": null,
-            "title": "View from stair",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10216_255_holbornhouse-8_6aarchitects_2a25407ef98404df9650a8b1bb6cb8d2.png"
+            "title": "View from the stairs",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10216_255-holbornhouse-6a-005_733acc56857e2e7c16bb482e297c8aae.jpeg"
         }
     ],
     "links": [],
@@ -104,6 +106,7 @@
         ]
     },
     "name": "Holborn House",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10216",
     "ticketed_events": false
 }

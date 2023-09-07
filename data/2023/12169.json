@@ -18,6 +18,7 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12169",
             "capacity": null,
             "date": "2023-09-16",
@@ -53,10 +54,10 @@
     "id": 12169,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12169/building_12169_tmca_bxac_014_1_web_552560c8aa6741a8be64f2d125e32e99_5680ea302d4600151e7f0490f7aad423.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12169/building_12169_tmca_bxac_014_1_web_552560c8aa6741a8be64f2d125e32e99_6f484bfb1b7dfedf3891dac66dc9efb7.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12169_tmca_bxac_014_1_web_552560c8aa6741a8be64f2d125e32e99_5680ea302d4600151e7f0490f7aad423.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12169_tmca_bxac_014_1_web_552560c8aa6741a8be64f2d125e32e99_6f484bfb1b7dfedf3891dac66dc9efb7.jpg"
         }
     ],
     "links": [
@@ -70,15 +71,17 @@
         }
     ],
     "location": {
-        "address": "Abbey Arms Pub (next to Abbey Wood Station)",
+        "address": "Abbey Arms Pub (next to Abbey Wood Station), 31 Wilton Road, SE2 9RH",
         "latitude": 51.4907,
         "longitude": 0.12102,
         "meeting_point": null,
         "travel_info": [
-            "Train: Abbey Wood"
+            "Train: Abbey Wood",
+            "Additional travel info: Meet out in front of the Abbey Arms pub"
         ]
     },
     "name": "Town of Tomorrow: Thamesmead Through Film Walking Tour",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12169",
     "ticketed_events": true
 }

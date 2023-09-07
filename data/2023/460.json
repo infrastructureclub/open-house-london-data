@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -111,16 +113,18 @@
     ],
     "links": [],
     "location": {
-        "address": "Garrick's Lawn, Hampton Court Road, , Hampton",
+        "address": "Garrick's Lawn, Hampton Court Road, , Hampton, TW12 2EN",
         "latitude": 51.41232470000001,
         "longitude": -0.3592084,
         "meeting_point": null,
         "travel_info": [
             "Train: Hampton, Hampton Court, Kingston",
-            "Bus: 111, 216, R68"
+            "Bus: 111, 216, R68",
+            "Additional travel info: A usual route from London is train from Waterloo to Kingston Or Hampton Court Palace, and then one of the buses listed above."
         ]
     },
     "name": "Garrick's Temple to Shakespeare, Hampton",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/460",
     "ticketed_events": false
 }

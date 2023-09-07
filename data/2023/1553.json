@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -52,28 +53,28 @@
     "id": 1553,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1553/building_1553_dsc02365_ca52e38218884359c539ae8f0f6726e4.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1553/building_1553_dsc02365_bd0772db53197c6881aa43dd877f8228.jpg",
             "description": null,
             "title": "The clocktower & canal basin",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1553_dsc02365_ca52e38218884359c539ae8f0f6726e4.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1553_dsc02365_bd0772db53197c6881aa43dd877f8228.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1553/building_1553_2017-02-22-13-25-30_0b6602237e854f4921474c63b146cadd.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1553/building_1553_2017-02-22-13-25-30_23c34d12cd67c85d0432a0359a1dfa50.jpg",
             "description": null,
             "title": "The John Thwaite Clock",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1553_2017-02-22-13-25-30_0b6602237e854f4921474c63b146cadd.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1553_2017-02-22-13-25-30_23c34d12cd67c85d0432a0359a1dfa50.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1553/building_1553_19980101-c-block-from-nw_51836ad47ba19d1ab3d71eba28e67bbd.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1553/building_1553_19980101-c-block-from-nw_742500941f4bab49055ded099268c6e7.jpg",
             "description": null,
             "title": "The Main Machine Shop, circa 1999, before restoration",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1553_19980101-c-block-from-nw_51836ad47ba19d1ab3d71eba28e67bbd.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1553_19980101-c-block-from-nw_742500941f4bab49055ded099268c6e7.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1553/building_1553_p-35-ext_faea141f7e052bbc8922392c34e9c1be.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1553/building_1553_p-35-ext_bbef736ec49811c9e99f2cdff007e0a0.jpg",
             "description": null,
             "title": "The renovated Main machine shop, today, as the RSA Island Centre",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1553_p-35-ext_faea141f7e052bbc8922392c34e9c1be.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1553_p-35-ext_bbef736ec49811c9e99f2cdff007e0a0.jpg"
         }
     ],
     "links": [],
@@ -84,10 +85,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Enfield Lock",
-            "Bus: 121, 491"
+            "Bus: 121, 491",
+            "Additional travel info: Free car park on site"
         ]
     },
     "name": "Royal Small Arms Factory",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1553",
     "ticketed_events": false
 }

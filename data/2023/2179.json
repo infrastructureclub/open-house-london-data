@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -60,10 +61,10 @@
     "id": 2179,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2179/building_2179_2005-swiss-cottage-library-14_930fa12b5d13e9b5cdfc5407cf9314e1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2179/building_2179_2005-swiss-cottage-library-14_f155419855e74c1eb72e630d481c392a.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2179_2005-swiss-cottage-library-14_930fa12b5d13e9b5cdfc5407cf9314e1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2179_2005-swiss-cottage-library-14_f155419855e74c1eb72e630d481c392a.jpg"
         }
     ],
     "links": [],
@@ -75,10 +76,12 @@
         "travel_info": [
             "Tube: Swiss Cottage",
             "Train: South Hampstead",
-            "Bus: 31, 13, 268, 187, 46"
+            "Bus: 31, 13, 268, 187, 46",
+            "Additional travel info: Jubilee line Swiss Cottage"
         ]
     },
     "name": "Swiss Cottage Library",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2179",
     "ticketed_events": false
 }

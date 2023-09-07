@@ -14,6 +14,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11059",
             "capacity": null,
             "date": "2023-09-16",
@@ -38,28 +39,28 @@
     "id": 11059,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11059/building_11059_river-picture_934452e8bb6ae3cf17ed797635f63383.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11059/building_11059_river-picture_ecac1d2548cd811cec89a34e350b0a64.jpg",
             "description": null,
             "title": "The Thames is full of stories ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11059_river-picture_934452e8bb6ae3cf17ed797635f63383.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11059_river-picture_ecac1d2548cd811cec89a34e350b0a64.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11059/building_11059_open-house-version_b58d5c0257e1df4ddcc32ac306f7a5b4.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11059/building_11059_open-house-version_2ab3fa519e987727d5cf5fe177a6561f.jpg",
             "description": null,
             "title": "our group logo ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11059_open-house-version_b58d5c0257e1df4ddcc32ac306f7a5b4.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11059_open-house-version_2ab3fa519e987727d5cf5fe177a6561f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11059/building_11059_66640c62-02d5-4ffa-b609-d649a7d5fbf2_9cb5e785477ff2b475e89876181a6cf4.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11059/building_11059_66640c62-02d5-4ffa-b609-d649a7d5fbf2_0f8f67c8dba3c04f8052e9761b3fabb9.jpeg",
             "description": null,
             "title": "View from north of the river",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11059_66640c62-02d5-4ffa-b609-d649a7d5fbf2_9cb5e785477ff2b475e89876181a6cf4.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11059_66640c62-02d5-4ffa-b609-d649a7d5fbf2_0f8f67c8dba3c04f8052e9761b3fabb9.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11059/building_11059_833dadbc-0770-4b5b-84b0-d37a48b6d583_a734386f8eb9310b308172a7445421eb.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11059/building_11059_833dadbc-0770-4b5b-84b0-d37a48b6d583_1cfeba992a1c1b3c1837cefe24af05e1.jpeg",
             "description": null,
             "title": "The Thames",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11059_833dadbc-0770-4b5b-84b0-d37a48b6d583_a734386f8eb9310b308172a7445421eb.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11059_833dadbc-0770-4b5b-84b0-d37a48b6d583_1cfeba992a1c1b3c1837cefe24af05e1.jpeg"
         }
     ],
     "links": [],
@@ -70,10 +71,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: St. Paul's",
-            "Train: Cannon Street, Blackfriars"
+            "Train: Cannon Street, Blackfriars",
+            "Additional travel info: The City Information Centre is opposite St Paul's Cathedral, EC4M 8BX"
         ]
     },
     "name": "River Walk",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11059",
     "ticketed_events": true
 }

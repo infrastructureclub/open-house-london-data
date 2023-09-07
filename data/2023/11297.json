@@ -20,6 +20,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11297",
             "capacity": null,
             "date": "2023-09-09",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11297",
             "capacity": null,
             "date": "2023-09-09",
@@ -48,6 +50,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11297",
             "capacity": null,
             "date": "2023-09-09",
@@ -62,6 +65,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11297",
             "capacity": null,
             "date": "2023-09-16",
@@ -76,6 +80,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11297",
             "capacity": null,
             "date": "2023-09-16",
@@ -90,6 +95,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11297",
             "capacity": null,
             "date": "2023-09-16",
@@ -132,42 +138,44 @@
     "id": 11297,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11297/building_11297_200701_we_are_waltham_forest_card_294_28a95fbbaa1b98a779c7fa45e740196c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11297/building_11297_200701_we_are_waltham_forest_card_294_6db68e089a9fa7287f4475f606b2828d.jpg",
             "description": null,
             "title": "Inside the Square Root Factory - We Are Waltham Forest",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11297_200701_we_are_waltham_forest_card_294_28a95fbbaa1b98a779c7fa45e740196c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11297_200701_we_are_waltham_forest_card_294_6db68e089a9fa7287f4475f606b2828d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11297/building_11297_200701_we_are_waltham_forest_card_185_2b50cde3ce12d927d381b738ad7eaa59.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11297/building_11297_200701_we_are_waltham_forest_card_185_2e632c5e8cb100ca96e2c49b0ea6de53.jpg",
             "description": null,
             "title": "Founder, Robyn, Inside the Square Root Factory - We Are Waltham Forest",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11297_200701_we_are_waltham_forest_card_185_2b50cde3ce12d927d381b738ad7eaa59.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11297_200701_we_are_waltham_forest_card_185_2e632c5e8cb100ca96e2c49b0ea6de53.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11297/building_11297_lemonade-production-wide-3_2b6a9031acc867b2d530897ac6f0a269.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11297/building_11297_lemonade-production-wide-3_f94f8d5101a56d6a68b71ca6d331d586.jpg",
             "description": null,
             "title": "Lemonade Production Inside the Square Root Factory - James Beeson",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11297_lemonade-production-wide-3_2b6a9031acc867b2d530897ac6f0a269.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11297_lemonade-production-wide-3_f94f8d5101a56d6a68b71ca6d331d586.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11297/building_11297_rhubarb-production-wide-4_5192da444c4cb86b35e3206108bb2dcb.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11297/building_11297_rhubarb-production-wide-4_483912adfe37be452e107760a73df013.jpg",
             "description": null,
             "title": "Rhubarb Production Inside the Square Root Factory - James Beeson",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11297_rhubarb-production-wide-4_5192da444c4cb86b35e3206108bb2dcb.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11297_rhubarb-production-wide-4_483912adfe37be452e107760a73df013.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Unit D11, Leyton Industrial Village",
+        "address": "Unit D11, Leyton Industrial Village, Argall Avenue, E10 7QP",
         "latitude": 51.57054410000001,
         "longitude": -0.0437279,
         "meeting_point": null,
         "travel_info": [
             "Tube: Walthamstow Central",
-            "Bus: W19, 56, 55"
+            "Bus: W19, 56, 55",
+            "Additional travel info: The closest station to our factory is Lea Bridge which is accessible from both Stratford and Tottenham Hale."
         ]
     },
     "name": "Tour the Square Root Factory",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11297",
     "ticketed_events": true
 }

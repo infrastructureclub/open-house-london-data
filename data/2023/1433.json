@@ -26,6 +26,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -40,6 +41,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -69,16 +71,16 @@
     "id": 1433,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1433/building_1433_qm-colonnades-from-marketing_a234c4638de24f7967ab5bd3057a24e3.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1433/building_1433_qm-colonnades-from-marketing_2597e8c84f6a67b06082e6fcd295802a.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1433_qm-colonnades-from-marketing_a234c4638de24f7967ab5bd3057a24e3.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1433_qm-colonnades-from-marketing_2597e8c84f6a67b06082e6fcd295802a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1433/building_1433_0v9a2363_3c273630217cd18341dfb359ea852fa1.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1433/building_1433_0v9a2363_ff367630aedcab77392eb0c669cce833.jpeg",
             "description": null,
             "title": "Greenwich Campus",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1433_0v9a2363_3c273630217cd18341dfb359ea852fa1.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1433_0v9a2363_ff367630aedcab77392eb0c669cce833.jpeg"
         }
     ],
     "links": [],
@@ -90,10 +92,12 @@
         "travel_info": [
             "Tube: Cutty Sark",
             "Train: Greenwich, Maze Hill",
-            "Bus: 177, 188, 286"
+            "Bus: 177, 188, 286",
+            "Additional travel info: Please join us at the Lower Grande Square to book in on the day for the tours."
         ]
     },
     "name": "Old Royal Naval College - Queen Mary Court",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1433",
     "ticketed_events": false
 }

@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -63,7 +65,7 @@
                 "The studio integrates the skills of architecture with engineering, both structural and environmental, urbanism, interior and industrial design, model and film making, aeronautics and many more.",
                 "The studio has established an international reputation with buildings such as the Hearst Headquarters in New York, 30 St Mary Axe, popularly known as The Gherkin, in London, the German Parliament in the Reichstag, Berlin, The Great Court for the British Museum, Headquarters for HSBC in Hong Kong and London, Commerzbank Headquarters in Frankfurt, the Carré d’Art Nîmes, the sustainable Masdar development in Abu Dhabi, and research centres for Stanford University, California. Recent work includes, Lusail Stadium, Qatar and Le Dôme Winery in Bordeaux. Currently, the practice is involved in projects such as the South Sabah Al-Ahmad Masterplan and the headquarters for JPMorgan Chase on Park Avenue in New York.",
                 "The practice employs approximately 1800 staff worldwide with about 1500 based in London.",
-                "Foster + Partners has overseas offices in Abu Dhabi, Bangkok, Beijing, Buenos Aires, Dubai, Hangzhou, Hong Kong, Los Angeles, Madrid, New York, San Francisco, Shanghai, Singapore, Sydney and Warsaw."
+                "Foster + Partners has overseas offices in Abu Dhabi, Bangkok, Beijing, Buenos Aires, Dubai, Hangzhou, Hong Kong, Los Angeles, Madrid, New York, San Francisco, Shanghai, Shenzhen, Singapore,  and Sydney."
             ]
         },
         {
@@ -80,22 +82,22 @@
     "id": 422,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/422/building_422_0361_1_fp855607_4b675cac1cbbdbbdb09a73eb72cfcbaf.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/422/building_422_0361_1_fp855607_6f5af6ed1024da94804ee07a8caa3d9c.jpg",
             "description": null,
             "title": "Main studio at Riverside",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_422_0361_1_fp855607_4b675cac1cbbdbbdb09a73eb72cfcbaf.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_422_0361_1_fp855607_6f5af6ed1024da94804ee07a8caa3d9c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/422/building_422_0361_fp132563_indesign_af09c4a26004a47ae32f7361e0d3c5e0.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/422/building_422_0361_fp132563_indesign_33952a67bdccede2f7f9ca39c80de84d.jpg",
             "description": null,
             "title": "Riverside Studio - Foster + Partners",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_422_0361_fp132563_indesign_af09c4a26004a47ae32f7361e0d3c5e0.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_422_0361_fp132563_indesign_33952a67bdccede2f7f9ca39c80de84d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/422/building_422_0361_fp589422_indesign_d76c4180e901817fa004ec562b358560.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/422/building_422_0361_fp589422_indesign_0bb209b59c143087bfd9ef700982c95f.jpg",
             "description": null,
             "title": "Main Studio - Riverside - Foster + Partners",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_422_0361_fp589422_indesign_d76c4180e901817fa004ec562b358560.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_422_0361_fp589422_indesign_0bb209b59c143087bfd9ef700982c95f.jpg"
         }
     ],
     "links": [],
@@ -107,10 +109,12 @@
         "travel_info": [
             "Tube: Sloane Square, South Kensington",
             "Train: Clapham Junction, Battersea Park",
-            "Bus: 19, 49, 170, 319, 345"
+            "Bus: 19, 49, 170, 319, 345",
+            "Additional travel info: Battersea Power Station"
         ]
     },
     "name": "Foster + Partners",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/422",
     "ticketed_events": false
 }

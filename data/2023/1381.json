@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -76,42 +77,44 @@
     "id": 1381,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1381/building_1381_lcf-22706-old-town-hall_bebf6813ab1cffdb97f231ee54cbf0f8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1381/building_1381_lcf-22706-old-town-hall_9a44e44a79644167bb8e1ead5e5e599f.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1381_lcf-22706-old-town-hall_bebf6813ab1cffdb97f231ee54cbf0f8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1381_lcf-22706-old-town-hall_9a44e44a79644167bb8e1ead5e5e599f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1381/building_1381_oth-1_bd7ff478d85d3898c244d02ca238cf1c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1381/building_1381_oth-1_fb65efb409da1c452b37b78836236bf8.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1381_oth-1_bd7ff478d85d3898c244d02ca238cf1c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1381_oth-1_fb65efb409da1c452b37b78836236bf8.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1381/building_1381_oth-2_478fa9e6cd7658cd4836b3436a8d1c90.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1381/building_1381_oth-2_5aa61200edb69e68890822e1b079898c.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1381_oth-2_478fa9e6cd7658cd4836b3436a8d1c90.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1381_oth-2_5aa61200edb69e68890822e1b079898c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1381/building_1381_oth-3_6812a057b1cbc4e144184423ccc97db1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1381/building_1381_oth-3_3191d18aff8cf9b7aa4a7e2510d40786.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1381_oth-3_6812a057b1cbc4e144184423ccc97db1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1381_oth-3_3191d18aff8cf9b7aa4a7e2510d40786.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Old Town Hall, Whittaker Avenue, Richmond",
+        "address": "Old Town Hall, Whittaker Avenue, Richmond, TW9 1TP",
         "latitude": 51.4588156,
         "longitude": -0.3068136,
         "meeting_point": null,
         "travel_info": [
             "Tube: Richmond",
-            "Train: Richmond"
+            "Train: Richmond",
+            "Additional travel info: Guided tours on Saturday 16 September will start at the War Memorial on Whittaker Avenue, Richmond. Tours start on the hour: 10am, 11am, 12noon, 1pm, 2pm."
         ]
     },
     "name": "The Old Town Hall, Richmond",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1381",
     "ticketed_events": false
 }

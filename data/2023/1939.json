@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -63,21 +64,21 @@
     "id": 1939,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1939/building_1939_swakeleys-house-open-house-2011-08_15cfc1c7153d415154aec4dd3a555da1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1939/building_1939_swakeleys-house-open-house-2011-08_45bbb18d3b76fc224c8612bee4f0510a.jpg",
             "description": null,
             "title": "Swakeleys House exterior ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1939_swakeleys-house-open-house-2011-08_15cfc1c7153d415154aec4dd3a555da1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1939_swakeleys-house-open-house-2011-08_45bbb18d3b76fc224c8612bee4f0510a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1939/building_1939_swakeleys-house-open-house-2011-01_e502099883127d80f765aee121cfe34b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1939/building_1939_swakeleys-house-open-house-2011-01_9fc70ce8ba54b07e0942520f396eb5ac.jpg",
             "description": null,
             "title": "Swakeleys House interior ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1939_swakeleys-house-open-house-2011-01_e502099883127d80f765aee121cfe34b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1939_swakeleys-house-open-house-2011-01_9fc70ce8ba54b07e0942520f396eb5ac.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Swakeleys Road",
+        "address": "Swakeleys Road, Ickenham (access from Milton Road) , UB10 8LD",
         "latitude": 51.565106,
         "longitude": -0.4572185,
         "meeting_point": null,
@@ -88,6 +89,7 @@
         ]
     },
     "name": "Swakeleys Estate",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1939",
     "ticketed_events": false
 }

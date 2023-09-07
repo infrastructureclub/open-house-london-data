@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -35,6 +36,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -91,40 +93,40 @@
     "id": 1422,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1422/building_1422_quaker-meeting-house-wandsworth-memorial-stone-resized_aae7c77fc6850e3fe6cc31c7766d37ab.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1422/building_1422_quaker-meeting-house-wandsworth-memorial-stone-resized_208f62d148de67e370d1dd8bb74991d9.jpeg",
             "description": null,
             "title": "Memorial stone",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1422_quaker-meeting-house-wandsworth-memorial-stone-resized_aae7c77fc6850e3fe6cc31c7766d37ab.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1422_quaker-meeting-house-wandsworth-memorial-stone-resized_208f62d148de67e370d1dd8bb74991d9.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1422/building_1422_unknown_10307d2a5c303b9d7f0d88d2c192b36a.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1422/building_1422_unknown_124f4716e78421a9a99054a18432d22e.jpeg",
             "description": null,
             "title": "The panelled meeting room with visiting ministers' gallery at the back",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1422_unknown_10307d2a5c303b9d7f0d88d2c192b36a.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1422_unknown_124f4716e78421a9a99054a18432d22e.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1422/building_1422_unknown-1_d923734966183c70aed7544e1568add9.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1422/building_1422_unknown-1_8846f89b967b374c3b996e39c118780c.jpeg",
             "description": null,
             "title": "The panelled library room with double door entrance to the meeting room",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1422_unknown-1_d923734966183c70aed7544e1568add9.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1422_unknown-1_8846f89b967b374c3b996e39c118780c.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1422/building_1422_unknown_2bf6d71b0bc816a8ea71b33d0560b30e.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1422/building_1422_unknown_d7bb7768a8635d3716aa3217dae7d1a2.jpeg",
             "description": null,
             "title": "The entrance and corridor to the burial ground with original stone flags and pillar",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1422_unknown_2bf6d71b0bc816a8ea71b33d0560b30e.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1422_unknown_d7bb7768a8635d3716aa3217dae7d1a2.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1422/building_1422_unknown_fc076c66a4b4106227bc7bf49fa58502.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1422/building_1422_unknown_63afcdc1761281f85322535790181fde.jpeg",
             "description": null,
             "title": "Rear elevation and burial ground",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1422_unknown_fc076c66a4b4106227bc7bf49fa58502.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1422_unknown_63afcdc1761281f85322535790181fde.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1422/building_1422_unknown_c1ebd48eee723623ea27d03ac7c1f6ea.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1422/building_1422_unknown_96b754b28d3fec044e197d6298752e15.jpeg",
             "description": null,
             "title": "The burial ground and rear elevation",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1422_unknown_c1ebd48eee723623ea27d03ac7c1f6ea.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1422_unknown_96b754b28d3fec044e197d6298752e15.jpeg"
         }
     ],
     "links": [
@@ -141,10 +143,12 @@
         "travel_info": [
             "Tube: East Putney",
             "Train: Wandsworth Town",
-            "Bus: 28, 39, 87, 156, 337, 44, 270, 220"
+            "Bus: 28, 39, 87, 156, 337, 44, 270, 220",
+            "Additional travel info: Quaker Meeting House - Wandsworth is located opposite Wandsworth Town Hall."
         ]
     },
     "name": "Quaker Meeting House - Wandsworth",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1422",
     "ticketed_events": false
 }

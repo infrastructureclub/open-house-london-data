@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -59,16 +60,16 @@
     "id": 9014,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9014/building_9014_oh-3_3d556ec0438de05ae0af3047e0509e22.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9014/building_9014_oh-3_2048af5cbe1d11f65f7bfb0b2bdf1af3.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9014_oh-3_3d556ec0438de05ae0af3047e0509e22.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9014_oh-3_2048af5cbe1d11f65f7bfb0b2bdf1af3.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9014/building_9014_oh-1_0605ff2e0e3ea198cee2f8340c2aa2bb.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9014/building_9014_oh-1_1b6b661fd80f9f5fc3e7c017571b058d.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9014_oh-1_0605ff2e0e3ea198cee2f8340c2aa2bb.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9014_oh-1_1b6b661fd80f9f5fc3e7c017571b058d.jpg"
         }
     ],
     "links": [],
@@ -80,10 +81,12 @@
         "travel_info": [
             "Tube: Highgate",
             "Train: Gospel Oak",
-            "Bus: 214"
+            "Bus: 214",
+            "Additional travel info: no parking in Fitzroy Park. Nearest parking in Highgate"
         ]
     },
     "name": "Fitzroy Park Allotments",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/9014",
     "ticketed_events": false
 }

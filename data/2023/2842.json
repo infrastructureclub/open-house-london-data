@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -28,8 +29,23 @@
             "end": "2023-09-09T14:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "A fully guided tour both days Saturday 9 and sun 10th of our beautiful Grade 2 listed building.  A real hidden gem in the heart of the City.",
+            "notes": "A fully guided tour of our beautiful Grade 2 listed building.  A real hidden gem in the heart of the City.",
             "start": "2023-09-09T09:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "A fully guided tour  every 30 minutes of our beautiful Grade 2 listed building.  A real hidden gem in the heart of the City.",
+            "start": "2023-09-10T08:30:00+01:00",
             "ticketed": false
         }
     ],
@@ -65,64 +81,64 @@
     "id": 2842,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_one-moorgate-place-exterior-image-1_d2c6ce23c2a4741ddb998762de865355.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_one-moorgate-place-exterior-image-1_64df32794331ef7d260ae89eaeb5e0d8.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_one-moorgate-place-exterior-image-1_d2c6ce23c2a4741ddb998762de865355.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_one-moorgate-place-exterior-image-1_64df32794331ef7d260ae89eaeb5e0d8.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_icaew_logo_blk_rgb_0234ca2d61187110e063f7323349485b.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_icaew_logo_blk_rgb_fb4523b90237fed1a9e7244e65432ad8.png",
             "description": null,
             "title": "Economia",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_icaew_logo_blk_rgb_0234ca2d61187110e063f7323349485b.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_icaew_logo_blk_rgb_fb4523b90237fed1a9e7244e65432ad8.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_oh3_3d608460a31fd1bf61d088cfcdbfd674.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_oh3_db1223f7af97fb47bcfcd4bad2d43f2e.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_oh3_3d608460a31fd1bf61d088cfcdbfd674.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_oh3_db1223f7af97fb47bcfcd4bad2d43f2e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_oh4_359d73e9d2d0b9e25cfb9521806171e2.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_oh4_f5527afe26e689d827a085d207de3bb2.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_oh4_359d73e9d2d0b9e25cfb9521806171e2.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_oh4_f5527afe26e689d827a085d207de3bb2.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_oh5_817aca146a3f63615628013a7efb310d.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_oh5_d4d6090167b928132b5b822f19cc27d0.png",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_oh5_817aca146a3f63615628013a7efb310d.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_oh5_d4d6090167b928132b5b822f19cc27d0.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_2-front_d6162e99458869b71c71d220b73d5c77.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_2-front_ab6560e2fd28a1eb207dcff4e1b47204.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_2-front_d6162e99458869b71c71d220b73d5c77.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_2-front_ab6560e2fd28a1eb207dcff4e1b47204.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_great-hall-curved-theatre-style-8_b65591894ccc2d6c71eae79ee32b44a6.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_great-hall-curved-theatre-style-8_3d2b96e2a8d082370a08de3f6b7a7008.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_great-hall-curved-theatre-style-8_b65591894ccc2d6c71eae79ee32b44a6.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_great-hall-curved-theatre-style-8_3d2b96e2a8d082370a08de3f6b7a7008.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_member-s-room-standing-reception_327a853c2c31293caaa8c02021e6d505.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_member-s-room-standing-reception_dc2ce9ebd8c1eb499d7238ffae36ad2d.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_member-s-room-standing-reception_327a853c2c31293caaa8c02021e6d505.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_member-s-room-standing-reception_dc2ce9ebd8c1eb499d7238ffae36ad2d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_atrium-1_331ac6721e8746eac5a482f4e1a23e20.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_atrium-1_3b66afdeb12e0e753c7d77c324865a1a.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_atrium-1_331ac6721e8746eac5a482f4e1a23e20.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_atrium-1_3b66afdeb12e0e753c7d77c324865a1a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_auditorium-23_79773982025d36d8f92ddff37e0aeae5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_auditorium-23_2676caca98ee23d9926bdccad7b4677d.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_auditorium-23_79773982025d36d8f92ddff37e0aeae5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2842_auditorium-23_2676caca98ee23d9926bdccad7b4677d.jpg"
         }
     ],
     "links": [],
@@ -138,6 +154,7 @@
         ]
     },
     "name": "Chartered Accountants' Hall",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/2842",
     "ticketed_events": false
 }

@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -61,28 +62,28 @@
     "id": 7551,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7551/building_7551_the-view-march-2019_3019646d9429caba0b7466feef3d9e52.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7551/building_7551_the-view-march-2019_c3cd53efc0b00218b646e3b6a37cc8b8.jpg",
             "description": null,
             "title": "The View Visitor Centre 2019",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7551_the-view-march-2019_3019646d9429caba0b7466feef3d9e52.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7551_the-view-march-2019_c3cd53efc0b00218b646e3b6a37cc8b8.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7551/building_7551_view-courtyard_e71388a1fd57653343915adaa6c1e943.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7551/building_7551_view-courtyard_8c4ef7c572684bf170a9982cf31d8dab.jpg",
             "description": null,
             "title": "The View stable courtyard",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7551_view-courtyard_e71388a1fd57653343915adaa6c1e943.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7551_view-courtyard_8c4ef7c572684bf170a9982cf31d8dab.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7551/building_7551_the-view-exhibit_919f1ca479d87caf7a94b8c71241cb10.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7551/building_7551_the-view-exhibit_0d4f6053dc4a14b8edecaf88dd0e84a8.jpg",
             "description": null,
             "title": "Display boards",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7551_the-view-exhibit_919f1ca479d87caf7a94b8c71241cb10.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7551_the-view-exhibit_0d4f6053dc4a14b8edecaf88dd0e84a8.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7551/building_7551_the-view-balcony_dde2ba017844ec4ae59e36c436097987.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7551/building_7551_the-view-balcony_1482e99a6601a660a452ef7f4ea2e8c7.jpg",
             "description": null,
             "title": "A view from the balcony",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7551_the-view-balcony_dde2ba017844ec4ae59e36c436097987.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7551_the-view-balcony_1482e99a6601a660a452ef7f4ea2e8c7.jpg"
         }
     ],
     "links": [],
@@ -93,10 +94,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Chingford",
-            "Bus: 97, 444, 385, 379, 313, 212, 179, 397"
+            "Bus: 97, 444, 385, 379, 313, 212, 179, 397",
+            "Additional travel info: Free Epping Forest car parks at Barn Hoppitt and Chingford Plain (Bury Road)."
         ]
     },
     "name": "Epping Forest Visitor Centre at Chingford, The View",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/7551",
     "ticketed_events": false
 }

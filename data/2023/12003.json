@@ -20,6 +20,7 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12003",
             "capacity": null,
             "date": "2023-09-16",
@@ -54,15 +55,15 @@
     "id": 12003,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12003/building_12003_52314472802_5ea27ddca0_c_698c073cd267e94f229f1410d287cc17.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12003/building_12003_52314472802_5ea27ddca0_c_169807601f51df447304e4f5e7c0199a.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12003_52314472802_5ea27ddca0_c_698c073cd267e94f229f1410d287cc17.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12003_52314472802_5ea27ddca0_c_169807601f51df447304e4f5e7c0199a.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Clissold Park, Stoke Newington Church St",
+        "address": "Clissold Park, Stoke Newington Church St, N16 9HJ",
         "latitude": 51.56087,
         "longitude": -0.08529,
         "meeting_point": null,
@@ -71,6 +72,7 @@
         ]
     },
     "name": "Housing in Stoke Newington Walking Tour",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12003",
     "ticketed_events": true
 }

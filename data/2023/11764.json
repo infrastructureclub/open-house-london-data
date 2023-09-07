@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -47,10 +48,10 @@
     "id": 11764,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11764/building_11764_lydford-road_artefact_1_ivanjones_7e59bd46f65ed980ca71a285b1570afd.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11764/building_11764_lydford-road_artefact_1_ivanjones_e06d0337763630a0271772d52e65fe86.jpg",
             "description": null,
             "title": "Ivan Jones",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11764_lydford-road_artefact_1_ivanjones_7e59bd46f65ed980ca71a285b1570afd.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11764_lydford-road_artefact_1_ivanjones_e06d0337763630a0271772d52e65fe86.jpg"
         }
     ],
     "links": [],
@@ -62,10 +63,12 @@
         "travel_info": [
             "Tube: Seven Sisters",
             "Train: Seven Sisters",
-            "Bus: 67"
+            "Bus: 67",
+            "Additional travel info: 8 minute walk from Seven Sisters Underground and Overground Station. Follow signs to the Seven Sisters Road exit on the tube.\r\n\r\n3 minute walk from the Seven Sisters/ Kerswell Road bus stop on St Ann's Road, number 67 bus."
         ]
     },
     "name": "Gulabi House",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11764",
     "ticketed_events": false
 }

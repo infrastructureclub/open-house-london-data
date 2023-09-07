@@ -25,6 +25,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": true,
             "booking_link": "https://programme.openhouse.org.uk/listings/2738",
             "capacity": null,
             "date": "2023-09-16",
@@ -39,6 +40,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": true,
             "booking_link": "https://programme.openhouse.org.uk/listings/2738",
             "capacity": null,
             "date": "2023-09-16",
@@ -89,10 +91,10 @@
     "id": 2738,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2738/building_2738_number10_0400e44ca19c8c4540e704ea9a5769f6.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2738/building_2738_number10_89b0fac467123582a5308f097ea42ac6.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2738_number10_0400e44ca19c8c4540e704ea9a5769f6.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2738_number10_89b0fac467123582a5308f097ea42ac6.jpg"
         }
     ],
     "links": [
@@ -113,6 +115,7 @@
         ]
     },
     "name": "10 Downing Street",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2738",
     "ticketed_events": true
 }

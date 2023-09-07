@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -57,10 +58,10 @@
     "id": 11168,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11168/building_11168_dolly-hills-and-car_c9e9e995d96c05b24dc065d8446bd9ca.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11168/building_11168_dolly-hills-and-car_e8f018094ace80eb0a68709848be9b47.jpg",
             "description": null,
             "title": "Nubia Way today",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11168_dolly-hills-and-car_c9e9e995d96c05b24dc065d8446bd9ca.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11168_dolly-hills-and-car_e8f018094ace80eb0a68709848be9b47.jpg"
         }
     ],
     "links": [
@@ -76,10 +77,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Bellingham, Beckenham Junction, Grove Park",
-            "Bus: 336, 181, 124, 284, 136"
+            "Bus: 336, 181, 124, 284, 136",
+            "Additional travel info: Bromley South is 15 mins by cab"
         ]
     },
     "name": "'Tomorrow is Built Today' exhibition of Black-led self-build",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11168",
     "ticketed_events": false
 }

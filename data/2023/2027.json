@@ -25,6 +25,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -65,34 +66,34 @@
     "id": 2027,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2027/building_2027_dsc_0274_2ba4f3454334832c2c0068489e54dcb8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2027/building_2027_dsc_0274_727a53e72d0029544a71bd641c7192af.jpg",
             "description": null,
             "title": "Take a gold vault selfie",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2027_dsc_0274_2ba4f3454334832c2c0068489e54dcb8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2027_dsc_0274_727a53e72d0029544a71bd641c7192af.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2027/building_2027_dsc_0270_49ab8f220dbf75816d44729fcd6c4c84.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2027/building_2027_dsc_0270_477110e0cb229c882e61188e0502a348.jpg",
             "description": null,
             "title": "£1 million banknote",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2027_dsc_0270_49ab8f220dbf75816d44729fcd6c4c84.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2027_dsc_0270_477110e0cb229c882e61188e0502a348.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2027/building_2027_boe_65_3d7e9d9f5b84b3a58d60a3d7831c0ca2.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2027/building_2027_boe_65_1391a7e7607c460d3d570a61d30e1511.jpg",
             "description": null,
             "title": "Slavery & the Bank exhibition",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2027_boe_65_3d7e9d9f5b84b3a58d60a3d7831c0ca2.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2027_boe_65_1391a7e7607c460d3d570a61d30e1511.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2027/building_2027_dsc_0223_b91511040edf6db1b41d41ca2ab7c057.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2027/building_2027_dsc_0223_3768195c2ffee0b34be3cbabfbb77250.jpg",
             "description": null,
             "title": "Slavery & the Bank exhibition",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2027_dsc_0223_b91511040edf6db1b41d41ca2ab7c057.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2027_dsc_0223_3768195c2ffee0b34be3cbabfbb77250.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2027/building_2027_stop-3f-baker-s-front_704dbc6a681895303c03f1bd88d23b94.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2027/building_2027_stop-3f-baker-s-front_fd65fce4ca61d064d9e2ca96115b947b.jpg",
             "description": null,
             "title": "Bank of England facade in the 1930's",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2027_stop-3f-baker-s-front_704dbc6a681895303c03f1bd88d23b94.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2027_stop-3f-baker-s-front_fd65fce4ca61d064d9e2ca96115b947b.jpg"
         }
     ],
     "links": [],
@@ -104,10 +105,12 @@
         "travel_info": [
             "Tube: Moorgate, Cannon Street, Bank",
             "Train: Moorgate, Fenchurch Street, Cannon Street, Liverpool Street",
-            "Bus: 25, 21, 141, 8, 26, 43, 133"
+            "Bus: 25, 21, 141, 8, 26, 43, 133",
+            "Additional travel info: We are a short walk from Bank Underground Station. If you alight at Bank, take Exit 2, turn left onto Threadneedle Street, with the Bank of England on your left hand side. Walk past the Bank of England's main entrance, then turn left onto Bartholomew Lane. The Museum entrance is on the left hand side."
         ]
     },
     "name": "Bank of England Museum",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/2027",
     "ticketed_events": false
 }

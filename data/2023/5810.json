@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -36,6 +37,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -67,40 +69,40 @@
     "id": 5810,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5810/building_5810_st-mary-magdalene_eaf657fec0a373ded5753de745f1edaa.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5810/building_5810_st-mary-magdalene_06a58c5c1334aa5581d7661b6575ff9b.jpg",
             "description": null,
             "title": "South side from Paradise Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_st-mary-magdalene_eaf657fec0a373ded5753de745f1edaa.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_st-mary-magdalene_06a58c5c1334aa5581d7661b6575ff9b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5810/building_5810_img-1683_a5cb6798b8b8155c73cf25b8bf9de4f4.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5810/building_5810_img-1683_200dfed2d2553953ae622104198b11ee.jpg",
             "description": null,
             "title": "Tower at the west end",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_img-1683_a5cb6798b8b8155c73cf25b8bf9de4f4.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_img-1683_200dfed2d2553953ae622104198b11ee.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5810/building_5810_img-1699_94014b8ad021cac0e21a7d72da72a55c.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5810/building_5810_img-1699_f57e11da0f9f3c8c89b13e98b79a5cf3.jpg",
             "description": null,
             "title": "View towards the nave and east end window",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_img-1699_94014b8ad021cac0e21a7d72da72a55c.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_img-1699_f57e11da0f9f3c8c89b13e98b79a5cf3.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5810/building_5810_img-1686_2b9b267f82d4f6afbd1c1cc0bfe249e5.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5810/building_5810_img-1686_0bbe0492e9f2729cab1da41947434437.jpg",
             "description": null,
             "title": "North side towards the tower",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_img-1686_2b9b267f82d4f6afbd1c1cc0bfe249e5.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_img-1686_0bbe0492e9f2729cab1da41947434437.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5810/building_5810_east-window-full-02_3efc44bd23c996c0ba3b4b5acd8024be.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5810/building_5810_east-window-full-02_a8f5206f0a3e36c72ee0a6e6ef0b876d.jpg",
             "description": null,
             "title": "East Window",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_east-window-full-02_3efc44bd23c996c0ba3b4b5acd8024be.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_east-window-full-02_a8f5206f0a3e36c72ee0a6e6ef0b876d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5810/building_5810_smm-1_e0c6b5f9dca21a5a70e019c1d27b32fd.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5810/building_5810_smm-1_f3d160c93b365728c11fb8351f8967fd.jpg",
             "description": null,
             "title": "Newly refurbished interior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_smm-1_e0c6b5f9dca21a5a70e019c1d27b32fd.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5810_smm-1_f3d160c93b365728c11fb8351f8967fd.jpg"
         }
     ],
     "links": [],
@@ -116,6 +118,7 @@
         ]
     },
     "name": "St Mary Magdalene",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/5810",
     "ticketed_events": false
 }

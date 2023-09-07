@@ -12,12 +12,13 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11985",
             "capacity": null,
             "date": "2023-09-08",
             "drop_in": false,
             "end": "2023-09-08T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "THE ARCHITECTURE OF EATING- HOW FOOD SHAPES OUR CITY",
             "notes": null,
             "start": "2023-09-08T10:30:00+01:00",
@@ -37,10 +38,10 @@
     "id": 11985,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11985/building_11985_bermondsey-street-london-960px-070_d6945c4813911d189fa1309e3fb71db1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11985/building_11985_bermondsey-street-london-960px-070_f887778287bebc44da3988a6d81fc0c9.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11985_bermondsey-street-london-960px-070_d6945c4813911d189fa1309e3fb71db1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11985_bermondsey-street-london-960px-070_f887778287bebc44da3988a6d81fc0c9.jpg"
         }
     ],
     "links": [
@@ -50,16 +51,18 @@
         }
     ],
     "location": {
-        "address": "Outside Bermondsey tube station",
+        "address": "Outside Bermondsey tube station, 142 - 154 Jamaica Rd, SE16 4RX",
         "latitude": 51.49815,
         "longitude": -0.06332,
         "meeting_point": null,
         "travel_info": [
-            "Tube: London Bridge, Bermondsey",
-            "Train: South Bermondsey, London Bridge"
+            "Tube: Bermondsey",
+            "Train: South Bermondsey, London Bridge",
+            "Additional travel info: End: Borough Market"
         ]
     },
     "name": "The architecture of eating- how food shapes our city",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11985",
     "ticketed_events": true
 }

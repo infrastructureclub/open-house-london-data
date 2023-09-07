@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -47,29 +48,31 @@
     "id": 12250,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12250/building_12250_img_3054-1_8746b6cd9c111163ecf9ccfc3d9002f6.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12250/building_12250_img_3054-1_434d1a6ff9ff905f87ddfcbd4fbec485.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12250_img_3054-1_8746b6cd9c111163ecf9ccfc3d9002f6.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12250_img_3054-1_434d1a6ff9ff905f87ddfcbd4fbec485.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12250/building_12250_p1220178-1_3e43b785a32c3b518db40425f75e4018.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12250/building_12250_p1220178-1_c05a871e34d9c18571271ee413c056e7.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12250_p1220178-1_3e43b785a32c3b518db40425f75e4018.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12250_p1220178-1_c05a871e34d9c18571271ee413c056e7.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Access through Reeds Wharf, 33 Mill Street",
+        "address": "Access through Reeds Wharf, 33 Mill Street, SE1 2AX",
         "latitude": 51.502,
         "longitude": -0.0702,
         "meeting_point": null,
         "travel_info": [
-            "Tube: Bermondsey"
+            "Tube: Bermondsey",
+            "Additional travel info: London Bridge and Tower Hill are also nearby"
         ]
     },
     "name": "Garden Barge Square at Tower Bridge Moorings",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12250",
     "ticketed_events": false
 }

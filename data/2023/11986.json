@@ -15,6 +15,7 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11986",
             "capacity": null,
             "date": "2023-09-17",
@@ -45,10 +46,10 @@
     "id": 11986,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11986/building_11986_broadcastinghouse_ff42cc3efa823daa44187208f3f14a25.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11986/building_11986_broadcastinghouse_f7772b061a695dc6b07107e8bd69a129.jpeg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11986_broadcastinghouse_ff42cc3efa823daa44187208f3f14a25.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11986_broadcastinghouse_f7772b061a695dc6b07107e8bd69a129.jpeg"
         }
     ],
     "links": [
@@ -64,11 +65,13 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Blackfriars",
-            "Train: City Thameslink",
-            "Bus: 76, 56, 55, 26, 25, 243, 133, 17, 15, 63, 40"
+            "Train: Blackfriars, City Thameslink",
+            "Bus: 76, 56, 55, 26, 25, 243, 133, 17, 15, 63, 40",
+            "Additional travel info: Tour end: Broadcasting House, Portland Place, W1A 1AA.\r\nDistance: Approximately 3 miles / 4.8 kilometres."
         ]
     },
     "name": "Connected capital:  London's communication architecture",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11986",
     "ticketed_events": true
 }

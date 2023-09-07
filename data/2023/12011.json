@@ -14,12 +14,13 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12011",
             "capacity": null,
             "date": "2023-09-08",
             "drop_in": false,
             "end": "2023-09-08T18:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Stratford behind the scenes walking tour",
             "notes": null,
             "start": "2023-09-08T15:30:00+01:00",
@@ -50,22 +51,22 @@
     "id": 12011,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12011/building_12011_20230507_164133_3625dbd956ca3b3775a3cbe1974cfe9b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12011/building_12011_20230507_164133_c9fc8755f550be14d61cee3937ab5d97.jpg",
             "description": null,
             "title": "Aquatic Centre & Waterworks River: Guide's own photo",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12011_20230507_164133_3625dbd956ca3b3775a3cbe1974cfe9b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12011_20230507_164133_c9fc8755f550be14d61cee3937ab5d97.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12011/building_12011_20230504_123445-large-strat-map-dated-1711_d393743c007f07e2b4f953643689de1d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12011/building_12011_20230504_123445-large-strat-map-dated-1711_8ab6faf4eaa8974b84b7dc6bae4e4db3.jpg",
             "description": null,
             "title": "Old Stratford Map, credit Newham Archives",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12011_20230504_123445-large-strat-map-dated-1711_d393743c007f07e2b4f953643689de1d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12011_20230504_123445-large-strat-map-dated-1711_8ab6faf4eaa8974b84b7dc6bae4e4db3.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12011/building_12011_uel-own-photo-from-public-hwy_c4afbfa46fb1dab063b74e4d886f1a80.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12011/building_12011_uel-own-photo-from-public-hwy_1002b947bda414640a7e7c931b944cb6.jpg",
             "description": null,
             "title": "UEL: Guide's own photo",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12011_uel-own-photo-from-public-hwy_c4afbfa46fb1dab063b74e4d886f1a80.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12011_uel-own-photo-from-public-hwy_1002b947bda414640a7e7c931b944cb6.jpg"
         }
     ],
     "links": [
@@ -75,17 +76,19 @@
         }
     ],
     "location": {
-        "address": "Maryland Station",
+        "address": "Maryland Station, Leytonstone Road (Outside front entrance)",
         "latitude": 51.54881,
         "longitude": 0.00527,
         "meeting_point": null,
         "travel_info": [
             "Tube: Stratford",
             "Train: Stratford, Maryland",
-            "Bus: 69, 257"
+            "Bus: 69, 257",
+            "Additional travel info: Tour end: Near Stratford Station"
         ]
     },
     "name": "Stratford: past, present and future",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12011",
     "ticketed_events": true
 }

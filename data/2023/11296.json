@@ -15,6 +15,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11296",
             "capacity": null,
             "date": "2023-09-08",
@@ -29,6 +30,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11296",
             "capacity": null,
             "date": "2023-09-09",
@@ -43,6 +45,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11296",
             "capacity": null,
             "date": "2023-09-10",
@@ -57,6 +60,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11296",
             "capacity": null,
             "date": "2023-09-15",
@@ -71,6 +75,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11296",
             "capacity": null,
             "date": "2023-09-16",
@@ -85,6 +90,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11296",
             "capacity": null,
             "date": "2023-09-17",
@@ -132,28 +138,28 @@
     "id": 11296,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11296/building_11296_img_2828_95cbbc6bc52c37778a2a9ac216ba55e0.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11296/building_11296_img_2828_8b059f0e8ad7184afcc7c0488c9ccdab.jpg",
             "description": null,
             "title": "William Morris Mural ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11296_img_2828_95cbbc6bc52c37778a2a9ac216ba55e0.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11296_img_2828_8b059f0e8ad7184afcc7c0488c9ccdab.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11296/building_11296_img_2904_664ce5183062631b1922e02e2d1db9d6.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11296/building_11296_img_2904_c28f81b321873eb89a7d587354f71c16.jpg",
             "description": null,
             "title": "Tramway Works Hatherley Mews",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11296_img_2904_664ce5183062631b1922e02e2d1db9d6.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11296_img_2904_c28f81b321873eb89a7d587354f71c16.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11296/building_11296_dbb3c564-fcdb-4b76-94bd-9b6258275f11_8d64527f0723343061198a5c0b1a0174.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11296/building_11296_dbb3c564-fcdb-4b76-94bd-9b6258275f11_6fb24f5deb8ea5faf27e13251b88a11a.jpg",
             "description": null,
             "title": "Victorian High Street Orford Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11296_dbb3c564-fcdb-4b76-94bd-9b6258275f11_8d64527f0723343061198a5c0b1a0174.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11296_dbb3c564-fcdb-4b76-94bd-9b6258275f11_6fb24f5deb8ea5faf27e13251b88a11a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11296/building_11296_walthamstow_41331a8936b2358ec19a4e31a617d25d.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11296/building_11296_walthamstow_cd409428c1f4d6584014d2fe25cc7c9f.jpeg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11296_walthamstow_41331a8936b2358ec19a4e31a617d25d.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11296_walthamstow_cd409428c1f4d6584014d2fe25cc7c9f.jpeg"
         }
     ],
     "links": [
@@ -163,7 +169,7 @@
         }
     ],
     "location": {
-        "address": "Outside Costa Coffee at Walthamstow Central Sta",
+        "address": "Outside Costa Coffee at Walthamstow Central Station 5 Station Approac",
         "latitude": 51.5828202,
         "longitude": -0.0194102,
         "meeting_point": null,
@@ -174,6 +180,7 @@
         ]
     },
     "name": "From Forest to Morris: A walk around Walthamstow",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11296",
     "ticketed_events": true
 }

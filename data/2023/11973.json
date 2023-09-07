@@ -15,6 +15,7 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11973",
             "capacity": null,
             "date": "2023-09-15",
@@ -50,10 +51,10 @@
     "id": 11973,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11973/building_11973_charterhouse_c079b71ab09b39d242a0a734f2db252b.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11973/building_11973_charterhouse_050b5348bad7e5955962735154bae79d.jpeg",
             "description": null,
             "title": "Tudor splendour in the heart of London.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11973_charterhouse_c079b71ab09b39d242a0a734f2db252b.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11973_charterhouse_050b5348bad7e5955962735154bae79d.jpeg"
         }
     ],
     "links": [
@@ -63,16 +64,18 @@
         }
     ],
     "location": {
-        "address": "Charterhouse Square (outside Charterhouse)",
+        "address": "Charterhouse Square (outside Charterhouse), EC1M 6AN",
         "latitude": 51.52082,
         "longitude": -0.09933,
         "meeting_point": null,
         "travel_info": [
             "Tube: Farringdon, Barbican",
-            "Train: Farringdon"
+            "Train: Farringdon",
+            "Additional travel info: End: West Smithfield EC1A 9HY\r\n\r\nThe following bus routes operate close to the start point:\r\n153 from Moorgate to Silk Street;\r\n341 from Waterloo to Snow Hill;\r\n63 from Kings Cross St Pancras to Clerkenwell Road.\r\n\r\nBuses running close to the end point:\r\n8 from Montague Street to Liverpool Street;\r\n59 from Giltspur Street to Waterloo;\r\n46 from St Bart's Hospital to Kings Cross St Pancras."
         ]
     },
     "name": "Calamity and civility: contrasts in Clerkenwell",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11973",
     "ticketed_events": true
 }

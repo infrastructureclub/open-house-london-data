@@ -33,6 +33,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -47,6 +48,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -106,10 +108,12 @@
         "travel_info": [
             "Tube: Cutty Sark",
             "Train: Greenwich, Maze Hill",
-            "Bus: 177, 188, 286, 386"
+            "Bus: 177, 188, 286, 386",
+            "Additional travel info: On the day please join us at the Lower Grande Square to book in on the tours."
         ]
     },
     "name": "Old Royal Naval College - King William Court",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/846",
     "ticketed_events": false
 }

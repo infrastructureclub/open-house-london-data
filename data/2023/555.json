@@ -20,12 +20,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/555",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T11:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour",
             "notes": null,
             "start": "2023-09-16T10:00:00+01:00",
@@ -34,12 +35,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/555",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T12:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour",
             "notes": null,
             "start": "2023-09-16T11:30:00+01:00",
@@ -48,6 +50,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/555",
             "capacity": null,
             "date": "2023-09-16",
@@ -62,6 +65,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/555",
             "capacity": null,
             "date": "2023-09-16",
@@ -114,16 +118,18 @@
     ],
     "links": [],
     "location": {
-        "address": "London Road (entrance via Wren Gates",
+        "address": "London Road (entrance via Wren Gates, no vehicle entry), Bromley",
         "latitude": 51.4078207,
         "longitude": 0.0151453,
         "meeting_point": null,
         "travel_info": [
             "Train: Bromley North, Bromley South",
-            "Bus: 208, 358"
+            "Bus: 208, 358",
+            "Additional travel info: No parking available onsite."
         ]
     },
     "name": "Bromley and Sheppard's College",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/555",
     "ticketed_events": true
 }

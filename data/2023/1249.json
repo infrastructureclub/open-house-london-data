@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -93,15 +94,15 @@
     "id": 1249,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1249/building_1249_bower-house-photo_ac8153833a4dcb1fbb4eb95750fca67c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1249/building_1249_bower-house-photo_48d5ca49aec82f8f219ff38f7543974c.jpg",
             "description": null,
             "title": "View from front of Bower house",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1249_bower-house-photo_ac8153833a4dcb1fbb4eb95750fca67c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1249_bower-house-photo_48d5ca49aec82f8f219ff38f7543974c.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Orange Tree Hill, Havering-atte-Bower, Romford",
+        "address": "Orange Tree Hill, Havering-atte-Bower, Romford, RM4 1PB",
         "latitude": 51.610204,
         "longitude": 0.184998,
         "meeting_point": null,
@@ -111,6 +112,7 @@
         ]
     },
     "name": "Bower House",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/1249",
     "ticketed_events": false
 }

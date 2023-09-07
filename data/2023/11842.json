@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "The New West End Synagogue is among the most beautiful, historic buildings of Jewish interest in England and is a Grade 1 Listed Building. The texts that adorn the walls concentrate on the ideas of Divine knowledge and worship, as well as p",
+    "description": "The New West End Synagogue is among the most beautiful, historic buildings of Jewish interest in England and is a Grade 1 Listed Building. The texts that adorn the walls concentrate on the ideas of Divine knowledge and worship.",
     "design": {
         "designers": [
             {
@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -50,10 +51,10 @@
     "id": 11842,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11842/building_11842_new_west_synagogue_low-res-18_e219826bab3d515850eed5bfbc2a1714.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11842/building_11842_new_west_synagogue_low-res-18_5ef1906e967ede91b697279574aaaac1.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11842_new_west_synagogue_low-res-18_e219826bab3d515850eed5bfbc2a1714.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11842_new_west_synagogue_low-res-18_5ef1906e967ede91b697279574aaaac1.jpg"
         }
     ],
     "links": [],
@@ -68,6 +69,7 @@
         ]
     },
     "name": "New West End Synagogue",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11842",
     "ticketed_events": false
 }

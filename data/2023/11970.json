@@ -12,6 +12,7 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11970",
             "capacity": null,
             "date": "2023-09-10",
@@ -29,9 +30,9 @@
         {
             "heading": "About the tour",
             "paragraphs": [
-                "A rural farmland owned by the Ladbroke Family, Notting Hill began to develop in the late 1700s with the family's dream of turning it into a lavish estate that rivals Regent's Park. While it may seem that their dream has finally become a reality, the area up until the second half of the 20th century was considered a slum.",
+                "A rural farmland owned by the Ladbroke Family, Notting Hill began to develop in the late 1700s with the family's dream of turning it into a lavish estate that rivals Regent's Park. While it may seem that their dream has finally become a reality, the area up until the second half of the 20th century was largely a slum, and its more recent history is tainted by racial tensions, abusive landlords, and hyper-gentrification which has forced most of its original community out.",
                 "Architecture and urban spaces are the backdrop to every day life. People influence how these spaces take shape, but these spaces also have the power to make or break communities. Decisions made in architecture and urban planning often have long-lasting effects on communities and inevitably instigate gentrification – a problem most districts in London face today.",
-                "This tour aims to shed light on the history of Notting Hill and the struggles of its people, through the use of the urban fabric as a storytelling tool to understand the underlying tensions and their influence until this day."
+                "This tour hopes to shed light on the lesser-known history of Notting Hill and the struggles of its people, through the use of the urban fabric as a storytelling tool to understand the underlying tensions and their influence until this day. From the wealthy Ladbroke Estate to the Potteries and Piggeries, to the notorious landlord Peter Rachman and the chilling murders at Rillington Place, to the Notting Hill Riots and the construction of the Westway, Notting hill bears scars that are evident in the urban fabric to those who look closely."
             ]
         },
         {
@@ -45,22 +46,22 @@
     "id": 11970,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11970/building_11970_dscf3221_255ceddc72b80cfebb0947bf5ff97f07.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11970/building_11970_dscf3221_f66d83eea48f263209c9252e882bd90f.jpg",
             "description": null,
             "title": "Photo by Sally Itani",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11970_dscf3221_255ceddc72b80cfebb0947bf5ff97f07.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11970_dscf3221_f66d83eea48f263209c9252e882bd90f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11970/building_11970_dscf3095_53e5ece520092bf6f250e7f39a2bf2cc.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11970/building_11970_dscf3095_c1372ae36c34db07cb3a9b88ecceea9b.jpg",
             "description": null,
             "title": "Photo by Sally Itani",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11970_dscf3095_53e5ece520092bf6f250e7f39a2bf2cc.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11970_dscf3095_c1372ae36c34db07cb3a9b88ecceea9b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11970/building_11970_dscf3279_1e94bf2453ac404a41c2c4b35b34357a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11970/building_11970_dscf3279_259aa122795c031b8493dfd677cb5bd3.jpg",
             "description": null,
             "title": "Photo by Sally Itani",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11970_dscf3279_1e94bf2453ac404a41c2c4b35b34357a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11970_dscf3279_259aa122795c031b8493dfd677cb5bd3.jpg"
         }
     ],
     "links": [
@@ -70,7 +71,7 @@
         }
     ],
     "location": {
-        "address": "Outside Holland Park Station",
+        "address": "Outside Holland Park Station, Holland Park Avenue, W11 3RB",
         "latitude": 51.50737,
         "longitude": -0.20565,
         "meeting_point": null,
@@ -80,7 +81,8 @@
             "Bus: 94, 31, 228"
         ]
     },
-    "name": "Stories from Notting Hill",
+    "name": "The traces that remain: stories from Notting Hill",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11970",
     "ticketed_events": true
 }

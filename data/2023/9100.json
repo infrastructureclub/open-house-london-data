@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -27,13 +28,14 @@
             "end": "2023-09-16T17:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "We have a church event on September 10 so it would be easier for us to open on September 16-17. \r\n\r\nTalk by vicar about church history",
+            "notes": "The Vicar will give a talk on the Church's history, at 12 on September 16.\r\n\r\nChurch members will talk about recent and planned repairs.",
             "start": "2023-09-16T11:00:00+01:00",
             "ticketed": false
         },
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -41,15 +43,14 @@
             "end": "2023-09-17T17:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "We will show a film of the 2022 Bloomsbury Festival reunion event about the 1983 occupation by local sex workers",
+            "notes": "We will show a film of the 2022 Bloomsbury Festival reunion event about the 1983 occupation by local sex workers, at 2pm",
             "start": "2023-09-17T13:00:00+01:00",
             "ticketed": false
         }
     ],
     "facilities": [
-        "Step free access",
-        "Cloakroom",
-        "Toilets"
+        "Gender neutral toilets",
+        "Step free access"
     ],
     "factsheet": [
         {
@@ -63,9 +64,9 @@
         {
             "heading": "Holy Cross today",
             "paragraphs": [
-                "The congregation is truly international, especially now that  tourists are returning to London and the church has stronger links with nearby Goodenough College. We also have strong links with London's South Sudan community, as well as with our local Bangladeshi and Somali communities.",
+                "The congregation is truly international, especially now that  tourists have returned to London and the church has stronger links with nearby Goodenough College. We also have strong links with London's South Sudan community, as well as with our local Bangladeshi and Somali neighbours.",
                 "The Church is unusual in having a large crypt which was extensively refurbished in 2019. Part of the crypt is now being used by a drama school but the Church retains use of a substantial area for community purposes - English classes for asylum seekers, for example.",
-                "The annual Bloomsbury Festival  makes good use of the church for both performances and rehearsals. It has very good acoustics. We have plans to improve the church as a performance venue"
+                "The annual Bloomsbury Festival  makes extensive use of the church for both performances and rehearsals. It has very good acoustics. We would like to see the church used more as a performance venue. One of the highlights of the 2022 Bloomsbury Festival was a reunion event forty years after local prostitutes held a sit-in at the church in protest against police harassment. A film of the event will be shown on September 17 at 2pm."
             ]
         },
         {
@@ -78,7 +79,7 @@
                 "A small stained glass window on the south wall, ‘Christ the Good Shepherd’, was designed and made by Martin Travers (1886-1948), a distinguished church artist in the Anglo-Catholic tradition. Christ's lamp copies the lamp in Holman Hunt's ‘Light of the World’.",
                 "The Walsingham Chapel at the back of the church is a reminder of Father Alfred Hope Patten who was inspired to restore the Shrine of Our Lady of Walsingham while a curate at Holy Cross from 1913-15.",
                 "The Stations of the Cross are not unique – there are identical ones in the Chapel of the Hospital of St John and St Elizabeth in St John's Wood and perhaps in other places too. We would like to know more about their production.",
-                "Finally and sadly, you will see cracks. There is settlement of the foundations at the north east corner of the Church causing structural cracking to the vestry and associated walls of the Church itself. But the Church is on Historic England's register of buildings at risk and is working with three neighbouring churches to find funding for repairs."
+                "Finally and sadly, you will see cracks. There is settlement of the foundations at the north east corner of the Church causing structural cracking to the vestry and associated walls of the Church itself. But the Church is on Historic England's register of buildings at risk and is working with neighbouring churches to find funding sources for repairs. A start was made this year with repairs to roof guttering but there is much more still to do, to make the building the fully-functional community asset that we all want to see."
             ]
         },
         {
@@ -91,40 +92,46 @@
     "id": 9100,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9100/building_9100_interior-with-luke-jeram-s-moon-installation_c313888bd17e948282ca18bb51e4779e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9100/building_9100_interior-with-luke-jeram-s-moon-installation_ce766994ce00d8c5b307c6cf0e347d68.jpg",
             "description": null,
             "title": "Interior, with Luke Jerram's moon, during the 2019 Bloomsbury Festival",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9100_interior-with-luke-jeram-s-moon-installation_c313888bd17e948282ca18bb51e4779e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9100_interior-with-luke-jeram-s-moon-installation_ce766994ce00d8c5b307c6cf0e347d68.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9100/building_9100_holy-cross-nave-facing-east_6497baa05117650666e1ebf159ac7ff8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9100/building_9100_holy-cross-nave-facing-east_a0dd89ea8887a19c4e0b50d1b2055c5b.jpg",
             "description": null,
             "title": "Nave",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9100_holy-cross-nave-facing-east_6497baa05117650666e1ebf159ac7ff8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9100_holy-cross-nave-facing-east_a0dd89ea8887a19c4e0b50d1b2055c5b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9100/building_9100_good-shepherd-window-detail-cropped_b1a9f0033693e171583768af018c2fd0.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9100/building_9100_good-shepherd-window-detail-cropped_404bf4d7e5471c05040efe9af2870db8.jpg",
             "description": null,
             "title": "Christ the Good Shepherd, by Martin Travers - detail",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9100_good-shepherd-window-detail-cropped_b1a9f0033693e171583768af018c2fd0.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9100_good-shepherd-window-detail-cropped_404bf4d7e5471c05040efe9af2870db8.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9100/building_9100_p8170908_8c0577adc857b4f3a89e4073ede68749.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9100/building_9100_p8170908_c89ed183992d875ff9f5110ff0f34a44.jpg",
             "description": null,
             "title": "1920 appeal for war memorial",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9100_p8170908_8c0577adc857b4f3a89e4073ede68749.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9100_p8170908_c89ed183992d875ff9f5110ff0f34a44.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9100/building_9100_pa170842_6aafe5c415371698569124aa5e9f7224.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9100/building_9100_pa170842_2caf1d7690a009c54d1d911880e62fd2.jpg",
             "description": null,
             "title": "Live streaming a concert during the 2020 Bloomsbury Festival",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9100_pa170842_6aafe5c415371698569124aa5e9f7224.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9100_pa170842_2caf1d7690a009c54d1d911880e62fd2.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9100/building_9100_bloomsbury-festival-2022_b3610a30ef6d3e83be9896cd9dacb257.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9100/building_9100_bloomsbury-festival-2022_1d89fc0d4e8545c116684e9d6867c976.jpg",
             "description": null,
             "title": "Remembering a 1982 sit in by the English Collective of Prostitutes - Bloomsbury Festival 2022",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9100_bloomsbury-festival-2022_b3610a30ef6d3e83be9896cd9dacb257.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9100_bloomsbury-festival-2022_1d89fc0d4e8545c116684e9d6867c976.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9100/building_9100_p5080017_667082b4aaf7e629b925a0a63297a792.jpg",
+            "description": null,
+            "title": "Community singing at a Coronation party - May 2023",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9100_p5080017_667082b4aaf7e629b925a0a63297a792.jpg"
         }
     ],
     "links": [],
@@ -136,10 +143,12 @@
         "travel_info": [
             "Tube: Euston, King's Cross St. Pancras, Russell Square",
             "Train: Euston, King's Cross",
-            "Bus: 10, 17, 30, 45, 46, 59, 63, 73, 91, 205, 214, 259, 390, 476"
+            "Bus: 10, 17, 30, 45, 46, 59, 63, 73, 91, 205, 214, 259, 390, 476",
+            "Additional travel info: The Church is a 5 minute walk south of King's Cross station"
         ]
     },
     "name": "Holy Cross Church, Cromer Street",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/9100",
     "ticketed_events": false
 }

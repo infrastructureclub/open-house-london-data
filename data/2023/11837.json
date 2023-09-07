@@ -20,34 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-06",
-            "drop_in": true,
-            "end": "2023-09-06T18:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Public Opening Hours",
-            "start": "2023-09-06T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-07",
-            "drop_in": true,
-            "end": "2023-09-07T18:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Public opening hours",
-            "start": "2023-09-07T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-08",
@@ -62,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -109,10 +83,10 @@
     "id": 11837,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11837/building_11837_2018-09-28142431-1-small_609f8169af30599df722bf448af2ce5f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11837/building_11837_2018-09-28142431-1-small_c18e40fee19cc1e84b2dc9bee5c03d9e.jpg",
             "description": null,
             "title": "Khadija's Garden & Chris Ofili 'Black Hands' pedestal clock,  on Hoxton Street outside Peer.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11837_2018-09-28142431-1-small_609f8169af30599df722bf448af2ce5f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11837_2018-09-28142431-1-small_c18e40fee19cc1e84b2dc9bee5c03d9e.jpg"
         }
     ],
     "links": [
@@ -129,10 +103,12 @@
         "travel_info": [
             "Tube: Old Street",
             "Train: Hoxton",
-            "Bus: 55, 47, 394, 35, 243"
+            "Bus: 55, 47, 394, 35, 243",
+            "Additional travel info: Cycling \r\nThere are cycle parking spaces directly in front of the gallery on Hoxton Street.\r\n\r\nCar\r\nWe encourage visitors to use public transport where possible. Free parking for Blue Badge holders is available on Hoxton Street in the pay and display bays for an unlimited period. Spaces are limited and available on a first come basis."
         ]
     },
     "name": "Peer",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11837",
     "ticketed_events": false
 }

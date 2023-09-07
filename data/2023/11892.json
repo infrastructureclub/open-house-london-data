@@ -20,20 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-07",
-            "drop_in": true,
-            "end": "2023-09-07T13:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
-            "start": "2023-09-07T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -48,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-14",
@@ -76,34 +64,34 @@
     "id": 11892,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11892/building_11892_decoresidence-open-house-london_9f7c89b271089c55df4562d18df2333f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11892/building_11892_decoresidence-open-house-london_ccba5618199a2f4678e63818126ffd5b.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11892_decoresidence-open-house-london_9f7c89b271089c55df4562d18df2333f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11892_decoresidence-open-house-london_ccba5618199a2f4678e63818126ffd5b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11892/building_11892_decoresidence-4-2_340e2b98d6d3274ac944b2296a59f99c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11892/building_11892_decoresidence-4-2_40e0d9e005ebd9e1cc761a99c73e9dda.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11892_decoresidence-4-2_340e2b98d6d3274ac944b2296a59f99c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11892_decoresidence-4-2_40e0d9e005ebd9e1cc761a99c73e9dda.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11892/building_11892_decoresidence-1-2_20b6628ca96582aafffa2b816889ff8d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11892/building_11892_decoresidence-1-2_3717161d6778fa99da85da219cae0b09.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11892_decoresidence-1-2_20b6628ca96582aafffa2b816889ff8d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11892_decoresidence-1-2_3717161d6778fa99da85da219cae0b09.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11892/building_11892_decoresidence-2-2_43805e2822456e389d68830ad1247386.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11892/building_11892_decoresidence-2-2_3fd536db17f612b1f933bdcc2e48759a.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11892_decoresidence-2-2_43805e2822456e389d68830ad1247386.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11892_decoresidence-2-2_3fd536db17f612b1f933bdcc2e48759a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11892/building_11892_decoresidence-5-2-open-house_c100914049238507d9a77fe9a36fbe7b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11892/building_11892_decoresidence-5-2-open-house_0a496a853139799e0ee188536ca7c20d.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11892_decoresidence-5-2-open-house_c100914049238507d9a77fe9a36fbe7b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11892_decoresidence-5-2-open-house_0a496a853139799e0ee188536ca7c20d.jpg"
         }
     ],
     "links": [],
@@ -119,6 +107,7 @@
         ]
     },
     "name": "33 Buchanan Gardens",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11892",
     "ticketed_events": false
 }

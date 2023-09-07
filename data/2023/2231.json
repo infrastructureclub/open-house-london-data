@@ -23,6 +23,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -49,31 +50,33 @@
     "id": 2231,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2231/building_2231_image-of-exhibition_ecb8cf93c3ad2631973d9ee8746973f0.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2231/building_2231_image-of-exhibition_749154592470593252a8a861393a2998.jpg",
             "description": null,
             "title": "Barts900 outdoor exhibition",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2231_image-of-exhibition_ecb8cf93c3ad2631973d9ee8746973f0.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2231_image-of-exhibition_749154592470593252a8a861393a2998.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2231/building_2231_sbh_0005_e0e98eafc4e2042a72148461f1d542e5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2231/building_2231_sbh_0005_a400df0ea323ab74a698769b7dbc0a4a.jpg",
             "description": null,
             "title": "St Bartholomew's Hospital square - Grade I listed building",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2231_sbh_0005_e0e98eafc4e2042a72148461f1d542e5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2231_sbh_0005_a400df0ea323ab74a698769b7dbc0a4a.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "St Bartholomew's Hospital, West Smithfield",
+        "address": "St Bartholomew's Hospital, West Smithfield, EC1A 7BE",
         "latitude": 51.51749599999999,
         "longitude": -0.1000463,
         "meeting_point": null,
         "travel_info": [
             "Tube: Barbican, Farringdon, St. Paul's",
             "Train: City Thameslink, Farringdon",
-            "Bus: 56, 46"
+            "Bus: 56, 46",
+            "Additional travel info: Barts is now served by the Elizabeth Line (use the Barbican exit at Farringdon Station)."
         ]
     },
     "name": "Outdoor exhibition celebrating the 900th anniversary of St Bartholomew’s Hospital - Life and death in the archives, 1123-2023",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2231",
     "ticketed_events": false
 }

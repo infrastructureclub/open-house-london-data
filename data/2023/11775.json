@@ -20,12 +20,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11775",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T12:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour of the Archives",
             "notes": null,
             "start": "2023-09-09T11:00:00+01:00",
@@ -34,12 +35,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11775",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour of the Archives",
             "notes": null,
             "start": "2023-09-09T15:00:00+01:00",
@@ -48,12 +50,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11775",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T12:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour of the Archives",
             "notes": null,
             "start": "2023-09-16T11:00:00+01:00",
@@ -62,12 +65,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11775",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour of the Archives",
             "notes": null,
             "start": "2023-09-16T15:00:00+01:00",
@@ -86,15 +90,15 @@
     "id": 11775,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11775/building_11775_img_5155_35bc426d3ebd3b57d03d53ef06d4a592.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11775/building_11775_img_5155_31814cfc5ea5b4a87c16ca1ba54f7d44.jpg",
             "description": null,
             "title": "The Archives at Bromley Historic Collections",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11775_img_5155_35bc426d3ebd3b57d03d53ef06d4a592.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11775_img_5155_31814cfc5ea5b4a87c16ca1ba54f7d44.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Bromley Historic Collections",
+        "address": "Bromley Historic Collections, Bromley Central Library, High Street",
         "latitude": 51.4036023,
         "longitude": 0.0147679,
         "meeting_point": null,
@@ -103,6 +107,7 @@
         ]
     },
     "name": "Bromley Archives- Bromley Central Library",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11775",
     "ticketed_events": true
 }

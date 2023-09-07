@@ -12,6 +12,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12005",
             "capacity": null,
             "date": "2023-09-15",
@@ -26,6 +27,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12005",
             "capacity": null,
             "date": "2023-09-16",
@@ -68,25 +70,27 @@
     "id": 12005,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12005/building_12005_img-0936_40a2e2cb11bb758fce248185d91c8fdc.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12005/building_12005_img-0936_227d178b4e3ce71fe2b96e11cb63cc32.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12005_img-0936_40a2e2cb11bb758fce248185d91c8fdc.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12005_img-0936_227d178b4e3ce71fe2b96e11cb63cc32.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Kindertransport statue",
+        "address": "Kindertransport statue, Hope Square,Liverpool St station, EC2M 7PY",
         "latitude": 51.51763,
         "longitude": -0.08263,
         "meeting_point": null,
         "travel_info": [
             "Tube: Liverpool Street",
             "Train: Liverpool Street",
-            "Bus: 78, 48, 47, 42, 388, 35, 344, 26, 242, 23, 205, 149, 135, 133, 11"
+            "Bus: 78, 48, 47, 42, 388, 35, 344, 26, 242, 23, 205, 149, 135, 133, 11",
+            "Additional travel info: The tour starts at the Kindertransport statue in Hope Square, outside Liverpool Street station's National Rail entrance on Liverpool Street/Old Broad Street. It's next to MacDonalds"
         ]
     },
     "name": "Walking tour: Sisters in the City",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12005",
     "ticketed_events": true
 }

@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -44,21 +45,21 @@
     "id": 12197,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12197/building_12197_hallway_d14f99da1fd59b03530517e09d2cbdd8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12197/building_12197_hallway_5db1bb4e73fd789918275ccb594a72a7.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12197_hallway_d14f99da1fd59b03530517e09d2cbdd8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12197_hallway_5db1bb4e73fd789918275ccb594a72a7.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12197/building_12197_bedroom_e911dc052d8d6f28bf2b578a789427cb.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12197/building_12197_bedroom_10cacc1469ef9fc2f7cf0477c073334c.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12197_bedroom_e911dc052d8d6f28bf2b578a789427cb.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12197_bedroom_10cacc1469ef9fc2f7cf0477c073334c.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Flat 66 Douglas Buildings, Marshalsea Road",
+        "address": "Flat 66 Douglas Buildings, Marshalsea Road, SE1 1EH",
         "latitude": 51.50179,
         "longitude": -0.09551,
         "meeting_point": null,
@@ -68,6 +69,7 @@
         ]
     },
     "name": "Home of Jermaine Gallacher",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12197",
     "ticketed_events": false
 }

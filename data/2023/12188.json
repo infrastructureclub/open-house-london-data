@@ -8,22 +8,7 @@
             "architectural practice"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-07",
-            "drop_in": true,
-            "end": "2023-09-07T20:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Explore our team's joint effort approach to sustainable design and material research, at our studio in the heart of Clerkenwell.",
-            "start": "2023-09-07T17:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
         "Refreshments",
         "Toilets",
@@ -53,15 +38,15 @@
     "id": 12188,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12188/building_12188_conran-and-partners_great-sutton-street_taran-wilkhu-4-hero_50adff49924ef7056b687068acbb202d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12188/building_12188_conran-and-partners_great-sutton-street_taran-wilkhu-4-hero_be7fb0891de7c286b6b64b3d5c92384d.jpg",
             "description": null,
             "title": "Taran Wilkhu",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12188_conran-and-partners_great-sutton-street_taran-wilkhu-4-hero_50adff49924ef7056b687068acbb202d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12188_conran-and-partners_great-sutton-street_taran-wilkhu-4-hero_be7fb0891de7c286b6b64b3d5c92384d.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Conran and Partners, 30a Great Sutton Street",
+        "address": "Conran and Partners, 30a Great Sutton Street, EC1V 0DU",
         "latitude": 51.52306,
         "longitude": -0.1017,
         "meeting_point": null,
@@ -71,6 +56,7 @@
         ]
     },
     "name": "Design for Life – A Holistic Approach to Sustainability",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12188",
     "ticketed_events": false
 }

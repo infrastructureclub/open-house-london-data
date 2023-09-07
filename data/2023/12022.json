@@ -20,12 +20,13 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12022",
             "capacity": null,
             "date": "2023-09-08",
             "drop_in": false,
             "end": "2023-09-08T13:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "The London Model Talk",
             "notes": null,
             "start": "2023-09-08T12:30:00+01:00",
@@ -34,12 +35,13 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12022",
             "capacity": null,
             "date": "2023-09-15",
             "drop_in": false,
             "end": "2023-09-15T13:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "The London Model Talk",
             "notes": null,
             "start": "2023-09-15T12:30:00+01:00",
@@ -67,21 +69,21 @@
     "id": 12022,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12022/building_12022_tlc-gallery-image_a8e7c448f3fac307ff53ba12828fb7fb.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12022/building_12022_tlc-gallery-image_4a4ec9198eae3721250973552952142d.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12022_tlc-gallery-image_a8e7c448f3fac307ff53ba12828fb7fb.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12022_tlc-gallery-image_4a4ec9198eae3721250973552952142d.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12022/building_12022_52865185960_c86ab50763_k_81072fb4a02191202cba9e8dd434df55.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12022/building_12022_52865185960_c86ab50763_k_e52a333709b64b19b1a679bc80d0d4db.jpg",
             "description": null,
             "title": "BAR Productions",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12022_52865185960_c86ab50763_k_81072fb4a02191202cba9e8dd434df55.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12022_52865185960_c86ab50763_k_e52a333709b64b19b1a679bc80d0d4db.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "The London Centre, 3 Aldermanbury",
+        "address": "The London Centre, 3 Aldermanbury, City of London, EC2V 7HH",
         "latitude": 51.51606,
         "longitude": -0.09292,
         "meeting_point": null,
@@ -92,6 +94,7 @@
         ]
     },
     "name": "The London Centre",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12022",
     "ticketed_events": true
 }

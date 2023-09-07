@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -57,29 +58,31 @@
     "id": 8264,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8264/building_8264_img_20230516_163539_ce2fd897c85710795f7867af509275b9.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8264/building_8264_img_20230516_163539_180f16ac5e3e57bd7b8bcfbac2d04def.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8264_img_20230516_163539_ce2fd897c85710795f7867af509275b9.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8264_img_20230516_163539_180f16ac5e3e57bd7b8bcfbac2d04def.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8264/building_8264_101358048-67539-800_2dc58341139fb63e212d48c90ae8cc11.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8264/building_8264_101358048-67539-800_a7d851c042a9e29fcc27c33f3edb3ab9.jpg",
             "description": null,
             "title": "Front elevation ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8264_101358048-67539-800_2dc58341139fb63e212d48c90ae8cc11.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8264_101358048-67539-800_a7d851c042a9e29fcc27c33f3edb3ab9.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Bethlehem Chapel, Church Terrace",
+        "address": "Bethlehem Chapel, Church Terrace, Richmond upon Thames , TW10 6SE",
         "latitude": 51.4590644,
         "longitude": -0.3034642,
         "meeting_point": null,
         "travel_info": [
-            "Train: Richmond"
+            "Train: Richmond",
+            "Additional travel info: It's walking distance from Richmond Station"
         ]
     },
     "name": "Bethlehem Chapel",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/8264",
     "ticketed_events": false
 }

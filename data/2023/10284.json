@@ -14,12 +14,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10284",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T12:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided tour",
             "notes": null,
             "start": "2023-09-16T11:00:00+01:00",
@@ -28,12 +29,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10284",
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": false,
             "end": "2023-09-17T12:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided tour",
             "notes": null,
             "start": "2023-09-17T11:00:00+01:00",
@@ -52,22 +54,22 @@
     "id": 10284,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10284/building_10284_image_ddfa17e7706258b49f860b36482e2f73.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10284/building_10284_image_87d30aa3abe950d5882277a190b34723.jpg",
             "description": null,
             "title": "Surbiton station",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10284_image_ddfa17e7706258b49f860b36482e2f73.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10284_image_87d30aa3abe950d5882277a190b34723.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10284/building_10284_image_750faed81cbe8552c6fe66cca38b3fb8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10284/building_10284_image_0e15a39d97cdcd2a20348bcf971883ec.jpg",
             "description": null,
             "title": "The Antelope ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10284_image_750faed81cbe8552c6fe66cca38b3fb8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10284_image_0e15a39d97cdcd2a20348bcf971883ec.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10284/building_10284_image_91e56f2a06be82381e5c9f97bdd68452.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10284/building_10284_image_8d276ec449f0535521d51d7b1c20a280.jpg",
             "description": null,
             "title": "The clock tower",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10284_image_91e56f2a06be82381e5c9f97bdd68452.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10284_image_8d276ec449f0535521d51d7b1c20a280.jpg"
         }
     ],
     "links": [],
@@ -82,6 +84,7 @@
         ]
     },
     "name": "Surbiton Queen of the Suburbs",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10284",
     "ticketed_events": true
 }

@@ -22,6 +22,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/8371",
             "capacity": null,
             "date": "2023-09-09",
@@ -36,6 +37,7 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/8371",
             "capacity": null,
             "date": "2023-09-09",
@@ -77,16 +79,16 @@
     "id": 8371,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8371/building_8371_lambeth08427-729x1024_4e4d8eda88ac652741a51a1f1bc222e4.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8371/building_8371_lambeth08427-729x1024_b9ed281a798a97bd66c383ec4cf4e4c6.jpg",
             "description": null,
             "title": "Amesbury Tower and Durrington Tower",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8371_lambeth08427-729x1024_4e4d8eda88ac652741a51a1f1bc222e4.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8371_lambeth08427-729x1024_b9ed281a798a97bd66c383ec4cf4e4c6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8371/building_8371_img_4064_055367e6506422c07435f5f280ce5b4c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8371/building_8371_img_4064_c2f067860e4afb3d6826d28a03e9e06f.jpg",
             "description": null,
             "title": "Philip Bottomley",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8371_img_4064_055367e6506422c07435f5f280ce5b4c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8371_img_4064_c2f067860e4afb3d6826d28a03e9e06f.jpg"
         }
     ],
     "links": [],
@@ -97,10 +99,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Wandsworth Road",
-            "Bus: 77, 452, 87"
+            "Bus: 77, 452, 87",
+            "Additional travel info: Wandsworth Road is accessible."
         ]
     },
     "name": "Westbury Estate",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/8371",
     "ticketed_events": true
 }

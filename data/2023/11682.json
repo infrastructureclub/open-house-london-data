@@ -20,6 +20,7 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11682",
             "capacity": null,
             "date": "2023-09-12",
@@ -28,11 +29,12 @@
             "fully_booked": false,
             "name": "Memorials and Communities Presentation",
             "notes": null,
-            "start": "2023-09-12T16:30:00+01:00",
+            "start": "2023-09-12T18:00:00+01:00",
             "ticketed": true
         }
     ],
     "facilities": [
+        "Food and drink",
         "Toilets",
         "Parking",
         "Baby changing facilities",
@@ -42,35 +44,35 @@
         {
             "heading": "Plaques and Gravestones Tour of Holy Trinity Church",
             "paragraphs": [
-                "Join us on  SUNDAY 10 SEPTEMBER 12.30PM - 3PM Open of the Exhibition featuring plaques and gravestones for a guided tour of Holy Trinity Church hall and cemetery."
+                "Join us on  SUNDAY 10 SEPTEMBER 12.30PM - 3PM Open of Frank Laws Monument exhibition. Holy Trinity Church hall and cemetery.\n* TUESDAY 12 SEPTEMBER 4 - 5.45PM Another chance to view Frank's exhibition.\n6 - 7.30pm - A Panel discussion exploring Cian Hodge’s new researched findings.  Sitting on the Panel are Edward Legon,  Nadia Valman,  Alastair Owens,  artist Frank Laws, Julian McIntosh Architects (JMA); (other speakers TBC)\n7.30 - 8pm Refreshment"
             ]
         }
     ],
     "id": 11682,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11682/building_11682_girl-look-at-plaque-the-hac-bow_af65d625966fdfdc5cbd1a764c4b7f2b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11682/building_11682_girl-look-at-plaque-the-hac-bow_6ab5ac4a1ba2f16fa8af9894521464bf.jpg",
             "description": null,
             "title": "A Significant wall memorial at The HAC Bow",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11682_girl-look-at-plaque-the-hac-bow_af65d625966fdfdc5cbd1a764c4b7f2b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11682_girl-look-at-plaque-the-hac-bow_6ab5ac4a1ba2f16fa8af9894521464bf.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11682/building_11682_photo-for-brochure_3578c539f6ab3ace6c15231d0f5cc136.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11682/building_11682_photo-for-brochure_7f5af76daf224e50cb2fc7e08f4e2a36.jpg",
             "description": null,
             "title": "Holy Trinity Church Bow (The HAC Bow)",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11682_photo-for-brochure_3578c539f6ab3ace6c15231d0f5cc136.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11682_photo-for-brochure_7f5af76daf224e50cb2fc7e08f4e2a36.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11682/building_11682_memorials-at-the-hac-bow-p3_43d8722d0f0c5238de24e7fcac8f06a1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11682/building_11682_memorials-at-the-hac-bow-p3_29d4e180db4e19bb34c0baa680f6a492.jpg",
             "description": null,
             "title": "One of many plaques in Holy Trinity Church Bow dedicated to the elite local residents.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11682_memorials-at-the-hac-bow-p3_43d8722d0f0c5238de24e7fcac8f06a1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11682_memorials-at-the-hac-bow-p3_29d4e180db4e19bb34c0baa680f6a492.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11682/building_11682_memorials-at-the-hac-bow-p2_e5e9b43bcdadc0bc111bfceae66d8ca3.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11682/building_11682_memorials-at-the-hac-bow-p2_f1d6fb16a548eb33e07c25eb851cbe6a.jpg",
             "description": null,
             "title": "One of many plaques in Holy Trinity Church Bow dedicated to the elite local residents.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11682_memorials-at-the-hac-bow-p2_e5e9b43bcdadc0bc111bfceae66d8ca3.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11682_memorials-at-the-hac-bow-p2_f1d6fb16a548eb33e07c25eb851cbe6a.jpg"
         }
     ],
     "links": [],
@@ -80,12 +82,12 @@
         "longitude": -0.0340331,
         "meeting_point": null,
         "travel_info": [
-            "Tube: Mile End",
-            "Train: Stratford",
-            "Bus: 25"
+            "Bus: 25",
+            "Additional travel info: Visit the HAC by Bus, Train, Tube or DLR. These are\r\nthe lines and routes that have stops nearby -\r\nBus: 205, 25, 277, 425, D6\r\nTrain: OVERGROUND\r\nTube: CENTRAL, DISTRICT, HAMMERSMITH & CITY"
         ]
     },
     "name": "Memorials and Communities Presentation at the HAC Bow",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11682",
     "ticketed_events": true
 }

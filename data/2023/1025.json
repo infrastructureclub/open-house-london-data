@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -55,10 +56,10 @@
     "id": 1025,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1025/building_1025_screen-shot-2017-06-19-at-11-02-04_cccc4cb24225f52160ce550daeefdcf2.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1025/building_1025_screen-shot-2017-06-19-at-11-02-04_d370d82e21e092a8c5f8308faf51e50c.png",
             "description": null,
             "title": "Ice House interior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1025_screen-shot-2017-06-19-at-11-02-04_cccc4cb24225f52160ce550daeefdcf2.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1025_screen-shot-2017-06-19-at-11-02-04_d370d82e21e092a8c5f8308faf51e50c.png"
         }
     ],
     "links": [],
@@ -73,6 +74,7 @@
         ]
     },
     "name": "Manor House Gardens Ice House",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1025",
     "ticketed_events": false
 }

@@ -32,6 +32,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -85,22 +86,22 @@
     "id": 2882,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2882/building_2882_230417_lift-rebranding-4_8c402856b1cf9625fbb5e79d8420272d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2882/building_2882_230417_lift-rebranding-4_6d8945224bc56c00a47666a448e1e9d9.jpg",
             "description": null,
             "title": "Front of Acland Burghley School by Yana Markey",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2882_230417_lift-rebranding-4_8c402856b1cf9625fbb5e79d8420272d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2882_230417_lift-rebranding-4_6d8945224bc56c00a47666a448e1e9d9.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2882/building_2882_img_5148_3117a6364788bb6f5645e467abd93c0b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2882/building_2882_img_5148_01ff76100e42e3608ebc6f44a0610132.jpg",
             "description": null,
             "title": "Entrance ramp",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2882_img_5148_3117a6364788bb6f5645e467abd93c0b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2882_img_5148_01ff76100e42e3608ebc6f44a0610132.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2882/building_2882_img_6214_cf23b2bc65fe448e55a9a24c64e93fa8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2882/building_2882_img_6214_be334f1e680bb23d1dc70de7a02d3a32.jpg",
             "description": null,
             "title": "Assembly Hall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2882_img_6214_cf23b2bc65fe448e55a9a24c64e93fa8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2882_img_6214_be334f1e680bb23d1dc70de7a02d3a32.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2882/building_2882_img_6223_76993d22f044a0374c35c742b52f0f33.jpg",
@@ -159,10 +160,12 @@
         "travel_info": [
             "Tube: Tufnell Park",
             "Train: Kentish Town West",
-            "Bus: 4, 134, 390"
+            "Bus: 4, 134, 390",
+            "Additional travel info: Bike storage facilities onsite"
         ]
     },
     "name": "Acland Burghley School",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2882",
     "ticketed_events": false
 }

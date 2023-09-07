@@ -39,6 +39,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10893",
             "capacity": null,
             "date": "2023-09-09",
@@ -53,6 +54,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10893",
             "capacity": null,
             "date": "2023-09-09",
@@ -67,6 +69,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10893",
             "capacity": null,
             "date": "2023-09-09",
@@ -81,6 +84,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10893",
             "capacity": null,
             "date": "2023-09-09",
@@ -95,6 +99,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10893",
             "capacity": null,
             "date": "2023-09-09",
@@ -109,6 +114,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10893",
             "capacity": null,
             "date": "2023-09-09",
@@ -123,12 +129,13 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10893",
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": false,
             "end": "2023-09-17T14:40:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Walking tour",
             "notes": null,
             "start": "2023-09-17T14:00:00+01:00",
@@ -137,6 +144,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10893",
             "capacity": null,
             "date": "2023-09-17",
@@ -151,6 +159,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10893",
             "capacity": null,
             "date": "2023-09-17",
@@ -193,21 +202,21 @@
     "id": 10893,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10893/building_10893_85bc5516-d2bc-4dae-ac93-4bdca10bde8f_f1d2c9d3e8cab3bfb75819bde7b6cf69.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10893/building_10893_85bc5516-d2bc-4dae-ac93-4bdca10bde8f_c8e3e176fadf250f7f22e7d537637dcd.jpeg",
             "description": null,
             "title": "Aerial view of Thornhill Square and Church",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10893_85bc5516-d2bc-4dae-ac93-4bdca10bde8f_f1d2c9d3e8cab3bfb75819bde7b6cf69.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10893_85bc5516-d2bc-4dae-ac93-4bdca10bde8f_c8e3e176fadf250f7f22e7d537637dcd.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10893/building_10893_eabf12ee-f57b-4e22-9f37-aa763d767248_fb5d6a162f93c1b00cc117e484fee6c9.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10893/building_10893_eabf12ee-f57b-4e22-9f37-aa763d767248_144ca243da7ba76b203a05d3a30ce8ab.png",
             "description": null,
             "title": "Sculpture and lettering on West Library’s facade",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10893_eabf12ee-f57b-4e22-9f37-aa763d767248_fb5d6a162f93c1b00cc117e484fee6c9.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10893_eabf12ee-f57b-4e22-9f37-aa763d767248_144ca243da7ba76b203a05d3a30ce8ab.png"
         }
     ],
     "links": [],
     "location": {
-        "address": "Meet outside the main door of St Andrew’s Churc",
+        "address": "Meet outside the main door of St Andrew’s Church, Bridgeman Road",
         "latitude": 51.541114,
         "longitude": -0.1152717,
         "meeting_point": null,
@@ -218,6 +227,7 @@
         ]
     },
     "name": "Thornhill Square",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10893",
     "ticketed_events": true
 }

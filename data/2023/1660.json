@@ -23,6 +23,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -37,6 +38,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -74,10 +76,10 @@
     "id": 1660,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1660/building_1660_sir-john-soanes-museum-facade_photo-credit-gareth-gardner-2015_6cebff70e3e95dacc29b86d5427f89c5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1660/building_1660_sir-john-soanes-museum-facade_photo-credit-gareth-gardner-2015_70408bb90547eea2587f35a0d013e560.jpg",
             "description": null,
             "title": "Sir John Soane's Museum facade",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1660_sir-john-soanes-museum-facade_photo-credit-gareth-gardner-2015_6cebff70e3e95dacc29b86d5427f89c5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1660_sir-john-soanes-museum-facade_photo-credit-gareth-gardner-2015_70408bb90547eea2587f35a0d013e560.jpg"
         }
     ],
     "links": [],
@@ -89,10 +91,12 @@
         "travel_info": [
             "Tube: Holborn, Chancery Lane, Temple",
             "Train: Charing Cross, Farringdon, Blackfriars",
-            "Bus: 1, 59, 68, 91, 168, 188, 243, 8"
+            "Bus: 1, 59, 68, 91, 168, 188, 243, 8",
+            "Additional travel info: By bike\r\nStop at Sardinia Street and Portugal Street docking stations for Santander Cycles, or park your own bike in Lincoln’s Inn Fields.\r\n \r\nBy car\r\nWe are in the congestion charge zone, with a small number of pay-and-display parking in Lincoln’s Inn Fields and a few green-badge bays."
         ]
     },
     "name": "Sir John Soane's Museum",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1660",
     "ticketed_events": false
 }

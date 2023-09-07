@@ -20,6 +20,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/7789",
             "capacity": null,
             "date": "2023-09-09",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/7789",
             "capacity": null,
             "date": "2023-09-17",
@@ -78,34 +80,34 @@
     "id": 7789,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7789/building_7789_aam_olympic-tour_19d6aafade313345363a9eaad59f846d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7789/building_7789_aam_olympic-tour_b8520f816e9bb8a648cd1335e3ca8a63.jpg",
             "description": null,
             "title": "View across the park",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7789_aam_olympic-tour_19d6aafade313345363a9eaad59f846d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7789_aam_olympic-tour_b8520f816e9bb8a648cd1335e3ca8a63.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7789/building_7789_olm_image-5_6dd9362fa0ee5e7fc9ee83e438359255.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7789/building_7789_olm_image-5_2c283117dfc149b80e5c8f1b7ba7f11e.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7789_olm_image-5_6dd9362fa0ee5e7fc9ee83e438359255.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7789_olm_image-5_2c283117dfc149b80e5c8f1b7ba7f11e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7789/building_7789_olm_image-7_39d02c1aa337ba23b7567306cffb1b91.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7789/building_7789_olm_image-7_63433f6e4c1902a05466606ac1e352f4.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7789_olm_image-7_39d02c1aa337ba23b7567306cffb1b91.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7789_olm_image-7_63433f6e4c1902a05466606ac1e352f4.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7789/building_7789_olm_image-8_cecc42a8c592652184ba3da04a3ba789.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7789/building_7789_olm_image-8_4444f78dd0fc3ec2f0d3a2b08eaab484.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7789_olm_image-8_cecc42a8c592652184ba3da04a3ba789.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7789_olm_image-8_4444f78dd0fc3ec2f0d3a2b08eaab484.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7789/building_7789_stratford-waterfront-at-east-bank_credit-allies-and-morrison_small_1a50c6b2fe5cf63e5ee7b48b2b98ea2b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7789/building_7789_stratford-waterfront-at-east-bank_credit-allies-and-morrison_small_2c081cc89b936cb55f4d4830a829ab14.jpg",
             "description": null,
             "title": "Credit: Allies and Morrison",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7789_stratford-waterfront-at-east-bank_credit-allies-and-morrison_small_1a50c6b2fe5cf63e5ee7b48b2b98ea2b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7789_stratford-waterfront-at-east-bank_credit-allies-and-morrison_small_2c081cc89b936cb55f4d4830a829ab14.jpg"
         }
     ],
     "links": [],
@@ -119,6 +121,7 @@
         ]
     },
     "name": "Olympic Legacy Masterplan",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/7789",
     "ticketed_events": true
 }

@@ -25,6 +25,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/9542",
             "capacity": null,
             "date": "2023-09-08",
@@ -39,6 +40,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/9542",
             "capacity": null,
             "date": "2023-09-08",
@@ -53,6 +55,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/9542",
             "capacity": null,
             "date": "2023-09-08",
@@ -67,6 +70,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/9542",
             "capacity": null,
             "date": "2023-09-09",
@@ -81,6 +85,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/9542",
             "capacity": null,
             "date": "2023-09-09",
@@ -95,6 +100,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/9542",
             "capacity": null,
             "date": "2023-09-09",
@@ -144,22 +150,22 @@
     "id": 9542,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9542/building_9542_pearl-westfacade_5be0d039bef7a34e486986dad48c6c74.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9542/building_9542_pearl-westfacade_9aea6e5fecfd4b105ca4de56cd7fd85a.jpg",
             "description": null,
             "title": "PEARL West façade",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9542_pearl-westfacade_5be0d039bef7a34e486986dad48c6c74.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9542_pearl-westfacade_9aea6e5fecfd4b105ca4de56cd7fd85a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9542/building_9542_pearl-interior_2_df50e7c1d104670566e8b4d026fc0e4d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9542/building_9542_pearl-interior_2_347b588d8b2563cddcf0b07fa40a49b8.jpg",
             "description": null,
             "title": "Here we recreate spaces and places to test how they affect the ways we think, feel and behave.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9542_pearl-interior_2_df50e7c1d104670566e8b4d026fc0e4d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9542_pearl-interior_2_347b588d8b2563cddcf0b07fa40a49b8.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9542/building_9542_fluuwkzwyaqs3-b-x_b5938e65e76ccf2d56d30ec21c12b620.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9542/building_9542_fluuwkzwyaqs3-b-x_da4b6bfd0c85c5e0f86bd53df882b993.jpeg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9542_fluuwkzwyaqs3-b-x_b5938e65e76ccf2d56d30ec21c12b620.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9542_fluuwkzwyaqs3-b-x_da4b6bfd0c85c5e0f86bd53df882b993.jpeg"
         }
     ],
     "links": [],
@@ -171,10 +177,12 @@
         "travel_info": [
             "Tube: Dagenham East",
             "Train: Romford",
-            "Bus: 103"
+            "Bus: 103",
+            "Additional travel info: Dagenham East tube station is just a 10 minute walk from PEARL. \r\n\r\nFrom Romford train station you can get the 103 bus to Reed Road which is a 5 minute walk from PEARL."
         ]
     },
     "name": "UCL PEARL",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/9542",
     "ticketed_events": true
 }

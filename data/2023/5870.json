@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -61,16 +62,16 @@
     "id": 5870,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5870/building_5870_lbc_080514_mg_2388-copy_9278bb3ca976286b21b5d48619e28d66.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5870/building_5870_lbc_080514_mg_2388-copy_9f4aec0f4d0d5a9aafdd15c7f8dce758.jpg",
             "description": null,
             "title": "View of Main Shrine Room",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5870_lbc_080514_mg_2388-copy_9278bb3ca976286b21b5d48619e28d66.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5870_lbc_080514_mg_2388-copy_9f4aec0f4d0d5a9aafdd15c7f8dce758.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5870/building_5870_london-buddhist-centre-web_6b4744326bbd9381c79c109742307c10.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5870/building_5870_london-buddhist-centre-web_201633068ebf28f87240153faf319259.jpg",
             "description": null,
             "title": "View from Roman Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5870_london-buddhist-centre-web_6b4744326bbd9381c79c109742307c10.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5870_london-buddhist-centre-web_201633068ebf28f87240153faf319259.jpg"
         }
     ],
     "links": [],
@@ -86,6 +87,7 @@
         ]
     },
     "name": "London Buddhist Centre",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/5870",
     "ticketed_events": false
 }

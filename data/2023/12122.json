@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -48,6 +50,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12122",
             "capacity": null,
             "date": "2023-09-16",
@@ -62,12 +65,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12122",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T14:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Mole Architects",
             "notes": null,
             "start": "2023-09-16T13:00:00+01:00",
@@ -76,12 +80,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12122",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T15:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Mole Architects",
             "notes": null,
             "start": "2023-09-16T14:00:00+01:00",
@@ -114,22 +119,22 @@
     "id": 12122,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12122/building_12122_screenshot-2023-08-11-at-15-24-30_15d4f8919b7bd616606d01a30a7a9903.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12122/building_12122_screenshot-2023-08-11-at-15-24-30_39ec197ff0b7b503241e7f2d6663e852.png",
             "description": null,
             "title": "D2 by Mole Architects",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12122_screenshot-2023-08-11-at-15-24-30_15d4f8919b7bd616606d01a30a7a9903.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12122_screenshot-2023-08-11-at-15-24-30_39ec197ff0b7b503241e7f2d6663e852.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12122/building_12122_design-district_d2_hr-29-825x1100_6f4aa960a3df2881e60e95438c6411cd.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12122/building_12122_design-district_d2_hr-29-825x1100_46b9985330d9953f5319aa02bf07a6d5.jpeg",
             "description": null,
             "title": "D2 as seen in the AJ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12122_design-district_d2_hr-29-825x1100_6f4aa960a3df2881e60e95438c6411cd.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12122_design-district_d2_hr-29-825x1100_46b9985330d9953f5319aa02bf07a6d5.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12122/building_12122_design-district_d2_hr-31-825x1100_6b61eb8933678a525db5faedda78c315.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12122/building_12122_design-district_d2_hr-31-825x1100_9f80fec133abbaf56e0dc66524e9da1b.jpeg",
             "description": null,
             "title": "Iridescent finish on D2",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12122_design-district_d2_hr-31-825x1100_6b61eb8933678a525db5faedda78c315.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12122_design-district_d2_hr-31-825x1100_9f80fec133abbaf56e0dc66524e9da1b.jpeg"
         }
     ],
     "links": [],
@@ -141,10 +146,12 @@
         "travel_info": [
             "Tube: North Greenwich",
             "Train: Greenwich",
-            "Bus: 486, 472, 422, 188, 180, 161, 132, 129, 108"
+            "Bus: 486, 472, 422, 188, 180, 161, 132, 129, 108",
+            "Additional travel info: The closest tube station in North Greenwich (30 metres). On the 24-hour Jubilee line, it gets you to London Bridge in 8 minutes and Waterloo in 11 minutes.\r\n\r\nEMIRATES AIR LINE CABLE CAR\r\nConnecting the Design District to the Royal Docks (near ExCel London) and the DLR.\r\n\r\nNorth Greenwich bus station is a major hub providing direct links across the city."
         ]
     },
     "name": "D2 : Design District",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12122",
     "ticketed_events": true
 }

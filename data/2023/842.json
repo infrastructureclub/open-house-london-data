@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -93,17 +94,19 @@
         }
     ],
     "location": {
-        "address": "275 St Margaret's Road (opposite Ailsa Tavern)",
+        "address": "275 St Margaret's Road (opposite Ailsa Tavern), TW1 1NJ",
         "latitude": 51.46110789999999,
         "longitude": -0.3228409,
         "meeting_point": null,
         "travel_info": [
             "Tube: Richmond",
             "Train: St. Margaret's (Greater London)",
-            "Bus: 110, H37"
+            "Bus: 110, H37",
+            "Additional travel info: 10 minute walk from St Margaret's railway station."
         ]
     },
     "name": "Kilmorey Mausoleum",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/842",
     "ticketed_events": false
 }

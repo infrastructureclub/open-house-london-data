@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -48,10 +49,10 @@
     "id": 11864,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11864/building_11864_hensford-front_646e04e7f99fe3a987b0ce3041ae0c1a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11864/building_11864_hensford-front_2368176e5ce5d1cf9ed5433bf16f7c8f.jpg",
             "description": null,
             "title": "Front elevation of retrofitted house.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11864_hensford-front_646e04e7f99fe3a987b0ce3041ae0c1a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11864_hensford-front_2368176e5ce5d1cf9ed5433bf16f7c8f.jpg"
         }
     ],
     "links": [],
@@ -61,10 +62,12 @@
         "longitude": -0.06166290000000001,
         "meeting_point": null,
         "travel_info": [
-            "Train: Sydenham"
+            "Train: Sydenham",
+            "Additional travel info: 5 minutes walk from Sydenham station."
         ]
     },
     "name": "Deep Retrofit to 1960's terrace house",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11864",
     "ticketed_events": false
 }

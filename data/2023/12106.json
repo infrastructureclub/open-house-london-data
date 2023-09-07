@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -50,21 +51,28 @@
                 "What most visitors to the building don't realise is that, for over 20 years, the upstairs rooms have been let as affordable artist studios managed by SPACE Studios, London’s largest studios provider.",
                 "The building is scheduled for restoration works at the end of this year, which will unfortunately result in the closure of the studios. So this is a last opportunity to see them and chat to the artists who have been based there – some since the studios first opened."
             ]
+        },
+        {
+            "heading": "Accompanying Exhibition",
+            "paragraphs": [
+                "Alongside the open studios, the artists are also holding an exhibition in the Chalmers Bequest Gallery that is part of the library building. There will be lots more art to see and the opportunity to take part in some fun, family-friendly art activities.",
+                "The Gallery is wheelchair accessible via a separate entrance."
+            ]
         }
     ],
     "id": 12106,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12106/building_12106_101390563-9436-800_e8624e97815e47002eda35fc8443de6f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12106/building_12106_101390563-9436-800_d35192293db853b7462c4ee7810aad1c.jpg",
             "description": null,
             "title": "Exterior of the library building, photograph by Terry Gilley",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12106_101390563-9436-800_e8624e97815e47002eda35fc8443de6f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12106_101390563-9436-800_d35192293db853b7462c4ee7810aad1c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12106/building_12106_img_0504_877d727325cf775d95ce06f9b22b832d.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12106/building_12106_img_0504_263d531c441740cec7946c0af138a2f5.jpeg",
             "description": null,
             "title": "Interior of one of the studios",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12106_img_0504_877d727325cf775d95ce06f9b22b832d.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12106_img_0504_263d531c441740cec7946c0af138a2f5.jpeg"
         }
     ],
     "links": [],
@@ -80,6 +88,7 @@
         ]
     },
     "name": "Stoke Newington Library Open Studios",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12106",
     "ticketed_events": false
 }

@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -49,10 +50,10 @@
     "id": 11796,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11796/building_11796_khf-photo-open-ark_d05a2fbac69902b76a6c9ba447a69965.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11796/building_11796_khf-photo-open-ark_ab20303d7241ba8f144afab7378f6d0d.jpg",
             "description": null,
             "title": "The Open Ark in the Synagogue of Kingston Liberal Synagogue",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11796_khf-photo-open-ark_d05a2fbac69902b76a6c9ba447a69965.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11796_khf-photo-open-ark_ab20303d7241ba8f144afab7378f6d0d.jpg"
         }
     ],
     "links": [],
@@ -66,6 +67,7 @@
         ]
     },
     "name": "Kingston Liberal Synagogue",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11796",
     "ticketed_events": false
 }

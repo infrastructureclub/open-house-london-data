@@ -24,6 +24,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -38,6 +39,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -52,6 +54,7 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11214",
             "capacity": null,
             "date": "2023-09-15",
@@ -66,6 +69,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11214",
             "capacity": null,
             "date": "2023-09-16",
@@ -80,6 +84,7 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11214",
             "capacity": null,
             "date": "2023-09-16",
@@ -94,6 +99,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11214",
             "capacity": null,
             "date": "2023-09-17",
@@ -108,6 +114,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11214",
             "capacity": null,
             "date": "2023-09-17",
@@ -122,6 +129,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11214",
             "capacity": null,
             "date": "2023-09-17",
@@ -191,28 +199,28 @@
     "id": 11214,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11214/building_11214_1592-nickguttridge-molearchitects-designdistrict-026_dde631875858e40608011fe7eefb4c94.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11214/building_11214_1592-nickguttridge-molearchitects-designdistrict-026_88184ec6a13b8d240745fcdd19fe2af6.jpg",
             "description": null,
             "title": "Top Floor rehearsal studio",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11214_1592-nickguttridge-molearchitects-designdistrict-026_dde631875858e40608011fe7eefb4c94.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11214_1592-nickguttridge-molearchitects-designdistrict-026_88184ec6a13b8d240745fcdd19fe2af6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11214/building_11214_ces_bcadd6839ac0bf131ee7bb1988897dce.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11214/building_11214_ces_64fad49be000cc4f72556e00b2b4b5d1.jpg",
             "description": null,
             "title": "Clod Ensemble Studios",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11214_ces_bcadd6839ac0bf131ee7bb1988897dce.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11214_ces_64fad49be000cc4f72556e00b2b4b5d1.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11214/building_11214_ces2_76a6a1d4a136371a3f48535ad3af0c03.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11214/building_11214_ces2_0cd99090cb3b35a2d4a6d512a3715e92.jpg",
             "description": null,
             "title": "Clod Ensemble Studios",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11214_ces2_76a6a1d4a136371a3f48535ad3af0c03.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11214_ces2_0cd99090cb3b35a2d4a6d512a3715e92.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11214/building_11214_ces3_a04a123c559942af7c090be0624cbb1b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11214/building_11214_ces3_844dfaaba8649f35132ef72f28269970.jpg",
             "description": null,
             "title": "Clod Ensemble Studios",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11214_ces3_a04a123c559942af7c090be0624cbb1b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11214_ces3_844dfaaba8649f35132ef72f28269970.jpg"
         }
     ],
     "links": [
@@ -226,16 +234,18 @@
         }
     ],
     "location": {
-        "address": "C2 Cripps Yard, Soames Walk, Design District",
+        "address": "C2 Cripps Yard, Soames Walk, Design District, SE10 0BQ",
         "latitude": 51.500307,
         "longitude": 0.0054362,
         "meeting_point": null,
         "travel_info": [
             "Tube: North Greenwich",
-            "Bus: 132, 472, 180, 161, 188, 129, 486, 422, 108"
+            "Bus: 132, 472, 180, 161, 188, 129, 486, 422, 108",
+            "Additional travel info: The IFS Cloud cable car and the Thames Clipper Uber Boat also stop a short distance from the building."
         ]
     },
-    "name": "C2 : Clod Ensemble Studios",
+    "name": "C2 Clod Ensemble Studios : Design District",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11214",
     "ticketed_events": true
 }

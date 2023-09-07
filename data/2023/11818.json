@@ -18,6 +18,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -32,6 +33,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -88,40 +90,40 @@
     "id": 11818,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-6690_a03afe13cc367d9a953a07a84b90119c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_230821_patch-twickenham_3006-s-web-res-5_3f69b4a53b2be3cd4a949bf7aafc6593.jpg",
             "description": null,
             "title": "Patch, a new neighbourhood workspace & community venue, formerly the South Eastern Electricity Board",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-6690_a03afe13cc367d9a953a07a84b90119c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_230821_patch-twickenham_3006-s-web-res-5_3f69b4a53b2be3cd4a949bf7aafc6593.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-5610_85273fee38160db3d886e5ba2c02b5e0.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-5610_182d87f388b09610a4711c40aa7d349b.jpg",
             "description": null,
             "title": "New neighbourhood workspace at 42 York Street",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-5610_85273fee38160db3d886e5ba2c02b5e0.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-5610_182d87f388b09610a4711c40aa7d349b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-5343_335705fc0ce9f27efafea4dee29babb3.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-5343_e43d36ab0beed756d9726871a312dc04.jpg",
             "description": null,
             "title": "Patch Market - a public cafe and events space",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-5343_335705fc0ce9f27efafea4dee29babb3.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-5343_e43d36ab0beed756d9726871a312dc04.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-5440_7675931a7ccabbc8fc61ec2b6a74e84e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-5440_00ec17f08bdfc74abff9cc35574c6bc1.jpg",
             "description": null,
             "title": "A family of spaces for community and cultural events",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-5440_7675931a7ccabbc8fc61ec2b6a74e84e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-5440_00ec17f08bdfc74abff9cc35574c6bc1.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-5490_4b69a8dec1c447b8f2a8bf7971b5f4ef.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img-5490_8fa7d59cad643d29a4720393b6bd6ec5.jpg",
             "description": null,
             "title": "A new neighbourhood podcast studio",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-5490_4b69a8dec1c447b8f2a8bf7971b5f4ef.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img-5490_8fa7d59cad643d29a4720393b6bd6ec5.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img_5711_b7b1cf8632cfd1ae4d78cf4b159e5da5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11818/building_11818_img_5711_88b4659b13ab36a8d9ef2942982dae0f.jpg",
             "description": null,
             "title": "The Faraday Room",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img_5711_b7b1cf8632cfd1ae4d78cf4b159e5da5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11818_img_5711_88b4659b13ab36a8d9ef2942982dae0f.jpg"
         }
     ],
     "links": [],
@@ -133,10 +135,12 @@
         "travel_info": [
             "Tube: Richmond",
             "Train: Twickenham",
-            "Bus: 267"
+            "Bus: 267",
+            "Additional travel info: We're located at 42 York Street, just a five-minute walk from Twickenham train station. \r\n\r\nThere are direct trains from Waterloo to Twickenham (approx. 25 minutes). If travelling by London Underground, the nearest stations are Richmond on the District Line and Hounslow East on Piccadilly Line. \r\n\r\nThe 267 bus goes directly from Hammersmith to Twickenham (approx. 45 minutes)."
         ]
     },
     "name": "Patch, 42 York Street",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11818",
     "ticketed_events": false
 }

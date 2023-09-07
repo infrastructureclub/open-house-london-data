@@ -17,6 +17,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -31,6 +32,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -69,40 +71,40 @@
     "id": 11274,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11274/building_11274_pastoral-church_5910138e8a96dea55ff708ef8d495a6c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11274/building_11274_pastoral-church_70f0ce91bbd4b6b124d64fa41dddc549.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11274_pastoral-church_5910138e8a96dea55ff708ef8d495a6c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11274_pastoral-church_70f0ce91bbd4b6b124d64fa41dddc549.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11274/building_11274_img_20160227_140052353_c1167f00c2872044d4e5227957195f25.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11274/building_11274_img_20160227_140052353_4bd644fd38b9e951ae890b4e48fcc99e.jpeg",
             "description": null,
             "title": "Tower - refurbished 2016.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11274_img_20160227_140052353_c1167f00c2872044d4e5227957195f25.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11274_img_20160227_140052353_4bd644fd38b9e951ae890b4e48fcc99e.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11274/building_11274_chancel_e9b2c6bf87164f72b0468be1f88b1a27.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11274/building_11274_chancel_79c951bf876e86eb68e00171abdb253f.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11274_chancel_e9b2c6bf87164f72b0468be1f88b1a27.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11274_chancel_79c951bf876e86eb68e00171abdb253f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11274/building_11274_all-saints-snow_cdf2dd38c7e845218a2ccfd74282f9bf.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11274/building_11274_all-saints-snow_08d1f327c6527b6597c0c09aab364b99.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11274_all-saints-snow_cdf2dd38c7e845218a2ccfd74282f9bf.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11274_all-saints-snow_08d1f327c6527b6597c0c09aab364b99.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11274/building_11274_external-all-saints_c6ad4eeeaf2bbb2e7b46bc1849b78e12.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11274/building_11274_external-all-saints_28b6d224bcaae4eff60c4bd38c4a1dcf.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11274_external-all-saints_c6ad4eeeaf2bbb2e7b46bc1849b78e12.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11274_external-all-saints_28b6d224bcaae4eff60c4bd38c4a1dcf.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11274/building_11274_saints_af01af7d0431ed445954cdef4686eeec.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11274/building_11274_saints_4b5b2bff52373b542054df9d58d12a35.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11274_saints_af01af7d0431ed445954cdef4686eeec.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11274_saints_4b5b2bff52373b542054df9d58d12a35.jpg"
         }
     ],
     "links": [],
@@ -114,10 +116,12 @@
         "travel_info": [
             "Tube: Seven Sisters",
             "Train: Edmonton Green",
-            "Bus: W8, W6, 491, 279, 259, 192, 149, 144, 102"
+            "Bus: W8, W6, 491, 279, 259, 192, 149, 144, 102",
+            "Additional travel info: Edmonton Green is on the Enfield Town or Cheshunt line from Liverpool Street and Seven Sisters."
         ]
     },
     "name": "All Saints Church, Edmonton",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11274",
     "ticketed_events": false
 }

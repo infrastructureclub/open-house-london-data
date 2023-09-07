@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -48,6 +50,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11996",
             "capacity": null,
             "date": "2023-09-16",
@@ -62,6 +65,7 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11996",
             "capacity": null,
             "date": "2023-09-16",
@@ -76,6 +80,7 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11996",
             "capacity": null,
             "date": "2023-09-16",
@@ -90,12 +95,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11996",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T15:15:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour of the North London Buddhist Centre",
             "notes": null,
             "start": "2023-09-16T14:45:00+01:00",
@@ -104,12 +110,13 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11996",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Meditation taster session",
             "notes": null,
             "start": "2023-09-16T15:30:00+01:00",
@@ -147,15 +154,15 @@
     "id": 11996,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11996/building_11996_sharedimage-2_56433ca35d7411b5674c87cffb024bf9.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11996/building_11996_sharedimage-2_f47be6f2fe4af11e6feeaf9baa87d9cd.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11996_sharedimage-2_56433ca35d7411b5674c87cffb024bf9.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11996_sharedimage-2_f47be6f2fe4af11e6feeaf9baa87d9cd.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "North London Buddhist Centre, 72 Holloway Road",
+        "address": "North London Buddhist Centre, 72 Holloway Road, N7 8GJ",
         "latitude": 51.54942,
         "longitude": -0.10771,
         "meeting_point": null,
@@ -166,6 +173,7 @@
         ]
     },
     "name": "North London Buddhist Centre",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11996",
     "ticketed_events": true
 }

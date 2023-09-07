@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -48,6 +50,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -62,6 +65,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -76,6 +80,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -105,34 +110,34 @@
     "id": 11725,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11725/building_11725_18070_n683_standard_ts_72677d55b8252faba036477ce45e6695.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11725/building_11725_18070_n683_standard_ts_98cd0de9594824e1d0fb7a628759ceb4.jpg",
             "description": null,
             "title": "Photo credit: Tim Soar",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11725_18070_n683_standard_ts_72677d55b8252faba036477ce45e6695.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11725_18070_n683_standard_ts_98cd0de9594824e1d0fb7a628759ceb4.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11725/building_11725_council-chamber_ts_ca838f7b0b3e164e5eefed8295c44ae1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11725/building_11725_council-chamber_ts_c3507c6920232f40e5d72acd68282d30.jpg",
             "description": null,
             "title": "Photo credit: Tim Soar",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11725_council-chamber_ts_ca838f7b0b3e164e5eefed8295c44ae1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11725_council-chamber_ts_c3507c6920232f40e5d72acd68282d30.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11725/building_11725_18070_n546_standard_ts_83abeeed32ac9f71ac12ad7826df0f30.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11725/building_11725_18070_n546_standard_ts_33d72261283f72176a87324412a0ab83.jpg",
             "description": null,
             "title": "Photo credit: Tim Soar",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11725_18070_n546_standard_ts_83abeeed32ac9f71ac12ad7826df0f30.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11725_18070_n546_standard_ts_33d72261283f72176a87324412a0ab83.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11725/building_11725_18070_n539_standard_ts_4a62b0ae9884ad554a7fdf4d0b74a815.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11725/building_11725_18070_n539_standard_ts_82602dc5c015d68f21df02d2d646aaa6.jpg",
             "description": null,
             "title": "Photo credit: Tim Soar",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11725_18070_n539_standard_ts_4a62b0ae9884ad554a7fdf4d0b74a815.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11725_18070_n539_standard_ts_82602dc5c015d68f21df02d2d646aaa6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11725/building_11725_18070_n532_standard_ts_49e8ebd62f23fb97ac0625403cf6ba0e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11725/building_11725_18070_n532_standard_ts_3a63f6b58ddb57a65205a3033091c39f.jpg",
             "description": null,
             "title": "Photo credit: Tim Soar",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11725_18070_n532_standard_ts_49e8ebd62f23fb97ac0625403cf6ba0e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11725_18070_n532_standard_ts_3a63f6b58ddb57a65205a3033091c39f.jpg"
         }
     ],
     "links": [],
@@ -147,6 +152,7 @@
         ]
     },
     "name": "Tower Hamlets Town Hall",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11725",
     "ticketed_events": false
 }

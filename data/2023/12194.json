@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -56,34 +57,34 @@
     "id": 12194,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12194/building_12194_crystal-palace-park-bowl_56b2a55855b7d257fc669016ea80fdda.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12194/building_12194_crystal-palace-park-bowl_9ae28d7a49b03a3363211fc6dfa58c8f.jpg",
             "description": null,
             "title": "Crystal Palace Concert Bowl (Ian Ritchie, 1997), Image: Gareth Gray",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12194_crystal-palace-park-bowl_56b2a55855b7d257fc669016ea80fdda.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12194_crystal-palace-park-bowl_9ae28d7a49b03a3363211fc6dfa58c8f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12194/building_12194_cp-dinos_629f4566766f5c6d8c6f408fd4de439a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12194/building_12194_cp-dinos_3613e392ededc121d88584a125cf9d54.jpg",
             "description": null,
             "title": "Crystal Palace Dinosaurs (Benjamin Waterhouse Hawkins, 1854) Image: Andy Parsons",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12194_cp-dinos_629f4566766f5c6d8c6f408fd4de439a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12194_cp-dinos_3613e392ededc121d88584a125cf9d54.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12194/building_12194_cp-maze_54c695cb9b0503166948b30398f063f6.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12194/building_12194_cp-maze_eb04451f507ef7cd0f2acbc82315a638.jpg",
             "description": null,
             "title": "Cystal Palace Park Maze (Sir Joseph Paxton, 1854). Image: Andreas Lostromos",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12194_cp-maze_54c695cb9b0503166948b30398f063f6.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12194_cp-maze_eb04451f507ef7cd0f2acbc82315a638.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12194/building_12194_s-crystal-palace-skatepark-darren-vw-tabe_0aa5559fe12625414b57851881af51d2.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12194/building_12194_s-crystal-palace-skatepark-darren-vw-tabe_2a3a5b876566d14516a6dba23765193d.jpg",
             "description": null,
             "title": "Crystal Palace Skatepark (Canvas Skateparks, 2018) Image: Robin Pearson",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12194_s-crystal-palace-skatepark-darren-vw-tabe_0aa5559fe12625414b57851881af51d2.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12194_s-crystal-palace-skatepark-darren-vw-tabe_2a3a5b876566d14516a6dba23765193d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12194/building_12194_crystal-sphinx-restored-2020-a_edited_97f37d0da2b7643be6d505d9ea7a0b8e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12194/building_12194_crystal-sphinx-restored-2020-a_edited_cdacc0c14a78a0519a975c0ddb9f4127.jpg",
             "description": null,
             "title": "Crystal Palace Park Sphinxes (Sir Joseph Paxton, 1854). Image: Memoirs of a Metro Girl",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12194_crystal-sphinx-restored-2020-a_edited_97f37d0da2b7643be6d505d9ea7a0b8e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12194_crystal-sphinx-restored-2020-a_edited_cdacc0c14a78a0519a975c0ddb9f4127.jpg"
         }
     ],
     "links": [],
@@ -94,10 +95,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Penge West, Gipsy Hill, Crystal Palace",
-            "Bus: 410, 322, 197, 176, 450, 432, 363, 358, 249, 227, 202"
+            "Bus: 410, 322, 197, 176, 450, 432, 363, 358, 249, 227, 202",
+            "Additional travel info: The Concert Bowl is located in the Northern corner of the Park."
         ]
     },
     "name": "Crystal Palace Park Trust - Garden Party",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12194",
     "ticketed_events": false
 }

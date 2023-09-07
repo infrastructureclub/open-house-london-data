@@ -20,11 +20,12 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11815",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
-            "end": "2023-09-09T16:00:00+01:00",
+            "end": "2023-09-09T15:00:00+01:00",
             "fully_booked": true,
             "name": "Guided tour: Central Foundation Boys' School",
             "notes": null,
@@ -34,15 +35,46 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11815",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour: Central Foundation Boys' School",
+            "notes": null,
+            "start": "2023-09-09T15:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11815",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T15:00:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour: Central Foundation Boys' School",
+            "notes": null,
+            "start": "2023-09-10T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11815",
             "capacity": null,
             "date": "2023-09-10",
             "drop_in": false,
             "end": "2023-09-10T16:00:00+01:00",
             "fully_booked": true,
-            "name": "Guided tour",
+            "name": "Guided tour: Central Foundation Boys' School",
             "notes": null,
-            "start": "2023-09-10T14:00:00+01:00",
+            "start": "2023-09-10T15:00:00+01:00",
             "ticketed": true
         }
     ],
@@ -93,15 +125,15 @@
     "id": 11815,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11815/building_11815_central-foundation-boys-school_photo-by-jack-hobhouse_55d2dd19bfb5c514ce39862d96c4618b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11815/building_11815_central-foundation-boys-school_photo-by-jack-hobhouse_3c2dca8172808c0a46285c24f10c152b.jpg",
             "description": null,
             "title": "(c) Jack Hobhouse",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11815_central-foundation-boys-school_photo-by-jack-hobhouse_55d2dd19bfb5c514ce39862d96c4618b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11815_central-foundation-boys-school_photo-by-jack-hobhouse_3c2dca8172808c0a46285c24f10c152b.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Central Foundation Boys School, Cowper St",
+        "address": "Central Foundation Boys School, Cowper St, EC2A 4SH",
         "latitude": 51.5252832,
         "longitude": -0.0864693,
         "meeting_point": null,
@@ -112,6 +144,7 @@
         ]
     },
     "name": "Walking tour: Central Foundation Boys' School",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11815",
     "ticketed_events": true
 }

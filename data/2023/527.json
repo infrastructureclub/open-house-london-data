@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -64,22 +65,22 @@
     "id": 527,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/527/building_527_img-9282_4d63b0304fe9515d4f561db1f4edc521.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/527/building_527_img-9282_90cce57bf8d509edf89d50fd92dfc2d6.jpg",
             "description": null,
             "title": "View of the chapel from Grove Gardens",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_527_img-9282_4d63b0304fe9515d4f561db1f4edc521.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_527_img-9282_90cce57bf8d509edf89d50fd92dfc2d6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/527/building_527_image00065_fec8cba5b9908ffda6a4fff5b1c9d757.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/527/building_527_image00065_6028623ec3de0f0703deaa37eba1a620.jpeg",
             "description": null,
             "title": "Mosaic reredos",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_527_image00065_fec8cba5b9908ffda6a4fff5b1c9d757.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_527_image00065_6028623ec3de0f0703deaa37eba1a620.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/527/building_527_grove-gardens-chapel-21-04-23-west-exterior-elevation_fb3f369512227ab1f5a22982c390a2b6.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/527/building_527_grove-gardens-chapel-21-04-23-west-exterior-elevation_1d18ab6c294ac16626a084df72d34d63.jpeg",
             "description": null,
             "title": "Front entrance",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_527_grove-gardens-chapel-21-04-23-west-exterior-elevation_fb3f369512227ab1f5a22982c390a2b6.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_527_grove-gardens-chapel-21-04-23-west-exterior-elevation_1d18ab6c294ac16626a084df72d34d63.jpeg"
         }
     ],
     "links": [
@@ -89,17 +90,19 @@
         }
     ],
     "location": {
-        "address": "Richmond Cemetery, Grove Gardens",
+        "address": "Richmond Cemetery, Grove Gardens, Lower Grove Road, TW10 6HP",
         "latitude": 51.4550735,
         "longitude": -0.2896397,
         "meeting_point": null,
         "travel_info": [
             "Tube: Richmond",
             "Train: North Sheen",
-            "Bus: 337, 493, 33, 371"
+            "Bus: 337, 493, 33, 371",
+            "Additional travel info: The walk from North Sheen Station and the bus stop for 493, 33 and 371 is uphill"
         ]
     },
     "name": "Grove Gardens Chapel",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/527",
     "ticketed_events": false
 }

@@ -20,6 +20,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11691",
             "capacity": null,
             "date": "2023-09-12",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11691",
             "capacity": null,
             "date": "2023-09-12",
@@ -91,27 +93,27 @@
     "id": 11691,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11691/building_11691_220928-orms-st-giles-00374_a4bc5a0c03593f85af553e9f41f69aef.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11691/building_11691_220928-orms-st-giles-00374_d55f716cb553f0b4adf98878d6d6896b.jpg",
             "description": null,
             "title": "Credit: Timothy Soar",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11691_220928-orms-st-giles-00374_a4bc5a0c03593f85af553e9f41f69aef.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11691_220928-orms-st-giles-00374_d55f716cb553f0b4adf98878d6d6896b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11691/building_11691_220928-orms-st-giles-00849_df7867aa55723b5e891be4cfac3d073f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11691/building_11691_220928-orms-st-giles-00849_4143c3bb3758c9fcc1cfcd1b76fd9928.jpg",
             "description": null,
             "title": "Credit: Timothy Soar",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11691_220928-orms-st-giles-00849_df7867aa55723b5e891be4cfac3d073f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11691_220928-orms-st-giles-00849_4143c3bb3758c9fcc1cfcd1b76fd9928.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11691/building_11691_220928-orms-st-giles-00702_a7b369ac75f274323253e488a105a46c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11691/building_11691_220928-orms-st-giles-00702_4f25f4ad8a7a4720cf2711a42c863322.jpg",
             "description": null,
             "title": "Credit: Timothy Soar",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11691_220928-orms-st-giles-00702_a7b369ac75f274323253e488a105a46c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11691_220928-orms-st-giles-00702_4f25f4ad8a7a4720cf2711a42c863322.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "St Giles in the Fields",
+        "address": "St Giles in the Fields, 60 Saint Giles High Street, WC2H 8LG",
         "latitude": 51.51535639999999,
         "longitude": -0.1285138,
         "meeting_point": null,
@@ -121,6 +123,7 @@
         ]
     },
     "name": "Outernet London",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11691",
     "ticketed_events": true
 }

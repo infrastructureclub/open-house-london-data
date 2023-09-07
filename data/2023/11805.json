@@ -12,6 +12,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -42,10 +43,10 @@
     "id": 11805,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11805/building_11805_archives-front-door-image-500x500_b004e5c6b812dce8e98b7d7e6adb86a4.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11805/building_11805_archives-front-door-image-500x500_cb84c140327d0c0ab1c9eb98c8aac8dc.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11805_archives-front-door-image-500x500_b004e5c6b812dce8e98b7d7e6adb86a4.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11805_archives-front-door-image-500x500_cb84c140327d0c0ab1c9eb98c8aac8dc.png"
         }
     ],
     "links": [],
@@ -61,6 +62,7 @@
         ]
     },
     "name": "Talks at The Thorney Island Society Archives",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11805",
     "ticketed_events": false
 }

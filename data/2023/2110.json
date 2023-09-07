@@ -26,6 +26,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2110",
             "capacity": null,
             "date": "2023-09-16",
@@ -57,16 +58,16 @@
     "id": 2110,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2110/building_2110_trse-interiors-2021-377-a_26d4aa46df2ca3e5012a531644d0f830.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2110/building_2110_trse-interiors-2021-377-a_de7b3e77730b5699b0066d9747031a1e.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2110_trse-interiors-2021-377-a_26d4aa46df2ca3e5012a531644d0f830.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2110_trse-interiors-2021-377-a_de7b3e77730b5699b0066d9747031a1e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2110/building_2110_1-1_761b682627a0328af77778c58b9caa4f.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2110/building_2110_1-1_85009b48e5f76b65059010149c76833d.png",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2110_1-1_761b682627a0328af77778c58b9caa4f.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2110_1-1_85009b48e5f76b65059010149c76833d.png"
         }
     ],
     "links": [],
@@ -82,6 +83,7 @@
         ]
     },
     "name": "Theatre Royal Stratford East",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2110",
     "ticketed_events": true
 }

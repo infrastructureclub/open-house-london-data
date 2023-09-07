@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "Following three years of research and development, the ‘Made in Bermondsey’ people powered regeneration project was created and driven by passionate local community partners who truly care about the place where they live or their business.",
+    "description": "Following three years of research and development, the ‘Made in Bermondsey’ people powered regeneration project was created and driven by passionate local community partners who truly care about the place where they live or their business. This project is supported by the Mayor of London.",
     "design": {
         "designers": [
             {
@@ -20,6 +20,7 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12203",
             "capacity": null,
             "date": "2023-09-16",
@@ -34,12 +35,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12203",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T15:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Made in Bermondsey Tour",
             "notes": null,
             "start": "2023-09-16T14:30:00+01:00",
@@ -66,28 +68,28 @@
     "id": 12203,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12203/building_12203_blue-market-music-dance_24949aebd668a5bd4b869a48c2b76e12.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12203/building_12203_2-blue-market_6d74e9b2ebda40ac6b8062b16eb43669.png",
             "description": null,
             "title": "Okinawa Day 2023 at the Blue Market - Picture by Wendy Nowak",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12203_blue-market-music-dance_24949aebd668a5bd4b869a48c2b76e12.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12203_2-blue-market_6d74e9b2ebda40ac6b8062b16eb43669.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12203/building_12203_blue-market-1_253a498a637efa6beeb890d795458605.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12203/building_12203_blue-market-1_fafcef67f541dfa28b623948ee934a56.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12203_blue-market-1_253a498a637efa6beeb890d795458605.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12203_blue-market-1_fafcef67f541dfa28b623948ee934a56.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12203/building_12203_castellers-at-blue-market_37ab7794b73664d354fe29c8637679b9.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12203/building_12203_castellers-at-blue-market_caceca6168679c633786f94bc675c34d.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12203_castellers-at-blue-market_37ab7794b73664d354fe29c8637679b9.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12203_castellers-at-blue-market_caceca6168679c633786f94bc675c34d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12203/building_12203_market-canopies_c00b644bb2b111ee645241baea605166.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12203/building_12203_market-canopies_4a6da4b2979c3e1c717bb2175f1b1f95.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12203_market-canopies_c00b644bb2b111ee645241baea605166.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12203_market-canopies_4a6da4b2979c3e1c717bb2175f1b1f95.jpg"
         }
     ],
     "links": [],
@@ -99,10 +101,12 @@
         "travel_info": [
             "Tube: Bermondsey",
             "Train: South Bermondsey",
-            "Bus: P12, 381, 1"
+            "Bus: P12, 381, 1",
+            "Additional travel info: The Blue Market is a 10 minute walk from South Bermondsey railway station, or a 10 minute walk from Bermondsey tube station on the Jubilee Line.\r\nThere is a Santander Bicycle docking station located in Southwark Park Road, opposite the Blue Market."
         ]
     },
     "name": "The Blue Market - Made in Bermondsey",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12203",
     "ticketed_events": true
 }

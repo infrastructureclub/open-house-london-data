@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -133,16 +134,16 @@
     "id": 9134,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9134/building_9134_sutton-churches-0102-rev_61dc883af654bd625a0e5de2b9030ff8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9134/building_9134_sutton-churches-0102-rev_23fd375a822e458de40ff8e7d0eba259.jpg",
             "description": null,
             "title": "Church interior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9134_sutton-churches-0102-rev_61dc883af654bd625a0e5de2b9030ff8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9134_sutton-churches-0102-rev_23fd375a822e458de40ff8e7d0eba259.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9134/building_9134_christ-church-west-window_701692906fb41964271ba7057c539796.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9134/building_9134_christ-church-west-window_a3c18dcca4952c685a81c55c4fdef845.jpg",
             "description": null,
             "title": "Christ Church West Window",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9134_christ-church-west-window_701692906fb41964271ba7057c539796.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9134_christ-church-west-window_a3c18dcca4952c685a81c55c4fdef845.jpg"
         }
     ],
     "links": [],
@@ -152,10 +153,12 @@
         "longitude": -0.1890652,
         "meeting_point": null,
         "travel_info": [
-            "Bus: 80, 280, S1"
+            "Bus: 80, 280, S1",
+            "Additional travel info: 10 minute walk from Sutton Station. 5 minute walk from 280, 80 or S1 bus stops (nearest stop Cavendish Road)."
         ]
     },
     "name": "Christ Church",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/9134",
     "ticketed_events": false
 }

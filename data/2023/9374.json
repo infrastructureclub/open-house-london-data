@@ -20,6 +20,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/9374",
             "capacity": null,
             "date": "2023-09-16",
@@ -49,30 +50,32 @@
     "id": 9374,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9374/building_9374_dsc_0114_7f0a91f254b5498ab3eddbb7bba77a96.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9374/building_9374_dsc_0114_adb3d98a9a28f2e755d4c9742298905f.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9374_dsc_0114_7f0a91f254b5498ab3eddbb7bba77a96.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9374_dsc_0114_adb3d98a9a28f2e755d4c9742298905f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9374/building_9374_dsc_0097_3bb2326d16c7bdd8f6ac9a86cc85b11f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9374/building_9374_dsc_0097_a7642bcbcac005272016f7843f9e1495.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9374_dsc_0097_3bb2326d16c7bdd8f6ac9a86cc85b11f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9374_dsc_0097_a7642bcbcac005272016f7843f9e1495.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Crystal Palace Overground station",
+        "address": "Crystal Palace Overground station, Crystal Palace Overground station",
         "latitude": 51.41811000000001,
         "longitude": -0.07257999999999999,
         "meeting_point": null,
         "travel_info": [
             "Train: Crystal Palace, Penge West, Penge East",
-            "Bus: 249"
+            "Bus: 249",
+            "Additional travel info: Meeting point is Crystal Palace Overground/National Rail station"
         ]
     },
     "name": "Crystal Palace Park Dinosaurs  – a tour with a London Blue Badge Tourist Guide",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/9374",
     "ticketed_events": true
 }

@@ -15,6 +15,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-08",
@@ -29,6 +30,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -43,6 +45,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -86,10 +89,10 @@
     "id": 11380,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11380/building_11380_gcsopen_6e5bb589b8bb6b164ba2d016b263ecf0.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11380/building_11380_gcsopen_4c2d2d94900dcc06e41f54a848085385.jpeg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11380_gcsopen_6e5bb589b8bb6b164ba2d016b263ecf0.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11380_gcsopen_4c2d2d94900dcc06e41f54a848085385.jpeg"
         }
     ],
     "links": [
@@ -107,7 +110,7 @@
         }
     ],
     "location": {
-        "address": "Gaunson Creative Studios, Gunson House",
+        "address": "Gaunson Creative Studios, Gunson House, Markfield Road, N15 4QQ",
         "latitude": 51.5838118,
         "longitude": -0.0635681,
         "meeting_point": null,
@@ -118,6 +121,7 @@
         ]
     },
     "name": "Gaunson Creative Open Studios part of Markfield Road Festival",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11380",
     "ticketed_events": false
 }

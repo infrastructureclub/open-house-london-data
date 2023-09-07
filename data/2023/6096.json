@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -80,16 +82,16 @@
     "id": 6096,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6096/building_6096_img_8357-stockwell-street_f5efcc8582fda28789834932e05f81bb.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6096/building_6096_img_8357-stockwell-street_be48d4418cba65a2f3f2b36956313a61.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6096_img_8357-stockwell-street_f5efcc8582fda28789834932e05f81bb.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6096_img_8357-stockwell-street_be48d4418cba65a2f3f2b36956313a61.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6096/building_6096_img_8372-stockwell-street_afdc68fca75cf6169c40ef2a722af3ca.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6096/building_6096_img_8372-stockwell-street_aed3ef6288b1e97e777715f5635baad8.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6096_img_8372-stockwell-street_afdc68fca75cf6169c40ef2a722af3ca.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6096_img_8372-stockwell-street_aed3ef6288b1e97e777715f5635baad8.jpg"
         }
     ],
     "links": [],
@@ -105,6 +107,7 @@
         ]
     },
     "name": "University of Greenwich, Stockwell Street",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6096",
     "ticketed_events": false
 }

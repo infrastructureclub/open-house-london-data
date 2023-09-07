@@ -25,6 +25,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/9203",
             "capacity": null,
             "date": "2023-09-10",
@@ -58,43 +59,45 @@
     "id": 9203,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9203/building_9203_dsc04395_f93cf961c4d73e9d213625c6e43f5fd7.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9203/building_9203_dsc04395_e94483544cc81d11d0d8e80785c0a568.jpg",
             "description": null,
             "title": "The  Baitul Amn Mosque",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9203_dsc04395_f93cf961c4d73e9d213625c6e43f5fd7.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9203_dsc04395_e94483544cc81d11d0d8e80785c0a568.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9203/building_9203_mosque-inauguration_8106def0000856f0b0cdcc9c1ed3fb8e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9203/building_9203_mosque-inauguration_a584b22523fad9893008044e5d9e4e9c.jpg",
             "description": null,
             "title": "Inauguration",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9203_mosque-inauguration_8106def0000856f0b0cdcc9c1ed3fb8e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9203_mosque-inauguration_a584b22523fad9893008044e5d9e4e9c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9203/building_9203_100_1040_c1cbf3e55195999bc1753dc677765bbd.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9203/building_9203_100_1040_cd23fccf7f1bcd9fb3255d038641f391.jpg",
             "description": null,
             "title": "Exhibition",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9203_100_1040_c1cbf3e55195999bc1753dc677765bbd.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9203_100_1040_cd23fccf7f1bcd9fb3255d038641f391.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9203/building_9203_dsc04399_4b468d23d45d779d32709904c33416de.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9203/building_9203_dsc04399_50e902683b3f43fa8302fd4c9b697bb1.jpg",
             "description": null,
             "title": "Mosque Garden",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9203_dsc04399_4b468d23d45d779d32709904c33416de.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9203_dsc04399_50e902683b3f43fa8302fd4c9b697bb1.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Baitul Amn Mosque, Royal Lane, Uxbridge",
+        "address": "Baitul Amn Mosque, Royal Lane, Uxbridge, UB8 3QU",
         "latitude": 51.5234316,
         "longitude": -0.4661311,
         "meeting_point": null,
         "travel_info": [
             "Tube: Uxbridge",
             "Train: West Drayton",
-            "Bus: U3"
+            "Bus: U3",
+            "Additional travel info: Nearest Bus Stop \"Hillingdon Hospital\"\r\n\r\nFree car parking on site"
         ]
     },
     "name": "Baitul Amn Mosque",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/9203",
     "ticketed_events": true
 }

@@ -22,6 +22,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/9437",
             "capacity": null,
             "date": "2023-09-16",
@@ -36,6 +37,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/9437",
             "capacity": null,
             "date": "2023-09-16",
@@ -63,22 +65,22 @@
     "id": 9437,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9437/building_9437_img_1152_800570438d0afaefa4e56b0dd5137671.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9437/building_9437_img_1152_800945498f0697675cefc46ae560347f.jpeg",
             "description": null,
             "title": "Glenkerry House seen from Jolly's Green",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9437_img_1152_800570438d0afaefa4e56b0dd5137671.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9437_img_1152_800945498f0697675cefc46ae560347f.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9437/building_9437_2014-07-25-16-10-24-copy_180934a28071efa7e69fd51e158b7583.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9437/building_9437_2014-07-25-16-10-24-copy_e51dfd99cf3a815cacdebe556f783207.jpg",
             "description": null,
             "title": "Glenkerry House, Poplar, London E14",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9437_2014-07-25-16-10-24-copy_180934a28071efa7e69fd51e158b7583.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9437_2014-07-25-16-10-24-copy_e51dfd99cf3a815cacdebe556f783207.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9437/building_9437_img_1212_ad3e75882239c49f0df332efdf892ac6.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9437/building_9437_img_1212_f57f106cefec2d2e92381cba49755468.jpeg",
             "description": null,
             "title": "Glenkerry House seen from the River Lea",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9437_img_1212_ad3e75882239c49f0df332efdf892ac6.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9437_img_1212_f57f106cefec2d2e92381cba49755468.jpeg"
         }
     ],
     "links": [
@@ -94,10 +96,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Poplar",
-            "Bus: 309, 15"
+            "Bus: 309, 15",
+            "Additional travel info: Glenkerry House is 3 minutes' walk away from Langdon Park DLR station."
         ]
     },
     "name": "Glenkerry House",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/9437",
     "ticketed_events": true
 }

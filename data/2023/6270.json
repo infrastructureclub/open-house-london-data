@@ -22,20 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-07",
-            "drop_in": true,
-            "end": "2023-09-07T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Church open to visitors. Organ demonstrations, guides and special workshops TBC.",
-            "start": "2023-09-07T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-08",
@@ -43,13 +30,14 @@
             "end": "2023-09-08T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "Church open to visitors. Organ demonstrations, guides and special workshops TBC.",
+            "notes": "Church open to visitors.\r\nExhibition - \"Limehouse Lives: Tales from our church\" stories of some of the fascinating locals buried here",
             "start": "2023-09-08T10:00:00+01:00",
             "ticketed": false
         },
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -57,13 +45,14 @@
             "end": "2023-09-09T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "Church open to visitors. Organ demonstrations, guides and special workshops TBC.",
+            "notes": "Church open to visitors.\r\nExhibition - \"Limehouse Lives: Tales from our church\" stories of some of the fascinating locals buried here",
             "start": "2023-09-09T10:00:00+01:00",
             "ticketed": false
         },
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -78,6 +67,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -85,13 +75,14 @@
             "end": "2023-09-10T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "Fun for all the family in the churchyard, live music, bouncy castle, stalls, ice cream. Church open to visitors & tower tours.",
+            "notes": "Fun for all the family in the churchyard, arts & crafts fair, live music, bouncy castle, stalls, ice cream, tower tours.",
             "start": "2023-09-10T12:30:00+01:00",
             "ticketed": false
         },
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -106,6 +97,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-14",
@@ -113,13 +105,14 @@
             "end": "2023-09-14T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "Church open to visitors. Organ demonstrations, guides and special workshops TBC.",
+            "notes": "Church open to visitors.\r\nExhibition - \"Limehouse Lives: Tales from our church\" stories of some of the fascinating locals buried here",
             "start": "2023-09-14T10:00:00+01:00",
             "ticketed": false
         },
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-15",
@@ -127,13 +120,14 @@
             "end": "2023-09-15T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "Church open to visitors. Organ demonstrations, guides and special workshops TBC.",
+            "notes": "Church open to visitors.\r\nExhibition - \"Limehouse Lives: Tales from our church\" stories of some of the fascinating locals buried here",
             "start": "2023-09-15T10:00:00+01:00",
             "ticketed": false
         },
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -141,13 +135,14 @@
             "end": "2023-09-16T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "Church open to visitors. Organ demonstrations, guides and special workshops TBC.",
+            "notes": "Church open to visitors.\r\nExhibition - \"Limehouse Lives: Tales from our church\" stories of some of the fascinating locals buried here",
             "start": "2023-09-16T10:00:00+01:00",
             "ticketed": false
         },
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -162,6 +157,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -254,10 +250,12 @@
         "travel_info": [
             "Tube: Limehouse, Westferry",
             "Train: Limehouse",
-            "Bus: 15, 115, 135, D3"
+            "Bus: 15, 115, 135, D3",
+            "Additional travel info: Bus stops right outside. We are between Limehouse and Westferry stations on the Docklands Light Railway. You are welcome to use our car park off Three Colt Street."
         ]
     },
     "name": "St Anne's Church, Limehouse",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6270",
     "ticketed_events": false
 }

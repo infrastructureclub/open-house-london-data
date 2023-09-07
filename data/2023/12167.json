@@ -12,6 +12,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12167",
             "capacity": null,
             "date": "2023-09-14",
@@ -39,10 +40,10 @@
     "id": 12167,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12167/building_12167_2h9a3382_95fd98dbe7e86831ca06bf1ebf7cd330.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12167/building_12167_2h9a3382_6145ff6c7aa32975ca3eb9111d0de155.jpeg",
             "description": null,
             "title": "Camden Collective",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12167_2h9a3382_95fd98dbe7e86831ca06bf1ebf7cd330.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12167_2h9a3382_6145ff6c7aa32975ca3eb9111d0de155.jpeg"
         }
     ],
     "links": [],
@@ -58,6 +59,7 @@
         ]
     },
     "name": "Camden Green Loop Walking Tour",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12167",
     "ticketed_events": true
 }

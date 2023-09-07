@@ -14,6 +14,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -44,10 +45,10 @@
     "id": 11734,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11734/building_11734_cafe-with-puppetry_1e8c784d47b10961d608919f07da41b8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11734/building_11734_cafe-with-puppetry_4d4e40aabe5875cdd58da72609fbbfcd.jpg",
             "description": null,
             "title": "Young people and their adults enjoying the Space on Family Day!",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11734_cafe-with-puppetry_1e8c784d47b10961d608919f07da41b8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11734_cafe-with-puppetry_4d4e40aabe5875cdd58da72609fbbfcd.jpg"
         }
     ],
     "links": [],
@@ -59,10 +60,12 @@
         "travel_info": [
             "Tube: Brixton, Balham",
             "Train: West Norwood, Streatham Hill, Streatham Common, Streatham, Brixton, Balham",
-            "Bus: 333, 250, 188, 159, 133, 118, 109"
+            "Bus: 333, 250, 188, 159, 133, 118, 109",
+            "Additional travel info: 30 seconds from Streatham Hill Station - main entrance situated on Sternhold Ave, opposite Proky's Wine Bar"
         ]
     },
     "name": "Streatham Space Project Family Day",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11734",
     "ticketed_events": false
 }

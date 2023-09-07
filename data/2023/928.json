@@ -33,6 +33,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -47,6 +48,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -120,67 +122,69 @@
     "id": 928,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_great-hall-exterior_88207315be5fda9bd8ebbb390f8db0a2.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_great-hall-exterior_b98f649d76066d5d079b5c7fa0e1eb13.jpg",
             "description": null,
             "title": "The Great Hall ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_great-hall-exterior_88207315be5fda9bd8ebbb390f8db0a2.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_great-hall-exterior_b98f649d76066d5d079b5c7fa0e1eb13.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_the-east-terrace_dc06e867b7c6137e4856d86f21d1b6a4.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_the-east-terrace_52bdb13a43b751da09fcb766ccb37a20.jpg",
             "description": null,
             "title": "The East Terrace ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_the-east-terrace_dc06e867b7c6137e4856d86f21d1b6a4.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_the-east-terrace_52bdb13a43b751da09fcb766ccb37a20.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_old-buildings_d0e012617fa117b5c221c415691eb099.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_old-buildings_b091b561c9a2f44a0c91a8f0f11bca6e.jpg",
             "description": null,
             "title": "Old Buildings ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_old-buildings_d0e012617fa117b5c221c415691eb099.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_old-buildings_b091b561c9a2f44a0c91a8f0f11bca6e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_lincoln-s-inn-chapel_46e21eedd3bb50750ac82111b2d513ba.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_lincoln-s-inn-chapel_253c3b44ce4f93d2c04f371cf4bdfad0.jpg",
             "description": null,
             "title": "The Chapel ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_lincoln-s-inn-chapel_46e21eedd3bb50750ac82111b2d513ba.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_lincoln-s-inn-chapel_253c3b44ce4f93d2c04f371cf4bdfad0.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_lincoln-s-inn-library_3d555eead630b462e548a80bfb02af39.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_lincoln-s-inn-library_2c897038bfa7fc67c18e56a939a53b1f.jpg",
             "description": null,
             "title": "The Library ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_lincoln-s-inn-library_3d555eead630b462e548a80bfb02af39.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_lincoln-s-inn-library_2c897038bfa7fc67c18e56a939a53b1f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_statue-of-lord-erskine-in-lincoln-s-inn-library_96b8b266611db133a16e295610ce7040.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_statue-of-lord-erskine-in-lincoln-s-inn-library_73ad72848324072a38415acc37c1287d.jpg",
             "description": null,
             "title": "The Library ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_statue-of-lord-erskine-in-lincoln-s-inn-library_96b8b266611db133a16e295610ce7040.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_statue-of-lord-erskine-in-lincoln-s-inn-library_73ad72848324072a38415acc37c1287d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_lincoln-s-inn-pt-2-023-as_656baf8f2397f22001aa2640651a2797.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_lincoln-s-inn-pt-2-023-as_c6152ddff96d03d61d5c9121403eb171.jpg",
             "description": null,
             "title": "MCR ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_lincoln-s-inn-pt-2-023-as_656baf8f2397f22001aa2640651a2797.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_lincoln-s-inn-pt-2-023-as_c6152ddff96d03d61d5c9121403eb171.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_li_lecture_dinner_01_b55fa689782cf1b7e9211b29e2b716b2.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/928/building_928_li_lecture_dinner_01_92ae2f6d55445ae27b7434dd0d7ecad0.jpg",
             "description": null,
             "title": "Great Hall Dinner ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_li_lecture_dinner_01_b55fa689782cf1b7e9211b29e2b716b2.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_928_li_lecture_dinner_01_92ae2f6d55445ae27b7434dd0d7ecad0.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "The Honourable Society of Lincoln's Inn",
+        "address": "The Honourable Society of Lincoln's Inn, WC2A 3QB",
         "latitude": 51.5160414,
         "longitude": -0.1132912,
         "meeting_point": null,
         "travel_info": [
             "Tube: Temple, Holborn",
             "Train: Farringdon, City Thameslink, Charing Cross",
-            "Bus: 76, 341, 26, 15, 55, 38, 91, 168, 68, 59, 11, 1, 188, 521, 8"
+            "Bus: 76, 341, 26, 15, 55, 38, 91, 168, 68, 59, 11, 1, 188, 521, 8",
+            "Additional travel info: Entrance only via the Gate House located in the south east corner of Lincoln's Inn Fields, on the junction of Newman's Row and Serle Street."
         ]
     },
     "name": "Lincoln's Inn",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/928",
     "ticketed_events": false
 }

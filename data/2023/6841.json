@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -35,6 +36,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -49,6 +51,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6841",
             "capacity": null,
             "date": "2023-09-09",
@@ -63,6 +66,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6841",
             "capacity": null,
             "date": "2023-09-09",
@@ -77,6 +81,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6841",
             "capacity": null,
             "date": "2023-09-10",
@@ -91,6 +96,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6841",
             "capacity": null,
             "date": "2023-09-10",
@@ -100,6 +106,21 @@
             "name": "Guided Tour by the Architect",
             "notes": null,
             "start": "2023-09-10T16:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/6841",
+            "capacity": null,
+            "date": "2023-09-14",
+            "drop_in": false,
+            "end": "2023-09-14T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Architecture + Recovery Environments Workshop",
+            "notes": null,
+            "start": "2023-09-14T13:30:00+01:00",
             "ticketed": true
         }
     ],
@@ -134,64 +155,64 @@
     "id": 6841,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_1_41488ce60c6817a7fda9d89bbbbe932c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_2-pheonix_b7ea32597f5fe33b5e6445b19dd3346d.png",
             "description": null,
-            "title": "View to entrance",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_1_41488ce60c6817a7fda9d89bbbbe932c.jpg"
+            "title": "Pheonix Gardens",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_2-pheonix_b7ea32597f5fe33b5e6445b19dd3346d.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_2_b867c683cf56c7cc8bdfea40f8a241cb.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_2_4d0309afc0e52d9bdd5f84d40a7275f3.jpg",
             "description": null,
             "title": "View from Shaftesbury Avenue",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_2_b867c683cf56c7cc8bdfea40f8a241cb.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_2_4d0309afc0e52d9bdd5f84d40a7275f3.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_3_9360699c8409135195f44de758d96fff.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_3_ea5e89f518326cf3dee23fd096f6c620.jpg",
             "description": null,
             "title": "View to building",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_3_9360699c8409135195f44de758d96fff.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_3_ea5e89f518326cf3dee23fd096f6c620.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_4_d004eca63e4e6a87cef9cd70449e5e89.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_4_0272925908a1371ee414b97bc96adcf6.jpg",
             "description": null,
             "title": "Interior View",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_4_d004eca63e4e6a87cef9cd70449e5e89.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_4_0272925908a1371ee414b97bc96adcf6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_5_33309d35708392c11765e439940bb45c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_5_f79616af8d60234498f855d8985bde25.jpg",
             "description": null,
             "title": "View from within Phoenix Gardens to building",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_5_33309d35708392c11765e439940bb45c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_5_f79616af8d60234498f855d8985bde25.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_6_7be6e2f6602d9d4543f76a313c30316f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_6_b4787cdfd0633b326894ad2fb98aebc9.jpg",
             "description": null,
             "title": "Internal View",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_6_7be6e2f6602d9d4543f76a313c30316f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_6_b4787cdfd0633b326894ad2fb98aebc9.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_7_38a90e705305fdf87049294a39c969a9.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_7_a364cbbfb91006c3df53a1fb5830e4a4.jpg",
             "description": null,
             "title": "Interior View",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_7_38a90e705305fdf87049294a39c969a9.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_7_a364cbbfb91006c3df53a1fb5830e4a4.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_8_91afa4f8f5164e8b01af474cddba1450.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_8_976ff58ed0dda8594483b49a40fd76ed.jpg",
             "description": null,
             "title": "Interior View",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_8_91afa4f8f5164e8b01af474cddba1450.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_8_976ff58ed0dda8594483b49a40fd76ed.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_19-phoenix-aug_f4140cfdc51b90a0c5dddaa1dcb13e8f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_19-phoenix-aug_3869c5e6170e45717b6bd3cfecec3f5c.jpg",
             "description": null,
             "title": "Photo Credit: Richard Chivers",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_19-phoenix-aug_f4140cfdc51b90a0c5dddaa1dcb13e8f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_19-phoenix-aug_3869c5e6170e45717b6bd3cfecec3f5c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_17-e1505819877596-copy_fb64ce4ff6c32f36d5559bbc4d8cc71e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6841/building_6841_17-e1505819877596-copy_754f1b7085be92b44b060857607dd1bf.jpg",
             "description": null,
             "title": "Photo Credit: Richard Chivers",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_17-e1505819877596-copy_fb64ce4ff6c32f36d5559bbc4d8cc71e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6841_17-e1505819877596-copy_754f1b7085be92b44b060857607dd1bf.jpg"
         }
     ],
     "links": [
@@ -207,10 +228,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Leicester Square, Covent Garden, Tottenham Court Road",
-            "Bus: 38, 19, 14, 24, 29"
+            "Bus: 38, 19, 14, 24, 29",
+            "Additional travel info: A few minutes walk from either Covent Garden, Tottenham Court Road, or Leicester Square tube stations"
         ]
     },
     "name": "Phoenix Gardens Community Building",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6841",
     "ticketed_events": true
 }

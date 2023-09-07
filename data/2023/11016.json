@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -49,22 +50,22 @@
     "id": 11016,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11016/building_11016_image-canon-6-camera-photo_38d7d341ddd82583203a2619e038c870.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11016/building_11016_image-canon-6-camera-photo_fb02d570d6ba3d89c8ebb361152b9d90.jpg",
             "description": null,
             "title": "Tottenham Cemetery Chapel",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11016_image-canon-6-camera-photo_38d7d341ddd82583203a2619e038c870.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11016_image-canon-6-camera-photo_fb02d570d6ba3d89c8ebb361152b9d90.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11016/building_11016_20220408_151437_ce3e443e57b3a201689eee771fea6f1c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11016/building_11016_20220408_151437_6ea3e7fb9f6851829647c265c9946cbc.jpg",
             "description": null,
             "title": "Description of rural Tottenham",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11016_20220408_151437_ce3e443e57b3a201689eee771fea6f1c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11016_20220408_151437_6ea3e7fb9f6851829647c265c9946cbc.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11016/building_11016_jb_28988e01d23388b3288081720b8ba975.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11016/building_11016_jb_ca743f61a6aa1079d69a17742e540329.jpg",
             "description": null,
             "title": "The fields before the Cemetery opened circa 1830s",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11016_jb_28988e01d23388b3288081720b8ba975.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11016_jb_ca743f61a6aa1079d69a17742e540329.jpg"
         }
     ],
     "links": [],
@@ -76,10 +77,12 @@
         "travel_info": [
             "Tube: Wood Green",
             "Train: White Hart Lane",
-            "Bus: 243"
+            "Bus: 243",
+            "Additional travel info: Walk through the Cemetery to The Chapel from the W3 bus and White Hart Lane route or From Seven Sisters and Wood Green take the W3 /123 or 243 bus and walk through historic Bruce Castle Park."
         ]
     },
     "name": "The Chapel in Tottenham Cemetery",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11016",
     "ticketed_events": false
 }

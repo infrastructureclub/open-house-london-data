@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -36,6 +37,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -50,6 +52,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -64,6 +67,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -143,21 +147,21 @@
     "id": 9008,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9008/building_9008_lane-on-bikes_8a08d95c75dc3c17da684309a063b087.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9008/building_9008_lane-on-bikes_ef66c2b58a04f6c02557173a1eb82d88.jpg",
             "description": null,
             "title": "Enjoying Wickham Mews north during the lockdown",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9008_lane-on-bikes_8a08d95c75dc3c17da684309a063b087.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9008_lane-on-bikes_ef66c2b58a04f6c02557173a1eb82d88.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9008/building_9008_school-children-in-breakspears-mews_82b5d0ad9c71c7bf594a94ebcd248fc9.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9008/building_9008_school-children-in-breakspears-mews_8f70da2d60144e36fabe9140271e51af.jpg",
             "description": null,
             "title": "School lesson in Breakspears Mews Community Garden",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9008_school-children-in-breakspears-mews_82b5d0ad9c71c7bf594a94ebcd248fc9.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9008_school-children-in-breakspears-mews_8f70da2d60144e36fabe9140271e51af.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Ashby, Wickham, Breakspears Mews",
+        "address": "Ashby, Wickham, Breakspears Mews, Junctions with Ashby Road, SE4 1TF",
         "latitude": 51.4680784,
         "longitude": -0.0322275,
         "meeting_point": null,
@@ -168,6 +172,7 @@
         ]
     },
     "name": "Brockley's Historic Mews",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/9008",
     "ticketed_events": false
 }

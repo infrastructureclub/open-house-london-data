@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -48,6 +50,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -62,6 +65,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -106,37 +110,39 @@
     "id": 12128,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12128/building_12128_design_district_12-12-21_hr-5_ee76e01c5f86cd5683d10e0132f856cc.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12128/building_12128_design_district_12-12-21_hr-5_df0add1d82e950f00ac39d8a1ca63c1e.jpg",
             "description": null,
             "title": "D4 by  Barozzi Veiga",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12128_design_district_12-12-21_hr-5_ee76e01c5f86cd5683d10e0132f856cc.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12128_design_district_12-12-21_hr-5_df0add1d82e950f00ac39d8a1ca63c1e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12128/building_12128_design_district_12-12-21_hr-4_f3b3185159462e97c52f3b857b66e11b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12128/building_12128_design_district_12-12-21_hr-4_3d23775d30c9e9be5bebf3efaddd1267.jpg",
             "description": null,
             "title": "D4 by  Barozzi Veiga",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12128_design_district_12-12-21_hr-4_f3b3185159462e97c52f3b857b66e11b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12128_design_district_12-12-21_hr-4_3d23775d30c9e9be5bebf3efaddd1267.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12128/building_12128_design_district_12-12-21_hr-12_d220bda3f17d7bcf27726fef266d65ef.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12128/building_12128_design_district_12-12-21_hr-12_5a80e6f4b463c78d1298764143d53a99.jpg",
             "description": null,
             "title": "D4 by  Barozzi Veiga",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12128_design_district_12-12-21_hr-12_d220bda3f17d7bcf27726fef266d65ef.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12128_design_district_12-12-21_hr-12_5a80e6f4b463c78d1298764143d53a99.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Building D4, Design District, Dormer Yard",
+        "address": "Building D4, Design District, Dormer Yard, 5-6 Soames Walk, SE10 0AX",
         "latitude": 51.49954,
         "longitude": 0.00595,
         "meeting_point": null,
         "travel_info": [
             "Tube: North Greenwich",
             "Train: Greenwich",
-            "Bus: 486, 472, 422, 188, 180, 161, 132, 129, 108"
+            "Bus: 486, 472, 422, 188, 180, 161, 132, 129, 108",
+            "Additional travel info: The closest tube station in North Greenwich (30 metres). On the 24-hour Jubilee line, it gets you to London Bridge in 8 minutes and Waterloo in 11 minutes.\r\n\r\nEMIRATES AIR LINE CABLE CAR\r\nConnecting the Design District to the Royal Docks (near ExCel London) and the DLR.\r\n\r\nNorth Greenwich bus station is a major hub providing direct links across the city."
         ]
     },
     "name": "D4 : Design District",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12128",
     "ticketed_events": false
 }

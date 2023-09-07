@@ -23,6 +23,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -37,6 +38,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -51,6 +53,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -65,6 +68,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -101,16 +105,16 @@
     "id": 781,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/781/building_781_kingston-museum2-nap-logo_ba53b48c17c1c579d59925273e3f3ef2.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/781/building_781_kingston-museum2-nap-logo_6b9b6e0c651bd9f85748e4aa501eb262.jpg",
             "description": null,
             "title": "Kingston Museum",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_781_kingston-museum2-nap-logo_ba53b48c17c1c579d59925273e3f3ef2.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_781_kingston-museum2-nap-logo_6b9b6e0c651bd9f85748e4aa501eb262.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/781/building_781_kingston-museum2_04d76b25f920842153ec0c3aea8df7d9.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/781/building_781_kingston-museum2_3ca0b12ef87d0844320e4389ad9538dd.jpg",
             "description": null,
             "title": "Kingston Museum",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_781_kingston-museum2_04d76b25f920842153ec0c3aea8df7d9.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_781_kingston-museum2_3ca0b12ef87d0844320e4389ad9538dd.jpg"
         }
     ],
     "links": [],
@@ -120,10 +124,12 @@
         "longitude": -0.3007265,
         "meeting_point": null,
         "travel_info": [
-            "Train: Kingston"
+            "Train: Kingston",
+            "Additional travel info: Cattle Market car park nearby."
         ]
     },
     "name": "Kingston Library, Museum and Art Gallery",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/781",
     "ticketed_events": false
 }

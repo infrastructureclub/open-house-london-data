@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -70,22 +72,22 @@
     "id": 12121,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12121/building_12121_d1-1_475acc580e8ee41024d28675673c0d8b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12121/building_12121_d1-1_96fe5c450cb1fc586bd3ae6febb2e754.jpg",
             "description": null,
             "title": "D1 Design District",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12121_d1-1_475acc580e8ee41024d28675673c0d8b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12121_d1-1_96fe5c450cb1fc586bd3ae6febb2e754.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12121/building_12121_d1_67c76096fbba12d912a319554048460f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12121/building_12121_d1_c6d516955186ab733c24f438af1be36c.jpg",
             "description": null,
             "title": "D1 Facade",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12121_d1_67c76096fbba12d912a319554048460f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12121_d1_c6d516955186ab733c24f438af1be36c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12121/building_12121_bureau_designdistrict_interiordesign_rozbarr_architecture_hnna_photographer_alexupton_stylist_mihaelaberber_24_0351da28f84fcb94cbcf9bf40fd0722c.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12121/building_12121_f_d14ffacb1f4ccbf1f500d2c044a2aee7.jpeg",
             "description": null,
-            "title": "Creative members club at Bureau.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12121_bureau_designdistrict_interiordesign_rozbarr_architecture_hnna_photographer_alexupton_stylist_mihaelaberber_24_0351da28f84fcb94cbcf9bf40fd0722c.jpeg"
+            "title": "Forum",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12121_f_d14ffacb1f4ccbf1f500d2c044a2aee7.jpeg"
         }
     ],
     "links": [],
@@ -96,10 +98,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: North Greenwich",
-            "Bus: 486, 472, 422, 188, 180, 161, 132, 129, 108"
+            "Bus: 486, 472, 422, 188, 180, 161, 132, 129, 108",
+            "Additional travel info: The closest tube station in North Greenwich (30 metres). On the 24-hour Jubilee line, it gets you to London Bridge in 8 minutes and Waterloo in 11 minutes.\r\n\r\nEMIRATES AIR LINE CABLE CAR\r\nConnecting the Design District to the Royal Docks (near ExCel London) and the DLR.\r\n\r\nNorth Greenwich bus station is a major hub providing direct links across the city."
         ]
     },
     "name": "D1 & C1: Bureau at Design District",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12121",
     "ticketed_events": false
 }

@@ -20,6 +20,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11082",
             "capacity": null,
             "date": "2023-09-10",
@@ -81,16 +82,16 @@
     "id": 11082,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11082/building_11082_us-embassy-1960_5c9b7c0a2e272f12f2c2e24699d4e34a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11082/building_11082_us-embassy-1960_3ce5028582b71fc1d329b1650260a38e.jpg",
             "description": null,
             "title": "Former US Embassy",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11082_us-embassy-1960_5c9b7c0a2e272f12f2c2e24699d4e34a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11082_us-embassy-1960_3ce5028582b71fc1d329b1650260a38e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11082/building_11082_stafford-hotel_5d44ad3a61594ce4492ed722082344e7.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11082/building_11082_stafford-hotel_02c4286dbdce14ae90ed233798bbe127.jpg",
             "description": null,
             "title": "Stafford Hotel in St James",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11082_stafford-hotel_5d44ad3a61594ce4492ed722082344e7.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11082_stafford-hotel_02c4286dbdce14ae90ed233798bbe127.jpg"
         }
     ],
     "links": [
@@ -100,7 +101,7 @@
         }
     ],
     "location": {
-        "address": "Leicester Square Tube, Charing Cross Road",
+        "address": "Leicester Square Tube, Charing Cross Road, St Martin's Court",
         "latitude": 51.51139,
         "longitude": -0.1284,
         "meeting_point": null,
@@ -111,6 +112,7 @@
         ]
     },
     "name": "The American Other in London",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11082",
     "ticketed_events": true
 }

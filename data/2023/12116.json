@@ -1,8 +1,14 @@
 {
     "all_week": false,
-    "description": "A 2.5hour walking tour based around Royal Albert Dock that takes in architecture including London City Airport, The Tate & Lyle Sugar Refinery and the much politicised Royal Albert Dock development with some unexpected stop offs along the way.",
+    "description": "A 3 hour walking tour based around Royal Albert Dock that takes in architecture including London City Airport, The Tate & Lyle Sugar Refinery and the much politicised Royal Albert Dock development with some unexpected stop offs along the way.",
     "design": {
-        "designers": [],
+        "designers": [
+            {
+                "architect": "Royal Albert Dock development",
+                "description": null,
+                "year": "2019"
+            }
+        ],
         "periods": [],
         "types": [
             ""
@@ -12,12 +18,13 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12116",
             "capacity": null,
             "date": "2023-09-12",
             "drop_in": false,
             "end": "2023-09-12T17:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "SUGAR & SPICE AND ALL THINGS NICE - ROYAL ALBERT DOCK",
             "notes": null,
             "start": "2023-09-12T14:00:00+01:00",
@@ -51,10 +58,10 @@
     "id": 12116,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12116/building_12116_royal-docks-walking-tour_dd6734c4c31bf4b00e11eb57be1867ba.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12116/building_12116_royal-docks-walking-tour_e85c7a596a1d7112b32d6c797ebb9898.jpg",
             "description": null,
             "title": "Join a walking tour to discover the waterfront developments and history of Royal Albert Dock",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12116_royal-docks-walking-tour_dd6734c4c31bf4b00e11eb57be1867ba.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12116_royal-docks-walking-tour_e85c7a596a1d7112b32d6c797ebb9898.jpg"
         }
     ],
     "links": [
@@ -64,15 +71,17 @@
         }
     ],
     "location": {
-        "address": "Royal Docks Watersports Centre London Regatta C",
+        "address": "Royal Docks Watersports Centre London Regatta Centre, E16 2QT",
         "latitude": 51.5076,
         "longitude": 0.041,
         "meeting_point": null,
         "travel_info": [
-            "Train: Royal Albert"
+            "Train: Royal Albert",
+            "Additional travel info: Royal Albert is a DLR station."
         ]
     },
     "name": "Sugar and spice and all things nice - a sensory inspired walk",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12116",
     "ticketed_events": true
 }

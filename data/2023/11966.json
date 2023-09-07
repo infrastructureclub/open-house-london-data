@@ -14,6 +14,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11966",
             "capacity": null,
             "date": "2023-09-16",
@@ -66,40 +67,40 @@
     "id": 11966,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11966/building_11966_southmere_5373cf455375f7858c0646a4a76fe961.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11966/building_11966_southmere_114eafb9fcdf54eba8d732f582e72f28.jpeg",
             "description": null,
             "title": "1960s towers and low rises around Southmere Lake, Thamesmead",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11966_southmere_5373cf455375f7858c0646a4a76fe961.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11966_southmere_114eafb9fcdf54eba8d732f582e72f28.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11966/building_11966_crossness_img5904_9cb89e4b52a2d026ba94abab644a4c69.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11966/building_11966_crossness_img5904_fef88df9ae03cd8e45b2cf34326ab58c.jpg",
             "description": null,
             "title": "The magestic interior of Crossness Sewage Pumping Station.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11966_crossness_img5904_9cb89e4b52a2d026ba94abab644a4c69.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11966_crossness_img5904_fef88df9ae03cd8e45b2cf34326ab58c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11966/building_11966_img_3692_b0c598934c37bd0dfaf0c461453cb27b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11966/building_11966_img_3692_1b1713bd1e4f57a5436600071aea6b2c.jpg",
             "description": null,
             "title": "Southmere Lake",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11966_img_3692_b0c598934c37bd0dfaf0c461453cb27b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11966_img_3692_1b1713bd1e4f57a5436600071aea6b2c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11966/building_11966_lesnes-2_e10067e6cfd023eff1159a21f96bb18e.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11966/building_11966_lesnes-2_645136ba21595bf8340f08039f9c5790.jpeg",
             "description": null,
             "title": "Lesnes Abbey ruins. Photo by Marathon under a Creative Commons License.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11966_lesnes-2_e10067e6cfd023eff1159a21f96bb18e.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11966_lesnes-2_645136ba21595bf8340f08039f9c5790.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11966/building_11966_thamesmead_housing_estate_4_164abe7a770c00d3c16e0585d77be86b.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11966/building_11966_thamesmead_housing_estate_4_a23cbdebcba386348a504592a86f08c2.jpeg",
             "description": null,
             "title": "Now-demolished 1960s 5-storey blocks. Photo by John Bennett under a Creative Commons license.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11966_thamesmead_housing_estate_4_164abe7a770c00d3c16e0585d77be86b.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11966_thamesmead_housing_estate_4_a23cbdebcba386348a504592a86f08c2.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11966/building_11966_img_3811_0a6787ef08340a0d2dee666917d69056.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11966/building_11966_img_3811_1598ce67a88aef568fa606ef91e7638b.jpg",
             "description": null,
             "title": "Cycling around the walkways of the Stage 2 development.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11966_img_3811_0a6787ef08340a0d2dee666917d69056.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11966_img_3811_1598ce67a88aef568fa606ef91e7638b.jpg"
         }
     ],
     "links": [
@@ -109,16 +110,18 @@
         }
     ],
     "location": {
-        "address": "Outside Abbey Arms pub",
+        "address": "Outside Abbey Arms pub, (next to Abbey Wood Station, 31 Wilton Road",
         "latitude": 51.4907,
         "longitude": 0.12102,
         "meeting_point": null,
         "travel_info": [
             "Train: Abbey Wood",
-            "Bus: B11, 472, 469, 244, 229, 180"
+            "Bus: B11, 472, 469, 244, 229, 180",
+            "Additional travel info: Tour End:  Crossness Pumping Station. From there you can cycle the Thames Path to Woolwich Elizabeth Line Station or return via the artists' studios at the Lakeside Centre, on the way back to Abbey Wood Station - also open for the Open House Festival."
         ]
     },
     "name": "Cycle tour of Thamesmead",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11966",
     "ticketed_events": true
 }

@@ -64,6 +64,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10415",
             "capacity": null,
             "date": "2023-09-15",
@@ -104,43 +105,45 @@
     "id": 10415,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10415/building_10415_911px-st_pancras_railway_station_2012-06-23_4a36c7197988ecd8ee0f8c92b9ca3379.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10415/building_10415_911px-st_pancras_railway_station_2012-06-23_94b9c6b218075e07b5ad0b44efa65aa5.jpg",
             "description": null,
             "title": "St Pancras Station and hotel",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10415_911px-st_pancras_railway_station_2012-06-23_4a36c7197988ecd8ee0f8c92b9ca3379.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10415_911px-st_pancras_railway_station_2012-06-23_94b9c6b218075e07b5ad0b44efa65aa5.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10415/building_10415_footwaysmap-38-copy_039f0e9cbab04db16790eab49a18c691.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10415/building_10415_footwaysmap-38-copy_279ace9f35cebb2cf898ca1dc4da2c57.jpg",
             "description": null,
             "title": "Footways London Map 2nd edition",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10415_footwaysmap-38-copy_039f0e9cbab04db16790eab49a18c691.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10415_footwaysmap-38-copy_279ace9f35cebb2cf898ca1dc4da2c57.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10415/building_10415_brunswick-centre_428aba505fe99cd1901f094ee1d4d738.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10415/building_10415_brunswick-centre_c122561f87dd064879ca46a454a08307.jpeg",
             "description": null,
             "title": "Brunswick Centre",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10415_brunswick-centre_428aba505fe99cd1901f094ee1d4d738.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10415_brunswick-centre_c122561f87dd064879ca46a454a08307.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10415/building_10415_strandpiazza_27d12e64d14ae40d032cc573f63e69a7.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10415/building_10415_strandpiazza_15cfbdddae0a07eafb74d48f7dc87ecc.jpg",
             "description": null,
             "title": "The Strand piazza",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10415_strandpiazza_27d12e64d14ae40d032cc573f63e69a7.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10415_strandpiazza_15cfbdddae0a07eafb74d48f7dc87ecc.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Euston Road",
+        "address": "Euston Road, NW1 2AR - near junction with Midland Road, NW1 2AR",
         "latitude": 51.5296199,
         "longitude": -0.1250344,
         "meeting_point": null,
         "travel_info": [
             "Tube: King's Cross St. Pancras",
             "Train: King's Cross, Euston",
-            "Bus: 73, 30, 205"
+            "Bus: 73, 30, 205",
+            "Additional travel info: There are pleasant walks along quiet backstreets from many neighbouring areas. See https://footways.london/\r\n\r\nA cycle route runs along Midland Road and Judd St"
         ]
     },
     "name": "London Living Streets and Footways London",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10415",
     "ticketed_events": true
 }

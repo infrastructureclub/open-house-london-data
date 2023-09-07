@@ -30,6 +30,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -44,6 +45,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -100,49 +102,51 @@
     "id": 2135,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2135/building_2135_3345_004-small_a534ff2be14fc38a01ff2b7163d79dfc.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2135/building_2135_3345_004-small_916147cabe65f48ee960f7b957c4900c.jpg",
             "description": null,
             "title": "The Royal Society, Front Exterior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2135_3345_004-small_a534ff2be14fc38a01ff2b7163d79dfc.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2135_3345_004-small_916147cabe65f48ee960f7b957c4900c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2135/building_2135_royal-society-high-res-7_18ad3742d8a52463ad14ce0d800ecec2.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2135/building_2135_royal-society-high-res-7_cace5885c4c0b32055c89faf91ce4ad1.jpg",
             "description": null,
             "title": "The Royal Society, Marble Staircase",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2135_royal-society-high-res-7_18ad3742d8a52463ad14ce0d800ecec2.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2135_royal-society-high-res-7_cace5885c4c0b32055c89faf91ce4ad1.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2135/building_2135_city_of_london_c531b5b8a67b9affad8f0f40c0fbe280.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2135/building_2135_city_of_london_224028a9f133330c70b15ad9e9884738.jpg",
             "description": null,
             "title": "City of London Rooms",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2135_city_of_london_c531b5b8a67b9affad8f0f40c0fbe280.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2135_city_of_london_224028a9f133330c70b15ad9e9884738.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2135/building_2135_wolfson_one_3b5b4b30015ea410fc0580ad951d00f1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2135/building_2135_wolfson_one_c0aeefb1b8c3e2db7c7409350f10d4fe.jpg",
             "description": null,
             "title": "Wolfson 1 part of the old library",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2135_wolfson_one_3b5b4b30015ea410fc0580ad951d00f1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2135_wolfson_one_c0aeefb1b8c3e2db7c7409350f10d4fe.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2135/building_2135_marble_hall-big_6ca1d94bbfd08356974a742cd107b75d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2135/building_2135_marble_hall-big_52f19ac39f71f56c574f84afd0e41c6a.jpg",
             "description": null,
             "title": "Marble Hall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2135_marble_hall-big_6ca1d94bbfd08356974a742cd107b75d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2135_marble_hall-big_52f19ac39f71f56c574f84afd0e41c6a.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "The Royal Society, 6-9 Carlton House Terrace",
+        "address": "The Royal Society, 6-9 Carlton House Terrace, SW1Y 5AG",
         "latitude": 51.5059347,
         "longitude": -0.1323546,
         "meeting_point": null,
         "travel_info": [
             "Tube: Westminster, Embankment, Charing Cross, Green Park, Piccadilly Circus",
             "Train: Charing Cross",
-            "Bus: 453, 15, 13, 12"
+            "Bus: 453, 15, 13, 12",
+            "Additional travel info: We are located within the congestion charge zone. On-street parking on Carlton House Terrace and Waterloo Place is available for up to four hours. Trafalgar Square car park is also close by.\r\n\r\nChartered coaches can drop-off and pick-up in front of the building but cannot park. There are several coach parks nearby.\r\n\r\nThere are cycle racks along Carlton House Terrace by the Duke of York monument."
         ]
     },
     "name": "The Royal Society",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2135",
     "ticketed_events": false
 }

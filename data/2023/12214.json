@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "Design District is a collection of 16 buildings designed by eight architects, one minute from North Greenwich station. The district is a thriving home for creative businesses offering permanent and purpose-designed workspaces, co-working wi",
+    "description": "Design District is a collection of 16 buildings designed by eight architects, one minute from North Greenwich station. The District supports an ecosystem of creative businesses and helps foster connections through affordable spaces, comprehensive facilities and a thriving events programme.",
     "design": {
         "designers": [
             {
@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -76,36 +78,38 @@
     "id": 12214,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12214/building_12214_dd_march_17-3-22_hr-20_c895643651cdd04f060fcede09fd02ab.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12214/building_12214_dd_march_17-3-22_hr-20_d115e249edc1df20c06eae190baa6480.jpg",
             "description": null,
             "title": "Design District",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12214_dd_march_17-3-22_hr-20_c895643651cdd04f060fcede09fd02ab.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12214_dd_march_17-3-22_hr-20_d115e249edc1df20c06eae190baa6480.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12214/building_12214_the-tide_8d48ef382ee40cb87f95b4655997ad6c.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12214/building_12214_mclayton_2307-3-dd-gre_036_685c8c1ff4d914a661afaa0e52273320.jpg",
             "description": null,
-            "title": "The Tide by Visit Greenwich",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12214_the-tide_8d48ef382ee40cb87f95b4655997ad6c.jpeg"
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12214_mclayton_2307-3-dd-gre_036_685c8c1ff4d914a661afaa0e52273320.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12214/building_12214_design-district-greenwich-penisular-london_dezeen_2364_col_1-scaled_e3ad84cdbcd195f609d20407805bd076.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12214/building_12214_dd_march_17-3-22_hr-23-104230_8ba5426923198fced8db3ddaee7edc2c.jpg",
             "description": null,
-            "title": "The Canteen",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12214_design-district-greenwich-penisular-london_dezeen_2364_col_1-scaled_e3ad84cdbcd195f609d20407805bd076.jpeg"
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12214_dd_march_17-3-22_hr-23-104230_8ba5426923198fced8db3ddaee7edc2c.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "The Gateway Pavilions, Peninsula Square",
+        "address": "The Gateway Pavilions, Peninsula Square, SE10 0QE",
         "latitude": 51.50094,
         "longitude": 0.00536,
         "meeting_point": null,
         "travel_info": [
             "Tube: North Greenwich",
-            "Bus: 482, 472, 422, 188, 180, 161, 132, 129, 108"
+            "Bus: 482, 472, 422, 188, 180, 161, 132, 129, 108",
+            "Additional travel info: The closest tube station in North Greenwich (30 metres). On the 24-hour Jubilee line, it gets you to London Bridge in 8 minutes and Waterloo in 11 minutes.\r\n\r\nEMIRATES AIR LINE CABLE CAR\r\nConnecting the Design District to the Royal Docks (near ExCel London) and the DLR.\r\n\r\nNorth Greenwich bus station is a major hub providing direct links across the city."
         ]
     },
     "name": "Design District Public Realm",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12214",
     "ticketed_events": false
 }

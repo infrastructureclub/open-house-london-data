@@ -26,6 +26,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -33,21 +34,7 @@
             "end": "2023-09-17T16:30:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "The planned tour will start at 11.00 and finish at 13.00.",
-            "start": "2023-09-17T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-17",
-            "drop_in": true,
-            "end": "2023-09-17T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "The planned tour on 17/09/2023 will start at 11.00 and and finish at 13.00.",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
             "start": "2023-09-17T10:00:00+01:00",
             "ticketed": false
         }
@@ -68,16 +55,16 @@
     "id": 8312,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8312/building_8312_the-old-schoolhouse_00817672a64f8fb8655e4fd7919a0de6.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8312/building_8312_the-old-schoolhouse_7b08a97b7eeb34e6c5ff3d406cbbb8ec.jpg",
             "description": null,
             "title": "from Rokesly Avenue",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8312_the-old-schoolhouse_00817672a64f8fb8655e4fd7919a0de6.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8312_the-old-schoolhouse_7b08a97b7eeb34e6c5ff3d406cbbb8ec.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8312/building_8312_old-schoolhouse-20170915_155952_64672cf797ebfa69326504625fd70b4a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8312/building_8312_old-schoolhouse-20170915_155952_39336cf32b754c08b36451e8c5ad4944.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8312_old-schoolhouse-20170915_155952_64672cf797ebfa69326504625fd70b4a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8312_old-schoolhouse-20170915_155952_39336cf32b754c08b36451e8c5ad4944.jpg"
         }
     ],
     "links": [],
@@ -93,6 +80,7 @@
         ]
     },
     "name": "The Old Schoolhouse",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/8312",
     "ticketed_events": false
 }

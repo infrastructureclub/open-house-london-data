@@ -22,6 +22,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2783",
             "capacity": null,
             "date": "2023-09-09",
@@ -36,6 +37,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2783",
             "capacity": null,
             "date": "2023-09-09",
@@ -50,6 +52,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2783",
             "capacity": null,
             "date": "2023-09-09",
@@ -64,6 +67,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2783",
             "capacity": null,
             "date": "2023-09-09",
@@ -78,6 +82,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2783",
             "capacity": null,
             "date": "2023-09-09",
@@ -92,6 +97,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2783",
             "capacity": null,
             "date": "2023-09-09",
@@ -106,6 +112,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2783",
             "capacity": null,
             "date": "2023-09-09",
@@ -153,16 +160,16 @@
     "id": 2783,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2783/building_2783_eb-stamp_canada_house_with_flag_to_fit_817a92456cfb22f3595c65a08c2e2196.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2783/building_2783_eb-stamp_canada_house_with_flag_to_fit_fd0a0d196431d1a3af190b04980b8a00.jpg",
             "description": null,
             "title": "View Pall Mall East",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2783_eb-stamp_canada_house_with_flag_to_fit_817a92456cfb22f3595c65a08c2e2196.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2783_eb-stamp_canada_house_with_flag_to_fit_fd0a0d196431d1a3af190b04980b8a00.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2783/building_2783_51_chc_fit-out13_v2_lr-11_e812035411ad2064f8dc724e3c2ed5e9.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2783/building_2783_51_chc_fit-out13_v2_lr-11_abe2090dc66385d0b83c549aca49119e.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2783_51_chc_fit-out13_v2_lr-11_e812035411ad2064f8dc724e3c2ed5e9.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2783_51_chc_fit-out13_v2_lr-11_abe2090dc66385d0b83c549aca49119e.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2783/building_2783_canada-house-external_c4d5f9c71812b7dc77887a4613afb25e.jpg",
@@ -171,10 +178,10 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2783_canada-house-external_c4d5f9c71812b7dc77887a4613afb25e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2783/building_2783_canada_house-with-flag-re-touch-no_side_flag_d6530d6d943e3e8edc43cf71e09a0ec9.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2783/building_2783_canada_house-with-flag-re-touch-no_side_flag_90946b8bcd129d1b77c414d651c57f77.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2783_canada_house-with-flag-re-touch-no_side_flag_d6530d6d943e3e8edc43cf71e09a0ec9.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2783_canada_house-with-flag-re-touch-no_side_flag_90946b8bcd129d1b77c414d651c57f77.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2783/building_2783_chc_4_terrace_7092_hr_v2_20e54b95cee59abadcfd81b8b049f292.jpg",
@@ -210,10 +217,12 @@
         "travel_info": [
             "Tube: Leicester Square, Embankment, Charing Cross",
             "Train: Charing Cross",
-            "Bus: 87, 176, 159, 139, 12"
+            "Bus: 87, 176, 159, 139, 12",
+            "Additional travel info: Our building is adjacent to Trafalgar Square and walkable from most Central London locations."
         ]
     },
     "name": "Canada House",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2783",
     "ticketed_events": true
 }

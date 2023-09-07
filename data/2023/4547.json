@@ -24,6 +24,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -92,7 +93,7 @@
     ],
     "links": [],
     "location": {
-        "address": "Southmere Lake Complex",
+        "address": "Southmere Lake Complex, 2 Bazalgette Way (formerly Belvedere Road)",
         "latitude": 51.5009688,
         "longitude": 0.1242316,
         "meeting_point": null,
@@ -102,6 +103,7 @@
         ]
     },
     "name": "Lakeside Centre",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/4547",
     "ticketed_events": false
 }

@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -79,24 +80,26 @@
     "id": 3433,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3433/building_3433_z-centre-entrance_941219524a8c8f43b2d86645d368e585.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3433/building_3433_z-centre-entrance_93d9fba39571894da044c0ba1c703721.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3433_z-centre-entrance_941219524a8c8f43b2d86645d368e585.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3433_z-centre-entrance_93d9fba39571894da044c0ba1c703721.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "440-442 Alexandra Avenue, Harrow, Middlesex",
+        "address": "440-442 Alexandra Avenue, Harrow, Middlesex, HA2 9TL",
         "latitude": 51.57401170000001,
         "longitude": -0.3706816,
         "meeting_point": null,
         "travel_info": [
             "Tube: Rayners Lane",
-            "Bus: 398, H10, H12, H9"
+            "Bus: 398, H10, H12, H9",
+            "Additional travel info: Free Car Park for 30 cars at the rear of the Zoroastrian Centre on Rayners Lane. Area regularly patrolled by traffic wardens."
         ]
     },
     "name": "Zoroastrian Centre For Europe (formerly Grosvenor Cinema)",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/3433",
     "ticketed_events": false
 }

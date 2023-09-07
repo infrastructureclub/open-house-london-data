@@ -2,14 +2,9 @@
     "all_week": false,
     "description": "Historic walking tour of East Croydon led by a native. Those who come along are welcome to contribute their memories.  Marvel at one of the oldest electricity sub-stations in Croydon. Tour ends at the iconic One Croydon, the \"Thru'penny Bit\" office block designed by Seifert in the 1960s.  Join us for a drink afterwards in a Victorian hostelry.",
     "design": {
-        "designers": [
-            {
-                "architect": "Architect unknown",
-                "description": null,
-                "year": "1850"
-            }
-        ],
+        "designers": [],
         "periods": [
+            "Architect unknown",
             "Historical/contemporary"
         ],
         "types": [
@@ -20,6 +15,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10217",
             "capacity": null,
             "date": "2023-09-09",
@@ -74,30 +70,32 @@
     "id": 10217,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10217/building_10217_1801croydonenclosuremapdetail_7327a0ec85c9c46a2f6b4401bc085875.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10217/building_10217_1801croydonenclosuremapdetail_27fe6ddcf27eab0cd3170e67dca327ee.jpg",
             "description": null,
             "title": "Croydon Enclosure Map",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10217_1801croydonenclosuremapdetail_7327a0ec85c9c46a2f6b4401bc085875.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10217_1801croydonenclosuremapdetail_27fe6ddcf27eab0cd3170e67dca327ee.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10217/building_10217_eastcroydonmap2015_c93008b763e08005dee381be786d32e8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10217/building_10217_eastcroydonmap2015_de58caa6fb6014e44934c8bac44f90bf.jpg",
             "description": null,
             "title": "East Croydon Map",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10217_eastcroydonmap2015_c93008b763e08005dee381be786d32e8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10217_eastcroydonmap2015_de58caa6fb6014e44934c8bac44f90bf.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "The Cricketers, 107 Addiscombe Road, Croydon",
+        "address": "The Cricketers, 107 Addiscombe Road, Croydon, CR0 6SG",
         "latitude": 51.3752,
         "longitude": -0.0836,
         "meeting_point": null,
         "travel_info": [
             "Train: East Croydon",
-            "Bus: 119, 466, 194, 198"
+            "Bus: 119, 466, 194, 198",
+            "Additional travel info: The Cricketers is close to Lebanon Road tramstop"
         ]
     },
     "name": "East Croydon Community Organisation",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10217",
     "ticketed_events": true
 }

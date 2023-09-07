@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11945",
             "capacity": null,
             "date": "2023-09-16",
@@ -78,10 +80,10 @@
     "id": 11945,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11945/building_11945_cda_e4efdd10349ef7c10c0d409e3b29aa5a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11945/building_11945_cda_b58ed33a9027c5dfe14ca115242833ae.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11945_cda_e4efdd10349ef7c10c0d409e3b29aa5a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11945_cda_b58ed33a9027c5dfe14ca115242833ae.jpg"
         }
     ],
     "links": [],
@@ -97,6 +99,7 @@
         ]
     },
     "name": "Chris Dyson Architects LLP",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11945",
     "ticketed_events": true
 }

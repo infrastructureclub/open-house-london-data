@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -59,22 +60,22 @@
     "id": 8446,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8446/building_8446_coopers-hall-1_68b9ea72339cb72a0734df495fe8bcb5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8446/building_8446_coopers-hall-1_0f2e98ed91dc2b390e55f811b0b0f20d.jpg",
             "description": null,
             "title": "Staircase and entrance at Coopers' Hall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8446_coopers-hall-1_68b9ea72339cb72a0734df495fe8bcb5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8446_coopers-hall-1_0f2e98ed91dc2b390e55f811b0b0f20d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8446/building_8446_dining-room-2_ca5e05169f4a9b4aefc8dd0b11852077.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8446/building_8446_dining-room-2_b2b5062a781690ce898410a3de2ddca1.jpg",
             "description": null,
             "title": "Dining Room",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8446_dining-room-2_ca5e05169f4a9b4aefc8dd0b11852077.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8446_dining-room-2_b2b5062a781690ce898410a3de2ddca1.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8446/building_8446_watercolour-painting-of-the-hall-2009-artist-martin-millard_147b96a46e346ba77f5618bd80abc048.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8446/building_8446_watercolour-painting-of-the-hall-2009-artist-martin-millard_de7ee93711f38fb2b280de04b7c31a78.jpg",
             "description": null,
             "title": "Watercolour painting of the hall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8446_watercolour-painting-of-the-hall-2009-artist-martin-millard_147b96a46e346ba77f5618bd80abc048.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8446_watercolour-painting-of-the-hall-2009-artist-martin-millard_de7ee93711f38fb2b280de04b7c31a78.jpg"
         }
     ],
     "links": [],
@@ -89,6 +90,7 @@
         ]
     },
     "name": "Coopers' Hall",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/8446",
     "ticketed_events": false
 }

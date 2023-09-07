@@ -14,12 +14,13 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10928",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T13:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Walking tour",
             "notes": null,
             "start": "2023-09-16T12:00:00+01:00",
@@ -28,12 +29,13 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10928",
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": false,
             "end": "2023-09-17T13:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Walking tour",
             "notes": null,
             "start": "2023-09-17T12:00:00+01:00",
@@ -64,33 +66,33 @@
     "id": 10928,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10928/building_10928_dp262538_4e84abe223792b08761507286c9b509d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10928/building_10928_dp262538_66373f3c1ff4f5b6fe07f966780712f5.jpg",
             "description": null,
             "title": "Nos 527-535 High Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10928_dp262538_4e84abe223792b08761507286c9b509d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10928_dp262538_66373f3c1ff4f5b6fe07f966780712f5.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10928/building_10928_dp262536_fa9e426833689fdd4605cb1eeb80235c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10928/building_10928_dp262536_bd2e645a26f77e5fac36d10617dac27d.jpg",
             "description": null,
             "title": "St Mark's Methodist Church, High Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10928_dp262536_fa9e426833689fdd4605cb1eeb80235c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10928_dp262536_bd2e645a26f77e5fac36d10617dac27d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10928/building_10928_img_8272_dbec6dd1f217c48ea86214bb6ba82b2b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10928/building_10928_img_8272_87273e5811216d12c68ed313705b7582.jpg",
             "description": null,
             "title": "Detail of Ionic porch on late-C18 house on Bruce Grove",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10928_img_8272_dbec6dd1f217c48ea86214bb6ba82b2b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10928_img_8272_87273e5811216d12c68ed313705b7582.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10928/building_10928_20230614_205546_cf311c21dce3c8a337b8814d28263e94.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10928/building_10928_20230614_205546_3f0ed2760f674dd5233c73e0b8151a20.jpg",
             "description": null,
             "title": "Bruce Grove Public Conveniences under construction",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10928_20230614_205546_cf311c21dce3c8a337b8814d28263e94.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10928_20230614_205546_3f0ed2760f674dd5233c73e0b8151a20.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Bruce Grove Public Conveniences, Bruce Grove",
+        "address": "Bruce Grove Public Conveniences, Bruce Grove, N17 6UR",
         "latitude": 51.59624,
         "longitude": -0.07235,
         "meeting_point": null,
@@ -101,6 +103,7 @@
         ]
     },
     "name": "Heritage on the High Road (High Street HAZ)",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10928",
     "ticketed_events": true
 }

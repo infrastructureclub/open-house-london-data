@@ -47,6 +47,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -59,8 +60,24 @@
             "ticketed": false
         },
         {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": true,
+            "end": "2023-09-17T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "For tickets places limited please book: https://www.eventbrite.com/e/slime-making-at-central-hill-open-house-festival-tickets-702640666147",
+            "start": "2023-09-17T13:00:00+01:00",
+            "ticketed": false
+        },
+        {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6556",
             "capacity": null,
             "date": "2023-09-17",
@@ -73,22 +90,9 @@
             "ticketed": true
         },
         {
-            "activity_type": "Young people",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/6556",
-            "capacity": null,
-            "date": "2023-09-17",
-            "drop_in": false,
-            "end": "2023-09-17T14:30:00+01:00",
-            "fully_booked": false,
-            "name": "Slim making workshop with Kids!",
-            "notes": null,
-            "start": "2023-09-17T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6556",
             "capacity": null,
             "date": "2023-09-17",
@@ -103,6 +107,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6556",
             "capacity": null,
             "date": "2023-09-17",
@@ -150,54 +155,56 @@
     "id": 6556,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6556/building_6556_11219332_10153345242489571_6762811978258410858_n-1_f3bb357a543551dedae70470cc2adf78.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6556/building_6556_11219332_10153345242489571_6762811978258410858_n-1_ff40272805ea6ce9c5bf9495688d74ff.jpg",
             "description": null,
             "title": "View alongside Police Station",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_11219332_10153345242489571_6762811978258410858_n-1_f3bb357a543551dedae70470cc2adf78.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_11219332_10153345242489571_6762811978258410858_n-1_ff40272805ea6ce9c5bf9495688d74ff.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6556/building_6556_11265452_10153345244629571_735317034742873598_n_df5f286ce1889ba50555dda6803dbbb5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6556/building_6556_11265452_10153345244629571_735317034742873598_n_1a8a02c56eb9895371b4f52daad19de9.jpg",
             "description": null,
             "title": "View looking over Bowl across the Estate",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_11265452_10153345244629571_735317034742873598_n_df5f286ce1889ba50555dda6803dbbb5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_11265452_10153345244629571_735317034742873598_n_1a8a02c56eb9895371b4f52daad19de9.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6556/building_6556_11265022_10153345242384571_8330159083908547133_n_2fd9036aaf319e8423ec5a90eb988384.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6556/building_6556_11265022_10153345242384571_8330159083908547133_n_e0a8c13b3a7ed37bc106ad1980aa1f25.jpg",
             "description": null,
             "title": "View from Lunham Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_11265022_10153345242384571_8330159083908547133_n_2fd9036aaf319e8423ec5a90eb988384.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_11265022_10153345242384571_8330159083908547133_n_e0a8c13b3a7ed37bc106ad1980aa1f25.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6556/building_6556_1554484_10153345244579571_7517375603899582657_n_001e615201b2294e305cad048dfa1ded.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6556/building_6556_1554484_10153345244579571_7517375603899582657_n_823e96417672a5abf419d02144fb2482.jpg",
             "description": null,
             "title": "View looking from Vicars Oak Road end",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_1554484_10153345244579571_7517375603899582657_n_001e615201b2294e305cad048dfa1ded.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_1554484_10153345244579571_7517375603899582657_n_823e96417672a5abf419d02144fb2482.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6556/building_6556_10403701_10152749981311841_2357176624291627814_n_8f9d87ccbe9ed778db4972414d1012f5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6556/building_6556_10403701_10152749981311841_2357176624291627814_n_7cd643e552adb5c367fdb1abd879d4e0.jpg",
             "description": null,
             "title": "View from Plane Tree Walk",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_10403701_10152749981311841_2357176624291627814_n_8f9d87ccbe9ed778db4972414d1012f5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_10403701_10152749981311841_2357176624291627814_n_7cd643e552adb5c367fdb1abd879d4e0.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6556/building_6556_img_20200529_151600_ab5d298ac6d937217523ac710310a222.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6556/building_6556_img_20200529_151600_5d080b3334d2e0be05d275f0e1338f5a.jpg",
             "description": null,
             "title": "View of the Mural",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_img_20200529_151600_ab5d298ac6d937217523ac710310a222.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6556_img_20200529_151600_5d080b3334d2e0be05d275f0e1338f5a.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Central Hill Bowl (behind Gipsy Hill Police Sta",
+        "address": "Central Hill Bowl (behind Gipsy Hill Police Station) next to Mural /",
         "latitude": 51.4194278,
         "longitude": -0.0843493,
         "meeting_point": null,
         "travel_info": [
             "Train: Gipsy Hill, Crystal Palace",
-            "Bus: 3, 322, 417, 450, 202"
+            "Bus: 3, 322, 417, 450, 202",
+            "Additional travel info: Gipsy Hill Station is the closest station. There is a steep incline to Central Hill. Crystal Palace has the Overground Line but again there is a steep incline up to the the Crystal Palace Triangle towards Central Hill. It takes over 12 minutes to walk it."
         ]
     },
     "name": "Central Hill Estate",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6556",
     "ticketed_events": true
 }

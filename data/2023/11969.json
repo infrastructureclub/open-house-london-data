@@ -12,6 +12,7 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11969",
             "capacity": null,
             "date": "2023-09-09",
@@ -49,10 +50,10 @@
     "id": 11969,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11969/building_11969_octagon-oh-listing-image_37862a0b12b64f59a7a37fe48e29ace8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11969/building_11969_octagon-oh-listing-image_2a5ad6bfb6078a676c79c5fca5192c3a.jpg",
             "description": null,
             "title": "Crossness Pumping Station - interior.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11969_octagon-oh-listing-image_37862a0b12b64f59a7a37fe48e29ace8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11969_octagon-oh-listing-image_2a5ad6bfb6078a676c79c5fca5192c3a.jpg"
         }
     ],
     "links": [
@@ -62,16 +63,18 @@
         }
     ],
     "location": {
-        "address": "Outside the Lakeside Centre, Bazalgette Way",
+        "address": "Outside the Lakeside Centre, Bazalgette Way, SE2 9AN",
         "latitude": 51.50096,
         "longitude": 0.12423,
         "meeting_point": null,
         "travel_info": [
             "Train: Abbey Wood",
-            "Bus: 244, 229, 180"
+            "Bus: 244, 229, 180",
+            "Additional travel info: Abbey Wood Station is on the Elizabeth Line. It's a 20 min walk from the station to the Lakeside Centre meeting point. \r\n\r\nToilets are available at the Crossness Pumping Station.\r\n\r\nTour duration: 5 miles and crosses uneven grassland which can get muddy after rainfall. Please wear appropriate footwear and clothing. \r\n\r\nTour end:  Lakeside Centre"
         ]
     },
     "name": "Sanitation and the City walking tour",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11969",
     "ticketed_events": true
 }

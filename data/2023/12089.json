@@ -20,12 +20,13 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12089",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T12:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Walking Tour of Wood Green's placemaking projects",
             "notes": null,
             "start": "2023-09-09T10:00:00+01:00",
@@ -46,10 +47,10 @@
     "id": 12089,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12089/building_12089_image00001_72f0e37937771d46ec5becd11f8b0c05.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12089/building_12089_image00001_2ab273be1669ed2f8864ce2bc8eda0d2.jpeg",
             "description": null,
             "title": "Matt Dosa‘s landmark community co-designed artwork ‘Under\r\nMany Flags’ on Wood Green's Mall.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12089_image00001_72f0e37937771d46ec5becd11f8b0c05.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12089_image00001_2ab273be1669ed2f8864ce2bc8eda0d2.jpeg"
         }
     ],
     "links": [],
@@ -65,6 +66,7 @@
         ]
     },
     "name": "Walking Tour of Wood Green Placemaking Projects",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12089",
     "ticketed_events": true
 }

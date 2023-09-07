@@ -12,6 +12,7 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11975",
             "capacity": null,
             "date": "2023-09-09",
@@ -66,10 +67,10 @@
     "id": 11975,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11975/building_11975_british-library-cafe-cropped_eb1d5a4110707d9c2725c7a82229235d.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11975/building_11975_british-library-cafe-cropped_d18c88675b441bf58c667b57da5f38d6.jpeg",
             "description": null,
             "title": "Inside the British Library. On left, the King's Library; right, the cafe. Credit: British Library.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11975_british-library-cafe-cropped_eb1d5a4110707d9c2725c7a82229235d.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11975_british-library-cafe-cropped_d18c88675b441bf58c667b57da5f38d6.jpeg"
         }
     ],
     "links": [
@@ -89,10 +90,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Euston, King's Cross St. Pancras",
-            "Train: King's Cross"
+            "Train: King's Cross",
+            "Additional travel info: Participants must bring their own bicycle and helmet."
         ]
     },
     "name": "Cycling Book Lovers’ London",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11975",
     "ticketed_events": true
 }
