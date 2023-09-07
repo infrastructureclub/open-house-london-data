@@ -28,6 +28,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -67,28 +68,28 @@
     "id": 7230,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7230/building_7230_vil_7781_wb_outsidetree-1024x515_197ea5689ee2a51c12814e38e6bf5695.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7230/building_7230_vil_7781_wb_outsidetree-1024x515_fa0c45a4369278dd886bd70d59433450.jpg",
             "description": null,
             "title": "Royal Pharmaceutical Society viewed from East Smithfield",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7230_vil_7781_wb_outsidetree-1024x515_197ea5689ee2a51c12814e38e6bf5695.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7230_vil_7781_wb_outsidetree-1024x515_fa0c45a4369278dd886bd70d59433450.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7230/building_7230_07-society-with-stained-glass-and-busts_4054bc095982b7d3ff316610c7cd8e26.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7230/building_7230_07-society-with-stained-glass-and-busts_a34c9ce633312a254c981f18b9768986.jpg",
             "description": null,
             "title": "RPS Museum",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7230_07-society-with-stained-glass-and-busts_4054bc095982b7d3ff316610c7cd8e26.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7230_07-society-with-stained-glass-and-busts_a34c9ce633312a254c981f18b9768986.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7230/building_7230_04-05-06-georgian-pharmacy-etc_b12028d25ec948e677569ef770e694aa.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7230/building_7230_04-05-06-georgian-pharmacy-etc_a9e24e58f1896a1a4bfc4afc31ef8b40.jpg",
             "description": null,
             "title": "Georgian Pharmacy Cases",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7230_04-05-06-georgian-pharmacy-etc_b12028d25ec948e677569ef770e694aa.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7230_04-05-06-georgian-pharmacy-etc_a9e24e58f1896a1a4bfc4afc31ef8b40.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7230/building_7230_vil_7934_3bbd73c62b10f272652048b273b54b14.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7230/building_7230_vil_7934_2d7c627fca61243ae2760d23d872cedb.jpg",
             "description": null,
             "title": "Delftware Drug Jars and Bell Metal Mortars",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7230_vil_7934_3bbd73c62b10f272652048b273b54b14.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7230_vil_7934_2d7c627fca61243ae2760d23d872cedb.jpg"
         }
     ],
     "links": [
@@ -105,10 +106,12 @@
         "travel_info": [
             "Tube: Tower Hill, Tower Gateway",
             "Train: Shadwell, Fenchurch Street",
-            "Bus: 100"
+            "Bus: 100",
+            "Additional travel info: Five minute walk from 100 bus stop on East Smithfield\r\nTen minute walk from Tower Hill or Tower Gateway\r\nFifteen minute walk from Fenchurch Street or Shadwell"
         ]
     },
     "name": "Royal Pharmaceutical Society Museum",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/7230",
     "ticketed_events": false
 }

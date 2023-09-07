@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -70,10 +72,10 @@
     "id": 3165,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3165/building_3165_wapping_6da865bd0e33f5695c700f9cb5961ebb.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3165/building_3165_wapping_17a31d70165d66e767d66b2285abb3d8.jpg",
             "description": null,
             "title": "Wapping Police Station from The Thames",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3165_wapping_6da865bd0e33f5695c700f9cb5961ebb.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3165_wapping_17a31d70165d66e767d66b2285abb3d8.jpg"
         }
     ],
     "links": [],
@@ -85,10 +87,12 @@
         "travel_info": [
             "Tube: Wapping",
             "Train: Wapping",
-            "Bus: 100"
+            "Bus: 100",
+            "Additional travel info: If you are arriving by train, turn left when you leave Wapping Overground Station. The police station is about 300 metres on the left, just past the Capt. Kidd pub."
         ]
     },
     "name": "Thames River Police",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/3165",
     "ticketed_events": false
 }

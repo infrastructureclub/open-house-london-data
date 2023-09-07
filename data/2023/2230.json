@@ -23,6 +23,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -37,6 +38,7 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2230",
             "capacity": null,
             "date": "2023-09-09",
@@ -51,12 +53,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2230",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T11:15:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tours of Union Chapel",
             "notes": null,
             "start": "2023-09-09T10:00:00+01:00",
@@ -65,6 +68,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2230",
             "capacity": null,
             "date": "2023-09-09",
@@ -79,6 +83,7 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2230",
             "capacity": null,
             "date": "2023-09-09",
@@ -93,6 +98,7 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2230",
             "capacity": null,
             "date": "2023-09-09",
@@ -107,12 +113,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2230",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T14:15:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tours of Union Chapel",
             "notes": null,
             "start": "2023-09-09T13:00:00+01:00",
@@ -121,6 +128,7 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2230",
             "capacity": null,
             "date": "2023-09-09",
@@ -197,46 +205,46 @@
     "id": 2230,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_chapel-lights-dusky_209ba30b125586891eb6204ee42a363d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_chapel-lights-dusky_34fe78eb2667d7c597b24e8c21ead8d6.jpg",
             "description": null,
             "title": "During a concert",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_chapel-lights-dusky_209ba30b125586891eb6204ee42a363d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_chapel-lights-dusky_34fe78eb2667d7c597b24e8c21ead8d6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_untitled_59267055d2c69b4836fe97247467a1c2.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_untitled_4d8ee58d149c17fdd644e02eb3d1f856.jpg",
             "description": null,
             "title": "Chapel interior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_untitled_59267055d2c69b4836fe97247467a1c2.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_untitled_4d8ee58d149c17fdd644e02eb3d1f856.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_tower_f9022e0a9c1095e7a39b4690f9eafa5d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_tower_a03604ee815170dae494527ec353b771.jpg",
             "description": null,
             "title": "Tower ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_tower_f9022e0a9c1095e7a39b4690f9eafa5d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_tower_a03604ee815170dae494527ec353b771.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_ucb-11_d937309b809920b136b2c657b4c9e280.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_ucb-11_98d1cac2d69de806e8157e2ff84554ed.jpg",
             "description": null,
             "title": "Rose Window",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_ucb-11_d937309b809920b136b2c657b4c9e280.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_ucb-11_98d1cac2d69de806e8157e2ff84554ed.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_internal-balcony-view_90cc4ae434561c26ae4014cc265586dd.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_internal-balcony-view_9c0c4c1f88d48f03a8258bba4acc3e5a.jpg",
             "description": null,
             "title": "Sunday School Interior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_internal-balcony-view_90cc4ae434561c26ae4014cc265586dd.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_internal-balcony-view_9c0c4c1f88d48f03a8258bba4acc3e5a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_rsz_web_chapel-0935_c84ea7376fa947919f70c16d73243284.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_rsz_web_chapel-0935_dd79f52fa8af0c70123ea65db9bbffe6.jpg",
             "description": null,
             "title": "Chapel Exterior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_rsz_web_chapel-0935_c84ea7376fa947919f70c16d73243284.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_rsz_web_chapel-0935_dd79f52fa8af0c70123ea65db9bbffe6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_kenji-takahashi-ucp-chapel_249_30bf247a11dc1d80a3f972f24233f114.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2230/building_2230_kenji-takahashi-ucp-chapel_249_21c75a906df532982fdc737eab444edd.jpg",
             "description": null,
             "title": "Timber ceiling of the chapel",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_kenji-takahashi-ucp-chapel_249_30bf247a11dc1d80a3f972f24233f114.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2230_kenji-takahashi-ucp-chapel_249_21c75a906df532982fdc737eab444edd.jpg"
         }
     ],
     "links": [],
@@ -248,10 +256,12 @@
         "travel_info": [
             "Tube: Highbury & Islington",
             "Train: Highbury & Islington, King's Cross",
-            "Bus: 4, 19, 30, 43, 271"
+            "Bus: 4, 19, 30, 43, 271",
+            "Additional travel info: We encourage visitors to reach the chapel by public transport or bike. Bike racks are available at Highbury Roundabout or in Upper Street opposite the chapel entrance"
         ]
     },
     "name": "Union Chapel",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2230",
     "ticketed_events": true
 }

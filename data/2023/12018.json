@@ -12,6 +12,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -26,6 +27,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -50,10 +52,10 @@
     "id": 12018,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12018/building_12018_openhouse-img_ce80f9a541af7e8818c95896a70f0057.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12018/building_12018_openhouse-img_a45feb0579101e2bd7f02548c33777e5.jpeg",
             "description": null,
             "title": "Photo by Mark Anthony Fox in House & Garden",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12018_openhouse-img_ce80f9a541af7e8818c95896a70f0057.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12018_openhouse-img_a45feb0579101e2bd7f02548c33777e5.jpeg"
         }
     ],
     "links": [],
@@ -63,10 +65,12 @@
         "longitude": -0.06567,
         "meeting_point": null,
         "travel_info": [
-            "Train: Rectory Road"
+            "Train: Rectory Road",
+            "Additional travel info: 2 minute walk from Rectory Road station"
         ]
     },
     "name": "137 A Evering Road",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12018",
     "ticketed_events": false
 }

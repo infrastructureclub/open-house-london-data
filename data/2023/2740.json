@@ -25,6 +25,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -57,36 +58,38 @@
     "id": 2740,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2740/building_2740_bw-house_d0c387571dbfd21757327efbe82a5faa.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2740/building_2740_bw-house_504c212ebd5f36f86fd96cd68cf0e1a6.jpg",
             "description": null,
             "title": "Bullers Wood House",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2740_bw-house_d0c387571dbfd21757327efbe82a5faa.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2740_bw-house_504c212ebd5f36f86fd96cd68cf0e1a6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2740/building_2740_img_1020_7007cc1db6165a7cd83f9f66ffeadf23.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2740/building_2740_img_1020_a2bd058eec17211913f0cd628e6129ad.jpg",
             "description": null,
             "title": "Bullers Wood House Entrance Hall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2740_img_1020_7007cc1db6165a7cd83f9f66ffeadf23.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2740_img_1020_a2bd058eec17211913f0cd628e6129ad.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2740/building_2740_dsc_0130_c8a66750f17ba6b2720892396e83130d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2740/building_2740_dsc_0130_a8b61910ca6dcd205138668c4e530284.jpg",
             "description": null,
             "title": "Inglewood",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2740_dsc_0130_c8a66750f17ba6b2720892396e83130d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2740_dsc_0130_a8b61910ca6dcd205138668c4e530284.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "St Nicolas Lane, Logs Hill, Chislehurst",
+        "address": "St Nicolas Lane, Logs Hill, Chislehurst, BR7 5LJ",
         "latitude": 51.4082358,
         "longitude": 0.0449388,
         "meeting_point": null,
         "travel_info": [
             "Train: Chislehurst, Elmstead Woods, Bickley",
-            "Bus: 314"
+            "Bus: 314",
+            "Additional travel info: No parking on site (apart from for Blue Badge holders) or on St Nicolas Lane. Please park in nearby roads with consideration for our neighbours and walk in via St Nicolas Lane."
         ]
     },
     "name": "Bullers Wood School for Girls",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2740",
     "ticketed_events": false
 }

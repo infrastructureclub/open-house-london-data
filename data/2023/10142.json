@@ -14,6 +14,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10142",
             "capacity": null,
             "date": "2023-09-09",
@@ -28,20 +29,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10142",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided wallpaper tour",
-            "notes": null,
-            "start": "2023-09-09T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10142",
             "capacity": null,
             "date": "2023-09-09",
@@ -56,6 +44,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10142",
             "capacity": null,
             "date": "2023-09-09",
@@ -70,12 +59,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10142",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T17:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": null,
             "start": "2023-09-09T15:30:00+01:00",
@@ -84,6 +74,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10142",
             "capacity": null,
             "date": "2023-09-16",
@@ -98,12 +89,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10142",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T14:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Costumed Interpretation Tour",
             "notes": null,
             "start": "2023-09-16T13:00:00+01:00",
@@ -112,12 +104,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10142",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T16:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Costumed Interpretation Tour",
             "notes": null,
             "start": "2023-09-16T15:00:00+01:00",
@@ -146,37 +139,39 @@
     "id": 10142,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10142/building_10142_bmh-front_d68ed2c4dcff5c5925c4ff8430039917.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10142/building_10142_bmh-front_51b46ddaf9b9352a4c1e43068bc79fa8.jpg",
             "description": null,
             "title": "Boston Manor House",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10142_bmh-front_d68ed2c4dcff5c5925c4ff8430039917.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10142_bmh-front_51b46ddaf9b9352a4c1e43068bc79fa8.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10142/building_10142_bmh-front-with-lawn_567d8f5fbae10a61ff3edc6ac4c187ef.jfif",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10142/building_10142_bmh-front-with-lawn_e19827cbf4a0f9e4af59efbd780df19e.jfif",
             "description": null,
             "title": "Boston Manor House",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10142_bmh-front-with-lawn_567d8f5fbae10a61ff3edc6ac4c187ef.jfif"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10142_bmh-front-with-lawn_e19827cbf4a0f9e4af59efbd780df19e.jfif"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10142/building_10142_portico-view_7b175f15535c28a8c1ebdb9e40478ae8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10142/building_10142_portico-view_999fec832900435c60d71d0e12234533.jpg",
             "description": null,
             "title": "Boston Manor House portico",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10142_portico-view_7b175f15535c28a8c1ebdb9e40478ae8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10142_portico-view_999fec832900435c60d71d0e12234533.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Boston Manor House, Boston Manor Road",
+        "address": "Boston Manor House, Boston Manor Road, Brentford, TW8 9JX",
         "latitude": 51.49191829999999,
         "longitude": -0.3183739,
         "meeting_point": null,
         "travel_info": [
             "Tube: Boston Manor",
             "Train: Brentford",
-            "Bus: E8, 195, H91"
+            "Bus: E8, 195, H91",
+            "Additional travel info: The cycle superhighway comes by the front of the House. \r\nWe are close to the River Brent, the canal in Brentford and the stretch of the Thames that runs under Kew Bridge."
         ]
     },
     "name": "Boston Manor House",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10142",
     "ticketed_events": true
 }

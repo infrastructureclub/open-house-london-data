@@ -20,12 +20,13 @@
         {
             "activity_type": "Young people",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2013",
             "capacity": null,
             "date": "2023-09-08",
             "drop_in": false,
             "end": "2023-09-08T11:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Building Explorers",
             "notes": null,
             "start": "2023-09-08T10:00:00+01:00",
@@ -34,12 +35,13 @@
         {
             "activity_type": "Young people",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2013",
             "capacity": null,
             "date": "2023-09-08",
             "drop_in": false,
             "end": "2023-09-08T14:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Building Explorers",
             "notes": null,
             "start": "2023-09-08T13:00:00+01:00",
@@ -73,22 +75,22 @@
     "id": 2013,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2013/building_2013_smaller-british-library-aerial-shot-photo-by-tony-antoniou-002_7cb70f9f38fccb9a5cd2b5f1b39eb075.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2013/building_2013_smaller-british-library-aerial-shot-photo-by-tony-antoniou-002_dc0568befd9bf9b703644b2b3c657eb9.jpeg",
             "description": null,
             "title": "View of British Library courtyard",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2013_smaller-british-library-aerial-shot-photo-by-tony-antoniou-002_7cb70f9f38fccb9a5cd2b5f1b39eb075.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2013_smaller-british-library-aerial-shot-photo-by-tony-antoniou-002_dc0568befd9bf9b703644b2b3c657eb9.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2013/building_2013_1_british-library_family-day_220619_bb4d0ece7183d588d243a404ea0e2f50.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2013/building_2013_1_british-library_family-day_220619_0a46d0f1230a054c9c18ae40ece7d755.jpg",
             "description": null,
             "title": "View inside during Family Day",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2013_1_british-library_family-day_220619_bb4d0ece7183d588d243a404ea0e2f50.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2013_1_british-library_family-day_220619_0a46d0f1230a054c9c18ae40ece7d755.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2013/building_2013_3_bl_family-station_low-res_c3de6695ca8bb7e3d476b95fff8090fd.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2013/building_2013_3_bl_family-station_low-res_d9ebfae895e6bceae23e4e808ab19be6.jpg",
             "description": null,
             "title": "Family Station",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2013_3_bl_family-station_low-res_c3de6695ca8bb7e3d476b95fff8090fd.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2013_3_bl_family-station_low-res_d9ebfae895e6bceae23e4e808ab19be6.jpg"
         }
     ],
     "links": [],
@@ -104,6 +106,7 @@
         ]
     },
     "name": "British Library",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2013",
     "ticketed_events": true
 }

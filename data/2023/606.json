@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -64,16 +65,16 @@
     "id": 606,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/606/building_606_hlsi_85fb67a8ce725ecea0774da11510c151.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/606/building_606_hlsi_12a0385ad91bbd026aa3d8d55e7207d2.png",
             "description": null,
             "title": "Highgate Literary and Scientific Institution",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_606_hlsi_85fb67a8ce725ecea0774da11510c151.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_606_hlsi_12a0385ad91bbd026aa3d8d55e7207d2.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/606/building_606_hlsilibrary2a_c7b22417f08123789f744c0e9bdc863d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/606/building_606_hlsilibrary2a_33c45bd6afe57c1a47d274b2f9c7cf9f.jpg",
             "description": null,
             "title": "HLSI Library",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_606_hlsilibrary2a_c7b22417f08123789f744c0e9bdc863d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_606_hlsilibrary2a_33c45bd6afe57c1a47d274b2f9c7cf9f.jpg"
         }
     ],
     "links": [
@@ -89,10 +90,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Highgate, Archway",
-            "Bus: 263, 210, 271, 143"
+            "Bus: 263, 210, 271, 143",
+            "Additional travel info: NOTE TO OPEN HOUSE - I need to delete bus route 271 but it won't let me remove it"
         ]
     },
     "name": "Highgate Literary & Scientific Institution",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/606",
     "ticketed_events": false
 }

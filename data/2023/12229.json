@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "Discover the architecture of the National Portrait Gallery, designed in 1896 by Ewan Christian and now transformed by Jamie Fobert Architects. Meet by the information desk in the Gallery's main hall. Drop-in 9, 10, 16 & 17 Sept, 10.30am",
+    "description": "Discover the architecture of the National Portrait Gallery, designed in 1896 by Ewan Christian and now transformed by Jamie Fobert Architects. Please meet at the Ross Street Entrance. Drop-in 9, 10, 16 & 17 September specific times listed below.",
     "design": {
         "designers": [
             {
@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -35,6 +36,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -49,6 +51,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -63,6 +66,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -96,15 +100,15 @@
     "id": 12229,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12229/building_12229_jamie-fobert-npg-credit-oliver-hess_b679a3f424dee27618af70ca31e2c938.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12229/building_12229_jamie-fobert-npg-credit-oliver-hess_b87614d04197b2ba465e0e32f319f0ed.jpg",
             "description": null,
             "title": "Jamie Fobert outside the new entrance to the Gallery, 2023 (Credit Oliver Hess)",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12229_jamie-fobert-npg-credit-oliver-hess_b679a3f424dee27618af70ca31e2c938.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12229_jamie-fobert-npg-credit-oliver-hess_b87614d04197b2ba465e0e32f319f0ed.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "National Portrait Gallery, St Martin's Place",
+        "address": "National Portrait Gallery, St Martin's Place, WC2H 0HE",
         "latitude": 51.50942,
         "longitude": -0.12812,
         "meeting_point": null,
@@ -115,6 +119,7 @@
         ]
     },
     "name": "National Portrait Gallery Architecture Highlights Tours",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12229",
     "ticketed_events": false
 }

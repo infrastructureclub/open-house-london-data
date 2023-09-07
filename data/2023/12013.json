@@ -14,6 +14,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -67,27 +68,27 @@
     "id": 12013,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12013/building_12013_mt_hall_3-800-x-pixels-1_1f745d91ae20a35ade4647103f6823dc.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12013/building_12013_mt_hall_3-800-x-pixels-1_64844985b079fec5355f1b2f693a5cfc.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12013_mt_hall_3-800-x-pixels-1_1f745d91ae20a35ade4647103f6823dc.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12013_mt_hall_3-800-x-pixels-1_64844985b079fec5355f1b2f693a5cfc.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12013/building_12013__dsc0948-1_51af3478d2904b04ff976339f5333774.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12013/building_12013__dsc0948-1_c9b97506818f624e9a975787b8de2251.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12013__dsc0948-1_51af3478d2904b04ff976339f5333774.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12013__dsc0948-1_c9b97506818f624e9a975787b8de2251.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12013/building_12013_img_3667_05798a00620cf97f7f1bf750c98f7456.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12013/building_12013_img_3667_df83b0e7588a530066e01ff7015c0b47.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12013_img_3667_05798a00620cf97f7f1bf750c98f7456.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12013_img_3667_df83b0e7588a530066e01ff7015c0b47.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Middle Temple, Middle Temple Lane",
+        "address": "Middle Temple, Middle Temple Lane, London EC4Y 6BT, EC4Y 9BT",
         "latitude": 51.5123,
         "longitude": -0.11103,
         "meeting_point": null,
@@ -98,6 +99,7 @@
         ]
     },
     "name": "The Honourable Society of the Middle Temple",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12013",
     "ticketed_events": false
 }

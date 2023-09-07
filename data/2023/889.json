@@ -28,6 +28,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -40,22 +41,9 @@
             "ticketed": false
         },
         {
-            "activity_type": "Talk",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/889",
-            "capacity": null,
-            "date": "2023-09-07",
-            "drop_in": false,
-            "end": "2023-09-07T21:00:00+01:00",
-            "fully_booked": false,
-            "name": "Walking the Visionary London of Emanuel Swedenborg",
-            "notes": null,
-            "start": "2023-09-07T18:30:00+01:00",
-            "ticketed": true
-        },
-        {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/889",
             "capacity": null,
             "date": "2023-09-11",
@@ -70,6 +58,7 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/889",
             "capacity": null,
             "date": "2023-09-13",
@@ -120,43 +109,45 @@
     "id": 889,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/889/building_889_swedenborg-hall_06c07776428148df60a50d27a9c68a8f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/889/building_889_swedenborg-hall_264a007f81a582f8f0af1fd74869529c.jpg",
             "description": null,
             "title": "Swedenborg Hall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_889_swedenborg-hall_06c07776428148df60a50d27a9c68a8f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_889_swedenborg-hall_264a007f81a582f8f0af1fd74869529c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/889/building_889_david-wynter-room_7636bbdf3b2a6f31bc104101c2fff203.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/889/building_889_david-wynter-room_548ffae9d7a67f97019eb7ce0b7b0ff1.jpg",
             "description": null,
             "title": "David Wynter Room",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_889_david-wynter-room_7636bbdf3b2a6f31bc104101c2fff203.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_889_david-wynter-room_548ffae9d7a67f97019eb7ce0b7b0ff1.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/889/building_889_swedenborg-bust_9288c15ad3b1a2dfbe7896e95884398b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/889/building_889_swedenborg-bust_dde974a91567e8107d7a632f566906c0.jpg",
             "description": null,
             "title": "Bust of Swedenborg by Preston Powers (1879)",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_889_swedenborg-bust_9288c15ad3b1a2dfbe7896e95884398b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_889_swedenborg-bust_dde974a91567e8107d7a632f566906c0.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/889/building_889_swedenborg-stained-glass-x_93951d880d0ebb65e6fd64e2a840ef38.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/889/building_889_swedenborg-stained-glass-x_91d98354279294f3b8fc629177cb8112.jpg",
             "description": null,
             "title": "Stained glass window image of Swedenborg, vestibule (detail)",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_889_swedenborg-stained-glass-x_93951d880d0ebb65e6fd64e2a840ef38.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_889_swedenborg-stained-glass-x_91d98354279294f3b8fc629177cb8112.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Swedenborg House, 20-21 Bloomsbury Way",
+        "address": "Swedenborg House, 20-21 Bloomsbury Way, WC1A 2TH",
         "latitude": 51.5180333,
         "longitude": -0.1228486,
         "meeting_point": null,
         "travel_info": [
             "Tube: Holborn, Tottenham Court Road",
             "Train: Euston, Charing Cross, City Thameslink",
-            "Bus: 8, 19, 38, 55"
+            "Bus: 8, 19, 38, 55",
+            "Additional travel info: There is an underground car park beneath nearby Bloomsbury Square."
         ]
     },
     "name": "The Swedenborg Society",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/889",
     "ticketed_events": true
 }

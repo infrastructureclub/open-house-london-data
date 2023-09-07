@@ -20,28 +20,15 @@
     },
     "events": [
         {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": true,
-            "end": "2023-09-09T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Create a fire breathing dragon!",
-            "start": "2023-09-09T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/7736",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T10:40:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": null,
             "start": "2023-09-09T10:00:00+01:00",
@@ -50,6 +37,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/7736",
             "capacity": null,
             "date": "2023-09-09",
@@ -64,6 +52,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/7736",
             "capacity": null,
             "date": "2023-09-09",
@@ -78,6 +67,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/7736",
             "capacity": null,
             "date": "2023-09-09",
@@ -92,6 +82,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/7736",
             "capacity": null,
             "date": "2023-09-09",
@@ -132,28 +123,28 @@
     "id": 7736,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7736/building_7736_21-pp_bf1128beabaaa9245ae46cb70daa7bf0.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7736/building_7736_21-pp_9ff6378fdac34c16758e8e0ada926410.jpg",
             "description": null,
             "title": "Association headquarters view from Portland Place ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7736_21-pp_bf1128beabaaa9245ae46cb70daa7bf0.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7736_21-pp_9ff6378fdac34c16758e8e0ada926410.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7736/building_7736_1844p_27ab455b509a418cc5019d6124918479.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7736/building_7736_1844p_f870f97902628260dd36d582cb88724f.jpg",
             "description": null,
             "title": "Intavent ceiling ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7736_1844p_27ab455b509a418cc5019d6124918479.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7736_1844p_f870f97902628260dd36d582cb88724f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7736/building_7736_1920p_083c59f890a585c16a791af22cab1617.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7736/building_7736_1920p_ae84840a92e2f9a9751feb3f7bcc65d9.jpg",
             "description": null,
             "title": "Wall moulding",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7736_1920p_083c59f890a585c16a791af22cab1617.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7736_1920p_ae84840a92e2f9a9751feb3f7bcc65d9.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7736/building_7736_dsc_2225-hdr_mmp_1078508f1d6d436f8581b0a16f3cd255.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7736/building_7736_dsc_2225-hdr_mmp_f40eb3e7b7620cd1a1b05983f8b876be.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7736_dsc_2225-hdr_mmp_1078508f1d6d436f8581b0a16f3cd255.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7736_dsc_2225-hdr_mmp_f40eb3e7b7620cd1a1b05983f8b876be.jpg"
         }
     ],
     "links": [],
@@ -165,10 +156,12 @@
         "travel_info": [
             "Tube: Warren Street, Regent's Park, Oxford Circus, Bond Street, Great Portland Street",
             "Train: Marylebone, Euston, King's Cross",
-            "Bus: 27, 25, 18, 10, 8, 7, 98, 73, 205, 30, 55, 88, 453"
+            "Bus: 27, 25, 18, 10, 8, 7, 98, 73, 205, 30, 55, 88, 453",
+            "Additional travel info: By bike: There is a Santander Cycles docking station at either end of Portland Place. A complete list of docking stations is available on the Transport for London website. There is bike storage at the museum if you are travelling on your own bike, but please note the storage is accessed via stairs."
         ]
     },
     "name": "The Association of Anaesthetists and Anaesthesia Heritage Centre",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/7736",
     "ticketed_events": true
 }

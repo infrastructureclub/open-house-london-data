@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -48,6 +50,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -98,28 +101,28 @@
     "id": 3745,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3745/building_3745_tower-01_56cb1e62036aed2470cf83a3105e1b28.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3745/building_3745_tower-01_2dfd419a37456c0da5d699501dd428a9.jpg",
             "description": null,
             "title": "Tower View 1",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3745_tower-01_56cb1e62036aed2470cf83a3105e1b28.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3745_tower-01_2dfd419a37456c0da5d699501dd428a9.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3745/building_3745_img022_2ea8be6c0e86b802fc94889c7cb935c5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3745/building_3745_img022_89ddb784acf4b4e1b0433139ebde3a8c.jpg",
             "description": null,
             "title": "South West Elevation",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3745_img022_2ea8be6c0e86b802fc94889c7cb935c5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3745_img022_89ddb784acf4b4e1b0433139ebde3a8c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3745/building_3745_tower-02_3afb40fb1437471f67927566285077b6.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3745/building_3745_tower-02_5b754a5fb0422bad66d32f00d8580bc9.jpg",
             "description": null,
             "title": "Tower View 2",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3745_tower-02_3afb40fb1437471f67927566285077b6.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3745_tower-02_5b754a5fb0422bad66d32f00d8580bc9.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3745/building_3745_tower-03_d8af9e495de36f0e10f544e3c147294a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/3745/building_3745_tower-03_6885b8fd60a90b119e73b7311bb641d3.jpg",
             "description": null,
             "title": "Tower View 3",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3745_tower-03_d8af9e495de36f0e10f544e3c147294a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3745_tower-03_6885b8fd60a90b119e73b7311bb641d3.jpg"
         }
     ],
     "links": [],
@@ -135,6 +138,7 @@
         ]
     },
     "name": "Carshalton Water Tower and Historic Gardens",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/3745",
     "ticketed_events": false
 }

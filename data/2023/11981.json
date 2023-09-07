@@ -14,6 +14,7 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11981",
             "capacity": null,
             "date": "2023-09-17",
@@ -53,22 +54,22 @@
     "id": 11981,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11981/building_11981_image-06-08-2023-at-11-44_1b8fc8095ee7464e7a968f82c48600c6.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11981/building_11981_image-06-08-2023-at-11-44_8993ad48e569de2402bac178cfdcf6a9.jpeg",
             "description": null,
             "title": "Waterlow Court, Hampstead by M.H. Baillie Scott, Architect. From The Studio Yearbook 1910",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11981_image-06-08-2023-at-11-44_1b8fc8095ee7464e7a968f82c48600c6.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11981_image-06-08-2023-at-11-44_8993ad48e569de2402bac178cfdcf6a9.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11981/building_11981_image-06-08-2023-at-11-31_ae8c5ce16018d927784f1e7c4651b8e4.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11981/building_11981_image-06-08-2023-at-11-31_fc048260ef6c0515d71c884da3bf62f1.jpeg",
             "description": null,
             "title": "Credit: https://rarehistoricalphotos.com/london-street-style-edwardian-era-1905-1908/",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11981_image-06-08-2023-at-11-31_ae8c5ce16018d927784f1e7c4651b8e4.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11981_image-06-08-2023-at-11-31_fc048260ef6c0515d71c884da3bf62f1.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11981/building_11981_image-06-08-2023-at-11-53_28c39909cc0d6cedf126351767591715.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11981/building_11981_image-06-08-2023-at-11-53_aebf841a5c3c6bb95c4cffab56fff242.jpeg",
             "description": null,
             "title": "credit:  https://rarehistoricalphotos.com/london-street-style-edwardian-era-1905-1908/",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11981_image-06-08-2023-at-11-53_28c39909cc0d6cedf126351767591715.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11981_image-06-08-2023-at-11-53_aebf841a5c3c6bb95c4cffab56fff242.jpeg"
         }
     ],
     "links": [
@@ -78,16 +79,18 @@
         }
     ],
     "location": {
-        "address": "Parking area adjacent to Golders Hill Park Cafe",
+        "address": "Parking area adjacent to Golders Hill Park Cafe, North End Way",
         "latitude": 51.568,
         "longitude": -0.18483,
         "meeting_point": null,
         "travel_info": [
             "Tube: Hampstead, Golders Green",
-            "Bus: 210"
+            "Bus: 210",
+            "Additional travel info: Our walk will start at the parking area just inside the North End Road entrance to Golders Hill Park, near the cafe.   The park entrance is approximately  a 15 minute walk  from the Golders Green station, or a 5 minute bus ride from Golders Green and a 10 minute bus ride from the Hampstead Underground station."
         ]
     },
     "name": "Homes for working women walking tour",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11981",
     "ticketed_events": true
 }

@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -35,6 +36,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -67,10 +69,10 @@
     "id": 11192,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11192/building_11192_all-saints-church_2f05a38903cdb3031da71df74c72626f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11192/building_11192_all-saints-church_003b531a64004d7e9ba5bacfdaa24d47.jpg",
             "description": null,
             "title": "view from Church Road ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11192_all-saints-church_2f05a38903cdb3031da71df74c72626f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11192_all-saints-church_003b531a64004d7e9ba5bacfdaa24d47.jpg"
         }
     ],
     "links": [],
@@ -81,10 +83,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: West Norwood, Norwood Junction, Crystal Palace",
-            "Bus: 468, 196, 249"
+            "Bus: 468, 196, 249",
+            "Additional travel info: Parking available in Church Yard\r\nbuses stop right outside the Church"
         ]
     },
     "name": "All Saints Church",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11192",
     "ticketed_events": false
 }

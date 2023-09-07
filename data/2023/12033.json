@@ -14,6 +14,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -28,6 +29,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -42,6 +44,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -69,10 +72,10 @@
     "id": 12033,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12033/building_12033_img_20210923_100435-open-house_3dee07f4cb91df9aea2722869fd7c908.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12033/building_12033_img_20210923_100435-open-house_1286b6ea860347f62b57d40198a68c7d.jpg",
             "description": null,
             "title": "View from the mezzanine level looking down the workshop",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12033_img_20210923_100435-open-house_3dee07f4cb91df9aea2722869fd7c908.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12033_img_20210923_100435-open-house_1286b6ea860347f62b57d40198a68c7d.jpg"
         }
     ],
     "links": [],
@@ -88,6 +91,7 @@
         ]
     },
     "name": "The Building Crafts College, Kennard Road, Stratford",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12033",
     "ticketed_events": false
 }

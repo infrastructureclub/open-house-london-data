@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -36,6 +37,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -50,6 +52,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -64,6 +67,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -91,27 +95,27 @@
     "id": 1983,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1983/building_1983_20220614_gcs_0163-copy_dbecfaa716150f1ff93cc532839743d9.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1983/building_1983_20220614_gcs_0163-copy_34926de7b4c3dcf603acf9ff3c90af46.jpg",
             "description": null,
             "title": "View from St. Paul's Churchyard",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1983_20220614_gcs_0163-copy_dbecfaa716150f1ff93cc532839743d9.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1983_20220614_gcs_0163-copy_34926de7b4c3dcf603acf9ff3c90af46.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1983/building_1983_20220607_gcs_0033-copy_2fa0f559e430be129ed04fc7b40ae524.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1983/building_1983_20220607_gcs_0033-copy_c20cbb8f2e9e20dd4bf2b34aae6db486.jpg",
             "description": null,
             "title": "View of Temple Bar and St. Paul's Cathedral from Temple Bar",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1983_20220607_gcs_0033-copy_2fa0f559e430be129ed04fc7b40ae524.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1983_20220607_gcs_0033-copy_c20cbb8f2e9e20dd4bf2b34aae6db486.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1983/building_1983_20220614_gcs_0150-copy_f4196673fc892338677740f0554d126d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1983/building_1983_20220614_gcs_0150-copy_af760b38381babfc7ba962a336199cfb.jpg",
             "description": null,
             "title": "View from St. Paul's Churchyard of Temple Bar and the Chapter House",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1983_20220614_gcs_0150-copy_f4196673fc892338677740f0554d126d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1983_20220614_gcs_0150-copy_af760b38381babfc7ba962a336199cfb.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "First Floor, Paternoster Lodge",
+        "address": "First Floor, Paternoster Lodge, 2 Paternoster Square, EC4M 7DX",
         "latitude": 51.5142882,
         "longitude": -0.0993242,
         "meeting_point": null,
@@ -122,6 +126,7 @@
         ]
     },
     "name": "Temple Bar",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1983",
     "ticketed_events": false
 }

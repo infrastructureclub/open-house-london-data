@@ -24,6 +24,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -64,21 +65,21 @@
     "id": 10880,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10880/building_10880_08410006_83bac55177fcf9c0ef0818aaba7fcc48.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10880/building_10880_08410006_98023eef9a86a13deb4adadfbc9a6538.jpg",
             "description": null,
             "title": "9 Fitzroy Square front",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10880_08410006_83bac55177fcf9c0ef0818aaba7fcc48.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10880_08410006_98023eef9a86a13deb4adadfbc9a6538.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10880/building_10880_9fitzroy1_0b360fc2fadfae21e17f84132a5fe986.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10880/building_10880_9fitzroy1_25aa03f7edf8847a8465639dd711b738.jpg",
             "description": null,
             "title": "9 Fitzroy Square from north side",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10880_9fitzroy1_0b360fc2fadfae21e17f84132a5fe986.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10880_9fitzroy1_25aa03f7edf8847a8465639dd711b738.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "British Cardiovascular Society",
+        "address": "British Cardiovascular Society, 9 Fitzroy Square, W1T 5HW",
         "latitude": 51.52359629999999,
         "longitude": -0.1398657,
         "meeting_point": null,
@@ -89,6 +90,7 @@
         ]
     },
     "name": "British Cardiovascular Society",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10880",
     "ticketed_events": false
 }

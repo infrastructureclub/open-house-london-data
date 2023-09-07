@@ -24,6 +24,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -38,6 +39,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -79,27 +81,27 @@
     "id": 11324,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11324/building_11324_london-scottish-house-image-1_31cf74acd5462015e0a484339ecc4463.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11324/building_11324_london-scottish-house-image-1_0c443ccce6b0978cbdd4d3fc960bb59a.jpeg",
             "description": null,
             "title": "View from the top floor balcony inside the drill hall ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11324_london-scottish-house-image-1_31cf74acd5462015e0a484339ecc4463.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11324_london-scottish-house-image-1_0c443ccce6b0978cbdd4d3fc960bb59a.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11324/building_11324_london-scottish-house-image-2_270e603e6e976ad755336fe48a022537.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11324/building_11324_london-scottish-house-image-2_af3035e68835ca0c4b94c9cd395ace66.jpeg",
             "description": null,
             "title": "View of the original 1886 Portico on the drill hall floor",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11324_london-scottish-house-image-2_270e603e6e976ad755336fe48a022537.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11324_london-scottish-house-image-2_af3035e68835ca0c4b94c9cd395ace66.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11324/building_11324_london-scottish-house-image-3_6934349101b9cde2781c724ce871e4b1.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11324/building_11324_london-scottish-house-image-3_2558d036a0cc4547832b2ef904fe7ca4.jpeg",
             "description": null,
             "title": "View from the Drill Hall floor showing the WW1 memorial, restored balconies and wrought iron and glass roof",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11324_london-scottish-house-image-3_6934349101b9cde2781c724ce871e4b1.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11324_london-scottish-house-image-3_2558d036a0cc4547832b2ef904fe7ca4.jpeg"
         }
     ],
     "links": [],
     "location": {
-        "address": "London Scottish House, 95 Horseferry Road",
+        "address": "London Scottish House, 95 Horseferry Road, Westminster, SW1P 2DX",
         "latitude": 51.4952653,
         "longitude": -0.1331912,
         "meeting_point": null,
@@ -110,6 +112,7 @@
         ]
     },
     "name": "London Scottish House (London Scottish Regimental Headquarters)",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11324",
     "ticketed_events": false
 }

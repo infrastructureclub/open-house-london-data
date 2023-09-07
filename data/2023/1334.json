@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -71,34 +73,34 @@
     "id": 1334,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1334/building_1334_dscf8946_f792dced6993e82a84ec0d518f54736e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1334/building_1334_dscf8946_c8d0aa4e8eca6cef3ff76cb0f5c49d08.jpg",
             "description": null,
             "title": "Opening Roof",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf8946_f792dced6993e82a84ec0d518f54736e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf8946_c8d0aa4e8eca6cef3ff76cb0f5c49d08.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1334/building_1334_dscf8863_758806b21ac600f87b7938a0d0a6746f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1334/building_1334_dscf8863_570fdc258d1d5dc794526ab2fd9a985e.jpg",
             "description": null,
             "title": "Fire",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf8863_758806b21ac600f87b7938a0d0a6746f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf8863_570fdc258d1d5dc794526ab2fd9a985e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1334/building_1334_dscf8919_22ec1303477532a20a49040968c4862d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1334/building_1334_dscf8919_9826a947726bc393c50b93bf9c26e948.jpg",
             "description": null,
             "title": "Cherry Wood Bath",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf8919_22ec1303477532a20a49040968c4862d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf8919_9826a947726bc393c50b93bf9c26e948.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1334/building_1334_dscf8938_f70d3664bd5f44420e42322474aa3e67.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1334/building_1334_dscf8938_485c603591c597e264e34484739cac5e.jpg",
             "description": null,
             "title": "Atrium with Opening Roof",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf8938_f70d3664bd5f44420e42322474aa3e67.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf8938_485c603591c597e264e34484739cac5e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1334/building_1334_dscf0899_d93da40c92973c38b9366dbf3b15bcd1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1334/building_1334_dscf0899_e98d0db6b49385be3fa9dd61677e7ae9.jpg",
             "description": null,
             "title": "Bathroom from Bedroom",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf0899_d93da40c92973c38b9366dbf3b15bcd1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1334_dscf0899_e98d0db6b49385be3fa9dd61677e7ae9.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1334/building_1334_dscf0937_4cf718d855b53e17c9ff2c375b9be526.jpg",
@@ -122,10 +124,12 @@
         "travel_info": [
             "Tube: Farringdon",
             "Train: Farringdon",
-            "Bus: 40, 341, 55, 243, 153, 63"
+            "Bus: 40, 341, 55, 243, 153, 63",
+            "Additional travel info: There is a Santander bike station in Clerkenwell Green directly opposite the house"
         ]
     },
     "name": "Paxton Locher House",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1334",
     "ticketed_events": false
 }

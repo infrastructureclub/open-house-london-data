@@ -15,6 +15,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10076",
             "capacity": null,
             "date": "2023-09-16",
@@ -67,16 +68,16 @@
     "id": 10076,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10076/building_10076_tour_ww_10_7db84762ca7d8133363faa56833cf9b8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10076/building_10076_tour_ww_10_10903fdeba6d046aedc47895331ac102.jpg",
             "description": null,
             "title": "House in Walters Way",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10076_tour_ww_10_7db84762ca7d8133363faa56833cf9b8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10076_tour_ww_10_10903fdeba6d046aedc47895331ac102.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10076/building_10076_tour_afril_shelter2_afff7ab77147e36e1886b0a539824e37.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10076/building_10076_tour_afril_shelter2_eb42a264f9b14ed35a0125f2aceceb99.jpg",
             "description": null,
             "title": "Afril Pavillon",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10076_tour_afril_shelter2_afff7ab77147e36e1886b0a539824e37.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10076_tour_afril_shelter2_eb42a264f9b14ed35a0125f2aceceb99.jpg"
         }
     ],
     "links": [
@@ -96,10 +97,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Honor Oak Park",
-            "Bus: P4, P12"
+            "Bus: P4, P12",
+            "Additional travel info: No Parking in Walters Way, park on the main road\r\nBicycles can be brought into street."
         ]
     },
     "name": "Walter Segal buildings tour",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10076",
     "ticketed_events": true
 }

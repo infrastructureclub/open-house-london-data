@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -48,10 +49,10 @@
     "id": 1741,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1741/building_1741_twick-museum_5390371f52124d8fed6a2ade69b705de.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1741/building_1741_twick-museum_c54a903070b20e254eb7ee68226d0f51.jpg",
             "description": null,
             "title": "Copyright Twickenham Museum 2023",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1741_twick-museum_5390371f52124d8fed6a2ade69b705de.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1741_twick-museum_c54a903070b20e254eb7ee68226d0f51.jpg"
         }
     ],
     "links": [],
@@ -63,10 +64,12 @@
         "travel_info": [
             "Tube: Richmond",
             "Train: Twickenham",
-            "Bus: 33, 281, 267, H22, R68, R70, 290, 490"
+            "Bus: 33, 281, 267, H22, R68, R70, 290, 490",
+            "Additional travel info: Walking distance from nearest bus stop: 3-5 minutes. Trains stations also at Richmond and St Margaret's."
         ]
     },
     "name": "Twickenham Museum",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/1741",
     "ticketed_events": false
 }

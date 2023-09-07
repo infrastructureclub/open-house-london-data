@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -34,40 +35,13 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11347",
-            "capacity": null,
-            "date": "2023-09-06",
-            "drop_in": false,
-            "end": "2023-09-06T16:00:00+01:00",
-            "fully_booked": true,
-            "name": "Free Design Surgery (online or in studio)",
-            "notes": null,
-            "start": "2023-09-06T09:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11347",
-            "capacity": null,
-            "date": "2023-09-07",
-            "drop_in": false,
-            "end": "2023-09-07T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Free Design Surgery (online or in studio)",
-            "notes": null,
-            "start": "2023-09-07T09:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11347",
             "capacity": null,
             "date": "2023-09-08",
             "drop_in": false,
             "end": "2023-09-08T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Free Design Surgery (online or in studio)",
             "notes": null,
             "start": "2023-09-08T09:30:00+01:00",
@@ -76,12 +50,13 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11347",
             "capacity": null,
             "date": "2023-09-11",
             "drop_in": false,
             "end": "2023-09-11T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Free Design Surgery (online or in studio)",
             "notes": null,
             "start": "2023-09-11T09:30:00+01:00",
@@ -90,6 +65,7 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11347",
             "capacity": null,
             "date": "2023-09-12",
@@ -104,6 +80,7 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11347",
             "capacity": null,
             "date": "2023-09-13",
@@ -118,6 +95,7 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11347",
             "capacity": null,
             "date": "2023-09-14",
@@ -132,12 +110,13 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11347",
             "capacity": null,
             "date": "2023-09-15",
             "drop_in": false,
             "end": "2023-09-15T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Free Design Surgery (online or in studio)",
             "notes": null,
             "start": "2023-09-15T09:30:00+01:00",
@@ -146,12 +125,13 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11347",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Free Design Surgery (online or in studio)",
             "notes": null,
             "start": "2023-09-16T09:30:00+01:00",
@@ -198,34 +178,34 @@
     "id": 11347,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11347/building_11347_oh_678a-55_cropped_cdb534873328717ef20cbfbf20f3a798.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11347/building_11347_oh_678a-55_cropped_c9c51ae499f1ec4ab9b205ed11aafd9d.jpg",
             "description": null,
             "title": "Latimer Road, London",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11347_oh_678a-55_cropped_cdb534873328717ef20cbfbf20f3a798.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11347_oh_678a-55_cropped_c9c51ae499f1ec4ab9b205ed11aafd9d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11347/building_11347_latimer-road_poroban_oh_678a-467_9a97c1a99984d8aff77b24b0099e57fa.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11347/building_11347_latimer-road_poroban_oh_678a-467_c98d221b46cf685524c3fd36a00dcc7d.jpg",
             "description": null,
             "title": "Latimer Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11347_latimer-road_poroban_oh_678a-467_9a97c1a99984d8aff77b24b0099e57fa.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11347_latimer-road_poroban_oh_678a-467_c98d221b46cf685524c3fd36a00dcc7d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11347/building_11347_latimer-road_poroban_oh_678a-205_915f58a24d7a4779a0795bbcf0ca5e33.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11347/building_11347_latimer-road_poroban_oh_678a-205_d116d7a3a9210909aefb21f222352f29.jpg",
             "description": null,
             "title": "Latimer Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11347_latimer-road_poroban_oh_678a-205_915f58a24d7a4779a0795bbcf0ca5e33.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11347_latimer-road_poroban_oh_678a-205_d116d7a3a9210909aefb21f222352f29.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11347/building_11347_028_south-elevation_750da779e691ad051e3ed4948ac1f3aa.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11347/building_11347_028_south-elevation_c3143e85ab1d93c4af5f5364f94a1cda.jpg",
             "description": null,
             "title": "The Avenue, London",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11347_028_south-elevation_750da779e691ad051e3ed4948ac1f3aa.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11347_028_south-elevation_c3143e85ab1d93c4af5f5364f94a1cda.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11347/building_11347_poroban_olliehammick_external_1_363b2da8aa37f5dcff3da5bc1a36a5db.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11347/building_11347_poroban_olliehammick_external_1_f635ea46a300e8aaee3267f18634cd29.jpg",
             "description": null,
             "title": "Grange Gardens, London",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11347_poroban_olliehammick_external_1_363b2da8aa37f5dcff3da5bc1a36a5db.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11347_poroban_olliehammick_external_1_f635ea46a300e8aaee3267f18634cd29.jpg"
         }
     ],
     "links": [
@@ -250,6 +230,7 @@
         ]
     },
     "name": "Poroban studio",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11347",
     "ticketed_events": true
 }

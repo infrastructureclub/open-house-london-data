@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -63,16 +64,16 @@
     "id": 1297,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1297/building_1297_pullman-court_39eec4cf7fc98bbc7b6b776ed1ed9914.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1297/building_1297_pullman-court_9c1c7ceef52806f76c8660c7089c3d6d.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1297_pullman-court_39eec4cf7fc98bbc7b6b776ed1ed9914.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1297_pullman-court_9c1c7ceef52806f76c8660c7089c3d6d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1297/building_1297_screen-shot-2019-03-18-at-13-55-41_436ce5bc46c8be8157b7d110c4f4cd6f.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1297/building_1297_screen-shot-2019-03-18-at-13-55-41_c25772d0abd8d173da5a8cefb84b1a83.png",
             "description": null,
             "title": "Pullman Court",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1297_screen-shot-2019-03-18-at-13-55-41_436ce5bc46c8be8157b7d110c4f4cd6f.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1297_screen-shot-2019-03-18-at-13-55-41_c25772d0abd8d173da5a8cefb84b1a83.png"
         }
     ],
     "links": [],
@@ -88,6 +89,7 @@
         ]
     },
     "name": "Pullman Court",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1297",
     "ticketed_events": false
 }

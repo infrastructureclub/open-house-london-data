@@ -14,6 +14,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -28,6 +29,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -42,6 +44,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -56,6 +59,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -91,16 +95,40 @@
     "id": 11914,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_chocolate-factory-2_55afd6c363fded0c69f320272eba6c69.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_chocolate-factory-2_07ae39d893f8e1ea3fe21ceb7dc78d1d.jpg",
             "description": null,
             "title": "The Chocolate Factory",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11914_chocolate-factory-2_55afd6c363fded0c69f320272eba6c69.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11914_chocolate-factory-2_07ae39d893f8e1ea3fe21ceb7dc78d1d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_chocolate-factory_23fa0b2e85ab3926cda5c42d71e90154.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_chocolate-factory_badd73a81bc3261b981b2d7c35667a80.jpg",
             "description": null,
             "title": "The Chocolate Factory",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11914_chocolate-factory_23fa0b2e85ab3926cda5c42d71e90154.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11914_chocolate-factory_badd73a81bc3261b981b2d7c35667a80.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_ec411e5d-2cf6-4098-b4e1-6480b7334d21_da0a5c8ac753153436a13c1aaa693a13.jpg",
+            "description": null,
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11914_ec411e5d-2cf6-4098-b4e1-6480b7334d21_da0a5c8ac753153436a13c1aaa693a13.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_b0215e48-00e7-4522-84ba-04edfc0d5da9-1_11a63b371c451f8ae5c94c92d2a5f045.jpg",
+            "description": null,
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11914_b0215e48-00e7-4522-84ba-04edfc0d5da9-1_11a63b371c451f8ae5c94c92d2a5f045.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_3f0aa21d-2421-415c-bae7-bffada3d4cc9_7a2b9fbf3c475e322ae397de0e1c798f.jpg",
+            "description": null,
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11914_3f0aa21d-2421-415c-bae7-bffada3d4cc9_7a2b9fbf3c475e322ae397de0e1c798f.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_img_5725_07c6314906953a3569fb34143533e81f.jpg",
+            "description": null,
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11914_img_5725_07c6314906953a3569fb34143533e81f.jpg"
         }
     ],
     "links": [
@@ -110,17 +138,19 @@
         }
     ],
     "location": {
-        "address": "Floor D and E, 9B Queens Yard, Hackney Wick",
+        "address": "Floor D and E, 9B Queens Yard, Hackney Wick, E9 5EN",
         "latitude": 51.5430381,
         "longitude": -0.023148,
         "meeting_point": null,
         "travel_info": [
             "Tube: Stratford",
             "Train: Hackney Wick",
-            "Bus: 30"
+            "Bus: 30",
+            "Additional travel info: Hackney Wick can also be reached via walking across a pedestrian bridge from Victoria Park."
         ]
     },
     "name": "Mother X Artists and Makers Open Studios",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11914",
     "ticketed_events": false
 }

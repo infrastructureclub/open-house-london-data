@@ -20,6 +20,7 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12166",
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12166",
             "capacity": null,
             "date": "2023-09-16",
@@ -64,24 +66,26 @@
     "id": 12166,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12166/building_12166_open_4340fc31886dcb038c0fa4527a21846a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12166/building_12166_open_0bbee0d7a2d9b4d5c70c2b0ff638f1c6.jpg",
             "description": null,
             "title": "Clay workshop",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12166_open_4340fc31886dcb038c0fa4527a21846a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12166_open_0bbee0d7a2d9b4d5c70c2b0ff638f1c6.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Bethlem Gallery, Monks Orchard Road, Beckenham",
+        "address": "Bethlem Gallery, Monks Orchard Road, Beckenham, BR3 3BX",
         "latitude": 51.38084,
         "longitude": -0.02937,
         "meeting_point": null,
         "travel_info": [
             "Train: Eden Park",
-            "Bus: 356"
+            "Bus: 356",
+            "Additional travel info: The Gallery is centrally located on the site of Bethlem Royal Hospital, which is a 10-15 minute walk from Eden Park station. The 356 bus stops opposite the main gates of the Hospital."
         ]
     },
     "name": "Bethlem Gallery clay workshops",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12166",
     "ticketed_events": true
 }

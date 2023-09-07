@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -35,6 +36,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -49,6 +51,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6960",
             "capacity": null,
             "date": "2023-09-09",
@@ -63,12 +66,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6960",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T12:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided tour",
             "notes": null,
             "start": "2023-09-09T11:30:00+01:00",
@@ -77,6 +81,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6960",
             "capacity": null,
             "date": "2023-09-09",
@@ -91,12 +96,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6960",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T15:15:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided tour",
             "notes": null,
             "start": "2023-09-09T14:15:00+01:00",
@@ -105,6 +111,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6960",
             "capacity": null,
             "date": "2023-09-16",
@@ -119,6 +126,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6960",
             "capacity": null,
             "date": "2023-09-16",
@@ -133,12 +141,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6960",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T15:15:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided tour",
             "notes": null,
             "start": "2023-09-16T14:15:00+01:00",
@@ -177,22 +186,22 @@
     "id": 6960,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6960/building_6960_guildhall_4ca900a44cd083a12694a7386a78dc66.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6960/building_6960_guildhall_3e073ba99bdc80d0a406bfa78bbaff7b.jpg",
             "description": null,
             "title": "Guildhall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6960_guildhall_4ca900a44cd083a12694a7386a78dc66.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6960_guildhall_3e073ba99bdc80d0a406bfa78bbaff7b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6960/building_6960_k1-1196_53f34d66040321b4efb90a9c6e0b90df.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6960/building_6960_k1-1196_a1ee603b90588c2b520f4cba751856dd.jpg",
             "description": null,
             "title": "Guildhall from the air ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6960_k1-1196_53f34d66040321b4efb90a9c6e0b90df.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6960_k1-1196_a1ee603b90588c2b520f4cba751856dd.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6960/building_6960_kingston-history-centre_1fcc4ad942c8fe2699c477d3015f8cce.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6960/building_6960_kingston-history-centre_d856d4c280c06b96dfadc3d8cf45b4aa.jpg",
             "description": null,
             "title": "Kingston History Centre",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6960_kingston-history-centre_1fcc4ad942c8fe2699c477d3015f8cce.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6960_kingston-history-centre_d856d4c280c06b96dfadc3d8cf45b4aa.jpg"
         }
     ],
     "links": [],
@@ -203,10 +212,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Kingston",
-            "Bus: K4, K1, 85, 465, 371"
+            "Bus: K4, K1, 85, 465, 371",
+            "Additional travel info: Access is via History Centre door at rear of the building"
         ]
     },
     "name": "Kingston Guildhall and History Centre",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6960",
     "ticketed_events": true
 }

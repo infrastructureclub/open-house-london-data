@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -63,40 +64,40 @@
     "id": 4777,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4777/building_4777_her2011non00bur007-philipvileafter_0458_3226c7820a7ccefdd6fd05ae5cf2b58b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4777/building_4777_her2011non00bur007-philipvileafter_0458_a9ac39d7085d6136e6645b9e298eb496.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4777_her2011non00bur007-philipvileafter_0458_3226c7820a7ccefdd6fd05ae5cf2b58b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4777_her2011non00bur007-philipvileafter_0458_a9ac39d7085d6136e6645b9e298eb496.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4777/building_4777_her2011non00bur004-burtonmausoleumcompletejpg_6f487aa4fb025b039e941ff2e0efb670.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4777/building_4777_her2011non00bur004-burtonmausoleumcompletejpg_46210dbf15cfc247f0a911803fbdc57d.jpg",
             "description": null,
             "title": "Burton's Mausoleum",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4777_her2011non00bur004-burtonmausoleumcompletejpg_6f487aa4fb025b039e941ff2e0efb670.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4777_her2011non00bur004-burtonmausoleumcompletejpg_46210dbf15cfc247f0a911803fbdc57d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4777/building_4777__ajb3008_7a449a6d7acbed68826855e69a7ec2d3.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4777/building_4777__ajb3008_e096847900192bc92de7ae5ad8c277cb.jpg",
             "description": null,
             "title": "Alter after restoration",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4777__ajb3008_7a449a6d7acbed68826855e69a7ec2d3.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4777__ajb3008_e096847900192bc92de7ae5ad8c277cb.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4777/building_4777__ajb2991_2283ea0d72233ece56a3959baa17fef1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4777/building_4777__ajb2991_6087a85e0724fb03e412e04b3dd0426b.jpg",
             "description": null,
             "title": "Camel Bells (restored in 2010)",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4777__ajb2991_2283ea0d72233ece56a3959baa17fef1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4777__ajb2991_6087a85e0724fb03e412e04b3dd0426b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4777/building_4777__ajb1051_a48e191a1d1384ed2cd4971096cd0eb4.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4777/building_4777__ajb1051_330c92ad54e93bc41f8c2a7a1ac3fef4.jpg",
             "description": null,
             "title": "Crucifix before restoration",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4777__ajb1051_a48e191a1d1384ed2cd4971096cd0eb4.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4777__ajb1051_330c92ad54e93bc41f8c2a7a1ac3fef4.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4777/building_4777__ajb0886_20d528f1031aa4864f083bc0fa5429ab.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4777/building_4777__ajb0886_3ab04e087b7202cf5e857239a0a1de63.jpg",
             "description": null,
             "title": "Sir Richard Burton's coffin before restoration",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4777__ajb0886_20d528f1031aa4864f083bc0fa5429ab.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4777__ajb0886_3ab04e087b7202cf5e857239a0a1de63.jpg"
         }
     ],
     "links": [
@@ -106,17 +107,19 @@
         }
     ],
     "location": {
-        "address": "St Mary Magdalen's RC Church",
+        "address": "St Mary Magdalen's RC Church, 61 North Worple Way, Mortlake, SW14 8PR",
         "latitude": 51.467833,
         "longitude": -0.2616901,
         "meeting_point": null,
         "travel_info": [
             "Tube: Richmond",
             "Train: Mortlake",
-            "Bus: 419, 209, 33, 337, 493, 485"
+            "Bus: 419, 209, 33, 337, 493, 485",
+            "Additional travel info: Frequent buses from Richmond station"
         ]
     },
     "name": "Burton Mausoleum",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/4777",
     "ticketed_events": false
 }

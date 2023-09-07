@@ -25,6 +25,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11974",
             "capacity": null,
             "date": "2023-09-16",
@@ -76,10 +77,10 @@
     "id": 11974,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11974/building_11974_beige-collage-morning-coffee-instagram-post-2_0050f393642c514ee593abc6cf1cf265.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11974/building_11974_beige-collage-morning-coffee-instagram-post-2_f650bce45572ff16c7c2bf2f94b762ce.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11974_beige-collage-morning-coffee-instagram-post-2_0050f393642c514ee593abc6cf1cf265.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11974_beige-collage-morning-coffee-instagram-post-2_f650bce45572ff16c7c2bf2f94b762ce.png"
         }
     ],
     "links": [
@@ -96,10 +97,12 @@
         "travel_info": [
             "Tube: Belsize Park",
             "Train: Hampstead Heath",
-            "Bus: 46, 24, 168"
+            "Bus: 46, 24, 168",
+            "Additional travel info: We will meet at the edge of the Heath, across the street(South Hill Park) from Hampstead Heath Station(London Overground)."
         ]
     },
     "name": "Architects’ Houses of Hampstead Walking Tour",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11974",
     "ticketed_events": true
 }

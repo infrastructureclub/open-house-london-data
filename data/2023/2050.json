@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -36,6 +37,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -76,28 +78,28 @@
     "id": 2050,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2050/building_2050_wp_20180923_15_30_00_pro_b0d49994de31d1764c50f4d208861f24.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2050/building_2050_wp_20180923_15_30_00_pro_e6668c28c648c997e636b64d0113c3a8.jpg",
             "description": null,
             "title": "Visitors in the Barn ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2050_wp_20180923_15_30_00_pro_b0d49994de31d1764c50f4d208861f24.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2050_wp_20180923_15_30_00_pro_e6668c28c648c997e636b64d0113c3a8.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2050/building_2050_dp170255_a723906b4963fd7ca3985a1e0f07a850.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2050/building_2050_dp170255_d8506c61fe59198af30a6c96388049e0.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2050_dp170255_a723906b4963fd7ca3985a1e0f07a850.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2050_dp170255_d8506c61fe59198af30a6c96388049e0.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2050/building_2050_dp170257_5d966a00186a21b69d91e3f16385b493.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2050/building_2050_dp170257_7d08225e04b0effa88848f954dccb108.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2050_dp170257_5d966a00186a21b69d91e3f16385b493.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2050_dp170257_7d08225e04b0effa88848f954dccb108.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2050/building_2050_img_0529_03c300c18dbccf4cd27b767cf31b4003.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2050/building_2050_img_0529_c0841e7af1022f965717b1382883a101.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2050_img_0529_03c300c18dbccf4cd27b767cf31b4003.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2050_img_0529_c0841e7af1022f965717b1382883a101.jpg"
         }
     ],
     "links": [
@@ -107,17 +109,19 @@
         }
     ],
     "location": {
-        "address": "Manor Court, High Street, Harmondsworth",
+        "address": "Manor Court, High Street, Harmondsworth, UB7 0AQ",
         "latitude": 51.4886271,
         "longitude": -0.4796831,
         "meeting_point": null,
         "travel_info": [
             "Tube: Heathrow Terminals 1 2 3",
             "Train: West Drayton",
-            "Bus: 350, U3"
+            "Bus: 350, U3",
+            "Additional travel info: Free parking on site"
         ]
     },
     "name": "The Great Barn, Harmondsworth",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2050",
     "ticketed_events": false
 }

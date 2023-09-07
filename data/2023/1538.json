@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "Numbered amongst the UK's architectural glories and boasting 66 acres of beautiful grounds, the Royal Hospital Chelsea has been home to the iconic Army veteran community fondly known as the 'Chelsea Pensioners' since its foundation in 1692.",
+    "description": "Numbered amongst the UK's architectural glories and boasting 66 acres of beautiful grounds, the Royal Hospital Chelsea has been home to the iconic Army veteran community fondly known as the 'Chelsea Pensioners' since its foundation in 1692. \r\nThe Great Hall and Chapel will not be accessible from 12.00-14.00 on Saturday 16th September due to an internal event. The remainder of the site will be open during this time. \r\n\r\nVisitors should note that filming will be taking place during the afternoon of Sunday 17th September. If you would like to be excluded from any filming, please let our staff and volunteers know on arrival at the site.",
     "design": {
         "designers": [
             {
@@ -54,8 +54,9 @@
     },
     "events": [
         {
-            "activity_type": "Walking Tour",
+            "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1538",
             "capacity": null,
             "date": "2023-09-16",
@@ -68,14 +69,15 @@
             "ticketed": true
         },
         {
-            "activity_type": "Walking Tour",
+            "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1538",
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": false,
             "end": "2023-09-17T17:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Open Day, with Chelsea Pensioner guides",
             "notes": null,
             "start": "2023-09-17T14:00:00+01:00",
@@ -203,6 +205,13 @@
                 "The North-East Wing took a direct hit from a V2 rocket and was completely destroyed: many surrounding buildings were also significantly damaged. Five people from the Royal Hospital lost their lives as a result of this attack and 19 others were injured. Chelsea Pensioners were temporarily accommodated in Sloane Gardens, sent on leave or evacuated.",
                 "Many of today’s cohort of Chelsea Pensioners served on the front line during the Second World War."
             ]
+        },
+        {
+            "heading": "Logistics",
+            "paragraphs": [
+                "The Great Hall and Chapel will not be accessible from 12.00-14.00 on Saturday 16th September due to an internal event. The remainder of the site will be open during this time.",
+                "Visitors should note that filming will be taking place during the afternoon of Sunday 17th September. If you would like to be excluded from any filming, please let our staff and volunteers know on arrival at the site."
+            ]
         }
     ],
     "id": 1538,
@@ -220,40 +229,40 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538_rhc-grounds-shoot-feb-2018-feb-2018-20_aee188345b39a25df3468b56cba569ef.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1538/building_1538_rhc-grounds-shoot-feb-2018-feb-2018-85_71d00f66935807b577c88e5a5ac18fae.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1538/building_1538_rhc-grounds-shoot-feb-2018-feb-2018-85_0f299d41c34fa0de5cc415d8024f3e88.jpg",
             "description": null,
             "title": "Colonnade",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538_rhc-grounds-shoot-feb-2018-feb-2018-85_71d00f66935807b577c88e5a5ac18fae.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538_rhc-grounds-shoot-feb-2018-feb-2018-85_0f299d41c34fa0de5cc415d8024f3e88.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1538/building_1538__dsc7791-1_9492c9abf638217e052d1f2b956a8510.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1538/building_1538__dsc7791-1_0475c706daefc327adabf1519924f547.jpg",
             "description": null,
             "title": "Founder's Day",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538__dsc7791-1_9492c9abf638217e052d1f2b956a8510.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538__dsc7791-1_0475c706daefc327adabf1519924f547.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1538/building_1538_webp-net-resizeimage-2_1eed119e6995c5d792b7a6a54924c247.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1538/building_1538_webp-net-resizeimage-2_3329e8a48044a61d7fe3eadb34eff1dc.jpg",
             "description": null,
             "title": "The Great Hall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538_webp-net-resizeimage-2_1eed119e6995c5d792b7a6a54924c247.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538_webp-net-resizeimage-2_3329e8a48044a61d7fe3eadb34eff1dc.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1538/building_1538_hdr3web_086412a8040be2be462e1ca7a46e034c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1538/building_1538_hdr3web_dca502ff72ebf4763abe58d0a8830cdd.jpg",
             "description": null,
             "title": "The Chapel",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538_hdr3web_086412a8040be2be462e1ca7a46e034c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538_hdr3web_dca502ff72ebf4763abe58d0a8830cdd.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1538/building_1538_webp-net-resizeimage-3_0045b920b451b15ff2fb74691eeb4b71.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1538/building_1538_webp-net-resizeimage-3_d4f26c6a0e38f6e0b950e7658cac5886.jpg",
             "description": null,
             "title": "The Great Peece",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538_webp-net-resizeimage-3_0045b920b451b15ff2fb74691eeb4b71.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538_webp-net-resizeimage-3_d4f26c6a0e38f6e0b950e7658cac5886.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1538/building_1538_1538_d5682_graded_3k_200910_0982c26a47c48d5d251c29949b1fbc6e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1538/building_1538_1538_d5682_graded_3k_200910_028342a0aacb62d4a22975b77d336a54.jpg",
             "description": null,
             "title": "Aerial View",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538_1538_d5682_graded_3k_200910_0982c26a47c48d5d251c29949b1fbc6e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538_1538_d5682_graded_3k_200910_028342a0aacb62d4a22975b77d336a54.jpg"
         }
     ],
     "links": [],
@@ -265,10 +274,12 @@
         "travel_info": [
             "Tube: Sloane Square, Victoria",
             "Train: Victoria, Battersea Park",
-            "Bus: 11, 137, 452, 170, 360"
+            "Bus: 11, 137, 452, 170, 360",
+            "Additional travel info: Uber Boats nearest stop is at Cadogan Pier.\r\n\r\nNo parking available."
         ]
     },
     "name": "Royal Hospital Chelsea, Home of the Chelsea Pensioners",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1538",
     "ticketed_events": true
 }

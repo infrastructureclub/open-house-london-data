@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -69,10 +70,10 @@
     "id": 2469,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2469/building_2469_soc3_0740791aec3e37e2180f2c17175edd79.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2469/building_2469_soc3_da49e066cae22be126dc025e49b26fef.jpg",
             "description": null,
             "title": "Rood Screen and Chancel",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2469_soc3_0740791aec3e37e2180f2c17175edd79.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2469_soc3_da49e066cae22be126dc025e49b26fef.jpg"
         }
     ],
     "links": [],
@@ -83,10 +84,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Mottingham, Elmstead Woods, Chislehurst",
-            "Bus: 162, 161, 61, 160, 273"
+            "Bus: 162, 161, 61, 160, 273",
+            "Additional travel info: Buses from local rail stations stop on the High Street (stops Chislehurst Sainsburys and Albany Road) and behind the church (Chislehurst Gordon Arms)"
         ]
     },
     "name": "Church of the Annunciation",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2469",
     "ticketed_events": false
 }

@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -83,28 +85,28 @@
     "id": 2387,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2387/building_2387_cimg5132_6486b84e73ac2794fcbdb22fb6477549.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2387/building_2387_cimg5132_90b14efd795fb8232f9d3048602402fe.jpg",
             "description": null,
             "title": "Kelmscott House",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2387_cimg5132_6486b84e73ac2794fcbdb22fb6477549.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2387_cimg5132_90b14efd795fb8232f9d3048602402fe.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2387/building_2387_coach-house_e157a0e6eca183e402c1a01149e4fe5f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2387/building_2387_coach-house_876524741315f1ea5e294028fe0e5a98.jpg",
             "description": null,
             "title": "Coach House",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2387_coach-house_e157a0e6eca183e402c1a01149e4fe5f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2387_coach-house_876524741315f1ea5e294028fe0e5a98.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2387/building_2387_lower-library_dd0df9ca0ee49bbadf69c1b7fb0baa4c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2387/building_2387_lower-library_a94478df897f7e12ad498eb5e73de2b5.jpg",
             "description": null,
             "title": "The Lower Library",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2387_lower-library_dd0df9ca0ee49bbadf69c1b7fb0baa4c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2387_lower-library_a94478df897f7e12ad498eb5e73de2b5.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2387/building_2387_william_morris_hayley_atwell_0677_e9aa18393cbdb79a5dffa37c177519d3.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2387/building_2387_william_morris_hayley_atwell_0677_d59cf251a1644eb13fd99aff4232ec92.jpg",
             "description": null,
             "title": "William Morris's Albion printing press",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2387_william_morris_hayley_atwell_0677_e9aa18393cbdb79a5dffa37c177519d3.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2387_william_morris_hayley_atwell_0677_d59cf251a1644eb13fd99aff4232ec92.jpg"
         }
     ],
     "links": [],
@@ -115,10 +117,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Ravenscourt Park, Hammersmith",
-            "Bus: 190, 267, 391, H91"
+            "Bus: 190, 267, 391, H91",
+            "Additional travel info: We are located directly on the north side of the Thames, beside The Dove Pub and Furnival Gardens."
         ]
     },
     "name": "William Morris Society - Kelmscott House",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2387",
     "ticketed_events": false
 }

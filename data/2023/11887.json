@@ -12,12 +12,13 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11887",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T13:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Deptford Nurseries Walking Tour",
             "notes": null,
             "start": "2023-09-16T10:30:00+01:00",
@@ -39,10 +40,10 @@
     "id": 11887,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11887/building_11887_nurseryim_ad619916b35d41a5a32de2e747faebd6.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11887/building_11887_nurseryim_ea9f7f4b92d80c90c874713da1dd298c.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11887_nurseryim_ad619916b35d41a5a32de2e747faebd6.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11887_nurseryim_ea9f7f4b92d80c90c874713da1dd298c.png"
         }
     ],
     "links": [],
@@ -57,6 +58,7 @@
         ]
     },
     "name": "Deptford Nurseries Walking Tour",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11887",
     "ticketed_events": true
 }

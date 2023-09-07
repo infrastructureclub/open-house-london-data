@@ -20,12 +20,13 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6782",
             "capacity": null,
             "date": "2023-09-10",
             "drop_in": false,
             "end": "2023-09-10T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided walking tour",
             "notes": null,
             "start": "2023-09-10T14:00:00+01:00",
@@ -53,16 +54,16 @@
     "id": 6782,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6782/building_6782_img_0356_e3cd7a117470e3945613b99f804b2fc7.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6782/building_6782_img_0356_9a9dc7e6086c45b7e4d068f3e8434f01.jpg",
             "description": null,
             "title": "Market square and Magistrates court",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6782_img_0356_e3cd7a117470e3945613b99f804b2fc7.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6782_img_0356_9a9dc7e6086c45b7e4d068f3e8434f01.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6782/building_6782_img_0367_96dbf06ba79b08f37d57ab70823ed0b1.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6782/building_6782_img_0367_dc7bc15828323d214403d104390d8c47.jpg",
             "description": null,
             "title": "Grand Union Canal",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6782_img_0367_96dbf06ba79b08f37d57ab70823ed0b1.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6782_img_0367_dc7bc15828323d214403d104390d8c47.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6782/building_6782_img_0359_994f1d1f47d5248a7eb5bc775abd6ff7.JPG",
@@ -108,6 +109,7 @@
         ]
     },
     "name": "Brentford Then and Now/Brentford through the Ages",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6782",
     "ticketed_events": true
 }

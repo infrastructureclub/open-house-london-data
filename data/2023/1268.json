@@ -16,22 +16,7 @@
             "museum"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-06",
-            "drop_in": true,
-            "end": "2023-09-06T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Free entry to the museum via a 52-step spiral staircase. Last admission 4:15 pm.",
-            "start": "2023-09-06T10:30:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
         "Bookshop"
     ],
@@ -66,34 +51,34 @@
     "id": 1268,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1268/building_1268_thetheatre2022_4dfed936d8fbe26fa5c7521a824e583e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1268/building_1268_thetheatre2022_fb3be544c0d6f0f40f10aec3245c798c.jpg",
             "description": null,
             "title": "The Old Operating Theatre",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1268_thetheatre2022_4dfed936d8fbe26fa5c7521a824e583e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1268_thetheatre2022_fb3be544c0d6f0f40f10aec3245c798c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1268/building_1268_herbgarret1_273509c115b3fd93f36f9a40ce0f40e4.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1268/building_1268_herbgarret1_be7c91054002f3ed4bdf7277886ceec6.jpeg",
             "description": null,
             "title": "View of the Herb Garret",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1268_herbgarret1_273509c115b3fd93f36f9a40ce0f40e4.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1268_herbgarret1_be7c91054002f3ed4bdf7277886ceec6.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1268/building_1268_hiddenlondon_surgicaltheater_1096_d97f8e23e06ec057b8cc4647c16c8a21.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1268/building_1268_hiddenlondon_surgicaltheater_1096_6d75c4d4aa94c275f69ceb77f81237ec.jpg",
             "description": null,
             "title": "View of the spiral staircase ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1268_hiddenlondon_surgicaltheater_1096_d97f8e23e06ec057b8cc4647c16c8a21.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1268_hiddenlondon_surgicaltheater_1096_6d75c4d4aa94c275f69ceb77f81237ec.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1268/building_1268_herbgarret3_146061a8d868242a3b4eb030fa89ea03.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1268/building_1268_herbgarret3_f5114040ebf1eede2b66453911806e57.jpeg",
             "description": null,
             "title": "View of the Herb Garret",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1268_herbgarret3_146061a8d868242a3b4eb030fa89ea03.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1268_herbgarret3_f5114040ebf1eede2b66453911806e57.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1268/building_1268_20200712_174905_89f17515ceba589d084c012ba4c55d3b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1268/building_1268_20200712_174905_101be13f6002e23f6a3618376355f61e.jpg",
             "description": null,
             "title": "St Thomas' Church",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1268_20200712_174905_89f17515ceba589d084c012ba4c55d3b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1268_20200712_174905_101be13f6002e23f6a3618376355f61e.jpg"
         }
     ],
     "links": [],
@@ -109,6 +94,7 @@
         ]
     },
     "name": "Old Operating Theatre Museum & Herb Garret",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1268",
     "ticketed_events": false
 }

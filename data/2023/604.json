@@ -31,6 +31,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -75,22 +76,22 @@
     "id": 604,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/604/building_604_highgate_school_chapel_-_big_school_002_d354b06fc34e5b6570434dbc169184a0.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/604/building_604_highgate_school_chapel_-_big_school_002_5c55c8245af79e6f5f7b9fe4e38ee067.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_604_highgate_school_chapel_-_big_school_002_d354b06fc34e5b6570434dbc169184a0.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_604_highgate_school_chapel_-_big_school_002_5c55c8245af79e6f5f7b9fe4e38ee067.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/604/building_604_highgate_chapel_01_e1a1c0d1fe6c8130a064110ea630b534.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/604/building_604_highgate_chapel_01_4ebcbef694434ff392166f898f50953b.jpg",
             "description": null,
             "title": "Highgate Chapel",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_604_highgate_chapel_01_e1a1c0d1fe6c8130a064110ea630b534.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_604_highgate_chapel_01_4ebcbef694434ff392166f898f50953b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/604/building_604_highgate_chapel_02_547cbeeff88f33144e81ddc3651a8c9d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/604/building_604_highgate_chapel_02_246ddac66f928ff03b592e512bcfd753.jpg",
             "description": null,
             "title": "Chapel Interior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_604_highgate_chapel_02_547cbeeff88f33144e81ddc3651a8c9d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_604_highgate_chapel_02_246ddac66f928ff03b592e512bcfd753.jpg"
         }
     ],
     "links": [],
@@ -101,10 +102,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Highgate, Archway",
-            "Bus: 143, 210, 271, 214"
+            "Bus: 143, 210, 271, 214",
+            "Additional travel info: Highgate Station is the nearest"
         ]
     },
     "name": "Highgate School Chapel, Library, Museum",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/604",
     "ticketed_events": false
 }

@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -35,6 +36,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -92,16 +94,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1365_20170220_125426_bfd3ab333f5939b896debc03bc1fc825.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1365/building_1365_img-20190324-wa0000-22280_477874b3ceb47a059a35e0a08a498716.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1365/building_1365_img-20190324-wa0000-22280_8380d8ab6db1d72e0a3ebe569fb0623a.jpg",
             "description": null,
             "title": "Sunday afternoon in Spring",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1365_img-20190324-wa0000-22280_477874b3ceb47a059a35e0a08a498716.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1365_img-20190324-wa0000-22280_8380d8ab6db1d72e0a3ebe569fb0623a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1365/building_1365_20190318_093638-22284_41b18f8b1a109387b0e7c895de01b832.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1365/building_1365_20190318_093638-22284_a6287be5107fd670406ab44c33239021.jpg",
             "description": null,
             "title": "Entrance",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1365_20190318_093638-22284_41b18f8b1a109387b0e7c895de01b832.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1365_20190318_093638-22284_a6287be5107fd670406ab44c33239021.jpg"
         }
     ],
     "links": [],
@@ -112,10 +114,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Limehouse",
-            "Bus: 277, D6, D7, 309"
+            "Bus: 277, D6, D7, 309",
+            "Additional travel info: About a 12 minutes walk from Mile End Tube Station."
         ]
     },
     "name": "St Paul's Bow Common",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1365",
     "ticketed_events": false
 }

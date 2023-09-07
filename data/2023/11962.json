@@ -15,6 +15,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11962",
             "capacity": null,
             "date": "2023-09-10",
@@ -46,10 +47,10 @@
     "id": 11962,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11962/building_11962_awalktowork_addda3e819481dd2d24daa11836cd4c7.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11962/building_11962_awalktowork_03df405c282c3b5380458ac4022e22c8.jpg",
             "description": null,
             "title": "credit: Vojtech Nemec",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11962_awalktowork_addda3e819481dd2d24daa11836cd4c7.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11962_awalktowork_03df405c282c3b5380458ac4022e22c8.jpg"
         }
     ],
     "links": [
@@ -65,10 +66,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Dalston Junction",
-            "Bus: 76, 243, 242, 149"
+            "Bus: 76, 243, 242, 149",
+            "Additional travel info: The meeting point is on the intersection of Mortimer & Stamford Roads (N1 4JS)."
         ]
     },
     "name": "A walk to work",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11962",
     "ticketed_events": true
 }

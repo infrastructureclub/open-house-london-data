@@ -27,12 +27,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1831",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T11:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour",
             "notes": null,
             "start": "2023-09-16T10:00:00+01:00",
@@ -41,6 +42,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1831",
             "capacity": null,
             "date": "2023-09-16",
@@ -55,12 +57,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1831",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T16:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour",
             "notes": null,
             "start": "2023-09-16T15:00:00+01:00",
@@ -86,10 +89,16 @@
     "id": 1831,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1831/building_1831_brentford-convent-exterior-2013_1f65620047675259aae03fca5858494c.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1831/building_1831_brentford-convent-exterior-2013_c7f016d91726025e35ba61a5310f9ee0.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1831_brentford-convent-exterior-2013_1f65620047675259aae03fca5858494c.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1831_brentford-convent-exterior-2013_c7f016d91726025e35ba61a5310f9ee0.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1831/building_1831_brentford-st-mary-s-convent-egglesfield-house-copy_57506a424472882af3d52f0fad7abe93.jpg",
+            "description": null,
+            "title": "St Mary's Convent in the early 1800s",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1831_brentford-st-mary-s-convent-egglesfield-house-copy_57506a424472882af3d52f0fad7abe93.jpg"
         }
     ],
     "links": [],
@@ -105,6 +114,7 @@
         ]
     },
     "name": "St Mary's Convent",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1831",
     "ticketed_events": true
 }

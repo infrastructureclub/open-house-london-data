@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "We will be offering tours of this RIBA and AJ Retrofit award winning building. The architect will be on hand to discuss the design and construction process. We will also run  curator led tours of  the exhibition in our gallery spaces",
+    "description": "We will be offering tours of this RIBA and AJ Retrofit award winning building. The architect will be on hand to discuss the design and construction process. We will also run  curator led tours of  the exhibition in our gallery spaces. This project is supported by the Mayor of London.",
     "design": {
         "designers": [
             {
@@ -20,6 +20,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12124",
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12124",
             "capacity": null,
             "date": "2023-09-16",
@@ -48,12 +50,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12124",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T17:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Open day and gallery exhibition tour",
             "notes": null,
             "start": "2023-09-16T16:00:00+01:00",
@@ -81,25 +84,57 @@
     "id": 12124,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12124/building_12124_20211207_bu_img_exterior-side-and-front-smaller-version_bda0a096b0ddb5c5a426d6206390505e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12124/building_12124_2-198_5f85c22ee9fe94405362c65148f82249.png",
             "description": null,
-            "title": "198 Contemporary Arts and Learning - Side View",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12124_20211207_bu_img_exterior-side-and-front-smaller-version_bda0a096b0ddb5c5a426d6206390505e.jpg"
+            "title": "photo by Francesco Russo",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12124_2-198_5f85c22ee9fe94405362c65148f82249.png"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12124/building_12124_198-cal-licence_ph-francesco-russo_003_b35e0fa7ff626acd68a76f9ebfa1544d.jpg",
+            "description": null,
+            "title": "photo by Francesco Russo",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12124_198-cal-licence_ph-francesco-russo_003_b35e0fa7ff626acd68a76f9ebfa1544d.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12124/building_12124_198-cal-licence_ph-francesco-russo_004_f7d2c76820b81173406f0beaac2036ea.jpg",
+            "description": null,
+            "title": "photo by Francesco Russo",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12124_198-cal-licence_ph-francesco-russo_004_f7d2c76820b81173406f0beaac2036ea.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12124/building_12124_198-cal-licence_ph-francesco-russo_005_c61061b7213fed091da5496ce5ac0692.jpg",
+            "description": null,
+            "title": "photo by Francesco Russo",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12124_198-cal-licence_ph-francesco-russo_005_c61061b7213fed091da5496ce5ac0692.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12124/building_12124_198-cal_-francesco-russo_websize_011_bc9177df6b27f14f9cd662bfbeddc02a.jpg",
+            "description": null,
+            "title": "photo by Francesco Russo",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12124_198-cal_-francesco-russo_websize_011_bc9177df6b27f14f9cd662bfbeddc02a.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12124/building_12124_198-cal_-francesco-russo_websize_017_6ba99162d0c6d9a6fbb0cc1ecc33e68e.jpg",
+            "description": null,
+            "title": "photo by Francesco Russo",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12124_198-cal_-francesco-russo_websize_017_6ba99162d0c6d9a6fbb0cc1ecc33e68e.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "198 Contemporary Arts and Learning",
+        "address": "198 Contemporary Arts and Learning, 198 Railton Road, SE24 0JT",
         "latitude": 51.45402,
         "longitude": -0.10386,
         "meeting_point": null,
         "travel_info": [
             "Tube: Brixton",
             "Train: Herne Hill",
-            "Bus: 322, 201, 68, 468, 37, 196"
+            "Bus: 322, 201, 68, 468, 37, 196",
+            "Additional travel info: There is metered parking Monday to Friday until 6pm  on Hurst Street. Weekends are free to park."
         ]
     },
     "name": "198 Contemporary Arts and Learning",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12124",
     "ticketed_events": true
 }

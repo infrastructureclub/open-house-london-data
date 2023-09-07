@@ -23,6 +23,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -60,37 +61,39 @@
     "id": 304,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/304/building_304_eastbury-manor-house-front_e1e8dff75ab2bc54bbbd672fc6adb7bc.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/304/building_304_eastbury-manor-house-front_e3d71aaba5b5e9f7da34f1f061d0687b.jpg",
             "description": null,
             "title": "Eastbury Manor House Front",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_304_eastbury-manor-house-front_e1e8dff75ab2bc54bbbd672fc6adb7bc.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_304_eastbury-manor-house-front_e3d71aaba5b5e9f7da34f1f061d0687b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/304/building_304_img_7397_483ede2d908c6b701509bc5cb252322d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/304/building_304_img_7397_5b91f4dcb8c80d5a87ad5c58d4b65075.jpg",
             "description": null,
             "title": "Eastbury Turret",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_304_img_7397_483ede2d908c6b701509bc5cb252322d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_304_img_7397_5b91f4dcb8c80d5a87ad5c58d4b65075.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/304/building_304_eastbury-winter-sun_cfa0dd6a0707e53814e62d112c99f53d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/304/building_304_eastbury-winter-sun_7fe7570b5bc78f1e988ab81b8f6aaa8f.jpg",
             "description": null,
             "title": "View from the South Lawn",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_304_eastbury-winter-sun_cfa0dd6a0707e53814e62d112c99f53d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_304_eastbury-winter-sun_7fe7570b5bc78f1e988ab81b8f6aaa8f.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Eastbury Manor House, Eastbury Square, Barking",
+        "address": "Eastbury Manor House, Eastbury Square, Barking, IG11 9SN",
         "latitude": 51.5343105,
         "longitude": 0.0995563,
         "meeting_point": null,
         "travel_info": [
             "Tube: Upney",
             "Train: Barking",
-            "Bus: 62, 287, 368"
+            "Bus: 62, 287, 368",
+            "Additional travel info: Upney underground station is a 10 minute walk, and Barking train station is a 25 minute walk. \r\n\r\nIf travelling by overground, take the District line one stop to Upney for a shorter walk."
         ]
     },
     "name": "Eastbury Manor House",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/304",
     "ticketed_events": false
 }

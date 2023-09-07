@@ -12,6 +12,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11654",
             "capacity": null,
             "date": "2023-09-15",
@@ -26,6 +27,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11654",
             "capacity": null,
             "date": "2023-09-16",
@@ -65,10 +67,10 @@
     "id": 11654,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11654/building_11654_header_a5437084619798b9b3f3699fa36efefb.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11654/building_11654_header_95006dd9701db08b06ac0b2f3bcc22fc.png",
             "description": null,
             "title": "Left: Image of Old St Paul's (public domain)\r\nRight: Paternoster Square and Monument (own image)",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11654_header_a5437084619798b9b3f3699fa36efefb.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11654_header_95006dd9701db08b06ac0b2f3bcc22fc.png"
         }
     ],
     "links": [],
@@ -80,10 +82,12 @@
         "travel_info": [
             "Tube: Tower Hill, Monument",
             "Train: London Bridge",
-            "Bus: RV1, 78, 343, 100, 42, 15"
+            "Bus: RV1, 78, 343, 100, 42, 15",
+            "Additional travel info: Tower Pier, next to the Tower entrance, is also served by river boats."
         ]
     },
     "name": "'Latin London' Walking Tours",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11654",
     "ticketed_events": true
 }

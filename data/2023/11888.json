@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -48,6 +50,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -62,6 +65,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -76,6 +80,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -90,6 +95,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -104,6 +110,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -118,6 +125,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -132,12 +140,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11888",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T13:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Van de Veldes free tour",
             "notes": null,
             "start": "2023-09-16T12:15:00+01:00",
@@ -146,12 +155,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11888",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Van de Veldes free tour",
             "notes": null,
             "start": "2023-09-16T15:15:00+01:00",
@@ -160,12 +170,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11888",
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": false,
             "end": "2023-09-17T13:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Van de Veldes free tour",
             "notes": null,
             "start": "2023-09-17T12:15:00+01:00",
@@ -174,6 +185,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11888",
             "capacity": null,
             "date": "2023-09-17",
@@ -224,7 +236,14 @@
         }
     ],
     "id": 11888,
-    "images": [],
+    "images": [
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11888/building_11888_the-queen-s-house-greenwich-l9741-005_033d00b84d97ca2223d07ddb43f796cd.jpg",
+            "description": null,
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11888_the-queen-s-house-greenwich-l9741-005_033d00b84d97ca2223d07ddb43f796cd.jpg"
+        }
+    ],
     "links": [],
     "location": {
         "address": "Park Row London, Greenwich, SE10 9NF",
@@ -238,6 +257,7 @@
         ]
     },
     "name": "The Queen's House",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11888",
     "ticketed_events": true
 }

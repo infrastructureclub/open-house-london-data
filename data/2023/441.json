@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -112,6 +113,7 @@
         ]
     },
     "name": "Hampstead Friends Meeting House",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/441",
     "ticketed_events": false
 }

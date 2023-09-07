@@ -23,6 +23,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -84,34 +85,34 @@
     "id": 1882,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1882/building_1882_stationers-hall-inside-hall-jun15_7d751bfb620e4b7b1df3f7a5a3d2b84a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1882/building_1882_stationers-hall-inside-hall-jun15_965a44fda3565c81432a2b3a9ce974c9.jpg",
             "description": null,
             "title": "The Livery Hall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1882_stationers-hall-inside-hall-jun15_7d751bfb620e4b7b1df3f7a5a3d2b84a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1882_stationers-hall-inside-hall-jun15_965a44fda3565c81432a2b3a9ce974c9.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1882/building_1882_stationers-hall-outside-jun15_abdab5f76ea639ee271b1645d438ed02.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1882/building_1882_stationers-hall-outside-jun15_2a5ad69e2b99cd2d306eb5bffbe4b156.jpg",
             "description": null,
             "title": "Stationers' Hall ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1882_stationers-hall-outside-jun15_abdab5f76ea639ee271b1645d438ed02.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1882_stationers-hall-outside-jun15_2a5ad69e2b99cd2d306eb5bffbe4b156.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1882/building_1882_stationers-hall-garden-jun15_67cf3e7d2f882a8c9e44c991cdd85b76.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1882/building_1882_stationers-hall-garden-jun15_fdfa5c472de3ffe9d04bbc25382418dd.jpg",
             "description": null,
             "title": "Stationers' Garden",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1882_stationers-hall-garden-jun15_67cf3e7d2f882a8c9e44c991cdd85b76.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1882_stationers-hall-garden-jun15_fdfa5c472de3ffe9d04bbc25382418dd.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1882/building_1882_caxton_b977e9a282aca39aab0d7775a1b8e82c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1882/building_1882_caxton_ed906e3aa223608e92b54dd013250451.jpg",
             "description": null,
             "title": "Caxton Window in the Main Hall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1882_caxton_b977e9a282aca39aab0d7775a1b8e82c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1882_caxton_ed906e3aa223608e92b54dd013250451.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1882/building_1882_court-rooma_569aa84beddeac38841dfa145dc40518.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1882/building_1882_court-rooma_394524d130eadc16684fa726cf96ade1.jpg",
             "description": null,
             "title": "The Court Room",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1882_court-rooma_569aa84beddeac38841dfa145dc40518.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1882_court-rooma_394524d130eadc16684fa726cf96ade1.jpg"
         }
     ],
     "links": [],
@@ -127,6 +128,7 @@
         ]
     },
     "name": "Stationers' Hall",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1882",
     "ticketed_events": false
 }

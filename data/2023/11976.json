@@ -14,6 +14,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11976",
             "capacity": null,
             "date": "2023-09-08",
@@ -48,40 +49,40 @@
     "id": 11976,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11976/building_11976_img_4961_b220a2b707b8ecfbb0d5a3b26c6fb7da.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11976/building_11976_img_4961_b77d2138c33a7956e1cfb625524be286.jpg",
             "description": null,
             "title": "Hoxton Street, photo credit: Emily McFadyen",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11976_img_4961_b220a2b707b8ecfbb0d5a3b26c6fb7da.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11976_img_4961_b77d2138c33a7956e1cfb625524be286.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11976/building_11976_img_4963_789804d998e118b538c4d0037e67a33b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11976/building_11976_img_4963_8c982a45ab7d60786914f217b7ee7b8c.jpg",
             "description": null,
             "title": "De Beauvoir tower block, photo credit Emily McFadyen",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11976_img_4963_789804d998e118b538c4d0037e67a33b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11976_img_4963_8c982a45ab7d60786914f217b7ee7b8c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11976/building_11976_img_4959_c93e411fcdf292e016d95af78d02fcc8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11976/building_11976_img_4959_19c10d42d5a2a7626c9fad93856862cc.jpg",
             "description": null,
             "title": "Whitmore Food Centre at New Era Estate, photo credit: Emily McFadyen",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11976_img_4959_c93e411fcdf292e016d95af78d02fcc8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11976_img_4959_19c10d42d5a2a7626c9fad93856862cc.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11976/building_11976_img_4952_18f67bb8abe39dee6b84efe874694c9e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11976/building_11976_img_4952_db8cda00ce2da0b421ac40dbee781ea3.jpg",
             "description": null,
             "title": "No Ball Games, Arden Estate, photo credit: Emily McFadyen",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11976_img_4952_18f67bb8abe39dee6b84efe874694c9e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11976_img_4952_db8cda00ce2da0b421ac40dbee781ea3.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11976/building_11976_img_4896_9cdbb6fb95462747dc35f65e218fe4ea.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11976/building_11976_img_4896_0a5cdf15806ef77bb01b6e886aa533c7.jpg",
             "description": null,
             "title": "Pub Garden, De Beauvoir, photo credit: Emily McFadyen",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11976_img_4896_9cdbb6fb95462747dc35f65e218fe4ea.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11976_img_4896_0a5cdf15806ef77bb01b6e886aa533c7.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11976/building_11976_img_4889_3b8bf60175d06d2aec15fc775b29d327.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11976/building_11976_img_4889_be052e340db8209df8b9ba99cd55187b.jpg",
             "description": null,
             "title": "No Drinks Outside After 11, photo credit: Emily McFadyen",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11976_img_4889_3b8bf60175d06d2aec15fc775b29d327.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11976_img_4889_be052e340db8209df8b9ba99cd55187b.jpg"
         }
     ],
     "links": [
@@ -91,16 +92,18 @@
         }
     ],
     "location": {
-        "address": "Arnold Circus (in the centre), Boundary Estate",
+        "address": "Arnold Circus (in the centre), Boundary Estate, E2 7JP",
         "latitude": 51.52606,
         "longitude": -0.07574,
         "meeting_point": null,
         "travel_info": [
             "Train: Shoreditch High Street",
-            "Bus: 47, 35, 242"
+            "Bus: 47, 35, 242",
+            "Additional travel info: End: Scolt Head Pub, a ten minute walk from Dalston Junction Overground Station."
         ]
     },
     "name": "Shoreditch to De Beauvoir walking tour",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11976",
     "ticketed_events": true
 }

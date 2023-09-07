@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -50,34 +51,34 @@
     "id": 9888,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9888/building_9888_catja2small_c05c54dba52009164bbe446af7946998.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9888/building_9888_catja2small_b28268fb66b65aec160e218baf8e8cfc.jpg",
             "description": null,
             "title": "New loftspace",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9888_catja2small_c05c54dba52009164bbe446af7946998.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9888_catja2small_b28268fb66b65aec160e218baf8e8cfc.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9888/building_9888_catja3small_53e5c4d8c6b087f3ef4cdd3595c581fa.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9888/building_9888_catja3small_8e9ae452efcdb6610dc2e8f2509366ae.jpg",
             "description": null,
             "title": "View from loftroom",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9888_catja3small_53e5c4d8c6b087f3ef4cdd3595c581fa.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9888_catja3small_8e9ae452efcdb6610dc2e8f2509366ae.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9888/building_9888_catja4small_86d845d3fdcddc29997eddcdb7608383.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9888/building_9888_catja4small_e4960e7d90947571ed6c287a77f83690.jpg",
             "description": null,
             "title": "view over netting",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9888_catja4small_86d845d3fdcddc29997eddcdb7608383.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9888_catja4small_e4960e7d90947571ed6c287a77f83690.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9888/building_9888_catja26small_96ee660b7f92ac61ff045d3dc2184f65.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9888/building_9888_catja26small_3a6b128bc6199703ec84a3c963c98f80.jpg",
             "description": null,
             "title": "View from loftroom over netting ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9888_catja26small_96ee660b7f92ac61ff045d3dc2184f65.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9888_catja26small_3a6b128bc6199703ec84a3c963c98f80.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9888/building_9888_catja8small_e94a87b44fd8eff2c401a655a5ca490f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9888/building_9888_catja8small_b2c0ce8bd58dc1ebaa3cc4929d830ec9.jpg",
             "description": null,
             "title": "Downstairs space",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9888_catja8small_e94a87b44fd8eff2c401a655a5ca490f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9888_catja8small_b2c0ce8bd58dc1ebaa3cc4929d830ec9.jpg"
         }
     ],
     "links": [],
@@ -93,6 +94,7 @@
         ]
     },
     "name": "Wandsworth House",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/9888",
     "ticketed_events": false
 }

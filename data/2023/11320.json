@@ -15,6 +15,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11320",
             "capacity": null,
             "date": "2023-09-17",
@@ -47,10 +48,10 @@
     "id": 11320,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11320/building_11320_38-bus_6eabcf2b97d2b5be63790a802375c325.jfif",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11320/building_11320_38-bus_bb0cc4dd875c270f913c51204d5f08f6.jfif",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11320_38-bus_6eabcf2b97d2b5be63790a802375c325.jfif"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11320_38-bus_bb0cc4dd875c270f913c51204d5f08f6.jfif"
         }
     ],
     "links": [],
@@ -66,6 +67,7 @@
         ]
     },
     "name": "The Fleet beneath your feet",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11320",
     "ticketed_events": true
 }

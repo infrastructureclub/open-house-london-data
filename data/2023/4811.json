@@ -21,6 +21,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/4811",
             "capacity": null,
             "date": "2023-09-09",
@@ -35,6 +36,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/4811",
             "capacity": null,
             "date": "2023-09-09",
@@ -49,6 +51,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/4811",
             "capacity": null,
             "date": "2023-09-09",
@@ -63,6 +66,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/4811",
             "capacity": null,
             "date": "2023-09-09",
@@ -77,6 +81,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/4811",
             "capacity": null,
             "date": "2023-09-09",
@@ -91,6 +96,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/4811",
             "capacity": null,
             "date": "2023-09-09",
@@ -127,36 +133,38 @@
     "id": 4811,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4811/building_4811_img_0072_11f5be2392e7e0a16812184fc41d60d7.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4811/building_4811_img_0072_6f79c0821cd8ac8a04a35124d0427e2f.jpg",
             "description": null,
             "title": "View of houses and gardens, St Bernards ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4811_img_0072_11f5be2392e7e0a16812184fc41d60d7.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4811_img_0072_6f79c0821cd8ac8a04a35124d0427e2f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4811/building_4811_img_0067_820222bf34400deba7e33c0381c9cb06.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4811/building_4811_img_0067_39913187b74a6c717373fb0c271b7b28.jpg",
             "description": null,
             "title": "View of houses at St Bernards ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4811_img_0067_820222bf34400deba7e33c0381c9cb06.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4811_img_0067_39913187b74a6c717373fb0c271b7b28.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4811/building_4811_img_0146_d040305c1652b55b1709a6e0366605b6.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4811/building_4811_img_0146_6c5924c2f2a90fee1e2ccdb2db72859d.jpg",
             "description": null,
             "title": "View of house at St Bernards ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4811_img_0146_d040305c1652b55b1709a6e0366605b6.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4811_img_0146_6c5924c2f2a90fee1e2ccdb2db72859d.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Meet: by OH banner, St Bernard's",
+        "address": "Meet: by OH banner, St Bernard's, Chichester Road, Croydon, CR0 5UL",
         "latitude": 51.3701308,
         "longitude": -0.0854432,
         "meeting_point": null,
         "travel_info": [
             "Train: East Croydon",
-            "Bus: 64, 433"
+            "Bus: 64, 433",
+            "Additional travel info: No tube stations in easy reach"
         ]
     },
     "name": "St Bernard's Houses",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/4811",
     "ticketed_events": true
 }

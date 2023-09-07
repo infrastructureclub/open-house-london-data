@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -89,33 +91,33 @@
     "id": 10875,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10875/building_10875_lse_mb_groundfloor_credit-edreeve-3_12b560a37e6804575634602f44c87a60.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10875/building_10875_lse_mb_groundfloor_credit-edreeve-3_2af7231007d6de872852e9cb9376d667.jpg",
             "description": null,
             "title": "The Great Hall © Ed Reeve",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10875_lse_mb_groundfloor_credit-edreeve-3_12b560a37e6804575634602f44c87a60.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10875_lse_mb_groundfloor_credit-edreeve-3_2af7231007d6de872852e9cb9376d667.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10875/building_10875_bynder-4-3-ratio-mar_0139_d49d352febf54c2bdacf1bd97a553858.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10875/building_10875_bynder-4-3-ratio-mar_0139_fae8ef1b168c3992438efc88644fdb52.jpg",
             "description": null,
             "title": "View from New Academic Building\r\n© LSE/Nigel Stead",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10875_bynder-4-3-ratio-mar_0139_d49d352febf54c2bdacf1bd97a553858.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10875_bynder-4-3-ratio-mar_0139_fae8ef1b168c3992438efc88644fdb52.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10875/building_10875_bynder-4-3-ratio-marshall_building_7619_e12dc63240c18e920deb1e7295fd5926.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10875/building_10875_bynder-4-3-ratio-marshall_building_7619_3eb0c0337313ec1ee92bb9a00bb32eff.jpg",
             "description": null,
             "title": "View of the staircase \r\n© LSE/Nigel Stead",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10875_bynder-4-3-ratio-marshall_building_7619_e12dc63240c18e920deb1e7295fd5926.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10875_bynder-4-3-ratio-marshall_building_7619_3eb0c0337313ec1ee92bb9a00bb32eff.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10875/building_10875_lse_credit-edreeve-7-exterior-resize_09520da2a513e1de28f4e3d5a9dd91f5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10875/building_10875_lse_credit-edreeve-7-exterior-resize_2cd93e42d09c09f719d4efa17c6a22ca.jpg",
             "description": null,
             "title": "View from Lincoln's Inn Fields © Ed Reeve",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10875_lse_credit-edreeve-7-exterior-resize_09520da2a513e1de28f4e3d5a9dd91f5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10875_lse_credit-edreeve-7-exterior-resize_2cd93e42d09c09f719d4efa17c6a22ca.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "The Marshall Building, 44 Lincoln's Inn Fields",
+        "address": "The Marshall Building, 44 Lincoln's Inn Fields, WC2A 3PF",
         "latitude": 51.5149908,
         "longitude": -0.1167547,
         "meeting_point": null,
@@ -125,6 +127,7 @@
         ]
     },
     "name": "The Marshall Building - London School of Economics and Political Science",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10875",
     "ticketed_events": false
 }

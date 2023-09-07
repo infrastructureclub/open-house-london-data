@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -68,16 +70,16 @@
     "id": 11890,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11890/building_11890_stlukes_2bee9a8661c82ca3122d994d910080da.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11890/building_11890_stlukes_0c159a75e793ec2e01b17af34fd22bb4.jpg",
             "description": null,
             "title": "St Luke's Catholic Church",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11890_stlukes_2bee9a8661c82ca3122d994d910080da.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11890_stlukes_0c159a75e793ec2e01b17af34fd22bb4.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11890/building_11890_stlukes2_cc23c695ef16c657537d0917f5b76827.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11890/building_11890_stlukes2_cc5938f1a35d350591e5f38c4c84701a.jpg",
             "description": null,
             "title": "St Luke's Catholic Church",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11890_stlukes2_cc23c695ef16c657537d0917f5b76827.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11890_stlukes2_cc5938f1a35d350591e5f38c4c84701a.jpg"
         }
     ],
     "links": [],
@@ -89,10 +91,12 @@
         "travel_info": [
             "Tube: Pinner",
             "Train: Hatch End",
-            "Bus: H13, H12, H11, 183"
+            "Bus: H13, H12, H11, 183",
+            "Additional travel info: The church is in the centre of Pinner, off Bridge Street, less than 5 minutes from Pinner Underground station, and a bus stop. There is a public car park across the road by the M&S on Love Lane."
         ]
     },
     "name": "St Luke’s Catholic Church, Pinner",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11890",
     "ticketed_events": false
 }

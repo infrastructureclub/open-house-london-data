@@ -30,34 +30,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-06",
-            "drop_in": true,
-            "end": "2023-09-06T19:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
-            "start": "2023-09-06T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-07",
-            "drop_in": true,
-            "end": "2023-09-07T19:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
-            "start": "2023-09-07T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -72,6 +45,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-11",
@@ -86,6 +60,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-12",
@@ -100,6 +75,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-13",
@@ -141,28 +117,28 @@
     "id": 6534,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6534/building_6534_dsc_4004_cf8835278bdf3831a5b488e08bed347c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6534/building_6534_dsc_4004_b7259ee15bdec13d50a055d763a41b47.jpg",
             "description": null,
             "title": "The altar",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6534_dsc_4004_cf8835278bdf3831a5b488e08bed347c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6534_dsc_4004_b7259ee15bdec13d50a055d763a41b47.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6534/building_6534_dsc_3989_9a0dfac22d2685b2a7b27a5cad924322.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6534/building_6534_dsc_3989_281329c1b0e48f73a07a582c2db52299.jpg",
             "description": null,
             "title": "View of the gold ceiling",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6534_dsc_3989_9a0dfac22d2685b2a7b27a5cad924322.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6534_dsc_3989_281329c1b0e48f73a07a582c2db52299.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6534/building_6534_dsc_4011_7576139b76e2ea6a077a941de5f34ded.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6534/building_6534_dsc_4011_3691ddb616aa40c276d8544b704aed19.jpg",
             "description": null,
             "title": "Stained glass windows",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6534_dsc_4011_7576139b76e2ea6a077a941de5f34ded.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6534_dsc_4011_3691ddb616aa40c276d8544b704aed19.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6534/building_6534_dsc_4088_54fc77a6f247e616eb90f5532274712f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6534/building_6534_dsc_4088_85166f6539671e84ded3e068b09d8631.jpg",
             "description": null,
             "title": "The ornate baptisery of the Fitzrovia Chapel",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6534_dsc_4088_54fc77a6f247e616eb90f5532274712f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6534_dsc_4088_85166f6539671e84ded3e068b09d8631.jpg"
         }
     ],
     "links": [],
@@ -173,10 +149,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Tottenham Court Road, Oxford Circus, Goodge Street, Warren Street",
-            "Train: Euston"
+            "Train: Euston",
+            "Additional travel info: The chapel is located in the pedestrianised Pearson Square, which is off Mortimer Street on the site of the old Middlesex Hospital. It can be accessed on foot from Mortimer Street, Cleveland Street, and Riding House Street. It is a short walk from Goodge Street Tube Station, and a slightly longer walk from Warren Street or Oxford Circus."
         ]
     },
     "name": "Fitzrovia Chapel",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6534",
     "ticketed_events": false
 }

@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -46,39 +47,39 @@
     "id": 12004,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12004/building_12004_screenshot-414_048b612d18f0020a5658c11c755a14c3.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12004/building_12004_screenshot-414_c1822e09022e9130e15115470b206a81.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12004_screenshot-414_048b612d18f0020a5658c11c755a14c3.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12004_screenshot-414_c1822e09022e9130e15115470b206a81.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12004/building_12004_screenshot-417_487cc22c1f8350c22ffb545b6e27b646.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12004/building_12004_screenshot-417_aaf976311fe3272525510c573556f81d.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12004_screenshot-417_487cc22c1f8350c22ffb545b6e27b646.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12004_screenshot-417_aaf976311fe3272525510c573556f81d.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12004/building_12004_screenshot-425_b8890c14aa5341d7ce80380591f3bec4.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12004/building_12004_screenshot-425_f1948e8a272437d74891cc7d41481ad6.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12004_screenshot-425_b8890c14aa5341d7ce80380591f3bec4.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12004_screenshot-425_f1948e8a272437d74891cc7d41481ad6.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12004/building_12004_screenshot-422_026d0b33f453fc057b88c1ed4963cf8c.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12004/building_12004_screenshot-422_cb4b442cbbaea97663d0cbdea257fb2e.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12004_screenshot-422_026d0b33f453fc057b88c1ed4963cf8c.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12004_screenshot-422_cb4b442cbbaea97663d0cbdea257fb2e.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12004/building_12004_screenshot-428_79ea744c277267f8d49268bce087dad6.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12004/building_12004_screenshot-428_707c0207897272d4076fa3e27078aac7.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12004_screenshot-428_79ea744c277267f8d49268bce087dad6.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12004_screenshot-428_707c0207897272d4076fa3e27078aac7.png"
         }
     ],
     "links": [],
     "location": {
-        "address": "46-47 Trinity Court, Whitgift Centre, Croydon",
+        "address": "46-47 Trinity Court, Whitgift Centre, Croydon, CR0 1UQ",
         "latitude": 51.37616,
         "longitude": -0.09924,
         "meeting_point": null,
@@ -88,6 +89,7 @@
         ]
     },
     "name": "Turf Projects (Whitgift Centre)",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12004",
     "ticketed_events": false
 }

@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -90,7 +91,7 @@
     ],
     "links": [],
     "location": {
-        "address": "18 West Smithfield (opposite Barts Hospital by",
+        "address": "18 West Smithfield (opposite Barts Hospital by traffic barrier under",
         "latitude": 51.51806149999999,
         "longitude": -0.1018903,
         "meeting_point": null,
@@ -101,6 +102,7 @@
         ]
     },
     "name": "Haberdashers' Hall",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/541",
     "ticketed_events": false
 }

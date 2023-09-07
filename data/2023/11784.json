@@ -20,12 +20,13 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11784",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T14:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "A Tale of Two Cities: North Kensington Walking Tour",
             "notes": null,
             "start": "2023-09-09T11:00:00+01:00",
@@ -56,10 +57,10 @@
     "id": 11784,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11784/building_11784_trellick_tower_-_north_kensington_from_20th_flr_of_hall_tower_facc3e771a1a80492147d70965f4f3a3.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11784/building_11784_trellick_tower_-_north_kensington_from_20th_flr_of_hall_tower_7af29ca804b3f8fe062bf0a3a4dd368d.jpg",
             "description": null,
             "title": "North Kensington circa 2010\r\nCredit: Amanda Vincent-Rous",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11784_trellick_tower_-_north_kensington_from_20th_flr_of_hall_tower_facc3e771a1a80492147d70965f4f3a3.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11784_trellick_tower_-_north_kensington_from_20th_flr_of_hall_tower_7af29ca804b3f8fe062bf0a3a4dd368d.jpg"
         }
     ],
     "links": [
@@ -69,7 +70,7 @@
         }
     ],
     "location": {
-        "address": "St John's Church, 152 Lansdowne Crescent",
+        "address": "St John's Church, 152 Lansdowne Crescent, W11 2NN",
         "latitude": 51.51071,
         "longitude": -0.20564,
         "meeting_point": null,
@@ -78,6 +79,7 @@
         ]
     },
     "name": "A Tale of Two Cities: North Kensington Walking Tour",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11784",
     "ticketed_events": true
 }

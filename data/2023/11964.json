@@ -15,12 +15,13 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11964",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Housing in Kennington - A Royal Intervention",
             "notes": null,
             "start": "2023-09-09T11:00:00+01:00",
@@ -46,10 +47,10 @@
     "id": 11964,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11964/building_11964_img_2186_036ea1b41290febf7b25ada0da9f6df8.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11964/building_11964_img_2186_b214e6973adca8253a4027f62f73abc3.jpeg",
             "description": null,
             "title": "Woodstock Court on the Duchy of Cornwall estate, Kennington.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11964_img_2186_036ea1b41290febf7b25ada0da9f6df8.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11964_img_2186_b214e6973adca8253a4027f62f73abc3.jpeg"
         }
     ],
     "links": [
@@ -59,17 +60,19 @@
         }
     ],
     "location": {
-        "address": "Outside Kennington Tube Station",
+        "address": "Outside Kennington Tube Station, Kennington Park Rd, SE11 4JQ",
         "latitude": 51.48827,
         "longitude": -0.10561,
         "meeting_point": null,
         "travel_info": [
             "Tube: Oval, Kennington",
             "Train: Waterloo, Elephant & Castle",
-            "Bus: 415, 333, 133"
+            "Bus: 415, 333, 133",
+            "Additional travel info: The tour starts opposite Kennington tube station and ends at Oval tube station"
         ]
     },
     "name": "Housing in Kennington: A royal intervention",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11964",
     "ticketed_events": true
 }

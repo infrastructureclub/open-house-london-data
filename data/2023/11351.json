@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -35,12 +36,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11351",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T13:15:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Studio Tour",
             "notes": null,
             "start": "2023-09-16T12:00:00+01:00",
@@ -49,12 +51,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11351",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T15:15:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Studio Tour",
             "notes": null,
             "start": "2023-09-16T14:00:00+01:00",
@@ -63,12 +66,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11351",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T17:15:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Studio Tour",
             "notes": null,
             "start": "2023-09-16T16:00:00+01:00",
@@ -104,37 +108,39 @@
     "id": 11351,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11351/building_11351_ah_building-28_view-from-thames-path-extension_4c8665c535ad218805e8135f02470352.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11351/building_11351_ah_building-28_view-from-thames-path-extension_3fe250e5031858ae28c9489d53829745.jpg",
             "description": null,
             "title": "View from the Q14, Thames Path extension",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11351_ah_building-28_view-from-thames-path-extension_4c8665c535ad218805e8135f02470352.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11351_ah_building-28_view-from-thames-path-extension_3fe250e5031858ae28c9489d53829745.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11351/building_11351_ah_view-from-building-28-across-section-of-westminster-industrial-estate_832b1f3dfd8617145fef1e0e3b9f0dfb.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11351/building_11351_ah_view-from-building-28-across-section-of-westminster-industrial-estate_e66dbb31350ad375fb71ba9b1c79108e.jpg",
             "description": null,
             "title": "View from Building 28 across section of Westminster Industrial Estate",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11351_ah_view-from-building-28-across-section-of-westminster-industrial-estate_832b1f3dfd8617145fef1e0e3b9f0dfb.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11351_ah_view-from-building-28-across-section-of-westminster-industrial-estate_e66dbb31350ad375fb71ba9b1c79108e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11351/building_11351_open-studios-2021_51_422b7ed122507e8ae547f4ccfc028f48.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11351/building_11351_open-studios-2021_51_d58bee37d1ea4647edc4f8a3daf843ea.jpg",
             "description": null,
             "title": "Studio 1B 19 (Woolwich), 2020",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11351_open-studios-2021_51_422b7ed122507e8ae547f4ccfc028f48.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11351_open-studios-2021_51_d58bee37d1ea4647edc4f8a3daf843ea.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Building 28, 34 Bowater Road",
+        "address": "Building 28, 34 Bowater Road, Westminster Industrial Estate, SE18 5TF",
         "latitude": 51.4943653,
         "longitude": 0.0407952,
         "meeting_point": null,
         "travel_info": [
             "Tube: North Greenwich",
             "Train: Charlton",
-            "Bus: 472, 180, 177, 161"
+            "Bus: 472, 180, 177, 161",
+            "Additional travel info: Access to walkers and cyclists via the Thames Path. \r\nElizabeth Line Stop: Woolwich"
         ]
     },
     "name": "Art Hub Open Studios",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11351",
     "ticketed_events": true
 }

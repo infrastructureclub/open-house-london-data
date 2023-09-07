@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -30,9 +31,26 @@
             "notes": "Visitors can drop 10-2  to meet residents for social/design information A tour is offered at 14.00 of the estate",
             "start": "2023-09-17T10:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": true,
+            "end": "2023-09-17T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "In addition to the drop in event a local resident and architect will lead a 2pm tour departing 5 Tower Gardens.  Tea and cake available.",
+            "start": "2023-09-17T14:00:00+01:00",
+            "ticketed": false
         }
     ],
     "facilities": [
+        "Food and drink",
+        "Architect on site",
         "Toilets",
         "Refreshments",
         "Parking"
@@ -90,51 +108,59 @@
                 "Hawthorns, Limes, Planes, Sycamores, Privet Hedges; False acacia or Black Locust – Appalachian tree first introduced in 1630s, eulogised by William Cobbett in ‘The English Gardener’ as the perfect tree, English specimens are relatively stunted. Other trees planted over the years, a mixture of native and exotic. Haringey Council have had to remove some diseased trees, the local residents group are aiming to work with them to replace removed trees with original tree planting.",
                 "For full walk and architectural information pick up guide on the day."
             ]
+        },
+        {
+            "heading": "New developments at Risley Avenue",
+            "paragraphs": [
+                "During 2023 building started following consultations and careful planning considerations for new properties to the rear of Topham Square off Risley Avenue.",
+                "The properties are to deliver high quality and sustainable council housing for let at council rates.",
+                "MEPK Architects have developed plans for Two 3 bedroom 5 person houses, 1 2 bedroom 4 person house and one 4 bedroom 6 person house with associated back gardens.   They are London Evening Standard Home Awards winners, national afforable home ownership award winners civic trust award winners amongst others."
+            ]
         }
     ],
     "id": 2192,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_tower-gardens-n17-waltheof-avenue_5c0d61e6c4a7b22b4f7b40d074e486bd.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_tower-gardens-n17-waltheof-avenue_474cf471af80773eae99314e75156b5d.jpg",
             "description": null,
             "title": "Waltheof Avenue N17 - semi detached house feature of the centre of the estate",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_tower-gardens-n17-waltheof-avenue_5c0d61e6c4a7b22b4f7b40d074e486bd.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_tower-gardens-n17-waltheof-avenue_474cf471af80773eae99314e75156b5d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_p1020324_7f0282911953140922d9f85123d0fb33.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_p1020324_ae7969a6b95e426c57423d58337f91c7.jpg",
             "description": null,
             "title": "Tower Gardens Road  N17 ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_p1020324_7f0282911953140922d9f85123d0fb33.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_p1020324_ae7969a6b95e426c57423d58337f91c7.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_tower-gardens-n17-gospatrick-road-east_e2bb2ed3fa3461648c25fd24b83fda62.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_tower-gardens-n17-gospatrick-road-east_9e13b9d58fc1ba46e872d0942fa7c2f7.jpg",
             "description": null,
             "title": "Gospatrick Road east",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_tower-gardens-n17-gospatrick-road-east_e2bb2ed3fa3461648c25fd24b83fda62.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_tower-gardens-n17-gospatrick-road-east_9e13b9d58fc1ba46e872d0942fa7c2f7.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_balliol-road-tower-gardens_6dcb0eb4159a0c1243a2889cb3312ea1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_balliol-road-tower-gardens_0ae7a09f9234200485a12124d4ef5123.jpg",
             "description": null,
             "title": "featured on front of Haringey Council Tower Gardens Repair & Conservation SPG 3.1 - ISBN 0 90770585",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_balliol-road-tower-gardens_6dcb0eb4159a0c1243a2889cb3312ea1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_balliol-road-tower-gardens_0ae7a09f9234200485a12124d4ef5123.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_tower-gardens-road-junction-bennington-road_af5661f6dd33b8009cfaecb37e3995c0.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_tower-gardens-road-junction-bennington-road_1c70cc07f35ccd07b625f15114164dce.jpg",
             "description": null,
             "title": "End of terrace;  junction Tower Gardens Road and Bennington Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_tower-gardens-road-junction-bennington-road_af5661f6dd33b8009cfaecb37e3995c0.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_tower-gardens-road-junction-bennington-road_1c70cc07f35ccd07b625f15114164dce.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_tower-gardens-road-terraced-block-with-recessed-green-space_534a926db2df690d5643697a25b9f9fa.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_tower-gardens-road-terraced-block-with-recessed-green-space_5586654d89ceb86da0cf51fff4464be3.jpg",
             "description": null,
             "title": "Tower Gardens Road terraced with recessed green area boarded by privet hedges",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_tower-gardens-road-terraced-block-with-recessed-green-space_534a926db2df690d5643697a25b9f9fa.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_tower-gardens-road-terraced-block-with-recessed-green-space_5586654d89ceb86da0cf51fff4464be3.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_risley-avenue-end-of-terrace_193486a3ae737737871e42d0d922da55.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2192/building_2192_risley-avenue-end-of-terrace_0f7ff821904bbfbb10a95651962b6a57.jpg",
             "description": null,
             "title": "Risley Avenue end of terrace",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_risley-avenue-end-of-terrace_193486a3ae737737871e42d0d922da55.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2192_risley-avenue-end-of-terrace_0f7ff821904bbfbb10a95651962b6a57.jpg"
         }
     ],
     "links": [],
@@ -146,10 +172,12 @@
         "travel_info": [
             "Tube: Turnpike Lane, Wood Green",
             "Train: Bruce Grove",
-            "Bus: 123, 144, 243, 217, 444"
+            "Bus: 123, 144, 243, 217, 444",
+            "Additional travel info: CYCLE:  86 on the London Cycle\r\nBUS:   123, 243 Roundway West Arm, 444, 231, 217, 144  stop on The Roundway\r\n\r\nPARKING: Restricted CPZ schemes DO NOT park in CPZ area 'TG' - it is enforced daily. Parking available at CPZ area 'TGED' IN BLACK on signs between Kevlioc & Bennington Road enforced only during Tottenham stadium events.  Happy for you to drop off guests then park."
         ]
     },
     "name": "Tower Gardens Garden Suburb",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2192",
     "ticketed_events": false
 }

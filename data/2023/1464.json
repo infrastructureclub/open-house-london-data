@@ -23,6 +23,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -61,22 +62,22 @@
     "id": 1464,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1464/building_1464_riba3266-49_8f027935b6fc1e58a008737e0d98af3f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1464/building_1464_riba3266-49_0d77ad2e593dd2cda1b18340ede45a35.jpg",
             "description": null,
             "title": " Royal Institute of British Architects, 66 Portland Place, London",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1464_riba3266-49_8f027935b6fc1e58a008737e0d98af3f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1464_riba3266-49_0d77ad2e593dd2cda1b18340ede45a35.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1464/building_1464_66-portland-place-hero-m-2_607e8b2235329d50518224360c4bfd59.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1464/building_1464_66-portland-place-hero-m-2_64466d9b8e2dcc3a692af49dcd6936ca.jpeg",
             "description": null,
             "title": "View from Portland Place",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1464_66-portland-place-hero-m-2_607e8b2235329d50518224360c4bfd59.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1464_66-portland-place-hero-m-2_64466d9b8e2dcc3a692af49dcd6936ca.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1464/building_1464_riba120930_fab94510cd556aebb9db81d3fd8a03d1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1464/building_1464_riba120930_e086901d1848dda6d636e017d1999ffa.jpg",
             "description": null,
             "title": "Architectural Press Archive/RIBA Collections",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1464_riba120930_fab94510cd556aebb9db81d3fd8a03d1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1464_riba120930_e086901d1848dda6d636e017d1999ffa.jpg"
         }
     ],
     "links": [],
@@ -87,10 +88,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Great Portland Street, Oxford Circus, Regent's Park",
-            "Bus: 88, C2, 453"
+            "Bus: 88, C2, 453",
+            "Additional travel info: Nearby tube stations:\r\n\r\nOxford Circus\r\nRegents Park\r\nGreat Portland Street"
         ]
     },
     "name": "RIBA",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1464",
     "ticketed_events": false
 }

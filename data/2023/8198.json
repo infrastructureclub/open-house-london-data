@@ -25,12 +25,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/8198",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T11:45:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided tour",
             "notes": null,
             "start": "2023-09-09T11:00:00+01:00",
@@ -39,6 +40,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/8198",
             "capacity": null,
             "date": "2023-09-09",
@@ -53,6 +55,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/8198",
             "capacity": null,
             "date": "2023-09-09",
@@ -67,6 +70,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/8198",
             "capacity": null,
             "date": "2023-09-09",
@@ -136,73 +140,75 @@
     "id": 8198,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_0277_rhn-028-small_06df1f0077d27629a3940777af5f8578.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_0277_rhn-028-small_eb0134c700439e14e0b5ec9403938d42.jpg",
             "description": null,
             "title": "View from the garden",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_0277_rhn-028-small_06df1f0077d27629a3940777af5f8578.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_0277_rhn-028-small_eb0134c700439e14e0b5ec9403938d42.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_0277_rhn-032_3cc1ba687d4083180451602695867b58.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_0277_rhn-032_a6330091cde193cd4291cd1a8f6dbc7a.jpg",
             "description": null,
             "title": "View of the front of the building",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_0277_rhn-032_3cc1ba687d4083180451602695867b58.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_0277_rhn-032_a6330091cde193cd4291cd1a8f6dbc7a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_img_6591-small_0d7df81cb2266f9e8d1a5aed160f075f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_img_6591-small_3c3f251763939ca058c4480b5021df71.jpg",
             "description": null,
             "title": "View of the back of the building",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_img_6591-small_0d7df81cb2266f9e8d1a5aed160f075f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_img_6591-small_3c3f251763939ca058c4480b5021df71.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_assembly-room-heritage2_c837237ab33648582bb95e0945054f39.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_assembly-room-heritage2_60f103cea31c70e5bf0f72894682730f.jpg",
             "description": null,
             "title": "Assembly Room",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_assembly-room-heritage2_c837237ab33648582bb95e0945054f39.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_assembly-room-heritage2_60f103cea31c70e5bf0f72894682730f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_img_0834-cropped_7736cd528500663ea35e83bba8e557ba.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_img_0834-cropped_987bc7b455ad577b8a8f6ab4e3f33732.jpg",
             "description": null,
             "title": "Patients gathered on the terrace",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_img_0834-cropped_7736cd528500663ea35e83bba8e557ba.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_img_0834-cropped_987bc7b455ad577b8a8f6ab4e3f33732.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_img_0664_3e70bce12bbcb1ae0a9edc3e3203fd13.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_img_0664_2f10cf5b8bc9ae238d6c18c5708174e5.jpg",
             "description": null,
             "title": "Stain glass windows in the corridor",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_img_0664_3e70bce12bbcb1ae0a9edc3e3203fd13.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_img_0664_2f10cf5b8bc9ae238d6c18c5708174e5.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_img_4089_f05dd8772d3e2dcc81ba77dece71f52c.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_img_4089_d12edc4be2ee68dae370a42417bfe66f.jpg",
             "description": null,
             "title": "View of the front of the building",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_img_4089_f05dd8772d3e2dcc81ba77dece71f52c.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_img_4089_d12edc4be2ee68dae370a42417bfe66f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_0277_rhn-002_9b92871376c54b5085680591dfdfdb0c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_0277_rhn-002_7cd38a9d94a23a11073b0fb3b535e48f.jpg",
             "description": null,
             "title": "Assembly Room",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_0277_rhn-002_9b92871376c54b5085680591dfdfdb0c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_0277_rhn-002_7cd38a9d94a23a11073b0fb3b535e48f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_bf28000d-3bf2-4b53-8bf5-dc4f1e2e8a5a_9828f69ea1ca3da9615851f4339dccb8.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8198/building_8198_bf28000d-3bf2-4b53-8bf5-dc4f1e2e8a5a_30f0519834df9d7635f9ceca36c0666a.jpeg",
             "description": null,
             "title": "Refurbished Assembly Room",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_bf28000d-3bf2-4b53-8bf5-dc4f1e2e8a5a_9828f69ea1ca3da9615851f4339dccb8.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_bf28000d-3bf2-4b53-8bf5-dc4f1e2e8a5a_30f0519834df9d7635f9ceca36c0666a.jpeg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Royal Hospital for Neuro-disability, West Hill",
+        "address": "Royal Hospital for Neuro-disability, West Hill, SW15 3SW",
         "latitude": 51.45162699999999,
         "longitude": -0.2141958,
         "meeting_point": null,
         "travel_info": [
             "Tube: East Putney",
             "Train: Putney",
-            "Bus: 170, 14, 39, 85"
+            "Bus: 170, 14, 39, 85",
+            "Additional travel info: Free car park on site"
         ]
     },
     "name": "Royal Hospital for Neuro-disability",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/8198",
     "ticketed_events": true
 }

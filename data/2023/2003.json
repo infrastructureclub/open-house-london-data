@@ -23,6 +23,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -37,6 +38,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2003",
             "capacity": null,
             "date": "2023-09-16",
@@ -51,6 +53,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2003",
             "capacity": null,
             "date": "2023-09-16",
@@ -108,28 +111,28 @@
     "id": 2003,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2003/building_2003_img_7387_7f624ccd25a540849799e5e8a0e43ccc.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2003/building_2003_img_7387_0cac565a1596d1cfc2b9173883b7ebf8.jpg",
             "description": null,
             "title": "The Art Workers' Guild in Queen Square",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2003_img_7387_7f624ccd25a540849799e5e8a0e43ccc.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2003_img_7387_0cac565a1596d1cfc2b9173883b7ebf8.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2003/building_2003_hall-graham-miller_df70b1d2e52649ba9713b619550002cb.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2003/building_2003_hall-graham-miller_8d74336d3abc276ff5281c2fa77c0fb5.jpg",
             "description": null,
             "title": "The lecture hall designed by F W Troup",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2003_hall-graham-miller_df70b1d2e52649ba9713b619550002cb.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2003_hall-graham-miller_8d74336d3abc276ff5281c2fa77c0fb5.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2003/building_2003_20170926_102734_resized_a7bc2c61216d8d811d6ab5e4f99bc73b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2003/building_2003_20170926_102734_resized_41077f0669f8652afd420215754cc2d6.jpg",
             "description": null,
             "title": "The new courtyard",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2003_20170926_102734_resized_a7bc2c61216d8d811d6ab5e4f99bc73b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2003_20170926_102734_resized_41077f0669f8652afd420215754cc2d6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2003/building_2003_img_7709_b2a02d12afd395611c6e88d80e50dae6.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2003/building_2003_img_7709_3574754bb032fa7fbf82146a64293e25.jpg",
             "description": null,
             "title": "Portraits of Past Masters",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2003_img_7709_b2a02d12afd395611c6e88d80e50dae6.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2003_img_7709_3574754bb032fa7fbf82146a64293e25.jpg"
         }
     ],
     "links": [],
@@ -145,6 +148,7 @@
         ]
     },
     "name": "Table Top Museums at the Art Workers' Guild",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2003",
     "ticketed_events": true
 }

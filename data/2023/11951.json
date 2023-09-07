@@ -12,6 +12,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11951",
             "capacity": null,
             "date": "2023-09-16",
@@ -37,10 +38,10 @@
     "id": 11951,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11951/building_11951_pxl_20230804_154646078_0729be144ce0f08a46e30950118b9f6b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11951/building_11951_pxl_20230804_154646078_313493d4c0d16ca908c0e9e5bdfe923f.jpg",
             "description": null,
             "title": "The progress flag flying in Soho",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11951_pxl_20230804_154646078_0729be144ce0f08a46e30950118b9f6b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11951_pxl_20230804_154646078_313493d4c0d16ca908c0e9e5bdfe923f.jpg"
         }
     ],
     "links": [
@@ -50,17 +51,19 @@
         }
     ],
     "location": {
-        "address": "Criterion Theatre opposite Eros",
+        "address": "Criterion Theatre opposite Eros, 218-223 Piccadilly, W1J 9HR",
         "latitude": 51.50972,
         "longitude": -0.13426,
         "meeting_point": null,
         "travel_info": [
             "Tube: Green Park, Charing Cross, Piccadilly Circus",
             "Train: Charing Cross",
-            "Bus: 94, 159, 139, 453, 38"
+            "Bus: 94, 159, 139, 453, 38",
+            "Additional travel info: End: near Soho Square"
         ]
     },
     "name": "Queer City: LGBTQ + stories and spaces in Soho",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11951",
     "ticketed_events": true
 }

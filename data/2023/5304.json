@@ -21,20 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-06",
-            "drop_in": true,
-            "end": "2023-09-06T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "The church is open daily throughout the Festival from 0930hrs to 1700hrs.  Guide sheets available for self-guiding.",
-            "start": "2023-09-06T09:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -49,6 +36,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -99,40 +87,40 @@
     "id": 5304,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5304/building_5304_008_b72aaa5e6ce736605e4f1a3f3ad32bdb.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5304/building_5304_008_469653b8347abe243edc62bd44b9d220.jpg",
             "description": null,
             "title": "View from the Lych Gate",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_008_b72aaa5e6ce736605e4f1a3f3ad32bdb.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_008_469653b8347abe243edc62bd44b9d220.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5304/building_5304_009_79111ba521181f943255e8ea88b45e23.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5304/building_5304_009_d19674dd33a59b4219b43e7ca661439c.jpg",
             "description": null,
             "title": "western yew avenue",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_009_79111ba521181f943255e8ea88b45e23.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_009_d19674dd33a59b4219b43e7ca661439c.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5304/building_5304_003_844f69f002718c399c0eacc1db4d8651.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5304/building_5304_003_7bafb7ba1c127fe055d032ebe27df6f5.jpg",
             "description": null,
             "title": "Clock by Dent 1858",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_003_844f69f002718c399c0eacc1db4d8651.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_003_7bafb7ba1c127fe055d032ebe27df6f5.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5304/building_5304_sir-malcolm-campbell-004_9fdf38ae103b2065fc62ff9d87f6d83d.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5304/building_5304_sir-malcolm-campbell-004_f16bed9fd2d7d0fcf59c4a81cf513a3a.jpg",
             "description": null,
             "title": "Sir Malcolm Campbell's Grave",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_sir-malcolm-campbell-004_9fdf38ae103b2065fc62ff9d87f6d83d.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_sir-malcolm-campbell-004_f16bed9fd2d7d0fcf59c4a81cf513a3a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5304/building_5304_horatio-finished-4_e44a4affad40b610ea5b7d16b63bf745.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5304/building_5304_horatio-finished-4_288657033aaa0d4c1fe8beb0f1670f86.jpg",
             "description": null,
             "title": "Hatchment (Horatio)",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_horatio-finished-4_e44a4affad40b610ea5b7d16b63bf745.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_horatio-finished-4_288657033aaa0d4c1fe8beb0f1670f86.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5304/building_5304_001_0e6a3b0e33cb62ec89f8756752758c83.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5304/building_5304_001_bf2568248f69ea809d53be8005dcadfd.jpg",
             "description": null,
             "title": "The Church Clock",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_001_0e6a3b0e33cb62ec89f8756752758c83.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5304_001_bf2568248f69ea809d53be8005dcadfd.jpg"
         }
     ],
     "links": [],
@@ -143,10 +131,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Chislehurst, Petts Wood",
-            "Bus: 269, 273, 61, 160, 161, 162"
+            "Bus: 269, 273, 61, 160, 161, 162",
+            "Additional travel info: By car suggest A20 to A222 signposted to BROMLEY.  Parking 3 sides of churchyard."
         ]
     },
     "name": "St Nicholas Church, Chislehurst",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/5304",
     "ticketed_events": false
 }

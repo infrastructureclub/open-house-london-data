@@ -12,6 +12,7 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11971",
             "capacity": null,
             "date": "2023-09-09",
@@ -43,10 +44,10 @@
     "id": 11971,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11971/building_11971_coverfoto_90c4fcda6aad64b1889024aabac26cda.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11971/building_11971_coverfoto_3c3c0933ef5326204641d72b774c1d2e.jpg",
             "description": null,
             "title": "The houses in Fournier Street once were home to Huguenot weavers.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11971_coverfoto_90c4fcda6aad64b1889024aabac26cda.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11971_coverfoto_3c3c0933ef5326204641d72b774c1d2e.jpg"
         }
     ],
     "links": [
@@ -56,7 +57,7 @@
         }
     ],
     "location": {
-        "address": "Outside hub by Premier Inn London Spitalfield",
+        "address": "Outside hub by Premier Inn London Spitalfield, 86 Brick Lane, E1 6RL",
         "latitude": 51.51929,
         "longitude": -0.07158,
         "meeting_point": null,
@@ -66,6 +67,7 @@
         ]
     },
     "name": "Huguenots' heritage in Spitalfields",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11971",
     "ticketed_events": true
 }

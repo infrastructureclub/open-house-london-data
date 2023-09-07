@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -60,16 +61,16 @@
     "id": 697,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/697/building_697_mill-clockmill_1ce11c4761a8026aaef54a1e169a7b3c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/697/building_697_mill-clockmill_f46e0942f8f4daa7f1e4216e725ee6ae.jpg",
             "description": null,
             "title": "House Mill and Setting ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_697_mill-clockmill_1ce11c4761a8026aaef54a1e169a7b3c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_697_mill-clockmill_f46e0942f8f4daa7f1e4216e725ee6ae.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/697/building_697_mill-below_300c0aabc1cf8dbbfe663e1af516f11e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/697/building_697_mill-below_d9bda81d75213f919bacc5d8a028b5d0.jpg",
             "description": null,
             "title": "House Mill at Low Tide ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_697_mill-below_300c0aabc1cf8dbbfe663e1af516f11e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_697_mill-below_d9bda81d75213f919bacc5d8a028b5d0.jpg"
         }
     ],
     "links": [],
@@ -80,10 +81,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Bromley By Bow",
-            "Bus: 488, 323, D8, 25"
+            "Bus: 488, 323, D8, 25",
+            "Additional travel info: Underground: Bromley-by-Bow, then a 5-minute walk. DLR: The nearest DLR stations areAbbey Road, Bow Church, Devon's Road, Pudding Mill Lane and Stratford High Street, and all are a 10-minute walk away. \r\nBus: Bus routes 108 and 488 stop outside Tesco, Three Mill\r\nLane – a 3-minute walk away. Routes 25, 276 and 425 stop at Stratford High Street Bow Flyover – a 5-minute walk"
         ]
     },
     "name": "House Mill",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/697",
     "ticketed_events": false
 }

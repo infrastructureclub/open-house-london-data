@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-14",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -71,28 +73,28 @@
     "id": 11742,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11742/building_11742_jf-staff-outing-1920s_40a60d1d58960a4f4e0561ad534570f2.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11742/building_11742_jf-staff-outing-1920s_d44c5c7fbf117bd379fb264a098dd668.jpg",
             "description": null,
             "title": "Jerram Falkus is an established, family-run construction business that  operates across London",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11742_jf-staff-outing-1920s_40a60d1d58960a4f4e0561ad534570f2.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11742_jf-staff-outing-1920s_d44c5c7fbf117bd379fb264a098dd668.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11742/building_11742_jf1_02ab8e8703108cafbfc7dc640e1be954.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11742/building_11742_jf1_9200ae522eeecc6a6b61f1e5c45264c8.jpg",
             "description": null,
             "title": "Jerram Falkus Main Entrance",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11742_jf1_02ab8e8703108cafbfc7dc640e1be954.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11742_jf1_9200ae522eeecc6a6b61f1e5c45264c8.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11742/building_11742_img_5736_9711d740f28cb4feecbcfa1affee1353.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11742/building_11742_img_5736_7998a2261e2c7858c7033af3749fc453.jpeg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11742_img_5736_9711d740f28cb4feecbcfa1affee1353.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11742_img_5736_7998a2261e2c7858c7033af3749fc453.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11742/building_11742_img_5738_8fdff6c32276295957185fe3a7d1dd9a.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11742/building_11742_img_5738_a7a16739b69c7896555c4d07b9ffcd54.jpeg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11742_img_5738_8fdff6c32276295957185fe3a7d1dd9a.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11742_img_5738_a7a16739b69c7896555c4d07b9ffcd54.jpeg"
         }
     ],
     "links": [],
@@ -107,6 +109,7 @@
         ]
     },
     "name": "Jerram Falkus Construction Ltd",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11742",
     "ticketed_events": false
 }

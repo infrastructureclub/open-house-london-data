@@ -27,34 +27,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-06",
-            "drop_in": true,
-            "end": "2023-09-06T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Please drop in for a self-guided view the exhibits, hear the stories of the museum, and the resititution of art.",
-            "start": "2023-09-06T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-07",
-            "drop_in": true,
-            "end": "2023-09-07T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Please drop in for a self-guided view the exhibits, hear the stories of the museum, and the resititution of art.",
-            "start": "2023-09-07T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-08",
@@ -69,6 +42,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-13",
@@ -83,6 +57,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-14",
@@ -97,6 +72,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-15",
@@ -111,6 +87,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -123,28 +100,15 @@
             "ticketed": false
         },
         {
-            "activity_type": "Walking Tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10952",
-            "capacity": null,
-            "date": "2023-09-06",
-            "drop_in": false,
-            "end": "2023-09-06T13:50:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour: St Pancras Art in Everyday life",
-            "notes": null,
-            "start": "2023-09-06T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10952",
             "capacity": null,
             "date": "2023-09-08",
             "drop_in": false,
             "end": "2023-09-08T19:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour: St Pancras Art in Everyday life",
             "notes": null,
             "start": "2023-09-08T18:00:00+01:00",
@@ -153,6 +117,7 @@
         {
             "activity_type": "Workshop",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10952",
             "capacity": null,
             "date": "2023-09-09",
@@ -167,12 +132,13 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10952",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T17:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Ossulston Estate - echoes of Karl Marx hof",
             "notes": null,
             "start": "2023-09-09T15:30:00+01:00",
@@ -181,6 +147,7 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10952",
             "capacity": null,
             "date": "2023-09-16",
@@ -229,22 +196,22 @@
     "id": 10952,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10952/building_10952_image_5c934f4a558ace734831c66e67f70a37.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10952/building_10952_image_5190c3ba3a353bf7d685190ba20e632f.jpg",
             "description": null,
             "title": "A museum on the social housing Ossulston Estate - a Space for us?",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10952_image_5c934f4a558ace734831c66e67f70a37.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10952_image_5190c3ba3a353bf7d685190ba20e632f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10952/building_10952_image-15_d9bd27b9218c76b47de26aeff64d62f5.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10952/building_10952_image-15_e16b0cc04819f673c9e9f48ceb631876.jpg",
             "description": null,
             "title": "Pearly Queen outside the People's Museum",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10952_image-15_d9bd27b9218c76b47de26aeff64d62f5.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10952_image-15_e16b0cc04819f673c9e9f48ceb631876.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10952/building_10952_bayes_draper_c0c028c75c2f6efef597b3831c3de8df.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10952/building_10952_bayes_draper_7f3e5b45b5214a3678350c626287e132.jpg",
             "description": null,
             "title": "Hear the story of stolen social housing art from those who restituted it. Gilbert Bayes 'Draper'",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10952_bayes_draper_c0c028c75c2f6efef597b3831c3de8df.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10952_bayes_draper_7f3e5b45b5214a3678350c626287e132.jpg"
         }
     ],
     "links": [
@@ -265,10 +232,12 @@
         "travel_info": [
             "Tube: Euston, King's Cross St. Pancras",
             "Train: St. Pancras, Euston, King's Cross",
-            "Bus: 73, 30, 205, 68, 390, 168, 214"
+            "Bus: 73, 30, 205, 68, 390, 168, 214",
+            "Additional travel info: The museum is within 10 minutes of Euston, St Pancras and Kings Cross Stations, so has great access to tube lines, as well as terminals for visitors coming from out of London.  There are also many bus routes stopping on nearby Eversholt Street and Euston Road."
         ]
     },
     "name": "People's Museum Somers Town",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10952",
     "ticketed_events": true
 }

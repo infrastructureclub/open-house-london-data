@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-08",
@@ -47,10 +48,10 @@
     "id": 11777,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11777/building_11777_img_2393_d10fe921fd510cd2c50c9378fa237f66.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11777/building_11777_img_2393_5cdedfe13912397d331ee2456b155dde.jpg",
             "description": null,
             "title": "Come visit the Prince Henry Room, one of the few survivors of the 1666 Great Fire of London.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11777_img_2393_d10fe921fd510cd2c50c9378fa237f66.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11777_img_2393_5cdedfe13912397d331ee2456b155dde.jpg"
         }
     ],
     "links": [],
@@ -66,6 +67,7 @@
         ]
     },
     "name": "The Prince Henry Room",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11777",
     "ticketed_events": false
 }

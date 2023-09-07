@@ -12,6 +12,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11834",
             "capacity": null,
             "date": "2023-09-10",
@@ -47,10 +48,10 @@
     "id": 11834,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11834/building_11834_img_0020_a3033cc42a5ec2ae55ea1d236e140145.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11834/building_11834_img_0020_23fcb891a33d7a9c46bf5087804888f8.jpeg",
             "description": null,
             "title": "The Lagoon, Franco-British Exhibition , White City 1908",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11834_img_0020_a3033cc42a5ec2ae55ea1d236e140145.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11834_img_0020_23fcb891a33d7a9c46bf5087804888f8.jpeg"
         }
     ],
     "links": [
@@ -70,6 +71,7 @@
         ]
     },
     "name": "Reimagining the Great White City",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11834",
     "ticketed_events": true
 }

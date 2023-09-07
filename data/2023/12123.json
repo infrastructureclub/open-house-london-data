@@ -20,6 +20,22 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "The architect will be available to show the property and answer any questions.",
+            "start": "2023-09-16T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,20 +50,22 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": true,
-            "end": "2023-09-16T15:00:00+01:00",
+            "end": "2023-09-16T17:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
             "notes": "The architect will be available to show the property and answer any questions.",
-            "start": "2023-09-16T12:00:00+01:00",
+            "start": "2023-09-16T14:00:00+01:00",
             "ticketed": false
         },
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -62,15 +80,16 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": true,
-            "end": "2023-09-17T15:00:00+01:00",
+            "end": "2023-09-17T17:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
             "notes": "The architect will be available to show the property and answer any questions.",
-            "start": "2023-09-17T12:00:00+01:00",
+            "start": "2023-09-17T14:00:00+01:00",
             "ticketed": false
         }
     ],
@@ -99,36 +118,38 @@
     "id": 12123,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12123/building_12123_dd_march_17-3-22_hr-25_41b4a8c7f81cdc2a0f9670cddd690e1b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12123/building_12123_dd_march_17-3-22_hr-25_7e481794851c2993841911683fe3ad13.jpg",
             "description": null,
             "title": "Front facade of A3 by Adam Khan Architects",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12123_dd_march_17-3-22_hr-25_41b4a8c7f81cdc2a0f9670cddd690e1b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12123_dd_march_17-3-22_hr-25_7e481794851c2993841911683fe3ad13.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12123/building_12123_aka_066_designdistrict_photograph_01-width-1300_a74f26c3a29cfdbcc9a7ab4426d3198e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12123/building_12123_aka_066_designdistrict_photograph_01-width-1300_8b729cf44fc5c68b04309c5a6b87edaf.jpg",
             "description": null,
             "title": "Design process by Adam Khan Architects",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12123_aka_066_designdistrict_photograph_01-width-1300_a74f26c3a29cfdbcc9a7ab4426d3198e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12123_aka_066_designdistrict_photograph_01-width-1300_8b729cf44fc5c68b04309c5a6b87edaf.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12123/building_12123_aka_066_designdistrict_model-interior_01-width-1300_81713dc71d21233b1dabd9baeec9f711.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12123/building_12123_aka_066_designdistrict_model-interior_01-width-1300_14d533ebb1686594f8c93e84940eeef1.jpg",
             "description": null,
             "title": "Internal design by Adam Khan Architects",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12123_aka_066_designdistrict_model-interior_01-width-1300_81713dc71d21233b1dabd9baeec9f711.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12123_aka_066_designdistrict_model-interior_01-width-1300_14d533ebb1686594f8c93e84940eeef1.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Building A3 Design District, Soames Walk",
+        "address": "Building A3 Design District, Soames Walk, SE10 0BJ",
         "latitude": 51.50032,
         "longitude": 0.00498,
         "meeting_point": null,
         "travel_info": [
             "Tube: North Greenwich",
-            "Bus: 486, 472, 422, 188, 180, 161, 132, 129, 108"
+            "Bus: 486, 472, 422, 188, 180, 161, 132, 129, 108",
+            "Additional travel info: The closest tube station in North Greenwich (30 metres). On the 24-hour Jubilee line, it gets you to London Bridge in 8 minutes and Waterloo in 11 minutes.\r\n\r\nEMIRATES AIR LINE CABLE CAR\r\nConnecting the Design District to the Royal Docks (near ExCel London) and the DLR.\r\n\r\nNorth Greenwich bus station is a major hub providing direct links across the city."
         ]
     },
     "name": "A3: Design District",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12123",
     "ticketed_events": false
 }

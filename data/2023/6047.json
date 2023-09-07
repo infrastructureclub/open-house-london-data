@@ -35,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -49,6 +50,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -101,27 +103,27 @@
     "id": 6047,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6047/building_6047_img_1422_af7a42b419c86f52fc6c1b807094d283.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6047/building_6047_img_1422_11427d3d7fd656136cf143965a120b77.jpg",
             "description": null,
             "title": "Towards Bodley Manor Way across the Telly Tubby",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6047_img_1422_af7a42b419c86f52fc6c1b807094d283.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6047_img_1422_11427d3d7fd656136cf143965a120b77.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6047/building_6047_cressinghamgardenstour-3_highres_b18d38fad12ffe3e7c9b2a3e75f86a0e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6047/building_6047_cressinghamgardenstour-3_highres_75941736a07037102cd634933c851add.jpg",
             "description": null,
             "title": "Rotunda",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6047_cressinghamgardenstour-3_highres_b18d38fad12ffe3e7c9b2a3e75f86a0e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6047_cressinghamgardenstour-3_highres_75941736a07037102cd634933c851add.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6047/building_6047_img_2937_df265bcabeefc11084ac4285a7840b6a.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6047/building_6047_img_2937_74e6adef8b22aa564c054e04cf8b5c37.jpg",
             "description": null,
             "title": "Ivy Lady",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6047_img_2937_df265bcabeefc11084ac4285a7840b6a.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6047_img_2937_74e6adef8b22aa564c054e04cf8b5c37.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Cressingham Gardens Rotunda, Tulse Hill",
+        "address": "Cressingham Gardens Rotunda, Tulse Hill , SW2 2QG",
         "latitude": 51.4470837,
         "longitude": -0.1118877,
         "meeting_point": null,
@@ -132,6 +134,7 @@
         ]
     },
     "name": "Cressingham Gardens",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6047",
     "ticketed_events": false
 }

@@ -15,6 +15,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -29,6 +30,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -63,22 +65,22 @@
     "id": 11916,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11916/building_11916_screenshot-2023-08-12-at-15-15-21_f8adabb67fedaa212960a0d593a74b8f.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11916/building_11916_screenshot-2023-08-12-at-15-15-21_fe11475a09c2c5fe7b3faec2f999bda9.png",
             "description": null,
             "title": "Outside the Lawrence Rd Studios",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11916_screenshot-2023-08-12-at-15-15-21_f8adabb67fedaa212960a0d593a74b8f.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11916_screenshot-2023-08-12-at-15-15-21_fe11475a09c2c5fe7b3faec2f999bda9.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11916/building_11916_screenshot-2023-08-12-at-15-12-52_9620e617d5f859d62b88cfb1d218da42.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11916/building_11916_screenshot-2023-08-12-at-15-12-52_bfeee49895cd136185c344cf8a06fec7.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11916_screenshot-2023-08-12-at-15-12-52_9620e617d5f859d62b88cfb1d218da42.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11916_screenshot-2023-08-12-at-15-12-52_bfeee49895cd136185c344cf8a06fec7.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11916/building_11916_screenshot-2023-08-12-at-15-14-59_c3db4d7d992777f5ec17e1e0b8091ee7.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11916/building_11916_screenshot-2023-08-12-at-15-14-59_d4ca396cea8e5eb314de4b018e49c96b.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11916_screenshot-2023-08-12-at-15-14-59_c3db4d7d992777f5ec17e1e0b8091ee7.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11916_screenshot-2023-08-12-at-15-14-59_d4ca396cea8e5eb314de4b018e49c96b.png"
         }
     ],
     "links": [],
@@ -94,6 +96,7 @@
         ]
     },
     "name": "28 Lawrence Road, N15 4EG",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11916",
     "ticketed_events": false
 }

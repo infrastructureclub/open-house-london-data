@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -36,6 +37,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -50,6 +52,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -64,6 +67,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -126,22 +130,22 @@
     "id": 2347,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2347/building_2347_108471840_10157814229813191_5282745387740849018_n_e727f38315966a04d7c889f1285009a0.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2347/building_2347_108471840_10157814229813191_5282745387740849018_n_28bff91e5fd34e2d8576cad3350cfebf.jpg",
             "description": null,
             "title": "Franklin's Floor ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2347_108471840_10157814229813191_5282745387740849018_n_e727f38315966a04d7c889f1285009a0.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2347_108471840_10157814229813191_5282745387740849018_n_28bff91e5fd34e2d8576cad3350cfebf.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2347/building_2347_bfh-exterior-19_6ed8eb30fbc83f684b32dea739ffa4f0.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2347/building_2347_bfh-exterior-19_8c6e1c0e1ddd5f5768ad51de39a943a2.jpg",
             "description": null,
             "title": "View from outside",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2347_bfh-exterior-19_6ed8eb30fbc83f684b32dea739ffa4f0.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2347_bfh-exterior-19_8c6e1c0e1ddd5f5768ad51de39a943a2.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2347/building_2347_202_bbb9c2c3a0a8e459dc0233b46d04bb41.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2347/building_2347_202_1201b7fce20dde491bf1debd7a74bc6f.jpg",
             "description": null,
             "title": "Georgian decoration on central staircase ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2347_202_bbb9c2c3a0a8e459dc0233b46d04bb41.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2347_202_1201b7fce20dde491bf1debd7a74bc6f.jpg"
         }
     ],
     "links": [],
@@ -156,6 +160,7 @@
         ]
     },
     "name": "Benjamin Franklin House",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2347",
     "ticketed_events": false
 }

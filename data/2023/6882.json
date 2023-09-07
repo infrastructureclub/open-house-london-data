@@ -23,14 +23,15 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": true,
-            "end": "2023-09-17T15:00:00+01:00",
+            "end": "2023-09-17T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "There will be the following guided tours of the workshop:\r\n11.15\r\n12.15\r\n13.15\r\n14.15",
+            "notes": "There will be the following guided tours of the workshop:\r\n11.00\r\n13.00\r\n15.00",
             "start": "2023-09-17T11:00:00+01:00",
             "ticketed": false
         }
@@ -126,7 +127,7 @@
     ],
     "links": [],
     "location": {
-        "address": "Blackhorse Workshop, 1-2 Sutherland Road Path",
+        "address": "Blackhorse Workshop, 1-2 Sutherland Road Path, E17 6BX",
         "latitude": 51.59183840000001,
         "longitude": -0.03902129999999999,
         "meeting_point": null,
@@ -137,6 +138,7 @@
         ]
     },
     "name": "Blackhorse Workshop",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6882",
     "ticketed_events": false
 }

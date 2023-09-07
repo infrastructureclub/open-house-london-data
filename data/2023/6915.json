@@ -20,6 +20,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6915",
             "capacity": null,
             "date": "2023-09-17",
@@ -93,10 +94,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Highgate",
-            "Bus: 43, 134, 263"
+            "Bus: 43, 134, 263",
+            "Additional travel info: Nearest Bus Stop is Wood Lane, Highgate\r\nHighgate tube station is very close to 6 Wood Lane"
         ]
     },
     "name": "6 Wood Lane",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6915",
     "ticketed_events": true
 }

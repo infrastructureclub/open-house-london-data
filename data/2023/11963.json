@@ -21,15 +21,16 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11963",
             "capacity": null,
             "date": "2023-09-10",
             "drop_in": false,
-            "end": "2023-09-10T16:30:00+01:00",
-            "fully_booked": true,
+            "end": "2023-09-10T14:30:00+01:00",
+            "fully_booked": false,
             "name": "Hawksmoor: The Devil’s Architect?",
             "notes": null,
-            "start": "2023-09-10T15:00:00+01:00",
+            "start": "2023-09-10T13:00:00+01:00",
             "ticketed": true
         }
     ],
@@ -51,10 +52,10 @@
     "id": 11963,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11963/building_11963_christ_church_spitalfields_02_e5d3cd528918275538cd1e35b3736d99.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11963/building_11963_christ_church_spitalfields_02_83b9aaafd5ab7588b4bba8ce321c1b07.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11963_christ_church_spitalfields_02_e5d3cd528918275538cd1e35b3736d99.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11963_christ_church_spitalfields_02_83b9aaafd5ab7588b4bba8ce321c1b07.jpg"
         }
     ],
     "links": [
@@ -64,7 +65,7 @@
         }
     ],
     "location": {
-        "address": "At entry gates to platform 10 Liverpool St. mai",
+        "address": "At entry gates to platform 10 Liverpool St. mainline station.",
         "latitude": 51.51875,
         "longitude": -0.08143,
         "meeting_point": null,
@@ -75,6 +76,7 @@
         ]
     },
     "name": "Hawksmoor: The Devil’s Architect?",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11963",
     "ticketed_events": true
 }

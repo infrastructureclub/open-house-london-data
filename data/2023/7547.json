@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-08",
@@ -35,6 +36,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -115,43 +117,45 @@
     "id": 7547,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7547/building_7547_dsc_0379_d5b22ec66e00d028c0e255047d329878.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7547/building_7547_dsc_0379_37beee229604803ddf8f42cc188a3b43.jpg",
             "description": null,
             "title": "Yarmouth Crescent houses",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7547_dsc_0379_d5b22ec66e00d028c0e255047d329878.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7547_dsc_0379_37beee229604803ddf8f42cc188a3b43.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7547/building_7547_dsc_0376_f4136faef0b754bb50a9957ccce14774.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7547/building_7547_dsc_0376_015cc6fcacc02a0dc4a93439776ead9e.jpg",
             "description": null,
             "title": "Kessock Close flats",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7547_dsc_0376_f4136faef0b754bb50a9957ccce14774.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7547_dsc_0376_015cc6fcacc02a0dc4a93439776ead9e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7547/building_7547_glc-photo-3_35b15407f0da0b3ab3cef18a1dacd56a.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7547/building_7547_glc-photo-3_25e6fc5dfebc3b6466c34c766fa87014.png",
             "description": null,
             "title": "Houses for sale in GLC brochure ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7547_glc-photo-3_35b15407f0da0b3ab3cef18a1dacd56a.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7547_glc-photo-3_25e6fc5dfebc3b6466c34c766fa87014.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7547/building_7547_glc-photo-4_f7e5489af69a2652bf0dfaf9f611b67e.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7547/building_7547_glc-photo-4_2a825bff18c55c014182e43c14d13f10.png",
             "description": null,
             "title": "Flats in GLC brochure",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7547_glc-photo-4_f7e5489af69a2652bf0dfaf9f611b67e.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7547_glc-photo-4_2a825bff18c55c014182e43c14d13f10.png"
         }
     ],
     "links": [],
     "location": {
-        "address": "Nearest property 1 Reedham Close",
+        "address": "Nearest property 1 Reedham Close, Ferry Lane Estate, N17 9PX",
         "latitude": 51.58515,
         "longitude": -0.05798,
         "meeting_point": null,
         "travel_info": [
             "Tube: Tottenham Hale",
             "Train: Tottenham Hale",
-            "Bus: W4, 41, 123, 230, 76, 192"
+            "Bus: W4, 41, 123, 230, 76, 192",
+            "Additional travel info: There is very limited parking on the estate and in surrounding area."
         ]
     },
     "name": "Ferry Lane Estate",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/7547",
     "ticketed_events": false
 }

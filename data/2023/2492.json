@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -67,22 +68,22 @@
     "id": 2492,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2492/building_2492_st-botolphs01_bce1e2ee319533247358a621aae30f93.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2492/building_2492_st-botolphs01_fc9b9c5fcad1ba9237a50a3b5e49615f.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2492_st-botolphs01_bce1e2ee319533247358a621aae30f93.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2492_st-botolphs01_fc9b9c5fcad1ba9237a50a3b5e49615f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2492/building_2492_st-botolphs03_0c83ef332c91986322bd1705c89ab955.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2492/building_2492_st-botolphs03_4a41194dc0d439f07ca95d08e4b9c655.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2492_st-botolphs03_0c83ef332c91986322bd1705c89ab955.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2492_st-botolphs03_4a41194dc0d439f07ca95d08e4b9c655.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2492/building_2492_st-botolphs02_aa02d9c9c6d0c48f0eec75abe8218362.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2492/building_2492_st-botolphs02_fb82635b85238044e79ddd19319b08fc.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2492_st-botolphs02_aa02d9c9c6d0c48f0eec75abe8218362.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2492_st-botolphs02_fb82635b85238044e79ddd19319b08fc.jpg"
         }
     ],
     "links": [
@@ -116,7 +117,7 @@
         }
     ],
     "location": {
-        "address": "St Botolph's Church, Aldgate High Street",
+        "address": "St Botolph's Church, Aldgate High Street, EC3N 1AB",
         "latitude": 51.5140611,
         "longitude": -0.0764628,
         "meeting_point": null,
@@ -127,6 +128,7 @@
         ]
     },
     "name": "Bells and Belfries at St Botolph Aldgate",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2492",
     "ticketed_events": false
 }

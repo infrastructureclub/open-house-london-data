@@ -12,6 +12,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11778",
             "capacity": null,
             "date": "2023-09-08",
@@ -26,6 +27,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11778",
             "capacity": null,
             "date": "2023-09-15",
@@ -53,34 +55,34 @@
     "id": 11778,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11778/building_11778_oxo-tower-wharf-crop-mickey-lee-for-south-bank-london-crop-1_4907571adf431defb1babcc3728d559e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11778/building_11778_oxo-tower-wharf-crop-mickey-lee-for-south-bank-london-crop-1_0726c295f1e852b299fd23890cad5fa8.jpg",
             "description": null,
             "title": "OXO Tower Wharf. Photo by South Bank London",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_oxo-tower-wharf-crop-mickey-lee-for-south-bank-london-crop-1_4907571adf431defb1babcc3728d559e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_oxo-tower-wharf-crop-mickey-lee-for-south-bank-london-crop-1_0726c295f1e852b299fd23890cad5fa8.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11778/building_11778_mickey-lee-national-theatre-in-summer_929b29e898e172294d24d8fc48f7dd13.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11778/building_11778_mickey-lee-national-theatre-in-summer_9d0f8a919052db072ac39894ab7ac37a.jpg",
             "description": null,
             "title": "National Theatre. Photo by South Bank London",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_mickey-lee-national-theatre-in-summer_929b29e898e172294d24d8fc48f7dd13.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_mickey-lee-national-theatre-in-summer_9d0f8a919052db072ac39894ab7ac37a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11778/building_11778_garden-museum-by-ollie-thompson_2c4d4e127b279aa81de3b2e3e0f897bf.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11778/building_11778_garden-museum-by-ollie-thompson_c7ada1fe9b330030a9488dc368ec8912.jpg",
             "description": null,
             "title": "Garden Museum. Photo by Garden Museum",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_garden-museum-by-ollie-thompson_2c4d4e127b279aa81de3b2e3e0f897bf.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_garden-museum-by-ollie-thompson_c7ada1fe9b330030a9488dc368ec8912.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11778/building_11778_202308-forum-square-county-hall-lw_08999effe727c4f80b048209325440ff.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11778/building_11778_202308-forum-square-county-hall-lw_210019901ad2e84ce09ac0510304dd80.jpg",
             "description": null,
             "title": "County Hall. Photo by South Bank London",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_202308-forum-square-county-hall-lw_08999effe727c4f80b048209325440ff.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_202308-forum-square-county-hall-lw_210019901ad2e84ce09ac0510304dd80.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11778/building_11778_wright-wright_lambeth-palace-library_hufton-crow_026__efcc604734c8f3ccfab7075227f74287.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11778/building_11778_wright-wright_lambeth-palace-library_hufton-crow_026__1c494f6d0480c6b7e6d712e18291376b.jpg",
             "description": null,
             "title": "Lambeth Palace Library.  Photo by Lambeth Palace Library",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_wright-wright_lambeth-palace-library_hufton-crow_026__efcc604734c8f3ccfab7075227f74287.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_wright-wright_lambeth-palace-library_hufton-crow_026__1c494f6d0480c6b7e6d712e18291376b.jpg"
         }
     ],
     "links": [],
@@ -91,10 +93,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Waterloo",
-            "Train: Waterloo"
+            "Train: Waterloo",
+            "Additional travel info: WALK 1 - Friday 8th START POINT St Mary's Gardens SE1 7BT \r\n\r\nWALK 2 - Friday 15th  START POINT St John’s Church SE1 8TY"
         ]
     },
-    "name": "LOST AND HIDDEN ARCHITECTURE OF SOUTH BANK WALK",
+    "name": "Lost & Hidden Architecture of South Bank Walk",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11778",
     "ticketed_events": true
 }

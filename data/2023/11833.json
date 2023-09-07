@@ -20,6 +20,7 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11833",
             "capacity": null,
             "date": "2023-09-14",
@@ -45,10 +46,10 @@
     "id": 11833,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11833/building_11833_willifield-green-1-1920x1211-1_4161c6c8c007b6dab03e55826506fab7.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11833/building_11833_willifield-green-1-1920x1211-1_320e50600d539902072a4585c4fc29b9.jpg",
             "description": null,
             "title": "'The Clubhouse' c. 1910",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11833_willifield-green-1-1920x1211-1_4161c6c8c007b6dab03e55826506fab7.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11833_willifield-green-1-1920x1211-1_320e50600d539902072a4585c4fc29b9.jpg"
         }
     ],
     "links": [],
@@ -63,6 +64,7 @@
         ]
     },
     "name": "The Architecture of Community in Edwardian Suburbia",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11833",
     "ticketed_events": true
 }

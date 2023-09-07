@@ -22,6 +22,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/9032",
             "capacity": null,
             "date": "2023-09-09",
@@ -48,25 +49,27 @@
     "id": 9032,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9032/building_9032_lancaster-house_d5c962cdef38cd018bcb0acb3897b57a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9032/building_9032_lancaster-house_23a08ddc8c6cf414ce7bdf4876f0624e.jpg",
             "description": null,
             "title": "Former International and Borough Road College now apartments",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9032_lancaster-house_d5c962cdef38cd018bcb0acb3897b57a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9032_lancaster-house_23a08ddc8c6cf414ce7bdf4876f0624e.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Forecourt, Isleworth Railway Station",
+        "address": "Forecourt, Isleworth Railway Station, London Road, Isleworth, TW7 4BX",
         "latitude": 51.47476,
         "longitude": -0.33689,
         "meeting_point": null,
         "travel_info": [
             "Tube: Hounslow East",
             "Train: Isleworth",
-            "Bus: 237"
+            "Bus: 237",
+            "Additional travel info: H37 bus from Hounslow East Underground; 117 stops nr station, also 235"
         ]
     },
     "name": "Exploring Spring Grove Isleworth",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/9032",
     "ticketed_events": true
 }

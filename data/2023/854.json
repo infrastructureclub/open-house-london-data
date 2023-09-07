@@ -23,6 +23,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -37,6 +38,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -83,16 +85,16 @@
     "id": 854,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/854/building_854_khcpicture2apr06_99fa6060fd7a04b389811feda8c08af7.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/854/building_854_khcpicture2apr06_12e7bb23e87c1921fcb59c9cbd88cc50.jpg",
             "description": null,
             "title": "front of Kingswood house",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_854_khcpicture2apr06_99fa6060fd7a04b389811feda8c08af7.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_854_khcpicture2apr06_12e7bb23e87c1921fcb59c9cbd88cc50.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/854/building_854_kingswood-house-group_6b9eb4cca4afd2f7d88310317820e5e1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/854/building_854_kingswood-house-group_21395196a7e7729a36e05cb5272a2340.jpg",
             "description": null,
             "title": "John Lawson Johnstone's family in front of KIngswood House",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_854_kingswood-house-group_6b9eb4cca4afd2f7d88310317820e5e1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_854_kingswood-house-group_21395196a7e7729a36e05cb5272a2340.jpg"
         }
     ],
     "links": [
@@ -112,10 +114,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Sydenham Hill",
-            "Bus: 450, 3, 322"
+            "Bus: 450, 3, 322",
+            "Additional travel info: The House is currently closed and may not be re-opened in time for the Open House Festival. If it is not open then it will be an online video tour only."
         ]
     },
     "name": "Kingswood House",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/854",
     "ticketed_events": false
 }

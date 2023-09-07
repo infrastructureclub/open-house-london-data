@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -80,16 +81,16 @@
     "id": 10727,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10727/building_10727_olden-community-garden-1_89c9254c16a5f6beaa0c128c91bbe888.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10727/building_10727_olden-community-garden-1_51170d951f60170d33317040ebf1c27e.jpg",
             "description": null,
             "title": "Olden Community Garden lawn",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10727_olden-community-garden-1_89c9254c16a5f6beaa0c128c91bbe888.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10727_olden-community-garden-1_51170d951f60170d33317040ebf1c27e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10727/building_10727_olden-community-garden-volunteers-planting-native-hedge_1b86f3067fae2611dc89383072c8b4d8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10727/building_10727_olden-community-garden-volunteers-planting-native-hedge_4b8f1dbec864365b724fbe6edd92e214.jpg",
             "description": null,
             "title": "Volunteers planting native hedge in the woodland",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10727_olden-community-garden-volunteers-planting-native-hedge_1b86f3067fae2611dc89383072c8b4d8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10727_olden-community-garden-volunteers-planting-native-hedge_4b8f1dbec864365b724fbe6edd92e214.jpg"
         }
     ],
     "links": [
@@ -114,6 +115,7 @@
         ]
     },
     "name": "Olden Community Garden",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10727",
     "ticketed_events": false
 }

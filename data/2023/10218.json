@@ -23,20 +23,52 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": true,
-            "end": "2023-09-16T16:00:00+01:00",
+            "end": "2023-09-16T16:30:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "Explore the rise of  Croydon’s urban landscape between the 1950s and ‘70s with a family art  workshop (AM)  & architecture talk (PM)",
+            "notes": "Explore South Norwood's Brutalist Library and learn more about our campaign to protect and restore our much-loved Miesian library.",
             "start": "2023-09-16T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Jazz ensemble led by trombonist Rosie Turton will perform a mix of composed & improvised music, exploring how we can connect with the space",
+            "start": "2023-09-16T12:15:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Jazz ensemble led by trombonist Rosie Turton will perform a mix of composed & improvised music, exploring how we can connect with the space",
+            "start": "2023-09-16T15:00:00+01:00",
             "ticketed": false
         },
         {
             "activity_type": "Young people",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10218",
             "capacity": null,
             "date": "2023-09-16",
@@ -51,12 +83,13 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10218",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T14:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "TALK: Post-war Architecture of Croydon - John Grindrod",
             "notes": null,
             "start": "2023-09-16T14:00:00+01:00",
@@ -112,68 +145,70 @@
         {
             "heading": "Little Manhattan x Brutalist Library",
             "paragraphs": [
-                "South Norwood Library is renowned for its Brutalist architectural style and this year, as part of the Little Manhattan project supported by the National Lottery Heritage Fund, the Library's Open House Festival focus will be exploring the rise of Croydon’s urban landscape between the 1950s and ‘70s. Events on the 16th of September will include a family art workshop in the morning and a talk about the architecture of the 1950s-'70s in the afternoon. Check the website www.digitaldrama.org/project/little-manhattan for times and workshop booking details."
+                "South Norwood Library is renowned for its Brutalist architectural style and this year, as part of the Little Manhattan project supported by the National Lottery Heritage Fund, the Library's Open House Festival focus will be exploring the rise of Croydon’s urban landscape between the 1950s and ‘70s. Events on the 16th of September will include a family art workshop in the morning and a talk about the architecture of the 1950s-'70s in the afternoon. Check our events for details on how to book."
+            ]
+        },
+        {
+            "heading": "Jazz at the Brutalist Library",
+            "paragraphs": [
+                "A jazz ensemble led by trombonist Rosie Turton will perform a mix of composed and improvised music, exploring how we can connect with the space and architecture of the library. \n16 September 2023, 12:15-13:00 and 15:00-16:30"
             ]
         }
     ],
     "id": 10218,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_screenshot-2021-07-22-at-15-13-03_7385a5cc2d51a73dd2f3c64ab80512ec.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_screenshot-2021-07-22-at-15-13-03_9d1f595e9441e504a7c6ddd2b716687c.png",
             "description": null,
             "title": "Corner View from Selhurst and Lawrence Roads",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_screenshot-2021-07-22-at-15-13-03_7385a5cc2d51a73dd2f3c64ab80512ec.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_screenshot-2021-07-22-at-15-13-03_9d1f595e9441e504a7c6ddd2b716687c.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_snl-original-proposal-croydon-archive_5fef42c873ab73021f2b5d3dd708a502.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_snl-original-proposal-croydon-archive_901123117b6c84ca45b7c1895fb4c3b2.jpg",
             "description": null,
             "title": "Architectural drawing by Hugh Lea, part of the original proposal ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_snl-original-proposal-croydon-archive_5fef42c873ab73021f2b5d3dd708a502.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_snl-original-proposal-croydon-archive_901123117b6c84ca45b7c1895fb4c3b2.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_3ec39218-742d-4f97-b5fd-996fd2e862d7_cf061567e8751da15c3cbd07c0c1c98e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_3ec39218-742d-4f97-b5fd-996fd2e862d7_83d8abb728639bb3f201b91f964bda43.jpg",
             "description": null,
             "title": "Interior View ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_3ec39218-742d-4f97-b5fd-996fd2e862d7_cf061567e8751da15c3cbd07c0c1c98e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_3ec39218-742d-4f97-b5fd-996fd2e862d7_83d8abb728639bb3f201b91f964bda43.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_img_8125_a68251c97eda4edd4ed81a466ec95b52.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_img_8125_75f61eafed1e410f6b0bcc542bd18507.jpg",
             "description": null,
             "title": "Original opening flyer 1968",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_img_8125_a68251c97eda4edd4ed81a466ec95b52.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_img_8125_75f61eafed1e410f6b0bcc542bd18507.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_snl-_dsc6005_first-crop_b5faee94519a03929cca810f23826506.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_snl-_dsc6005_first-crop_9b09708f9a22369600dd0179db8f9258.jpeg",
             "description": null,
             "title": "Brutalism in Colour ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_snl-_dsc6005_first-crop_b5faee94519a03929cca810f23826506.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_snl-_dsc6005_first-crop_9b09708f9a22369600dd0179db8f9258.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_snl-_dsc7909-books_bf6ea88fdbd261ca8900953ea7011f77.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_snl-_dsc7909-books_e1602eafe1d00012e6c743689666050c.jpeg",
             "description": null,
             "title": "South Norwood Library ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_snl-_dsc7909-books_bf6ea88fdbd261ca8900953ea7011f77.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_snl-_dsc7909-books_e1602eafe1d00012e6c743689666050c.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_snl-_dsc7930-inside_b94688a8f40bf403dda6f644496a0bfe.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_snl-_dsc7930-inside_7e8ceb73dc7b763896ef1c8c24e7f56b.jpeg",
             "description": null,
             "title": "South Norwood Library ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_snl-_dsc7930-inside_b94688a8f40bf403dda6f644496a0bfe.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_snl-_dsc7930-inside_7e8ceb73dc7b763896ef1c8c24e7f56b.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_img_9352_08a706b09ca68c0312ec58c660c39e32.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10218/building_10218_img_9352_219415d1ad5e516e526f8c913d71c272.jpg",
             "description": null,
             "title": "Side view from Lawrence Road ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_img_9352_08a706b09ca68c0312ec58c660c39e32.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10218_img_9352_219415d1ad5e516e526f8c913d71c272.jpg"
         }
     ],
     "links": [
         {
             "href": "brutalistlibraryse25.org",
-            "title": null
-        },
-        {
-            "href": "www.digitaldrama.org/project/little-manhattan",
             "title": null
         }
     ],
@@ -184,10 +219,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Norwood Junction",
-            "Bus: 75, 410, 130, 157, 197, 196, 312"
+            "Bus: 75, 410, 130, 157, 197, 196, 312",
+            "Additional travel info: https://citymapper.com/go/xm3xrjrrdo\r\nhttps://w3w.co/then.simple.that"
         ]
     },
     "name": "South Norwood Library",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10218",
     "ticketed_events": true
 }

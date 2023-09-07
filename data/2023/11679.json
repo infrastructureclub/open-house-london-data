@@ -14,6 +14,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -94,22 +95,22 @@
     "id": 11679,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11679/building_11679_23-09-09-open-day-advert_0c43314f0c60f7815f5a6aac83296791.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11679/building_11679_23-09-09-open-day-advert_d65132e1dbe55a978a9d908633d7c18e.png",
             "description": null,
             "title": "EES Open Day Poster",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11679_23-09-09-open-day-advert_0c43314f0c60f7815f5a6aac83296791.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11679_23-09-09-open-day-advert_d65132e1dbe55a978a9d908633d7c18e.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11679/building_11679_image_d345ceabf2d160ccff5ae78c2a08ce84.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11679/building_11679_image_642a87ef84d7780c32172fa44e5cbadb.jpeg",
             "description": null,
             "title": "EES Collections Manager Stephanie Boonstra (right) giving a tour of archive material in the library.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11679_image_d345ceabf2d160ccff5ae78c2a08ce84.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11679_image_642a87ef84d7780c32172fa44e5cbadb.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11679/building_11679_image-4_4e3fbd81c120bb14944316f88dba772b.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11679/building_11679_image-4_e76d70b6e59eab27845232eff14ea0d8.jpeg",
             "description": null,
             "title": "Refreshments and bake sale in Doughty Mews, held outside the EES London Office.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11679_image-4_4e3fbd81c120bb14944316f88dba772b.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11679_image-4_e76d70b6e59eab27845232eff14ea0d8.jpeg"
         }
     ],
     "links": [
@@ -131,17 +132,19 @@
         }
     ],
     "location": {
-        "address": "The Egypt Exploration Society, 3-4 Doughty Mews",
+        "address": "The Egypt Exploration Society, 3-4 Doughty Mews, WC1N 2PG",
         "latitude": 51.523079,
         "longitude": -0.116958,
         "meeting_point": null,
         "travel_info": [
             "Tube: Russell Square, King's Cross St. Pancras, Holborn, Farringdon, Euston, Chancery Lane",
             "Train: King's Cross, Farringdon, Euston",
-            "Bus: 55, 46, 38, 243, 19, 17"
+            "Bus: 55, 46, 38, 243, 19, 17",
+            "Additional travel info: There is no parking available at the venue, but very limited paid parking is available on the surrounding streets."
         ]
     },
     "name": "The Egypt Exploration Society (EES)",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11679",
     "ticketed_events": false
 }

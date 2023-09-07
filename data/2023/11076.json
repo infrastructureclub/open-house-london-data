@@ -20,6 +20,7 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11076",
             "capacity": null,
             "date": "2023-09-10",
@@ -63,16 +64,16 @@
     "id": 11076,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11076/building_11076_watch-tower-ll_d59341ced60fd5cd8226863c7d59dd05.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11076/building_11076_watch-tower-ll_6fb124afd6860b1f73ac7930ad253643.jpg",
             "description": null,
             "title": "RAF Museum",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11076_watch-tower-ll_d59341ced60fd5cd8226863c7d59dd05.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11076_watch-tower-ll_6fb124afd6860b1f73ac7930ad253643.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11076/building_11076_colindale-hospital-admin-bldg_d708048453bffb7452f60aa20bbfae9e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11076/building_11076_colindale-hospital-admin-bldg_aeb0ed43ff2549f5eab5bab032be23e7.jpg",
             "description": null,
             "title": "Colindale Hospital Administration Bldg in 2022 c. Lisa Lu",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11076_colindale-hospital-admin-bldg_d708048453bffb7452f60aa20bbfae9e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11076_colindale-hospital-admin-bldg_aeb0ed43ff2549f5eab5bab032be23e7.jpg"
         }
     ],
     "links": [
@@ -82,16 +83,18 @@
         }
     ],
     "location": {
-        "address": "Bang Bang Oriental Food Hall, 399 Edgware Rd",
+        "address": "Bang Bang Oriental Food Hall, 399 Edgware Rd, NW9 0FH",
         "latitude": 51.5934,
         "longitude": -0.25949,
         "meeting_point": null,
         "travel_info": [
             "Tube: Colindale",
-            "Bus: 324, 32, 142, 303, 204"
+            "Bus: 324, 32, 142, 303, 204",
+            "Additional travel info: Parking - Free 3-hour parking is available both at Bang Bang/Morrison's car park or ASDA's car park"
         ]
     },
     "name": "Discovering Colindale - How Early Aviation Forged Colindale’s Development",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11076",
     "ticketed_events": true
 }

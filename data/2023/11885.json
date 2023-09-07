@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -69,22 +71,22 @@
     "id": 11885,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11885/building_11885_8f67bcf3b37f7eeb44937120c951fbb9d8dc1135_96f1e6fad3d19a4f41c8d595c46fbe88.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11885/building_11885_8f67bcf3b37f7eeb44937120c951fbb9d8dc1135_66a6e13640aebdec6c535ef1c9f93d7e.jpg",
             "description": null,
             "title": "Front of house with tile hung cladding",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11885_8f67bcf3b37f7eeb44937120c951fbb9d8dc1135_96f1e6fad3d19a4f41c8d595c46fbe88.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11885_8f67bcf3b37f7eeb44937120c951fbb9d8dc1135_66a6e13640aebdec6c535ef1c9f93d7e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11885/building_11885_img_2816_1d164a4f7c56514d651bd581b2ee0b5f.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11885/building_11885_img_2816_03184cf85ada98442cbdc80baec05ae8.jpeg",
             "description": null,
             "title": "View from river side communal lawn in front of houses",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11885_img_2816_1d164a4f7c56514d651bd581b2ee0b5f.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11885_img_2816_03184cf85ada98442cbdc80baec05ae8.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11885/building_11885_img_3792_1ed8318438bd96cca37abc2549de8ef7.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11885/building_11885_img_3792_8294fb3f0e3eac238d3d2fe4576b80c5.jpeg",
             "description": null,
             "title": "Split-level living area with view out to river Thames",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11885_img_3792_1ed8318438bd96cca37abc2549de8ef7.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11885_img_3792_8294fb3f0e3eac238d3d2fe4576b80c5.jpeg"
         }
     ],
     "links": [],
@@ -96,10 +98,12 @@
         "travel_info": [
             "Tube: Richmond",
             "Train: Strawberry Hill",
-            "Bus: R68"
+            "Bus: R68",
+            "Additional travel info: Two trains an hour from Waterloo, or District/Overground to Richmond. \r\nR68 bus from outside Richmond Station stops at Mallard Place.\r\nThere is no visitor parking on site."
         ]
     },
     "name": "80 Mallard Place, Twickenham",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11885",
     "ticketed_events": false
 }

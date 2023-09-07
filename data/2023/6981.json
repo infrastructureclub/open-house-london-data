@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -35,12 +36,13 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6981",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T13:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Understanding the ruins and medieval precinct of Lesnes",
             "notes": null,
             "start": "2023-09-16T11:00:00+01:00",
@@ -112,28 +114,28 @@
     "id": 6981,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6981/building_6981_abbey-drone-pilot-jonathan-potts-director-dagmar-scheibenreif_e256bb35a345590b5f7a2a2a57913941.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6981/building_6981_abbey-drone-pilot-jonathan-potts-director-dagmar-scheibenreif_53a5d7e30fb24d0135f917bc9a67dac8.jpg",
             "description": null,
             "title": "Lesnes Abbey Ruins and Woods Credit Pilot Jonathan Potts Director Dagmar Scheibenreif",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6981_abbey-drone-pilot-jonathan-potts-director-dagmar-scheibenreif_e256bb35a345590b5f7a2a2a57913941.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6981_abbey-drone-pilot-jonathan-potts-director-dagmar-scheibenreif_53a5d7e30fb24d0135f917bc9a67dac8.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6981/building_6981_abbey-drone-4-credit-pilot-jonathan-potts-director-dagmar-scheibenreif_ec8f0c70cdbd94fbdc512b87a8ddd30b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6981/building_6981_abbey-drone-4-credit-pilot-jonathan-potts-director-dagmar-scheibenreif_6120ed45e9520d2378f33c8e0660541e.jpg",
             "description": null,
             "title": "Lesnes Abbey Woods Credit Pilot Jonathan Potts Director Dagmar Scheibenreif",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6981_abbey-drone-4-credit-pilot-jonathan-potts-director-dagmar-scheibenreif_ec8f0c70cdbd94fbdc512b87a8ddd30b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6981_abbey-drone-4-credit-pilot-jonathan-potts-director-dagmar-scheibenreif_6120ed45e9520d2378f33c8e0660541e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6981/building_6981_viewing-area_c173a2c2b55ad7e02535536cebaee698.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6981/building_6981_viewing-area_d3a683585476b97c232229111bc5e434.jpg",
             "description": null,
             "title": "Viewing Area",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6981_viewing-area_c173a2c2b55ad7e02535536cebaee698.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6981_viewing-area_d3a683585476b97c232229111bc5e434.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6981/building_6981_20171120_084256_6da3021a8dc83c29c94ce254de336961.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6981/building_6981_20171120_084256_316f0b9da33ab56f3153259757ebc7a9.jpg",
             "description": null,
             "title": "Monk Sculpture",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6981_20171120_084256_6da3021a8dc83c29c94ce254de336961.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6981_20171120_084256_316f0b9da33ab56f3153259757ebc7a9.jpg"
         }
     ],
     "links": [],
@@ -144,10 +146,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Abbey Wood",
-            "Bus: 229, 469, B11, 99"
+            "Bus: 229, 469, B11, 99",
+            "Additional travel info: The new Elizabeth Line also goes to Abbey Wood"
         ]
     },
     "name": "Lesnes Abbey Tour",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/6981",
     "ticketed_events": true
 }

@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -63,16 +64,16 @@
     "id": 11172,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11172/building_11172_cufos-and_palace_a689310644f576dcc40fb9695141c74d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11172/building_11172_cufos-and_palace_14abfe0f7d46496de92ca4ef6cc66ace.jpg",
             "description": null,
             "title": "CUFOS today",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11172_cufos-and_palace_a689310644f576dcc40fb9695141c74d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11172_cufos-and_palace_14abfe0f7d46496de92ca4ef6cc66ace.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11172/building_11172_ap-history_07_f94c05d9c1f56c9e4f634e7a5fdba2d6.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11172/building_11172_ap-history_07_1188970cf78ea1ed301ccc816fef0a9b.jpg",
             "description": null,
             "title": "CUFOS in a former life as Alexandra Palace Station",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11172_ap-history_07_f94c05d9c1f56c9e4f634e7a5fdba2d6.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11172_ap-history_07_1188970cf78ea1ed301ccc816fef0a9b.jpg"
         }
     ],
     "links": [],
@@ -84,10 +85,12 @@
         "travel_info": [
             "Tube: Bounds Green, Wood Green",
             "Train: Alexandra Palace",
-            "Bus: W3, 184, 102"
+            "Bus: W3, 184, 102",
+            "Additional travel info: The old railway station is situated top of The Avenue in Muswell Hill, situated near the junction of The Avenue and Dukes Avenue, in the shadow of the Great Hall of Alexandra Palace,\r\nCUFOS can be reached on foot from the roundabout at the top of Muswell Hill by walking down the full length of Dukes Avenue and turning right at the very end."
         ]
     },
     "name": "CUFOS - Community Use For the Old Station",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11172",
     "ticketed_events": false
 }

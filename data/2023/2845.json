@@ -31,12 +31,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2845",
             "capacity": null,
             "date": "2023-09-08",
             "drop_in": false,
             "end": "2023-09-08T11:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Architecture of the Almshouse Tour",
             "notes": null,
             "start": "2023-09-08T11:00:00+01:00",
@@ -45,6 +46,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2845",
             "capacity": null,
             "date": "2023-09-08",
@@ -59,6 +61,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2845",
             "capacity": null,
             "date": "2023-09-08",
@@ -73,6 +76,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2845",
             "capacity": null,
             "date": "2023-09-08",
@@ -87,6 +91,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2845",
             "capacity": null,
             "date": "2023-09-15",
@@ -101,6 +106,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2845",
             "capacity": null,
             "date": "2023-09-15",
@@ -115,6 +121,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2845",
             "capacity": null,
             "date": "2023-09-15",
@@ -129,6 +136,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2845",
             "capacity": null,
             "date": "2023-09-15",
@@ -184,16 +192,16 @@
     "id": 2845,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2845/building_2845_dsc_0078_62a54b947c90199d60ca2826d01baa4c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2845/building_2845_dsc_0078_69fb02096d35446028ce489d9c39ed12.jpg",
             "description": null,
             "title": "Chapel Garden entrance",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2845_dsc_0078_62a54b947c90199d60ca2826d01baa4c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2845_dsc_0078_69fb02096d35446028ce489d9c39ed12.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2845/building_2845__dsc9953_673d11f6ce1c657f95e2febf7ed8f0e9.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2845/building_2845__dsc9953_60464d3fdf0d2ee8339fa702a8d78c4f.jpg",
             "description": null,
             "title": "Preacher's Court, the Charterhouse",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2845__dsc9953_673d11f6ce1c657f95e2febf7ed8f0e9.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2845__dsc9953_60464d3fdf0d2ee8339fa702a8d78c4f.jpg"
         }
     ],
     "links": [
@@ -213,6 +221,7 @@
         ]
     },
     "name": "The Charterhouse",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2845",
     "ticketed_events": true
 }

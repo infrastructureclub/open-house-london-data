@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11795",
             "capacity": null,
             "date": "2023-09-17",
@@ -48,6 +50,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11795",
             "capacity": null,
             "date": "2023-09-17",
@@ -62,6 +65,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11795",
             "capacity": null,
             "date": "2023-09-17",
@@ -76,6 +80,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11795",
             "capacity": null,
             "date": "2023-09-17",
@@ -90,6 +95,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11795",
             "capacity": null,
             "date": "2023-09-17",
@@ -104,6 +110,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11795",
             "capacity": null,
             "date": "2023-09-17",
@@ -160,15 +167,15 @@
     "id": 11795,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11795/building_11795_pepys_deptford_45_v2_d1033af6a4ace387e5430f5fe43131a8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11795/building_11795_pepys_deptford_45_v2_d3b46d0c3a07363d44451c85b9e1065e.jpg",
             "description": null,
             "title": "Eddystone Tower (L) and Daubeney Tower (R) as seen from Pepys Park",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11795_pepys_deptford_45_v2_d1033af6a4ace387e5430f5fe43131a8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11795_pepys_deptford_45_v2_d3b46d0c3a07363d44451c85b9e1065e.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "2000 Community Action Centre",
+        "address": "2000 Community Action Centre, 199-201 Grove Street, SE8 3PG",
         "latitude": 51.4893981,
         "longitude": -0.0350639,
         "meeting_point": null,
@@ -179,6 +186,7 @@
         ]
     },
     "name": "Lewisham Homes presents: The Pepys Estate, High Up",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11795",
     "ticketed_events": true
 }

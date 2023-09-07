@@ -14,6 +14,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -44,22 +45,22 @@
     "id": 11769,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11769/building_11769_ls-river-of-hope-2022_4c37484ed523264c0f6504b22942267d.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11769/building_11769_ls-river-of-hope-2022_a973f36888fc787da64c3b6099201258.jpeg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11769_ls-river-of-hope-2022_4c37484ed523264c0f6504b22942267d.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11769_ls-river-of-hope-2022_a973f36888fc787da64c3b6099201258.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11769/building_11769_ls-party-illlustration_6a56d6684b66d5b46c9f583e995cedcf.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11769/building_11769_ls-party-illlustration_8ee68c90998ed2883215dd23bd84ab44.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11769_ls-party-illlustration_6a56d6684b66d5b46c9f583e995cedcf.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11769_ls-party-illlustration_8ee68c90998ed2883215dd23bd84ab44.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11769/building_11769_ls-party-bunting_fca506e981092c44a4706273904648e2.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11769/building_11769_ls-party-bunting_0bb78fb45c1f68893eae3ce4cead9e5e.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11769_ls-party-bunting_fca506e981092c44a4706273904648e2.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11769_ls-party-bunting_0bb78fb45c1f68893eae3ce4cead9e5e.jpg"
         }
     ],
     "links": [],
@@ -71,10 +72,12 @@
         "travel_info": [
             "Tube: Tufnell Park, Kentish Town",
             "Train: Kentish Town, Gospel Oak",
-            "Bus: 88, 393, 214, 134"
+            "Bus: 88, 393, 214, 134",
+            "Additional travel info: on Cycleway 6 cycle route"
         ]
     },
     "name": "The Listening Space Garden",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11769",
     "ticketed_events": false
 }

@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -68,30 +69,36 @@
                 "We will be running educational activities throughout the day - just pop in!",
                 "1. ‘Feely Table’ - Discover the Minerals in Renewable Energy and Smart Technology",
                 "Energy: the sun on your skin; the thrum of the bass; the wind in your hair. Our ability to harness energy has driven civilisation and technology to incredible advances and discoveries, but at what cost to the planet? Explore the future of energy through stunning minerals, ores and crystals which help us to harness solar, wind and natural heat for a sustainable future.",
-                "2. ‘Kids Corner’ Play based activities themed around geology (rocks, fossils, careers and colour in map)",
+                "2. ‘Kids Corner’ Play based activities themed around geology",
                 "Discover how interesting and inspiring Earth Sciences can be through play-based activities for kids age 5 – 11. A range of activities will be on offer throughout the day. Build your own Mars Rover, shoot a volcanic bomb, make your own fossil, construct an earthquake-proof building or colour in your own version of William Smith’s famous geological map!"
+            ]
+        },
+        {
+            "heading": "Map Talks",
+            "paragraphs": [
+                "Learn about the history of William Smith's 'Geological Map of England & Wales, and part of Scotland' (1815), the first geological map of a nation, with these short talks occurring throughout the day."
             ]
         }
     ],
     "id": 4938,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4938/building_4938_upperlibrary_4-4mp-cropped_cb67a76c4d1667c3f19d6e3ca1a05fea.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4938/building_4938_upperlibrary_4-4mp-cropped_cf1291da26837dcc74c300c332ef393a.jpg",
             "description": null,
             "title": "Upper Library",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4938_upperlibrary_4-4mp-cropped_cb67a76c4d1667c3f19d6e3ca1a05fea.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4938_upperlibrary_4-4mp-cropped_cf1291da26837dcc74c300c332ef393a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4938/building_4938_burlingtonhousepostrefurb_e9956e1091337aa15133abde78a257db.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4938/building_4938_burlingtonhousepostrefurb_dc58404296a682d0903af70766bf1a50.jpg",
             "description": null,
             "title": "Burlington House",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4938_burlingtonhousepostrefurb_e9956e1091337aa15133abde78a257db.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4938_burlingtonhousepostrefurb_dc58404296a682d0903af70766bf1a50.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4938/building_4938_grandstaircase_2-6mb_39c86c7a5d8523532876d7aa0607893b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4938/building_4938_grandstaircase_2-6mb_c5e3359d8f27ba7a7bf69879f319cbfd.jpg",
             "description": null,
             "title": "Entrance Hall with geological maps",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4938_grandstaircase_2-6mb_39c86c7a5d8523532876d7aa0607893b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_4938_grandstaircase_2-6mb_c5e3359d8f27ba7a7bf69879f319cbfd.jpg"
         }
     ],
     "links": [],
@@ -106,6 +113,7 @@
         ]
     },
     "name": "Burlington House: The Geological Society of London",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/4938",
     "ticketed_events": false
 }

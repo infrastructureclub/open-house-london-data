@@ -14,6 +14,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -57,16 +58,16 @@
     "id": 12041,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12041/building_12041_south-garden-cafe_432a4e0e2dcfd40efd41fe0d0265e664.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12041/building_12041_south-garden-cafe_f115d24c02c0bdb90807200afbc856f9.jpg",
             "description": null,
             "title": "South Garden leading to the cafe, Trowbridge Gardens",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12041_south-garden-cafe_432a4e0e2dcfd40efd41fe0d0265e664.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12041_south-garden-cafe_f115d24c02c0bdb90807200afbc856f9.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12041/building_12041_south-garden_9ef270d3e815aeb3e2e04f5042582c56.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12041/building_12041_south-garden_27d2924cf9c40c3b53bb88de3430aa8e.jpg",
             "description": null,
             "title": "South Garden seating area, Trowbridge Gardens",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12041_south-garden_9ef270d3e815aeb3e2e04f5042582c56.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12041_south-garden_27d2924cf9c40c3b53bb88de3430aa8e.jpg"
         }
     ],
     "links": [],
@@ -77,10 +78,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Hackney Wick",
-            "Bus: 26"
+            "Bus: 26",
+            "Additional travel info: Nearest bus stop is St Mary's Church.  Bike racks available on site."
         ]
     },
     "name": "Arbeit - Trowbridge Gardens",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12041",
     "ticketed_events": false
 }

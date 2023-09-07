@@ -12,6 +12,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -26,6 +27,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -40,6 +42,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -54,6 +57,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -68,12 +72,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11960",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T13:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Treasures tour of the National Maritime Museum",
             "notes": null,
             "start": "2023-09-16T12:00:00+01:00",
@@ -82,12 +87,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11960",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T15:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Treasures tour of the National Maritime Museum",
             "notes": null,
             "start": "2023-09-16T14:00:00+01:00",
@@ -96,12 +102,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11960",
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": false,
             "end": "2023-09-16T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Treasures tour of the National Maritime Museum",
             "notes": null,
             "start": "2023-09-16T15:00:00+01:00",
@@ -110,12 +117,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11960",
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": false,
             "end": "2023-09-17T13:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Treasures tour of the National Maritime Museum",
             "notes": null,
             "start": "2023-09-17T12:00:00+01:00",
@@ -124,12 +132,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11960",
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": false,
             "end": "2023-09-17T15:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Treasures tour of the National Maritime Museum",
             "notes": null,
             "start": "2023-09-17T14:00:00+01:00",
@@ -138,12 +147,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11960",
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": false,
             "end": "2023-09-17T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Treasures tour of the National Maritime Museum",
             "notes": null,
             "start": "2023-09-17T15:00:00+01:00",
@@ -176,10 +186,10 @@
     "id": 11960,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11960/building_11960_nmm_5334e53a9d7dbb72cddafa885ec54238.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11960/building_11960_nmm_fa70c48b6318d22a7f0a8a3f67e05dc8.jpg",
             "description": null,
             "title": "Royal Museums Greenwich",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11960_nmm_5334e53a9d7dbb72cddafa885ec54238.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11960_nmm_fa70c48b6318d22a7f0a8a3f67e05dc8.jpg"
         }
     ],
     "links": [],
@@ -195,6 +205,7 @@
         ]
     },
     "name": "National Maritime Museum",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11960",
     "ticketed_events": true
 }

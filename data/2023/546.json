@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -35,6 +36,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/546",
             "capacity": null,
             "date": "2023-09-17",
@@ -49,6 +51,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/546",
             "capacity": null,
             "date": "2023-09-17",
@@ -63,6 +66,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/546",
             "capacity": null,
             "date": "2023-09-17",
@@ -77,6 +81,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/546",
             "capacity": null,
             "date": "2023-09-17",
@@ -187,10 +192,12 @@
         "travel_info": [
             "Tube: Bethnal Green",
             "Train: London Fields, Hackney Downs, Hackney Central",
-            "Bus: 253, 106, 30, 48, 55"
+            "Bus: 253, 106, 30, 48, 55",
+            "Additional travel info: When you arrive please come to the main entrance on Mare Street."
         ]
     },
     "name": "Hackney Empire",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/546",
     "ticketed_events": true
 }

@@ -25,6 +25,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -39,6 +40,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1523",
             "capacity": null,
             "date": "2023-09-17",
@@ -53,6 +55,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1523",
             "capacity": null,
             "date": "2023-09-17",
@@ -67,12 +70,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1523",
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": false,
             "end": "2023-09-17T13:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Tour of 30 Euston Square",
             "notes": null,
             "start": "2023-09-17T12:00:00+01:00",
@@ -81,12 +85,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1523",
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": false,
             "end": "2023-09-17T14:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Tour of 30 Euston Square",
             "notes": null,
             "start": "2023-09-17T13:00:00+01:00",
@@ -95,12 +100,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1523",
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": false,
             "end": "2023-09-17T15:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Tour of 30 Euston Square",
             "notes": null,
             "start": "2023-09-17T14:00:00+01:00",
@@ -109,6 +115,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1523",
             "capacity": null,
             "date": "2023-09-17",
@@ -184,28 +191,28 @@
     "id": 1523,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1523/building_1523_img_1658_8ec89c83da4c754b719a7451fe912903.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1523/building_1523_img_1658_135b06f461989185cc85fd18bc8bad99.jpg",
             "description": null,
             "title": "Interior of 30 Euston Square",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1523_img_1658_8ec89c83da4c754b719a7451fe912903.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1523_img_1658_135b06f461989185cc85fd18bc8bad99.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1523/building_1523_img_0739_094ae89ea17b16762de95c09ee8d984b.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1523/building_1523_img_0739_3eedfd6ec436edfc9e8441754dcf0ac5.jpg",
             "description": null,
             "title": "Rear Interior Atrium",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1523_img_0739_094ae89ea17b16762de95c09ee8d984b.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1523_img_0739_3eedfd6ec436edfc9e8441754dcf0ac5.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1523/building_1523_img_1657_9cd3af97b40128e107a61a27f6b3d5bf.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1523/building_1523_img_1657_4d398a1a2c93cb487b21e6f0dbabbf5e.jpg",
             "description": null,
             "title": "Interior of 30 Euston Square",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1523_img_1657_9cd3af97b40128e107a61a27f6b3d5bf.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1523_img_1657_4d398a1a2c93cb487b21e6f0dbabbf5e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1523/building_1523_img_1659_77f89022c7d9118913ab38361a8dbc0b.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1523/building_1523_img_1659_bc22c668dfbd3a0a2f88a7dd3d7db525.jpg",
             "description": null,
             "title": "Roof Terrace",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1523_img_1659_77f89022c7d9118913ab38361a8dbc0b.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1523_img_1659_bc22c668dfbd3a0a2f88a7dd3d7db525.jpg"
         }
     ],
     "links": [],
@@ -217,10 +224,12 @@
         "travel_info": [
             "Tube: Euston, Euston Square",
             "Train: Euston, King's Cross",
-            "Bus: 18, 30, 73, 205"
+            "Bus: 18, 30, 73, 205",
+            "Additional travel info: Entrance is on Melton Street. There is some disruption in the area due to the HS2 engineering works."
         ]
     },
     "name": "Royal College of General Practitioners",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/1523",
     "ticketed_events": true
 }

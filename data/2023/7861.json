@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "A House for Artists is an ambitious project, designed to provide affordable, sustainable housing for artists, who will offer long-term civic and cultural engagement for communities in Barking Town Centre. Drop in to the creative workshop.",
+    "description": "A House for Artists is an ambitious project, designed to provide affordable, sustainable housing for artists, who will offer long-term civic and cultural engagement for communities in Barking Town Centre. Drop in to the creative workshop. This project is supported by the Mayor of London.",
     "design": {
         "designers": [
             {
@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -93,28 +94,28 @@
     "id": 7861,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7861/building_7861_ahfa_boilerplate-image_7cb71d2ce23c2b85bb0a2f0f4dbf4e5d.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7861/building_7861_2-ahfa_2c6bc867951e4b70c9e29db0c061e618.png",
             "description": null,
-            "title": "A House for Artists, view from Linton Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7861_ahfa_boilerplate-image_7cb71d2ce23c2b85bb0a2f0f4dbf4e5d.jpeg"
+            "title": "AHFA",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7861_2-ahfa_2c6bc867951e4b70c9e29db0c061e618.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7861/building_7861_a-house-for-artists-balcony_photographer-stale-erikson_c8ccd3edc247d6bdda842590ef9a193b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7861/building_7861_a-house-for-artists-balcony_photographer-stale-erikson_f1c35da8c71d83635a3fefd40a186157.jpg",
             "description": null,
             "title": "A House for Artists, balcony",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7861_a-house-for-artists-balcony_photographer-stale-erikson_c8ccd3edc247d6bdda842590ef9a193b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7861_a-house-for-artists-balcony_photographer-stale-erikson_f1c35da8c71d83635a3fefd40a186157.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7861/building_7861_a-house-for-artists-balcony_photographer-stale-erikson_605e2ac9775213c07533771e682147a5.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7861/building_7861_a-house-for-artists-balcony_photographer-stale-erikson_3336196cee4ffd6838df0e1c06329a15.png",
             "description": null,
             "title": "A House for Artists, balcony window",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7861_a-house-for-artists-balcony_photographer-stale-erikson_605e2ac9775213c07533771e682147a5.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7861_a-house-for-artists-balcony_photographer-stale-erikson_3336196cee4ffd6838df0e1c06329a15.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7861/building_7861_a-house-for-artists-community-space_photographer-gili-merin_2a30183b3fe33cdef080848239e12381.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7861/building_7861_a-house-for-artists-community-space_photographer-gili-merin_bea391c3758a7da1384d698917526231.jpg",
             "description": null,
             "title": "A House for Artists, community space",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7861_a-house-for-artists-community-space_photographer-gili-merin_2a30183b3fe33cdef080848239e12381.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7861_a-house-for-artists-community-space_photographer-gili-merin_bea391c3758a7da1384d698917526231.jpg"
         }
     ],
     "links": [],
@@ -126,10 +127,12 @@
         "travel_info": [
             "Tube: Barking",
             "Train: Barking",
-            "Bus: 238, 5"
+            "Bus: 238, 5",
+            "Additional travel info: A House for Artists is less than 10 minutes walk from Barking Station."
         ]
     },
     "name": "A House for Artists",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/7861",
     "ticketed_events": false
 }

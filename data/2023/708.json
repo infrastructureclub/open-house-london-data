@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -75,22 +76,22 @@
     "id": 708,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/708/building_708_facade-17queensberry_1301f729c5c4317f64ecb34a59752f3c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/708/building_708_facade-17queensberry_c09cf4373f9acdb5458707e38f3513f1.jpg",
             "description": null,
             "title": "View of the Art deco facade from Queensberry Palce",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_708_facade-17queensberry_1301f729c5c4317f64ecb34a59752f3c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_708_facade-17queensberry_c09cf4373f9acdb5458707e38f3513f1.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/708/building_708__mb00843_2500c2ef767b5224da09cf25dbb20a2a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/708/building_708__mb00843_2af3c52a6e92ac5a7501dea6e73d1dbf.jpg",
             "description": null,
             "title": "View of the Art Deco facade - Entrance",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_708__mb00843_2500c2ef767b5224da09cf25dbb20a2a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_708__mb00843_2af3c52a6e92ac5a7501dea6e73d1dbf.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/708/building_708_readingroom3_22083b1bb9f278ea8dfb6e8c31dcbcd6.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/708/building_708_readingroom3_6e214d820b3d13e48a585ab73b070140.png",
             "description": null,
             "title": "Former ballroom, now 'Reading Room Denis Saurat'",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_708_readingroom3_22083b1bb9f278ea8dfb6e8c31dcbcd6.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_708_readingroom3_6e214d820b3d13e48a585ab73b070140.png"
         }
     ],
     "links": [],
@@ -105,6 +106,7 @@
         ]
     },
     "name": "Institut français du Royaume-Uni",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/708",
     "ticketed_events": false
 }

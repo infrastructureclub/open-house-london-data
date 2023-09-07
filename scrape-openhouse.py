@@ -12,7 +12,10 @@ import pytz
 from urlextract import URLExtract
 
 headers={
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
+    'Accept-Language': 'en-GB,en;q=0.9',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'Referer': 'https://programme.openhouse.org.uk/',
 }
 
 cookies = {}
@@ -49,6 +52,7 @@ if len(buildings) == 0:
     print("ERROR: No buildings found")
     sys.exit(1)
 
+
 count = 0
 for building in buildings:
     count += 1
@@ -56,8 +60,8 @@ for building in buildings:
 
     original_url = "https://programme.openhouse.org.uk/listings/%s" % building["id"]
     response = requests.get(original_url, cookies=cookies, headers=headers)
-    if response.content == b"Retry later\n":
-        print("Hit rate limiting, cannot continue")
+    if response.content == b"Retry later\n" or response.status_code == 503:
+        print("!! Hit rate limiting, cannot continue")
         raise Exception("Rate limited")
 
     # FIXME: If the server has downtime this will result in all listings being
@@ -67,6 +71,15 @@ for building in buildings:
     if response.status_code == 500:
         print("SKIPPING due to 500 response from server - likely this listing isn't public yet")
         continue
+
+    if session_cookie and b"Log out" not in response.content:
+        print("!! Invalid session cookie, cannot continue without scraping incorrect data")
+        print(response.status_code)
+        print(response.content)
+        raise Exception("Invalid session cookie")
+
+    # OH now reissues a time-limited cookie on each page load
+    cookies = {"_open_house_session": response.cookies["_open_house_session"]}
 
     root = lxml.html.document_fromstring(response.content)
 
@@ -93,6 +106,7 @@ for building in buildings:
         "events": [],
         "all_week": False,  # Not used anymore, preserved for backward compat
         "ticketed_events": False,
+        "new_venue_this_year": True,
     }
 
     # Images
@@ -122,25 +136,24 @@ for building in buildings:
     data["location"]["address"] = address_nodes[0].strip()
 
     # The map link now only exists if you have JS on, there is no non-JS default /o\
-    lat_matches = re.search("const lat = (-?\d+\.\d+)", str(response.content))
-    data["location"]["latitude"] = float(lat_matches.group(1))
-    lon_matches = re.search("const lon = (-?\d+\.\d+)", str(response.content))
-    data["location"]["longitude"] = float(lon_matches.group(1))
+    lat_lon_matches = re.search('"https://www.openstreetmap.org/#map=18/(-?\d+\.\d+)/(-?\d+\.\d+)"', str(response.content))
+    data["location"]["latitude"] = float(lat_lon_matches.group(1))
+    data["location"]["longitude"] = float(lat_lon_matches.group(2))
 
     travel_and_facilities_prefix = (
-        '//section[contains(@class, "oc-listing-details")]/div[2]'
+        '//section[contains(@class, "oc-listing-details")]/div'
     )
 
     # Travel info
-    travel_titles = root.xpath(travel_and_facilities_prefix + "/h4")
-    travel_ps = root.xpath(travel_and_facilities_prefix + "/p")
+    travel_titles = root.xpath(travel_and_facilities_prefix + "[2]/h4")
+    travel_ps = root.xpath(travel_and_facilities_prefix + "[2]/p")
     for node in zip(travel_titles, travel_ps):
         data["location"]["travel_info"].append(
             "%s: %s" % (node[0].text_content(), node[1].text_content())
         )
 
     # Facilities
-    for node in root.xpath(travel_and_facilities_prefix + "/ul/li"):
+    for node in root.xpath(travel_and_facilities_prefix + "[3]/ul/li"):
         data["facilities"].append(node.text_content())
 
     # Short description
@@ -236,7 +249,10 @@ for building in buildings:
                     matches = re.search("(\d+)", capacity_node[0])
                     capacity = int(matches.group(1))
 
-                notes = event.xpath('.//p[contains(@class, "text")]/text()')[0]
+                notes_node = event.xpath('.//p[contains(@class, "text")]/text()')
+                notes = ""
+                if notes_node:
+                    notes = notes_node[0]
                 time_string = event.xpath(".//p[not(@*)]")[0].text_content()
 
                 all_day = False
@@ -267,6 +283,7 @@ for building in buildings:
                         "ticketed": False,
                         "booking_link": None,
                         "drop_in": True,
+                        "balloted": False,
                     }
                 )
 
@@ -299,6 +316,10 @@ for building in buildings:
                 if booking_string == "Full":
                     fully_booked = True
 
+                balloted = False
+                if "Ballot" in booking_string:
+                    balloted = True
+
                 all_day = False
                 if time_string == "All day":
                     all_day = True
@@ -327,11 +348,17 @@ for building in buildings:
                         "ticketed": True,
                         "booking_link": original_url,
                         "drop_in": False,
+                        "balloted": balloted,
                     }
                 )
 
     if links_ticketed or events_ticketed:
         data["ticketed_events"] = True
+
+    # If we've seen this venue in the past five years, it's not new
+    for previous_year in (year-1, year-2, year-3, year-4, year-5):
+        if os.path.exists("data/%s/%s.json" % (previous_year, data["id"])):
+            data["new_venue_this_year"] = False
 
     os.makedirs("data/%s" % year, exist_ok=True)
     with open("data/%s/%s.json" % (year, data["id"]), "w", encoding="utf8") as f:
@@ -345,5 +372,4 @@ for building in buildings:
             )
         )
 
-    # 7s appears to avoid the rate limiting, but let's give ourselves some headroom
-    time.sleep(8)
+    time.sleep(15)

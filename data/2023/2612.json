@@ -25,6 +25,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-15",
@@ -39,6 +40,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2612",
             "capacity": null,
             "date": "2023-09-15",
@@ -53,12 +55,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2612",
             "capacity": null,
             "date": "2023-09-15",
             "drop_in": false,
             "end": "2023-09-15T14:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided tour",
             "notes": null,
             "start": "2023-09-15T12:30:00+01:00",
@@ -67,6 +70,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2612",
             "capacity": null,
             "date": "2023-09-15",
@@ -105,43 +109,45 @@
     "id": 2612,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2612/building_2612_tower-hamlets-cemetery-park-dsc_3230_5fe67fe86db6160de69fd0da7044d31c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2612/building_2612_tower-hamlets-cemetery-park-dsc_3230_c7e8e5ca541010b39cc071569fbaf163.jpg",
             "description": null,
             "title": "Westwood",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2612_tower-hamlets-cemetery-park-dsc_3230_5fe67fe86db6160de69fd0da7044d31c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2612_tower-hamlets-cemetery-park-dsc_3230_c7e8e5ca541010b39cc071569fbaf163.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2612/building_2612_foiextract20140315-1527-8fpyv6-0-37_1_aa80b7a4afcb4d3ea34cd17f12f1b79c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2612/building_2612_foiextract20140315-1527-8fpyv6-0-37_1_870b901b3e6d463a49229b0544ecb829.jpg",
             "description": null,
             "title": "Lodge Graves",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2612_foiextract20140315-1527-8fpyv6-0-37_1_aa80b7a4afcb4d3ea34cd17f12f1b79c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2612_foiextract20140315-1527-8fpyv6-0-37_1_870b901b3e6d463a49229b0544ecb829.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2612/building_2612_westwood-2_30526918126f6187acb57ed7083cb9b0.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2612/building_2612_westwood-2_68ae2f42fdce82dea659b6727b935ad8.jpeg",
             "description": null,
             "title": "Westwood Monument and wildflowers",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2612_westwood-2_30526918126f6187acb57ed7083cb9b0.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2612_westwood-2_68ae2f42fdce82dea659b6727b935ad8.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2612/building_2612_12455426223_b2d3ba1452_o_335499c5ea96731c2ce296c1afa9774b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2612/building_2612_12455426223_b2d3ba1452_o_ed3e68226128ccd27b7a6198c1ef2068.jpg",
             "description": null,
             "title": "Up above the Cemetery Park - looking west",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2612_12455426223_b2d3ba1452_o_335499c5ea96731c2ce296c1afa9774b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2612_12455426223_b2d3ba1452_o_ed3e68226128ccd27b7a6198c1ef2068.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Soanes Centre. (On the right the main gates on",
+        "address": "Soanes Centre. (On the right the main gates on Southern Grove)",
         "latitude": 51.5236573,
         "longitude": -0.0306273,
         "meeting_point": null,
         "travel_info": [
             "Tube: Bow Church, Mile End, Bow Road",
             "Train: Limehouse, Stratford",
-            "Bus: 25, 277, D6, D7, 425, 323, 205"
+            "Bus: 25, 277, D6, D7, 425, 323, 205",
+            "Additional travel info: At the weekend cars are able to park on Southern Grove E3 as there are no parking restrictions.  No car parking is available Monday to Friday."
         ]
     },
     "name": "Tower Hamlets Cemetery Park",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2612",
     "ticketed_events": true
 }

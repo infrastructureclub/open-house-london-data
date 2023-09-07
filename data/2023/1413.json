@@ -22,6 +22,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -36,6 +37,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -87,16 +89,16 @@
     "id": 1413,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1413/building_1413_open-house-image_f7363ad21121ae8d21e3bbbf4c7ca725.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1413/building_1413_open-house-image_5fc116794520d7f5b08993977e913291.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1413_open-house-image_f7363ad21121ae8d21e3bbbf4c7ca725.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1413_open-house-image_5fc116794520d7f5b08993977e913291.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1413/building_1413_the_national_archives_march_2019_dg_65_549331b1ea31b7623a55335afb60b7fc.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1413/building_1413_the_national_archives_march_2019_dg_65_8c7dbbbf63edfa54dedfc330616a3b8b.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1413_the_national_archives_march_2019_dg_65_549331b1ea31b7623a55335afb60b7fc.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1413_the_national_archives_march_2019_dg_65_8c7dbbbf63edfa54dedfc330616a3b8b.jpg"
         }
     ],
     "links": [
@@ -113,10 +115,12 @@
         "travel_info": [
             "Tube: Kew Gardens",
             "Train: Kew Bridge",
-            "Bus: 65, 391, R68"
+            "Bus: 65, 391, R68",
+            "Additional travel info: The National Archives is located just off the South Circular road, near to the M4. There are several options for reaching us by public transport, and we also provide bicycle racks for those arriving by bike.\r\n\r\nWe charge a fee to park in our visitor car park. We provide free parking for motorbikes and bicycles, and accessible parking bays for disabled visitors."
         ]
     },
     "name": "The National Archives",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/1413",
     "ticketed_events": true
 }

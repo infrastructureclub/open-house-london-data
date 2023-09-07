@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -46,16 +47,16 @@
     "id": 11750,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11750/building_11750_48a4cbbb-bfd1-43a7-8c1a-e2df34f84894_0f544b83ca41716377acb3cd28a6122b.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11750/building_11750_48a4cbbb-bfd1-43a7-8c1a-e2df34f84894_d1f111801c65c73742fc55bab955b684.jpeg",
             "description": null,
             "title": "Rory Gardiner",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11750_48a4cbbb-bfd1-43a7-8c1a-e2df34f84894_0f544b83ca41716377acb3cd28a6122b.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11750_48a4cbbb-bfd1-43a7-8c1a-e2df34f84894_d1f111801c65c73742fc55bab955b684.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11750/building_11750_12_rorygardiner1577c_b9542f15943f69e559d0cdee06d0e98a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11750/building_11750_12_rorygardiner1577c_9b7bb4e82b3294408556375fe9780a2e.jpg",
             "description": null,
             "title": "Rory Gardiner",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11750_12_rorygardiner1577c_b9542f15943f69e559d0cdee06d0e98a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11750_12_rorygardiner1577c_9b7bb4e82b3294408556375fe9780a2e.jpg"
         }
     ],
     "links": [],
@@ -66,10 +67,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Walthamstow Central",
-            "Train: Walthamstow Queens Road"
+            "Train: Walthamstow Queens Road",
+            "Additional travel info: Free on street parking on Saturday and Sunday."
         ]
     },
     "name": "Spruce House",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11750",
     "ticketed_events": false
 }

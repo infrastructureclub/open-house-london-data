@@ -21,20 +21,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10973",
-            "capacity": null,
-            "date": "2023-09-06",
-            "drop_in": false,
-            "end": "2023-09-06T12:00:00+01:00",
-            "fully_booked": true,
-            "name": "Guided Tour of Hornsey Library",
-            "notes": null,
-            "start": "2023-09-06T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10973",
             "capacity": null,
             "date": "2023-09-08",
@@ -49,6 +36,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10973",
             "capacity": null,
             "date": "2023-09-09",
@@ -63,12 +51,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10973",
             "capacity": null,
             "date": "2023-09-13",
             "drop_in": false,
             "end": "2023-09-13T12:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour of Hornsey Library",
             "notes": null,
             "start": "2023-09-13T11:00:00+01:00",
@@ -77,6 +66,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10973",
             "capacity": null,
             "date": "2023-09-15",
@@ -115,33 +105,33 @@
     "id": 10973,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10973/building_10973_220531-hornsey-library-external-image_7bd33ba7c3e9b53763abb6444bd5983b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10973/building_10973_220531-hornsey-library-external-image_5f526da981860bc95c53f55a7c99f17a.jpg",
             "description": null,
             "title": "Hornsey Library from street",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10973_220531-hornsey-library-external-image_7bd33ba7c3e9b53763abb6444bd5983b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10973_220531-hornsey-library-external-image_5f526da981860bc95c53f55a7c99f17a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10973/building_10973_hornsey-j_1f53a67c71d48ad6b2a0b348e3bf036b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10973/building_10973_hornsey-j_25131ef36e8718e59d713b023654d6e6.jpg",
             "description": null,
             "title": "Hornsey Children's Library",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10973_hornsey-j_1f53a67c71d48ad6b2a0b348e3bf036b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10973_hornsey-j_25131ef36e8718e59d713b023654d6e6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10973/building_10973_hornsey-zen-garden_319562e8fd4cd14057205c5307afdb10.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10973/building_10973_hornsey-zen-garden_3f90c8d9d2e4505b2d998896a2bb6e27.jpg",
             "description": null,
             "title": "Zen garden (with \"Hornsey Window\" visible)",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10973_hornsey-zen-garden_319562e8fd4cd14057205c5307afdb10.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10973_hornsey-zen-garden_3f90c8d9d2e4505b2d998896a2bb6e27.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10973/building_10973_the-terrazzo-tread-staircase-to-the-upper-balcony-of-the-lending-library_28d331e95a6c7033dbf5acb23ef6c114.jfif",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10973/building_10973_the-terrazzo-tread-staircase-to-the-upper-balcony-of-the-lending-library_7a1fb70073349b93dd57eb4868d7e63b.jfif",
             "description": null,
             "title": "The main atrium and mezzanine",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10973_the-terrazzo-tread-staircase-to-the-upper-balcony-of-the-lending-library_28d331e95a6c7033dbf5acb23ef6c114.jfif"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10973_the-terrazzo-tread-staircase-to-the-upper-balcony-of-the-lending-library_7a1fb70073349b93dd57eb4868d7e63b.jfif"
         }
     ],
     "links": [],
     "location": {
-        "address": "Hornsey Library, Haringey Park, Haringey",
+        "address": "Hornsey Library, Haringey Park, Haringey, N8 9JA",
         "latitude": 51.578152,
         "longitude": -0.1221064,
         "meeting_point": null,
@@ -152,6 +142,7 @@
         ]
     },
     "name": "Hornsey Library",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10973",
     "ticketed_events": true
 }

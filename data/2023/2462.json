@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -35,6 +36,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -100,22 +102,22 @@
     "id": 2462,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2462/building_2462_christ-church-from-the-green_ffde6ba3b43e4b4325135257448b2976.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2462/building_2462_christ-church-from-the-green_eecdc597aef2eea566c37c44acfa1928.jpg",
             "description": null,
             "title": "Christ Church Wanstead from the Green",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2462_christ-church-from-the-green_ffde6ba3b43e4b4325135257448b2976.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2462_christ-church-from-the-green_eecdc597aef2eea566c37c44acfa1928.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2462/building_2462_christ-church-interior-sunlight_2c04504a8de9c6069d01e0cb4776d14e.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2462/building_2462_christ-church-interior-sunlight_40d1b79b5c845606b1cfd2082868da31.jpg",
             "description": null,
             "title": "Interior in evening sunlight",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2462_christ-church-interior-sunlight_2c04504a8de9c6069d01e0cb4776d14e.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2462_christ-church-interior-sunlight_40d1b79b5c845606b1cfd2082868da31.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2462/building_2462_img_5182_db483e7aa80abbd33bc4b66ca2c0a782.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2462/building_2462_img_5182_99a1533697493f8984bea4cf27dd269a.jpg",
             "description": null,
             "title": "Interior View",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2462_img_5182_db483e7aa80abbd33bc4b66ca2c0a782.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2462_img_5182_99a1533697493f8984bea4cf27dd269a.jpg"
         }
     ],
     "links": [
@@ -135,6 +137,7 @@
         ]
     },
     "name": "Christ Church",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2462",
     "ticketed_events": false
 }

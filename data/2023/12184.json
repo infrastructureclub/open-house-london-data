@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -55,7 +57,7 @@
     ],
     "factsheet": [
         {
-            "heading": "Open Mike at the Canteen",
+            "heading": "Open Mic at the Canteen",
             "paragraphs": [
                 "The market celebrates its visible condition by being as transparent as possible. A very light metal structure and a stressed clear ETFE membrane cover a central spine in which we place the stalls and a seating area on top. This spine is the market itself.",
                 "Canteen is a global food hub for Greenwich Peninsula: one bar and six independent vendors serving up irresistible treats from the world's streets. Enjoy food and drink in the unique architectural structure designed by SelgasCano and listen to performances throughout the day by London artists."
@@ -65,16 +67,16 @@
     "id": 12184,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12184/building_12184_design-district-greenwich-penisular-london_dezeen_2364_col_1-scaled_b91e0f188a22848b2cb80c10a31d838a.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12184/building_12184_design-district-greenwich-penisular-london_dezeen_2364_col_1-scaled_6841d1410259f8c3877509dedb75b1ed.jpeg",
             "description": null,
             "title": "Design District Canteen",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12184_design-district-greenwich-penisular-london_dezeen_2364_col_1-scaled_b91e0f188a22848b2cb80c10a31d838a.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12184_design-district-greenwich-penisular-london_dezeen_2364_col_1-scaled_6841d1410259f8c3877509dedb75b1ed.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12184/building_12184_design_district_launch_dan_weill_photography-36_83488929d65f1819d5fb2b9d86521116.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12184/building_12184_design_district_launch_dan_weill_photography-36_14e7ae61aa4001f3a13157c717e3c94b.jpeg",
             "description": null,
             "title": "Canteen by SelgasCano",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12184_design_district_launch_dan_weill_photography-36_83488929d65f1819d5fb2b9d86521116.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12184_design_district_launch_dan_weill_photography-36_14e7ae61aa4001f3a13157c717e3c94b.jpeg"
         }
     ],
     "links": [],
@@ -85,10 +87,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: North Greenwich",
-            "Bus: 486, 472, 422, 188, 180, 161, 132, 129, 108"
+            "Bus: 486, 472, 422, 188, 180, 161, 132, 129, 108",
+            "Additional travel info: The closest tube station in North Greenwich (30 metres). On the 24-hour Jubilee line, it gets you to London Bridge in 8 minutes and Waterloo in 11 minutes.\r\n\r\nEMIRATES AIR LINE CABLE CAR\r\nConnecting the Design District to the Royal Docks (near ExCel London) and the DLR.\r\n\r\nNorth Greenwich bus station is a major hub providing direct links across the city."
         ]
     },
     "name": "Design District Canteen",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12184",
     "ticketed_events": false
 }

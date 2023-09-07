@@ -20,6 +20,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12032",
             "capacity": null,
             "date": "2023-09-15",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12032",
             "capacity": null,
             "date": "2023-09-15",
@@ -48,6 +50,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12032",
             "capacity": null,
             "date": "2023-09-15",
@@ -86,22 +89,22 @@
     "id": 12032,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12032/building_12032_hounslow-house_1283a34bfec07dd123b2fd41d8e37f7f.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12032/building_12032_hounslow-house_8ecc8cbdad4768f3787b2b7f3e3d49fa.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12032_hounslow-house_1283a34bfec07dd123b2fd41d8e37f7f.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12032_hounslow-house_8ecc8cbdad4768f3787b2b7f3e3d49fa.png"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12032/building_12032_sr_hounslow-house_jack-hobhouse-1_fad55a2908ca6cd8e8c7bb5ec86ceb43.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12032/building_12032_sr_hounslow-house_jack-hobhouse-1_f381dec8901f100241121155404a09e6.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12032_sr_hounslow-house_jack-hobhouse-1_fad55a2908ca6cd8e8c7bb5ec86ceb43.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12032_sr_hounslow-house_jack-hobhouse-1_f381dec8901f100241121155404a09e6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12032/building_12032_sr_hounslow-house_jack-hobhouse-3_95bf3aef1ce0f4cf2e930af3fed34928.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12032/building_12032_sr_hounslow-house_jack-hobhouse-3_4c6a2b5631d206e341e2a79cf8f69135.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12032_sr_hounslow-house_jack-hobhouse-3_95bf3aef1ce0f4cf2e930af3fed34928.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12032_sr_hounslow-house_jack-hobhouse-3_4c6a2b5631d206e341e2a79cf8f69135.jpg"
         }
     ],
     "links": [],
@@ -113,10 +116,12 @@
         "travel_info": [
             "Tube: Hounslow Central",
             "Train: Hounslow",
-            "Bus: E2, H37, 281, 237, 235, 117"
+            "Bus: E2, H37, 281, 237, 235, 117",
+            "Additional travel info: 281 from Kingston, H37 from Richmond, 237 from Brentford, 117 or 235 from Feltham, 120 from Southall, E2/237 from Ealing."
         ]
     },
     "name": "Hounslow House",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12032",
     "ticketed_events": true
 }

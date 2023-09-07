@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -58,16 +59,16 @@
     "id": 7064,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7064/building_7064_the-questors-exterior_f7fe040e64dff804996c4a9a120cc6be.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7064/building_7064_the-questors-exterior_0f114ee677d7f66fcb5249586ebf79a5.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7064_the-questors-exterior_f7fe040e64dff804996c4a9a120cc6be.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7064_the-questors-exterior_0f114ee677d7f66fcb5249586ebf79a5.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7064/building_7064_jdp-from-the-rig_f23956948f0499b4634403ae435e5069.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7064/building_7064_jdp-from-the-rig_cda20552ee5dfe5d0da453b092f62948.jpg",
             "description": null,
             "title": "The Judi Dench Playhouse",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7064_jdp-from-the-rig_f23956948f0499b4634403ae435e5069.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7064_jdp-from-the-rig_cda20552ee5dfe5d0da453b092f62948.jpg"
         }
     ],
     "links": [],
@@ -79,10 +80,12 @@
         "travel_info": [
             "Tube: Ealing Broadway, South Ealing",
             "Train: Ealing Broadway",
-            "Bus: E8, E7, E2, e11, 83, 65, 427, 207"
+            "Bus: E8, E7, E2, e11, 83, 65, 427, 207",
+            "Additional travel info: The theatre is a 10-minute walk from Ealing Broadway station (on the Central and District lines, Elizabeth Line and national rail). It is also a 15-20 minutes' walk from South Ealing station (Piccadilly line) or take the 65 bus from the stop to your right as you come out of the station (only one exit) to Bond Street stop N and walk along Mattock Lane."
         ]
     },
     "name": "The Questors Theatre",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/7064",
     "ticketed_events": false
 }

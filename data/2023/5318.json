@@ -20,6 +20,22 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T10:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "City Hall will open an hour early, with reduced capacity. This will be a dedicated session those living with dementia and their carers",
+            "start": "2023-09-09T09:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -34,6 +50,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -47,8 +64,8 @@
         }
     ],
     "facilities": [
+        "Architect on site",
         "Step free access",
-        "Cloakroom",
         "Gender neutral toilets",
         "Baby changing facilities",
         "Accessible toilet",
@@ -104,51 +121,58 @@
         {
             "heading": "Information about the Royal Docks",
             "paragraphs": [
-                "The London Royal Docks is an Open Water Site of Importance for Nature Conservation (SINC), an area of open water that supports wildfowl. The River Thames and Tidal Tributaries SINC lies 300m west of the Site and includes part of the tidal stretch of the River Thames.",
-                "You can see a lot of activities in the water close to City Hall. The Royal Docks Team is progressing a Water Strategy that will create a strategy for how activities can be coordinated across the rest of the water and support the creation of specific identities for neighbourhoods across the Royal Docks. The Floating Habitat located further up towards ExCeL is an initiative to test some of these principles."
+                "The Royal Docks form an intimate part of London’s history and among its most epic urban landscapes. Comprising 100 hectares and almost 5km at its widest point, the sheer scale of the Royal Docks can be daunting, but for those prepared to make the excursion, the Royal Docks is exhilarating with London’s biggest skies, immense bodies of water, industrial relics, varied neighbourhoods, and playful architectures.",
+                "Once the largest part of the Port of London, the docks have been subject to numerous efforts to reimagine. Landmarks are varied and surprising, and range from big statement pieces such as Excel, London City Airport and the campus of the University of East London to unexpected structures such as London’s new City Hall, the colourful Tidal Basin Pumping Station and the gravity-defying Royal Victoria Dock Bridge.",
+                "Today, the area is undergoing comprehensive regeneration led by the Royal Docks Team, with thousands of new homes and infrastructure underway, including an exciting cultural programme. For more information about the area’s regeneration and what’s on, visit royaldocks.london",
+                "You can also download a copy of Open Cities’ self-guided tour of the Royal Docks and immerse yourself in the fascinating story of the past, present and future of the area."
             ]
         }
     ],
     "id": 5318,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5318/building_5318_front-view-of-city-hall_44d6e20901130770ce7fd2538a8006ed.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5318/building_5318_front-view-of-city-hall_d6c3cbb80a4ee58d2591d90fdfe9623a.jpg",
             "description": null,
             "title": "Front view of City Hall  ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5318_front-view-of-city-hall_44d6e20901130770ce7fd2538a8006ed.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5318_front-view-of-city-hall_d6c3cbb80a4ee58d2591d90fdfe9623a.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5318/building_5318_city-hall-overlooking-river_a624f45c44948093617236256001d59a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5318/building_5318_city-hall-overlooking-river_3cf4a044ec4dce4070119da7d104a1d0.jpg",
             "description": null,
             "title": "City Hall view from river",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5318_city-hall-overlooking-river_a624f45c44948093617236256001d59a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5318_city-hall-overlooking-river_3cf4a044ec4dce4070119da7d104a1d0.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5318/building_5318_large_web_image-the-crystal-city-hall_731ba2c0016cf144b21540311b5a0986.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5318/building_5318_large_web_image-the-crystal-city-hall_76614f0c93254671cd1ed47742641ea7.jpg",
             "description": null,
             "title": "Entrance to City Hall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5318_large_web_image-the-crystal-city-hall_731ba2c0016cf144b21540311b5a0986.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5318_large_web_image-the-crystal-city-hall_76614f0c93254671cd1ed47742641ea7.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5318/building_5318_chamber-city-hall__ca0d6562660cc92d72b410caf8f50a95.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5318/building_5318_chamber-city-hall__bf016434e92223c20395523020eaa13d.jpg",
             "description": null,
             "title": "View of the Chamber",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5318_chamber-city-hall__ca0d6562660cc92d72b410caf8f50a95.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5318_chamber-city-hall__bf016434e92223c20395523020eaa13d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5318/building_5318_large_web_image-llr-city-hall_b020b83af77be6c9a733b6768b1ccfff.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5318/building_5318_large_web_image-llr-city-hall_f7cbe43049542a12ff91899ad430b8e2.jpg",
             "description": null,
             "title": "London's Living Room",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5318_large_web_image-llr-city-hall_b020b83af77be6c9a733b6768b1ccfff.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5318_large_web_image-llr-city-hall_f7cbe43049542a12ff91899ad430b8e2.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5318/building_5318_ddch12_b00489fcd4c6a42d3e6f4ba7a42f47fe.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/5318/building_5318_ddch12_30ebbd13a79add5f701b30d15f073e31.jpg",
             "description": null,
             "title": "Tour guide Danny Danquah outside City Hall",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5318_ddch12_b00489fcd4c6a42d3e6f4ba7a42f47fe.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_5318_ddch12_30ebbd13a79add5f701b30d15f073e31.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "royaldocks.london",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Kamal Chunchie Way, E16 1ZE",
         "latitude": 51.5078589,
@@ -157,10 +181,12 @@
         "travel_info": [
             "Tube: Canning Town",
             "Train: West Silvertown, Royal Victoria, Custom House",
-            "Bus: 325, 241, 147, 474"
+            "Bus: 325, 241, 147, 474",
+            "Additional travel info: Additional bus route - 678\r\n\r\nCity Hall is next door to IFS Cloud cable car station, Royal Docks\r\n\r\nThames Clipper services - Royal Wharf (a 13 minute walk from West Silvertown station) and North Greenwich (accessible via cable car)"
         ]
     },
     "name": "City Hall",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/5318",
     "ticketed_events": false
 }

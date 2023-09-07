@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -78,10 +80,10 @@
     "id": 2130,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2130/building_2130_screen-shot-2017-06-01-at-12-19-29_dd342b68d47e23d5b732f0f54e4265fc.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2130/building_2130_screen-shot-2017-06-01-at-12-19-29_4fee76796d7809b33079dddb88b9b994.png",
             "description": null,
             "title": "Exterior at night",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2130_screen-shot-2017-06-01-at-12-19-29_dd342b68d47e23d5b732f0f54e4265fc.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2130_screen-shot-2017-06-01-at-12-19-29_4fee76796d7809b33079dddb88b9b994.png"
         }
     ],
     "links": [
@@ -95,15 +97,17 @@
         }
     ],
     "location": {
-        "address": "Broxhill Road, Havering-atte-Bower, Romford",
+        "address": "Broxhill Road, Havering-atte-Bower, Romford, RM4 1QH",
         "latitude": 51.6161082,
         "longitude": 0.1961176,
         "meeting_point": null,
         "travel_info": [
-            "Train: Romford"
+            "Train: Romford",
+            "Additional travel info: The Round House is a 10 min drive away from Romford station. Second entrance on the left from the village green of Havering-atte-Bower. There is limited parking space available on a field within the property but there is plenty of space available by Bedford Park on the other side of the road. Visitors are encouraged to discover other architectural landmarks of Havering-atte-Bower."
         ]
     },
     "name": "The Round House",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/2130",
     "ticketed_events": false
 }

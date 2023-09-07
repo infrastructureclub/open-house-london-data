@@ -20,6 +20,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11828",
             "capacity": null,
             "date": "2023-09-09",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11828",
             "capacity": null,
             "date": "2023-09-09",
@@ -48,12 +50,13 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11828",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T15:15:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour",
             "notes": null,
             "start": "2023-09-09T14:00:00+01:00",
@@ -62,6 +65,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11828",
             "capacity": null,
             "date": "2023-09-09",
@@ -93,36 +97,38 @@
     "id": 11828,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11828/building_11828_img_0609_567856d1d7a7c44b4d506b8b3b5bf3fe.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11828/building_11828_img_0609_349176c30b8e996ab66901dab8585ae2.jpg",
             "description": null,
             "title": "Sight and Sound Building, (the old Italian Hospital), Great Ormond Street Hospital",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11828_img_0609_567856d1d7a7c44b4d506b8b3b5bf3fe.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11828_img_0609_349176c30b8e996ab66901dab8585ae2.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11828/building_11828_img_9789_353c3f05f32d8bfde49c2c3fde836d8b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11828/building_11828_img_9789_dd006bf48a5667356ab2a1b15f6d73b3.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11828_img_9789_353c3f05f32d8bfde49c2c3fde836d8b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11828_img_9789_dd006bf48a5667356ab2a1b15f6d73b3.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11828/building_11828_img_0539_0e97558c7b376cce4a72c6a190fdc61f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11828/building_11828_img_0539_0f9a215f97267fde327607f1478b799c.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11828_img_0539_0e97558c7b376cce4a72c6a190fdc61f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11828_img_0539_0f9a215f97267fde327607f1478b799c.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "GOSH Sight and Sound Hospital",
+        "address": "GOSH Sight and Sound Hospital, 40-41 Queen Square, WC1N 3AJ",
         "latitude": 51.5210526,
         "longitude": -0.121682,
         "meeting_point": null,
         "travel_info": [
             "Tube: King's Cross St. Pancras, Holborn, Russell Square",
-            "Train: St. Pancras, King's Cross"
+            "Train: St. Pancras, King's Cross",
+            "Additional travel info: Two London Underground stations are near the hospital (Russell Square and Holborn), and several mainline train stations are within walking distance (Euston, Kings Cross, St Pancras, Waterloo and Charing Cross)."
         ]
     },
     "name": "GOSH Sight and Sound Hospital & St Christophers Chapel",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11828",
     "ticketed_events": true
 }

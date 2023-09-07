@@ -14,6 +14,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11952",
             "capacity": null,
             "date": "2023-09-09",
@@ -29,11 +30,12 @@
     "facilities": [],
     "factsheet": [
         {
-            "heading": "About the tour",
+            "heading": "About the tour and guide",
             "paragraphs": [
                 "Edmonton was an urban metropolitan borough within the county of Middlesex until 1965 when it was merged with neighbouring Enfield, Palmers Green and Southgate to form the London Borough of Enfield.",
                 "Transport has played a significant role in the growth and development of Edmonton and this continues today.  Edmonton's industrial origins have largely been lost and the area is now predominantly a commuter suburb, with significant redevelopment and repurposing across the town.",
-                "On this walk we will review the history and lost heritage of Edmonton whilst exploring the social, economic and environmental issues of today and the future transformational plans for this neighbourhood, examining residential, retail, entertainment, transport and parkland environments in both Upper and Lower Edmonton."
+                "On this walk we will review the history and lost heritage of Edmonton whilst exploring the social, economic and environmental issues of today and the future transformational plans for this neighbourhood, examining residential, retail, entertainment, transport and parkland environments in both Upper and Lower Edmonton.",
+                "Your tour guide is Darren Leftwich FRGS, a Geography teacher for 34 years, with a specialism in urban regeneration and a lifelong resident of Edmonton."
             ]
         },
         {
@@ -47,10 +49,22 @@
     "id": 11952,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11952/building_11952_joyce-avenue-estate-scaled-e1640259623891_5ef40fd9968981f8b959c5051c7c9b4e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11952/building_11952_joyce-avenue-estate-scaled-e1640259623891_819cc60a15f4288d2db2a14e90effd8d.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11952_joyce-avenue-estate-scaled-e1640259623891_5ef40fd9968981f8b959c5051c7c9b4e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11952_joyce-avenue-estate-scaled-e1640259623891_819cc60a15f4288d2db2a14e90effd8d.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11952/building_11952_img_0518_16402817f16a6d4fadb783b207017251.jpg",
+            "description": null,
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11952_img_0518_16402817f16a6d4fadb783b207017251.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11952/building_11952_bf1fb43abde8db1984105785bbaad073_7ed93a8a0736358ae547f7fa95189455.jpg",
+            "description": null,
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11952_bf1fb43abde8db1984105785bbaad073_7ed93a8a0736358ae547f7fa95189455.jpg"
         }
     ],
     "links": [
@@ -60,15 +74,18 @@
         }
     ],
     "location": {
-        "address": "Entrance to Silver Street Station (Platform 1",
-        "latitude": 51.61474,
-        "longitude": -0.06708,
+        "address": "Entrance to Silver Street Station (Platform 1, London bound side)",
+        "latitude": 51.61473,
+        "longitude": -0.06715,
         "meeting_point": null,
         "travel_info": [
-            "Train: Silver Street"
+            "Train: Silver Street",
+            "Bus: 444, 34, 144, 102",
+            "Additional travel info: Meet outside at the entrance to Silver Street Station (Platform 1, London bound side, not ticket required). \r\n\r\nTour end ends at Edmonton Green Overground Station."
         ]
     },
     "name": "Edmonton - an Edwardian North London suburb",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11952",
     "ticketed_events": true
 }

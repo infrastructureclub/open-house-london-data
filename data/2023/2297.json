@@ -16,22 +16,7 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-02",
-            "drop_in": true,
-            "end": "2023-09-02T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Induction Service of Minister Aled Jones",
-            "start": "2023-09-02T14:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Refreshments",
@@ -57,21 +42,21 @@
     "id": 2297,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2297/building_2297_2010-hampstead-garden-suburb-1_c356c767b14b075bbdb3e424505f119e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2297/building_2297_2010-hampstead-garden-suburb-1_be1008b172711b072444cf5091d0b903.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2297_2010-hampstead-garden-suburb-1_c356c767b14b075bbdb3e424505f119e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2297_2010-hampstead-garden-suburb-1_be1008b172711b072444cf5091d0b903.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2297/building_2297_2010-hampstead-garden-suburb-2_9d8d0c37db6f0eb2d50d66d7d391aead.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2297/building_2297_2010-hampstead-garden-suburb-2_252afe7e6cc19fd215ce878aa7e0d555.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2297_2010-hampstead-garden-suburb-2_9d8d0c37db6f0eb2d50d66d7d391aead.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2297_2010-hampstead-garden-suburb-2_252afe7e6cc19fd215ce878aa7e0d555.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Central Square, hampstead Garden Suburb",
+        "address": "Central Square, hampstead Garden Suburb, NW11 7AG",
         "latitude": 51.5807555,
         "longitude": -0.190889,
         "meeting_point": null,
@@ -81,6 +66,7 @@
         ]
     },
     "name": "Hampstead Garden Suburb Free Church",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2297",
     "ticketed_events": false
 }

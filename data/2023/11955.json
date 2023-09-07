@@ -12,6 +12,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -26,6 +27,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -58,33 +60,33 @@
     "id": 11955,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11955/building_11955_image-for-open-house-2023_721945e5253619f1f97516e46f3b11a7.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11955/building_11955_image-for-open-house-2023_fc8a89dce25b62de9c4fb5e0799bb6e6.jpg",
             "description": null,
             "title": "An Exhibition celebrating the historic character and heritage of Bromley town.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11955_image-for-open-house-2023_721945e5253619f1f97516e46f3b11a7.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11955_image-for-open-house-2023_fc8a89dce25b62de9c4fb5e0799bb6e6.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11955/building_11955_palace_2a82869752cc8cdee44bf238ffea7d9f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11955/building_11955_palace_0880ee51fb9c174c743073460cf85c9b.jpg",
             "description": null,
             "title": "Bromley Palace - 1,000 year link with the Bishops of Rochester",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11955_palace_2a82869752cc8cdee44bf238ffea7d9f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11955_palace_0880ee51fb9c174c743073460cf85c9b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11955/building_11955_screenshot-2023-08-13-221809_52e146d2d1a394a5a46a21f62c2621d1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11955/building_11955_screenshot-2023-08-13-221809_27968cb92c475f1b57e9c1b246e05742.jpg",
             "description": null,
             "title": "Bromley & Sheppards Colleges - Wren style architecture dating from 1666",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11955_screenshot-2023-08-13-221809_52e146d2d1a394a5a46a21f62c2621d1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11955_screenshot-2023-08-13-221809_27968cb92c475f1b57e9c1b246e05742.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11955/building_11955_screenshot-2023-08-13-222921_292d451a4dbe25e082448fad01498ebc.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11955/building_11955_screenshot-2023-08-13-222921_5525fe4fe4d083dd6cb7c5af5aec9fe5.jpg",
             "description": null,
             "title": "Many wonderful Victorian photos feature in the Exhibition",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11955_screenshot-2023-08-13-222921_292d451a4dbe25e082448fad01498ebc.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11955_screenshot-2023-08-13-222921_5525fe4fe4d083dd6cb7c5af5aec9fe5.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Lower Mall, The Glades shopping centre",
+        "address": "Lower Mall, The Glades shopping centre, 64 High Street, Bromley",
         "latitude": 51.40373,
         "longitude": 0.01643,
         "meeting_point": null,
@@ -94,6 +96,7 @@
         ]
     },
     "name": "Historic Bromley Town Exhibition",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11955",
     "ticketed_events": false
 }

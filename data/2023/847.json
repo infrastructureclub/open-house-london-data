@@ -26,6 +26,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -40,6 +41,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -77,10 +79,10 @@
     "id": 847,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/847/building_847_maughan-library-1-2-red-flag-even-smaller_1f013ba21e695ecd386547b463e8b9bf.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/847/building_847_maughan-library-1-2-red-flag-even-smaller_bfd3f3db325114b9bfe2b7682dbfd05d.jpg",
             "description": null,
             "title": "Main entrance",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_847_maughan-library-1-2-red-flag-even-smaller_1f013ba21e695ecd386547b463e8b9bf.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_847_maughan-library-1-2-red-flag-even-smaller_bfd3f3db325114b9bfe2b7682dbfd05d.jpg"
         }
     ],
     "links": [],
@@ -96,6 +98,7 @@
         ]
     },
     "name": "King's College London, The Maughan Library",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/847",
     "ticketed_events": false
 }

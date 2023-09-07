@@ -14,12 +14,13 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11674",
             "capacity": null,
             "date": "2023-09-08",
             "drop_in": false,
             "end": "2023-09-08T15:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "AMAZING WOMEN IN LONDON TOUR",
             "notes": null,
             "start": "2023-09-08T13:00:00+01:00",
@@ -28,6 +29,7 @@
         {
             "activity_type": "Walking Tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11674",
             "capacity": null,
             "date": "2023-09-15",
@@ -59,28 +61,28 @@
     "id": 11674,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11674/building_11674_20230630_115454-copy_5e2a0b3b27c837d409cafefb17a5a6a3.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11674/building_11674_20230630_115454-copy_0e2601ca2395c120d5d65d93bb883394.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11674_20230630_115454-copy_5e2a0b3b27c837d409cafefb17a5a6a3.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11674_20230630_115454-copy_0e2601ca2395c120d5d65d93bb883394.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11674/building_11674_20230630_112434-copy_91effcd48c619b6b7819137080638646.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11674/building_11674_20230630_112434-copy_4e8c51a5837001d8995056669cc8651b.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11674_20230630_112434-copy_91effcd48c619b6b7819137080638646.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11674_20230630_112434-copy_4e8c51a5837001d8995056669cc8651b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11674/building_11674_20230630_122302-copy_98a8ef1e31a1a6aba9a5ff46b966eac8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11674/building_11674_20230630_122302-copy_f598fc2c6e910a348dc0b63c360a3e69.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11674_20230630_122302-copy_98a8ef1e31a1a6aba9a5ff46b966eac8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11674_20230630_122302-copy_f598fc2c6e910a348dc0b63c360a3e69.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11674/building_11674_20230630_122302-copy_1503eafad3abb0ccddbf81279c1c1f5f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11674/building_11674_20230630_122302-copy_a9c286cb4b419aeacf5747ae6b0d01a3.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11674_20230630_122302-copy_1503eafad3abb0ccddbf81279c1c1f5f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11674_20230630_122302-copy_a9c286cb4b419aeacf5747ae6b0d01a3.jpg"
         }
     ],
     "links": [],
@@ -94,6 +96,7 @@
         ]
     },
     "name": "Amazing Women in London Tour",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11674",
     "ticketed_events": true
 }

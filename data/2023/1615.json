@@ -16,7 +16,23 @@
             "housing"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": true,
+            "end": "2023-09-17T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Last entry 17.45",
+            "start": "2023-09-17T12:30:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Refreshments",
         "Toilets"
@@ -68,28 +84,28 @@
     "id": 1615,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1615/building_1615_img_0409_3fd56f4fd1950d46d567b9ae6d788c33.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1615/building_1615_img_0409_b9a520d40e7efe8c1a297f16cad26438.jpg",
             "description": null,
             "title": "rear of house",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1615_img_0409_3fd56f4fd1950d46d567b9ae6d788c33.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1615_img_0409_b9a520d40e7efe8c1a297f16cad26438.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1615/building_1615_img_0406_0d908e76899862b02de7119714473007.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1615/building_1615_img_0406_88cd793a8d566840bb85f565626857ea.jpg",
             "description": null,
             "title": "half way up the street",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1615_img_0406_0d908e76899862b02de7119714473007.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1615_img_0406_88cd793a8d566840bb85f565626857ea.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1615/building_1615_ten_eight_b8f7aacdd4959ac938861309af89f29b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1615/building_1615_ten_eight_619fb4fd9cc3b95ec7fbb70b359c6332.jpg",
             "description": null,
             "title": "Renovated Segal house",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1615_ten_eight_b8f7aacdd4959ac938861309af89f29b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1615_ten_eight_619fb4fd9cc3b95ec7fbb70b359c6332.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1615/building_1615_seven_five_10ecf8115b92a65e6a2d7c401bd2f3fe.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1615/building_1615_seven_five_9a4c18d90cd525f6e0f7f104dce681f7.jpg",
             "description": null,
             "title": "Two Houses in Walters Way",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1615_seven_five_10ecf8115b92a65e6a2d7c401bd2f3fe.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1615_seven_five_9a4c18d90cd525f6e0f7f104dce681f7.jpg"
         }
     ],
     "links": [
@@ -113,10 +129,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Honor Oak Park",
-            "Bus: P4, P12, 171, 172, 122"
+            "Bus: P4, P12, 171, 172, 122",
+            "Additional travel info: No Parking in Walters Way, park on main road.\r\nBicycles can be brought into Walters Way."
         ]
     },
     "name": "Walter Segal Self-build Houses",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1615",
     "ticketed_events": false
 }

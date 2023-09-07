@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -35,6 +36,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -86,42 +88,44 @@
     "id": 1148,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1148/building_1148_museum-of-london-docklands-1-museum-of-london_3421fa52f484f7b23fffaae1ebfbf665.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1148/building_1148_museum-of-london-docklands-1-museum-of-london_4a671d76bdb330e3ad88b0c9c7dad6c5.jpg",
             "description": null,
             "title": "Museum of London Docklands exterior 1",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1148_museum-of-london-docklands-1-museum-of-london_3421fa52f484f7b23fffaae1ebfbf665.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1148_museum-of-london-docklands-1-museum-of-london_4a671d76bdb330e3ad88b0c9c7dad6c5.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1148/building_1148_museum-of-london-docklands-interior_b876eceb4d605b4256b35be94e63077f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1148/building_1148_museum-of-london-docklands-interior_0e6229f2234d254fd6b1426db296b2a4.jpg",
             "description": null,
             "title": "Museum of London Docklands interior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1148_museum-of-london-docklands-interior_b876eceb4d605b4256b35be94e63077f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1148_museum-of-london-docklands-interior_0e6229f2234d254fd6b1426db296b2a4.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1148/building_1148_museum-of-london-docklands-interior-2_69c91469047214f66d89d42bc9ce2f9a.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1148/building_1148_museum-of-london-docklands-interior-2_e026d84583eaef04bb0b6653cb544bbe.jpg",
             "description": null,
             "title": "Museum of London Docklands interior 2",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1148_museum-of-london-docklands-interior-2_69c91469047214f66d89d42bc9ce2f9a.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1148_museum-of-london-docklands-interior-2_e026d84583eaef04bb0b6653cb544bbe.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1148/building_1148_museum-of-london-docklands-4-museum-of-london_795dae678019b47b2738fa0e3708b4bc.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1148/building_1148_museum-of-london-docklands-4-museum-of-london_fc3b335b52b910171a98fe7f26950b58.jpg",
             "description": null,
             "title": "Museum of London Docklands exterior 2",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1148_museum-of-london-docklands-4-museum-of-london_795dae678019b47b2738fa0e3708b4bc.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1148_museum-of-london-docklands-4-museum-of-london_fc3b335b52b910171a98fe7f26950b58.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "No. 1 Warehouse",
+        "address": "No. 1 Warehouse, West India Quay (off Hertsmere Road), E14 4AL",
         "latitude": 51.5078237,
         "longitude": -0.0233988,
         "meeting_point": null,
         "travel_info": [
             "Tube: Canary Wharf, Westferry",
-            "Bus: 277, D3, D7, D8, 135"
+            "Bus: 277, D3, D7, D8, 135",
+            "Additional travel info: Close to Elizabeth Line, Jubilee Line and DLR"
         ]
     },
     "name": "Museum of London Docklands",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1148",
     "ticketed_events": false
 }

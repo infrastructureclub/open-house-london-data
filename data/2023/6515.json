@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -59,16 +60,16 @@
     "id": 6515,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6515/building_6515_j0970_063_lower-res_6b8953987c6d096b26f43011457357c8.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6515/building_6515_j0970_063_lower-res_ab0a06b72919b193735a2b280e5bd879.jpg",
             "description": null,
             "title": "ING Office at 8-10 Moorgate, from Moorgate",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6515_j0970_063_lower-res_6b8953987c6d096b26f43011457357c8.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6515_j0970_063_lower-res_ab0a06b72919b193735a2b280e5bd879.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6515/building_6515_j0970_109_lower-res_208d7f372b3d3c81b2298982b99afae3.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6515/building_6515_j0970_109_lower-res_da6852a4c212ef519be2f966510fb99c.jpg",
             "description": null,
             "title": "7th Floor reception at ING UK office at 8-10 Moorgate",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6515_j0970_109_lower-res_208d7f372b3d3c81b2298982b99afae3.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6515_j0970_109_lower-res_da6852a4c212ef519be2f966510fb99c.jpg"
         }
     ],
     "links": [],
@@ -84,6 +85,7 @@
         ]
     },
     "name": "8-10 Moorgate",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/6515",
     "ticketed_events": false
 }

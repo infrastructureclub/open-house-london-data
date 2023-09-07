@@ -20,6 +20,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12098",
             "capacity": null,
             "date": "2023-09-09",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/12098",
             "capacity": null,
             "date": "2023-09-09",
@@ -64,10 +66,10 @@
     "id": 12098,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12098/building_12098_open-havelock_e4339f7f9f941cb5ab598f896ccdaa67.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12098/building_12098_2-open-havelock_4ab77c538f4f1613b551ff06a2648e86.png",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12098_open-havelock_e4339f7f9f941cb5ab598f896ccdaa67.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12098_2-open-havelock_4ab77c538f4f1613b551ff06a2648e86.png"
         }
     ],
     "links": [],
@@ -77,10 +79,12 @@
         "longitude": -0.3674,
         "meeting_point": null,
         "travel_info": [
-            "Train: Southall"
+            "Train: Southall",
+            "Additional travel info: The site can be difficult to find. If there are any issues, please contact Kitty Eyre on 07909816195"
         ]
     },
     "name": "Open Havelock - guided visit",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12098",
     "ticketed_events": true
 }

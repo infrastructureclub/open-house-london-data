@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -30,6 +31,36 @@
             "name": "Drop in",
             "notes": "Visitors can chose to look around the church under their own steam or in the company of one of our guides.",
             "start": "2023-09-10T13:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T15:15:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "The organ preserves the features of the Handel organ built in 1716. Anna Steppler will give a short demonstration and talk on the instrument",
+            "start": "2023-09-10T15:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T16:15:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "The organ preserves the features of the Handel organ built in 1716. Anna Steppler will give a short demonstration and talk on the instrument",
+            "start": "2023-09-10T16:00:00+01:00",
             "ticketed": false
         }
     ],
@@ -49,16 +80,16 @@
     "id": 2467,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2467/building_2467_ae08fd06-f406-4baf-93b6-4d91347f6655_c180cfb9bf82928bf2dd352566c5d7fc.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2467/building_2467_ae08fd06-f406-4baf-93b6-4d91347f6655_0ba6555fd95ade9abb60fb4f0e0509b1.jpeg",
             "description": null,
             "title": "St Lawrence Little Stanmore interior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2467_ae08fd06-f406-4baf-93b6-4d91347f6655_c180cfb9bf82928bf2dd352566c5d7fc.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2467_ae08fd06-f406-4baf-93b6-4d91347f6655_0ba6555fd95ade9abb60fb4f0e0509b1.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2467/building_2467_9fe81c6a-4189-4f00-95c8-f66fc064ed8b_20c003cb9f7fd0e9fcb2d4c9c2056648.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2467/building_2467_9fe81c6a-4189-4f00-95c8-f66fc064ed8b_c6f43d1cec269deb387d5cd0279e12ad.jpeg",
             "description": null,
             "title": "St Lawrence Little Stanmore exterior",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2467_9fe81c6a-4189-4f00-95c8-f66fc064ed8b_20c003cb9f7fd0e9fcb2d4c9c2056648.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2467_9fe81c6a-4189-4f00-95c8-f66fc064ed8b_c6f43d1cec269deb387d5cd0279e12ad.jpeg"
         }
     ],
     "links": [],
@@ -69,10 +100,12 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Edgware, Canons Park",
-            "Bus: 186, 340, 79"
+            "Bus: 186, 340, 79",
+            "Additional travel info: 300 metres from Canons Park tube station.   \r\n1 kilometre from Edgware tube station.\r\nBuses 79, 186 and 340 stop in front of the Church."
         ]
     },
     "name": "Church of St Lawrence, Little Stanmore",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2467",
     "ticketed_events": false
 }

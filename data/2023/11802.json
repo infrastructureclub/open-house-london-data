@@ -20,6 +20,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11802",
             "capacity": null,
             "date": "2023-09-16",
@@ -34,6 +35,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11802",
             "capacity": null,
             "date": "2023-09-16",
@@ -48,6 +50,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11802",
             "capacity": null,
             "date": "2023-09-16",
@@ -62,6 +65,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11802",
             "capacity": null,
             "date": "2023-09-16",
@@ -76,6 +80,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11802",
             "capacity": null,
             "date": "2023-09-16",
@@ -85,6 +90,21 @@
             "name": "Guided Tour",
             "notes": null,
             "start": "2023-09-16T16:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11802",
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": false,
+            "end": "2023-09-16T17:30:00+01:00",
+            "fully_booked": true,
+            "name": "Guided Tour",
+            "notes": null,
+            "start": "2023-09-16T17:00:00+01:00",
             "ticketed": true
         }
     ],
@@ -111,28 +131,28 @@
     "id": 11802,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11802/building_11802_03_secret-garden-flat-by-nic-howett-architect_-_henry_woide__print_43a63005528b4ed7c5f92d7796094a24.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11802/building_11802_03_secret-garden-flat-by-nic-howett-architect_-_henry_woide__print_d8b75abfcf2beda1f461a4721b643ede.jpg",
             "description": null,
             "title": "Inside the garden studio (photograph by Henry Woide)",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11802_03_secret-garden-flat-by-nic-howett-architect_-_henry_woide__print_43a63005528b4ed7c5f92d7796094a24.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11802_03_secret-garden-flat-by-nic-howett-architect_-_henry_woide__print_d8b75abfcf2beda1f461a4721b643ede.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11802/building_11802_23-03-20_nic_howett_165a_camberwell_road_-_henry_woide__print_001_a92d989b1f925622034f34a273ba2298.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11802/building_11802_23-03-20_nic_howett_165a_camberwell_road_-_henry_woide__print_001_3682ade5de29f80c2b27db0ee89fe549.jpg",
             "description": null,
             "title": "Towards the garden studio (photograph by Henry Woide)",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11802_23-03-20_nic_howett_165a_camberwell_road_-_henry_woide__print_001_a92d989b1f925622034f34a273ba2298.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11802_23-03-20_nic_howett_165a_camberwell_road_-_henry_woide__print_001_3682ade5de29f80c2b27db0ee89fe549.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11802/building_11802_04_secret-garden-flat-by-nic-howett-architect_-_henry_woide__print_09a891370d8e7c06dc939d15477b0792.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11802/building_11802_04_secret-garden-flat-by-nic-howett-architect_-_henry_woide__print_614d201aa2193685b9a85a180faa18e9.jpg",
             "description": null,
             "title": "The bedroom extension (photograph by Henry Woide)",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11802_04_secret-garden-flat-by-nic-howett-architect_-_henry_woide__print_09a891370d8e7c06dc939d15477b0792.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11802_04_secret-garden-flat-by-nic-howett-architect_-_henry_woide__print_614d201aa2193685b9a85a180faa18e9.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11802/building_11802_01_secret-garden-flat-by-nic-howett-architect_-_henry_woide__print_dac2a3e417f2744f5c53bfba019a5439.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11802/building_11802_01_secret-garden-flat-by-nic-howett-architect_-_henry_woide__print_8866fece5151b4b44c3d7e42035284eb.jpg",
             "description": null,
             "title": "Toward the bedroom extension (photograph by Henry Woide)",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11802_01_secret-garden-flat-by-nic-howett-architect_-_henry_woide__print_dac2a3e417f2744f5c53bfba019a5439.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11802_01_secret-garden-flat-by-nic-howett-architect_-_henry_woide__print_8866fece5151b4b44c3d7e42035284eb.jpg"
         }
     ],
     "links": [],
@@ -144,10 +164,12 @@
         "travel_info": [
             "Tube: Elephant & Castle",
             "Train: Elephant & Castle, Denmark Hill",
-            "Bus: 68, 45, 42, 40, 35, 176, 171, 148, 12"
+            "Bus: 68, 45, 42, 40, 35, 176, 171, 148, 12",
+            "Additional travel info: Train and tube stations are a 10-15minute walk away, there are plenty of bus routes that stop nearby. The Secret Garden flat is accessed via a black door beneath the number 165 on Camberwell Road."
         ]
     },
     "name": "The Secret Garden Flat",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11802",
     "ticketed_events": true
 }

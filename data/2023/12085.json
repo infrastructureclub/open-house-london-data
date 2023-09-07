@@ -20,11 +20,12 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
             "drop_in": true,
-            "end": "2023-09-16T17:00:00+01:00",
+            "end": "2023-09-16T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
             "notes": "Open house day - Welcome to visit and explore the finished house extension",
@@ -34,11 +35,12 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
             "drop_in": true,
-            "end": "2023-09-17T17:00:00+01:00",
+            "end": "2023-09-17T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
             "notes": "Open house day - Welcome to visit and explore the finished house extension",
@@ -77,22 +79,22 @@
     "id": 12085,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12085/building_12085_097-complete-1_c87851d775bae05c170359b379a1d8bc.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12085/building_12085_097-complete-1_f272c8688adf01a48c749173fcb0ce64.jpeg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12085_097-complete-1_c87851d775bae05c170359b379a1d8bc.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12085_097-complete-1_f272c8688adf01a48c749173fcb0ce64.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12085/building_12085_dsc_2954-edit_3efeebc2162b8f2f3dce5807381fbf13.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12085/building_12085_dsc_2954-edit_f98e44a82501dc36971701b475ee980d.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12085_dsc_2954-edit_3efeebc2162b8f2f3dce5807381fbf13.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12085_dsc_2954-edit_f98e44a82501dc36971701b475ee980d.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12085/building_12085_097-complete-2_25fa31933067dbbed5995ec6c6624452.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12085/building_12085_097-complete-2_4648472c0de2e062d320cf2ca47382e4.jpeg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12085_097-complete-2_25fa31933067dbbed5995ec6c6624452.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12085_097-complete-2_4648472c0de2e062d320cf2ca47382e4.jpeg"
         }
     ],
     "links": [],
@@ -103,10 +105,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Queen's Road Peckham, Nunhead",
-            "Bus: P13, P12, 78, 436, 36, 177, 171, 136"
+            "Bus: P13, P12, 78, 436, 36, 177, 171, 136",
+            "Additional travel info: 5 mins walk from Nunhead Station\r\n10 mins Walk from Queen's Road Peckham Station"
         ]
     },
     "name": "3 Arbuthnot Road",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12085",
     "ticketed_events": false
 }

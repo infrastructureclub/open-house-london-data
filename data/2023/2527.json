@@ -28,20 +28,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-06",
-            "drop_in": true,
-            "end": "2023-09-06T18:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Come and explore our Grade I listed building, brand new heritage wing and community café",
-            "start": "2023-09-06T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -56,6 +43,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-11",
@@ -70,6 +58,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-13",
@@ -84,48 +73,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2527",
-            "capacity": null,
-            "date": "2023-09-06",
-            "drop_in": false,
-            "end": "2023-09-06T13:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": null,
-            "start": "2023-09-06T12:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2527",
-            "capacity": null,
-            "date": "2023-09-06",
-            "drop_in": false,
-            "end": "2023-09-06T18:15:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": null,
-            "start": "2023-09-06T17:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2527",
-            "capacity": null,
-            "date": "2023-09-06",
-            "drop_in": false,
-            "end": "2023-09-06T21:00:00+01:00",
-            "fully_booked": false,
-            "name": "Bill Jacobs - Religious Vitality in London",
-            "notes": null,
-            "start": "2023-09-06T18:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2527",
             "capacity": null,
             "date": "2023-09-09",
@@ -140,6 +88,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2527",
             "capacity": null,
             "date": "2023-09-13",
@@ -154,6 +103,7 @@
         {
             "activity_type": "Talk",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/2527",
             "capacity": null,
             "date": "2023-09-13",
@@ -201,52 +151,52 @@
     "id": 2527,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527_170123-rendered-smaller_64870aad13a97371f2d8096bb2284fdf.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527_170123-rendered-smaller_33ba5bddf4171296ae569cfb7b137607.jpg",
             "description": null,
             "title": "New building",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527_170123-rendered-smaller_64870aad13a97371f2d8096bb2284fdf.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527_170123-rendered-smaller_33ba5bddf4171296ae569cfb7b137607.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527_anthony-coleman-1-2019_c20d42d22a8f63ccb9359ed3aea477bc.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527_anthony-coleman-1-2019_676568314e0a05102349d41ae714c565.jpg",
             "description": null,
             "title": "View of new heritage wing adjoining St Mary Magdalene Church and Primary School",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527_anthony-coleman-1-2019_c20d42d22a8f63ccb9359ed3aea477bc.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527_anthony-coleman-1-2019_676568314e0a05102349d41ae714c565.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527_anna-kunst-2019_8e2f990e6988eb39b1f8d6643b1095a9.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527_anna-kunst-2019_e28376995bb75bdfd56d38c414f99594.jpg",
             "description": null,
             "title": "St Mary Magdalene Church nave",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527_anna-kunst-2019_8e2f990e6988eb39b1f8d6643b1095a9.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527_anna-kunst-2019_e28376995bb75bdfd56d38c414f99594.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527_anthony-coleman-2-2019_d0fa03e7b033d6837a48f8cfd690e89e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527_anthony-coleman-2-2019_adb68c7cfde9337db6d1ebe3e6afbc97.jpg",
             "description": null,
             "title": "Grand Junction hosts a programme of music, arts and performance",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527_anthony-coleman-2-2019_d0fa03e7b033d6837a48f8cfd690e89e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527_anthony-coleman-2-2019_adb68c7cfde9337db6d1ebe3e6afbc97.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527_lloyd-evans-2-2019_c6e5f77c6e037970f71f84793674acff.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527_lloyd-evans-2-2019_bdc271975be4c58368539b6e60c8f238.jpg",
             "description": null,
             "title": "St Mary Magdalene newly restored undercroft",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527_lloyd-evans-2-2019_c6e5f77c6e037970f71f84793674acff.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527_lloyd-evans-2-2019_bdc271975be4c58368539b6e60c8f238.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527_lloyd-evans-1-2019_2a1e7fc7c483356c6822592ed1b83513.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527_lloyd-evans-1-2019_d7138b680f2be9501eeea3416b18d818.jpg",
             "description": null,
             "title": "The new heritage wing offers full access to all floors",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527_lloyd-evans-1-2019_2a1e7fc7c483356c6822592ed1b83513.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527_lloyd-evans-1-2019_d7138b680f2be9501eeea3416b18d818.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527__dsf7174_b6b5226b1662781e29d2fc47878005af.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527__dsf7174_14dad90f8030a36e23bf7ef2e27d82e5.jpg",
             "description": null,
             "title": "Chapel of St Sepulchre",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527__dsf7174_b6b5226b1662781e29d2fc47878005af.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527__dsf7174_14dad90f8030a36e23bf7ef2e27d82e5.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527__dsc5123-2_09dbdcadd70b88a9d76859590016814f.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2527/building_2527__dsc5123-2_2c3586a43d95098deaddce425520c9d9.jpg",
             "description": null,
             "title": "Conservation of Daniel Bell's ceiling saints",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527__dsc5123-2_09dbdcadd70b88a9d76859590016814f.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2527__dsc5123-2_2c3586a43d95098deaddce425520c9d9.jpg"
         }
     ],
     "links": [
@@ -260,7 +210,7 @@
         }
     ],
     "location": {
-        "address": "Rowington Close, St Mary Magdalene's Church",
+        "address": "Rowington Close, St Mary Magdalene's Church , W2 5TF",
         "latitude": 51.5222702,
         "longitude": -0.1890094,
         "meeting_point": null,
@@ -271,6 +221,7 @@
         ]
     },
     "name": "Grand Junction at St Mary Magdalene Church, Paddington",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2527",
     "ticketed_events": true
 }

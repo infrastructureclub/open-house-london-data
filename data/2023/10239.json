@@ -21,6 +21,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -35,6 +36,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -105,54 +107,56 @@
     "id": 10239,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10239/building_10239_dsc_0174-copy_a52ad6044620031a8d1b96ba2080f767.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10239/building_10239_dsc_0174-copy_7a7276fd5d217f238afabf6d9fb01a4b.jpg",
             "description": null,
             "title": "The Sir William Prescott triple-expansion engine ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10239_dsc_0174-copy_a52ad6044620031a8d1b96ba2080f767.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10239_dsc_0174-copy_7a7276fd5d217f238afabf6d9fb01a4b.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10239/building_10239_dsc_0155_2cc1206667995e74f134c01a68d95a5d.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10239/building_10239_dsc_0155_b5d3bcac665c9107af7d5f3c5019d81a.jpeg",
             "description": null,
             "title": "Engine house",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10239_dsc_0155_2cc1206667995e74f134c01a68d95a5d.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10239_dsc_0155_b5d3bcac665c9107af7d5f3c5019d81a.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10239/building_10239_dsc_1167_c81ba345a427e949962d54a0c98a86f7.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10239/building_10239_dsc_1167_68ad7f2615233a57cbc2951f9e556ff9.jpeg",
             "description": null,
             "title": "The Sir William Prescott triple-expansion engine ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10239_dsc_1167_c81ba345a427e949962d54a0c98a86f7.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10239_dsc_1167_68ad7f2615233a57cbc2951f9e556ff9.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10239/building_10239_img_20190120_152207_5a9e7abc05998a9d4ac974d4d3666995.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10239/building_10239_img_20190120_152207_0d76448d8fcf6c5d875213d5f2554b23.jpeg",
             "description": null,
             "title": "Engine house",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10239_img_20190120_152207_5a9e7abc05998a9d4ac974d4d3666995.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10239_img_20190120_152207_0d76448d8fcf6c5d875213d5f2554b23.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10239/building_10239_dsc_0359_971f30d95a4b48de61f3cae4395581e9.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10239/building_10239_dsc_0359_e57f6d57d2378ce2f005fcc74552aa1b.jpeg",
             "description": null,
             "title": "Historic lamp standards ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10239_dsc_0359_971f30d95a4b48de61f3cae4395581e9.jpeg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10239_dsc_0359_e57f6d57d2378ce2f005fcc74552aa1b.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10239/building_10239_dsc_0157-copy_0abc2062de930fb0bd5da90c37da1196.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10239/building_10239_dsc_0157-copy_e08b4a3dc1b82cc524f675eaca88aed7.jpg",
             "description": null,
             "title": "Mercury Arc Rectifiers",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10239_dsc_0157-copy_0abc2062de930fb0bd5da90c37da1196.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10239_dsc_0157-copy_e08b4a3dc1b82cc524f675eaca88aed7.jpg"
         }
     ],
     "links": [],
     "location": {
-        "address": "Kempton Park Pumping Station, Snakey Lane",
+        "address": "Kempton Park Pumping Station, Snakey Lane, TW13 6XH",
         "latitude": 51.4317281,
         "longitude": -0.4101565,
         "meeting_point": null,
         "travel_info": [
             "Train: Feltham",
-            "Bus: H25, 290"
+            "Bus: H25, 290",
+            "Additional travel info: Easily reached by road via the A316 & M3. Ample parking on site with accessible bays close to the building.\r\n\r\nServed by bus routes 290 & H25. By rail use services to Kempton Park Station from Waterloo and Shepperton. Kempton Park Station is outside of the Oyster Card/Contactless Zone. Please note that all public transport routes require an additional 15 minute walk to the museum."
         ]
     },
     "name": "Kempton Steam Museum",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10239",
     "ticketed_events": false
 }

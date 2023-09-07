@@ -34,22 +34,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking Tour",
-            "all_day": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11774",
-            "capacity": null,
-            "date": "2023-09-07",
-            "drop_in": false,
-            "end": "2023-09-07T16:00:00+01:00",
-            "fully_booked": true,
-            "name": "Walking tour",
-            "notes": null,
-            "start": "2023-09-07T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -62,10 +47,10 @@
     "id": 11774,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11774/building_11774_0_757f4d0cb1c4f70d94907dc7c77ebdde.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11774/building_11774_0_e6526a1165bf0661f3f3c1208cc5c369.jpg",
             "description": null,
             "title": "Erskine Hill",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11774_0_757f4d0cb1c4f70d94907dc7c77ebdde.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11774_0_e6526a1165bf0661f3f3c1208cc5c369.jpg"
         }
     ],
     "links": [],
@@ -75,10 +60,12 @@
         "longitude": -0.1826116,
         "meeting_point": null,
         "travel_info": [
-            "Tube: Golders Green"
+            "Tube: Golders Green",
+            "Additional travel info: Start outside the Old Bull and Bush (nearest station Golders Green tube); end at Temple Fortune House (Finchley Road)."
         ]
     },
     "name": "The Sharing of Great Things",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11774",
-    "ticketed_events": true
+    "ticketed_events": false
 }

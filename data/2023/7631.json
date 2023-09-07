@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "St.Margaret's has delivered community activity on Old Ford Road since the start of the 20th century. In 2022, they started working with Tower Hamlets Council to bring activities to Tramshed, Digby St, E2 0LS - where this event will be held.",
+    "description": "St.Margaret's has delivered community activity on Old Ford Road since the start of the 20th century.",
     "design": {
         "designers": [],
         "periods": [],
@@ -12,6 +12,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -76,22 +77,22 @@
     "id": 7631,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7631/building_7631_smh-outside_c11d7e08831ec8f22228422bccb2053b.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7631/building_7631_smh-outside_2f789907a7e75a28020650378881cbba.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7631_smh-outside_c11d7e08831ec8f22228422bccb2053b.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7631_smh-outside_2f789907a7e75a28020650378881cbba.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7631/building_7631_anson-room_98b82c50a4d6a4c6da8ebde84fd4a627.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7631/building_7631_anson-room_d724e4f011aeae735257284b1b6794cd.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7631_anson-room_98b82c50a4d6a4c6da8ebde84fd4a627.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7631_anson-room_d724e4f011aeae735257284b1b6794cd.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7631/building_7631_smhfront_old_041871523f2304669c8b999839794289.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7631/building_7631_smhfront_old_6b2e64129a007899d067b634023be910.jpg",
             "description": null,
             "title": null,
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7631_smhfront_old_041871523f2304669c8b999839794289.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7631_smhfront_old_6b2e64129a007899d067b634023be910.jpg"
         }
     ],
     "links": [],
@@ -107,6 +108,7 @@
         ]
     },
     "name": "St. Margaret's House",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/7631",
     "ticketed_events": false
 }

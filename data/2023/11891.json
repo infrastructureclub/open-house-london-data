@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-10",
@@ -29,6 +30,21 @@
             "name": "Drop in",
             "notes": "This tour explores two WWII fighter pens and takes visitors inside their associated air raid shelters at Kenley Airfield",
             "start": "2023-09-10T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Join us for an open tour exploring the architecture, use, and restoration of WWII fighter pens and air raid shelters at former RAF Kenley",
+            "start": "2023-09-16T11:00:00+01:00",
             "ticketed": false
         }
     ],
@@ -62,10 +78,10 @@
     "id": 11891,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11891/building_11891_tribute-from-blast-pen-gary-watson_ecd7a5c72e381c88572c460905219e00.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11891/building_11891_tribute-from-blast-pen-gary-watson_72eeed59042f14f822e9cb97dd3c4f1b.jpg",
             "description": null,
             "title": "WWII fighter blast pen on Kenley Common with a silhouette of a Spitfire",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11891_tribute-from-blast-pen-gary-watson_ecd7a5c72e381c88572c460905219e00.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11891_tribute-from-blast-pen-gary-watson_72eeed59042f14f822e9cb97dd3c4f1b.jpg"
         }
     ],
     "links": [],
@@ -75,10 +91,12 @@
         "longitude": -0.0915096,
         "meeting_point": null,
         "travel_info": [
-            "Bus: 466"
+            "Bus: 466",
+            "Additional travel info: The Southdown PSV 409 service runs Monday to Saturdays from Selsdon to East Grinstead via Caterham and stops by Kenley Common on Buxton Lane, Ninehams Road.\r\n\r\nTFL 466 runs from Addington to Caterham on the Hill stopping near to the edge of Coulsdon Commmon/The Fox public house where it is a short walk to Kenley Common."
         ]
     },
     "name": "WWII fighter pen tours at former RAF Kenley",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11891",
     "ticketed_events": false
 }

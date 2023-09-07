@@ -23,6 +23,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -37,6 +38,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1513",
             "capacity": null,
             "date": "2023-09-16",
@@ -51,6 +53,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1513",
             "capacity": null,
             "date": "2023-09-16",
@@ -65,6 +68,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1513",
             "capacity": null,
             "date": "2023-09-16",
@@ -79,6 +83,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/1513",
             "capacity": null,
             "date": "2023-09-16",
@@ -150,22 +155,22 @@
     "id": 1513,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1513/building_1513__mg_2115-by-fraser-marr_79e926f19a0f157c086902b63c3220d1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1513/building_1513__mg_2115-by-fraser-marr_7a89a2a78aae6f6e05ef9608baa19f97.jpg",
             "description": null,
             "title": "Royal Academy of Arts",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1513__mg_2115-by-fraser-marr_79e926f19a0f157c086902b63c3220d1.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1513__mg_2115-by-fraser-marr_7a89a2a78aae6f6e05ef9608baa19f97.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1513/building_1513_arc049-fine-rooms-1_e33c06c060f6b847be723d91cfe2267c.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1513/building_1513_arc049-fine-rooms-1_4da1821c6038f46e6ec7af14726063ef.jpg",
             "description": null,
             "title": "John Madejski Fine Rooms, Burlington House",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1513_arc049-fine-rooms-1_e33c06c060f6b847be723d91cfe2267c.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1513_arc049-fine-rooms-1_4da1821c6038f46e6ec7af14726063ef.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1513/building_1513_new_open-house-ra-library-2-2-1_48b0f2aed3f1b5e6a0091514ad8acc0d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1513/building_1513_new_open-house-ra-library-2-2-1_60893bd47dacfaa5ca15745a2810b4a5.jpg",
             "description": null,
             "title": "RA Library",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1513_new_open-house-ra-library-2-2-1_48b0f2aed3f1b5e6a0091514ad8acc0d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1513_new_open-house-ra-library-2-2-1_60893bd47dacfaa5ca15745a2810b4a5.jpg"
         }
     ],
     "links": [],
@@ -180,6 +185,7 @@
         ]
     },
     "name": "Burlington House: Royal Academy of Arts",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/1513",
     "ticketed_events": true
 }

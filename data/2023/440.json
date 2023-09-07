@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -76,17 +77,19 @@
     ],
     "links": [],
     "location": {
-        "address": "Winchmore Hill Quaker Meeting House",
+        "address": "Winchmore Hill Quaker Meeting House, 59 Church Hill, N21 1LE",
         "latitude": 51.63524,
         "longitude": -0.1041714,
         "meeting_point": null,
         "travel_info": [
             "Tube: Southgate",
             "Train: Winchmore Hill",
-            "Bus: 125, 329, W9"
+            "Bus: 125, 329, W9",
+            "Additional travel info: Buses stop right outside the building or at the green in Winchmore HIll.  Street parking in the area."
         ]
     },
     "name": "Winchmore Hill Friends Meeting House & Burial Ground",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/440",
     "ticketed_events": false
 }

@@ -22,6 +22,7 @@
         {
             "activity_type": "Young people",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/10233",
             "capacity": null,
             "date": "2023-09-09",
@@ -65,10 +66,10 @@
     "id": 10233,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10233/building_10233_img_1502_056820d2c6aec0d149a6744ce2c4873e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10233/building_10233_img_1502_c4eb3f1c3e447746bb4ce0883386a88d.jpg",
             "description": null,
             "title": "Brandon Centre, 26 Prince of Wales Road",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10233_img_1502_056820d2c6aec0d149a6744ce2c4873e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10233_img_1502_c4eb3f1c3e447746bb4ce0883386a88d.jpg"
         }
     ],
     "links": [
@@ -85,10 +86,12 @@
         "travel_info": [
             "Tube: Chalk Farm, Kentish Town",
             "Train: King's Cross, Kentish Town West, Kentish Town",
-            "Bus: 393, 214, 46, 134, 88, C2"
+            "Bus: 393, 214, 46, 134, 88, C2",
+            "Additional travel info: Good access to cycle paths"
         ]
     },
     "name": "Brandon Centre",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10233",
     "ticketed_events": true
 }

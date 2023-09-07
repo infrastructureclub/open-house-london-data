@@ -26,6 +26,7 @@
         {
             "activity_type": "Guided tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/6996",
             "capacity": null,
             "date": "2023-09-17",
@@ -77,40 +78,40 @@
     "id": 6996,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6996/building_6996_screenshot-2022-07-25-162939_234ad8212598dd570d4db07ab5ffc720.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6996/building_6996_screenshot-2022-07-25-162939_a00ad27ea19f2a93e88e3db28edc2509.jpg",
             "description": null,
             "title": "Your walk leaders! ",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6996_screenshot-2022-07-25-162939_234ad8212598dd570d4db07ab5ffc720.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6996_screenshot-2022-07-25-162939_a00ad27ea19f2a93e88e3db28edc2509.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6996/building_6996_dscf4887-copy_afcfa1485364d0e49efdecceda230fb3.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6996/building_6996_dscf4887-copy_e1af99ee0f9348746dabef5530ceb3c2.jpg",
             "description": null,
             "title": "Herbert George Wells at Morley's Academy aged 11yrs",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6996_dscf4887-copy_afcfa1485364d0e49efdecceda230fb3.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6996_dscf4887-copy_e1af99ee0f9348746dabef5530ceb3c2.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6996/building_6996_1-img_2998_bd61675207c7ed2750dcd5e33e7935ad.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6996/building_6996_1-img_2998_1ca655f5d245cb19d8836ca7c1c0a815.jpg",
             "description": null,
             "title": "47 High Street, Bromley.  Birthplace of HG Wells",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6996_1-img_2998_bd61675207c7ed2750dcd5e33e7935ad.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6996_1-img_2998_1ca655f5d245cb19d8836ca7c1c0a815.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6996/building_6996_1-img_3427_956dbff7ab4422ba59ee381c12aea17a.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6996/building_6996_1-img_3427_a9fd09591eb2316dd4f160e3f187d246.jpg",
             "description": null,
             "title": "High Street North - the Victorian core of the town",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6996_1-img_3427_956dbff7ab4422ba59ee381c12aea17a.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6996_1-img_3427_a9fd09591eb2316dd4f160e3f187d246.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6996/building_6996_img_3345_3b97e580e68efc4d39ff6cb4f1d05e8e.JPG",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6996/building_6996_img_3345_10654158bd5a2bb304ae54a6060bf6c3.jpg",
             "description": null,
             "title": "Martin's Hill - Bertie's playground",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6996_img_3345_3b97e580e68efc4d39ff6cb4f1d05e8e.JPG"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6996_img_3345_10654158bd5a2bb304ae54a6060bf6c3.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6996/building_6996_screenshot-2022-07-25-163727_d0000f57375d3c68d17970b95b0952c3.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6996/building_6996_screenshot-2022-07-25-163727_c37a16f5b3762991c32b3699ea99ec86.jpg",
             "description": null,
             "title": "Bertie's birthplace - now Primark",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6996_screenshot-2022-07-25-163727_d0000f57375d3c68d17970b95b0952c3.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6996_screenshot-2022-07-25-163727_c37a16f5b3762991c32b3699ea99ec86.jpg"
         }
     ],
     "links": [],
@@ -121,10 +122,12 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Bromley North, Bromley South",
-            "Bus: 119, 208, 358, 227, 320, 354, 269, 162"
+            "Bus: 119, 208, 358, 227, 320, 354, 269, 162",
+            "Additional travel info: Nearby car parking at the Bromley Town Centre Hill Car Park\r\n9 Beckenham Ln, Bromley BR2 0DA"
         ]
     },
     "name": "HG Wells' Bromley - in his own words",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6996",
     "ticketed_events": true
 }

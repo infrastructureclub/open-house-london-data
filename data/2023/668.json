@@ -23,6 +23,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-17",
@@ -60,22 +61,22 @@
     "id": 668,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/668/building_668_emery-1624-2_be5c2ea48809e8d8d559dc1983108bc4.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/668/building_668_emery-1624-2_bea33607d5ef40de4ceccffc34315046.jpg",
             "description": null,
             "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_668_emery-1624-2_be5c2ea48809e8d8d559dc1983108bc4.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_668_emery-1624-2_bea33607d5ef40de4ceccffc34315046.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/668/building_668_7-hammersmith-terrace-dining-room-high-res_97eadd94a005acfc17c5f08c1f7e513e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/668/building_668_7-hammersmith-terrace-dining-room-high-res_be3bab826e1c7b1a27a9c4ce5b59400f.jpg",
             "description": null,
             "title": "Dining Room",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_668_7-hammersmith-terrace-dining-room-high-res_97eadd94a005acfc17c5f08c1f7e513e.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_668_7-hammersmith-terrace-dining-room-high-res_be3bab826e1c7b1a27a9c4ce5b59400f.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/668/building_668_front_8aababe623f12743547272666ff5255d.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/668/building_668_front_f4ee003502acc5a1a9bdec4e756770f2.jpg",
             "description": null,
             "title": "Street view",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_668_front_8aababe623f12743547272666ff5255d.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_668_front_f4ee003502acc5a1a9bdec4e756770f2.jpg"
         }
     ],
     "links": [],
@@ -90,6 +91,7 @@
         ]
     },
     "name": "Emery Walker's House",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/668",
     "ticketed_events": false
 }

@@ -23,6 +23,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-09",
@@ -70,22 +71,22 @@
     "id": 10622,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10622/building_10622_gran-1_0714f77bc7077a2be76c1a03dd4f96d9.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10622/building_10622_gran-1_e92a0ada3091fde3966208ec56aad22e.jpg",
             "description": null,
             "title": "kitchen looking towards the garden",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10622_gran-1_0714f77bc7077a2be76c1a03dd4f96d9.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10622_gran-1_e92a0ada3091fde3966208ec56aad22e.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10622/building_10622_gran-14_2c5288bd09880c3216af36d6de83fd13.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10622/building_10622_gran-14_39362e659e9669756b7a75debae15128.jpg",
             "description": null,
             "title": "Back elevation",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10622_gran-14_2c5288bd09880c3216af36d6de83fd13.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10622_gran-14_39362e659e9669756b7a75debae15128.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10622/building_10622_gran-18_a6a8564f03782d4b43f9a567fa0de1b2.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10622/building_10622_gran-18_a5b55572bf84445ffaf20485c829d9dc.jpg",
             "description": null,
             "title": "Rooflight",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10622_gran-18_a6a8564f03782d4b43f9a567fa0de1b2.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10622_gran-18_a5b55572bf84445ffaf20485c829d9dc.jpg"
         }
     ],
     "links": [
@@ -109,6 +110,7 @@
         ]
     },
     "name": "8 Gransden Road",
+    "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10622",
     "ticketed_events": false
 }

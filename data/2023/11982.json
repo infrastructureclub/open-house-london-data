@@ -12,12 +12,13 @@
         {
             "activity_type": "Walking tour",
             "all_day": false,
+            "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/11982",
             "capacity": null,
             "date": "2023-09-09",
             "drop_in": false,
             "end": "2023-09-09T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "INDUSTRY + CHANGE THROUGH HACKNEY WICK WALKING TOUR",
             "notes": null,
             "start": "2023-09-09T14:00:00+01:00",
@@ -46,10 +47,10 @@
     "id": 11982,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11982/building_11982_hackney-wick_3558460fdac2d5937cc8f0257626edcd.png",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11982/building_11982_hackney-wick_359016aa75d7cecd92c63a5994f01aba.png",
             "description": null,
             "title": "Hackney Wick\r\nPhoto Credit: ldngrafitti.co.uk",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11982_hackney-wick_3558460fdac2d5937cc8f0257626edcd.png"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11982_hackney-wick_359016aa75d7cecd92c63a5994f01aba.png"
         }
     ],
     "links": [
@@ -59,15 +60,17 @@
         }
     ],
     "location": {
-        "address": "Hackney Wick Overground Station",
+        "address": "Hackney Wick Overground Station, White Post Lane, E9 5TS",
         "latitude": 51.54354,
         "longitude": -0.02415,
         "meeting_point": null,
         "travel_info": [
-            "Train: Hackney Wick"
+            "Train: Hackney Wick",
+            "Additional travel info: Tour end: Algha Group, Smeed Rd, Bow, London E3 2NR in Fish Island."
         ]
     },
     "name": "Industry and change through Hackney Wick",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11982",
     "ticketed_events": true
 }

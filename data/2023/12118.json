@@ -20,6 +20,7 @@
         {
             "activity_type": "Drop in",
             "all_day": false,
+            "balloted": false,
             "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
@@ -71,10 +72,10 @@
     "id": 12118,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12118/building_12118_img_7371-1_35c08999e5b338e53c62e3bd07764480.jpg",
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12118/building_12118_img_7371-1_3ec85513ca89a11cb40891e528053a96.jpg",
             "description": null,
             "title": "Front of the building",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12118_img_7371-1_35c08999e5b338e53c62e3bd07764480.jpg"
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12118_img_7371-1_3ec85513ca89a11cb40891e528053a96.jpg"
         }
     ],
     "links": [],
@@ -89,6 +90,7 @@
         ]
     },
     "name": "Lewisham Arthouse",
+    "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12118",
     "ticketed_events": false
 }
