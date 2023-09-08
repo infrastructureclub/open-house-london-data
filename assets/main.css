@@ -122,7 +122,7 @@ input.expand:checked + form > fieldset:first-child {
 }
 
 
-input[type="text"] {
+input[type="search"] {
   height: 4.8ex;
   background-color: #fff;
   border-radius: 15px;
