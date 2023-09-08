@@ -97,19 +97,19 @@ fieldset {
 /* Container for #date */
 fieldset:nth-child(1) {
   min-width: 0;
-  flex: 1 1 20em;
+  flex: 3 1 20em;
   width: calc(100vw - 3.5em);
   max-width: max-content;
 }
 
 /* Container for #search */
 fieldset:nth-child(2) {
-  flex: 1 1 12em;
+  flex: 1 1 15em;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
   fieldset:nth-child(2) {
-    flex: 1 1 20em;
+    flex: 1 1 12em;
   }
 }
 
