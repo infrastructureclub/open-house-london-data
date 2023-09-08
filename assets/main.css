@@ -67,7 +67,7 @@ body > header > input.expand:checked {
 }
 
 body > header > input.expand::after {
-  content: "Show filters";
+  content: "More";
   display: block;
   color: #bcc;
   text-align: center;
@@ -75,7 +75,7 @@ body > header > input.expand::after {
 }
 
 body > header > input.expand:checked::after {
-  content: "Hide filters";
+  content: "Less";
 }
 body > header > input.expand:hover,
 body > header > input.expand:active {
