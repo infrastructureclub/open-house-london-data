@@ -122,12 +122,6 @@ input.expand:checked + form > fieldset:first-child {
 }
 
 
-@media screen and (max-width: 40em) {
-  .report-bug {
-    display: none;
-  }
-}
-
 input[type="text"] {
   height: 4.8ex;
   background-color: #fff;
