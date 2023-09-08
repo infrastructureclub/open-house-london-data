@@ -372,4 +372,4 @@ for building in buildings:
             )
         )
 
-    time.sleep(15)
+    time.sleep(20)
