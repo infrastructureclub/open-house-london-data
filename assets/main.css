@@ -457,10 +457,15 @@ input[type="range"]#to_time::-moz-range-track {
 }
 
 
+.mapboxgl-popup-tip {
+  border-bottom-color: #d8e8e6 !important;
+}
+
 .mapboxgl-popup-content {
   color: rgb(0, 82, 81);
   font-size: 12pt;
   padding: 0 !important;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3) !important;
 }
 
 .mapboxgl-popup-content dl {
