@@ -71,6 +71,9 @@ for building in buildings:
     if response.status_code == 500:
         print("SKIPPING due to 500 response from server - likely this listing isn't public yet")
         continue
+    if response.status_code == 404:
+        print("SKIPPING due to 404 response from server - likely this listing has been removed")
+        continue
 
     if session_cookie and b"Log out" not in response.content:
         print("!! Invalid session cookie, cannot continue without scraping incorrect data")
