@@ -137,7 +137,7 @@ input[type="text"] {
 .options {
   display: inline-grid;
   grid-auto-flow: column;
-  margin: 0.4ex 0.5em 0.4ex;
+  margin: 0.4ex 0.5em 0.4ex 0.3em;
   font-size: inherit;
   height: 4.8ex;
 }
@@ -233,13 +233,30 @@ input[type="text"] {
 .options .date-gap:before {
   border-right: 1px dashed #ccc;
   margin-right: 1px;
-  content: " ";
+  content: "";
   display: block;
 }
 
 .options:hover .date-gap {
   border-top-color: #242 !important;
   border-bottom-color: #242 !important;
+}
+
+.options::after,
+.options::before {
+  display: block;
+  width: 10px;
+  position: sticky;
+}
+.options::before {
+  content: "";
+  left: -1px; /* allow for rounding errors */
+  background: linear-gradient(90deg, rgb(0, 82, 81) 0, rgba(0, 82, 81, 0.3) 50%, rgba(0, 83, 81, 0.15) 65%, rgba(0, 82, 81, 0.075) 75%, transparent 100%);
+}
+.options::after {
+  content: "";
+  right: -1px; /* allow for rounding errors */
+  background: linear-gradient(270deg, rgb(0, 82, 81) 0, rgba(0, 82, 81, 0.3) 50%, rgba(0, 82, 81, 0.15) 65%, rgba(0, 82, 81, 0.075) 75%, transparent 100%);
 }
 
 
