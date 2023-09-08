@@ -303,6 +303,7 @@ timerange .time-text {
   text-align: center;
   width: 6em;
   font-size: calc(1em * var(--text-scale));
+  box-shadow: rgba(0, 0, 0, 0.3) 1px 1px 4px;
 }
 timerange .time-text.movable {
   position: absolute;
