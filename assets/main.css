@@ -55,17 +55,28 @@ body > header {
 
 body > header > input.expand {
   appearance: none;
-  font-size: inherit;
-  height: 2ex;
-  margin: 0.5ex;
+  font-size: 10pt;
+  height: 6ex;
+  margin: 0 0.3em 0.5ex;
   order: 2;
-  background: transparent url(double-arrow-down.svg) no-repeat 50% 50% / 16px;
+  background: transparent url(double-arrow-down.svg) no-repeat 50% 80% / 12px;
 }
 
 body > header > input.expand:checked {
   background-image: url(double-arrow-up.svg);
 }
 
+body > header > input.expand::after {
+  content: "Show filters";
+  display: block;
+  color: #bcc;
+  text-align: center;
+  margin-top: 0.5ex;
+}
+
+body > header > input.expand:checked::after {
+  content: "Hide filters";
+}
 body > header > input.expand:hover,
 body > header > input.expand:active {
   background-color: #377;
