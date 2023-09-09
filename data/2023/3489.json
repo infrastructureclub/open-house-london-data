@@ -17,38 +17,7 @@
             "livery hall"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/3489",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T15:45:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": null,
-            "start": "2023-09-09T14:45:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/3489",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": null,
-            "start": "2023-09-09T16:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Cloakroom",
         "Toilets"
@@ -137,5 +106,5 @@
     "name": "Leathersellers' Hall",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/3489",
-    "ticketed_events": true
+    "ticketed_events": false
 }

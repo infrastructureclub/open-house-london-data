@@ -31,21 +31,6 @@
             "notes": "Drop in and see the London Fire Brigade's beautiful Memorial Hall. This Grade II listed room is part of the 1930s LFB Headquarters.",
             "start": "2023-09-09T11:30:00+01:00",
             "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11781",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "British Sign Language interpreted Q&A",
-            "notes": null,
-            "start": "2023-09-09T14:00:00+01:00",
-            "ticketed": true
         }
     ],
     "facilities": [
@@ -121,5 +106,5 @@
     "name": "London Fire Brigade Memorial Hall",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11781",
-    "ticketed_events": true
+    "ticketed_events": false
 }

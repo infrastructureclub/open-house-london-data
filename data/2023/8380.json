@@ -17,38 +17,7 @@
             "museum"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8380",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "New Museum of London Guided Tour",
-            "notes": null,
-            "start": "2023-09-09T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8380",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "New Museum of London Guided Tour",
-            "notes": null,
-            "start": "2023-09-09T16:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Refreshments",
@@ -123,5 +92,5 @@
     "name": "London Museum, West Smithfield",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/8380",
-    "ticketed_events": true
+    "ticketed_events": false
 }
