@@ -269,9 +269,7 @@
 
 
     const showPopup = (e) => {
-      /* MapBox passes clicks through to all listening layers.
-       * This now means you can't click between events easily. */
-      if (lastPopup?.isOpen()) return;
+      lastPopup?.remove();
 
       const feature = e.features[0];
       const coordinates = [...feature.geometry.coordinates];
@@ -286,6 +284,9 @@
         .setLngLat(coordinates)
         .setDOMContent(content)
         .addTo(map);
+
+      // Mapbox propagates events through all layers so stop after the first hit
+      e.stopPropagation();
     };
 
     map.on('click', 'listings-markers', showPopup);
