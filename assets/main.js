@@ -132,7 +132,7 @@
     console.log(`Updating filters`);
     const filter = getListingsFilter();
     const filterBookmarked = ['in', ['get', 'state'], ['literal', ['bookmarked']]];
-    const filterOther = ['in', ['get', 'state'], ['literal', ['']]];
+    const filterOther = ['in', ['get', 'state'], ['literal', ['', 'bookmarked-elsewhere']]];
     map.setFilter('listings-bookmarked-labels', [...filter, filterBookmarked]);
     map.setFilter('listings-bookmarked-markers', [...filter, filterBookmarked]);
     map.setFilter('listings-other-labels', [...filter, filterOther]);
