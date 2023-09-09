@@ -4,6 +4,7 @@ import sys
 import json
 import re
 import time
+from datetime import datetime, timedelta
 
 import requests
 import lxml.html
@@ -59,10 +60,15 @@ for building in buildings:
     print("Fetching listing %s/%s - %s" % (count, len(buildings), building))
 
     original_url = "https://programme.openhouse.org.uk/listings/%s" % building["id"]
-    response = requests.get(original_url, cookies=cookies, headers=headers)
-    if response.content == b"Retry later\n" or response.status_code == 503:
-        print("!! Hit rate limiting, cannot continue")
-        raise Exception("Rate limited")
+
+    while True:
+        response = requests.get(original_url, cookies=cookies, headers=headers)
+        if response.content == b"Retry later\n" or response.status_code == 503:
+            sleep_until = datetime.now() + timedelta(minutes=10)
+            print("!! Hit rate limiting, having a little sleep until %s" % sleep_until)
+            time.sleep(10*60)
+        else:
+            break
 
     # FIXME: If the server has downtime this will result in all listings being
     # removed as we delete them all before the run. Instead we should be
@@ -375,4 +381,4 @@ for building in buildings:
             )
         )
 
-    time.sleep(20)
+    time.sleep(10)
