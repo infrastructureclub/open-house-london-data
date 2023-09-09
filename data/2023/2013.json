@@ -16,38 +16,7 @@
             "library"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Young people",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2013",
-            "capacity": null,
-            "date": "2023-09-08",
-            "drop_in": false,
-            "end": "2023-09-08T11:30:00+01:00",
-            "fully_booked": true,
-            "name": "Building Explorers",
-            "notes": null,
-            "start": "2023-09-08T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Young people",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2013",
-            "capacity": null,
-            "date": "2023-09-08",
-            "drop_in": false,
-            "end": "2023-09-08T14:30:00+01:00",
-            "fully_booked": true,
-            "name": "Building Explorers",
-            "notes": null,
-            "start": "2023-09-08T13:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Step free access",
         "Refreshments",
@@ -108,5 +77,5 @@
     "name": "British Library",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2013",
-    "ticketed_events": true
+    "ticketed_events": false
 }

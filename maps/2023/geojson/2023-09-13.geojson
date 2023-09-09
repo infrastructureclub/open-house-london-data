@@ -192,7 +192,7 @@
                 "balloted": "No",
                 "description": "The independent cultural centre Pushkin House will contribute to this year's Open House Festival through a programme of events and community initiatives at its Grade-II listed building in Bloomsbury Square.",
                 "end": "21:00:00",
-                "fully_booked": "No",
+                "fully_booked": "",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4108/building_4108_53139306750_91b9568082_k_414e9e9762b239a4d0d1fde33fe29867.jpg",
@@ -226,7 +226,7 @@
                 "name": "Pushkin House",
                 "new_venue_this_year": "No",
                 "start": "09:00:00",
-                "ticketed_events": "Yes",
+                "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/4108"
             },
             "type": "Feature"
@@ -952,7 +952,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "This is a newly built and fitted out architecture studio in London Fields. We designed it as a flexible working and event space with the opportunity to align personal wellbeing and professional endeavour in one supportive space.",
-                "end": "18:30:00",
+                "end": "18:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -974,7 +974,7 @@
                 ],
                 "name": "AH A Studio",
                 "new_venue_this_year": "Yes",
-                "start": "11:00:00",
+                "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11991"
             },
@@ -1129,6 +1129,33 @@
                 "start": "13:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12240"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09929,
+                    51.37226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Join us for a guided tour of Croydon Archives. Go behind the scenes and view our store, which are normally closed to the public, with an opportunity to hear about some of the highlights from the collection from an expert.",
+                "end": "12:15:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12274/building_12274_croydon-buildings-49_40891b83e801b4bda23b92794f5cddf7.jpg",
+                        "title": "Go behind the scenes at Croydon Archives to find out more about what is in store in our collection."
+                    }
+                ],
+                "name": "Croydon Archives - Behind the Scenes Tour",
+                "new_venue_this_year": "Yes",
+                "start": "11:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12274"
             },
             "type": "Feature"
         }

@@ -227,7 +227,7 @@
                 "balloted": "No",
                 "description": "Part of New Burlington House, purpose built in 1875 for London's learned societies. Historic apartments with highlights from the Library and Museum collections on display. Imposing top-lit library with double galleries and marbled columns.",
                 "end": "11:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1651/building_1651_dsc_372b_b224983f8e85fce08615e7dc3e1748c3.jpg",
@@ -469,7 +469,7 @@
                 "balloted": "No",
                 "description": "The independent cultural centre Pushkin House will contribute to this year's Open House Festival through a programme of events and community initiatives at its Grade-II listed building in Bloomsbury Square.",
                 "end": "21:00:00",
-                "fully_booked": "No",
+                "fully_booked": "",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4108/building_4108_53139306750_91b9568082_k_414e9e9762b239a4d0d1fde33fe29867.jpg",
@@ -503,7 +503,7 @@
                 "name": "Pushkin House",
                 "new_venue_this_year": "No",
                 "start": "09:00:00",
-                "ticketed_events": "Yes",
+                "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/4108"
             },
             "type": "Feature"
@@ -1024,7 +1024,7 @@
                 "balloted": "No",
                 "description": "Hornsey Library is a Grade II listed building, featuring Huxley-Jones' \"Reclining figure\" sculpture and the intricately etched glass \"Hornsey window\". A recent refurbishment has added practical updates while keeping the 1960s aesthetic.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10973/building_10973_220531-hornsey-library-external-image_5f526da981860bc95c53f55a7c99f17a.jpg",
@@ -1840,6 +1840,85 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.05696,
+                    51.53684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Explore a vibrant artist community beneath a railway arch at our open studios! Engage with talented artists, discover diverse exhibitions. Join us in celebrating the creativity and sense of togetherness that define this unique space.",
+                "end": "20:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_frontcover_beck_road_studios_116f7102e21a34108509cb41456d7705.jpg",
+                        "title": "OPEN STUDIOS 16+17th September 2023 | 11 AM - 6 PM"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_pheobe_beck_road_studios_9dd4790384b898e9272539c5b9fd05fa.jpg",
+                        "title": "PHOEBE BODDY | PAINTER"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_sinejan_beck_road_studios_8d64547e92b0e41ce0533d9ea26ed0d5.jpg",
+                        "title": "SINEJAN BUCHINA | PAINTER"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_william_beck-road_studios1024_1_ca91d24f841e0d396d8ab5bf66ef692e.jpg",
+                        "title": "WILLIAM BUCHINA | PAINTER"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_shannon_beck_road_studios_0054838aa77d833f9b8d99cd606f883c.jpg",
+                        "title": "SHANNON CLEGG | SCULPTOR"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_xander_beck_road_studios_11a383f78cbff060a2689480bd47c142.jpg",
+                        "title": "XANDER COY | PAINTER"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_teddy_beck_road_studios_90690a1a5f8350290eaa196deb875bc0.jpg",
+                        "title": "TEDDY HANSEN | RUG TUFFTER + PAINTER"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_elliot_beck_road_studios_173305bdfb8159ac76bfe22b10814330.jpg",
+                        "title": "ELLIOT HOPES | TROUVE FINE ARTS\r\nMULTI-DISCLINARY ARTIST"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_soozy_beck_road_studios_819c029c408d29ede39b4469c077074b.jpg",
+                        "title": "SOOZY LIPSEY | PAINTER"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_ash_beck_road_studios_46b77cfe1a105b174d5eac9ada830adc.jpg",
+                        "title": "ASH MCKEAN | PAINTER"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_angela_beck_road_studios_eadbee50d91ff5caef7ff6c727d65834.jpg",
+                        "title": "ANGELA TORRES | PAINTER + INSTALLATION ARTIST"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_james_beck_road_studios_958654bbe4172d6d8f96aeb3890380c3.jpg",
+                        "title": "JAMES ROBERT WHITE | SCIENCE FINE ARTIST"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_grace_beck_road_studios_83fd7983d48c06b4ade782d50291476e.jpg",
+                        "title": "GRACE WATTS | PAINTER"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_backcover_beck_road_studios_aa18c3f4cb7c09bd8b8c419d864990c9.jpg",
+                        "title": "PARTICIPANTS + HOW TO GET HERE"
+                    }
+                ],
+                "name": "Beck Road Studios: Open Studios Exhibitions",
+                "new_venue_this_year": "Yes",
+                "start": "18:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11954"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.09933,
                     51.52082
                 ],
@@ -1897,7 +1976,7 @@
                 ],
                 "name": "AH A Studio",
                 "new_venue_this_year": "Yes",
-                "start": "10:00:00",
+                "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11991"
             },
@@ -2008,7 +2087,7 @@
                 "balloted": "No",
                 "description": "Yorkton Workshops is a newly remodeled building that merges Victorian features with modern industrial details.\r\nHouse to the design firm Pearson Lloyd.\r\nWe are thrilled to show you what we do and where we do it.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12042/building_12042_1pl_77e3d36574de6a169e4b1f6bdb82340f.jpg",
@@ -2273,6 +2352,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12254"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09939,
+                    51.37226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Join us for a guided tour of Croydon Archives. Go behind the scenes and view our store, which are normally closed to the public, with an opportunity to hear about some of the highlights from the collection from an expert.",
+                "end": "12:15:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12274/building_12274_croydon-buildings-49_40891b83e801b4bda23b92794f5cddf7.jpg",
+                        "title": "Go behind the scenes at Croydon Archives to find out more about what is in store in our collection."
+                    }
+                ],
+                "name": "Croydon Archives - Behind the Scenes Tour",
+                "new_venue_this_year": "Yes",
+                "start": "11:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12274"
             },
             "type": "Feature"
         }

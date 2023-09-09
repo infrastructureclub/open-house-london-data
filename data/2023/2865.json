@@ -16,38 +16,7 @@
             "civic"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-08",
-            "drop_in": true,
-            "end": "2023-09-08T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Venue Staff will show you around the building, with a later talk from Hounslow Heritage Guide Viv Bales",
-            "start": "2023-09-08T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2865",
-            "capacity": null,
-            "date": "2023-09-08",
-            "drop_in": false,
-            "end": "2023-09-08T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": null,
-            "start": "2023-09-08T15:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Step free access",
         "Baby changing facilities",
@@ -201,5 +170,5 @@
     "name": "Chiswick Town Hall",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2865",
-    "ticketed_events": true
+    "ticketed_events": false
 }

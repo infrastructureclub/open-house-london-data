@@ -184,7 +184,7 @@
                 "balloted": "No",
                 "description": "The independent cultural centre Pushkin House will contribute to this year's Open House Festival through a programme of events and community initiatives at its Grade-II listed building in Bloomsbury Square.",
                 "end": "21:00:00",
-                "fully_booked": "No",
+                "fully_booked": "",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4108/building_4108_53139306750_91b9568082_k_414e9e9762b239a4d0d1fde33fe29867.jpg",
@@ -218,7 +218,7 @@
                 "name": "Pushkin House",
                 "new_venue_this_year": "No",
                 "start": "15:00:00",
-                "ticketed_events": "Yes",
+                "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/4108"
             },
             "type": "Feature"
@@ -274,7 +274,7 @@
                 "balloted": "No",
                 "description": "SODA Studio will lead a tour of Soho to explore both historic and contemporary buildings that they know and love, which help create the modern 'village' we know today. An alternative night time tour will reveal the other side of Soho.",
                 "end": "13:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/9209/building_9209_01_soda_walkerscourt_exterior_jackhobhouse_bb4f42ff65b254bbfc21bacfb503c20e.jpg",
@@ -364,7 +364,7 @@
                 "balloted": "No",
                 "description": "A guided walk through Home Park Water Meadows with Thames Landscape Strategy. It is the site of a wetland restoration project that has increased biodiversity and sustainability on the historic site. It is not usually open to the public.",
                 "end": "19:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10614/building_10614_flood-meadows_c1dc7f146570adaa61376ef64c00c866.jpg",
@@ -938,7 +938,7 @@
                 "balloted": "No",
                 "description": "A 3 hour walking tour based around Royal Albert Dock that takes in architecture including London City Airport, The Tate & Lyle Sugar Refinery and the much politicised Royal Albert Dock development with some unexpected stop offs along the way.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12116/building_12116_royal-docks-walking-tour_e85c7a596a1d7112b32d6c797ebb9898.jpg",
@@ -1046,7 +1046,7 @@
                 "balloted": "No",
                 "description": "The Gurdwara exists to serve the local community in the Hounslow and surrounding areas, providing a space within which the community can congregate and worship in accordance with the Sikh faith.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12222/building_12222_sgss_cd5f3aec2862daeaabd9301597b38f8d.jpg",
@@ -1101,6 +1101,33 @@
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12246"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.06145,
+                    51.3392
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Birch Selsdon is a newly opened members club and 181 bedroom hotel in Croydon. The notable mansion has been transformed by interior designers A-nrd.Join for a guided tour and insight into the hotel's interiors with designer Alessio Nardi.",
+                "end": "10:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12278/building_12278_birch_selsdonestate_-innakostukovsky_dsc033022-bluer-1_2af60891eb8d501c6a2e9d176ed08c8b.jpg",
+                        "title": "Birch Selsdon"
+                    }
+                ],
+                "name": "Birch Selsdon - tour with the interior designer",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12278"
             },
             "type": "Feature"
         }

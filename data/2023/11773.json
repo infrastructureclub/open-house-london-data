@@ -16,23 +16,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking Tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11773",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T12:30:00+01:00",
-            "fully_booked": true,
-            "name": "Guided tour",
-            "notes": null,
-            "start": "2023-09-09T10:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -69,5 +53,5 @@
     "name": "Streamline in the Suburb",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11773",
-    "ticketed_events": true
+    "ticketed_events": false
 }

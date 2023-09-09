@@ -17,83 +17,7 @@
             "theatre"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/152",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T09:45:00+01:00",
-            "fully_booked": true,
-            "name": "Guided Tour",
-            "notes": null,
-            "start": "2023-09-09T09:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/152",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T10:15:00+01:00",
-            "fully_booked": true,
-            "name": "Guided tour",
-            "notes": null,
-            "start": "2023-09-09T09:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/152",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T10:45:00+01:00",
-            "fully_booked": true,
-            "name": "Guided tour",
-            "notes": null,
-            "start": "2023-09-09T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/152",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T11:15:00+01:00",
-            "fully_booked": true,
-            "name": "Guided tour",
-            "notes": null,
-            "start": "2023-09-09T10:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/152",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T11:45:00+01:00",
-            "fully_booked": true,
-            "name": "Guided tour",
-            "notes": null,
-            "start": "2023-09-09T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Gender neutral toilets",
         "Baby changing facilities",
@@ -167,5 +91,5 @@
     "name": "Shaftesbury Theatre",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/152",
-    "ticketed_events": true
+    "ticketed_events": false
 }
