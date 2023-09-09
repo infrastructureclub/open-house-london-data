@@ -110,6 +110,10 @@ for date, locations in sorted(dates.items()):
                     "end": end_time,
                     "balloted": "Yes" if balloted_events else "No",
                     "new_venue_this_year": "Yes" if location["new_venue_this_year"] else "No",
+                    "images": [{
+                        "archive_url": i["archive_url"],
+                        "title": i["title"],
+                    } for i in location["images"]],
                 },
                 "geometry": p,
             }

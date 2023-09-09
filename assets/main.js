@@ -173,7 +173,7 @@
 
 
   const buildPopupContent = (feature) => {
-    const { name, description, url, new_venue_this_year, fully_booked, ticketed_events, start, end } = feature.properties;
+    const { name, description, url, images, new_venue_this_year, fully_booked, ticketed_events, start, end } = feature.properties;
     const id = Number(url.split(/\//).pop());
     const ticket_class = ticketed_events == 'Yes' ? 'ticketed' : '';
     const data = [
@@ -205,6 +205,7 @@
       <header>
         <label><input type="checkbox" class="bookmark"${bookmarked ? ' checked' : ''}/>Bookmark</label>
       </header>
+      <img class="hero">
       <section>
         <a class="ohl-link" target="_blank"></a>
         <p class="description"></p>
@@ -221,6 +222,18 @@
     `;
     div.querySelector('a.ohl-link').href = url;
     div.querySelector('a.ohl-link').innerText = name;
+    // Argh, mapbox JSON-encodes object properties
+    const actualImages = JSON.parse(images);
+    if (actualImages.length) {
+      const img = div.querySelector('img.hero')
+      img.src = actualImages[0].archive_url;
+      img.alt = actualImages[0].title;
+      img.addEventListener('load', () => img.style.opacity = 1);
+      img.style.opacity = 0;
+    } else {
+      div.querySelector('img.hero').remove();
+      div.classList.add('no-hero');
+    }
     div.querySelector('.description').innerText = description;
     const bookmarkEl = div.querySelector('input');
     bookmarkEl.addEventListener('change', updateBookmark);
