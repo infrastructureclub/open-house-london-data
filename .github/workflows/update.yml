@@ -1,4 +1,5 @@
 name: Update open house data
+concurrency: scrape
 on: 
   schedule:
     - cron: '0 */5 * * *'
