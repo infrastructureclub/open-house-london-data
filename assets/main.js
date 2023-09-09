@@ -269,6 +269,7 @@
 
 
     const showPopup = (e) => {
+      if (e?._stopPropagate) return;
       lastPopup?.remove();
 
       const feature = e.features[0];
@@ -285,8 +286,9 @@
         .setDOMContent(content)
         .addTo(map);
 
-      // Mapbox propagates events through all layers so stop after the first hit
-      e.stopPropagation();
+      /* Mapbox propagates events through all layers in order,
+       * so stop responding to this event after the first hit. */
+      e._stopPropagate = true;
     };
 
     map.on('click', 'listings-markers', showPopup);
