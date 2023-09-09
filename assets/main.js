@@ -458,6 +458,8 @@
     toTimeEl.addEventListener('input', () => checkTimeRange(toTimeEl, fromTimeEl));
     fromTimeEl.addEventListener('change', () => checkTimeRange(fromTimeEl, toTimeEl));
     toTimeEl.addEventListener('change', () => checkTimeRange(toTimeEl, fromTimeEl));
+    fromTimeEl.addEventListener('change', updateListings);
+    toTimeEl.addEventListener('change', updateListings);
     updateTimeFilter();
   };
 
@@ -732,7 +734,7 @@
 
   addTimeRangeHandlers();
   addScrollableHandlers();
-  document.forms.filter.addEventListener('click', (e) => {
+  document.forms.filter.addEventListener('change', (e) => {
     if (e.target.closest('input')) updateListings();
   });
 
@@ -741,16 +743,14 @@
   });
 
   let searchTimer = null;
-  const doSearch = () => {
-    updateListings();
-    searchTimer = null;
-  };
   document.querySelector('#search').addEventListener('input', (e) => {
     const search = document.forms.filter.search.value;
     if (searchTimer) clearTimeout(searchTimer);
-    searchTimer = setTimeout(doSearch, [1, 2].includes(search.length) ? 1000 : 100);
+    searchTimer = setTimeout(() => {
+      updateListings();
+      searchTimer = null;
+    }, [1, 2].includes(search.length) ? 1000 : 100);
   });
-  document.querySelector('#search').addEventListener('change', doSearch);
 
   const updateAriaExpanded = () => {
     const el = document.querySelector('.button-down');
