@@ -46,6 +46,17 @@
     return listings;
   };
 
+  const matchesSearch = (feature, search) => {
+    /* Pull out unquoted terms separated by whitespace or inside matched quotes */
+    const terms = search.toLowerCase().match(/(?:[^\s"]+|"[^"]*")+/g)
+    const unquoted = terms.map(t => t.replace(/^"(.*)"$/, '$1'));
+    /* No need to strip empty terms as ''.includes('') */
+    return unquoted.every(t =>
+      feature.properties.description.toLowerCase().includes(t) ||
+      feature.properties.name.toLowerCase().includes(t)
+    );
+  };
+
   const updateProperties = (listings) => {
     for (const feature of listings.features) {
       const props = feature.properties;
@@ -54,10 +65,7 @@
       props.icon = 'marker-red';
       const search = document.forms.filter.search.value;
       if (search) {
-        props.match = (
-          props.description.toLowerCase().includes(search.toLowerCase()) ||
-          props.name.toLowerCase().includes(search.toLowerCase())
-        );
+        props.match = matchesSearch(feature, search);
       }
       const id = Number(props.url.split(/\//).pop());
       const dates = favourites[id];
