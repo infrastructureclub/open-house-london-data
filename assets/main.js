@@ -108,9 +108,9 @@
     if (document.forms.filter.to_time.valueAsNumber > 0) {
       filter.push(['<', ['get', 'start'], ['literal', `${formatTime(24 - document.forms.filter.to_time.valueAsNumber)}:00`]]);
     }
-    /* Yes this is technically now redundant */
+    /* Not redundant as we include events from other days */
     switch (document.forms.filter.bookmarked.value) {
-      case 'yes': filter.push(['in', ['get', 'state'], ['literal', ['bookmarked']]]); break;
+      case 'yes': filter.push(['in', ['get', 'state'], ['literal', ['bookmarked', 'bookmarked-elsewhere']]]); break;
       case 'no': filter.push(['in', ['get', 'state'], ['literal', ['']]]); break;
     }
     return filter;
