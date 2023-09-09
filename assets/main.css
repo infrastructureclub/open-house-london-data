@@ -64,6 +64,7 @@ body > header > input.expand {
 
 body > header > input.expand:checked {
   background-image: url(double-arrow-up.svg);
+  background-position-y: 30%;
 }
 
 body > header > input.expand::after {
@@ -76,6 +77,7 @@ body > header > input.expand::after {
 
 body > header > input.expand:checked::after {
   content: "Less";
+  margin-top: 3.5ex;
 }
 body > header > input.expand:hover,
 body > header > input.expand:active {
