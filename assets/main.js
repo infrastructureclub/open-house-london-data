@@ -100,6 +100,7 @@
     if (document.forms.filter.to_time.valueAsNumber > 0) {
       filter.push(['<', ['get', 'start'], ['literal', `${formatTime(24 - document.forms.filter.to_time.valueAsNumber)}:00`]]);
     }
+    /* Yes this is technically now redundant */
     switch (document.forms.filter.bookmarked.value) {
       case 'yes': filter.push(['in', ['get', 'state'], ['literal', ['bookmarked']]]); break;
       case 'no': filter.push(['in', ['get', 'state'], ['literal', ['']]]); break;
@@ -115,13 +116,19 @@
     currentListings = await getListings();
     updateProperties(currentListings);
     map.getSource('listings').setData(currentListings);
-    map.getLayer('listings-markers').visibility = 'visible';
-    map.getLayer('listings-labels').visibility = 'visible';
+    map.getLayer('listings-bookmarked-markers').visibility = 'visible';
+    map.getLayer('listings-bookmarked-labels').visibility = 'visible';
+    map.getLayer('listings-other-markers').visibility = 'visible';
+    map.getLayer('listings-other-labels').visibility = 'visible';
 
     console.log(`Updating filters`);
     const filter = getListingsFilter();
-    map.setFilter('listings-labels', filter);
-    map.setFilter('listings-markers', filter);
+    const filterBookmarked = ['in', ['get', 'state'], ['literal', ['bookmarked']]];
+    const filterOther = ['in', ['get', 'state'], ['literal', ['']]];
+    map.setFilter('listings-bookmarked-labels', [...filter, filterBookmarked]);
+    map.setFilter('listings-bookmarked-markers', [...filter, filterBookmarked]);
+    map.setFilter('listings-other-labels', [...filter, filterOther]);
+    map.setFilter('listings-other-markers', [...filter, filterOther]);
     saveFilter();
   };
 
@@ -291,16 +298,23 @@
       e._stopPropagate = true;
     };
 
-    map.on('click', 'listings-markers', showPopup);
-    map.on('click', 'listings-labels', showPopup);
+    /* This determines the order of precedence when processing clicks */
+    map.on('click', 'listings-bookmarked-markers', showPopup);
+    map.on('click', 'listings-bookmarked-labels', showPopup);
+    map.on('click', 'listings-other-markers', showPopup);
+    map.on('click', 'listings-other-labels', showPopup);
 
-    map.on('mouseenter', 'listings-markers', () => map.getCanvas().style.cursor = 'pointer');
-    map.on('mouseleave', 'listings-markers', () => map.getCanvas().style.cursor = '');
+    map.on('mouseenter', 'listings-bookmarked-markers', () => map.getCanvas().style.cursor = 'pointer');
+    map.on('mouseleave', 'listings-bookmarked-markers', () => map.getCanvas().style.cursor = '');
+    map.on('mouseenter', 'listings-other-markers', () => map.getCanvas().style.cursor = 'pointer');
+    map.on('mouseleave', 'listings-other-markers', () => map.getCanvas().style.cursor = '');
 
     map.on('error', (response) => {
       console.log(`Error from map: ${response.error.message}`);
-      map.getLayer('listings-markers').visibility = 'none';
-      map.getLayer('listings-labels').visibility = 'none';
+      map.getLayer('listings-bookmarked-markers').visibility = 'none';
+      map.getLayer('listings-bookmarked-labels').visibility = 'none';
+      map.getLayer('listings-other-markers').visibility = 'none';
+      map.getLayer('listings-other-labels').visibility = 'none';
       throw response.error;
     });
 
@@ -318,8 +332,7 @@
           'type': 'FeatureCollection',
       };
       map.addSource('listings', { type: 'geojson', data: emptyGeojson });
-      map.addLayer({
-        'id': 'listings-markers',
+      const markersSettings = {
         'type': 'symbol',
         'source': 'listings',
         'layout': {
@@ -327,9 +340,8 @@
           'icon-allow-overlap': true,
           'icon-ignore-placement': true,
         },
-      });
-      map.addLayer({
-        'id': 'listings-labels',
+      };
+      const labelsSettings = {
         'type': 'symbol',
         'source': 'listings',
         'layout': {
@@ -338,9 +350,30 @@
           'text-radial-offset': 1,
         },
         'paint': {
+          'text-color': '#222',
           'text-halo-color': '#fff',
           'text-halo-width': 1,
           'text-halo-blur': 1,
+        },
+      };
+
+      /* Markers go at the bottom visually */
+      map.addLayer({...markersSettings, 'id': 'listings-other-markers'});
+      map.addLayer({...markersSettings, 'id': 'listings-bookmarked-markers'});
+
+      /* With labels above, and bookmarked labels topmost so they have priority */
+      map.addLayer({
+        ...labelsSettings,
+        'id': 'listings-other-labels'
+      });
+      map.addLayer({
+        ...labelsSettings,
+        'id': 'listings-bookmarked-labels',
+        'layout': {
+          ...labelsSettings.layout,
+          'text-justify': 'auto',
+          /* Give them a little more chance of showing up */
+          'text-variable-anchor': ['top', 'bottom'],
         },
       });
 
