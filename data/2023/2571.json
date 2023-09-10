@@ -28,23 +28,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking Tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2571",
-            "capacity": null,
-            "date": "2023-09-10",
-            "drop_in": false,
-            "end": "2023-09-10T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Walking Tour",
-            "notes": null,
-            "start": "2023-09-10T10:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Refreshments",
@@ -97,5 +81,5 @@
     "name": "Brentham Garden Suburb",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2571",
-    "ticketed_events": true
+    "ticketed_events": false
 }

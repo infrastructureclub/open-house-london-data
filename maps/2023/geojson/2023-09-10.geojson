@@ -336,8 +336,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "Early 18C red brick home of artist William Hogarth extended significantly c1749-1764. A 2020 extension adds a curved glass wall in the shape of Hogarth's Line of Beauty. Delightful walled garden containing famous ancient mulberry tree.",
-                "end": "13:00:00",
-                "fully_booked": "Yes",
+                "end": "14:30:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/628/building_628_hogarths-house-please-credit-katri-salonen-1-1-1_b6e3d5e517ad3eb410eaeb731ee67f31.jpg",
@@ -362,7 +362,7 @@
                 ],
                 "name": "Hogarth's House",
                 "new_venue_this_year": "No",
-                "start": "12:30:00",
+                "start": "14:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/628"
             },
@@ -426,7 +426,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Abbey Mills pumping station 'A', built by engineer Joseph Bazalgette, Edmund Cooper and architect Charles Driver. Built between 1865 and 1868 it is described as the cathedral of sewage.\r\nFollow this link to book: https://bit.ly/abbeymills",
-                "end": "10:50:00",
+                "end": "11:50:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -440,7 +440,7 @@
                 ],
                 "name": "Abbey Mills Pumping Station",
                 "new_venue_this_year": "No",
-                "start": "10:00:00",
+                "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/803"
             },
@@ -817,7 +817,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "An impressive Victorian neo-Classical building overlooking the Embankment of the river Thames. It is the second-largest clubhouse ever built, the first London building to incorporate a lift and to be entirely lit by electric lighting.",
-                "end": "11:00:00",
+                "end": "15:30:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -847,7 +847,7 @@
                 ],
                 "name": "National Liberal Club",
                 "new_venue_this_year": "Yes",
-                "start": "10:00:00",
+                "start": "14:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/1167"
             },
@@ -959,88 +959,6 @@
                 "start": "10:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/1310"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.164151,
-                    51.5890281
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "One of the oldest cinemas in the country with a barrel-vaulted ceiling and Art Deco wall reliefs by Mollo and Egan. Grade II listed.",
-                "end": "10:30:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1355/building_1355_cinema1_a999fec280766a1ba31208392b352907.jpg",
-                        "title": "Auditorium reliefs"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1355/building_1355_phoenix-exterior-jodi-warren_bd2f998f68146984ee7e4b98200ceddd.jpg",
-                        "title": "Phoenix exterior"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1355/building_1355_phoenixcinema-auditorium01-copyright-maurita-van-droogenbroeck2012_a3f05b7587d67695df9f4cba439fac3a.jpg",
-                        "title": "Phoenix Cinema auditorium "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1355/building_1355_phoenix-cinema-east-finchley-external-jodi-warren_74301c8a01252667e616feb8e2eac135.jpg",
-                        "title": ""
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1355/building_1355_16x9-seats_f6991b1aa3226cf697c4ebedc1d4ede4.jpeg",
-                        "title": "View from front of auditorium"
-                    }
-                ],
-                "name": "Phoenix Cinema",
-                "new_venue_this_year": "No",
-                "start": "10:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/1355"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.3073139,
-                    51.51144919999999
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Designed by Sir John Soane as a family home and country residence. Following a three-year conservation project,  Pitzhanger has been returned to Soane’s innovative original design and re-opened to the public in March 2019.",
-                "end": "12:30:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1369/building_1369_thumbnail_img_3284-1_fea4ac539e3fbbd40a0e9fce1ac2706e.jpg",
-                        "title": ""
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1369/building_1369_phm-04-003_fcad303705a22c3881ce10cb2b5633b6.jpg",
-                        "title": "Pitzhanger Manor & Gallery"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1369/building_1369_13_vestibule_up_angled_pitzhanger16july21383_81cd1e4f84321ef3e40d8d8277c6d24f.jpg",
-                        "title": "Vestibule ceiling"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1369/building_1369_drawingrmwide_pitzhangera21323_4be2b6f044c9f46e3373587fb9605537.jpg",
-                        "title": "Upper Drawing Room"
-                    }
-                ],
-                "name": "Pitzhanger Manor & Gallery",
-                "new_venue_this_year": "No",
-                "start": "10:30:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/1369"
             },
             "type": "Feature"
         },
@@ -1160,7 +1078,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "A good example of quality late-Victorian functional design.\r\nRichmond Lock &Weir consists of three 32 ton weir gates that operate 2 hours either side of high water.",
-                "end": "11:00:00",
+                "end": "13:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -1174,76 +1092,9 @@
                 ],
                 "name": "Richmond Lock Building (Surrey Side)",
                 "new_venue_this_year": "No",
-                "start": "10:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/1472"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.07556439999999999,
-                    51.5496961
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Grade II listed Art Deco cinema with stalls and circle created in 1937 within the shell of an Edwardian cinema, retaining many original features.\r\n2017 new auditorium created in basement space.",
-                "end": "11:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1478/building_1478_rio-cinema-dalston-auditorium_802d0efc41575c07a3b736feb8b51367.jpg",
-                        "title": "Auditorium"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1478/building_1478_classic-aud-1950_e1766a697c154ddc028020d5c1115fc5.jpg",
-                        "title": "Auditorium from the Circle (taken 1937)"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1478/building_1478_kingsland-empire-high-res-scan-1915-crop_239963357a7c74f81540ac1fab925636.jpg",
-                        "title": "As the Kingsland Empire Cinema in 1915"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1478/building_1478_clasic1950d_353c80ae4ede186c6d9759c86f93ffa5.jpg",
-                        "title": "The Classic Cinema Dalston in 1950"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1478/building_1478_classic-cartoon-cinema-med-res_39feafdfc7fcb851c2e97272a93bc8a5.jpg",
-                        "title": "Classic Cartoon Theatre Dalston in 1958"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1478/building_1478_thumbnail_mark-blower-170313-rio-cinema-0003_d694b3895caaa54e29d54f729471c147.jpg",
-                        "title": "Rio Cinema Dalston auditorium from the circle"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1478/building_1478_rio-sc2_46c2b567efdb042e5fadd10e95706d2f.jpg",
-                        "title": "Rio Cinema Dalston screen 2 built in 2017"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1478/building_1478_classic-cinema-dalston-openig-day-1937-300dpi_db7b021d88e6051ef5c7d211d74f03bb.jpg",
-                        "title": "Classic Cinema Dalston opening day 1937"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1478/building_1478_img_8208_5e195ad50e9f90c48e9dfba944cf8034.jpeg",
-                        "title": "Rio Cinema Dalston August 2021"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1478/building_1478_screenshot-2021-08-16-at-10-44-20_4f8fddcffe8b2ed93d2ecaddd61cb770.png",
-                        "title": "Rio Cinema Dalston"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1478/building_1478_bhla1797_78b3c809e73ee863f333ca6593e2399c.jpeg",
-                        "title": "Kingsland Empire auditorium of 1915 taken in 2022"
-                    }
-                ],
-                "name": "Rio Cinema",
-                "new_venue_this_year": "No",
-                "start": "10:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/1478"
             },
             "type": "Feature"
         },
@@ -1368,8 +1219,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "Home to The Royal Opera, The Royal Ballet and the Orchestra of the Royal Opera House, the ROH was reconfigured in 2018 by Stanton Williams to offer world-class performance spaces and a welcoming and inclusive cultural and social hub.",
-                "end": "13:00:00",
-                "fully_booked": "Yes",
+                "end": "15:30:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1550/building_1550_royal-opera-house-exterior-2018-roh-photograph-by-luke-hayes_e0d278f7b1c1743b54e983dd77401c29.jpg",
@@ -1394,7 +1245,7 @@
                 ],
                 "name": "Royal Opera House",
                 "new_venue_this_year": "No",
-                "start": "12:30:00",
+                "start": "15:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/1550"
             },
@@ -1750,7 +1601,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Grade II listed Town Hall clad in Portland Stone. The building incorporates Art Deco and Nordic Classicism styles, also being influenced by the work of local activist William Morris. Extensively refurbished in 2019 by Hawkins Brown.",
-                "end": "10:45:00",
+                "end": "11:45:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -1768,7 +1619,7 @@
                 ],
                 "name": "Waltham Forest Town Hall",
                 "new_venue_this_year": "No",
-                "start": "10:00:00",
+                "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/2285"
             },
@@ -1999,41 +1850,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.309085,
-                    51.5287856
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Britain's first co-partnership garden suburb, first houses built 1901. Parker and Unwin's plan introduced 1907, mainly Arts and Crafts style; fascinating social history.",
-                "end": "12:30:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2571/building_2571_lud10lud4rusk09july-f_0511bf448f8a4f99d0b256936538e7a9.jpg",
-                        "title": "Ludlow Road, Brentham Garden Suburb"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2571/building_2571_club12jan04fc_912da5242e7a224383b689bf199c514d.jpg",
-                        "title": "Brentham Club & Institute, opened 1913"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2571/building_2571_fow38-48fow19junefc_6277cc134349e0a0a38243b5c1af66e9.jpg",
-                        "title": "Fowlers Walk, Brentham Garden Suburb"
-                    }
-                ],
-                "name": "Brentham Garden Suburb",
-                "new_venue_this_year": "No",
-                "start": "10:30:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/2571"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.3152063,
                     51.61962
                 ],
@@ -2081,7 +1897,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "An enduring, distinctive feature of the London skyline for the last 54 years, this is a rare opportunity for members of the public to visit the famous revolving floor, 158m above the capital. After the flight the guests can watch a history of the BT Tower film in our auditorium.",
-                "end": "10:15:00",
+                "end": "15:30:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -2099,7 +1915,7 @@
                 ],
                 "name": "BT Tower",
                 "new_venue_this_year": "Yes",
-                "start": "09:30:00",
+                "start": "14:45:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/2735"
             },
@@ -2167,69 +1983,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0884189,
-                    51.5165568
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Late Victorian neo-Baroque building with modern-style 1970 extensions supporting 5 storeys of recently refurbished offices over the Great Hall.",
-                "end": "14:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_one-moorgate-place-exterior-image-1_64df32794331ef7d260ae89eaeb5e0d8.jpg",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_icaew_logo_blk_rgb_fb4523b90237fed1a9e7244e65432ad8.png",
-                        "title": "Economia"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_oh3_db1223f7af97fb47bcfcd4bad2d43f2e.jpg",
-                        "title": ""
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_oh4_f5527afe26e689d827a085d207de3bb2.jpg",
-                        "title": ""
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_oh5_d4d6090167b928132b5b822f19cc27d0.png",
-                        "title": ""
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_2-front_ab6560e2fd28a1eb207dcff4e1b47204.png",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_great-hall-curved-theatre-style-8_3d2b96e2a8d082370a08de3f6b7a7008.jpg",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_member-s-room-standing-reception_dc2ce9ebd8c1eb499d7238ffae36ad2d.jpg",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_atrium-1_3b66afdeb12e0e753c7d77c324865a1a.jpg",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2842/building_2842_auditorium-23_2676caca98ee23d9926bdccad7b4677d.jpg",
-                        "title": null
-                    }
-                ],
-                "name": "Chartered Accountants' Hall",
-                "new_venue_this_year": "Yes",
-                "start": "08:30:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/2842"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.258696,
                     51.4838034
                 ],
@@ -2239,7 +1992,7 @@
                 "balloted": "No",
                 "description": "Chiswick House and Gardens is one of the most glorious examples of 18th-century British architecture and landscaping with over 300 years of discovery, inspiration and delight.",
                 "end": "12:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2862/building_2862_chiswick-house_front_2_anna-kunst_3f5042c1f15caf3125e17187f091555f.jpg",
@@ -2537,89 +2290,6 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/4277"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1954901,
-                    51.356275
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "A double-fronted red brick upper-middle class house, and one of a few Victorian villas to survive in Sutton. The well-preserved interior includes an entrance hall with a mosaic tiled floor, an oak galleried staircase and fireplaces.",
-                "end": "13:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_img_6669-2_4eeb543190e21602e00fbffd604d9e03.jpg",
-                        "title": "View from front of Russettings"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_100_1069_286e0dfedfd3dfd2fa83d0eacd4ad2bf.jpg",
-                        "title": "Russettings"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_russettings_2bf9fbd1f508ec937b4b6501fe5a958b.jpg",
-                        "title": ""
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_staircase-photo-1_30ad0cb30b07a51bfa6743fb225aa859.jpg",
-                        "title": ""
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_garden-photo-2_ab5374099df52f9ca2e4af6b2adb020a.jpg",
-                        "title": ""
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_drawing-room-photo-3_b865ae35fcf95bdb12dbc5b25bede846.jpg",
-                        "title": ""
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_drawing-room-photo-2_45a094f4079de20722f87d93e472a2c8.jpg",
-                        "title": "Drawing Room"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_img_20181121_202952421_hdr_06dff6867db2d12c6e263f3d425193cb.jpg",
-                        "title": ""
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_img_6483-1-1_3684c906a91f0016fc6bb01485cdb41e.jpg",
-                        "title": "Inside the garden room"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_garden-view-1-1_f709ae1b6b0c05dffde691e5f07ac860.jpg",
-                        "title": "Inside the garden room"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_5254_russettings_logo_vc_j-mockup-01-3_c81e99d1b4452eb92507c3ccd6db1999.jpg",
-                        "title": "Russettings Logo"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_russettings_quill___edited_2aa7e6a3eec5ef3c3ae7335e505c011d.jpg",
-                        "title": "Quill pen"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_russettingspic_42211b1f4cd45a6f957c96bda23c0a6d.jpg",
-                        "title": "Drawing of Russettings"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_2019-02-09-12-52-00-1_e491db889bbcbb9bb5ce4700e6f4ec5d.jpg",
-                        "title": "Outside Russettings"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4656/building_4656_img_6662_8be051df88a914965f970ffa422d9f43.jpg",
-                        "title": "View from Garden"
-                    }
-                ],
-                "name": "Russettings",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/4656"
             },
             "type": "Feature"
         },
@@ -3355,7 +3025,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "St Anne's Limehouse has been described as 'the finest parish church in England.' Designed by Nicholas Hawksmoor, it is Grade I listed and one of the Major Churches in the Church of England. It is home to a thriving Christian congregation.",
-                "end": "11:30:00",
+                "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -3377,7 +3047,7 @@
                 ],
                 "name": "St Anne's Church, Limehouse",
                 "new_venue_this_year": "No",
-                "start": "10:30:00",
+                "start": "12:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/6270"
             },
@@ -3434,7 +3104,7 @@
                 "balloted": "No",
                 "description": "A monumental, inhabitable sculpture placed on a wing of the listed façade of The Beaumont Hotel. The interior, a bedroom, is as important as its exterior: a giant crouching cuboid figure based on the artist's body.",
                 "end": "14:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6285/building_6285_room-by-antony-gormley-portrait-print_ff43e6dfa996180934675c72dac9d7db.jpg",
@@ -3971,65 +3641,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.3062179,
-                    51.40975359999999
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "We are running our usual guided walking tours around historic Kingston this year with reduced numbers.\r\n\r\nOur guided tours are informative, interesting and fun. For more information about us visit: https://www.kingstontourguides.org.uk/",
-                "end": "12:30:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7678/building_7678_jack-wills-building_5634d10159f2358034caaeac3fb2e521.jpg",
-                        "title": "Jack Wills Building"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7678/building_7678_kingston-bridge_be450e983311e694512f575cae978d2f.jpg",
-                        "title": "Kingston Bridge"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7678/building_7678_the-apple-market_2b28c40cb0d2207b8daf8372129ec2a5.jpg",
-                        "title": "The Apple Market"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7678/building_7678_the-clattern-bridge_383018ded43a5a33952dab54d2910e3b.jpg",
-                        "title": "The Clattern Bridge"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7678/building_7678_the-market-house_84ad33e5e2040ffdc0dfd13070e0173f.jpg",
-                        "title": "The Market House"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7678/building_7678_the-old-mortuary_8dd9a7ec9e2f81b6d11696c91ab04618.jpg",
-                        "title": "The Old Mortuary"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7678/building_7678_top-of-nuttalls_41dcdc3cda0374b6e307758c175991a8.jpg",
-                        "title": "Top of Nuttalls"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7678/building_7678_the-coronation-stone_9a7b4e7050216549954dc87b4dd8fd7c.jpg",
-                        "title": "The Coronation Stone"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7678/building_7678_the-guildhall_e41960d8e5f89ac5c88318929f2fe7ab.jpg",
-                        "title": "The Guildhall, built in 1935"
-                    }
-                ],
-                "name": "Kingston Historic walk",
-                "new_venue_this_year": "No",
-                "start": "11:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/7678"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.1210654,
                     51.4936018
                 ],
@@ -4085,7 +3696,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "This house was built by its owners (2018-2022), which creates an acute sense of ownership and connection to the neighbourhood. It shows how small and redundant sites could be used to provide high quality and sustainable places to dwell.",
-                "end": "11:15:00",
+                "end": "14:15:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -4163,7 +3774,7 @@
                 ],
                 "name": "East House: The story of a self-built home in London",
                 "new_venue_this_year": "No",
-                "start": "10:30:00",
+                "start": "13:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/7807"
             },
@@ -4329,7 +3940,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Medieval style church rebuilt by Sir George Gilbert Scott after 1867 fire. Tower & south porch are 15C. Large nave with open timber-work roof leads to chancel dominated by superb stained glass window & rich alabaster reredos.",
-                "end": "11:30:00",
+                "end": "15:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -4363,7 +3974,7 @@
                 ],
                 "name": "Croydon Minster",
                 "new_venue_this_year": "No",
-                "start": "10:00:00",
+                "start": "11:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/8724"
             },
@@ -4615,7 +4226,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "This Grade I Mansion House, close to St Paul's Cathedral was designed by Edward Woodroofe in 1669 and completed in 1673.  The residence of successive Deans of St Pauls until the 1970's today it is the office to the Bishop of London",
-                "end": "10:40:00",
+                "end": "15:40:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -4633,7 +4244,7 @@
                 ],
                 "name": "The Old Deanery",
                 "new_venue_this_year": "No",
-                "start": "10:00:00",
+                "start": "15:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/10192"
             },
@@ -4650,7 +4261,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "In 1666, the conflagration devastated most of the City, thousands of houses, many churches and St Paul's Cathedral destroyed. Christopher Wren played a major role in rebuilding the City. \r\nFree walks led by City of London Guides",
-                "end": "11:15:00",
+                "end": "14:15:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -4672,7 +4283,7 @@
                 ],
                 "name": "The Great Fire of London",
                 "new_venue_this_year": "No",
-                "start": "10:00:00",
+                "start": "13:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10238"
             },
@@ -4736,7 +4347,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "On this walk we will see many historic & modern buildings. see different architecture styles having regard to the environment and sustainability, and hear about famous architects, past and present.\r\n\r\nFree walks led by City of London Guides",
-                "end": "11:30:00",
+                "end": "15:30:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -4758,7 +4369,7 @@
                 ],
                 "name": "Historic & Modern Buildings in the City",
                 "new_venue_this_year": "No",
-                "start": "10:15:00",
+                "start": "14:15:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10240"
             },
@@ -4775,7 +4386,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "On this walk we shall discover some of the livery companies, learn about their ancient traditions and ceremonies, which are repeated every year. Also hear about  their important role in the City.\r\nFree walks led by City of London Guides",
-                "end": "11:45:00",
+                "end": "14:45:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -4797,80 +4408,9 @@
                 ],
                 "name": "Ancient Livery Companies in the City of London",
                 "new_venue_this_year": "No",
-                "start": "10:30:00",
+                "start": "13:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10242"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.2224974,
-                    51.5376199
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "A contemporary extension to the Lexi Cinema, providing a 2nd screen. The building is a composition of brick and stainless steel; a nod to the parapets of surrounding terraces and reflecting the ever-changing sky above.",
-                "end": "13:05:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10262/building_10262_lexi_cinema_rise_design_studio_-_henry_woide_web_00020_54b55ae6a67a7883239be8243567493e.jpg",
-                        "title": "Aerial view"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10262/building_10262_lexi_cinema_rise_design_studio_-_henry_woide_web_00026_0c3be178591a6fdb8d6f552beaa3e6a0.jpg",
-                        "title": "View of green roof"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10262/building_10262_lexi_cinema_rise_design_studio_-_henry_woide_web_00013_ac55ec9d27072d2570bedaa0b507c767.jpg",
-                        "title": "Interior view Screen 2"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10262/building_10262_lexi_cinema_rise_design_studio_-_henry_woide_web_00028_0654fd15a3656f4497a6c97cc839a632.jpg",
-                        "title": "Box Office"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10262/building_10262_lexi_cinema_rise_design_studio_-_henry_woide_web_00032_f17e1f3ca2241ae90d60e4512070a623.jpg",
-                        "title": "Interior view of Screen 1"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10262/building_10262_lexi_cinema_rise_design_studio_-_henry_woide_web_00003_b4a51b66d68323c41820de0e50635f57.jpg",
-                        "title": "View of front elevation"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10262/building_10262_lexi_cinema_rise_design_studio_-_henry_woide_web_00007_bfb23741c5c9851adc162ae0762d31a4.jpg",
-                        "title": "Josh Bar"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10262/building_10262_lexi_cinema_rise_design_studio_-_henry_woide_web_00008_ab4f734e701aa786c2de95f2b44eee61.jpg",
-                        "title": "Josh Bar ii"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10262/building_10262_lexi_cinema_rise_design_studio_-_henry_woide_web_00012_a717e07ea472e1cbbf4d920985b57d5e.jpg",
-                        "title": "Gratitude Wall"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10262/building_10262_lexi_cinema_rise_design_studio_-_henry_woide_web_00016_008a9244f36761ffc1146a61dcb219f1.jpg",
-                        "title": "Bird's Eye View "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10262/building_10262_lexi_cinema_rise_design_studio_-_henry_woide_web_00021_3423c9563d607a66fc773ea168eccf1b.jpg",
-                        "title": "Exterior of Screen 2 "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10262/building_10262_lexi_cinema_rise_design_studio_-_henry_woide_web_00025_e896ecd33ec1973b8d95e8ac4730644e.jpg",
-                        "title": "Exterior of Screen 2 - neighbour's side"
-                    }
-                ],
-                "name": "Lexi Cinema",
-                "new_venue_this_year": "No",
-                "start": "11:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/10262"
             },
             "type": "Feature"
         },
@@ -5009,57 +4549,6 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10748"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.2110379,
-                    51.5163173
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Join our historic talk on the history of the building. This site was originally the site for the Bayswater Jewish School, before becoming the London Lighthouse. Then in 2015, the Museum of Brands moved in.",
-                "end": "12:30:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10779/building_10779_untitled-design-2022-05-26t113703-530_1d367b0f59f4f65df37d5998d2748eb6.png",
-                        "title": "The Museum of Brands, current building "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10779/building_10779_untitled-design-2022-05-26t110102-484_f91beaef602462c592fe0f668653c5e0.png",
-                        "title": " London Lighthouse poster "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10779/building_10779_untitled-design-2022-05-26t112546-667_3ea9202dfa9dc15a956e20c50d29db7f.png",
-                        "title": "Princess Diana at the London Lighthouse"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10779/building_10779_untitled-design-2022-05-26t112900-195_c3b2afdecbd67ae82eb096fcba113151.png",
-                        "title": "View up Lancaster Road "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10779/building_10779_untitled-design-2022-05-26t113936-592_aedee799a9ab6d1a4a6a18049ef0932f.png",
-                        "title": "Memorial Garden "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10779/building_10779_untitled-design-2022-05-26t123948-119_14e38c6b50b2a4373ebb9e7636874f9d.png",
-                        "title": "Inside the Museum's collection "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10779/building_10779_untitled-design-2022-05-26t124257-375_87992d4a071075b02124e4f2e206b121.png",
-                        "title": "Collection items "
-                    }
-                ],
-                "name": "Museum of Brands",
-                "new_venue_this_year": "No",
-                "start": "12:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/10779"
             },
             "type": "Feature"
         },
@@ -5332,41 +4821,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0951836,
-                    51.5081373
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Celebrate the Open House Festival with this fun and interactive walking tour about Britain's forgotten history of the Black Tudors. Learn how African and European alliances, wars and conquests shaped the journeys of four Black Tudors.",
-                "end": "11:30:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11063/building_11063_imageedit_9_8852398869_a82d9fa8f5e3d2967d2c7aacb7bf8be0.jpg",
-                        "title": "Walking Tour"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11063/building_11063_img-20221028-wa0033_02fafca5313af5471d920e6196435534.jpg",
-                        "title": "The Golden Hinde"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11063/building_11063_img-20221028-wa0037_c6c558e4b09861de346eb03269b7d3f0.jpg",
-                        "title": "Southwark Cathedral"
-                    }
-                ],
-                "name": "The Mysterious Black Tudors - Riverside Walking Tour",
-                "new_venue_this_year": "No",
-                "start": "10:30:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/11063"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.2373949,
                     51.5067505
                 ],
@@ -5414,37 +4868,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.25949,
-                    51.5934
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Colindale played a pivotal role in early aviation in England with the establishment of the London Aerodrome. Later, the area was developed with manufacturing, scientific, and cultural repositories and became home to emerging suburbs.",
-                "end": "13:00:00",
-                "fully_booked": "Yes",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11076/building_11076_watch-tower-ll_6fb124afd6860b1f73ac7930ad253643.jpg",
-                        "title": "RAF Museum"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11076/building_11076_colindale-hospital-admin-bldg_aeb0ed43ff2549f5eab5bab032be23e7.jpg",
-                        "title": "Colindale Hospital Administration Bldg in 2022 c. Lisa Lu"
-                    }
-                ],
-                "name": "Discovering Colindale - How Early Aviation Forged Colindale’s Development",
-                "new_venue_this_year": "No",
-                "start": "11:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/11076"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.1284,
                     51.51139
                 ],
@@ -5454,7 +4877,7 @@
                 "balloted": "No",
                 "description": "Ever since the United States gained independence, Americans have been showing up again and again. This tour is about their influence on the UK from before the Revolutionary War to American heiresses marrying for titles to WWII to today.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11082/building_11082_us-embassy-1960_3ce5028582b71fc1d329b1650260a38e.jpg",
@@ -5606,7 +5029,7 @@
                 "balloted": "No",
                 "description": "A walk around historic Walthamstow showing how this unique area grew from a village into a thriving suburb, its social history and the variety of buildings that can be found where Epping Forest meets William Morris.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11296/building_11296_img_2828_8b059f0e8ad7184afcc7c0488c9ccdab.jpg",
@@ -5630,61 +5053,6 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11296"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    0.015066,
-                    51.4130778
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "A plain Victorian Church set in a wooded Churchyard, with a vibrant and striking set of Murals around the altar and the Choir. \r\nHas indoor toilet facilities. \r\nA good quality well used organ in good condition, and an excellent accoustic",
-                "end": "11:45:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11317/building_11317_st-mary-bromley-1_fce1b3d07463f9aff0d95d26a759d02a.jpg",
-                        "title": "from the churchyard"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11317/building_11317_st-mary-bromley-2_623607d58df8980b8eb41055d14e3a1d.jpg",
-                        "title": "North transept"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11317/building_11317_st-mary-bromley-3_6d58aeea0c6cf223f58029f8dd6ef314.jpg",
-                        "title": "towards the East end"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11317/building_11317_st-mary-bromley-4_0a22e3699d4a1e128a18aebf894ee5eb.jpg",
-                        "title": "interior"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11317/building_11317_st-mary-bromley-5_a0c306da81ca03eafeab7b6d6ad37f82.jpg",
-                        "title": "Font"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11317/building_11317_st-mary-bromley-6_f5536cee9a730cd142717e55439e28d9.jpg",
-                        "title": "stained glass"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11317/building_11317_st-mary-bromley-7_598bfd9d2e4f32de175f9e880221eb0d.jpg",
-                        "title": "altar"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11317/building_11317_img_2455-2_93a0a06c72992558913cd9f8dd568b3c.jpg",
-                        "title": "Candles for Christmas"
-                    }
-                ],
-                "name": "St Mary's Church Bromley",
-                "new_venue_this_year": "No",
-                "start": "10:30:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/11317"
             },
             "type": "Feature"
         },
@@ -5827,8 +5195,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "",
-                "end": "13:15:00",
-                "fully_booked": "Yes",
+                "end": "15:45:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11389/building_11389_my-project-2_074d399024535703e189c0e702ab16d2.jpg",
@@ -5857,36 +5225,9 @@
                 ],
                 "name": "University Women's Club",
                 "new_venue_this_year": "Yes",
-                "start": "12:30:00",
+                "start": "15:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11389"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.00831,
-                    51.53961
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "",
-                "end": "11:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11402/building_11402_dsc_5939-2_23a4c9405fd47ecf83d299617cd9325e.jpg",
-                        "title": "City Mill Pool Street site overview. Credit Rafal Wojnowski."
-                    }
-                ],
-                "name": "City Mill Pool Street",
-                "new_venue_this_year": "Yes",
-                "start": "09:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/11402"
             },
             "type": "Feature"
         },
@@ -5914,33 +5255,6 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11670"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1266768,
-                    51.5010268
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "A diverse walking tour, with a qualified guide, in the heart of Westminster where we visit some statues and places that have a significance to tyranny, colonialism and slavery.  The walk is accessible to all and ends in Trafalgar Square.",
-                "end": "12:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11672/building_11672_james-ii-slaver_77bebad9c073628d02510de9b47461ca.jpg",
-                        "title": "Tyrants, Colonialism and Slavery walking tour"
-                    }
-                ],
-                "name": "Tyrants, Colonialism and Slavery walking tour",
-                "new_venue_this_year": "Yes",
-                "start": "11:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/11672"
             },
             "type": "Feature"
         },
@@ -5999,7 +5313,7 @@
                 "balloted": "No",
                 "description": "Fulham Road Picturehouse takes us back to the glory days of 1930s period glamour in this stunning listed building. Earle Architects (who did a fantastic job with Bromley Picturehouse) have helped us revive Fulham Road to its former vintage",
                 "end": "11:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11761/building_11761_fulham-rd_c77a7f98062aee19aac821c8f38f29b1.jpeg",
@@ -6011,33 +5325,6 @@
                 "start": "10:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11761"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1529829,
-                    51.4651463
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "The project was to build a south facing, upside-down, partially underground, passive, airtight, low-energy, infill-urban brutalist home, that would allow our family to stay within our local community.",
-                "end": "15:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11794/building_11794_ggardner-0448-edit_864c768dba601992e48ecbe4810d1c0c.jpg",
-                        "title": "Photo: Gareth Gardner"
-                    }
-                ],
-                "name": "Brut House",
-                "new_venue_this_year": "Yes",
-                "start": "11:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/11794"
             },
             "type": "Feature"
         },
@@ -6079,8 +5366,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "Over the last 13 years, the 150-year-old school has reused and built upon its existing campus to provide new, state-of-the-art facilities. See how new architecture can sit with heritage buildings to create something completely new.",
-                "end": "15:00:00",
-                "fully_booked": "Yes",
+                "end": "16:00:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11815/building_11815_central-foundation-boys-school_photo-by-jack-hobhouse_3c2dca8172808c0a46285c24f10c152b.jpg",
@@ -6089,56 +5376,9 @@
                 ],
                 "name": "Walking tour: Central Foundation Boys' School",
                 "new_venue_this_year": "Yes",
-                "start": "14:00:00",
+                "start": "15:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11815"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.3971429,
-                    51.5765526
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Discover the fascinating history of Eastcote and its surroundings, focused on how the landscape has changed, from the exclusively agricultural area to the today's modern suburb, revealing some of the oldest local buildings and their stories",
-                "end": "12:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11816/building_11816_img_0212_1fd8a64b76716ca0d95a94a406b6bad4.jpg",
-                        "title": "Discover the beauty of Eastcote Village and the history behind some of its significant buildings."
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11816/building_11816_20230318_135610_6aabd872c46e7af7894eaa7988282ea3.jpg",
-                        "title": "Haydon Lodge"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11816/building_11816_20230318_140324_de3c9e12b109e9cc36e394d79f9ae7ff.jpg",
-                        "title": "Ramin House, one of the oldest building int he area"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11816/building_11816_20230318_142615-1_e9ef26abda1069a49d98b6c28aaa1bad.jpg",
-                        "title": "Highgrove House"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11816/building_11816_20230318_141802-1_8f7618870f2fcb92033b71997842ac2a.jpg",
-                        "title": "New Cottages"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11816/building_11816_20230318_132858_eb8ee4b5bbbc4a3f1679aa26294f586e.jpg",
-                        "title": "Tudor Lodge"
-                    }
-                ],
-                "name": "Eastcote Walking Tour",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/11816"
             },
             "type": "Feature"
         },
@@ -6188,72 +5428,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.03742,
-                    51.53039
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Newham Bookshop has been running for 45 years; it was founded in 1978. The bookshop plays an important role in this community, providing students, teachers, parents and the whole community with a rich variety of books.",
-                "end": "13:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11829/building_11829_telemmglpict000321185836_trans_nvbqzqnjv4bqro-_hxfdloltop2z5mtoinsz8pkkqlae5tq5zi7xfxu_0890a4106982c55ef71d7a8c7d401c1b.jpeg",
-                        "title": "Photo displaying Vivian Archer at Newham Bookshop"
-                    }
-                ],
-                "name": "A bookshop for All",
-                "new_venue_this_year": "Yes",
-                "start": "12:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/11829"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    0.0446761,
-                    51.5230895
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "A community garden in the very early stages, being developed in an abandoned land in Brampton Park using Community Assembly funds.",
-                "end": "12:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11830/building_11830_1a952615-2912-436c-8873-b2184a2a0037_159a98b723e7e49d962aa7a2b238a01c.jpg",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11830/building_11830_970bf9ee-e6ee-49e3-8cc9-eb520c59a392_03350cd48142902f46bf7f5e2098ef50.jpg",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11830/building_11830_988ac4c9-0bd4-418c-91f7-1fc7afed57e8_684a78d0318baad64152f768456640d1.jpg",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11830/building_11830_3676af30-0f49-4030-b1a7-814ca7a612ae_b077939514ec2fe12f1c02a91af07e9b.jpg",
-                        "title": null
-                    }
-                ],
-                "name": "Rainbow Garden",
-                "new_venue_this_year": "Yes",
-                "start": "11:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/11830"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.0547752,
                     51.5275283
                 ],
@@ -6295,60 +5469,6 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11832"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.2248305,
-                    51.511885
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Tour through White City regeneration projects, the scale of which not seen since 1908, when it hosted the Olympics and a Great Exhibition. See what remains at both sites taking in Television Centre, arising from the site’s ashes in 1960.",
-                "end": "13:30:00",
-                "fully_booked": "Yes",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11834/building_11834_img_0020_23fcb891a33d7a9c46bf5087804888f8.jpeg",
-                        "title": "The Lagoon, Franco-British Exhibition , White City 1908"
-                    }
-                ],
-                "name": "Reimagining the Great White City",
-                "new_venue_this_year": "Yes",
-                "start": "11:30:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/11834"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1905833,
-                    51.5111551
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "The New West End Synagogue is among the most beautiful, historic buildings of Jewish interest in England and is a Grade 1 Listed Building. The texts that adorn the walls concentrate on the ideas of Divine knowledge and worship.",
-                "end": "13:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11842/building_11842_new_west_synagogue_low-res-18_5ef1906e967ede91b697279574aaaac1.jpg",
-                        "title": null
-                    }
-                ],
-                "name": "New West End Synagogue",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/11842"
             },
             "type": "Feature"
         },
@@ -6739,7 +5859,7 @@
                 "balloted": "No",
                 "description": "Most journeys in cities like London take place because of need rather than choice. 'A walk to work' traces an epitome of such a compulsory journey - the daily commute and pinpoints the unexpected beauties in the backgrounds of the everyday.",
                 "end": "13:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11962/building_11962_awalktowork_03df405c282c3b5380458ac4022e22c8.jpg",
@@ -6793,7 +5913,7 @@
                 "balloted": "No",
                 "description": "Not many would believe that Notting Hill, now an extremely wealthy part of London, was once notorious for being a “slum”. This tour explores the stories behind the streets of Notting Hill and how their effects can be seen decades on.",
                 "end": "13:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11970/building_11970_dscf3221_f66d83eea48f263209c9252e882bd90f.jpg",
@@ -6828,7 +5948,7 @@
                 "balloted": "No",
                 "description": "A tour exploring transformative new developments that are – as one advert puts it – ‘built on London’s history’. It will look at how sites such as Goodluck Hope, London City Island and Royal Wharf use and are shaped by their Docklands past",
                 "end": "16:40:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11977/building_11977_img_1571_b01272fe315fd76900a46c37c1c2b3fb.jpeg",
@@ -6878,7 +5998,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Discover the breathtaking interior of London's iconic 1700s landmark, The Cumberland Hotel. Immerse yourself in its rich artistic history, once home to renowned artists. Join us to experience the allure of this extraordinary venue.",
-                "end": "09:45:00",
+                "end": "11:45:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -6888,7 +6008,7 @@
                 ],
                 "name": "The Cumberland Hotel",
                 "new_venue_this_year": "Yes",
-                "start": "09:00:00",
+                "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11989"
             },
@@ -6938,49 +6058,6 @@
                 "start": "10:45:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12009"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.22559,
-                    51.51343
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Tours of two low energy workplaces in the heart of White City. Gateway Central - decorous, light, and well crafted - is L’Oréal's newest home. Linked by a public garden, Gateway West’s compact form and gravitas offers a deliberate contrast.",
-                "end": "11:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12015/building_12015_open-house-festival_gateway-central_gateway-west_ee0f8a0f7d5fdca23366878d27be1e19.jpg",
-                        "title": "Credit: Allies and Morrison"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12015/building_12015_02_open-house-festival_gateway-central_ed5d8467f4160f0315b414f7fac3b3be.jpg",
-                        "title": "Credit: Allies and Morrison"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12015/building_12015_03_open-house-festival_gateway-central_030901b9f12aae0808aa150dac779e1d.jpg",
-                        "title": "Credit: Allies and Morrison"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12015/building_12015_gort-scott_gateway-west_-david-grandorge_10_f99f9aea7137880a9c37cd2a1335db46.jpg",
-                        "title": "© David Grandorge"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12015/building_12015_gort_scott_gateway_west_davidgrandorge_19_small_d86d6c44e5e9b30a04a101a3b0022edf.jpg",
-                        "title": "© David Grandorge"
-                    }
-                ],
-                "name": "Gateway Central and Gateway West building tour",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/12015"
             },
             "type": "Feature"
         },
@@ -7108,8 +6185,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "Guided tours of the UK's first Passivhaus Plus school, led by the architects. This is an opportunity to visit a leading zero carbon education space - a haven of ecology complemented by a palette of natural, low-carbon materials.",
-                "end": "12:00:00",
-                "fully_booked": "Yes",
+                "end": "13:00:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12150/building_12150_oa_00520_n5_d49a9d449196f52ebb555c672c412fd2.jpg",
@@ -7118,7 +6195,7 @@
                 ],
                 "name": "Hackbridge Passivhaus Plus Primary School",
                 "new_venue_this_year": "Yes",
-                "start": "11:15:00",
+                "start": "12:15:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12150"
             },
@@ -7170,7 +6247,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "The doors to the building (including the artists' studios) will be opened to the public. Not only will visitors get the opportunity to see \"behind the scenes\" but they will have the opportunity to join workshops run by the artists/makers.",
-                "end": "12:00:00",
+                "end": "12:30:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -7192,7 +6269,7 @@
                 ],
                 "name": "Good Shepherd Studios",
                 "new_venue_this_year": "Yes",
-                "start": "10:30:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12164"
             },
