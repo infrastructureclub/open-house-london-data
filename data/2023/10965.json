@@ -16,23 +16,7 @@
             "library"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10965",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T17:15:00+01:00",
-            "fully_booked": false,
-            "name": "Preserving History, Embracing Change: Creating LPL",
-            "notes": null,
-            "start": "2023-09-09T16:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Cloakroom",
         "Accessible toilet",
@@ -118,5 +102,5 @@
     "name": "Lambeth Palace Library",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/10965",
-    "ticketed_events": true
+    "ticketed_events": false
 }

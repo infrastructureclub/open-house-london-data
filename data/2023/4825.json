@@ -20,38 +20,7 @@
             "concert/performance space"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": true,
-            "end": "2023-09-09T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Visit a small, pop up exhibition in our newly refurbished gallery space which shows some of our historic, archival materials.",
-            "start": "2023-09-09T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/4825",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tours",
-            "notes": null,
-            "start": "2023-09-09T15:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Step free access",
         "Gender neutral toilets",
@@ -158,5 +127,5 @@
     "name": "Stanley Arts",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/4825",
-    "ticketed_events": true
+    "ticketed_events": false
 }

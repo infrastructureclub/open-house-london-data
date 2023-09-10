@@ -10,23 +10,7 @@
             "residence"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12039",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tours",
-            "notes": null,
-            "start": "2023-09-09T16:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -58,5 +42,5 @@
     "name": "Tommy Flowers at Chartwell Court (ex Post Office Research Station Dollis Hill)",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12039",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -16,23 +16,7 @@
             "health"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11828",
-            "capacity": null,
-            "date": "2023-09-09",
-            "drop_in": false,
-            "end": "2023-09-09T16:45:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": null,
-            "start": "2023-09-09T15:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Gender neutral toilets",
         "Toilets",
@@ -85,5 +69,5 @@
     "name": "GOSH Sight and Sound Hospital & St Christophers Chapel",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11828",
-    "ticketed_events": true
+    "ticketed_events": false
 }
