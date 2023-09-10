@@ -23,38 +23,7 @@
             "online"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2023-09-10",
-            "drop_in": true,
-            "end": "2023-09-10T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Explore the Royal College of Physicians - architect Denys Lasdun's masterpiece - from it's modernist exterior to dramatic interior spaces.",
-            "start": "2023-09-10T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1527",
-            "capacity": null,
-            "date": "2023-09-10",
-            "drop_in": false,
-            "end": "2023-09-10T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour of the Royal College of Physicians",
-            "notes": null,
-            "start": "2023-09-10T14:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Step free access",
         "Food and drink",
@@ -206,5 +175,5 @@
     "name": "Royal College of Physicians",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1527",
-    "ticketed_events": true
+    "ticketed_events": false
 }

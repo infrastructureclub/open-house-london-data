@@ -8,23 +8,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11970",
-            "capacity": null,
-            "date": "2023-09-10",
-            "drop_in": false,
-            "end": "2023-09-10T13:30:00+01:00",
-            "fully_booked": false,
-            "name": "Notting Hill Walking Tour",
-            "notes": null,
-            "start": "2023-09-10T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -84,5 +68,5 @@
     "name": "The traces that remain: stories from Notting Hill",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11970",
-    "ticketed_events": true
+    "ticketed_events": false
 }

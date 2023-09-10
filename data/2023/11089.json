@@ -10,23 +10,7 @@
             "garden"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11089",
-            "capacity": null,
-            "date": "2023-09-10",
-            "drop_in": false,
-            "end": "2023-09-10T15:50:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": null,
-            "start": "2023-09-10T15:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -104,5 +88,5 @@
     "name": "Love Lane Green",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11089",
-    "ticketed_events": true
+    "ticketed_events": false
 }

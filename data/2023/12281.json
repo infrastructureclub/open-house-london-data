@@ -16,23 +16,7 @@
             ""
         ]
     },
-    "events": [
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12281",
-            "capacity": null,
-            "date": "2023-09-10",
-            "drop_in": false,
-            "end": "2023-09-10T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Mural Painting Workshop",
-            "notes": null,
-            "start": "2023-09-10T10:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Step free access",
@@ -82,5 +66,5 @@
     "name": "How People Shape Space: Mural Painting",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12281",
-    "ticketed_events": true
+    "ticketed_events": false
 }
