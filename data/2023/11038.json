@@ -22,19 +22,34 @@
     },
     "events": [
         {
-            "activity_type": "Guided tour",
+            "activity_type": "Drop in",
             "all_day": false,
             "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11038",
+            "booking_link": null,
             "capacity": null,
             "date": "2023-09-16",
-            "drop_in": false,
-            "end": "2023-09-16T14:30:00+01:00",
+            "drop_in": true,
+            "end": "2023-09-16T15:00:00+01:00",
             "fully_booked": false,
-            "name": "Pop-up exhibition , portraits and interviews",
-            "notes": null,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
             "start": "2023-09-16T11:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-17",
+            "drop_in": true,
+            "end": "2023-09-17T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "start": "2023-09-17T11:00:00+01:00",
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -51,14 +66,20 @@
             ]
         },
         {
-            "heading": "The Pop-Up exhibition",
+            "heading": "Art Exhibition, Short Movies at the Old Fire Station",
             "paragraphs": [
-                "This exhibition will display video interviews with some local residents telling us why and how is it to live in East Ham and how this area has changed over the last few decades."
+                "This year the Old Fire Station is joining forces with Central Park Cafe, to launch a pop-up art exhibition by local artists and short movies. Please come along and join us in this beautifully restored Grade II Listed Building"
             ]
         }
     ],
     "id": 11038,
     "images": [
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_old-firestation-lg_c314b3c13c8b97d66f332fa466fb15bd.jpg",
+            "description": null,
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11038_old-firestation-lg_c314b3c13c8b97d66f332fa466fb15bd.jpg"
+        },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_001_ef9ca4305bbd37dc9b281ec1a6ef637f.jpeg",
             "description": null,
@@ -100,6 +121,18 @@
             "description": null,
             "title": "",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11038_006_fe32f71efc75f53943368090bba02869.jpeg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_screenshot-2023-09-11-at-11-13-49_acdc55c0423e0676b41df38a3ede1793.png",
+            "description": null,
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11038_screenshot-2023-09-11-at-11-13-49_acdc55c0423e0676b41df38a3ede1793.png"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_screenshot-2023-09-11-at-11-13-27_49d1069b99ba9b132fee0611754daed5.png",
+            "description": null,
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11038_screenshot-2023-09-11-at-11-13-27_49d1069b99ba9b132fee0611754daed5.png"
         }
     ],
     "links": [],
@@ -116,5 +149,5 @@
     "name": "Central Park, War Memorial and Cafe",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11038",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -5610,7 +5610,7 @@
                 "balloted": "No",
                 "description": "A tour of one of the largest and best preserved early Victorian squares and gardens in London, also with a magnificent and original public library of 1906, which shows Byzantine and Art Nouveau influences, and a remarkable Gothic church.",
                 "end": "14:40:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10893/building_10893_85bc5516-d2bc-4dae-ac93-4bdca10bde8f_c8e3e176fadf250f7f22e7d537637dcd.jpeg",
@@ -5880,6 +5880,69 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.0478125,
+                    51.5295243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The park opened in 1898. 7,000 attended the event, enjoying refreshments and speeches stressing the importance of creating resources for children. The walkways, fountain, bowling green, war memorial and cafe were incorporated over time.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_old-firestation-lg_c314b3c13c8b97d66f332fa466fb15bd.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_001_ef9ca4305bbd37dc9b281ec1a6ef637f.jpeg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_002_cf8bb56332132d5831c50bc92879a411.jpeg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_003_b154df07fd65666207cec6417101220c.jpeg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_004_9e6319545229b0ab5df8bb2abe171812.jpeg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_005a_3c195f924ff47817865062d91249412c.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_007_9b4a1be58fd26d4ae6bd0f7a5ec1d429.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_006_fe32f71efc75f53943368090bba02869.jpeg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_screenshot-2023-09-11-at-11-13-49_acdc55c0423e0676b41df38a3ede1793.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11038/building_11038_screenshot-2023-09-11-at-11-13-27_49d1069b99ba9b132fee0611754daed5.png",
+                        "title": null
+                    }
+                ],
+                "name": "Central Park, War Memorial and Cafe",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11038"
             },
             "type": "Feature"
         },
@@ -7223,8 +7286,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.023148,
-                    51.5430381
+                    -0.02335,
+                    51.54322
                 ],
                 "type": "Point"
             },
