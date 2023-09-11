@@ -2177,7 +2177,7 @@
                 "balloted": "No",
                 "description": "Grade II* listed. Built as a playhouse and entertaining audiences for over 100 years. An original Victorian auditorium with beautiful Frank Matcham interior with state-of the-art backstage and front of house facilities.",
                 "end": "11:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2110/building_2110_trse-interiors-2021-377-a_de7b3e77730b5699b0066d9747031a1e.jpg",
@@ -11165,7 +11165,7 @@
                 "balloted": "No",
                 "description": "As a modernist 1960s development designed around extensive waterways and pedestrian routes, Thamesmead is also a perfect place for cycling. This cycle tour will take you deep into the 'Town of the 21st Century'. Highlights also include Grade I-listed Crossness Pumping Station and Lesnes Abbey ruins.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11966/building_11966_southmere_114eafb9fcdf54eba8d732f582e72f28.jpeg",
@@ -11654,15 +11654,15 @@
                 "fully_booked": "",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12085/building_12085_097-complete-1_f272c8688adf01a48c749173fcb0ce64.jpeg",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12085/building_12085_dsc_2954-edit_f98e44a82501dc36971701b475ee980d.jpg",
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12085/building_12085_img_6520-ed1_97ee7bc1f6340726ee9d568a0b79d268.jpg",
                         "title": null
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12085/building_12085_097-complete-2_4648472c0de2e062d320cf2ca47382e4.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12085/building_12085_img_6525-ed1_42db3fcf8ee66590afe0ac6f409e3fd9.jpg",
                         "title": null
                     }
                 ],
@@ -11778,6 +11778,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.00793,
+                    51.56998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Host of Leyton is open 12th - 17th Sept to welcome visitors to see the shop & space and view the work of our special Pop-up exhibition by young artist and landscape designer Dan Lee. \r\nFor more info see @thisishost on Instagram.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12104/building_12104_host-2_4ff861cc71f4bb3ff9f815d960a34da0.jpeg",
+                        "title": "Host of Leyton"
+                    }
+                ],
+                "name": "Host of Leyton - Pop-Up Gallery - Dan Lee",
+                "new_venue_this_year": "Yes",
+                "start": "14:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12104"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.08267,
                     51.56137
                 ],
@@ -11818,7 +11845,7 @@
                 "balloted": "No",
                 "description": "A celebration of Tottenham Hale’s green spaces and the communities that are shaping them. This walking tour will explore the emerging green grid from Tottenham High Road to the River Lee, set against the backdrop of an evolving urban centre",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12107/building_12107_chesnut-road-phase-1_0c2377955a5c8ddfbdb5ffdce5ec0fc7.jpg",
@@ -11977,7 +12004,7 @@
                 "balloted": "No",
                 "description": "We will be offering tours of this RIBA and AJ Retrofit award winning building. The architect will be on hand to discuss the design and construction process. We will also run  curator led tours of  the exhibition in our gallery spaces. This project is supported by the Mayor of London.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12124/building_12124_2-198_5f85c22ee9fe94405362c65148f82249.png",

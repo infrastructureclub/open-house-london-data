@@ -16,38 +16,7 @@
             "hotel"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/9211",
-            "capacity": null,
-            "date": "2023-09-11",
-            "drop_in": false,
-            "end": "2023-09-11T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": null,
-            "start": "2023-09-11T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/9211",
-            "capacity": null,
-            "date": "2023-09-11",
-            "drop_in": false,
-            "end": "2023-09-11T17:00:00+01:00",
-            "fully_booked": true,
-            "name": "Guided Tour",
-            "notes": null,
-            "start": "2023-09-11T16:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Architect on site",
@@ -168,5 +137,5 @@
     "name": "The Standard, London",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/9211",
-    "ticketed_events": true
+    "ticketed_events": false
 }

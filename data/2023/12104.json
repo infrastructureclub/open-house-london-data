@@ -6,7 +6,7 @@
             {
                 "architect": "n/a",
                 "description": null,
-                "year": "1905"
+                "year": "2015"
             }
         ],
         "periods": [
@@ -17,6 +17,21 @@
         ]
     },
     "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-16",
+            "drop_in": true,
+            "end": "2023-09-16T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Join the Architecture Foundation Young Trustees for a drop-in, rolling workshop on community, language and place.",
+            "start": "2023-09-16T14:00:00+01:00",
+            "ticketed": false
+        },
         {
             "activity_type": "Workshop",
             "all_day": false,
