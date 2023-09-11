@@ -16,23 +16,7 @@
             "hotel"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/6285",
-            "capacity": null,
-            "date": "2023-09-10",
-            "drop_in": false,
-            "end": "2023-09-10T18:30:00+01:00",
-            "fully_booked": false,
-            "name": "Tour - ROOM by Antony Gormley at The Beaumont",
-            "notes": null,
-            "start": "2023-09-10T18:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Food and drink",
         "Accessible toilet",
@@ -109,5 +93,5 @@
     "name": "ROOM by Antony Gormley",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6285",
-    "ticketed_events": true
+    "ticketed_events": false
 }
