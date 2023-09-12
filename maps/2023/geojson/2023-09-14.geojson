@@ -627,6 +627,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0997445,
+                    51.519126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The oldest surviving church in the City of London founded in 1123. Originally part of an Augustinian Priory the church survived the Great Fire and the Blitz.",
+                "end": "14:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7959/building_7959_st_bartholomew-the-great_altar-_london-_uk_-_diliff_24f1986b9d0b00ffc998e2d8c2312b51.jpg",
+                        "title": "Interior of the Priory Church"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7959/building_7959_sbg-west-end_eeaa05a46de9f4d1e6c6ed0b53abe531.jpg",
+                        "title": "Exterior of the church from the west"
+                    }
+                ],
+                "name": "The City Churches: The Priory Church of St Bartholomew the Great",
+                "new_venue_this_year": "No",
+                "start": "13:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/7959"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1930382,
                     51.4578437
                 ],
@@ -903,7 +934,7 @@
                 "balloted": "No",
                 "description": "The route of a tiny hidden stream offers the opportunity for a walk through 2000 years of London’s development. \r\n\r\nWalk from Shoreditch to the Thames, taking in landmarks & buildings that span the history of The City.",
                 "end": "18:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11291/building_11291_cristina-iglesiaslow-1024x683_d5abcd02384b3f8d275d5b751ea9fe62.jpg",
@@ -985,7 +1016,7 @@
                 "balloted": "No",
                 "description": "Poroban is a multi-disciplinary design studio, based off Old Kent Road, specialising in low carbon building design. We are offering free design surgeries throughout September and are hosting an open day on Saturday 9th Sept.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11347/building_11347_oh_678a-55_cropped_c9c51ae499f1ec4ab9b205ed11aafd9d.jpg",

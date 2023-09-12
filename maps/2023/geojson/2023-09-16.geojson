@@ -5875,6 +5875,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0997445,
+                    51.519126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The oldest surviving church in the City of London founded in 1123. Originally part of an Augustinian Priory the church survived the Great Fire and the Blitz.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7959/building_7959_st_bartholomew-the-great_altar-_london-_uk_-_diliff_24f1986b9d0b00ffc998e2d8c2312b51.jpg",
+                        "title": "Interior of the Priory Church"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7959/building_7959_sbg-west-end_eeaa05a46de9f4d1e6c6ed0b53abe531.jpg",
+                        "title": "Exterior of the church from the west"
+                    }
+                ],
+                "name": "The City Churches: The Priory Church of St Bartholomew the Great",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/7959"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0159668,
                     51.5856101
                 ],
@@ -7276,7 +7307,7 @@
                 "balloted": "No",
                 "description": "Join us for an interesting and informative walk around Surbiton with our experienced guide. Find out why Surbiton was called the Queen of the suburbs and plenty more. \r\n\r\nVisit our website: https://www.kingstontourguides.org.uk/",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/10284/building_10284_image_87d30aa3abe950d5882277a190b34723.jpg",
@@ -10724,17 +10755,29 @@
                         "title": null
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_img_1987_f3bee1443ddf9fbbb112447bf3f0ce42.jpg",
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_img_1988_d8330c16064127a3e5eb42fe8b1cd44d.jpg",
                         "title": null
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_img_5725_5f2c72fbd5d9cff30e3b78ce007dd618.jpg",
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_img_2001_8e0299b9076c2e20278e237b116a4435.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_gone-tomorrow-lrg_1f656145eea937e466bb3ca58107b027.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_img_5725_fed4b4292820daae17ea4fe6e437caad.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11914/building_11914_hackney_02ad1d97b22e7c62fc544402bd9a1c20.jpg",
                         "title": null
                     }
                 ],
                 "name": "Mother X Artists and Makers Open Studios",
                 "new_venue_this_year": "Yes",
-                "start": "11:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11914"
             },
@@ -11799,6 +11842,33 @@
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12104"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.07224,
+                    51.58718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Bernie Grant Arts Centre (BGAC) is a multi-art form venue, situated in the heart of Tottenham.  As London’s only Black-led combined arts venue that prioritises Black creativity, we fulfil a critically important role in our area.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12105/building_12105_bgac-windrush-2023-93-1_2922639debf09c091452a7f932e44951.jpg",
+                        "title": "BGAC Windrush Block Party - Credit Glodi Miessi"
+                    }
+                ],
+                "name": "Bernie Grant Arts Centre",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12105"
             },
             "type": "Feature"
         },

@@ -668,6 +668,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0997445,
+                    51.519126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The oldest surviving church in the City of London founded in 1123. Originally part of an Augustinian Priory the church survived the Great Fire and the Blitz.",
+                "end": "20:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7959/building_7959_st_bartholomew-the-great_altar-_london-_uk_-_diliff_24f1986b9d0b00ffc998e2d8c2312b51.jpg",
+                        "title": "Interior of the Priory Church"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/7959/building_7959_sbg-west-end_eeaa05a46de9f4d1e6c6ed0b53abe531.jpg",
+                        "title": "Exterior of the church from the west"
+                    }
+                ],
+                "name": "The City Churches: The Priory Church of St Bartholomew the Great",
+                "new_venue_this_year": "No",
+                "start": "19:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/7959"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0569698,
                     51.5368481
                 ],
