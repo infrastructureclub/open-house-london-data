@@ -17,7 +17,38 @@
             "institution/profession"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "A fully guided tour of our beautiful Grade 2 listed building.  A real hidden gem in the heart of the City.",
+            "start": "2023-09-09T09:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "A fully guided tour  every 30 minutes of our beautiful Grade 2 listed building.  A real hidden gem in the heart of the City.",
+            "start": "2023-09-10T08:30:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Food and drink",
         "Cloakroom",

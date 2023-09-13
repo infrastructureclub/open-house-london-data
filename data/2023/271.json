@@ -16,7 +16,68 @@
             "museum"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-07",
+            "drop_in": true,
+            "end": "2023-09-07T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "",
+            "start": "2023-09-07T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-08",
+            "drop_in": true,
+            "end": "2023-09-08T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "",
+            "start": "2023-09-08T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "The museum is open for self guided visits and the cafe will be serving hot drinks and cake",
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "The museum is open for self guided tours and the cafe will be open serving refreshments and cake",
+            "start": "2023-09-10T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Refreshments",
         "Parking",

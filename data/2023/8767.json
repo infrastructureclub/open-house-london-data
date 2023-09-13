@@ -24,6 +24,21 @@
             "balloted": false,
             "booking_link": null,
             "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "",
+            "start": "2023-09-10T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
             "date": "2023-09-16",
             "drop_in": true,
             "end": "2023-09-16T17:00:00+01:00",
@@ -67,12 +82,6 @@
             "paragraphs": [
                 "We are award-winning London architects dedicated to the creation of inspirational architecture and interiors.\nOur holistic design, engineering and construction service ensures that each project meets the exacting requirements of our Healthy Homes approach. We employ the highest comfort standards, including Passivhaus and EnerPhit; creating warm, low-energy homes and workplaces that are a joy to inhabit.",
                 "Our residential projects include new homes, house extensions and refurbishments at all scales. We have extensive experience with heritage properties, where there is often a need to balance sensitive refurbishment with carefully considered contemporary extensions. Projects are designed holistically with architecture, landscape, joinery and interiors each interlocking to form a coherent whole."
-            ]
-        },
-        {
-            "heading": "Contact",
-            "paragraphs": [
-                "https://architectureforlondon.com/\nhttps://www.instagram.com/architectureforlondon/"
             ]
         }
     ],
@@ -151,16 +160,7 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8767_low-energy-house-extension_975b313c8f7f476e92b41ccf9775ff19.jpg"
         }
     ],
-    "links": [
-        {
-            "href": "https://architectureforlondon.com/",
-            "title": null
-        },
-        {
-            "href": "https://www.instagram.com/architectureforlondon/",
-            "title": null
-        }
-    ],
+    "links": [],
     "location": {
         "address": "1 Halliwick Road, N10 1AA",
         "latitude": 51.601234,

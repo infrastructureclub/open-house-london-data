@@ -469,7 +469,7 @@
                 "balloted": "No",
                 "description": "The independent cultural centre Pushkin House will contribute to this year's Open House Festival through a programme of events and community initiatives at its Grade-II listed building in Bloomsbury Square.",
                 "end": "21:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/4108/building_4108_53139306750_91b9568082_k_414e9e9762b239a4d0d1fde33fe29867.jpg",
@@ -503,7 +503,7 @@
                 "name": "Pushkin House",
                 "new_venue_this_year": "No",
                 "start": "09:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/4108"
             },
             "type": "Feature"
@@ -699,14 +699,14 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0569698,
-                    51.5368481
+                    -0.05696,
+                    51.53684
                 ],
                 "type": "Point"
             },
             "properties": {
                 "balloted": "No",
-                "description": "Architecture and art produced in an unmodified street of 56 houses, railway arch studios, and private galleries between 1974 and 2022. Beck Rd is an iconic artist haven and its residents key contributors to UK art history.",
+                "description": "Architecture and art produced in an unmodified street of 56 houses, railway arch studios, and private galleries between 1974 and 2023. Beck Rd is an iconic artist haven and its residents are key contributors to UK art history.",
                 "end": "20:00:00",
                 "fully_booked": "",
                 "images": [
@@ -800,7 +800,7 @@
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8270/building_8270_8v6a2719_de47372042aef2ca4a4f6b6e0d01634f.jpg",
-                        "title": "Leanne Finn Davies sculptural Installation"
+                        "title": "Leanne Finn Davis sculptural Installation"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8270/building_8270_8v6a2820_d1f312848f2601b934c52a0bba28c591.jpg",
@@ -843,12 +843,16 @@
                         "title": ""
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8270/building_8270_8v6a2866_a45b8a5cf1f8034cbf2172333496dc31.jpg",
-                        "title": ""
-                    },
-                    {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8270/building_8270_8v6a2804_820e63447196fdcf8373f337d5271386.jpg",
                         "title": "Photo works by Jeni Baines"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8270/building_8270_exhibition-program_28f49a0d19dc569319bfb77cd1816fdb.png",
+                        "title": "Exhibition Program Beyond Beck Road (part II) 2023"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8270/building_8270_bbrii-for-oh_d66e3330b4dbce3cd1c36faeefa0f877.png",
+                        "title": "BBRII"
                     }
                 ],
                 "name": "‘OPEN’ Beyond Beck Road (part II)",
@@ -1603,7 +1607,7 @@
                 "balloted": "No",
                 "description": "Have you ever walked through London and wondered “Where are the statues of women?” or have you ever walked around London and counted the statues of women then tried to do the same with the statues of men?",
                 "end": "15:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11674/building_11674_20230630_115454-copy_0e2601ca2395c120d5d65d93bb883394.jpg",
@@ -1642,7 +1646,7 @@
                 "balloted": "No",
                 "description": "A 2.5 hour walking tour showcasing unexpected and hidden architectural landmarks, both historic and contemporary, of the South Bank area along a route from Lambeth Palace/Garden Museum to Bernie Spain Gardens. Held on 2 weekends.",
                 "end": "14:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11778/building_11778_oxo-tower-wharf-crop-mickey-lee-for-south-bank-london-crop-1_0726c295f1e852b299fd23890cad5fa8.jpg",
@@ -1871,7 +1875,7 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.05696,
+                    -0.056859999999999994,
                     51.53684
                 ],
                 "type": "Point"
@@ -1903,39 +1907,39 @@
                         "title": "SHANNON CLEGG | SCULPTOR"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_xander_beck_road_studios_11a383f78cbff060a2689480bd47c142.jpg",
-                        "title": "XANDER COY | PAINTER"
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_xandercoy_uoadte-image_3586c8a8c62e41133952a85e597a5584.png",
+                        "title": "XANDER COY | PAINTER + COLLAGIST"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_teddy_beck_road_studios_90690a1a5f8350290eaa196deb875bc0.jpg",
-                        "title": "TEDDY HANSEN | RUG TUFFTER + PAINTER"
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_beck_road_studios_final-71024_1_718016b5d707e3ce7abae22b153c87f6.jpg",
+                        "title": "TEDDY HANSEN | PAINTER + RUG TUFFTER"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_elliot_beck_road_studios_173305bdfb8159ac76bfe22b10814330.jpg",
-                        "title": "ELLIOT HOPES | TROUVE FINE ARTS\r\nMULTI-DISCLINARY ARTIST"
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_beck_road_studios_final-101024_1_33352d578ecb2fbc4cd382d2aaf8e8ce.jpg",
+                        "title": "ELLIOTT HOPES | MULTI-DISCIPLANRY ARTIST"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_soozy_beck_road_studios_819c029c408d29ede39b4469c077074b.jpg",
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_soozy-lipsey-update_13cb7090f7e5568727288523a2415902.png",
                         "title": "SOOZY LIPSEY | PAINTER"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_ash_beck_road_studios_46b77cfe1a105b174d5eac9ada830adc.jpg",
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_ash_beck_road_studios_0d91d10e37282b5e8c5a35f0b2331fca.jpg",
                         "title": "ASH MCKEAN | PAINTER"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_angela_beck_road_studios_eadbee50d91ff5caef7ff6c727d65834.jpg",
-                        "title": "ANGELA TORRES | PAINTER + INSTALLATION ARTIST"
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_angela_beck_road_studios_8c151665edd6267207eaef270e35b4a3.jpg",
+                        "title": "ANGELA TORES | PAINTER + INSTALLATION ARTIST"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_james_beck_road_studios_958654bbe4172d6d8f96aeb3890380c3.jpg",
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_beck_road_studios_final-141024_1_5adb57573f815cd44eb5b16566a3e35a.jpg",
                         "title": "JAMES ROBERT WHITE | SCIENCE FINE ARTIST"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_grace_beck_road_studios_83fd7983d48c06b4ade782d50291476e.jpg",
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_beck_road_studios_final-151024_1_a30951d71f862dfd71566cab82e05757.jpg",
                         "title": "GRACE WATTS | PAINTER"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_backcover_beck_road_studios_aa18c3f4cb7c09bd8b8c419d864990c9.jpg",
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11954/building_11954_backcover_beck_road_studios_c501bb418ba858a73c8d4b730d1857b6.jpg",
                         "title": "PARTICIPANTS + HOW TO GET HERE"
                     }
                 ],
@@ -1959,7 +1963,7 @@
                 "balloted": "No",
                 "description": "Tranquil Clerkenwell, so close to the bustling City has a distinct character and intriguing history. Once centred around great religious houses, the area has been the scene of fierce rebellion, innovative architecture, and major commerce.",
                 "end": "13:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11973/building_11973_charterhouse_050b5348bad7e5955962735154bae79d.jpeg",
@@ -1985,7 +1989,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "This is a newly built and fitted out architecture studio in London Fields. We designed it as a flexible working and event space with the opportunity to align personal wellbeing and professional endeavour in one supportive space.",
-                "end": "18:00:00",
+                "end": "15:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -2007,7 +2011,7 @@
                 ],
                 "name": "AH A Studio",
                 "new_venue_this_year": "Yes",
-                "start": "14:00:00",
+                "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11991"
             },
@@ -2052,7 +2056,7 @@
                 "balloted": "No",
                 "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights 3 scale architectural models of London: the New London Model, the City Model and the Royal Docks Model.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12022/building_12022_tlc-gallery-image_4a4ec9198eae3721250973552952142d.png",
@@ -2118,7 +2122,7 @@
                 "balloted": "No",
                 "description": "Yorkton Workshops is a newly remodeled building that merges Victorian features with modern industrial details.\r\nHouse to the design firm Pearson Lloyd.\r\nWe are thrilled to show you what we do and where we do it.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12042/building_12042_1pl_77e3d36574de6a169e4b1f6bdb82340f.jpg",
@@ -2185,7 +2189,7 @@
                 "balloted": "No",
                 "description": "A self-guided tour through the active conservation and restoration project revitalising the Crystal Palace Victorian Subway",
                 "end": "11:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12086/building_12086_general-social-media-posts-31_b7ee7bc23da612a8fb25f9c065285202.png",
@@ -2266,7 +2270,7 @@
                 "balloted": "No",
                 "description": "We are a newly opened workspace within the Old Town Hall estate - we've created a workspace that blends modern working with the heritage features of the building.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12211/building_12211_clockwisebromley_clublounge_60aeb47e02c8ab01b35e79d792128346.jpg",

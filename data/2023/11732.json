@@ -16,7 +16,38 @@
             "education"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11732",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T11:30:00+01:00",
+            "fully_booked": false,
+            "name": "Open House 'Meet the Architects'",
+            "notes": null,
+            "start": "2023-09-09T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11732",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Open House 'Meet the Architects'",
+            "notes": null,
+            "start": "2023-09-09T12:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Step free access",
@@ -89,5 +120,5 @@
     "name": "Hackney School of Food",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11732",
-    "ticketed_events": false
+    "ticketed_events": true
 }

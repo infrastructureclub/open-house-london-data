@@ -16,7 +16,23 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/6782",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided walking tour",
+            "notes": null,
+            "start": "2023-09-10T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -95,5 +111,5 @@
     "name": "Brentford Then and Now/Brentford through the Ages",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6782",
-    "ticketed_events": false
+    "ticketed_events": true
 }

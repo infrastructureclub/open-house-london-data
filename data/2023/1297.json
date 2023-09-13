@@ -16,7 +16,23 @@
             "housing"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "We may have to ask you to wait to be let in if any flats become especially crowded.",
+            "start": "2023-09-10T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {

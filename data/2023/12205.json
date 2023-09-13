@@ -10,7 +10,23 @@
             "scientific"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "The Observatory of the Croydon Astronomical Society stands in a field which was part of the WW2 Kenley Aerodrome. \r\nCome and see what we do!",
+            "start": "2023-09-10T13:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Refreshments"
     ],

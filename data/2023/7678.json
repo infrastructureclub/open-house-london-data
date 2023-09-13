@@ -16,7 +16,38 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7678",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour",
+            "notes": null,
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7678",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour",
+            "notes": null,
+            "start": "2023-09-10T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -103,5 +134,5 @@
     "name": "Kingston Historic walk",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/7678",
-    "ticketed_events": false
+    "ticketed_events": true
 }

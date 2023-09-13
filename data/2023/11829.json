@@ -10,7 +10,98 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "This a rare opportunity to get closer to the woman behind the books and discover what motivates her.",
+            "start": "2023-09-10T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-11",
+            "drop_in": true,
+            "end": "2023-09-11T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "This a rare opportunity to get closer to the woman behind the books and discover what motivates her.",
+            "start": "2023-09-11T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11829",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Meet the woman behind the books",
+            "notes": null,
+            "start": "2023-09-10T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11829",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Meet the woman behind the books",
+            "notes": null,
+            "start": "2023-09-10T12:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11829",
+            "capacity": null,
+            "date": "2023-09-11",
+            "drop_in": false,
+            "end": "2023-09-11T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Meet the woman behind the books",
+            "notes": null,
+            "start": "2023-09-11T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11829",
+            "capacity": null,
+            "date": "2023-09-11",
+            "drop_in": false,
+            "end": "2023-09-11T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Meet the woman behind the books",
+            "notes": null,
+            "start": "2023-09-11T12:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Bookshop"
     ],
@@ -53,5 +144,5 @@
     "name": "A bookshop for All",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11829",
-    "ticketed_events": false
+    "ticketed_events": true
 }

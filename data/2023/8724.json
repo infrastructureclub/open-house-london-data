@@ -19,7 +19,53 @@
             "civic"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Volunteers will be on hand to answer your questions about the church. Tours of the Bell Tower will take place at  11am, 12 noon and 2pm.",
+            "start": "2023-09-09T10:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T11:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Our normal service of Sunday worship in the Anglican tradition with procession, communion and sung liturgy. All are welcome to attend.",
+            "start": "2023-09-10T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Volunteers will be on hand to answer your questions about the church. Talk at 1.30pm: Tales from the Minster: names & stories down the ages.",
+            "start": "2023-09-10T11:30:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Step free access",
         "Accessible toilet",

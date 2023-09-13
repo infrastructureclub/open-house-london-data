@@ -17,7 +17,23 @@
             "public realm/landscape"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Guided tour of the private Seven Acre Lake in the Canons Park Estate.  Tours last around half an hour. Terrain can be bumpy in parts.",
+            "start": "2023-09-10T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Step free access",
         "Parking"

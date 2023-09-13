@@ -17,7 +17,38 @@
             "religious"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-06",
+            "drop_in": true,
+            "end": "2023-09-06T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "",
+            "start": "2023-09-06T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-06",
+            "drop_in": true,
+            "end": "2023-09-06T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "St. Joseph's Church and Quiet Garden will be open on the following days: 6, 7, 8, 11, 12, 13, 14, 15 & 16 September 2023, 10.00-17.00.",
+            "start": "2023-09-06T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Gender neutral toilets",
         "Accessible toilet",

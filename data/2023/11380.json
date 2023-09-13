@@ -11,7 +11,53 @@
             "art studio"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-08",
+            "drop_in": true,
+            "end": "2023-09-08T22:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Over 70 artists will be opening their studio doors to showcase and sell their work.",
+            "start": "2023-09-08T18:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Over 70 artists are opening their studio doors to the public to showcase and sell their work.",
+            "start": "2023-09-09T14:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Over 70 artists are opening their studio doors to the public to showcase and sell their work.",
+            "start": "2023-09-10T14:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Food and drink",
         "Toilets",

@@ -16,7 +16,53 @@
             "religious"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-08-06",
+            "drop_in": true,
+            "end": "2023-08-06T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "",
+            "start": "2023-08-06T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-08-18",
+            "drop_in": true,
+            "end": "2023-08-18T20:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "BBQ activity to welcome Jones' family to the Suburb",
+            "start": "2023-08-18T16:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-02",
+            "drop_in": true,
+            "end": "2023-09-02T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Induction Service of Minister Aled Jones",
+            "start": "2023-09-02T14:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Parking",
         "Refreshments",

@@ -16,7 +16,23 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Our Opening times will read:\r\nGuided Tours from 10am to 4pm with last tour/entry at 3.00pm\r\nNo booking required\r\nEntry is Free\r\nAll welcome",
+            "start": "2023-09-10T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Cloakroom",
         "Toilets",

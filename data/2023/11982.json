@@ -8,7 +8,23 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11982",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "INDUSTRY + CHANGE THROUGH HACKNEY WICK WALKING TOUR",
+            "notes": null,
+            "start": "2023-09-09T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -56,5 +72,5 @@
     "name": "Industry and change through Hackney Wick",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11982",
-    "ticketed_events": false
+    "ticketed_events": true
 }

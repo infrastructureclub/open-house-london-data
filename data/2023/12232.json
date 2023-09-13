@@ -16,7 +16,23 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12232",
+            "capacity": null,
+            "date": "2023-09-07",
+            "drop_in": false,
+            "end": "2023-09-07T20:00:00+01:00",
+            "fully_booked": false,
+            "name": "Twentieth Century Croydon Walk",
+            "notes": null,
+            "start": "2023-09-07T18:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -62,5 +78,5 @@
     "name": "Twentieth Century Croydon walk",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12232",
-    "ticketed_events": false
+    "ticketed_events": true
 }

@@ -16,7 +16,23 @@
             "industrial"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "A tour on the hour every hour of our glass processing factory by our Managing Director",
+            "start": "2023-09-09T08:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Parking",
         "Refreshments",

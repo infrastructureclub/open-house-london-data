@@ -16,7 +16,23 @@
             "religious"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Musical items performed during the day.\r\nTea/coffee and cake served.\r\nInformation leaflets available.\r\nPrayer space.",
+            "start": "2023-09-09T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Step free access",
         "Food and drink",

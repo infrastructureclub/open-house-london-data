@@ -18,7 +18,23 @@
             "garden"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "There will be drop in tours running throughout the day, with groups of 10 able to go inside the mausoleum at any one time.",
+            "start": "2023-09-10T13:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {

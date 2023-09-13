@@ -16,7 +16,23 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10295",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "South Ealing walking tour",
+            "notes": null,
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Food and drink"
     ],
@@ -180,5 +196,5 @@
     "name": "Ealing South Walk",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10295",
-    "ticketed_events": false
+    "ticketed_events": true
 }

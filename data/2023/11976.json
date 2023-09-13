@@ -10,7 +10,23 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking Tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11976",
+            "capacity": null,
+            "date": "2023-09-08",
+            "drop_in": false,
+            "end": "2023-09-08T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Shoreditch to De Beauvoir walking tour",
+            "notes": null,
+            "start": "2023-09-08T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Food and drink",
         "Accessible toilet"
@@ -89,5 +105,5 @@
     "name": "Shoreditch to De Beauvoir walking tour",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11976",
-    "ticketed_events": false
+    "ticketed_events": true
 }

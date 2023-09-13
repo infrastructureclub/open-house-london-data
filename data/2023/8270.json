@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "Architecture and art produced in an unmodified street of 56 houses, railway arch studios, and private galleries between 1974 and 2022. Beck Rd is an iconic artist haven and its residents key contributors to UK art history.",
+    "description": "Architecture and art produced in an unmodified street of 56 houses, railway arch studios, and private galleries between 1974 and 2023. Beck Rd is an iconic artist haven and its residents are key contributors to UK art history.",
     "design": {
         "designers": [
             {
@@ -10,20 +10,18 @@
             }
         ],
         "periods": [
-            "Historical house",
             "Residence",
-            "Restaurant/bar",
             "Walk/tour",
             "Victorian"
         ],
         "types": [
-            "concert/performance space",
             "community/cultural",
             "gallery",
             "event",
             "art studio",
             "art in the public realm",
-            "bridge"
+            "bridge",
+            "historical house"
         ]
     },
     "events": [
@@ -113,8 +111,8 @@
             "end": "2023-09-16T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in",
-            "notes": "#Iamremarkable: Mindful workshop. Located inside number 8.",
-            "start": "2023-09-16T14:00:00+01:00",
+            "notes": "#IAmRemarkable: A workshop inviting participants to challenge the social perception around self promotion.Ages 16+, Located inside number 8.",
+            "start": "2023-09-16T15:00:00+01:00",
             "ticketed": false
         },
         {
@@ -167,7 +165,7 @@
         {
             "heading": "History of the street",
             "paragraphs": [
-                "Beck Road is a street with a history in its present form since 1890.  The 56 houses and their residents were first recorded in the 1901 census. In the 1970s artists came to live and work among people born there. In the 1980s they began exhibiting individually at home and collaborated several times to present Open Studios with up to 16 artists showing in studios at the same time. An artist-run space has exhibited for the last 6 years."
+                "Beck Road is a street with a history in its present form since 1890.  The 56 houses and their residents were first recorded in the 1901 census. In the 1970s artists came to live and work among people born there. In the 1980s they began exhibiting individually at home and collaborated several times to present Open Studios with  artists showing in studios at the same time. An artist-run space has exhibited for the last 8 years."
             ]
         },
         {
@@ -315,7 +313,7 @@
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8270/building_8270_8v6a2719_de47372042aef2ca4a4f6b6e0d01634f.jpg",
             "description": null,
-            "title": "Leanne Finn Davies sculptural Installation",
+            "title": "Leanne Finn Davis sculptural Installation",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8270_8v6a2719_de47372042aef2ca4a4f6b6e0d01634f.jpg"
         },
         {
@@ -379,23 +377,29 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8270_8v6a3245_5489f3fa808821842bcef858f98cdfc2.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8270/building_8270_8v6a2866_a45b8a5cf1f8034cbf2172333496dc31.jpg",
-            "description": null,
-            "title": "",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8270_8v6a2866_a45b8a5cf1f8034cbf2172333496dc31.jpg"
-        },
-        {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8270/building_8270_8v6a2804_820e63447196fdcf8373f337d5271386.jpg",
             "description": null,
             "title": "Photo works by Jeni Baines",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8270_8v6a2804_820e63447196fdcf8373f337d5271386.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8270/building_8270_exhibition-program_28f49a0d19dc569319bfb77cd1816fdb.png",
+            "description": null,
+            "title": "Exhibition Program Beyond Beck Road (part II) 2023",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8270_exhibition-program_28f49a0d19dc569319bfb77cd1816fdb.png"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/8270/building_8270_bbrii-for-oh_d66e3330b4dbce3cd1c36faeefa0f877.png",
+            "description": null,
+            "title": "BBRII",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8270_bbrii-for-oh_d66e3330b4dbce3cd1c36faeefa0f877.png"
         }
     ],
     "links": [],
     "location": {
         "address": "Beck Road, Hackney, E8 4RE",
-        "latitude": 51.5368481,
-        "longitude": -0.0569698,
+        "latitude": 51.53684,
+        "longitude": -0.05696,
         "meeting_point": null,
         "travel_info": [
             "Tube: Bethnal Green",

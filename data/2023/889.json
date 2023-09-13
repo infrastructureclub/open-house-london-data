@@ -26,6 +26,36 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "A chance to explore Swedenborg House's meeting rooms, library spaces and special displays and free entry to its current exhibition.",
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/889",
+            "capacity": null,
+            "date": "2023-09-07",
+            "drop_in": false,
+            "end": "2023-09-07T21:00:00+01:00",
+            "fully_booked": false,
+            "name": "Walking the Visionary London of Emanuel Swedenborg",
+            "notes": null,
+            "start": "2023-09-07T18:30:00+01:00",
+            "ticketed": true
+        },
+        {
             "activity_type": "Talk",
             "all_day": false,
             "balloted": false,

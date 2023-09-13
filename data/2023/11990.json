@@ -16,7 +16,68 @@
             "housing"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-08",
+            "drop_in": true,
+            "end": "2023-09-08T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "",
+            "start": "2023-09-08T10:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "",
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11990",
+            "capacity": null,
+            "date": "2023-09-08",
+            "drop_in": false,
+            "end": "2023-09-08T17:30:00+01:00",
+            "fully_booked": false,
+            "name": "Tour",
+            "notes": null,
+            "start": "2023-09-08T16:45:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11990",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T17:30:00+01:00",
+            "fully_booked": false,
+            "name": "Tour",
+            "notes": null,
+            "start": "2023-09-09T16:45:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Step free access",
         "Gender neutral toilets",
@@ -103,5 +164,5 @@
     "name": "Kenworthy Road",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/11990",
-    "ticketed_events": false
+    "ticketed_events": true
 }

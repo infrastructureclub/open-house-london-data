@@ -22,7 +22,68 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Explore the House at your own pace. Maps and audio guides available.",
+            "start": "2023-09-10T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2840",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T11:45:00+01:00",
+            "fully_booked": false,
+            "name": "Family House Tour",
+            "notes": null,
+            "start": "2023-09-10T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2840",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T14:45:00+01:00",
+            "fully_booked": false,
+            "name": "History of the Gardens Talk",
+            "notes": null,
+            "start": "2023-09-10T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2840",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T15:45:00+01:00",
+            "fully_booked": false,
+            "name": "Guided House Tour",
+            "notes": null,
+            "start": "2023-09-10T15:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Refreshments",
         "Food and drink",
@@ -144,5 +205,5 @@
     "name": "Charlton House & Gardens",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2840",
-    "ticketed_events": false
+    "ticketed_events": true
 }

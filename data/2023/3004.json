@@ -16,7 +16,38 @@
             "civic"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-07",
+            "drop_in": true,
+            "end": "2023-09-07T19:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Photo exhibition and display from the Hounslow & District History Society in Room One, Isleworth Public Hall",
+            "start": "2023-09-07T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/3004",
+            "capacity": null,
+            "date": "2023-09-07",
+            "drop_in": false,
+            "end": "2023-09-07T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour and exhibition",
+            "notes": null,
+            "start": "2023-09-07T14:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Step free access",
         "Food and drink",
@@ -159,5 +190,5 @@
     "name": "Isleworth Public Hall",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/3004",
-    "ticketed_events": false
+    "ticketed_events": true
 }

@@ -23,7 +23,68 @@
             "mixed use"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "An exhibition of works by local artists, including members of Osterley Art for All and friends.",
+            "start": "2023-09-09T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Come enjoy the beautiful Meeting House & gardens, and learn a little about its history!",
+            "start": "2023-09-09T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2688",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Crochet Taster Session",
+            "notes": null,
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2688",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Performance by the Syon Early Music Group",
+            "notes": null,
+            "start": "2023-09-09T14:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Step free access",
         "Gender neutral toilets",
@@ -119,5 +180,5 @@
     "name": "Quaker Meeting House - Brentford & Isleworth",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2688",
-    "ticketed_events": false
+    "ticketed_events": true
 }

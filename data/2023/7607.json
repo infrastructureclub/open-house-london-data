@@ -21,7 +21,98 @@
             "restaurant/bar"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7607",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T11:00:00+01:00",
+            "fully_booked": false,
+            "name": "The Department Store guided tour",
+            "notes": null,
+            "start": "2023-09-09T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7607",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T11:30:00+01:00",
+            "fully_booked": false,
+            "name": "The Department Store guided tour",
+            "notes": null,
+            "start": "2023-09-09T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7607",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T11:45:00+01:00",
+            "fully_booked": false,
+            "name": "The Department Store guided tour",
+            "notes": null,
+            "start": "2023-09-09T10:45:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7607",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "The Department Store guided tour",
+            "notes": null,
+            "start": "2023-09-09T11:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7607",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T12:45:00+01:00",
+            "fully_booked": false,
+            "name": "The Department Store guided tour",
+            "notes": null,
+            "start": "2023-09-09T11:45:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7607",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "The Department Store guided tour",
+            "notes": null,
+            "start": "2023-09-09T12:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Architect on site",
         "Toilets"
@@ -224,5 +315,5 @@
     "name": "The Department Store",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/7607",
-    "ticketed_events": false
+    "ticketed_events": true
 }

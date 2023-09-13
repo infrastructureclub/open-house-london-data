@@ -16,7 +16,68 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Short 20 minute tours of the windmill  - first come first served running throughout the afternoon.",
+            "start": "2023-09-09T13:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Short 20 minute tours of the windmill  - first come first served running throughout the afternoon.",
+            "start": "2023-09-10T13:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/1971",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "British Sign Language (BSL) Tour of Brixton Windmill",
+            "notes": null,
+            "start": "2023-09-09T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/1971",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "British Sign Language (BSL) Tour of Brixton Windmill",
+            "notes": null,
+            "start": "2023-09-09T15:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "BSL guide available",
         "Gender neutral toilets",
@@ -156,5 +217,5 @@
     "name": "Brixton Windmill",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1971",
-    "ticketed_events": false
+    "ticketed_events": true
 }

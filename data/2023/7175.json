@@ -16,7 +16,98 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": true,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "This is an opportunity to explore Shrewsbury House & its gardens at your own pace.\r\nPrinted Guides available.\r\nNB Some rooms may be closed.",
+            "start": "2023-09-09T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": true,
+            "end": "2023-09-10T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "This is an opportunity to explore Shrewsbury House & its gardens at your own pace.\r\nPrinted Guides available.\r\nNB Some rooms may be closed.",
+            "start": "2023-09-10T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7175",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of Shrewsbury House and Grounds",
+            "notes": null,
+            "start": "2023-09-09T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7175",
+            "capacity": null,
+            "date": "2023-09-09",
+            "drop_in": false,
+            "end": "2023-09-09T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of Shrewsbury House and Gardens",
+            "notes": null,
+            "start": "2023-09-09T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7175",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour of Shrewsbury House and Gardens",
+            "notes": null,
+            "start": "2023-09-10T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7175",
+            "capacity": null,
+            "date": "2023-09-10",
+            "drop_in": false,
+            "end": "2023-09-10T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour of Shrewsbury House and Gardens",
+            "notes": null,
+            "start": "2023-09-10T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Food and drink",
         "Baby changing facilities",
@@ -130,5 +221,5 @@
     "name": "Shrewsbury House",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/7175",
-    "ticketed_events": false
+    "ticketed_events": true
 }
