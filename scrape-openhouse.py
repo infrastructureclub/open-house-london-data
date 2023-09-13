@@ -4,6 +4,7 @@ import sys
 import json
 import re
 import time
+import unicodedata
 from datetime import datetime, timedelta
 
 import requests
@@ -263,6 +264,7 @@ for building in buildings:
                 if notes_node:
                     notes = notes_node[0]
                 time_string = event.xpath(".//p[not(@*)]")[0].text_content()
+                time_string = unicodedata.normalize("NFKD", time_string)
 
                 all_day = False
                 if time_string == "All day":
