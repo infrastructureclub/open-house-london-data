@@ -92,6 +92,6 @@ for date, locations in dates.items():
                     start_time,
                     end_time,
                     "Yes" if location["ticketed_events"] else "No",
-                    fully_booked,
+                    "Yes" if fully_booked else "No",
                 ]
             )
