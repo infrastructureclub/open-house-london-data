@@ -3,13 +3,16 @@ import os
 import json
 import csv
 from collections import defaultdict
+from datetime import datetime
 
 from dateutil import parser
+import pytz
 import simplekml
 from shapely.geometry import mapping
 from shapely.geometry import Point
 
 year = 2023
+timezone = pytz.timezone("Europe/London")
 data_path = "data/%s" % year
 maps_path = "maps/%s" % year
 
@@ -28,6 +31,7 @@ for filename in os.listdir(data_path):
     if data["all_week"]:
         dates["all_week"].append(data)
 
+now = timezone.localize(datetime.now())
 
 for date, locations in sorted(dates.items()):
     print("Writing %s..." % date)
@@ -45,35 +49,39 @@ for date, locations in sorted(dates.items()):
 
         # Choose the most open state
         # If any events are None it means we can't determine booking status
-        for event in location["events"]:
-            if event["date"] == date:
-                # Ticket status
-                if location["ticketed_events"]:
-                    if fully_booked != "Unknown":
-                        if event["fully_booked"] == False:
-                            fully_booked = "No"
-                        if event["fully_booked"] == None:
-                            fully_booked = "Unknown"
-                else:
-                    fully_booked = ""
-
-                # Open/close time
-                event_start = parser.parse(event["start"])
-                if not start or event_start < start:
-                    start = event_start
-
-                event_end = parser.parse(event["end"])
-                if not end or event_end > end:
-                    end = event_end
-
-                break
-
-            if event["balloted"]:
-                balloted_events = True
-
-        else:
+        if not location["events"]:
             # No events, this must be an all_week thing
             fully_booked = "Unknown"
+
+        else:
+            for event in location["events"]:
+                if event["date"] == date:
+                    # Open/close time
+                    event_start = parser.parse(event["start"])
+                    if not start or event_start < start:
+                        start = event_start
+
+                    event_end = parser.parse(event["end"])
+                    if not end or event_end > end:
+                        end = event_end
+
+                    # Ticket status
+                    if location["ticketed_events"]:
+                        if fully_booked != "Unknown":
+                            # If an event is in the past we discard it for figuring
+                            # out fully_booked status, as it no longer matters and
+                            # it defaults to false on the OH website after the
+                            # event is over. This is a hack and we should do it
+                            # differently.
+                            if event["fully_booked"] == False and event_start > now:
+                                fully_booked = "No"
+                            if event["fully_booked"] == None:
+                                fully_booked = "Unknown"
+                    else:
+                        fully_booked = ""
+
+                if event["balloted"]:
+                    balloted_events = True
 
         start_time = None
         end_time = None
