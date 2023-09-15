@@ -1426,7 +1426,7 @@
                 "balloted": "No",
                 "description": "Numbered amongst the UK's architectural glories and boasting 66 acres of beautiful grounds, the Royal Hospital Chelsea has been home to the iconic Army veteran community fondly known as the 'Chelsea Pensioners' since its foundation in 1692. \r\nThe Great Hall and Chapel will not be accessible from 12.00-14.00 on Saturday 16th September due to an internal event. The remainder of the site will be open during this time. \r\n\r\nVisitors should note that filming will be taking place during the afternoon of Sunday 17th September. If you would like to be excluded from any filming, please let our staff and volunteers know on arrival at the site.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/1538/building_1538_figure-court-2_15599543c5de99cd7e32bddfc217626a.jpg",
@@ -2226,7 +2226,7 @@
                 "balloted": "No",
                 "description": "Grade II listed Town Hall clad in Portland Stone. The building incorporates Art Deco and Nordic Classicism styles, also being influenced by the work of local activist William Morris. Extensively refurbished in 2019 by Hawkins Brown.",
                 "end": "12:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2285/building_2285_19019_n70657_high_4f6aa17edbb14e3545a3eb7e50bdaf03.jpg",
@@ -2261,7 +2261,7 @@
                 "balloted": "No",
                 "description": "The recently automated impounding station controls the water level in the docks using the original Worthington Simpson pumps driven by Lancashire dynamo.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2328/building_2328_impounding-station-internal_5ba2d85977d70534b1c61c51f6dd9028.jpg",
@@ -2277,6 +2277,33 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/2328"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1023521,
+                    51.4323081
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Opened 1837, with monuments to famous Victorians (Doulton, Tate, Reuter, Mrs Beeton). 69 Grade II/II* listed structures, including Greek Chapel c1872, architect uncertain, mausolea by EM Barry and GE Street and entrance arch by W Tite.",
+                "end": "18:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/2331/building_2331_main-header-wnc_3dbe2919b6522444fb16b859add762a1.jpg",
+                        "title": "West Norwood Cemetery National Heritage Lottery Project"
+                    }
+                ],
+                "name": "West Norwood Cemetery",
+                "new_venue_this_year": "Yes",
+                "start": "09:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/2331"
             },
             "type": "Feature"
         },
@@ -3898,7 +3925,7 @@
                 "balloted": "No",
                 "description": "A double-height ark floats above a masonry base & entrance footbridge.  Off the elevated living area a smokers' balcony overlooks the lush garden below. Above, semi circular terrace and winter garden nestles within the wooded surrounds.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/6915/building_6915_approach-view-down-wood-lane_d0e403bd5409e17a688dbdf4e9a537e6.jpg",
@@ -6564,7 +6591,7 @@
                 "balloted": "No",
                 "description": "The tour charts the evolution of Covent Garden-incorporating the piazza, the wholesale produce market, social residential areas and supporting neighbourhoods - highlighting the social and commercial highs, lows and challenges.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/11313/building_11313_b0a5c0a7-7118-4970-97cc-843cc023af07_ea725b7de9868e062bc2081435e04f7e.jpeg",
@@ -7987,7 +8014,7 @@
                 "balloted": "No",
                 "description": "Tours of Gap House\r\nJust 8ft wide to the street, this house is ingeniously slotted into an unpromising plot to create a comfortable, low energy, family home that makes a virtue of its constrained site.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12014/building_12014_pitman-tozer-gap-house-5-1600x1067_7dc6a7ad5154d4949b8d29f6eb2ffb6f.jpg",
@@ -8465,8 +8492,20 @@
                 "fully_booked": "",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12158/building_12158_horiz2_5d55df8cb34bd03f726d7fe8ec71e036.jpg",
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12158/building_12158_stoke-newington-extension_2_e96f47e07e1678af492a4b2d10974d97.jpg",
                         "title": "Exterior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12158/building_12158_stoke-newington-extension_1_5515194b1cfd0299a5e230ed96ed766a.jpg",
+                        "title": "Interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12158/building_12158_stoke-newington-extension_3_3c8529d1d9c2903f7df867b452e1e183.jpg",
+                        "title": "Exterior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12158/building_12158_stoke-newington-extension_4_a707e5a68e85908b3b4aee5198ba150c.jpg",
+                        "title": "Facade materials"
                     }
                 ],
                 "name": "House extension in Stoke Newington",
@@ -8964,6 +9003,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12287"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09406,
+                    51.47077
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Newbuild contemporary house with bespoke interiors on the site of a small garage .\r\nThis is a selfbuild project by developer architect Edgley Design, continuing from restoration of the shop and flat infront at 114 Denmark Hill in 2020",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2023/12288/building_12288_5-coldharbour-place-photo-230907_7d15af3e6ceae0ffb22b008c6e667fb1.jpg",
+                        "title": "5 Coldharbour Place"
+                    }
+                ],
+                "name": "5 Coldharbour Place",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12288"
             },
             "type": "Feature"
         }
