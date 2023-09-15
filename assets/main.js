@@ -610,6 +610,9 @@
           } else if (err.status == 403) {
             // TODO: we could try reauthing here?
             console.log(`Spreadsheet returned 403, possibly session expired`);
+          } else if (err.status == 401) {
+            // TODO: we could try reauthing here too?
+            console.log(`Spreadsheet returned 401, session def expired`);
           }
         }
       }
