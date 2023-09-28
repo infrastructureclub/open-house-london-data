@@ -412,6 +412,7 @@
     const els = [];
 
     let lastDate;
+    let defaultDate = 'all';
     for (const datestr of [...listingDates, 'all']) {
       if (datestr == 'all_week') {
         // Events scheduled to last all week
@@ -426,7 +427,6 @@
 
       const date = new Date(datestr);
       date.setHours(0, 0, 0, 0);
-      if (hashYear == null && date < today) continue;
 
       if (lastDate && date - lastDate > 24 * 60 * 60 * 1000 * 1.5) {
         els.push(`<div role="separator" class="date-gap"></div>`);
@@ -434,7 +434,13 @@
 
       const mm_dd = `${date.getDate()}/${date.getMonth() + 1}`;
       const day = date.toLocaleString('en-GB', {weekday: 'short'});
-      const dayLabel = (date - today == 0) ? "Today" : day;
+      let dayLabel = day;
+      if (date - today == 0) {
+        dayLabel = 'Today';
+        defaultDate = datestr;
+      } else {
+        dayLabel = day;
+      }
       const weekdayClass = (day == 'Sat' || day == 'Sun') ? "weekend" : "weekday";
 
       els.push(`<input type="radio" value="${datestr}" id="date-${datestr}" name="date"><label for="date-${datestr}" class="${weekdayClass}">${mm_dd} <small>${dayLabel}</small></label>`);
@@ -442,7 +448,7 @@
       lastDate = date;
     }
     dateEl.insertAdjacentHTML('afterbegin', els.join(''));
-    document.forms.filter.date.value = document.forms.filter.date[0].value;
+    document.forms.filter.date.value = defaultDate;
     document.body.classList.remove('not-ready');
   };
 
