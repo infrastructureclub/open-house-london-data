@@ -229,6 +229,7 @@
       img.src = actualImages[0].archive_url;
       img.alt = actualImages[0].title;
       img.addEventListener('load', () => img.style.opacity = 1);
+      setTimeout(() => { if (!img.complete){ img.style.transitionDuration = '1s' }}, 100);
       img.style.opacity = 0;
     } else {
       div.querySelector('img.hero').remove();
