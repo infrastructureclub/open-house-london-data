@@ -3,6 +3,7 @@
 (async () => {
   const formatTimePart = (n) => `${String(Math.floor(n)).padStart(2, '0')}`;
   const formatTime = (t) => `${formatTimePart(t)}:${formatTimePart((t % 1) * 60)}`;
+  const strcmp = (a, b) => (a > b) - (a < b);
 
   const hash = new URLSearchParams(document.location.hash.substr(1));
   const today = new Date();
@@ -537,11 +538,13 @@
   class GoogleClient {
     CLIENT_ID = '136294280370-vkc203h8fv0ojaee9j4n1fqfick1pirg.apps.googleusercontent.com';
     API_KEY = 'AIzaSyBJ6FV7dy5vHpxevMub_EXm2PPpg-OSD3M';
-    SCOPES = 'https://www.googleapis.com/auth/drive.file';
-    DISCOVERY_DOC = 'https://sheets.googleapis.com/$discovery/rest?version=v4';
+    SCOPES = 'https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/drive.appdata';
+    DISCOVERY_DOCS = ['https://sheets.googleapis.com/$discovery/rest?version=v4', 'https://www.googleapis.com/discovery/v1/apis/drive/v3/rest'];
 
     constructor() {
+      this.configFile = null;
       this.spreadsheetId = null;
+      this.googleReady = null;
     }
 
     async initGoogle() {
@@ -551,117 +554,276 @@
         https://www.googleapis.com/auth/drive.appfolder
         https://www.googleapis.com/auth/drive.resource
        */
+      if (!this.googleReady) {
+        const loadScript = (src) => {
+          return new Promise((res, rej) => {
+            const s = document.createElement('script');
+            s.setAttribute('src', src);
+            s.addEventListener('load', res);
+            s.addEventListener('error', rej);
+            document.body.appendChild(s);
+          });
+        };
+        const loadApi = (api) => {
+          return new Promise((res, rej) => {
+            gapi.load(api, {callback: res, onerror: rej});
+          });
+        };
+        const loadGapi = async () => {
+          await loadScript('https://apis.google.com/js/api.js');
+          await Promise.all([loadApi('client')]);
+          await gapi.client.init({
+            apiKey: this.API_KEY,
+            discoveryDocs: this.DISCOVERY_DOCS,
+          });
+        };
+        const loadGis = async () => {
+          await loadScript('https://accounts.google.com/gsi/client');
+        };
+        this.googleReady = Promise.all([loadGapi(), loadGis()]);
+      }
+      return await this.googleReady;
+    }
 
-      const loadScript = (src) => {
-        return new Promise((res, rej) => {
-          const s = document.createElement('script');
-          s.setAttribute('src', src);
-          s.addEventListener('load', res);
-          s.addEventListener('error', rej);
-          document.body.appendChild(s);
-        });
-      };
-      const loadApi = (api) => {
-        return new Promise((res, rej) => {
-          gapi.load(api, {callback: res, onerror: rej});
-        });
-      };
-      const loadGapi = async () => {
-        await loadScript('https://apis.google.com/js/api.js');
-        await Promise.all([loadApi('client'), loadApi('picker')]);
-        await gapi.client.init({
-          apiKey: this.API_KEY,
-          discoveryDocs: [this.DISCOVERY_DOC],
-        });
-      };
-      const loadGis = async () => {
-        await loadScript('https://accounts.google.com/gsi/client');
+    /* Google's docs are bad, but their intention is for users
+     * to do authentication before authorisation. `login_hint`
+     * is used to pass the email address from the a12n flow to
+     * a11n. Without this it will always show account selection
+     * if the user has more than one account.
+     */
+    async authoriseGoogle(select_account = false) {
+      /* The a11n flow always creates a popup, so should only be
+       * called from a click handler.
+       */
+      return await new Promise((res, rej) => {
+        /* Create the token client fresh each time, it's not heavy */
         this.tokenClient = google.accounts.oauth2.initTokenClient({
           client_id: this.CLIENT_ID,
           scope: this.SCOPES,
-          // FIXME: make this a Promise too
-          callback: null,
-          // TODO
-          error_callback: null,
+          login_hint: localStorage.getItem('infraclub-google-login-hint'),
+          callback: (resp) => {
+            if (resp.error !== undefined) rej(resp);  // {error, error_description, error_uri}
+            if (!resp.access_token) rej(resp);
+            localStorage.setItem('infraclub-google-access-token', resp.access_token);
+            res(resp.access_token);
+          },
+          error_callback: (err) => {
+            console.log(`Error ${err.type} requesting token`);
+            rej(err);  // {type, message, stack}
+          },
         });
-      };
-      await Promise.all([loadGapi(), loadGis()]);
-    };
 
-    async authGoogle() {
-      // Should only be called from a click handler as it creates a popup
-      return await new Promise((res, rej) => {
-        this.tokenClient.callback = (resp) => {
-          if (resp.error !== undefined) rej(resp);
-          if (!resp.access_token) rej(resp);
-          localStorage.setItem('infraclub-google-access-token', resp.access_token);
-          res(resp.access_token);
-        };
-
-        // If they've connected before we only need a click through
-        const prompt = (gapi.client.getToken() === null) ? 'consent' : '';
-        this.tokenClient.requestAccessToken({prompt});
+        /* In order of noisiness (all will open a popup):
+         *  none           - no interaction allowed, only seems to work when the token's already valid
+         *  ''             - prompt for account and consent as needed
+         *  select_account - prompt for account even if login_hint is set, consent as needed
+         *  consent        - prompt for account and consent always
+         */
+        this.tokenClient.requestAccessToken({prompt: select_account ? 'select_account' : ''});
       });
     }
 
-    async checkSpreadsheet() {
-      const spreadsheetId = localStorage.getItem('infraclub-spreadsheet-id');
-      // If this fails we want to show the create/pick button
-      if (spreadsheetId) {
-        try {
-          const spreadsheet = await gapi.client.sheets.spreadsheets.get({ spreadsheetId });
-          this.spreadsheetId = spreadsheetId;
-        } catch (err) {
-          if (err.status == 404) {
-            console.log(`Spreadsheet returned 404`);
-          } else if (err.status == 403) {
-            // TODO: we could try reauthing here?
-            console.log(`Spreadsheet returned 403, possibly session expired`);
-          } else if (err.status == 401) {
-            // TODO: we could try reauthing here too?
-            console.log(`Spreadsheet returned 401, session def expired`);
+    async authenticateGoogle() {
+      /* This doesn't require a popup, but doesn't
+       * really provide anything other than email and
+       * user ID.
+       *
+       * Also annoyingly only allows portless URLs.
+       */
+      return await new Promise((res, rej) => {
+        google.accounts.id.initialize({
+          client_id: this.CLIENT_ID,
+          auto_select: true,
+          callback: ({credential}) => {
+            const payload = JSON.parse(atob(credential.split('.')[1]));
+            console.log(`User identified as ${payload.sub}`);
+            localStorage.setItem('infraclub-google-login-hint', payload.sub);
+            res(payload.sub);
           }
+        });
+        google.accounts.id.prompt((notification) => {
+          console.log(`Authentication notification`, notification);
+        });
+      });
+    }
+
+    /* This can realistically only be deleted by
+     * revoking this app's access, so keep it small. */
+    async getConfigFile() {
+      const list = await gapi.client.drive.files.list({
+        spaces: 'appDataFolder',
+        fields: 'files(id, name, version, owners)',
+        q: 'name="config.json"',
+        pageSize: 10,
+      });
+      console.log(`Number of files in appDataFolder: ${list.result.files.length}`);
+      if (list.result.files.length == 0) {
+        const newFile = await gapi.client.drive.files.create({
+          /* Google drive docs are 100% lies */
+          name: 'config.json',
+          parents: ['appDataFolder'],
+          uploadType: 'media',
+          mimeType: 'application/json',
+          fields: 'id, name, version, owners',
+        });
+        return newFile.result;
+      }
+      /* Deal with the list/create race */
+      if (list.result.files.length > 1) {
+        list.result.files.sort((a, b) => strcmp(a.id, b.id));
+        for (const [i, file] of list.result.files.entries()) {
+          if (i == 0) continue;
+          console.log(`Deleting redundant config file ${file.id}`);
+          await gapi.client.drive.files.delete({
+            fileId: file.id,
+          });
         }
       }
-      return this.spreadsheetId;
-    };
+      return list.result.files[0];
+    }
 
-    setSpreadsheet(spreadsheetId) {
+    async loadConfig() {
+      /* I can't imagine why this wouldn't be the case */
+      if (this.configFile.owners[0].me) {
+        /* permissionId isn't the same as the Google user ID, annoyingly */
+        localStorage.setItem('infraclub-google-login-hint', this.configFile.owners[0].emailAddress);
+      }
+      const content = await gapi.client.drive.files.get({
+        fileId: this.configFile.id,
+        alt: 'media',
+      });
+      if (!content.body) {
+        console.log(`Empty config`);
+        /* Migration for pre-config users */
+        if (this.spreadsheetId) this.saveConfig();
+        return;
+      }
+      const config = JSON.parse(content.body);
+      console.log(`Loaded config from ${this.configFile.id} version ${this.configFile.version}`, config);
+      if (!config.spreadsheetId) return;
+      this.setSpreadsheetId(config.spreadsheetId);
+    }
+
+    async saveConfig() {
+      console.warn(`Saving ${this.spreadsheetId}`);
+      const data = {
+        'spreadsheetId': this.spreadsheetId,
+      };
+      if (false) {
+        /* https://github.com/google/google-api-javascript-client/issues/672 */
+        return await gapi.client.drive.files.update({
+          fileId: this.configFile.id,
+          uploadType: 'media',
+          resource: JSON.stringify(data),
+          fields: 'id, version, name',
+        });
+      } else {
+        return await gapi.client.request({
+          path: `https://www.googleapis.com/upload/drive/v3/files/${this.configFile.id}`,
+          method: 'PATCH',
+          params: {
+            uploadType: 'media',
+            fields: 'id, version, name',
+          },
+          body: JSON.stringify(data),
+        });
+      }
+    }
+
+    async initConfigFile() {
+      if (!this.configFile) {
+        this.configFile = await this.getConfigFile();
+      }
+    }
+
+    async handleAuthFailure(promise) {
+      let disconnect = false;
+      try {
+        return await promise;
+      } catch (err) {
+        if (err.status == 404) {
+          console.log(`Spreadsheet returned 404, possibly session expired`, err);
+          disconnect = true;
+        } else if (err.status == 403) {
+          console.log(`Spreadsheet returned 403, possibly no permissions or rate limited`, err);
+          disconnect = true;
+        } else if (err.status == 401) {
+          console.log(`Spreadsheet returned 401, session expired or permission revoked`, err);
+          disconnect = true;
+        } else {
+          throw err;
+        }
+      }
+      if (disconnect) {
+        googleStatus.innerText = 'Connect';
+        document.querySelector('.google').classList.remove('connected');
+        gapi?.client?.setToken(null);
+      }
+    }
+
+    async initSpreadsheet() {
+      if (this.spreadsheetId) {
+        gc.pollSpreadsheet();
+      }
+      if (!this.spreadsheetId) {
+        this.setSpreadsheetId(await this.getSpreadsheetId());
+        /* loadConfig will have been called, so we know this is empty/wrong */
+        this.saveConfig();
+      }
+      const spreadsheet = await gapi.client.sheets.spreadsheets.get({ spreadsheetId: this.spreadsheetId });
+    }
+
+    async pollSpreadsheet() {
+      const file = await gapi.client.drive.files.get({
+        fileId: this.spreadsheetId,
+        fields: 'id, version, trashed',
+      });
+      if (!file.result.id) {
+        console.log(`Spreadsheet ${this.spreadsheetId} not found`);
+        this.setSpreadsheetId(null);
+        return;
+      }
+      if (file.result.trashed) {
+        console.log(`Spreadsheet ${this.spreadsheetId} has been trashed`);
+        this.setSpreadsheetId(null);
+        return;
+      }
+      console.log(`Spreadsheet ${this.spreadsheetId} looks good`);
+      /* accessToken validity is an hour */
+      setTimeout(async () => await gc.handleAuthFailure(gc.pollSpreadsheet()), 61 * 60 * 1000);
+    }
+
+    async getSpreadsheetId() {
+      const list = await gapi.client.drive.files.list({
+        spaces: 'drive',
+        /* Google drive docs are 100% lies */
+        q: 'trashed = false',
+        fields: 'files(id, name, createdTime)',
+        pageSize: 10,
+      });
+      console.log(`Number of files in drive: ${list.result.files.length}`);
+      if (list.result.files.length == 0) {
+        const title = 'Infrastructure Club Open House London 2023';
+        const newSheet = await gapi.client.sheets.spreadsheets.create({
+          properties: { title },
+          fields: 'spreadsheetId',
+        });
+        return newSheet.result.spreadsheetId;
+      }
+      /* Deal with the list/create race */
+      if (list.result.files.length > 1) {
+        list.result.files.sort((a, b) => a.createdTime == b.createdTime ? strcmp(a.id, b.id) : strcmp(a.createdTime, b.createdTime));
+        console.log(`Multiple sheets found, using ${list.result.files[0].id}`);
+        /* Unlike getConfigFile, this is only called when we don't know the ID.
+         * We're therefore much less likely to ever see a race, so don't bother
+         * trashing it ourselves. */
+      }
+      return list.result.files[0].id;
+    }
+
+    setSpreadsheetId(spreadsheetId) {
       localStorage.setItem('infraclub-spreadsheet-id', spreadsheetId);
       this.spreadsheetId = spreadsheetId;
-    }
-
-    async createSpreadsheet() {
-      const title = 'Infrastructure Club Open House London 2023';
-      const resp = await gapi.client.sheets.spreadsheets.create({
-        properties: { title },
-        fields: 'spreadsheetId',
-      });
-      return resp.result.spreadsheetId;
-    }
-
-    async pickSpreadsheet() {
-      return await new Promise((resolve, reject) => {
-        const callback = (data) => {
-          if (data[google.picker.Response.ACTION] == google.picker.Action.PICKED) {
-            const doc = data[google.picker.Response.DOCUMENTS][0];
-            const id = doc[google.picker.Document.ID];
-            resolve(id);
-          }
-        };
-        const view = new google.picker.DocsView(google.picker.ViewId.SPREADSHEETS)
-          .setQuery('Infrastructure Club Open House London 2023')
-          .setMode(google.picker.DocsViewMode.LIST);
-        const picker = new google.picker.PickerBuilder()
-          .addView(view)
-          .enableFeature(google.picker.Feature.NAV_HIDDEN)
-          .hideTitleBar()
-          .setOAuthToken(gapi.client.getToken().access_token)
-          .setDeveloperKey(this.API_KEY)
-          .setCallback(callback)
-          .build();
-        picker.setVisible(true);
-      });
     }
 
     async loadData() {
@@ -679,6 +841,7 @@
     }
 
     async saveData() {
+      this.saving = true;
       const data = [];
       for (const [id, dates] of Object.entries(favourites)) {
         for (const [date, {name, state}] of Object.entries(dates)) {
@@ -686,7 +849,7 @@
         }
       }
       // Sort by id, and then date
-      data.sort((a, b) => a[0] == b[0] ? b[2] - a[2] : b[0] - a[0]);
+      data.sort((a, b) => a[0] == b[0] ? a[2] - b[2] : a[0] - b[0]);
       data.unshift(['id', 'name', 'date', 'state']);
       const resp = await gapi.client.sheets.spreadsheets.values.update({
         spreadsheetId: this.spreadsheetId,
@@ -694,7 +857,7 @@
         valueInputOption: 'RAW',
         values: data,
       });
-      googleStatus.innerText = 'Saved';
+      this.saving = false;
     }
 
   }
@@ -710,9 +873,10 @@
     updateProperties(currentListings);
     map.getSource('listings').setData(currentListings);
 
-    if (window?.gapi?.client?.getToken() == null) return;
+    if (window?.gapi?.client?.getToken()?.access_token == null) return;
     googleStatus.innerText = 'Saving';
-    gc.saveData();
+    await gc.handleAuthFailure(gc.saveData());
+    googleStatus.innerText = 'Saved';
   };
   const setFavourite = (id, name, date, state) => {
     if (!favourites[id]) favourites[id] = {};
@@ -720,48 +884,64 @@
   };
 
   const gc = new GoogleClient();
+  window.gc = gc;
 
   await domContentLoaded;
 
   const googleStatus = document.querySelector('.google-status');
   document.querySelector('.google-status').addEventListener('click', () => {
-    // TODO: use checkSpreadsheet to get this
     window.open(`https://docs.google.com/spreadsheets/d/${gc.spreadsheetId}/edit`, '_blank');
   });
 
-  const loadData = async () => {
+  const loadFromGoogle = async () => {
+    await gc.loadConfig();
+    await gc.initSpreadsheet();
     await gc.loadData();
     googleStatus.innerText = 'Loaded';
-    document.querySelector('.connect-google').classList.add('connected');
+    document.querySelector('.google').classList.add('connected');
     if (currentListings) {
       const map = await mapReady;
       updateProperties(currentListings);
       map.getSource('listings').setData(currentListings);
     }
   }
-  document.querySelector('.google-new').addEventListener('click', async () => {
+
+  document.querySelector('.google-connect').addEventListener('click', async () => {
     await gc.initGoogle();
-    await gc.authGoogle();
-    gc.setSpreadsheet(await gc.createSpreadsheet());
-    await loadData();
+    await gc.authoriseGoogle();
+    await gc.initConfigFile();
+    await gc.handleAuthFailure(loadFromGoogle());
   });
-  document.querySelector('.google-existing').addEventListener('click', async () => {
-    document.querySelector('.button-down').checked = false;
-    await gc.initGoogle();
-    await gc.authGoogle();
-    gc.setSpreadsheet(await gc.pickSpreadsheet());
-    await loadData();
-  });
+
   const tryLoadFromGoogle = async () => {
+    /* We can't use popups here */
     const accessToken = localStorage.getItem('infraclub-google-access-token');
     if (!accessToken) return;
     await gc.initGoogle();
     gapi.client.setToken({access_token: accessToken});
-    // TODO: check if token is valid, and skip authGoogle later if so
-    if (!await gc.checkSpreadsheet()) return;
-    await loadData();
+    try {
+      await gc.initConfigFile();
+    } catch (err) {
+      if (err.status == 401 || err.status == 403) {
+        /* Quietly fail */
+        console.log(`Error ${err.status} using token, can't reconnect`);
+        return;
+      } else {
+        throw err;
+      }
+    }
+    await gc.handleAuthFailure(loadFromGoogle());
   };
   tryLoadFromGoogle();
+
+  window.addEventListener('beforeunload', (e) => {
+    if (gc.saving) {
+      /* MDN docs are wrong, you can't just return "" any more */
+      e.returnValue = "Changes you made may not be saved.";
+      e.preventDefault();
+    }
+  });
+
 
   addTimeRangeHandlers();
   addScrollableHandlers();
@@ -781,27 +961,6 @@
       updateListings();
       searchTimer = null;
     }, [1, 2].includes(search.length) ? 1000 : 100);
-  });
-
-  const updateAriaExpanded = () => {
-    const el = document.querySelector('.button-down');
-    el.setAttribute('aria-expanded', el.checked);
-  };
-  document.querySelector('.button-down').addEventListener('input', updateAriaExpanded);
-  document.querySelector('.button-down').addEventListener('change', updateAriaExpanded);
-  const hideMenuOnBlur = (e) => {
-    if (!e?.relatedTarget?.closest('.button-menu')) {
-      document.querySelector('.button-down').checked = false;
-      updateAriaExpanded();
-    }
-  };
-  document.querySelector('.button-down').addEventListener('focusout', hideMenuOnBlur);
-  document.querySelector('.button-menu').addEventListener('focusout', hideMenuOnBlur);
-  document.body.addEventListener('keydown', (e) => {
-    if (e.key == 'Escape') {
-      document.querySelector('.button-down').checked = false;
-      updateAriaExpanded();
-    }
   });
 
   const resizeMap = async () => {
