@@ -31,7 +31,7 @@ else:
     )
     cookies = {"_open_house_session": "no_session"}
 
-year = 2023
+year = 2024
 timezone = pytz.timezone("Europe/London")
 
 buildings = []

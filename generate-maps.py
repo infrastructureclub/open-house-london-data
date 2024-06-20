@@ -11,7 +11,7 @@ import simplekml
 from shapely.geometry import mapping
 from shapely.geometry import Point
 
-year = 2023
+year = 2024
 timezone = pytz.timezone("Europe/London")
 data_path = "data/%s" % year
 maps_path = "maps/%s" % year
