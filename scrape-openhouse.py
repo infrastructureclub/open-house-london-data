@@ -7,11 +7,11 @@ import time
 import unicodedata
 from datetime import datetime, timedelta
 
-import requests
 import lxml.html
 from dateutil import parser
 import pytz
 from urlextract import URLExtract
+from curl_cffi import requests
 
 headers={
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
@@ -35,7 +35,7 @@ year = 2024
 timezone = pytz.timezone("Europe/London")
 
 buildings = []
-response = requests.get("https://programme.openhouse.org.uk/map", headers=headers)
+response = requests.get("https://programme.openhouse.org.uk/map", headers=headers, impersonate="chrome")
 root = lxml.html.document_fromstring(response.content)
 marker_nodes = root.xpath('//ul[@class="markers"]/li')
 for node in marker_nodes:
@@ -63,7 +63,7 @@ for building in buildings:
     original_url = "https://programme.openhouse.org.uk/listings/%s" % building["id"]
 
     while True:
-        response = requests.get(original_url, cookies=cookies, headers=headers)
+        response = requests.get(original_url, cookies=cookies, headers=headers, impersonate="chrome")
         if response.content == b"Retry later\n" or response.status_code == 503:
             sleep_until = datetime.now() + timedelta(minutes=10)
             print("!! Hit rate limiting, having a little sleep until %s" % sleep_until)
