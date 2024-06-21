@@ -147,5 +147,6 @@ for date, locations in sorted(dates.items()):
     os.makedirs(maps_path + "/kml", exist_ok=True)
     kml.save(maps_path + "/kml/" + date + ".kml")
 
+os.makedirs(maps_path, exist_ok=True)
 with open(maps_path + "/dates.json", "w", encoding="utf-8") as f:
     f.write(json.dumps(sorted(list(dates.keys()))))
