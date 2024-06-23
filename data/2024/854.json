@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "Grade II listed building. Substantial villa built in form of stone-faced baronial castle for the inventor of Bovril. An internal refurbishment is planned to convert it into a cultural and community space.",
+    "description": "Grade II listed building owned by Southwark Council. Large, 19th century mansion built in the form of a stone-faced baronial castle for the inventor of Bovril. Interior includes substantial wood panelling and a great hall. The building is managed by Kingswood Arts CIC and is used as a cultural and community space.",
     "design": {
         "designers": [
             {
@@ -20,7 +20,13 @@
         ]
     },
     "events": [],
-    "facilities": [],
+    "facilities": [
+        "Drinking water",
+        "Handrails on stairs",
+        "Parking",
+        "Seating available",
+        "Toilets"
+    ],
     "factsheet": [
         {
             "heading": "History",
@@ -28,26 +34,25 @@
                 "Kingswood House is situated between Dulwich Village and Crystal Palace Park. It is on the northern edge of the old King's Wood (part of the Great North Wood) and was originally a lodge, built between 1811 and 1814 by William Vizard, a high profile solicitor who became President of the Law Society.",
                 "At the end of the 19th century John Lawson Johnston, the creator of Bovril, transformed the lodge into the house that we see today. The architect was Henry Vaughan Lanchester.",
                 "JL Johnston died in 1900 and for a time a Russian nobleman and his mother lived in the house. During the First World War the building was used as a hospital for Canadian troops. In 1919 it was bought by a shipping and food processing magnate, Sir William Vestey. In 1922 when he was made a lord, Sir William took the title Baron Vestey of Kingswood.",
-                "In the 1950s the building and grounds were acquired by the London County Council by compulsory purchase and the Kingswood Housing Estate was built in the grounds. In 1965 it became the property of the London Borough of Southwark."
+                "In the 1950s the building and grounds were acquired by the London County Council by compulsory purchase and the Kingswood Housing Estate was built in the grounds. In 1965 it became the property of the London Borough of Southwark and was used as a community facility, including a library."
             ]
         },
         {
             "heading": "The Building Today",
             "paragraphs": [
-                "The House was closed during the Covid pandemic but reopened in 2023 and is now managed by Kingswood Arts CIC who are running the House as an arts and cultural centre for the community, as well as offering it as a venue for hire (https://www.kingswoodarts.com/)."
+                "The House was closed during the Covid pandemic but reopened in 2023 and is now managed by Kingswood Arts CIC who are running the House as an arts and cultural centre for the community, as well as offering it as a venue for hire."
             ]
         },
         {
             "heading": "Friends of Kingwood House",
             "paragraphs": [
-                "The Friends of Kingswood House are a small group of people who care about the House and its history, and promote the house for community use and events.",
-                "http://www.kingswoodhouse.org.uk/"
+                "The Friends of Kingswood House are a small group of volunteers  who care about the House and its history, and promote the house for community use and events."
             ]
         },
         {
             "heading": "In person tours",
             "paragraphs": [
-                "Guided tours of the House will be available on tbc"
+                "Guided tours of the House will be available."
             ]
         }
     ],
@@ -76,18 +81,15 @@
             "description": null,
             "title": "Aerial view of Kingswood House",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_854_kingswood_house_from_above_d45a96f2c199dda33ed132abab7b82e2.jpg"
-        }
-    ],
-    "links": [
-        {
-            "href": "https://www.kingswoodarts.com/",
-            "title": null
         },
         {
-            "href": "http://www.kingswoodhouse.org.uk/",
-            "title": null
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2024/854/building_854_kingswood_house_jacobean_room_0108a974530a610fc74bc3cfe0aeb713.jpg",
+            "description": null,
+            "title": "Jacobean Room, Kingswood House",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_854_kingswood_house_jacobean_room_0108a974530a610fc74bc3cfe0aeb713.jpg"
         }
     ],
+    "links": [],
     "location": {
         "address": "Seeley Drive, West Dulwich, SE21 8QR",
         "latitude": 51.4300738,
@@ -95,8 +97,7 @@
         "meeting_point": null,
         "travel_info": [
             "Train: Sydenham Hill",
-            "Bus: 450, 3, 322",
-            "Additional travel info: The House is currently closed and may not be re-opened in time for the Open House Festival. If it is not open then it will be an online video tour only."
+            "Bus: 450, 3, 322"
         ]
     },
     "name": "Kingswood House",
