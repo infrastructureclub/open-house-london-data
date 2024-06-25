@@ -1,20 +1,27 @@
 {
     "all_week": false,
-    "description": "Sir Christopher Wren's riverside masterpiece in Greenwich, built as the Royal Hospital for Seamen and begun in 1696.",
+    "description": "Sir Christopher Wren's riverside masterpiece in Greenwich, built as the Royal Hospital for Seamen and begun in 1696 on the site of the Tudor Greenwich Palace. Occupied by the Royal Naval College from 1869 to 1998, it is now a premier historic, cultural and educational destination in the heart of the Maritime Greenwich UNESCO World Heritage Site.",
     "design": {
         "designers": [
+            {
+                "architect": "Sir Christopher Wren",
+                "description": null,
+                "year": "1696"
+            },
             {
                 "architect": "Nicholas Hawksmoor",
                 "description": null,
                 "year": "1696"
             },
             {
-                "architect": "Sir Christopher Wren",
+                "architect": "Sir John Vanbrugh",
                 "description": null,
                 "year": "1696"
             }
         ],
         "periods": [
+            "Nicholas Hawksmoor",
+            "Sir John Vanbrugh",
             "Georgian",
             "Stuart"
         ],
@@ -26,7 +33,13 @@
     },
     "events": [],
     "facilities": [
-        "Toilets"
+        "Toilets",
+        "Accessible toilet",
+        "Audio guide/description",
+        "Baby changing facilities",
+        "BSL interpreter",
+        "Drinking water",
+        "Step-free routes"
     ],
     "factsheet": [
         {
