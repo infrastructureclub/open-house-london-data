@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "A 2.5 hour walking tour showcasing unexpected and hidden architectural landmarks, both historic and contemporary, of the South Bank area along a route from Lambeth Palace/Garden Museum to Bernie Spain Gardens. Held on 2 weekends.",
+    "description": "A 2.5 hour walking tour showcasing unexpected and hidden architectural landmarks, both historic and contemporary, of the South Bank area along a route from Lambeth Palace/Garden Museum to Bernie Spain Gardens. Two walks held on two dates.",
     "design": {
         "designers": [],
         "periods": [],
@@ -12,17 +12,33 @@
     "facilities": [],
     "factsheet": [
         {
-            "heading": "History",
+            "heading": "HISTORY",
             "paragraphs": [
                 "North Lambeth was historically low lying, marshy and liable to flooding, making it unsuitable for extensive building. However,  parts of the Medieval complex at Lambeth Palace and St Mary's, the parish Church of Lambeth, survive.",
                 "The area changed with the coming of the railway. The tracks had to be elevated over the swampy ground by the construction of a series of viaducts and arches. The new Station, completed in 1848, took its name from the Waterloo Bridge that connects to the north bank, and a short time later the use of ' Waterloo' as a district of London came into being.  In the wake of the station's construction, churches, houses and places of entertainment were lost. However, in the 20th and 21st centuries these spaces were reborn and revealed again by a change of use and new purposes.",
                 "The South Bank area also has a history of health care and hospitals and while ground-breaking 21st Century Life Sciences develop in Waterloo, former hospitals await discovery along the route.",
-                "Now one of London’s best-loved destinations, the South Bank riverside attracts visitors seeking culture and leisure attractions on an area of land that was only a few decades ago the site of industries such as breweries, power stations and timber wharves. Beyond the world-famous arts venues, are sites that tell stories of the past and present and that also look forward to the future."
+                "Now one of London’s best-loved destinations, the South Bank riverside attracts visitors seeking culture and leisure attractions. Where only a few decades ago breweries, power stations and timber wharves operated, today stand some of the UK's most iconic cultural institutions the likes of National Theatre and the Southbank Centre.",
+                "On this walk, we will reveal how South Bank's unique mix of buildings tell stories of South Bank's - and indeed of London's - past and present, and that also present visions for London's ambitions for the next century."
+            ]
+        },
+        {
+            "heading": "TOUR HIGHLIGHTS",
+            "paragraphs": [
+                "These tours - delivered in two parts over two weeks, will take attendees on a journey around parts of South Bank they may not have visited before, and bring to life the unique stories behind South Bank's many famous buildings.",
+                "During the tours we will be looking at landmark buildings from a range of eras including the medieval, Edwardian, Victorian, Modernist and 21st Contemporary eras. We will be going inside some of these buildings to explore some of the interior details that are not always accessible to the public and to see how these historic spaces have been repurposed.",
+                "The first tour will focus on the areas of South Bank that are part of Lambeth, significant landmarks along the route include: \n- the Garden Museum \n- the Lambeth Palace Library\n- the St Thomas Hospital complex\n- County Hall. The tour will then go inside the vast County Hall complex to see some of the inventive and diverse ways that the different historic spaces inside the building have been repurposed.",
+                "The second tour will focus on the areas of South Bank that are part of Southwark. Significant landmarks along the way include\n- Sea Containers \n- OXO Tower\n- National Theatre\n- Southbank Centre\n- Topolski's Studio. On this tour we will be visiting the studio of 20th Century artist Feliks Topolski inside one of the railway arches behind Southbank Centre. Visitors will get to see the historic artist studio and Topolski's vast archives for free with a short intro from the studio archivist."
             ]
         }
     ],
     "id": 11778,
     "images": [
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2024/11778/building_11778_202308-forum-square-county-hall-lw_210019901ad2e84ce09ac0510304dd80.jpg",
+            "description": null,
+            "title": "County Hall. Photo by South Bank London",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_202308-forum-square-county-hall-lw_210019901ad2e84ce09ac0510304dd80.jpg"
+        },
         {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2024/11778/building_11778_oxo-tower-wharf-crop-mickey-lee-for-south-bank-london-crop-1_0726c295f1e852b299fd23890cad5fa8.jpg",
             "description": null,
@@ -42,16 +58,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_garden-museum-by-ollie-thompson_c7ada1fe9b330030a9488dc368ec8912.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2024/11778/building_11778_202308-forum-square-county-hall-lw_210019901ad2e84ce09ac0510304dd80.jpg",
-            "description": null,
-            "title": "County Hall. Photo by South Bank London",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_202308-forum-square-county-hall-lw_210019901ad2e84ce09ac0510304dd80.jpg"
-        },
-        {
             "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2024/11778/building_11778_wright-wright_lambeth-palace-library_hufton-crow_026__1c494f6d0480c6b7e6d712e18291376b.jpg",
             "description": null,
             "title": "Lambeth Palace Library.  Photo by Lambeth Palace Library",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_wright-wright_lambeth-palace-library_hufton-crow_026__1c494f6d0480c6b7e6d712e18291376b.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/2024/11778/building_11778_2023-05-topolski-studio-5_92afc9bd96c52c2ee89270aceea924e3.jpg",
+            "description": null,
+            "title": "Feliks Topolski's studio in South Bank. Photo by South Bank London",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11778_2023-05-topolski-studio-5_92afc9bd96c52c2ee89270aceea924e3.jpg"
         }
     ],
     "links": [],
@@ -62,8 +78,7 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Waterloo",
-            "Train: Waterloo",
-            "Additional travel info: WALK 1 - Friday 13th START POINT St Mary's Gardens SE1 7BT \r\n\r\nWALK 2 - Friday 20th  START POINT St John’s Church SE1 8TY"
+            "Train: Waterloo"
         ]
     },
     "name": "Lost & Hidden Architecture of South Bank Walk",
