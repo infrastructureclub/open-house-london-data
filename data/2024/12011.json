@@ -11,7 +11,11 @@
         ]
     },
     "events": [],
-    "facilities": [],
+    "facilities": [
+        "Seating available",
+        "Step-free routes",
+        "Toilets"
+    ],
     "factsheet": [
         {
             "heading": "About your tour and guide",
@@ -25,7 +29,7 @@
         {
             "heading": "Golden Key Academy",
             "paragraphs": [
-                "This tour is led by a participant of Open City’s Golden Key Academy – a course training up insightful and engaging guides dedicated to explaining London and bringing its many stories to life. It is part of a wider collection of tour events created by Golden Key Academy guides for the Open House Festival celebrating their conclusion of the eight month course.",
+                "This tour is led by a recent graduate of Open City’s Golden Key Academy – a course training up insightful and engaging guides dedicated to explaining London and bringing its many stories to life. It is part of a wider collection of tour events created by Golden Key Academy guides for the Open House Festival celebrating their conclusion of the eight month course.",
                 "Further information on the Golden Key Academy can be found here https://open-city.org.uk/golden-key-academy"
             ]
         }
@@ -64,9 +68,9 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Stratford",
-            "Train: Maryland, Stratford",
+            "Train: Maryland",
             "Bus: 257, 69",
-            "Additional travel info: Tour end: Near Stratford Station"
+            "Additional travel info: Tour end: Near Stratford Station (Tour starts @ Maryland Stn forecourt)"
         ]
     },
     "name": "Stratford: past, present and future",
