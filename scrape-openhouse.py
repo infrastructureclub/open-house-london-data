@@ -13,11 +13,11 @@ import pytz
 from urlextract import URLExtract
 from curl_cffi import requests
 
-headers={
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
-    'Accept-Language': 'en-GB,en;q=0.9',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-    'Referer': 'https://programme.openhouse.org.uk/',
+headers = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+    "Accept-Language": "en-GB,en;q=0.9",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "Referer": "https://programme.openhouse.org.uk/",
 }
 
 cookies = {}
@@ -35,7 +35,9 @@ year = 2024
 timezone = pytz.timezone("Europe/London")
 
 buildings = []
-response = requests.get("https://programme.openhouse.org.uk/map", headers=headers, impersonate="chrome")
+response = requests.get(
+    "https://programme.openhouse.org.uk/map", headers=headers, impersonate="chrome"
+)
 root = lxml.html.document_fromstring(response.content)
 marker_nodes = root.xpath('//ul[@class="markers"]/li')
 for node in marker_nodes:
@@ -63,11 +65,13 @@ for building in buildings:
     original_url = "https://programme.openhouse.org.uk/listings/%s" % building["id"]
 
     while True:
-        response = requests.get(original_url, cookies=cookies, headers=headers, impersonate="chrome")
+        response = requests.get(
+            original_url, cookies=cookies, headers=headers, impersonate="chrome"
+        )
         if response.content == b"Retry later\n" or response.status_code == 503:
             sleep_until = datetime.now() + timedelta(minutes=10)
             print("!! Hit rate limiting, having a little sleep until %s" % sleep_until)
-            time.sleep(10*60)
+            time.sleep(10 * 60)
         else:
             break
 
@@ -76,14 +80,20 @@ for building in buildings:
     # skipping over them and only deleting listings that now 404, from within
     # this code instead of the github workflow.
     if response.status_code == 500:
-        print("SKIPPING due to 500 response from server - likely this listing isn't public yet")
+        print(
+            "SKIPPING due to 500 response from server - likely this listing isn't public yet"
+        )
         continue
     if response.status_code == 404:
-        print("SKIPPING due to 404 response from server - likely this listing has been removed")
+        print(
+            "SKIPPING due to 404 response from server - likely this listing has been removed"
+        )
         continue
 
     if session_cookie and b"Log out" not in response.content:
-        print("!! Invalid session cookie, cannot continue without scraping incorrect data")
+        print(
+            "!! Invalid session cookie, cannot continue without scraping incorrect data"
+        )
         print(response.status_code)
         print(response.content)
         raise Exception("Invalid session cookie")
@@ -146,7 +156,10 @@ for building in buildings:
     data["location"]["address"] = address_nodes[0].strip()
 
     # The map link now only exists if you have JS on, there is no non-JS default /o\
-    lat_lon_matches = re.search('"https://www.openstreetmap.org/#map=18/(-?\d+\.\d+)/(-?\d+\.\d+)"', str(response.content))
+    lat_lon_matches = re.search(
+        '"https://www.openstreetmap.org/#map=18/(-?\d+\.\d+)/(-?\d+\.\d+)"',
+        str(response.content),
+    )
     data["location"]["latitude"] = float(lat_lon_matches.group(1))
     data["location"]["longitude"] = float(lat_lon_matches.group(2))
 
@@ -199,7 +212,9 @@ for building in buildings:
     data["design"]["periods"] = [
         t.strip()
         for t in design_types.split(",")
-        if (t not in architects) and (t.lower() not in data["design"]["types"]) and t.strip()
+        if (t not in architects)
+        and (t.lower() not in data["design"]["types"])
+        and t.strip()
     ]
 
     # Big free text section at the bottom, they call it the factsheet
@@ -239,19 +254,19 @@ for building in buildings:
 
     # Drop in events
     drop_in_node = root.xpath(
-        '//section[contains(@class, "oc-listing-events")]//h2[text()="Drop in details"]'
+        '//section[contains(@class, "oc-listing-activities")]//h2[text()="Drop in activities"]'
     )
     if drop_in_node:
         date_nodes = drop_in_node[0].xpath(".//following-sibling::h3")
         events_nodes = drop_in_node[0].xpath(
-            './/following-sibling::div[contains(@class, "events")]'
+            './/following-sibling::div[contains(@class, "items")]'
         )
         for date_node, event_node in zip(date_nodes, events_nodes):
             date_string = date_node.text_content().strip()
             date = parser.parse(date_string).date()
 
-            for event in event_node.xpath('.//div[@class="event"]'):
-                name = "Drop in"
+            for event in event_node.xpath('.//div[@class="item"]'):
+                name = event.xpath('.//h3[@class="text"]/text()')[0]
 
                 capacity = None
                 capacity_node = event.xpath('.//p[contains(@class, "capacity")]/text()')
@@ -263,6 +278,7 @@ for building in buildings:
                 notes = ""
                 if notes_node:
                     notes = notes_node[0]
+
                 time_string = event.xpath(".//p[not(@*)]")[0].text_content()
                 time_string = unicodedata.normalize("NFKD", time_string)
 
@@ -300,27 +316,33 @@ for building in buildings:
 
     # Not drop-in events
     events_node = root.xpath(
-        '//section[contains(@class, "oc-listing-events")]//h2[text()="Events"]'
+        '//section[contains(@class, "oc-listing-activities")]//h2[text()="Activities"]'
     )
     if events_node:
         events_ticketed = True
 
         date_nodes = events_node[0].xpath(".//following-sibling::h3")
         events_nodes = events_node[0].xpath(
-            './/following-sibling::div[contains(@class, "events")]'
+            './/following-sibling::div[contains(@class, "items")]'
         )
         for date_node, event_node in zip(date_nodes, events_nodes):
             date_string = date_node.text_content().strip()
             date = parser.parse(date_string).date()
 
-            for event in event_node.xpath('.//div[@class="event"]'):
+            for event in event_node.xpath('.//div[@class="item"]'):
                 activity_type = event.xpath(
                     './/p[contains(@class, "uppercase")]/text()'
                 )[0]
                 time_string = event.xpath(".//p[not(@*)]")[0].text_content()
                 name = event.xpath('.//h3[@class="text"]/text()')[0]
+
+                notes_node = event.xpath('.//p[contains(@class, "text")]/text()')
+                notes = ""
+                if notes_node:
+                    notes = notes_node[0]
+
                 booking_string = (
-                    event.xpath('.//div[@class="action"]')[0].text_content().strip()
+                    event.xpath('.//button[@name="button"]')[0].text_content().strip()
                 )
 
                 fully_booked = False
@@ -354,7 +376,7 @@ for building in buildings:
                         "activity_type": activity_type,
                         "name": name,
                         "capacity": None,
-                        "notes": None,  # No longer used, here for backward compat
+                        "notes": notes,
                         "fully_booked": fully_booked,
                         "ticketed": True,
                         "booking_link": original_url,
@@ -367,7 +389,7 @@ for building in buildings:
         data["ticketed_events"] = True
 
     # If we've seen this venue in the past five years, it's not new
-    for previous_year in (year-1, year-2, year-3, year-4, year-5):
+    for previous_year in (year - 1, year - 2, year - 3, year - 4, year - 5):
         if os.path.exists("data/%s/%s.json" % (previous_year, data["id"])):
             data["new_venue_this_year"] = False
 
