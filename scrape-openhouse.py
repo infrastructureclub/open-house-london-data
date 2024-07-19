@@ -405,4 +405,6 @@ for building in buildings:
             )
         )
 
+    print(" - Found %s events" % len(data["events"]))
+
     time.sleep(10)
