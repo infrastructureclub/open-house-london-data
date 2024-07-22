@@ -31,6 +31,9 @@ for filename in os.listdir(data_path):
     if data["all_week"]:
         dates["all_week"].append(data)
 
+    if not data["events"]:
+        dates["no_events"].append(data)
+
 now = timezone.localize(datetime.now())
 
 for date, locations in sorted(dates.items()):

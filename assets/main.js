@@ -419,6 +419,10 @@
         // Events scheduled to last all week
         els.push(`<input type="radio" name="date" value="all_week" id="date-all_week"><label for="date-all_week">Other</label>`);
         continue;
+      } else if (datestr == 'no_events') {
+        // Events with no dates scheduled yet
+        els.push(`<input type="radio" name="date" value="no_events" id="date-no_events"><label for="date-no_events">Unknown</label>`);
+        continue;
       } else if (datestr == 'all') {
         // Special option to show all listings
         els.unshift(`<div role="separator" class="date-gap"></div>`);
