@@ -61,7 +61,7 @@ if os.path.isdir(input_directory):
                 postcode = data["location"]["address"].split(",")[-1]
                 ticket = ""
                 if data["ticketed_events"]:
-                    ticket = "🎟️"
+                    ticket = "&nbsp;🎟️"
                 of.write(
                     f"<li><a href='{data['original_url']}' title='{description}'>{data['name']}</a>{ticket}&nbsp;<span class='postcode'>{postcode}</p></li>"
                 )
