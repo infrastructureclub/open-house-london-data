@@ -16,7 +16,38 @@
             "residence"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-06-20",
+            "drop_in": true,
+            "end": "2024-06-20T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open day",
+            "notes": "This is a tour of our house to show the solar / battery installation and the air source heat pump installation plus the insulation.",
+            "start": "2024-06-20T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-06-21",
+            "drop_in": true,
+            "end": "2024-06-21T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "This is a tour of our house to show the installation of the solar, battery system and the installation of the air source heat pump plus insu",
+            "start": "2024-06-21T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Parking",
         "Toilets",

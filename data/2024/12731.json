@@ -16,7 +16,53 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Pick your own seasonal vegetable.",
+            "notes": "Pick your own fresh seasonal vegetables and shop plants, seeds, and vegetables from our on-site store.",
+            "start": "2024-09-22T11:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12731",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tours",
+            "notes": "Tour our sustainable buildings in our new build, learn about historic 1970s glasshouses, hear from growers about plants, food growing.",
+            "start": "2024-09-22T11:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12731",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tours",
+            "notes": "Tour our sustainable buildings in our new build, learn about historic 1970s glasshouses, hear from growers about plants, food growing.",
+            "start": "2024-09-22T13:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -100,5 +146,5 @@
     "name": "Wolves Lane Centre",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12731",
-    "ticketed_events": false
+    "ticketed_events": true
 }

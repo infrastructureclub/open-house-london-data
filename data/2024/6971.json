@@ -16,7 +16,38 @@
             "museum"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-20",
+            "drop_in": true,
+            "end": "2024-09-20T19:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "The premises is also open Friday 20 September 2024 from 3pm to 7pm.",
+            "start": "2024-09-20T15:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "The premises is also open Friday 20 September 2024 from 3pm to 7pm.",
+            "start": "2024-09-21T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Drinking water",
         "Seating available",

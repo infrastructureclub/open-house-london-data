@@ -17,7 +17,53 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": true,
+            "end": "2024-09-15T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Self guided walking tour of Article 4 Garden Suburb",
+            "notes": "Self guided tour with map incorporating the park in the centre of the estate.  Very good for those whom wish to have their own time frame",
+            "start": "2024-09-15T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": true,
+            "end": "2024-09-15T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Drop in re social history and residents experience",
+            "notes": "Drop in:\r\nTo discuss and hear about the social history from original farm land to tenants moving from Tower Hamlets & growing up on estate",
+            "start": "2024-09-15T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2192",
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": false,
+            "end": "2024-09-15T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Architect led walking tour of Tower Gardens",
+            "notes": "Tour of estate design led by architect and resident to have the professional and personal view of architectural features & resident wants",
+            "start": "2024-09-15T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Parking",
         "Toilets",
@@ -156,5 +202,5 @@
     "name": "Tower Gardens Garden Suburb",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2192",
-    "ticketed_events": false
+    "ticketed_events": true
 }

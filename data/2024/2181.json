@@ -18,7 +18,38 @@
             "sport"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Guided tours of Tooting Bec Lido site",
+            "notes": "Guided tours led by SLSC members of the Lido site illustrating the history and architecture of the venue.",
+            "start": "2024-09-21T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Guided tours of Tooting Bec Lido site",
+            "notes": "Guided tours by SLSC members",
+            "start": "2024-09-22T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Accessible toilet",

@@ -16,7 +16,38 @@
             "historical house"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T15:15:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Printing Press Demonstration",
+            "notes": "Running at 1pm, 2pm, and 3pm, we will be showing a printing demonstration on our original Albion Press from William Morris's Kelmscott Press",
+            "start": "2024-09-14T13:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T15:15:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Printing Press Demonstration",
+            "notes": "Running at 1pm, 2pm, and 3pm, we will be showing a printing demonstration on our original Albion Press from William Morris's Kelmscott Press",
+            "start": "2024-09-21T13:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Baby changing facilities",

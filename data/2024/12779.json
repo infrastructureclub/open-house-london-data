@@ -10,7 +10,23 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12779",
+            "capacity": null,
+            "date": "2024-09-19",
+            "drop_in": false,
+            "end": "2024-09-19T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Walking tour",
+            "notes": "Walking tour led by the Architects. Meeting point: BBC Television Centre forecourt, White City.",
+            "start": "2024-09-19T13:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -91,5 +107,5 @@
     "name": "White City Walking Tour",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12779",
-    "ticketed_events": false
+    "ticketed_events": true
 }

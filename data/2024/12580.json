@@ -14,7 +14,53 @@
             "mixed use"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T19:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Gubns Open Studio: Architecture Of (London Tea Friends)",
+            "notes": "Gubns and Studio Of invite London Tea Friends to host their public meet-up within the studio surrounds and exhibition backdrop.",
+            "start": "2024-09-22T17:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Other",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12580",
+            "capacity": null,
+            "date": "2024-09-20",
+            "drop_in": false,
+            "end": "2024-09-20T20:00:00+01:00",
+            "fully_booked": false,
+            "name": "Gubns Open Studio: Architecture Of (Pop-up Reception)",
+            "notes": "Opening reception for the pop-up exhibition invites architect-makers to present their works on display. Tix includes tea mocktails by Sanko.",
+            "start": "2024-09-20T17:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Other",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12580",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T20:00:00+01:00",
+            "fully_booked": false,
+            "name": "Gubns Open Studio: Architecture Of (Cocktail Taster)",
+            "notes": "Gubns invites visitors to a private viewing of the pop-up exhibition alongside a tasting and tea cocktail pairing by Sanko.",
+            "start": "2024-09-22T17:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Drinking water",
         "Seating available"
@@ -53,5 +99,5 @@
     "name": "Gubns Open Studio No.6: Of Architecture",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12580",
-    "ticketed_events": false
+    "ticketed_events": true
 }

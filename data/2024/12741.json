@@ -16,7 +16,53 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12741",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T11:30:00+01:00",
+            "fully_booked": false,
+            "name": "Historic television studio tour",
+            "notes": "Please ",
+            "start": "2024-09-21T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12741",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Historic television studio tour",
+            "notes": "Please ",
+            "start": "2024-09-21T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12741",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Historic television studio tour",
+            "notes": "Please ",
+            "start": "2024-09-21T13:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -57,5 +103,5 @@
     "name": "Historic BBC Studio Tours",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12741",
-    "ticketed_events": false
+    "ticketed_events": true
 }

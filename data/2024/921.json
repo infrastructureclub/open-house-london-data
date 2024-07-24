@@ -17,7 +17,23 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/921",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Tours of the estate",
+            "notes": "Residents will take small groups into several of the blocks for about 45 minutes.\r\nThe number of spaces will depend on resident volunteers",
+            "start": "2024-09-21T09:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -75,5 +91,5 @@
     "name": "Lillington Gardens Estate",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/921",
-    "ticketed_events": false
+    "ticketed_events": true
 }

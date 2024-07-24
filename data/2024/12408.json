@@ -16,7 +16,38 @@
             "museum"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12408",
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": false,
+            "end": "2024-09-14T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "GUIDED TOUR London's South Bank",
+            "notes": "Please ",
+            "start": "2024-09-14T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12408",
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": false,
+            "end": "2024-09-15T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "GUIDED TOUR London's South Bank",
+            "notes": "Please ",
+            "start": "2024-09-15T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -59,5 +90,5 @@
     "name": "GUIDED WALK",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12408",
-    "ticketed_events": false
+    "ticketed_events": true
 }

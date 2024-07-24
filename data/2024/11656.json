@@ -16,7 +16,23 @@
             "museum"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open Day",
+            "notes": "The exhibition will be open until 6pm, but Open House activities (talks, workshops and self-guided tours) finish at 5pm.",
+            "start": "2024-09-21T12:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Toilets",
@@ -34,34 +50,33 @@
             ]
         },
         {
-            "heading": "Talks and model-making workshops",
+            "heading": "Curators talks (drop in)",
             "paragraphs": [
-                "For Open House, we will celebrate the exhibition with a series of short, curator-led talks throughout the day at these times: 12.30pm, 1.30pm, 2.30pm and 3.30pm. Drop-in and free, seats are available on a first come first served.",
+                "For Open House, we will celebrate the exhibition with a series of short, curator-led talks throughout the day in the Lecture Theatre at these times: 12.30pm, 1.30pm, 2.30pm and 3.30pm. Drop-in and free, seats are available on a first come first served basis."
+            ]
+        },
+        {
+            "heading": "Model-making workshop (drop in)",
+            "paragraphs": [
                 "We will have a model-making workshop, led by architecture students, suitable for all ages and abilities throughout the day. It's your chance to be inspired by the exhibition and the work of Zaha Hadid and try your hand at model making. Colouring sheets featuring Zaha Hadid's buildings will be available for younger children. All materials will be provided. These creative activities are drop-in and free."
             ]
         },
         {
-            "heading": "Explore the building",
+            "heading": "Explore the building (self guided)",
             "paragraphs": [
-                "With the exception of the exhibition gallery, the building is normally closed to the public. For Open House, the ground floor of our building will be open for self-guided tours. We will have printed guides available. For one day only, there will also be a small display of material and images on the building's past history as a school and the international HQ of Zaha Hadid Architects.  Please note, public events (talks and workshops) may be taking place in the spaces at different times of the day, which you're welcome to join."
+                "With the exception of the exhibition gallery, the building is normally closed to the public. For Open House, the ground floor of our building will be open for self-guided tours. We will have printed guides available. For one day only, there will also be a small display of material and images on the building's past history as a school and the international HQ of Zaha Hadid Architects. Please note, public events (talks and workshops) may be taking place in the spaces at different times of the day, which you're welcome to join."
             ]
         },
         {
             "heading": "Building history",
             "paragraphs": [
-                "This Queen Anne-style building is Grade II listed and was completed in 1874 for the School Board for London, opening as the Bowling Green Lane School. The building was designed by E.R. Robson in collaboration with J.J. Stevenson. It retains much of its original Victorian layout and exterior. In the 1970s it ceased operating as a school and in the 1980s was divided up into artists' studios. It was once the international headquarters of Zaha Hadid Architects, beginning in 1985 when Zaha Hadid took up one of these studios. Her practice grew until it took over the whole building. Since 2022, it has been the home of the charity Zaha Hadid Foundation which is returning the building to educational uses through public exhibitions, research and a public programme of events."
+                "This Queen Anne-style building is Grade II listed and was completed in 1874 for the School Board for London, opening as the Bowling Green Lane School. The building was designed by E.R. Robson in collaboration with J.J. Stevenson. It retains much of its original Victorian layout and exterior. In the 1970s it ceased operating as a school and in the 1980s it was divided up into artists' studios. It was once the international headquarters of Zaha Hadid Architects, beginning in 1985 when Zaha Hadid took up one of these studios. Her practice grew until it took over the whole building. Since 2022, it has been the home of the charity Zaha Hadid Foundation which is returning the building to educational uses through public exhibitions, research and a public programme of events."
             ]
         },
         {
             "heading": "Photography",
             "paragraphs": [
-                "Personal photography for non-commercial use is allowed on the ground floor, including in the exhibition."
-            ]
-        },
-        {
-            "heading": "Model-making workshop",
-            "paragraphs": [
-                "We will have a model-making workshop, led by architecture students, suitable for all ages and abilities throughout the day. It's your chance to be inspired by the exhibition and the work of Zaha Hadid and try your hand at model making. Colouring sheets featuring Zaha Hadid's buildings will be available for younger children. All materials will be provided. These creative activities are drop-in and free."
+                "Personal photography for non-commercial use is allowed, including in the exhibition. Filming or audio recording is not allowed."
             ]
         }
     ],

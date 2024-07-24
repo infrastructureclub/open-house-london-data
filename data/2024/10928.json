@@ -10,7 +10,38 @@
             "government"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: HAZ Guided Tour - Sunday",
+            "notes": "",
+            "start": "2024-09-22T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10928",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "HAZ Guided Tour - Saturday",
+            "notes": "Please ",
+            "start": "2024-09-21T12:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Parking"
     ],
@@ -66,5 +97,5 @@
     "name": "Heritage on the High Road (High Street HAZ)",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10928",
-    "ticketed_events": false
+    "ticketed_events": true
 }

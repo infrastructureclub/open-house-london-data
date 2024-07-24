@@ -16,7 +16,23 @@
             "religious"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": true,
+            "end": "2024-09-15T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open Day",
+            "notes": "Regular talks to explain the design and construction of the church. Display of proposals to renovate the church roof.",
+            "start": "2024-09-15T12:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",

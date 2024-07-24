@@ -10,7 +10,23 @@
             "museum"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12745",
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": false,
+            "end": "2024-09-14T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided walk + Workshop",
+            "notes": "Please ",
+            "start": "2024-09-14T12:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Toilets",
@@ -49,5 +65,5 @@
     "name": "Somers Town: The Housing Story",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12745",
-    "ticketed_events": false
+    "ticketed_events": true
 }

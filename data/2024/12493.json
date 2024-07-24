@@ -16,7 +16,38 @@
             "residence"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Skinner Trevino House Tour",
+            "notes": "People will gather at the entrance and groups of 10 to 12 will be allowed in for a walk in tour every 30min with 1 hour brake for lunch",
+            "start": "2024-09-14T09:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": true,
+            "end": "2024-09-15T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Skinner Trevino House Tour",
+            "notes": "People will gather at the entrance and groups of 10 to 12 will be allowed in for a walk in tour every 30min with 1 hour brake for lunch",
+            "start": "2024-09-15T09:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {

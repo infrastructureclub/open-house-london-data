@@ -37,7 +37,38 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": true,
+            "end": "2024-09-15T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Drop In",
+            "notes": "Feel free to use one of our self-guided trails. Pick one up from the Heritage Centre.",
+            "start": "2024-09-15T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/6847",
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": false,
+            "end": "2024-09-15T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Walk: Creativity Unwrapped",
+            "notes": "Explore the fascinating history of the Cemetery, which offers a unique blend of Jewish traditions and Victorian funerary architecture.",
+            "start": "2024-09-15T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Parking",
         "Toilets",
@@ -118,5 +149,5 @@
     "name": "Willesden Jewish Cemetery",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6847",
-    "ticketed_events": false
+    "ticketed_events": true
 }

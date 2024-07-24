@@ -16,7 +16,23 @@
             "military"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: WWII FIGHTER PEN TOURS AT FORMER RAF KENLEY",
+            "notes": "Open tours of two WWII fighter pens at Kenley Common. Information displays and photo exhibits from Kenley Revival project volunteers.",
+            "start": "2024-09-14T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Parking"
     ],

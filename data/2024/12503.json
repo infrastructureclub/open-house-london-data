@@ -16,7 +16,38 @@
             "art studio"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Alice Billing House Open Studio",
+            "notes": "Explore the historic, newly renovated Alice Billing House, now home to over 25 artists opening their studios to the public.",
+            "start": "2024-09-21T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Community Stitch Art Workshop",
+            "notes": "Learn embroidery stitches and contribute to a community piece of stitch art celebrating the history of Alice Billing House and Newham",
+            "start": "2024-09-21T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Drinking water",

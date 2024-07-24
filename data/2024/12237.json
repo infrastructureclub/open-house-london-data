@@ -16,7 +16,23 @@
             "civic"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": true,
+            "end": "2024-09-15T17:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Home and Artist-Run Space",
+            "notes": "Informal visits at home turned into an artist-run space.",
+            "start": "2024-09-15T12:30:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Drinking water",

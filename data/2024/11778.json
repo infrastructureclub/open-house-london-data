@@ -8,7 +8,38 @@
             ""
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11778",
+            "capacity": null,
+            "date": "2024-09-13",
+            "drop_in": false,
+            "end": "2024-09-13T13:30:00+01:00",
+            "fully_booked": false,
+            "name": "Lost & Hidden Architecture of the South Bank",
+            "notes": "This guided walk explores the architectural history of South Bank between Lambeth Palace Bridge and Waterloo Bridge",
+            "start": "2024-09-13T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11778",
+            "capacity": null,
+            "date": "2024-09-20",
+            "drop_in": false,
+            "end": "2024-09-20T13:30:00+01:00",
+            "fully_booked": false,
+            "name": "Lost & Hidden Architecture of the South Bank",
+            "notes": "This guided walk explores the architectural history of South Bank between  Blackfriars Bridge and Waterloo Bridge",
+            "start": "2024-09-20T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -84,5 +115,5 @@
     "name": "Lost & Hidden Architecture of South Bank Walk",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11778",
-    "ticketed_events": false
+    "ticketed_events": true
 }

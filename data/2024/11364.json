@@ -12,7 +12,38 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11364",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of the Gurdwara",
+            "notes": "Guided tour and presentation followed by a free vegetarian meal.",
+            "start": "2024-09-22T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11364",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T17:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour of the Gurdwara",
+            "notes": "Guided tour and presentation followed by a free vegetarian meal.",
+            "start": "2024-09-22T16:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Family-friendly event",
         "Step-free routes",
@@ -91,5 +122,5 @@
     "name": "Central Gurdwara (Khalsa Jatha) London",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11364",
-    "ticketed_events": false
+    "ticketed_events": true
 }

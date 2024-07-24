@@ -14,7 +14,38 @@
             "architectural practice"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12552",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Ecology Object Workshop - AM",
+            "notes": "Attendees will prototype some ecological objects, guided on ecological requirements and practical building by Periscope's staff members.",
+            "start": "2024-09-21T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12552",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Ecology Object Workshop - PM",
+            "notes": "Attendees will prototype some ecological objects, guided on ecological requirements and practical building by Periscope's staff members.",
+            "start": "2024-09-21T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Cloakroom",
         "Drinking water",
@@ -63,5 +94,5 @@
     "name": "Periscope Open House",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12552",
-    "ticketed_events": false
+    "ticketed_events": true
 }

@@ -17,7 +17,38 @@
             "museum"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-18",
+            "drop_in": true,
+            "end": "2024-09-18T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Opportunity for visitors to talk to some of those involved in the Museum and interact with some specimens from the collections.",
+            "start": "2024-09-18T13:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Opportunity for visitors to talk to some of those involved in the Museum and interact with some of the objects in the collections.",
+            "start": "2024-09-21T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Drinking water",
         "Seating available",

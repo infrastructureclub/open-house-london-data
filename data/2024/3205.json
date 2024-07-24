@@ -20,7 +20,38 @@
             "restaurant/bar"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Tickets for Bell ringing, tours and concert available on the St Martins website.",
+            "start": "2024-09-14T10:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T17:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: tours, bellringing, concert",
+            "notes": "Tickets for bell ringing, tours and concert available on the St Martins website or the box office on the day.",
+            "start": "2024-09-14T10:30:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Accessible toilet",

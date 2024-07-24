@@ -10,7 +10,38 @@
             "industrial"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open day",
+            "notes": "Our shutter will be open all afternoon for you to pop in and join us for a beer.",
+            "start": "2024-09-21T13:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12754",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Tour",
+            "notes": "Our brewer James will lead a brewery-tour  giving the low-down on the magic behind alcohol-free brewing.",
+            "start": "2024-09-21T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -50,5 +81,5 @@
     "name": "Nirvana Brewery",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12754",
-    "ticketed_events": false
+    "ticketed_events": true
 }

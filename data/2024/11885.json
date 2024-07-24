@@ -16,7 +16,38 @@
             "housing"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open Day",
+            "notes": "An unguided tour of the house, but owner available for information",
+            "start": "2024-09-14T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": true,
+            "end": "2024-09-15T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open day",
+            "notes": "An unguided tour of the house, but owner on hand for information",
+            "start": "2024-09-15T12:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets"
     ],

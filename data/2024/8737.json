@@ -16,7 +16,68 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/8737",
+            "capacity": null,
+            "date": "2024-09-18",
+            "drop_in": false,
+            "end": "2024-09-18T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": "Please ",
+            "start": "2024-09-18T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/8737",
+            "capacity": null,
+            "date": "2024-09-18",
+            "drop_in": false,
+            "end": "2024-09-18T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": "Please ",
+            "start": "2024-09-18T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/8737",
+            "capacity": null,
+            "date": "2024-09-18",
+            "drop_in": false,
+            "end": "2024-09-18T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": "Please ",
+            "start": "2024-09-18T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/8737",
+            "capacity": null,
+            "date": "2024-09-18",
+            "drop_in": false,
+            "end": "2024-09-18T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": "Please ",
+            "start": "2024-09-18T15:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets"
     ],
@@ -130,5 +191,5 @@
     "name": "Ram Quarter",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/8737",
-    "ticketed_events": false
+    "ticketed_events": true
 }

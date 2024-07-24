@@ -18,7 +18,23 @@
             "open site"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Guided tour",
+            "notes": "Guided tours at 11am, 12:30 and 2pm, about 45 minutes, ending at Breakspears Mews Community Garden for refreshments. Also self-guided walks",
+            "start": "2024-09-22T10:30:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets"
     ],

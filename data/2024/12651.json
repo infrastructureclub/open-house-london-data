@@ -16,7 +16,23 @@
             "historical house"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open House at Myddelton House Gardens",
+            "notes": "Visit the life long home of Edward Augustus Bowles, one of the 20th century's great gardeners.",
+            "start": "2024-09-21T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",

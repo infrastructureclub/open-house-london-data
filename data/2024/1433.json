@@ -22,7 +22,38 @@
             "education"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Queen Mary - Guided tours",
+            "notes": "Guided tours starting at the following times: \r\n10:00\r\n11:00\r\n12:00\r\n13:00\r\n14:00\r\n15:00\r\nTickets can be booked free of charge on the day.",
+            "start": "2024-09-14T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": true,
+            "end": "2024-09-15T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Queen Mary - Guided tours",
+            "notes": "Guided tours starting at the following times: \r\n10:00\r\n11:00\r\n12:00\r\n13:00\r\n14:00\r\n15:00\r\nTickets can be booked free of charge on the day.",
+            "start": "2024-09-15T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Accessible toilet"

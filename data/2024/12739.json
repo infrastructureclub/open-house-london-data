@@ -10,7 +10,53 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12739",
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": false,
+            "end": "2024-09-14T11:45:00+01:00",
+            "fully_booked": false,
+            "name": "Death, Debauchery and Doctors in Soho - walking tour",
+            "notes": "A walk through Soho in the 1700s and 1800s finding the stories of poverty, sex workers, doctors and social reformers behind the doors.",
+            "start": "2024-09-14T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12739",
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": false,
+            "end": "2024-09-15T12:45:00+01:00",
+            "fully_booked": false,
+            "name": "Death, Debauchery and Doctors in Soho - walking tour",
+            "notes": "A walk through Soho in the 1700s and 1800s finding the stories of poverty, sex workers, doctors and social reformers behind the doors.",
+            "start": "2024-09-15T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12739",
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": false,
+            "end": "2024-09-15T15:45:00+01:00",
+            "fully_booked": false,
+            "name": "Death, Debauchery and Doctors in Soho - walking tour",
+            "notes": "A walk through Soho in the 1700s and 1800s finding the stories of poverty, sex workers, doctors and social reformers behind the doors.",
+            "start": "2024-09-15T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -84,5 +130,5 @@
     "name": "Death, debauchery and doctors in Soho",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12739",
-    "ticketed_events": false
+    "ticketed_events": true
 }

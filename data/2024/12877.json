@@ -16,7 +16,23 @@
             "bridge"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12877",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T11:00:00+01:00",
+            "fully_booked": false,
+            "name": "Dinosaur Swing Bridge in Crystal Palace Park",
+            "notes": "Please ",
+            "start": "2024-09-21T10:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Family-friendly event"
     ],
@@ -62,5 +78,5 @@
     "name": "Dinosaur Swing Bridge in Crystal Palace Park",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12877",
-    "ticketed_events": false
+    "ticketed_events": true
 }

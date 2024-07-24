@@ -8,7 +8,113 @@
             "gallery"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T17:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: London Art Exhibition",
+            "notes": "Exhibition of London-centric fine art - many of our artworks feature the city and its ever changing architecture and society.",
+            "start": "2024-09-14T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": true,
+            "end": "2024-09-15T16:29:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: London Art Exhibition",
+            "notes": "Exhibition of London-centric fine art - many of our artworks feature the city and its ever changing architecture and society.",
+            "start": "2024-09-15T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-20",
+            "drop_in": true,
+            "end": "2024-09-20T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Art Exhibition",
+            "notes": "Exhibition of London-centric fine art - many of our artworks feature the city and its ever changing architecture and society.",
+            "start": "2024-09-20T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T17:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Exhibition",
+            "notes": "Exhibition of London-centric fine art - many of our artworks feature the city and its ever changing architecture and society.",
+            "start": "2024-09-21T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Meet the Artist - Jason Hicklin RE",
+            "notes": "View Jason's wonderful etchings featuring  the River Thames and meet with him to talk about his work and views of the city & majestic river.",
+            "start": "2024-09-21T15:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Exhibition",
+            "notes": "Exhibition of London-centric fine art - many of our artworks feature the city and its ever changing architecture and society.",
+            "start": "2024-09-22T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12193",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Introductory talk by artist Jason Hicklin RE",
+            "notes": "Jason Hicklin talks about his work focussing on the River Thames from Hammersmith to the London Stone. Beautiful etchings and watercolours.",
+            "start": "2024-09-21T14:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Seating available"
     ],
@@ -75,5 +181,5 @@
     "name": "Eames Fine Art",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/12193",
-    "ticketed_events": false
+    "ticketed_events": true
 }

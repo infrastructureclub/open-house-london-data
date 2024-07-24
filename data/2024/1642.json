@@ -24,7 +24,23 @@
             "concert/performance space"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Guided Tours",
+            "notes": "STH is open for Guided Tours running at 30 min intervals: 10am, 10.30am, 11am, 11.30am, 12pm, 12.30pm, 1.30pm, 2pm, 2.30pm, 3pm, 3.30pm, 4pm",
+            "start": "2024-09-22T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Drinking water",

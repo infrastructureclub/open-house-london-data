@@ -16,7 +16,38 @@
             "architectural practice"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/6325",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour",
+            "notes": "Please ",
+            "start": "2024-09-21T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/6325",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour",
+            "notes": "Please ",
+            "start": "2024-09-21T14:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -88,5 +119,5 @@
     "name": "The Broadgate Tower",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/6325",
-    "ticketed_events": false
+    "ticketed_events": true
 }

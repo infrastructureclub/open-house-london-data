@@ -16,7 +16,38 @@
             "museum"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: 10 minute introduction tour by the House Manager",
+            "notes": "Special 10 minute House Manager talks on the history of the house takes place on the hour at 11, 12, 1 and 2pm.",
+            "start": "2024-09-14T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: 10 minute talks on displayed ceramics",
+            "notes": "House Director Ricky Pound will talk about the ceramics in the display cabinet which range in date from 1700 to around 1870.",
+            "start": "2024-09-21T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Accessible toilet"
     ],

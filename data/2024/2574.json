@@ -16,7 +16,23 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Ealing Common historical walk",
+            "notes": "This is not a ticketed event, but the group will start the walk just after 14.00",
+            "start": "2024-09-14T14:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets"
     ],

@@ -23,7 +23,53 @@
             "mixed use"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Art Exhibition",
+            "notes": "An all-day installation of local art. Details and artists to be announced.",
+            "start": "2024-09-21T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open Day, History & Artefacts",
+            "notes": "Drop in and explore, learn about our unique history (including early Quaker artefacts), or just enjoy our grounds! Refreshments provided.",
+            "start": "2024-09-21T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Further events to be announced",
+            "notes": "Further events TBA - please check back here for more details.",
+            "start": "2024-09-21T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Drinking water",

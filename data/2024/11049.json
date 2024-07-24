@@ -17,7 +17,38 @@
             "art studio"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: APT Open Studios Weekend",
+            "notes": "APT Open Studios Weekend begins on Saturday 21 September and runs until Sunday 22 September, both days from 12-5pm",
+            "start": "2024-09-21T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: APT Open Studios Weekend",
+            "notes": "APT Open Studios Weekend runs from Saturday 21 September until Sunday 22 September 12-5pm.",
+            "start": "2024-09-22T12:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Accessible toilet",

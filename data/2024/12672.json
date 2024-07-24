@@ -10,7 +10,53 @@
             "gallery"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open Day",
+            "notes": "Any one is open to drop in and view the gallery",
+            "start": "2024-09-14T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": true,
+            "end": "2024-09-15T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open Day",
+            "notes": "Any one is open to drop in and view the gallery",
+            "start": "2024-09-15T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12672",
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": false,
+            "end": "2024-09-14T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Ceramics Workshop",
+            "notes": "One of our ceramics makers will give a talk and showcase their craft and processes, using examples of their works.",
+            "start": "2024-09-14T15:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Drinking water",
         "Family-friendly event",
@@ -49,5 +95,5 @@
     "name": "Contemporary Applied Arts",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12672",
-    "ticketed_events": false
+    "ticketed_events": true
 }

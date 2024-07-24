@@ -10,7 +10,38 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11619",
+            "capacity": null,
+            "date": "2024-09-20",
+            "drop_in": false,
+            "end": "2024-09-20T11:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": "Tour of the building from our chair of Trustees.",
+            "start": "2024-09-20T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11619",
+            "capacity": null,
+            "date": "2024-09-20",
+            "drop_in": false,
+            "end": "2024-09-20T13:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": "Tour of the building from our chair of Trustees.",
+            "start": "2024-09-20T12:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Baby changing facilities",
         "Drinking water",
@@ -57,5 +88,5 @@
     "name": "Longfield Hall",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11619",
-    "ticketed_events": false
+    "ticketed_events": true
 }

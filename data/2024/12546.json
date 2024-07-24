@@ -16,7 +16,38 @@
             "housing"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12546",
+            "capacity": null,
+            "date": "2024-09-19",
+            "drop_in": false,
+            "end": "2024-09-19T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": "Please ",
+            "start": "2024-09-19T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12546",
+            "capacity": null,
+            "date": "2024-09-19",
+            "drop_in": false,
+            "end": "2024-09-19T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": "Please ",
+            "start": "2024-09-19T15:30:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Parking"
     ],
@@ -57,5 +88,5 @@
     "name": "Hermitage Mews Building Tours",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12546",
-    "ticketed_events": false
+    "ticketed_events": true
 }

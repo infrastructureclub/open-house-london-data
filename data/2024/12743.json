@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "Chisenhale Art Place is a multi-disciplinary arts building occupying a former factory in Tower Hamlets, consisting of 40 artist studios, a renowned art gallery and professional dance studios. On Saturday 14th September we will be hosting our annual children and family event, the Future Artists Festival with free creative workshops, dance performances, exhibitions, and guided tours of the building.",
+    "description": "Chisenhale Art Place is a multi-disciplinary arts building occupying a former factory in Tower Hamlets, consisting of 40 artist studios, a renowned art gallery and professional dance studios. On Saturday 14th September we will be hosting guided tours of the building.",
     "design": {
         "designers": [
             {
@@ -16,7 +16,23 @@
             "art studio"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Guided Tours",
+            "notes": "",
+            "start": "2024-09-14T12:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Family-friendly event",
@@ -26,7 +42,7 @@
         {
             "heading": "Chisenhale Art Place",
             "paragraphs": [
-                "Chisenhale Art Place is a multidisciplinary arts building housing 40 artist studios, an art gallery and a professional dance studio. On the same day we will be hosting our annual children and family event the Future Artists Festival, which will involve free creative workshops, dance performances, live music and will chance to access the building with guided tours."
+                "Chisenhale Art Place is a multidisciplinary arts building housing 40 artist studios, an art gallery and a professional dance studio. On Saturday 14th September we will be giving audiences the chance to access the building with guided tours."
             ]
         }
     ],

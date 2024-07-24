@@ -17,7 +17,38 @@
             "museum"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": true,
+            "end": "2024-09-15T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Free Arts & Crafts sessions for young children",
+            "notes": "Join our crafting tables for some colouring, cutting and sticking. Be inspired by the pumphouse or model train rooms. All materials provided",
+            "start": "2024-09-15T10:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Free Arts & Crafts sessions for young children",
+            "notes": "Join our crafting tables for some colouring, cutting and sticking. Be inspired by the pumphouse or model train room. All materials provided.",
+            "start": "2024-09-22T10:30:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Accessible toilet",

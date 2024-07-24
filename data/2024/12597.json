@@ -16,7 +16,53 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T19:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Aylesham Community Action Group - work to date",
+            "notes": "",
+            "start": "2024-09-21T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12597",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Walk",
+            "notes": "Find out more about Peckham's Aylesham Community Action group's work & get a sense of our neighbourhood's character on a walk with locals",
+            "start": "2024-09-21T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12597",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Sketching workshop",
+            "notes": "Sketching workshop with Benny O'Looney",
+            "start": "2024-09-21T16:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Large print guides"
     ],
@@ -51,5 +97,5 @@
     "name": "A walk in Peckham's Aylesham Centre --- past and future",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12597",
-    "ticketed_events": false
+    "ticketed_events": true
 }

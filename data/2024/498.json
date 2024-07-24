@@ -16,7 +16,23 @@
             "entertainment"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": true,
+            "end": "2024-09-15T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Guided tour/open space",
+            "notes": "Over 18's only. Guided tours given every 15 minutes, but feel free to walk around by yourself if you so wish.",
+            "start": "2024-09-15T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Parking",
         "Toilets",

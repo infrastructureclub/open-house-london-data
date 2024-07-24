@@ -11,7 +11,38 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10273",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "MODERN ARCHITECTURE IN BLACKHEATH WALK",
+            "notes": "Please ",
+            "start": "2024-09-21T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10273",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "MODERN ARCHITECTURE IN BLACKHEATH WALK",
+            "notes": "Please ",
+            "start": "2024-09-22T10:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -67,5 +98,5 @@
     "name": "Modern Architecture in Blackheath walk",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10273",
-    "ticketed_events": false
+    "ticketed_events": true
 }

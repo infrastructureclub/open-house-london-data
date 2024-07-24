@@ -16,7 +16,98 @@
             "industrial"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11297",
+            "capacity": null,
+            "date": "2024-09-20",
+            "drop_in": false,
+            "end": "2024-09-20T11:30:00+01:00",
+            "fully_booked": false,
+            "name": "Factory Tours",
+            "notes": "Please note: there are 10 places available per tour",
+            "start": "2024-09-20T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11297",
+            "capacity": null,
+            "date": "2024-09-20",
+            "drop_in": false,
+            "end": "2024-09-20T13:30:00+01:00",
+            "fully_booked": false,
+            "name": "Factory Tours",
+            "notes": "Please note: there are 10 places available per tour",
+            "start": "2024-09-20T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11297",
+            "capacity": null,
+            "date": "2024-09-20",
+            "drop_in": false,
+            "end": "2024-09-20T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Factory Tours",
+            "notes": "Please note: there are 10 places available per tour",
+            "start": "2024-09-20T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11297",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T11:30:00+01:00",
+            "fully_booked": false,
+            "name": "Factory Tours",
+            "notes": "Please note: there are 10 places available per tour.",
+            "start": "2024-09-21T10:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11297",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T13:30:00+01:00",
+            "fully_booked": false,
+            "name": "Factory Tours",
+            "notes": "Please note: there are 10 places available per tour.",
+            "start": "2024-09-21T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11297",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Factory Tours",
+            "notes": "Please note: there are 10 places available per tour.",
+            "start": "2024-09-21T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Parking",
@@ -97,5 +188,5 @@
     "name": "Tour the Square Root Factory",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11297",
-    "ticketed_events": false
+    "ticketed_events": true
 }

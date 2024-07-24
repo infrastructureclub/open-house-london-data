@@ -8,7 +8,23 @@
             ""
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12650",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Waltham Forest cycle tour",
+            "notes": "A five-building cycle tour looking at housing, leisure, mixed-use and later living architecture in Waltham Forest designed by PTE.",
+            "start": "2024-09-22T10:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -89,5 +105,5 @@
     "name": "Pollard Thomas Edwards Waltham Forest cycle tour",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12650",
-    "ticketed_events": false
+    "ticketed_events": true
 }

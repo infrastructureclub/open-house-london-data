@@ -8,7 +8,53 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: OPEN DAY",
+            "notes": "Drop by to view maps, picture, photographs, books on display in the Archives and learn about Thorney Island.",
+            "start": "2024-09-14T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11805",
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": false,
+            "end": "2024-09-14T11:50:00+01:00",
+            "fully_booked": false,
+            "name": "Talk on \"Where is the River Tyburn\"?",
+            "notes": "Please ",
+            "start": "2024-09-14T11:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11805",
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": false,
+            "end": "2024-09-14T14:20:00+01:00",
+            "fully_booked": false,
+            "name": "Talk on \"Where is the River Tyburn\"?",
+            "notes": "Please ",
+            "start": "2024-09-14T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -49,5 +95,5 @@
     "name": "Talks at The Thorney Island Society Archives",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11805",
-    "ticketed_events": false
+    "ticketed_events": true
 }

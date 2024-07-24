@@ -16,7 +16,38 @@
             "industrial"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open day with guided factory tours",
+            "notes": "Drop-in to the factory yard and tours led by the proprietor. Some bargain Kaymet trays will be for sale, as will the book Made in London.",
+            "start": "2024-09-21T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open day and guided factory tours",
+            "notes": "Drop-in to the factory yard and tours led by the proprietor. Some bargain Kaymet trays will be for sale, as will the book Made in London.",
+            "start": "2024-09-22T10:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets",
         "Parking",

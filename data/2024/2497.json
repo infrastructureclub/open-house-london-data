@@ -18,7 +18,53 @@
             "event"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: The whole church is open for people to walk around",
+            "notes": "Please come to the church and walk around.  There will people to talk through some of the key features of the Church and its history",
+            "start": "2024-09-14T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Bell Tower Tour",
+            "notes": "A rare tour of the Bell Tower to understand the workings of currently rung Bells.   There will be another tour at 2pm . 6 people tour",
+            "start": "2024-09-14T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Bell Tower Tour",
+            "notes": "",
+            "start": "2024-09-14T14:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Parking",
         "Blue badge parking",

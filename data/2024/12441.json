@@ -10,7 +10,23 @@
             "religious"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-07-13",
+            "drop_in": true,
+            "end": "2024-07-13T22:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Summer Music Festival",
+            "notes": "We welcome you to join our FREE community-focused festival, with activities for all ages, featuring amazing local artists.",
+            "start": "2024-07-13T12:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Blue badge parking",

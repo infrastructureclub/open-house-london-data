@@ -20,7 +20,38 @@
             "education"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7379",
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": false,
+            "end": "2024-09-15T15:15:00+01:00",
+            "fully_booked": false,
+            "name": "Architect Led Tour of the Royal Academy of Music - 1",
+            "notes": "Architect led guided tour of the Royal Academy of Music Susie Sainsbury Theatre and Angela Burgess Recital by Ritchie Studio",
+            "start": "2024-09-15T14:15:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/7379",
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": false,
+            "end": "2024-09-15T16:45:00+01:00",
+            "fully_booked": false,
+            "name": "Architect Led Tour of the Royal Academy of Music - 2",
+            "notes": "Architect led guided tour of the Royal Academy of Music Susie Sainsbury Theatre and Angela Burgess Recital by Ritchie Studio",
+            "start": "2024-09-15T15:45:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -209,5 +240,5 @@
     "name": "Royal Academy of Music - Theatre and new Recital Hall",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/7379",
-    "ticketed_events": false
+    "ticketed_events": true
 }

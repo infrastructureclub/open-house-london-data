@@ -18,7 +18,38 @@
             "industrial"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Turning Earth Open Studio",
+            "notes": "For this weekend, Turning Earth Leyton will open its doors to the public and show them around the studio.",
+            "start": "2024-09-21T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Turning Earth Open Studio",
+            "notes": "For this weekend, Turning Earth Leyton will open its doors to the public and show them around the studio.",
+            "start": "2024-09-22T12:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Toilets"
     ],

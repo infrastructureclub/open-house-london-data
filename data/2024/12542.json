@@ -16,7 +16,23 @@
             "historical house"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12542",
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": false,
+            "end": "2024-09-15T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Tour of 1 Waterlow Court",
+            "notes": "Guided tour of flat 1 Waterlow court",
+            "start": "2024-09-15T14:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Seating available",
         "Step-free routes"
@@ -106,5 +122,5 @@
     "name": "1 Waterlow Court",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12542",
-    "ticketed_events": false
+    "ticketed_events": true
 }

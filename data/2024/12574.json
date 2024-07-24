@@ -16,7 +16,23 @@
             "housing"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Guided Tour by the Architects",
+            "notes": "First tour to start at 10:00 am and running every 45min - 1 hr.  Last tour at 1pm.",
+            "start": "2024-09-21T09:45:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Large print guides"
     ],

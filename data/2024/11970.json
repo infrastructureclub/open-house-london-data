@@ -8,7 +8,23 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11970",
+            "capacity": null,
+            "date": "2024-09-20",
+            "drop_in": false,
+            "end": "2024-09-20T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Walking Tour",
+            "notes": "Please ",
+            "start": "2024-09-20T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Family-friendly event",
         "Step-free routes"
@@ -72,5 +88,5 @@
     "name": "The traces that remain: stories from Notting Hill",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11970",
-    "ticketed_events": false
+    "ticketed_events": true
 }

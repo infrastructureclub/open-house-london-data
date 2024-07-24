@@ -16,7 +16,38 @@
             "art studio"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-19",
+            "drop_in": true,
+            "end": "2024-09-19T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: OPEN DAY",
+            "notes": "",
+            "start": "2024-09-19T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: OPEN DAY",
+            "notes": "",
+            "start": "2024-09-21T11:00:00+01:00",
+            "ticketed": false
+        }
+    ],
     "facilities": [
         "Accessible toilet",
         "Cloakroom",

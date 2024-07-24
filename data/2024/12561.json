@@ -10,7 +10,23 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12561",
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": false,
+            "end": "2024-09-14T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Family-friendly walking tour",
+            "notes": "Solving riddles, puzzles, looking out for sculptures, animals and buildings.",
+            "start": "2024-09-14T11:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Family-friendly event"
     ],
@@ -59,5 +75,5 @@
     "name": "City of London adventure family friendly walking tour",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12561",
-    "ticketed_events": false
+    "ticketed_events": true
 }

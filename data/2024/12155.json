@@ -14,7 +14,23 @@
             ""
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12155",
+            "capacity": null,
+            "date": "2024-09-16",
+            "drop_in": false,
+            "end": "2024-09-16T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Tour of a reimagined Strand-Aldwych",
+            "notes": "A guided tour of a traffic-free Strand with project lead and director at LDA Design, Cannon Ivers.",
+            "start": "2024-09-16T13:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Quieter area",
         "Seating available",
@@ -59,5 +75,5 @@
     "name": "Tour of Strand Aldwych",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/12155",
-    "ticketed_events": false
+    "ticketed_events": true
 }

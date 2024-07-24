@@ -8,7 +8,53 @@
             "walk/tour"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12671",
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": false,
+            "end": "2024-09-14T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Queer Croydon Walking Tour",
+            "notes": "Please ",
+            "start": "2024-09-14T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12671",
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": false,
+            "end": "2024-09-14T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Queer Croydon Walking Tour",
+            "notes": "Please ",
+            "start": "2024-09-14T15:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Walking tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12671",
+            "capacity": null,
+            "date": "2024-09-19",
+            "drop_in": false,
+            "end": "2024-09-19T19:30:00+01:00",
+            "fully_booked": false,
+            "name": "Queer Croydon Walking Tour",
+            "notes": "Please ",
+            "start": "2024-09-19T18:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [],
     "factsheet": [
         {
@@ -20,7 +66,7 @@
         {
             "heading": "Route",
             "paragraphs": [
-                "We will meet outside the gates to Whitgift Almshouses on North End, opposite Barclays Bank. From there we will make our way through Central Croydon and end at Park Hill Recreation Ground. The tour will last approximately 1 hour."
+                "We will meet outside the gates to Whitgift Almshouses on North End, opposite Barclays Bank. From there we will make our way through Central Croydon and end at Park Hill Recreation Ground. The tour will last approximately 1.5 hours."
             ]
         }
     ],
@@ -47,5 +93,5 @@
     "name": "Queer Croydon walking tour",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12671",
-    "ticketed_events": false
+    "ticketed_events": true
 }
