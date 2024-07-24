@@ -29,6 +29,7 @@ jobs:
           python -u scrape-openhouse.py
           python -u generate-csv-summary.py
           python -u generate-maps.py
+          python -u generate-new-venue-lists.py
 
           mv data data.new
           mv csv csv.new
@@ -52,6 +53,7 @@ jobs:
           git add data
           git add csv
           git add maps
+          git add reports
 
           git config --global user.email "bot@jonty.co.uk"
           git config --global user.name "OH London update GHA"
