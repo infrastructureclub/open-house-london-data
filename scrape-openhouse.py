@@ -138,13 +138,13 @@ for building in buildings:
                 }
             )
 
-    # Images are fetched and stored by https://github.com/Jonty/open-house-london-images
+    # Images are fetched and stored by https://github.com/infrastructureclub/open-house-london-images
     for image in data["images"]:
         image["archive_url"] = None
         # For some baffling reason some of the images refer to a broken relative path
         if image["url"].startswith("http"):
             image["archive_url"] = (
-                "https://raw.githubusercontent.com/Jonty/open-house-london-images/master/images/%s/%s/%s"
+                "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/%s/%s/%s"
                 % (year, building["id"], os.path.basename(image["url"]))
             )
 
