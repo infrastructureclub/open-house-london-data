@@ -86,6 +86,11 @@ for building in buildings:
             "SKIPPING due to 404 response from server - likely this listing has been removed"
         )
         continue
+    if b"Listing withdrawn" in response.content:
+        print(
+            "SKIPPING as listing has been withdrawn for this year"
+        )
+        continue
 
     if session_cookie and b"Log out" not in response.content:
         print(
