@@ -10,19 +10,19 @@
     },
     "events": [
         {
-            "activity_type": "Other",
+            "activity_type": "Drop in",
             "all_day": false,
             "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12748",
+            "booking_link": null,
             "capacity": null,
             "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T16:00:00+01:00",
+            "drop_in": true,
+            "end": "2024-09-22T15:00:00+01:00",
             "fully_booked": false,
-            "name": "Open day",
-            "notes": "Arrive at any time between 12pm and 3pm. We'll have plants, compost and produce for sale, plus lunch and our house brews on offer.",
+            "name": "Drop in: Open day",
+            "notes": "Come and explore our 12-acre growing site. We'll also have plants, compost and produce for sale, plus lunch and our house brews on offer.",
             "start": "2024-09-22T12:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         },
         {
             "activity_type": "Guided tour",
