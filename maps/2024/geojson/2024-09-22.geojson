@@ -54,8 +54,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1748981,
-                    51.4570745
+                    -0.17475,
+                    51.45728
                 ],
                 "type": "Point"
             },
@@ -679,8 +679,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0298277,
-                    51.5172669
+                    -0.0295,
+                    51.51754
                 ],
                 "type": "Point"
             },
@@ -1094,8 +1094,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0550424,
-                    51.5481288
+                    -0.05448,
+                    51.54782
                 ],
                 "type": "Point"
             },
@@ -1290,8 +1290,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.26896,
-                    51.42213
+                    -0.26869,
+                    51.42286
                 ],
                 "type": "Point"
             },
@@ -1473,8 +1473,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0247009,
-                    51.5021182
+                    -0.0255,
+                    51.50315
                 ],
                 "type": "Point"
             },
@@ -1498,6 +1498,45 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/2328"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.3247495,
+                    51.4484975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Mid-17C house, a scheduled ancient monument, with fine staircase and 18C additions.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2423/building_2423_dsc_2134_de321be02a57a118935d789e914fb65b.jpg",
+                        "title": "York House Fountains"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2423/building_2423_dsc_4138_0d2a455006db5dcec0679ee1286967b3.jpg",
+                        "title": "Rotunda - York House"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2423/building_2423_dsc_4142_bebee8fc725f7908afa04dc815592000.jpg",
+                        "title": "Fireplace - Reception York House"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2423/building_2423_dsc_4145_275006560aa3dc01beef2fb3dde7743f.jpg",
+                        "title": "York House, Twickenham"
+                    }
+                ],
+                "name": "York House",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2423"
             },
             "type": "Feature"
         },
@@ -1595,6 +1634,61 @@
                 "start": "08:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/2533"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1019112,
+                    51.4849094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Modern architecture church with large copper and lead roof and concrete, brick and stained glass external structure. Marble, wood and plaster interior and artwork by Sculptor Freda Pinto and Gerald Holtom.",
+                "end": "14:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2556/building_2556_exteriorside_963b49c8b8f5fbe81f216efad67a1061.jpg",
+                        "title": "Exterior Side View"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2556/building_2556_figure0741-084-b_25fc81df6e95d19183d756f2012b2aab.gif",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2556/building_2556_stpaulsaltar_oh_04c71fb02cf0289f5ab5463ed23bda74.jpg",
+                        "title": "St Paul's Church Lorrimore Altar"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2556/building_2556_stpinner2-oh_c06683beb34b10e3ba058208f65b2a8f.jpg",
+                        "title": "St Paul's Church Lorrimore Wall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2556/building_2556_img_20200117_134620_903622a70744f68faf532134d40b4c76.jpg",
+                        "title": "Balcony view interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2556/building_2556_mainbalconyinterior_c06826737a50a8be55008d4ce145582e.jpg",
+                        "title": "Main Balcony Interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2556/building_2556_windowcrossinterior_f3810e880960009d24f364bbd6051af3.jpg",
+                        "title": "Window Cross Interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2556/building_2556_christinglory_6a93fc1ba2b024e8129c32067f21f988.jpg",
+                        "title": "Christ in Glory"
+                    }
+                ],
+                "name": "St Paul's, Newington",
+                "new_venue_this_year": "No",
+                "start": "11:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2556"
             },
             "type": "Feature"
         },
@@ -1757,8 +1851,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0521239,
-                    51.5012103
+                    -0.05274,
+                    51.50164
                 ],
                 "type": "Point"
             },
@@ -1972,8 +2066,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1670357,
-                    51.3655577
+                    -0.16684,
+                    51.36508
                 ],
                 "type": "Point"
             },
@@ -2330,8 +2424,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.028294,
-                    51.57449459999999
+                    0.0287,
+                    51.57562
                 ],
                 "type": "Point"
             },
@@ -3411,8 +3505,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0198851,
-                    51.6366729
+                    0.01711,
+                    51.63444
                 ],
                 "type": "Point"
             },
@@ -3614,7 +3708,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Originally St, Mary's Infants School, later as Holy Innocents' National School until 1934. It then became derelict until 1981 when it became headquarters of the Hornsey Historical Society in 1981 after refurbishment.",
+                "description": "Originally St, Mary's Infants School, later as Holy Innocents' National School until 1934. It then became derelict until 1981 when, after refurbishment, it became headquarters of the Hornsey Historical Society.",
                 "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
@@ -4940,8 +5034,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.14409,
-                    51.54191
+                    -0.1448,
+                    51.54127
                 ],
                 "type": "Point"
             },
@@ -5045,7 +5139,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A Victorian Church set in a wooded Churchyard, with a vibrant and striking set of Murals around the altar and the Choir.  Beautiful Stained Glass. \r\nHas indoor toilet facilities. \r\nA good quality well used organ in good condition, and an excellent acoustics.",
+                "description": "A Victorian Church set in a wooded Churchyard, with a vibrant and striking set of Murals around the altar and the Choir.  Beautiful Stained Glass. \r\nHas indoor toilet facilities. \r\nA good quality well used organ in good condition, and excellent acoustics.",
                 "end": "11:30:00",
                 "fully_booked": "",
                 "images": [
@@ -5326,6 +5420,45 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11767"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1167117,
+                    51.5404259
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Our open day will include pop-up tearoom with artisan teas, handmade cakes and savouries, bookshop and library. Regular guided tours, guided and open meditation sessions, family craft  sessions,  and introductory Buddhist talks available",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11803/building_11803_872cd45b-ef51-4f6e-8dd0-93d0ba141fad_9fe85dfeaf668c9368190ad2ef1a11b4.jpeg",
+                        "title": "Rigpa UK Tibetan Buddhist Centre exterior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11803/building_11803_9d82c2cb-c5cc-43b1-95ea-7fc7953a9617_0c306d7558ce903f65590ac1f24188b0.jpeg",
+                        "title": "The Shrine Room"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11803/building_11803_9b01f126-c64a-407a-a1e5-3d30ca754e2e_ce4c1aca3ac9e11f46fb74cc3f9866d8.jpeg",
+                        "title": "Weekend Retreat at Rigpa UK"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11803/building_11803_b760e87c-3e19-4b1c-9462-19c45bb2790e_7666f6878d5d69600a61f978de022710.jpeg",
+                        "title": "The Shrine Room"
+                    }
+                ],
+                "name": "Rigpa Tibetan Buddhist Meditation Centre",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11803"
             },
             "type": "Feature"
         },
@@ -5722,6 +5855,57 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.01836,
+                    51.4065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "We are a newly opened workspace within the Old Town Hall estate - we've created a workspace that blends modern working with the heritage features of the building.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12211/building_12211_clockwisebromley_clublounge_60aeb47e02c8ab01b35e79d792128346.jpg",
+                        "title": "Club Member Lounge"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12211/building_12211_clockwisebromley_mainentrance_stairs_f1d93adf2d73045af38935179e1ab8e5.jpg",
+                        "title": "Main Entrance Staircase"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12211/building_12211_clockwise_bromley_meetingroom_m5_3_1e3c8644e74ef9cafc7f6ee3b54e3397.jpg",
+                        "title": "Boardroom"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12211/building_12211_bromleyoldtownhall_exterior_277264e9d12de59f679d9e4e47d9d199.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12211/building_12211_bromleyoldtownhall_courtyard-1_d70ada89cd41985417a30ca486f38179.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12211/building_12211_clockwisebromley_staircase-widmore-rd_f1e26e5919df89a9182c4f5e90877dff.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12211/building_12211_dorothandmarshall_1_eb70fdcdb9e587bf7bf33c3408f0e18a.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Clockwise Offices at Bromley Old Town Hall",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.10437,
                     51.33044
                 ],
@@ -5897,8 +6081,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.07509,
-                    51.38989
+                    0.07525,
+                    51.3897
                 ],
                 "type": "Point"
             },
@@ -6286,7 +6470,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The Moving Church\r\nOn his appointment to Biggin Hill in 1951, Rev Vivian Symons had the vision to bring the materials for a new church building from the disused All Saints, North Peckham. But first, he had to deconstruct a huge Victorian church, and bring it by himself to its new site.\r\nHowever, St Mark's is Grade 2 listed, not because of its origin, but due to its style.",
+                "description": "The Moving Church.\r\nOn his appointment to Biggin Hill in 1951, Rev Vivian Symons had the vision to bring the materials for a new church building from the disused All Saints, North Peckham. But first, he had to deconstruct a huge Victorian church, and bring it by himself to its new site.\r\nHowever, St Mark's is Grade 2 listed, not because of its origin, but due to its style.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -6300,6 +6484,33 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12514"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.03566,
+                    51.57262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "We are delighted to present this spectacular extension and refurbishment project in Wanstead. The new side infill extension has a faceted geometry with a roof that rises up to meet a skylight at its highest point. An expanded bronze anodised mesh wraps around the existing building like a parasite. This fascinating geometry is achieved using a timber frame construction.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12524/building_12524_265-2_0ef58b1dd5c34262ba9f886b2263736d.jpg",
+                        "title": "Extension at night"
+                    }
+                ],
+                "name": "The Pinehouse Parasite",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12524"
             },
             "type": "Feature"
         },
@@ -6917,6 +7128,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.10482,
+                    51.51427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "London is the world's first National Park City, and our visitors centre at 109 Fleet Street is the entry point to hundreds of places to visit and things to do across a greener, healthier and wilder London.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12692/building_12692_109fleetstreet_stpauls_0f1218f9e2e2e355fdf9818f8a4227d0.jpg",
+                        "title": "London National Park City visitors centre at 109 Fleet Street looking towards St Paul's Cathedral"
+                    }
+                ],
+                "name": "London National Park City Visitors Centre",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12692"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.07153,
                     51.46252
                 ],
@@ -7262,7 +7500,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Join this walking tour to discover how post-war architects and planners re-imagined the future of housing. See first hand the highly experimental output of London councils, including the low-rise flow of the Alexandra and Ainsworth Estate designed by Neave Brown and the high-rise monolith Trellick Tower by  Erno Goldfinger. This walk is not about housing pre-fixed by ‘public’, ‘social’, ‘council’ or ‘local’ – but the concept of housing itself.",
+                "description": "Join this walking tour to discover how post-war architects and planners re-imagined the future of housing, including the low-rise Alexandra and Ainsworth Estate designed by Neave Brown and the high-rise monolith Trellick Tower by  Erno Goldfinger. This walk is not about housing pre-fixed by ‘public’, ‘social’, ‘council’ or ‘local’ – but the concept of housing itself.",
                 "end": "17:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -7311,6 +7549,157 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12802"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.11601,
+                    51.57603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The owners of this Victorian house had a dilemma. Should they relocate to Australia or stay in London? Mulroy Architects design combines both with a series of bold design interventions include moving the staircase from the centre to the side of the house, a full-plan basement and a new 9.3 metre diagonal extension, and large openable roof lights that capture the south facing light.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12817/building_12817_dgla4702_mountviewroad_69a98ee0635d64fcc28b32afbbc2d687.jpg",
+                        "title": "Photographer - Dan Glasser"
+                    }
+                ],
+                "name": "59 Mountview Road, London",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12817"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.07339,
+                    51.5633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Once a Victorian arboretum, Abney Park Cemetery, part of London's Magnificent Seven, was revitalised with National Heritage Lottery funding in 2021. The renovation restored the chapel and main entrance, creating a vibrant workshop space for London-based art and design collective, WAX Atelier. During Open House, WAX Atelier will showcase innovative projects in their unique workspace amidst the park",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12834/building_12834_wax-atelier-labs_db93570e1759834e11dc2f3a034173be.jpg",
+                        "title": "Abney Park Makers Workshop"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12834/building_12834_abney-park_44cfc95c580b44c099f55031c2e40f1f.jpg",
+                        "title": "Abney Park"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12834/building_12834_wax-atelier_659d6dd7ed00c2fecba8ced150e92613.jpg",
+                        "title": "WAX Atelier's Materials Lab at Abney Park"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12834/building_12834_cq-studio_354f85cf2282bc9b4fac224dae118358.jpg",
+                        "title": "CQ Studio's Material Lab at Abney Park"
+                    }
+                ],
+                "name": "WAX Atelier within Abney Park",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12834"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.12457,
+                    51.53154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Join a City Guide to explore the stories of queer monarchs; the Cathedral convenience; erotic theatre; cross-dressers and find out what Henry VIII had to do with it all.",
+                "end": "15:15:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12883/building_12883_fanny-and-stella-1_aede4ba1d070f3a7a1a1e4ecf520a638.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "From Prejudice to Pride",
+                "new_venue_this_year": "Yes",
+                "start": "14:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12883"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1014,
+                    51.5194
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "It began with wool and ended in wildness. This tour with a City Guide will uncover 800 years of history and happenings associated with the incident-packed Bartholomew Fair.",
+                "end": "15:15:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12884/building_12884_guiding-8_152faaf6d318bc4c8adea38a9cd90759.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12884/building_12884_bartholomew-fair_627e7768cecda18d3ab2acb073a8b3b2.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Bartholomew Fair",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12884"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.06123,
+                    51.54834
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Home to Unagru Architecture Urbanism and DEDRAFT studio, the new cooperative space strives to nurture collaboration alongside other build environment professionals. In this street-facing space in Hackney Downs, we sought to fit out the spaces economically and sustainably as possible, with low carbon, #nomoregas initiative and reused material strategies, while embracing a bold use of colour.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12889/building_12889_spurhouse-7740_tim-crocker-photography_7eef97e4fe59763e92b14a3a8a854f03.jpg",
+                        "title": "Unagru/Dedraft/Diagonal A collaborative work space in Hackney Downs"
+                    }
+                ],
+                "name": "Diagonal/A Architecture Studio",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12889"
             },
             "type": "Feature"
         }
