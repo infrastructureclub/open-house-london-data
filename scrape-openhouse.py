@@ -62,15 +62,20 @@ for building in buildings:
     original_url = "https://programme.openhouse.org.uk/listings/%s" % building["id"]
 
     while True:
-        response = requests.get(
-            original_url, cookies=cookies, headers=headers, impersonate="chrome"
-        )
-        if response.content == b"Retry later\n" or response.status_code == 503:
-            sleep_until = datetime.now() + timedelta(minutes=10)
-            print("!! Hit rate limiting, having a little sleep until %s" % sleep_until)
-            time.sleep(10 * 60)
-        else:
-            break
+        try:
+            response = requests.get(
+                original_url, cookies=cookies, headers=headers, impersonate="chrome"
+            )
+            if response.content == b"Retry later\n" or response.status_code == 503:
+                sleep_until = datetime.now() + timedelta(minutes=10)
+                print("!! Hit rate limiting, having a little sleep until %s" % sleep_until)
+                time.sleep(10 * 60)
+            else:
+                break
+
+        except requests.errors.RequestsError as e:
+            print("!!? Failed to fetch listing page, trying again in 10s: '%s'" % e)
+            time.sleep(10)
 
     # FIXME: If the server has downtime this will result in all listings being
     # removed as we delete them all before the run. Instead we should be
