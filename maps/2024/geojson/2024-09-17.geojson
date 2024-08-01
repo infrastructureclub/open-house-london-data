@@ -42,6 +42,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.0233816,
+                    51.3271514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Join us for an internal and external tour of Biggin Hill Museum and Chapel. Come along and immerse yourself in the history of Biggin Hill from the establishment of the airfield to the events of the Battle of Britain. Hear stories of the men and women who fought and worked at RAF Biggin Hill.",
+                "end": "12:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/1774/building_1774_chapel-and-museum-17-01-19_ea8be2bfab73602824d7441a96f36c56.JPG",
+                        "title": "Biggin Hill Memorial Museum"
+                    }
+                ],
+                "name": "RAF Biggin Hill Museum & Chapel Tour",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/1774"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1270462,
                     51.4956954
                 ],
