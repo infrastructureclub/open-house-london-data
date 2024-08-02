@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "The north of Westminster is an area rich in stories explaining how the local community has influenced the built environment. This walking tour explores how the cityscape we see today has been shaped by local campaigns and the push and pull of battles for housing and amenities. Led by a local resident, it will examine the question of who decides what gets built and who it is for?",
+    "description": "The north of Westminster is rich in stories of how the local community has influenced the built environment in significant and lasting ways. This tour explores how the cityscape we see today has been shaped by different ideological approaches, local campaigns and the push and pull of battles for housing and amenities. It considers the question of who decides what gets built and who is it for?",
     "design": {
         "designers": [],
         "periods": [],
@@ -17,9 +17,9 @@
             "capacity": null,
             "date": "2024-09-14",
             "drop_in": false,
-            "end": "2024-09-14T13:00:00+01:00",
+            "end": "2024-09-14T12:30:00+01:00",
             "fully_booked": false,
-            "name": "GKA 2024 Walking Tour:",
+            "name": "North Westminster: Housing and Community Voice",
             "notes": "Please ",
             "start": "2024-09-14T10:30:00+01:00",
             "ticketed": true
@@ -28,9 +28,15 @@
     "facilities": [],
     "factsheet": [
         {
-            "heading": "GKA2024: North Westminster: housing and community voice",
+            "heading": "North Westminster: housing and community voice",
             "paragraphs": [
-                "The north of Westminster is an area rich in stories of how the local community has influenced the built environment. This walking tour explores the stories of how the cityscape we see today has been shaped by different ideological approaches, by local campaigns and the push and pull of battles for housing and amenities. With a particular emphasis on housing, the walking tour considers artisan cottage dwellings and Victorian terraces of 19th century as well as the streets-in-the-sky approach of post war period.  It also looks at how, following Margaret Thatcher’s election to power in 1979, the wider ideological battles of the 1980s between left and right were played out in north Paddington.  Led by a local resident, it will explore the question of who decides what gets built and who is it for?"
+                "Throughout the walking tour, we will see reflected in the built environment, a wide range of approaches taken at different times to housing the local working class community.  We will consider artisan cottage dwellings of the 19th century and the extent to which they pre-empted the garden city movement; Victorian and Edwardian streetscapes, the stories of those who lived there and those who collected the rent; and the streets-in-the-sky approach of the post war period. We will also look at how, following Margaret Thatcher’s election to power in 1979, the wider ideological battles of the 1980s between left and right were played out in 2 north Paddington housing estates, with a visible legacy today.  In addition, we will discuss the impact of evolving transport infrastructure on the lives of local people: the Grand Union canal, the Great Western Railways, the Westway and now Crossrail. Throughout, we will consider who made the decisions and what local people had to say about it."
+            ]
+        },
+        {
+            "heading": "Your Guide",
+            "paragraphs": [
+                "This tour is led by Elizabeth, a local resident and participant in Open City’s Golden Key Academy – a course training up insightful and engaging guides dedicated to explaining London and bringing its many stories to life.    Further information on the Golden Key Academy can be found here \nhttps://open-city.org.uk/golden-key-academy"
             ]
         }
     ],
@@ -49,7 +55,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12541_meanwhile_garden_b144a881c6b6462d68e9921c6890f6c9.jpeg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://open-city.org.uk/golden-key-academy",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Outside Westbourne Park tube station, Great Western Road, W11 1AB",
         "latitude": 51.52093,
@@ -57,7 +68,8 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Westbourne Park",
-            "Bus: 18, 31, 328, 36"
+            "Bus: 18, 31, 328, 36",
+            "Additional travel info: The tour will finish close to Westbourne Park tube station."
         ]
     },
     "name": "North Westminster: housing and community voice",

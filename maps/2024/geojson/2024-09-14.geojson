@@ -3047,7 +3047,7 @@
                 "balloted": "No",
                 "description": "The independent cultural centre Pushkin House will contribute to this year's Open House Festival through a programme of events and community initiatives at its Grade-II listed building in Bloomsbury Square.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4108/building_4108_53139306750_91b9568082_k_414e9e9762b239a4d0d1fde33fe29867.jpg",
@@ -3081,7 +3081,7 @@
                 "name": "Pushkin House",
                 "new_venue_this_year": "No",
                 "start": "10:00:00",
-                "ticketed_events": "Yes",
+                "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/4108"
             },
             "type": "Feature"
@@ -8305,8 +8305,8 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The north of Westminster is an area rich in stories explaining how the local community has influenced the built environment. This walking tour explores how the cityscape we see today has been shaped by local campaigns and the push and pull of battles for housing and amenities. Led by a local resident, it will examine the question of who decides what gets built and who it is for?",
-                "end": "13:00:00",
+                "description": "The north of Westminster is rich in stories of how the local community has influenced the built environment in significant and lasting ways. This tour explores how the cityscape we see today has been shaped by different ideological approaches, local campaigns and the push and pull of battles for housing and amenities. It considers the question of who decides what gets built and who is it for?",
+                "end": "12:30:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -9415,73 +9415,6 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12681"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.16812,
-                    51.49881
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "In the heart of Knightsbridge is a Victorian mews house that discretely masks sculptural contemporary fabric within.\r\n\r\nPeeling back the layers of the existing house allowed its historic bones to be revealed and celebrated. New solid timbers are juxtaposed with original gnarled timber forming the floor joists and roof trusses to create an intriguing conversation between past and present.",
-                "end": "17:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12683/building_12683_246_fm_lr_3_060558d4bdf97b7feaa8220473d41fe8.jpg",
-                        "title": "Ground floor living room - Fran Mart"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12683/building_12683_246_fm_lr_6_0a46465b7a1ae5e85f7cacb71eab0206.jpg",
-                        "title": "Entrance vestibule - Fran Mart"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12683/building_12683_246_fm_lr_13_b77199dd42ab4f7828b3f70d9835d50c.jpg",
-                        "title": "Suspended plywood stair - Fran Mart"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12683/building_12683_246_fm_lr_26_12612da50090aff1a4b477b37a435a66.jpg",
-                        "title": "Kitchen worktop - Fran Mart"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12683/building_12683_246_fm_lr_28_ccd3de60e4882189f585ff9e6caf651d.jpg",
-                        "title": "Stairway down to the basement - Fran Mart"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12683/building_12683_246_fm_lr_31_f8ed536caf657c57e6dedacdeb0b2d05.jpg",
-                        "title": "Kitchen and study illuminated by a skylight - Fran Mart"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12683/building_12683_246_fm_lr_43_8f9bbce5512c425f1d9f8c8f0e636353.jpg",
-                        "title": "Double height atrium - Fran Mart"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12683/building_12683_246_fm_lr_45_0d16b36044d94208f55a0c03950ccae3.jpg",
-                        "title": "Japanese bath - Fran Mart"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12683/building_12683_246_fm_lr_53_7baf29c60d316ec3ffd499765e973617.jpg",
-                        "title": "Bedroom in the eaves - Fran Mart"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12683/building_12683_246_fm_lr_14_9dccec135073d0c95b87dc4664022017.jpg",
-                        "title": "Bespoke benches made from reused rafters - Fran Mart"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12683/building_12683_264_dl_lr_1_927955051f26f4fdce196198b4e78d58.jpg",
-                        "title": "Elevation of the terrace - Dirk Lindner"
-                    }
-                ],
-                "name": "Bough Terrace",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/12683"
             },
             "type": "Feature"
         },
