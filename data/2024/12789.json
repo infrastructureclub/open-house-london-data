@@ -1,14 +1,8 @@
 {
     "all_week": false,
-    "description": "Explore twenty first century architecture in one of London's most luxurious and historic neighbourhoods. This walking tour covers Mayfair's new contemporary developments, discovering architectural treasures, hidden gems and buildings that are designed for our changing climate. Largely shaped by aristocratic landowners in the eighteenth century, the neighbourhood has undergone constant evolution ever since. Georgian originals blend with thoroughly modern additions where architects have responded to Mayfair's unique character with creativity and ingenuity. \r\n\r\nTour stops include the inventive reuse of existing buildings, re-shaped green spaces, a completely transformed London square and luxurious designs to delight. You will see how the architects of today have integrated modern architecture into an historic neighbourhood, showcasing the balance between preservation and modernisation. These all combine to create Mayfair's distinct architectural character which reflects it sumptuous beginnings, bold ambitions and future visions.",
+    "description": "Explore twenty first century architecture in one of London's most luxurious and historic neighbourhoods. This walking tour covers Mayfair's new contemporary developments, discovering architectural treasures, hidden gems and buildings that are designed for our changing climate.",
     "design": {
-        "designers": [
-            {
-                "architect": "Matthew Brettingham",
-                "description": null,
-                "year": "1756"
-            }
-        ],
+        "designers": [],
         "periods": [
             "Georgian"
         ],
@@ -27,7 +21,7 @@
             "drop_in": false,
             "end": "2024-09-21T12:30:00+01:00",
             "fully_booked": false,
-            "name": "Guided tour",
+            "name": "Walking tour",
             "notes": "Please ",
             "start": "2024-09-21T10:30:00+01:00",
             "ticketed": true
@@ -38,7 +32,15 @@
         {
             "heading": "History and development",
             "paragraphs": [
-                "Largely shaped by aristocratic landowners in the Eighteenth century, Mayfair has undergone constant evolution ever since. The original Georgian elements now blend with Victorian, Edwardian, and thoroughly modern additions. These all combine to create Mayfair's unique architectural character which reflects it sumptuous beginnings, bold ambitions and future visions."
+                "Largely shaped by aristocratic landowners in the Eighteenth century, Mayfair has undergone constant evolution ever since. The original Georgian elements now blend with Victorian, Edwardian, and thoroughly modern additions. These all combine to create Mayfair's unique architectural character which reflects it sumptuous beginnings, bold ambitions and future visions.",
+                "Tour stops include the inventive reuse of existing buildings, re-shaped green spaces, a completely transformed London square and luxurious designs to delight. You will see how the architects of today have integrated modern architecture into an historic neighbourhood, showcasing the balance between preservation and modernisation. These all combine to create Mayfair's distinct architectural character which reflects it sumptuous beginnings, bold ambitions and future visions."
+            ]
+        },
+        {
+            "heading": "About the Golden Key Academy",
+            "paragraphs": [
+                "This walking tour is part of a wider collection of tours created by Golden Key Academy guides for the Open House Festival celebrating their conclusion of their eight month course.",
+                "Further info on the Golden Key Academy can be found here https://open-city.org.uk/golden-key-academy"
             ]
         }
     ],
@@ -51,7 +53,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12789_distinctly-mayfair-tour-square_da07391c433e34e23b3064e1eb289dcf.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://open-city.org.uk/golden-key-academy",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Outside 94 Piccadilly, W1J 7BP",
         "latitude": 51.50596,
