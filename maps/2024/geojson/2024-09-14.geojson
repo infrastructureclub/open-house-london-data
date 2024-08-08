@@ -10241,6 +10241,33 @@
                 "url": "https://programme.openhouse.org.uk/listings/12890"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.00576,
+                    51.50035
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "This is a test.",
+                "end": "19:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12914/building_12914_pheonix_gardens_community_building_henri_t_278_bb1f9138ea5e56a076c92182163c6ad0.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Test House",
+                "new_venue_this_year": "Yes",
+                "start": "09:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12914"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
