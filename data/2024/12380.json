@@ -21,7 +21,7 @@
             "drop_in": false,
             "end": "2024-09-15T17:15:00+01:00",
             "fully_booked": false,
-            "name": "Walking tour",
+            "name": "A walk through Albertopolis",
             "notes": "A walk exploring the history and politics behind this groundbreaking arts and science quarter, told through its extraordinary architecture.",
             "start": "2024-09-15T16:00:00+01:00",
             "ticketed": true
@@ -57,6 +57,13 @@
             "paragraphs": [
                 "For all inquiries about this and other walks please check the website iyalondonwalks.com or contact iyalondonwalks@gmail.com"
             ]
+        },
+        {
+            "heading": "Golden Key Academy",
+            "paragraphs": [
+                "This tour is led by an alumnus of Open City’s Golden Key Academy – a course training up insightful and engaging guides dedicated to explaining London and bringing its many stories to life. It is part of a wider collection of tour events created by Golden Key Academy guides for the Open House Festival celebrating their conclusion of the eight month course.",
+                "Further information on the Golden Key Academy can be found here https://open-city.org.uk/golden-key-academy"
+            ]
         }
     ],
     "id": 12380,
@@ -71,6 +78,10 @@
     "links": [
         {
             "href": "iyalondonwalks.com",
+            "title": null
+        },
+        {
+            "href": "https://open-city.org.uk/golden-key-academy",
             "title": null
         }
     ],

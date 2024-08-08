@@ -19,7 +19,7 @@
             "drop_in": false,
             "end": "2024-09-14T12:00:00+01:00",
             "fully_booked": false,
-            "name": "Guided walking tour",
+            "name": "The new Camden",
             "notes": "Please ",
             "start": "2024-09-14T10:00:00+01:00",
             "ticketed": true
@@ -34,6 +34,12 @@
                 "Camden is forging a new path, reinventing itself once again with a planned new highline, an observation wheel, the 9-acre Camden Goods Yard redevelopment, a revamped KOKO theatre and an expanding network of markets.",
                 "So, what kind of place is Camden becoming in its next era? You decide on this walking tour of Camden where we’ll take a whistlestop tour of its past, present and future."
             ]
+        },
+        {
+            "heading": "Golden Key Academy",
+            "paragraphs": [
+                "This tour is led by a participant of Open City’s Golden Key Academy – a course training up insightful and engaging guides dedicated to explaining London and bringing its many stories to life. It is part of a wider collection of tours created by Golden Key Academy guides for the Open House Festival celebrating their conclusion of the eight month course.\nFurther information on the Golden Key Academy can be found here https://open-city.org.uk/golden-key-academy"
+            ]
         }
     ],
     "id": 12665,
@@ -45,15 +51,20 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12665_st-george-camden-goods-yard-area-aerial-large-3_3dc6063ff35f538f951200f0dfc56ca5.jpeg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://open-city.org.uk/golden-key-academy",
+            "title": null
+        }
+    ],
     "location": {
-        "address": "Camden Market Stables, opposite Morrisons, NW1 8EH",
+        "address": "Meet: Camden Market Stables, opposite Morrisons, NW1 8EH",
         "latitude": 51.54204,
         "longitude": -0.14696,
         "meeting_point": null,
         "travel_info": [
             "Tube: Camden Town, Chalk Farm, Mornington Crescent",
-            "Additional travel info: Meeting point is at the entrance to Camden Market Stables - opposite the entrance to the large Morrisons. \r\nEnd point - Mornington Crescent."
+            "Additional travel info: End point - Mornington Crescent."
         ]
     },
     "name": "The new Camden",

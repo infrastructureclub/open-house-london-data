@@ -2,13 +2,7 @@
     "all_week": false,
     "description": "In centuries past thousands of people thronged to Oxford Street to watch executions – now London's most famous destination draws millions of visitors who spend millions of pounds in Europe's busiest shopping thoroughfare. This walk uses the built environment to chart the history of retail and witness its future already in action.",
     "design": {
-        "designers": [
-            {
-                "architect": "Lee Simmons",
-                "description": null,
-                "year": "2021"
-            }
-        ],
+        "designers": [],
         "periods": [],
         "types": [
             "walk/tour"
@@ -25,7 +19,7 @@
             "drop_in": false,
             "end": "2024-09-22T12:00:00+01:00",
             "fully_booked": false,
-            "name": "GKA2024 walking tour of Oxford Street",
+            "name": "Oxford Street walking tour – past, present and future",
             "notes": "Please ",
             "start": "2024-09-22T10:00:00+01:00",
             "ticketed": true
@@ -36,7 +30,13 @@
         {
             "heading": "Background",
             "paragraphs": [
-                "From Roman road to the site of mass execution, from residential neighbourhood to centre for commercial and retail business and then to pioneering department stores - Oxford Street has never ceased to rebrand itself.\nCarved stone beavers and lost crystal palaces are part of the lively tale."
+                "From Roman road to the site of mass execution, from residential neighbourhood to centre for commercial and retail business and then to pioneering department stores - Oxford Street has never ceased to rebrand itself. Carved stone beavers and lost crystal palaces are part of the lively tale."
+            ]
+        },
+        {
+            "heading": "Golden Key Academy",
+            "paragraphs": [
+                "This tour is led by a participant of Open City’s Golden Key Academy – a course training up insightful and engaging guides dedicated to explaining London and bringing its many stories to life. It is part of a wider collection of tours created by Golden Key Academy guides for the Open House Festival celebrating their conclusion of the eight month course.\nFurther information on the Golden Key Academy can be found here https://open-city.org.uk/golden-key-academy"
             ]
         }
     ],
@@ -49,7 +49,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12802_psx_20240701_162102_4feed0269517780968fa560a4ddcdf59.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://open-city.org.uk/golden-key-academy",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Meet: Circadian sculpture, 5 Marble Arch, W1H 7EJ",
         "latitude": 51.51362,

@@ -1820,6 +1820,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1396211,
+                    51.5215779
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "An enduring, distinctive feature of the London skyline for the last 54 years, this is a rare opportunity for members of the public to visit the famous revolving floor, 158m above the capital. After the flight the guests can watch a history of the BT Tower film in our auditorium.",
+                "end": "19:15:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2735/building_2735_bt_tower_maja_smiejkowska_23_5a94a3235dd0b2e79cee9c53e05b8b48.jpg",
+                        "title": "BT_Tower_Maja_Smiejkowska_23"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2735/building_2735_wp_20150707_21_48_59_pro-2_92217ffa88764baa5f3ce9d806f45d21.jpg",
+                        "title": "View from BT Tower"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2735/building_2735_screenshot-2023-08-16-at-15-57-46_f1e5d2c5b84b3cd89e63ab3286e14d97.png",
+                        "title": "BT Tower at Night"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2735/building_2735_screenshot-2023-08-16-at-15-59-03_7d45d14f8ccbc369a34553be7976d52d.png",
+                        "title": "BT Tower"
+                    }
+                ],
+                "name": "BT Tower",
+                "new_venue_this_year": "No",
+                "start": "09:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/2735"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1180571,
                     51.54577099999999
                 ],
@@ -6344,7 +6383,7 @@
                 ],
                 "name": "Cooper House",
                 "new_venue_this_year": "Yes",
-                "start": "10:00:00",
+                "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12499"
             },
@@ -7489,6 +7528,41 @@
                 "start": "10:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12834"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0654,
+                    51.41778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The team behind the Swing Bridge will describe its inception, evolution, and construction process and how a community deepened their relationship with this pivotal structure that bridges old and new. Palaeontologists and geologists who have researched the site in detail will take you on a behind-the-scenes tour of the constructed outcrops that give the Deep Time narrative to the CP Dinosaurs.",
+                "end": "15:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12877/building_12877_12_swingbridgeimg_1322_alexpeacock_5c1385b72922f7140a3cb5d412345a2f.jpg",
+                        "title": "credit: Alex Peacock"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12877/building_12877_11_-swingbridge-img_1320_alexpeacock_5f02ee48c2b5727ebbde7beda9450bd3.jpg",
+                        "title": "credit: Alex Peacock"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12877/building_12877_6_swingbridge_c9a4724-jamesbalston_fe9c663a8659be28b4716714e61c8eb9.jpg",
+                        "title": "credit: James Balston"
+                    }
+                ],
+                "name": "Dinosaur Swing Bridge in Crystal Palace Park",
+                "new_venue_this_year": "Yes",
+                "start": "13:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12877"
             },
             "type": "Feature"
         },
