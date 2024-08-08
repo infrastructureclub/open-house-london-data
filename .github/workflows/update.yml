@@ -2,7 +2,7 @@ name: Update open house data
 concurrency: scrape
 on: 
   schedule:
-    - cron: '0 */5 * * *'
+    - cron: '0 */8 * * *'
   workflow_dispatch:
 jobs:
   scrape-and-commit:
