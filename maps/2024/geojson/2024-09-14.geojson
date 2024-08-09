@@ -364,6 +364,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1771684,
+                    51.4946504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "1939 ArtDeco Grade II listed building refurbished in 1950, then restructured and modernised in 2014. Did you know that the Institut was founded in 1910 by a woman, Marie d’Orliac? Or that it welcomed Charles de Gaulle and the Free French Forces during the Second World War?Learn all about the Institut’s fascinating history and gorgeous ArtDeco architecture including its Grade II listed reading room",
+                "end": "17:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/708/building_708_facade-17queensberry_c09cf4373f9acdb5458707e38f3513f1.jpg",
+                        "title": "View of the Art deco facade from Queensberry Palce"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/708/building_708__mb00843_2af3c52a6e92ac5a7501dea6e73d1dbf.jpg",
+                        "title": "View of the Art Deco facade - Entrance"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/708/building_708_readingroom3_6e214d820b3d13e48a585ab73b070140.png",
+                        "title": "Former ballroom, now 'Reading Room Denis Saurat'"
+                    }
+                ],
+                "name": "Institut français du Royaume-Uni",
+                "new_venue_this_year": "No",
+                "start": "14:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/708"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.3007265,
                     51.4094037
                 ],
@@ -2149,6 +2184,65 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/2479"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.2618937,
+                    51.5670677
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Meticulous 1930s rebuilding (complete with original furnishings) of an 1840s Marylebone church. Grade I listed. Contains works by Pugin, Burges, Street, Pearson and Butterfield.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2485/building_2485_church-outside-2_d94a309e1223ad2efd36f7b2a407d085.jpg",
+                        "title": "Opened in Wells Street, Marleybone, 1847, before being dismantled and rebuilt in Kingsbury in 1933."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2485/building_2485_church-inside_fe528ff6b01dd6f238aa8f330b3523ba.jpg",
+                        "title": "View of east end of the Church. The stone Reredos was designed by G. E. Street and begun in 1868."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2485/building_2485_animal_d739962d4817f3488f540827945a9902.jpg",
+                        "title": "Example of unique carved pew ends"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2485/building_2485_font-english-heritage_1c8ea9c804d811a95a608e194a00eef4.jpg",
+                        "title": "The Font - designed by G. E. Street (1878). Font cover designed by J. L. Pearson (1887)."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2485/building_2485_altar-oh_8efbeefa039963bd0f259b482f207153.jpg",
+                        "title": "Main Altar - Designed By A. W. N. Pugin (1847)."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2485/building_2485_old-church-graveyard_157fab356e3bc65adf16b33fcee2201e.jpg",
+                        "title": "St Andrew's (Old Church) graveyard."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2485/building_2485_view-from-graveyard_f55f6240620371b29a4bc870c093cf3c.jpg",
+                        "title": "View of the new church, from the old church."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2485/building_2485_west-window_808b195f61a11fc2352a1541541e2849.jpg",
+                        "title": "West Window by Clayton & Bell (1866). Depicting Christ in Majesty."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2485/building_2485_img_8470_11bd34f7a20f69a4c0e1be8bbd4aa8c0.jpg",
+                        "title": "St Andrew's (Old Church) - 12th/13th Century. Now leased to Romanian Orthodox Church. Grade I."
+                    }
+                ],
+                "name": "St Andrew's Kingsbury (new church)",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2485"
             },
             "type": "Feature"
         },
@@ -9526,6 +9620,41 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12685"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09853,
+                    51.37651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Croydon Urban Room is a space to talk about the past, present and future of the Croydon town centre. Through conversa­tions, stories, exhibitions and events, the Urban Room brings together the views of those who live, work and visit the area to create a shared vision of the future and test new uses live in action.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12687/building_12687_1721246551928_a6d64c6db9d8edb6a0b069318bba4114.jfif",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12687/building_12687_1721246553512_33b438725887eb97a2f260ce2d7bf8ef.jfif",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12687/building_12687_1721246552001_e5541502caba6c4888613ef99bd1082f.jfif",
+                        "title": null
+                    }
+                ],
+                "name": "Croydon Urban Room",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12687"
             },
             "type": "Feature"
         },
