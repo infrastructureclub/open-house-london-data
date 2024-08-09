@@ -607,7 +607,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A striking Neoclassical villa in tranquil gardens on Hampstead Heath, Kenwood boasts breath-taking interiors by Robert Adam and a world-class art collection. For guaranteed entry, book your free ticket via the English Heritage website.",
+                "description": "A striking Neoclassical villa in tranquil gardens on Hampstead Heath, Kenwood boasts breath-taking interiors by Robert Adam and a world-class art collection.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -5633,6 +5633,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0635681,
+                    51.5838118
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Gaunson Creative Studios in South Tottenham, home to over 70 artist studios, will be opening its doors for the first time since 2019. Visitors will be able to meet and buy from over 50 artists across the weekend.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11380/building_11380_gc_os_2024_eventbrite_v1-4indd2_a44df3ae8e5d54bb79f4e289ec5b6f44.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11380/building_11380_3sc00393_96fb5ed3072b16c3f166189c30e2f116.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Gaunson Creative Open Studios part of Markfield Road Festival",
+                "new_venue_this_year": "No",
+                "start": "14:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11380"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.08723,
                     51.4148
                 ],
@@ -6125,6 +6156,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.04537,
+                    51.5396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Applecart Arts is a grade II listed library building, built by the philanthropist Passmore Edwards and designed by the renowned architect, Silvanus Trevail. The library was opened in 1899. For a period of time, the building was used as a registry office before sitting dormant. In 2021, the arts charity began an extensive refurbishment, opening the site to the public as a creative arts hub.",
+                "end": "17:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12007/building_12007_002_140982bfda8e0de119817067f9e71dfc.jpeg",
+                        "title": null
+                    }
+                ],
+                "name": "Applecart Arts",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.11123,
                     51.51235
                 ],
@@ -6154,6 +6212,33 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.3674,
+                    51.50065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Open Havelock is a new community project on the Havelock Estate in Southall. The project transforms empty garages, undercrofts and their adjoining grounds into a flexible community facility situated off Willowbrook Road.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12098/building_12098_2-open-havelock_4ab77c538f4f1613b551ff06a2648e86.png",
+                        "title": null
+                    }
+                ],
+                "name": "Open Havelock - guided visit",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12098"
             },
             "type": "Feature"
         },
@@ -7708,6 +7793,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.30984,
+                    51.48269
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "St Lawrence started life as a hospital and chapel in the 12th century. There is a 15th century tower but the rest of the building was rebuilt in the 19th century. It has been unused and  virtually derelict since the 1960s.  It has been refurbished but is currently empty.",
+                "end": "12:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12693/building_12693_st-lawrence-s-brentford_7cfeb0f9770afff327c56bbaa39aea7d.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "St Lawrence",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12693"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.11258,
                     51.49621
                 ],
@@ -7729,6 +7841,33 @@
                 "start": "11:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12719"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.03423,
+                    51.45328
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Brockley House is a colourful renovation of a mid-century corner house in Lewisham, reimagined by Office S&M Architects for a young family of three. The design draws inspiration from cakes, American diners, and digital art, and creatively reconfigures and extends the house to introduce dynamic light, drama, and a sense of joy throughout.",
+                "end": "16:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12725/building_12725_02-officesandm_brockley-house_413d588235a432ce21ca95846abe7928.jpg",
+                        "title": "Brockley House by Office S&M Architects, photograph by  French + Tye"
+                    }
+                ],
+                "name": "Brockley House",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12725"
             },
             "type": "Feature"
         },
@@ -8022,6 +8161,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.37255,
+                    51.49882
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Join curator William Rees for a tour of sites in Southall with ties to the Martinware collection; from the location of the Martin brothers' studio on the Grand Union Canal, to the lost fountain of Southall Manor House Grounds, to the home of the collection today at Southall Library, Dominion Centre. Participants will get a free Martinware map and view collection items recently placed on view.",
+                "end": "16:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12822/building_12822_martinware-map-update_b27a40649a96f8d78ea2e8234ddf7182.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Martinware Trail in Southall",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12822"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.08501,
                     51.47498
                 ],
@@ -8074,6 +8240,33 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12870"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.30516,
+                    51.50643
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The University of West London is offering guided tours of its Ealing site, led by some of our current students, offering the opportunity to discover more about the University’s history and how its facilities have been transformed in recent years.",
+                "end": "14:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12880/building_12880__mg_7114_7c30f96a306841abe62291a521d00d86.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "University of West London",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12880"
             },
             "type": "Feature"
         },

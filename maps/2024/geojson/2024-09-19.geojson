@@ -477,6 +477,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.2891479,
+                    51.4836606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "St Anne's Church, Kew Green was consecrated in 1714. Built with the support of Queen Anne it has been a place of worship for the Royal Families over the centuries. The original 'chapel' has been extended many times and the church is now a little known gem in South West London with a fascinating past.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/5163/building_5163_st-anne-s-side_39593eefa0076f1314379442ab0ca54e.jpg",
+                        "title": "St Anne's side view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/5163/building_5163_st-anne-s-interior_0228a351135c8db1750c22a844b31fbc.jpg",
+                        "title": "St Anne's interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/5163/building_5163_st-anne-s-front_89442d9e6fc7bacdba5776a3f7da2410.jpg",
+                        "title": "St Anne's west front"
+                    }
+                ],
+                "name": "St Anne's Church, Kew Green",
+                "new_venue_this_year": "No",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/5163"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0303782,
                     51.5107426
                 ],
@@ -1554,6 +1589,37 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12692"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.14662,
+                    51.5221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Historic buildings and places are a treasure trove of narratives. How does our built environment, both old and new, contribute to our sense of belonging? Explore the studio and pop-up exhibition at conservation architects and heritage consultants Donald Insall Associates, which is within a Grade II-listed Edwardian townhouse, built in 1914 to the designs of Sydney Tatchell.",
+                "end": "20:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12696/building_12696_e_240626_n3_website_f74486f654ed5f5d5abb5a15b276aa90.jpg",
+                        "title": "12 Devonshire Street, entrance detail"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12696/building_12696_hero-image-cameron-stebbing-web-size_97454585aa1ab52f1b13ba6ec548724e.jpg",
+                        "title": "Image by Cameron Stebbing"
+                    }
+                ],
+                "name": "Hidden Narratives: open studios at 12 Devonshire Street",
+                "new_venue_this_year": "Yes",
+                "start": "18:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12696"
             },
             "type": "Feature"
         },

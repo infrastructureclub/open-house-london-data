@@ -887,6 +887,49 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.09939,
+                    51.37226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A series of events celebrating Croydon's Central Library building and its unique design. Croydon's first central library was moved to the Clocktower buildings when they first opened in May 1896. It was one of the first public libraries with open access shelves and offered one of the UK's first Children’s Libraries.",
+                "end": "18:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_cross-section-through-entrance-and-court_1c51c187d99fb65f2ec0e464fe3931ea.jpg",
+                        "title": "© Mick Timpson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_original-model-with-propsed-commercial-block_bfb822749f82b69f4d044c2356fce943.jpg",
+                        "title": "© Mick Timpson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_planning-sketch-of-mint-walk-facade_2aab9902a4ad539ac435beabfecb3473.jpg",
+                        "title": "© Mick Timpson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_some-details_6a43326c4544c612fec5d8b1d4784cae.jpg",
+                        "title": "© Mick Timpson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_completed-view-of-mint-walk-facade_55711adb50199f8f2eacab77e6982be1.jpg",
+                        "title": "© Mick Timpson"
+                    }
+                ],
+                "name": "Croydon Central Library",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12556"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0922,
                     51.51066
                 ],

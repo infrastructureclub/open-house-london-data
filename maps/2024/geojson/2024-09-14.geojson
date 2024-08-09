@@ -433,7 +433,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A striking Neoclassical villa in tranquil gardens on Hampstead Heath, Kenwood boasts breath-taking interiors by Robert Adam and a world-class art collection. For guaranteed entry, book your free ticket via the English Heritage website.",
+                "description": "A striking Neoclassical villa in tranquil gardens on Hampstead Heath, Kenwood boasts breath-taking interiors by Robert Adam and a world-class art collection.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -2984,6 +2984,72 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.2171867,
+                    51.3593955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Originally a farmer's house dating to 1500, with jettied upper storey. Later additions reflect the changing lifestyles of the owners, including the Killicks for over two centuries. Now houses scale model of Henry VIII's Nonsuch Palace.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/3742/building_3742_whitehall-cropped-image-2_13ca1b54f05b5d43948dd0244994330f.jpg",
+                        "title": ""
+                    }
+                ],
+                "name": "Whitehall Historic House",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3742"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1705811,
+                    51.3552692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Grade II listed building inspired by the ideals of John Ruskin and William Morris and contains Dickinson's paintings, hand-made furniture, furnishings, metalwork and friezes, in Arts & Crafts style. Reopening after a refurbishment project.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/3743/building_3743_lhh-frd-painting-front_4f03e5b60da396c7e0f179735609fddb.jpg",
+                        "title": "Little Holland House by Frank Dickinson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/3743/building_3743_lhh-master-bedroom_b9efe192a0be99336ece2f0a6ab5d33c.jpg",
+                        "title": "Little Holland House master bedroom"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/3743/building_3743_lhh-fireplace_aef28cbb45ee1de81768001472f3f798.jpg",
+                        "title": "Little Holland House living room fireplace"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/3743/building_3743_lhh-frieze_0393f1933c3caa041014a3e4dc489163.jpg",
+                        "title": "Little Holland House frieze above fireplace"
+                    }
+                ],
+                "name": "Little Holland House",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3743"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.16684,
                     51.36508
                 ],
@@ -3091,6 +3157,49 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/3749"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1655658,
+                    51.3660834
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Chalk and flint house dating to 17C with additions including extensions of 1896 and 1903 when owned by John Pattinson Kirk. Rich in period detail and the interior restored and stairs opened up with funding from the Heritage Lottery Fund.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/3939/building_3939_honeywood_summer_4e0a4dda2189e18fc02f58411fdd3873.jpg",
+                        "title": "View of Honeywood today across Carshalton Ponds"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/3939/building_3939_honey-chalk-flint_07e8108417df4a7764002c54d2944bcd.jpg",
+                        "title": "Flint and chalk wall c1680"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/3939/building_3939_honeywood-drawing-room_7aaa34753106ae664ea49ba5fca6337d.jpg",
+                        "title": "Honeywood drawing room Edwardian decoration"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/3939/building_3939_hw-window_cb68b9befbb22ce0f01d8518050416bc.jpg",
+                        "title": "Edwardian stained glass window"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/3939/building_3939_honeywood-30-june-2004_18fca4207fd962eee660494db6827504.jpg",
+                        "title": "Honeywood Museum"
+                    }
+                ],
+                "name": "Honeywood Museum",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/3939"
             },
             "type": "Feature"
         },
@@ -3523,6 +3632,41 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/5049"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.2891479,
+                    51.4836606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "St Anne's Church, Kew Green was consecrated in 1714. Built with the support of Queen Anne it has been a place of worship for the Royal Families over the centuries. The original 'chapel' has been extended many times and the church is now a little known gem in South West London with a fascinating past.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/5163/building_5163_st-anne-s-side_39593eefa0076f1314379442ab0ca54e.jpg",
+                        "title": "St Anne's side view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/5163/building_5163_st-anne-s-interior_0228a351135c8db1750c22a844b31fbc.jpg",
+                        "title": "St Anne's interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/5163/building_5163_st-anne-s-front_89442d9e6fc7bacdba5776a3f7da2410.jpg",
+                        "title": "St Anne's west front"
+                    }
+                ],
+                "name": "St Anne's Church, Kew Green",
+                "new_venue_this_year": "No",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/5163"
             },
             "type": "Feature"
         },
@@ -6127,6 +6271,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1000463,
+                    51.51749599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Barts Pathology Museum, based at St Bartholomew's Hospital, houses around 5,000 medical specimens on display over 3 mezzanine levels. This Grade II Listed building is  in use by students of the Faculty of Medicine and Dentistry at QMUL and as such is very infrequently open to the public. Specimens include the skull of John Bellingham, examples of unusual diseases, and early surgical intervention.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10272/building_10272_path-museum_eafbbfad52af75eff2862e02911ac2dc.jpg",
+                        "title": "Tony 'TK' Smith - Barts Pathology Museum"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10272/building_10272_tkpic3small_54e2f68c8085c6d106616ebf7bb9366a.jpg",
+                        "title": "Tony 'TK' Smith - Barts Pathology Museum"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10272/building_10272_museum2crop_7c54c180631cd4e465bba14ebb93e2d5.jpg",
+                        "title": "Barts Hospital Archive"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10272/building_10272_museum3crop_abcd3ebfb6f69f71c38315252b3d025f.jpg",
+                        "title": "Barts Hospital Archive"
+                    }
+                ],
+                "name": "Barts Pathology Museum",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/10272"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.01214,
                     51.47831
                 ],
@@ -6773,6 +6956,84 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0953226,
+                    51.5130649
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Situated adjacent to St. Paul’s Cathedral, our reworking of this six-storey neo-classical building has created 116,000 sq ft of high-quality office space, three levels of communal terraces and a large new garden designed by Tom Stuart-Smith",
+                "end": "15:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11339/building_11339_1069_n1922_medium_6915a216bcdac30854f8b8e16bad1829.jpg",
+                        "title": "View of St. Paul's from the reflective garden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11339/building_11339_1069_n1934_medium_5903a0ade8c6332483f619c36e775c84.jpg",
+                        "title": "Roof garden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11339/building_11339_1069_n1923_medium_5b6cb04ec0016bd79745706a8786bdee.jpg",
+                        "title": "View of the re-glazed facade from the new garden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11339/building_11339_1069_n1907_medium_731fe6f5ecf9d8fffe5ad49c91c45216.jpg",
+                        "title": "Facade detail"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11339/building_11339_axo006_n764_5mb_3744c9e35a5ee01455f5884647e2b70c.jpg",
+                        "title": "View of 25 Cannon Street across the reflective garden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11339/building_11339_axo006_n772_7210a500d4a82e0807062e68e9478c76.jpg",
+                        "title": "The lobby echoes the serenity of the reflective garden"
+                    }
+                ],
+                "name": "25 Cannon Street",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11339"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0635681,
+                    51.5838118
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Gaunson Creative Studios in South Tottenham, home to over 70 artist studios, will be opening its doors for the first time since 2019. Visitors will be able to meet and buy from over 50 artists across the weekend.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11380/building_11380_gc_os_2024_eventbrite_v1-4indd2_a44df3ae8e5d54bb79f4e289ec5b6f44.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11380/building_11380_3sc00393_96fb5ed3072b16c3f166189c30e2f116.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Gaunson Creative Open Studios part of Markfield Road Festival",
+                "new_venue_this_year": "No",
+                "start": "14:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11380"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.08723,
                     51.4148
                 ],
@@ -7413,6 +7674,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.3674,
+                    51.50065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Open Havelock is a new community project on the Havelock Estate in Southall. The project transforms empty garages, undercrofts and their adjoining grounds into a flexible community facility situated off Willowbrook Road.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12098/building_12098_2-open-havelock_4ab77c538f4f1613b551ff06a2648e86.png",
+                        "title": null
+                    }
+                ],
+                "name": "Open Havelock - guided visit",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12098"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.07719,
                     51.39786
                 ],
@@ -7723,6 +8011,33 @@
                 "start": "10:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12231"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09929,
+                    51.37226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Join our Young Archivists and local historian Lindsay Ould for a behind the scenes tour of Croydon Archives. Our Young Archivists will share their highlights from the collection and talk about their experiences as part of Croydon Archives' project to foreground young people's voices, reinterpret the collections and surface under-represented histories.",
+                "end": "16:15:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12274/building_12274_croydon-buildings-49_40891b83e801b4bda23b92794f5cddf7.jpg",
+                        "title": "Join our Young Archivists and local historian Lindsay Ould for a  tour of Croydon Archives"
+                    }
+                ],
+                "name": "Croydon Archives - Behind the Scenes Tour",
+                "new_venue_this_year": "No",
+                "start": "12:15:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12274"
             },
             "type": "Feature"
         },
@@ -8675,6 +8990,49 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.09919,
+                    51.37226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A series of events celebrating Croydon's Central Library building and its unique design. Croydon's first central library was moved to the Clocktower buildings when they first opened in May 1896. It was one of the first public libraries with open access shelves and offered one of the UK's first Children’s Libraries.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_cross-section-through-entrance-and-court_1c51c187d99fb65f2ec0e464fe3931ea.jpg",
+                        "title": "© Mick Timpson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_original-model-with-propsed-commercial-block_bfb822749f82b69f4d044c2356fce943.jpg",
+                        "title": "© Mick Timpson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_planning-sketch-of-mint-walk-facade_2aab9902a4ad539ac435beabfecb3473.jpg",
+                        "title": "© Mick Timpson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_some-details_6a43326c4544c612fec5d8b1d4784cae.jpg",
+                        "title": "© Mick Timpson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_completed-view-of-mint-walk-facade_55711adb50199f8f2eacab77e6982be1.jpg",
+                        "title": "© Mick Timpson"
+                    }
+                ],
+                "name": "Croydon Central Library",
+                "new_venue_this_year": "Yes",
+                "start": "09:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12556"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.03224,
                     51.35843
                 ],
@@ -9300,7 +9658,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "This walk explores the botanical world of Harmondsworth Moor. Led by an artists and ecologist, we delve into the extraordinary wealth of plants that lie beneath the routine operations of Heathrow airport. We’ll hear about their representation in folklore, magic, medicine, cooking and craft, and ongoing importance for science today.  Sept. 14   11.00 - 12.30 and 2.30 - 4.00. \r\nMeet Five Bells Pub.",
+                "description": "This walk explores the botanical world of Harmondsworth Moor. Led by an artists and naturalist, we delve into the extraordinary wealth of plants that lie beneath the routine operations of Heathrow airport. We’ll hear about their representation in folklore, magic, medicine, cooking and craft, and ongoing importance for science today.  Sept. 14   11.00 - 12.30 and 2.30 - 4.00. \r\nMeet Five Bells Pub.",
                 "end": "16:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -9568,7 +9926,7 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.09929,
+                    -0.09909,
                     51.37226
                 ],
                 "type": "Point"
@@ -10260,6 +10618,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.12302,
+                    51.51826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A guided walk introducing Bloomsbury and the forces that have shaped its identity, from its beginnings in the grounds of an grand aristocratic house, through the building of Georgian streets on the surrounding fields, the establishment of one of the world’s great museums and the growth of a sprawling university, right up to the attempt to give it a 21st-century rebrand as “midtown”.",
+                "end": "14:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12795/building_12795_2024-04-13_website_event_image_2048x2048px_350de36277183c69c43260acee4e0b3a.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Bloomsbury Borderlands walking tour",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12795"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.14377,
                     51.57635
                 ],
@@ -10376,6 +10761,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.30516,
+                    51.50643
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The University of West London is offering guided tours of its Ealing site, led by some of our current students, offering the opportunity to discover more about the University’s history and how its facilities have been transformed in recent years.",
+                "end": "14:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12880/building_12880__mg_7114_7c30f96a306841abe62291a521d00d86.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "University of West London",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12880"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.22597,
                     51.54896
                 ],
@@ -10444,6 +10856,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12890"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.15191,
+                    51.54354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A walking tour celebrating the music venues of Camden Town. Learn about the historic bands that have played at the various sites Camden is famous for. From Pink Floyd to Amy Winehouse and beyond. Take a walk on the wild side through Camden's musical highlights.",
+                "end": "13:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12898/building_12898_screenshot-2024-08-06-at-12-17-36_4f18c4b171798613269335c296362bb8.png",
+                        "title": null
+                    }
+                ],
+                "name": "Rock 'n' Roll Camden Tour",
+                "new_venue_this_year": "Yes",
+                "start": "11:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12898"
             },
             "type": "Feature"
         },

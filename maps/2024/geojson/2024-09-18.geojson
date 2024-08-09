@@ -473,6 +473,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.2891479,
+                    51.4836606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "St Anne's Church, Kew Green was consecrated in 1714. Built with the support of Queen Anne it has been a place of worship for the Royal Families over the centuries. The original 'chapel' has been extended many times and the church is now a little known gem in South West London with a fascinating past.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/5163/building_5163_st-anne-s-side_39593eefa0076f1314379442ab0ca54e.jpg",
+                        "title": "St Anne's side view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/5163/building_5163_st-anne-s-interior_0228a351135c8db1750c22a844b31fbc.jpg",
+                        "title": "St Anne's interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/5163/building_5163_st-anne-s-front_89442d9e6fc7bacdba5776a3f7da2410.jpg",
+                        "title": "St Anne's west front"
+                    }
+                ],
+                "name": "St Anne's Church, Kew Green",
+                "new_venue_this_year": "No",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/5163"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.08305119999999999,
                     51.5092887
                 ],
@@ -1593,6 +1628,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.05691,
+                    51.52769
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Occupying a corner plot on Bethnal Green Road, in a rapidly changing area of East London, the existing 1970s textiles workshop is a robust, yet unremarkable three-storey masonry building. The building has been extensively redeveloped and extended to provide new creative workspaces within a high-quality, low-energy and materially rich office building.",
+                "end": "14:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12550/building_12550_303_bethnal_green-rd_c_carmody-groarke-lr_0fbb9e096bea4fcedd907befb350d3d9.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "469 Bethnal Green Road",
+                "new_venue_this_year": "Yes",
+                "start": "12:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12550"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.11825,
                     51.35525
                 ],
@@ -1614,6 +1676,49 @@
                 "start": "08:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12551"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09939,
+                    51.37226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A series of events celebrating Croydon's Central Library building and its unique design. Croydon's first central library was moved to the Clocktower buildings when they first opened in May 1896. It was one of the first public libraries with open access shelves and offered one of the UK's first Children’s Libraries.",
+                "end": "18:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_cross-section-through-entrance-and-court_1c51c187d99fb65f2ec0e464fe3931ea.jpg",
+                        "title": "© Mick Timpson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_original-model-with-propsed-commercial-block_bfb822749f82b69f4d044c2356fce943.jpg",
+                        "title": "© Mick Timpson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_planning-sketch-of-mint-walk-facade_2aab9902a4ad539ac435beabfecb3473.jpg",
+                        "title": "© Mick Timpson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_some-details_6a43326c4544c612fec5d8b1d4784cae.jpg",
+                        "title": "© Mick Timpson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12556/building_12556_completed-view-of-mint-walk-facade_55711adb50199f8f2eacab77e6982be1.jpg",
+                        "title": "© Mick Timpson"
+                    }
+                ],
+                "name": "Croydon Central Library",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12556"
             },
             "type": "Feature"
         },
