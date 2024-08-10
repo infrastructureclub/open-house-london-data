@@ -12658,6 +12658,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.005,
+                    51.5003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Up in Smoke - the NOW Gallery Design Commission by artist John Booth and architecture studio CAN, transforms the gallery into a vibrant installation that reveals the rich history of Greenwich Peninsula, through its iconic chimneys. The exhibition combines the duo's distinctive styles: Booth's playful, colourful design aesthetic and CAN's fresh, irreverent approach to architecture.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12820/building_12820_upinsmoke_18a89bda16324141133a373f47369147.jpg",
+                        "title": "Image credit: Charles Emerson"
+                    }
+                ],
+                "name": "Up in Smoke by John Booth X CAN",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12820"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.04333,
                     51.58707
                 ],
