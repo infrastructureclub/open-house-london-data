@@ -4805,8 +4805,8 @@
                 "fully_booked": "",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10874/building_10874_img_5182_recoloured_web_5878ee16c2d4211cdcaeb54753a7e739.jpg",
-                        "title": "View from Highgate tube station"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10874/building_10874_jacksons-lane-r5__9014-hdr_9027d7e6aa5d09a61a52222b216c0691.jpg",
+                        "title": "The view from Highgate Underground Station"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10874/building_10874_jacksons_lane_foyer_553_bff78a4a3b8f9ca09fdea525d67b1e36.jpg",
@@ -6373,15 +6373,15 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.11226,
-                    51.51061
+                    -0.11236,
+                    51.51086
                 ],
                 "type": "Point"
             },
             "properties": {
                 "balloted": "No",
                 "description": "HMS WELLINGTON, moored on Victoria Embankment, is the last remaining Battle of the Atlantic Convoy Escort ship still afloat in Europe.  In the 6-year Battle, she steamed close to a quarter of a million miles, escorted 103 Atlantic Convoys and rescued from the sea hundreds of civilian and seamen survivors who would surely have perished but for her efforts. This is a unique and fascinating warship.",
-                "end": "16:30:00",
+                "end": "12:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -7548,6 +7548,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1548,
+                    51.59169
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A radical energy reduction transformation of a 1920s home that adds a light-filled basement arranged around an atrium with living wall.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12749/building_12749_am-twy-sk-0004_7265f9149588067aa77b59cb5d8de374.jpg",
+                        "title": "Twyford Avenue - rear - photo - Kilian O'Sullivan"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12749/building_12749_am-twy-sk-0014_72a60bbb377547d82cf97b9a900cf4ec.jpg",
+                        "title": "Twyford Avenue - atrium - photo - Kilian O'Sullivan"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12749/building_12749_am-twy-sk-0048_ea191f6db8579eea2ef82011f19f9def.jpg",
+                        "title": "Twyford Avenue - atrium - photo - Kilian O'Sullivan"
+                    }
+                ],
+                "name": "62 Twyford Avenue, London",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12749"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.09376,
                     51.66641
                 ],
@@ -7850,7 +7885,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "The team behind the Swing Bridge will describe its inception, evolution, and construction process and how a community deepened their relationship with this pivotal structure that bridges old and new. Palaeontologists and geologists who have researched the site in detail will take you on a behind-the-scenes tour of the constructed outcrops that give the Deep Time narrative to the CP Dinosaurs.",
-                "end": "15:00:00",
+                "end": "14:30:00",
                 "fully_booked": "No",
                 "images": [
                     {

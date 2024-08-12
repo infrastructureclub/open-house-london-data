@@ -9060,6 +9060,57 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.07275,
+                    51.51986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Landmark Trust is a national building conservation charity that restores historic properties at risk and turns them into accommodation for unique short breaks. \r\nJoin us at 13 Princelet Street for this rare public opening to explore the building and find out more about the Landmark Trust. Information about the building will be available with our friendly and knowledgeable staff on hand.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12560/building_12560_princelet-street-21_d0dfb4be397581d6534e2e5616be388c.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12560/building_12560_princelet-street-17_a0d2f84791f150b2bb12f1930aa3c3fe.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12560/building_12560_princelet-street-1_f76c16d26baf131e756a2d17df1f8d8b.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12560/building_12560_princelet-street-29_a9f6df9824e1a7e13b40c9de83122ab5.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12560/building_12560_princelet-street-30_3268122ea6abbdeafd4c13276c3c7a13.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12560/building_12560_princeletstreetepercivaljune14fixed_mb-1_c0bb97fd21dd5938c4020231255b502b.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12560/building_12560_princelet-street-4_230f5f39d03fb39992446f7409ffe80f.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "13 Princelet Street with The Landmark Trust",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12560"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.07654,
                     51.50983
                 ],
@@ -10796,6 +10847,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.11365,
+                    51.51094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Join SAVE and Dr Tom Bolton on a walking tour of Aldwych. Behind the wide formal streets of Aldwych and Kingsway lies a very different neighbourhood. Clare Market and Drury Lane were a tangle of disreputable alleys until the new streets cut them in half. But traces remain, and this walk dives into the back streets to track the vanished lanes and recreate their past at the core of ancient London.",
+                "end": "12:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12833/building_12833_1_c78e2a3197895bc279df3ada0d020d95.jpg",
+                        "title": "St Clement Danes Church [credit: Diliff, CC BY-SA 3.0]"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12833/building_12833_george-s-version-of-website-header-size-3_bd9dd7d711f696f70a1f7fce5fcbf3d8.jpg",
+                        "title": "Strand piazza, 152-158 Strand  &  St Mary Le Strand Church [credit: G.Jerger for SAVE]"
+                    }
+                ],
+                "name": "Lost Aldwych",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12833"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.30516,
                     51.50643
                 ],
@@ -10918,33 +11000,6 @@
                 "start": "11:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12898"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    0.00576,
-                    51.50035
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "This is a test.",
-                "end": "19:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12914/building_12914_pheonix_gardens_community_building_henri_t_278_bb1f9138ea5e56a076c92182163c6ad0.jpg",
-                        "title": null
-                    }
-                ],
-                "name": "Test House",
-                "new_venue_this_year": "Yes",
-                "start": "09:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/12914"
             },
             "type": "Feature"
         }
