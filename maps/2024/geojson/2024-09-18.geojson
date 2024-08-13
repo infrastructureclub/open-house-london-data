@@ -1628,33 +1628,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.05691,
-                    51.52769
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Occupying a corner plot on Bethnal Green Road, in a rapidly changing area of East London, the existing 1970s textiles workshop is a robust, yet unremarkable three-storey masonry building. The building has been extensively redeveloped and extended to provide new creative workspaces within a high-quality, low-energy and materially rich office building.",
-                "end": "14:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12550/building_12550_303_bethnal_green-rd_c_carmody-groarke-lr_0fbb9e096bea4fcedd907befb350d3d9.jpg",
-                        "title": null
-                    }
-                ],
-                "name": "469 Bethnal Green Road",
-                "new_venue_this_year": "Yes",
-                "start": "12:30:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/12550"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.11825,
                     51.35525
                 ],
@@ -1974,6 +1947,53 @@
                 "start": "10:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12834"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.0062,
+                    51.49999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Design District houses permanent and purpose-designed creative workspaces across a cluster of 16 gloriously eclectic buildings, designed by eight pioneering architects. Just one minute from North Greenwich station, the district is a thriving home for creative businesses.",
+                "end": "16:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12918/building_12918_a4-taran-wilkhu-1_042a5f08767d982ac79b41098c399659.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12918/building_12918_a4-and-a3-taran-wilkhu_fe9f7edeaf4264fa590fbdae28ecc7d7.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12918/building_12918_design-district_12-12-21_hr-4-1_b3a8dce14de3443697d7c140cfcb086c.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12918/building_12918_barozzi_veiga__building_a1_design_district-1_a67155c6b99f77fc13ae125ffd7ff6c0.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12918/building_12918_dd_b1_hr-1-min_27ddeebc96e53a20e2b0d7f85884f232.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12918/building_12918_dd_march_17-3-22_hr-8-min_b3cd5f9ced7379acbd485c6d667e3297.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Design District",
+                "new_venue_this_year": "Yes",
+                "start": "15:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12918"
             },
             "type": "Feature"
         }
