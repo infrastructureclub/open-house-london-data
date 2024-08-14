@@ -750,7 +750,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Lillington Gardens in Pimlico, Westminster, was built from 1961 to 1971 by Darbourne & Darke. It set a new standard in high-density public housing with medium-rise structures and private gardens. Blending well with nearby Victorian surroundings, the modernist design won multiple awards and was praised by Nikolaus Pevsner as \"the most interesting recent housing in inner London.",
+                "description": "Lillington Gardens in Pimlico, Westminster, was built from 1961 to 1971 by Darbourne & Darke. It set a new standard in high-density public housing with medium-rise structures and private gardens. Blending well with nearby Victorian surroundings, the modernist design won multiple awards and was praised by Nikolaus Pevsner as 'the most interesting recent housing in inner London'.",
                 "end": "16:15:00",
                 "fully_booked": "No",
                 "images": [
@@ -11213,7 +11213,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Deptford's history is mainly linked to the river, but it also has a rich musical and cultural heritage. This walking tour will explore the sounds of Deptford and New Cross, along the way telling the radical – and often tragic – history of this diverse area, from police clashes at the Moonshot Club to groundbreaking community arts projects at the Albany.",
-                "end": "12:30:00",
+                "end": "13:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -11352,15 +11352,15 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.01336,
-                    51.47804
+                    -0.02671,
+                    51.47888
                 ],
                 "type": "Point"
             },
             "properties": {
                 "balloted": "No",
                 "description": "Join South East London Community Energy for a walking tour of three community energy sites and a workshop on how community energy can help future-proof our city.",
-                "end": "16:00:00",
+                "end": "17:15:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -11598,6 +11598,33 @@
                 "start": "10:45:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12606"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.06417,
+                    51.50736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The University of East London’s Architecture and Visual Arts is a lively School that combines, Architecture, Physical Design and the Visual Arts. This perfect combination of creative programmes cross-pollinate, providing a fertile ground for creation, arts and design.\r\nOur presence  will feature guided tours to the state-of-the-art facilities, creative studios, and ‘Way out East’ gallery.",
+                "end": "16:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12607/building_12607_img_0008-copy_b40eb4e1aacaaf977c8a29c5bd7c177c.jpg",
+                        "title": "AVA building"
+                    }
+                ],
+                "name": "University of East London - Architecture and Visual Art",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12607"
             },
             "type": "Feature"
         },
@@ -12801,6 +12828,33 @@
                 "start": "15:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12803"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0832,
+                    51.51059
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Take a guided tour of a beautiful example of a Wren church with unique features",
+                "end": "18:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12807/building_12807_20210427_112350_5c79c24b42cb651ce878be9eb99da4ca.jpg",
+                        "title": "St Margaret Pattens from the South door"
+                    }
+                ],
+                "name": "St Margaret Pattens Guild Church",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12807"
             },
             "type": "Feature"
         },

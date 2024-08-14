@@ -1286,6 +1286,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.04166,
+                    51.50768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A 3-hour walking tour based around Royal Albert Dock that takes in architecture including London City Airport, The Tate & Lyle Sugar Refinery and the much politicised Royal Albert Dock development with some unexpected stop offs along the way.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12116/building_12116_royal-docks-walking-tour_e85c7a596a1d7112b32d6c797ebb9898.jpg",
+                        "title": "Join a walking tour to discover the waterfront developments and history of Royal Albert Dock"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12116/building_12116_royal-docks-walking-tour-with-momtaz-begum-hossain_2023_cf2604c4bd5929fac87a560e3e4ddee0.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Sugar and spice and all things nice - a sensory inspired walk",
+                "new_venue_this_year": "No",
+                "start": "14:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12116"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1017,
                     51.52306
                 ],

@@ -8826,8 +8826,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.20076,
-                    51.52093
+                    -0.20068,
+                    51.52064
                 ],
                 "type": "Point"
             },
@@ -10265,11 +10265,23 @@
                 "fully_booked": "No",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12708/building_12708_667960_v2_1cfad46a6a9510f95b7c76412315e7b0.jpg",
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12708/building_12708_merkyfc-3-jpg_9c29d8760929f6c12209021da4bde1e4.jpg",
                         "title": null
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12708/building_12708_1714667661179_0714032dc3efac7a0efe01f37ed40580.jfif",
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12708/building_12708_merkyfc-1_34dc327c7705e90f3be7680fbe3a955b.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12708/building_12708_merkyfc-2_8c45f91df547b5380518ce3cae97e304.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12708/building_12708_merkyfc-4-jpg_706b35101b41b35b3cd1caa21786390f.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12708/building_12708_merkyfc-5jpg_3c1b6e2a3f89bae6e25bd1767aa73170.jpg",
                         "title": null
                     }
                 ],
@@ -10970,6 +10982,37 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12833"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.26931,
+                    51.52641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Housed in an industrial 50s warehouse formerly occupied by Rolls Royce and acquired in a semi-derelict state, its transformation was approached by the artist Henry Krokatsis as a large evolving sculptural work. It has been constructed using found and redundant materials, balancing functionality and subversion.",
+                "end": "18:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12837/building_12837_for-web-copy_6e3f53814e81f0babc69e02a5516afd4.jpg",
+                        "title": "Queensrollahouse"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12837/building_12837_16-low-res-end-copy_b8dcfc7a5918c6bd6b8f9d3cbbe70057.jpg",
+                        "title": "Queensrollahouse interior"
+                    }
+                ],
+                "name": "Queensrollahouse",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12837"
             },
             "type": "Feature"
         },

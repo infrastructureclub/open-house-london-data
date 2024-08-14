@@ -6381,7 +6381,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "HMS WELLINGTON, moored on Victoria Embankment, is the last remaining Battle of the Atlantic Convoy Escort ship still afloat in Europe.  In the 6-year Battle, she steamed close to a quarter of a million miles, escorted 103 Atlantic Convoys and rescued from the sea hundreds of civilian and seamen survivors who would surely have perished but for her efforts. This is a unique and fascinating warship.",
-                "end": "12:00:00",
+                "end": "16:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -6969,6 +6969,33 @@
                 "start": "10:45:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12606"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.06417,
+                    51.50736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The University of East London’s Architecture and Visual Arts is a lively School that combines, Architecture, Physical Design and the Visual Arts. This perfect combination of creative programmes cross-pollinate, providing a fertile ground for creation, arts and design.\r\nOur presence  will feature guided tours to the state-of-the-art facilities, creative studios, and ‘Way out East’ gallery.",
+                "end": "16:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12607/building_12607_img_0008-copy_b40eb4e1aacaaf977c8a29c5bd7c177c.jpg",
+                        "title": "AVA building"
+                    }
+                ],
+                "name": "University of East London - Architecture and Visual Art",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12607"
             },
             "type": "Feature"
         },

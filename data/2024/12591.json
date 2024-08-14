@@ -17,10 +17,10 @@
             "capacity": null,
             "date": "2024-09-21",
             "drop_in": false,
-            "end": "2024-09-21T13:30:00+01:00",
+            "end": "2024-09-21T13:45:00+01:00",
             "fully_booked": false,
             "name": "Community Energy Walking Tour",
-            "notes": "A walking tour of three community energy sites followed by a workshop on how to get involved in the community energy revolution.",
+            "notes": "A walking tour of two community energy sites followed by a workshop on how to get involved in the community energy revolution.",
             "start": "2024-09-21T11:00:00+01:00",
             "ticketed": true
         },
@@ -32,10 +32,10 @@
             "capacity": null,
             "date": "2024-09-21",
             "drop_in": false,
-            "end": "2024-09-21T16:00:00+01:00",
+            "end": "2024-09-21T17:15:00+01:00",
             "fully_booked": false,
             "name": "Community Energy Walking Tour",
-            "notes": "A walking tour of three community energy sites followed by a workshop on how to get involved in the community energy revolution.",
+            "notes": "A walking tour of two community energy sites followed by a workshop on how to get involved in the community energy revolution.",
             "start": "2024-09-21T14:30:00+01:00",
             "ticketed": true
         }
@@ -45,7 +45,9 @@
         "Baby changing facilities",
         "Handrails on stairs",
         "Step-free routes",
-        "Toilets"
+        "Toilets",
+        "Drinking water",
+        "Family-friendly event"
     ],
     "factsheet": [
         {
@@ -60,7 +62,7 @@
         {
             "heading": "On the Day",
             "paragraphs": [
-                "We’ll start with a walking tour of three sites that have benefitted from community energy. Two local schools that have had solar panels installed (from street-level as we can’t accommodate roof access for visitors) and one community centre that has had all of their lighting systems upgraded.",
+                "We’ll start with a walking tour of two sites that have benefitted from community energy plus the chance to see our portable solar-powered generator—the solar roller—in action.",
                 "Members of our solar, retrofit and energy advice team will then facilitate a workshop on how community energy can help future-proof our city."
             ]
         }
@@ -76,14 +78,14 @@
     ],
     "links": [],
     "location": {
-        "address": "Greenwich station, Greenwich High Road, SE10 8JQ",
-        "latitude": 51.47804,
-        "longitude": -0.01336,
+        "address": "Deptford station, Deptford High Street, SE8 3NU",
+        "latitude": 51.47888,
+        "longitude": -0.02671,
         "meeting_point": null,
         "travel_info": [
             "Tube: Cutty Sark, Deptford Bridge, Greenwich",
-            "Train: Greenwich",
-            "Additional travel info: We will meet at St John's Station, and walk to two of our solar sites and finish at G-West Community & Arts Centre."
+            "Train: Greenwich, Deptford",
+            "Additional travel info: We will meet at Deptford Station, and walk to one of our new solar sites and finish at G-West Community & Arts Centre."
         ]
     },
     "name": "South East London Community Energy - Walking Tour",
