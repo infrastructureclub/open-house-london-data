@@ -2333,6 +2333,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1916647,
+                    51.53353509999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "St. Augustine's, Kilburn affectionately known as 'The Cathedral of North London' was established in 1870. Fr. Kirkpatrick, the first Vicar, engaged John Loughborough Pearson as the architect with the result being what many consider one of his finest works. Externally in 1890 with the tower and spire it became the 2nd tallest building in London (now ecclesiastically 2nd to St. Paul's Cathedral).",
+                "end": "18:15:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2490/building_2490_4444_2655fdea7a05994093f41aec7202ab94.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2490/building_2490_222-1_70cec86469aa256758388aff55a5d630.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "St Augustine's Church, Kilburn Park Road",
+                "new_venue_this_year": "Yes",
+                "start": "07:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2490"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1519005,
                     51.4900687
                 ],
@@ -3706,7 +3737,7 @@
                 "fully_booked": "",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6705/building_6705_sunny-day-lavender-and-hearse-0210_ba7b49a9f70e63b763e088dba85444ea.jpg",
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6705/building_6705_front-of-building-2024_c4310f66caebf505863f58b336af9a62.jpg",
                         "title": "Mortlake Crematorium"
                     },
                     {
@@ -3724,6 +3755,10 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6705/building_6705_chapel-open-doors-2016-7_f3e85837e002e6d9c494b0c513b19146.jpg",
                         "title": "Original Chapel doors"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6705/building_6705_sunny-day-lavender-and-hearse-0210_ba7b49a9f70e63b763e088dba85444ea.jpg",
+                        "title": "Mortlake Crematorium"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6705/building_6705_view-of-gallery_7c40b3ab062dbb1ac6c0df1717002d40.jpg",
@@ -8364,6 +8399,41 @@
                 "start": "10:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12885"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.15698,
+                    51.36733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Now situated in the garden of the old Gardener’s Cottage, this Queen Anne-style bauble was built between 1905-1914 to face the long-gone Bramblehaw mansion across its lawn. Likely the design of Liverpool-born architect R. Frank Atkinson (1869-1923), who lived at Bramblehaw (1905-8) and who was consulted by Carshalton Urban District Council over designs for new Public Offices, built 1908-9.",
+                "end": "13:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12910/building_12910_bramblehaw-summerhouse_eae9b0d50bb77da9c0feb6cecb3b66e3.jpg",
+                        "title": "Image: Andrew Skelton"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12910/building_12910_dscn2609_03d29c922244544d1ce115aae2d3ee4d.jpg",
+                        "title": "Image: Andrew Skelton"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12910/building_12910_dscn2617_13438b44a61d8bc14b7b29bbb17ee083.jpg",
+                        "title": "Image: Andrew Skelton"
+                    }
+                ],
+                "name": "The Summerhouse",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12910"
             },
             "type": "Feature"
         },

@@ -21,6 +21,21 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-14",
+            "drop_in": true,
+            "end": "2024-09-14T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Sign Painting Studio with artist Peter Liversidge",
+            "notes": "Observe Peter Liversidge in action as he paints signs as well as get involved in the sign painting yourself!",
+            "start": "2024-09-14T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
             "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
@@ -157,6 +172,12 @@
             "description": null,
             "title": "The front of 20 Cavendish Square today",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6151_4007_6e43bf285b83cf7aa376c2a1e75f9c3c.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6151/building_6151_untitled-design-84_e4dfdc2da2802b0934907232042312bf.png",
+            "description": null,
+            "title": "Sign painting studio with Peter Liversidge",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6151_untitled-design-84_e4dfdc2da2802b0934907232042312bf.png"
         }
     ],
     "links": [],

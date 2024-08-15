@@ -1629,6 +1629,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1916647,
+                    51.53353509999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "St. Augustine's, Kilburn affectionately known as 'The Cathedral of North London' was established in 1870. Fr. Kirkpatrick, the first Vicar, engaged John Loughborough Pearson as the architect with the result being what many consider one of his finest works. Externally in 1890 with the tower and spire it became the 2nd tallest building in London (now ecclesiastically 2nd to St. Paul's Cathedral).",
+                "end": "18:15:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2490/building_2490_4444_2655fdea7a05994093f41aec7202ab94.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2490/building_2490_222-1_70cec86469aa256758388aff55a5d630.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "St Augustine's Church, Kilburn Park Road",
+                "new_venue_this_year": "Yes",
+                "start": "07:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2490"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1519005,
                     51.4900687
                 ],
@@ -7277,7 +7308,7 @@
                 "balloted": "No",
                 "description": "Join Martin Glover,  Deaf BSL user, architect and art facilitator, on a guided tour of The Line, East London's public art trail. Martin will lead you around the Greenwich Peninsula section of The Line, introducing you to installations by Alex Chinneck, Serge Attukwei Clottey & Antony Gormley & more.\r\n\r\nThe route is wheelchair-accessible and there will be only BSL interpretation, no spoken English.",
                 "end": "12:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12673/building_12673__dsc0196_24a29b4dfd2652061ca4db8c12d039df.jpg",
@@ -7287,7 +7318,7 @@
                 "name": "BSL Walking Tour of The Line",
                 "new_venue_this_year": "Yes",
                 "start": "11:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12673"
             },
             "type": "Feature"
