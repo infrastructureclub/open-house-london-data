@@ -353,15 +353,15 @@ for building in buildings:
                 )
 
                 fully_booked = False
-                if booking_string == "Full":
+                if booking_string.lower() == "full":
                     fully_booked = True
 
                 balloted = False
-                if "Ballot" in booking_string:
+                if "ballot" in booking_string.lower():
                     balloted = True
 
                 all_day = False
-                if time_string == "All day":
+                if time_string.lower() == "all day":
                     all_day = True
                     # To make using the data easier, fake out the times
                     start_time = "00:00"
