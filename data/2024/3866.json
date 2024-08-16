@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "First built in 1136, St. Lawrence Jewry was destroyed in the Great Fire of 1666. The present church was designed by Sir Christopher Wren in 1671. The interiors were destroyed in December 1940 during the World War Two and restored in 1957, faithful to Wren’s original design. Extensive conservation works were completed in 2023.\r\nThe official church to the City of London Corporation.",
+    "description": "First built in c.1136, St. Lawrence Jewry was destroyed in the Great Fire of 1666. The present church was designed by Sir Christopher Wren in 1671. The interiors were destroyed in December 1940 during the World War Two and restored in 1957, faithful to Wren’s original design. Extensive conservation works were completed in 2023.\r\nThe official church to the City of London Corporation.",
     "design": {
         "designers": [
             {
@@ -30,8 +30,23 @@
             "end": "2024-09-21T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Church Open to visitors",
-            "notes": "Church open with displays relating the recent conservation project and church fabric, tower tours, organ recital, and refreshments.",
+            "notes": "Church open with displays relating the recent conservation project and church fabric, organ recital, and refreshments.",
             "start": "2024-09-21T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T13:45:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Organ Recital",
+            "notes": "Hear a programme of music performed on the organ, built by Johannes Klais of Bonn and installed in 2001. Recitalist: Stephen Disley.",
+            "start": "2024-09-21T13:00:00+01:00",
             "ticketed": false
         },
         {
@@ -45,8 +60,23 @@
             "end": "2024-09-22T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Church Open to visitors",
-            "notes": "Church open with displays relating the recent conservation project and church fabric, tower tours, organ recital, and refreshments.",
+            "notes": "Church open with displays relating the recent conservation project and church fabric, organ recital, and refreshments.",
             "start": "2024-09-22T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T13:45:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Organ Recital",
+            "notes": "Hear a programme of music performed on the organ, built by Johannes Klais of Bonn and installed in 2001. Recitalist: Stephen Disley.",
+            "start": "2024-09-22T13:00:00+01:00",
             "ticketed": false
         }
     ],
