@@ -7419,7 +7419,7 @@
                 ],
                 "name": "London National Park City Visitors Centre",
                 "new_venue_this_year": "Yes",
-                "start": "10:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12692"
             },
@@ -7938,6 +7938,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12820"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.37255,
+                    51.49882
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Join curator William Rees for a tour of sites in Southall with ties to the Martinware collection; from the location of the Martin brothers' studio on the Grand Union Canal, to the lost fountain of Southall Manor House Grounds, to the home of the collection today at Southall Library, Dominion Centre. Participants will get a free Martinware map and view collection items recently placed on view.",
+                "end": "12:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12822/building_12822_martinware-map-update_b27a40649a96f8d78ea2e8234ddf7182.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Martinware Trail in Southall",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12822"
             },
             "type": "Feature"
         },
