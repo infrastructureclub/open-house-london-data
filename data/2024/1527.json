@@ -70,6 +70,21 @@
             "ticketed": true
         },
         {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/1527",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Anatomy & Architecture: Movement workshop for adults",
+            "notes": "Join award-winning performance company Clod Ensemble to dissect the architecture of the RCP's iconic building through movement.",
+            "start": "2024-09-21T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
             "activity_type": "Family activity",
             "all_day": false,
             "balloted": false,
@@ -120,16 +135,17 @@
         {
             "heading": "Lasdun’s Modernist Masterpiece in Regent’s Park",
             "paragraphs": [
-                "The Royal College of Physicians (RCP) is one of London’s most important and provocative buildings. Designed by British architect Sir Denys Lasdun (1914-2001), the building is set amongst the Regency terraces of Regent’s Park – one of only ten Grade I listed post-war buildings in England.",
-                "Drop-in visitors will find out more about the design with our architectural plans, oral history interviews, video of the architect and photographs from our archives. We will also host three guided tours, all expert led, one in British Sign Language, two with a member of the archives, heritage library and museum team. Plus take a guided tour of the medicinal garden and try our treasure hunt!",
-                "The Regent’s Park building was commissioned in 1959 and opened in 1964. It is the RCP’s fifth home since foundation in 1518. The RCP was given permission to demolish a bomb-damaged Nash villa on the site on the condition that the new building harmonised with its surroundings. Lasdun was appointed after making it clear that he would not create a classical building. In 1992 Lasdun was awarded the Royal Institute of British Architects’ Trustees Medal in recognition of his work at the RCP, considered to be ‘the best architecture of its time anywhere in the world’.",
-                "Lasdun’s creation places five hundred years of RCP tradition and collections at the heart of its startlingly modernist design."
+                "A modernist masterpiece, award-winning and Grade I listed, this year the RCP building by Regent’s Park celebrates 60 years since it was opened by Queen Elizabeth II.",
+                "Designed by British architect Sir Denys Lasdun (1914 - 2001) it provoked strong reactions when it was first revealed.",
+                "‘This was an elegant, gracious street and now they slap us in the face with this thing.’ – Neighbour of the RCP at Regent’s park\n‘Sausage factory – or architecture of international standing?’ – Press",
+                "Lasdun was chosen out of several architects, and challenged by the RCP to create a modern building that reflected the RCP’s future, while showcasing its past and matching its surroundings. Lasdun designed a modernist building drawing inspiration from the structure of the human body with classical elements, dramatic interiors and space to celebrate our ceremony and history. It is one of the few post-war buildings to be awarded Grade I listed status. In 1992 Lasdun was awarded the Royal Institute of British Architects’ Trustees Medal in recognition of his work at the RCP, considered to be ‘the best architecture of its time anywhere in the world’.",
+                "‘You can go and see it, and the building, if it has anything to say, will have to speak for itself.’ – Sir Denys Lasdun"
             ]
         },
         {
             "heading": "Exterior",
             "paragraphs": [
-                "The entrance of the building features a striking outward cantilever.  Arrow-slit windows pierce the front of the top layer relieving the otherwise blank walls. The main building materials are blue engineering brick, creating surprising curves that contrast with the straight lines dominating the rest of the building. Elsewhere mosaic porcelain tiles are used."
+                "The entrance doorway of the building is overshadowed by a large jutting box extending beyond the entrance steps, perched on slender yet structurally integral columns. The building’s core material is poured concrete. On the upper layers this forms clean-cut boxes and lines clad in delicate creamy-white porcelain tiles pierced by arrow-slit windows in the corners and along one side. The lower level includes the low humped exterior of the Wolfson Lecture Theatre clad in blue-grey engineering brick and creating surprising curves to contrast with the straight lines above. Facing out into the Garden are large glazed panels with the box of the Censors Room punching through the glass part way up."
             ]
         },
         {
@@ -141,7 +157,7 @@
         {
             "heading": "Censors’ Room",
             "paragraphs": [
-                "The Censors’ Room is lined with 17th century oak paneling originally from the College’s third home in Warwick Lane. Lasdun considered the Censors’ Room to be the ‘heart’ of the College and placed it in the centre of the building."
+                "The Censors’ Room is lined with 17th century oak panelling originally from the College’s third home in Warwick Lane. Lasdun considered the Censors’ Room to be the ‘heart’ of the RCP and placed it in the centre of the building. Censor’s historically were key officers who would examine who was qualified to be a member of the RCP and have a license to practice medicine, and punish physicians operating without a license. The room today is still the starting point for many ceremonial occasions."
             ]
         },
         {
@@ -159,7 +175,7 @@
         {
             "heading": "Dorchester Library",
             "paragraphs": [
-                "Lasdun described the Dorchester Library as the ‘brain’ of the building. There has always been a Library in the RCP and over the centuries fellows have donated books to build one of the finest collections outside Oxford and Cambridge."
+                "Lasdun described the Dorchester Library as the ‘brain’ of the building. There has always been a Library in the RCP and over the centuries fellows have donated books to build one of the finest collections outside Oxford and Cambridge. Today the Heritage Library contains over 50,000 printed items dating from 1471 to the present day. Over 20,000 of these are considered rare books printed pre-1900, many of which are on display in the Dorchester Library."
             ]
         },
         {
@@ -171,7 +187,7 @@
         {
             "heading": "Medicinal Garden",
             "paragraphs": [
-                "The Royal College of Physicians' garden isn't your typical garden. It is unique in that almost every one of the 1000+ species of plant here has a link to medicine. The myriad of stories they tell come from diverse cultures, different countries and from every age in recorded history. There will be tours of the Garden given by our Garden Fellows available from 11am."
+                "The green space to the side of the building was intended to echo the universities of Cambridge and Oxford as a place of contemplation and educated conversation. Today the garden is unique in that almost every one of the 1000+ species of plant here has a link to medicine. The myriad of stories they tell come from diverse cultures, different countries and from every age in recorded history."
             ]
         }
     ],

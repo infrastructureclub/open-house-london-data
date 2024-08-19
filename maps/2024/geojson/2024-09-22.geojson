@@ -5047,41 +5047,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.07235,
-                    51.59624
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Hear about some of the initiatives under way in the Tottenham High Street Heritage Action Zone (High Street HAZ). LB Haringey and the Tottenham Civic Society host a tour uncovering the rich heritage of this bustling, multicultural area.",
-                "end": "13:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10928/building_10928_dp262536_bd2e645a26f77e5fac36d10617dac27d.jpg",
-                        "title": "St Mark's Methodist Church, High Road"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10928/building_10928_img_8272_87273e5811216d12c68ed313705b7582.jpg",
-                        "title": "Detail of Ionic porch on late-C18 house on Bruce Grove"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10928/building_10928_brucegrove_lowres-29_ed4e4d081b41bd791e7f611ebb27228f.jpg",
-                        "title": "View of the completed Bruce Grove Public Conveniences project"
-                    }
-                ],
-                "name": "Heritage on the High Road (High Street HAZ)",
-                "new_venue_this_year": "No",
-                "start": "12:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/10928"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.1019914,
                     51.4871574
                 ],
@@ -6922,17 +6887,29 @@
             "properties": {
                 "balloted": "No",
                 "description": "Explore some of the oldest – and newest – parts of London's underground rail infrastructure as you learn about the world’s first passenger underground railway and hear about its impact on the built environment. From saving London from traffic chaos in the 1850s to fuelling its expansion ever since, it's a fascinating tale of human ingenuity – and property speculation!",
-                "end": "12:30:00",
+                "end": "12:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12581/building_12581_bond-street_d4c79336cf33016b431086250d2e50d0.jpg",
                         "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12581/building_12581_thumbnail_img_1528_b99eaac47de735a061c862456bbc9e60.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12581/building_12581_thumbnail_img_1529_0919bf387f0b5b5c8c0d19e6c7c1d192.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12581/building_12581_thumbnail_img_1962_d0050bcd852f4a0a6d86e958a4d0c28e.jpg",
+                        "title": null
                     }
                 ],
                 "name": "How the tube shaped London",
                 "new_venue_this_year": "Yes",
-                "start": "10:30:00",
+                "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12581"
             },
@@ -8178,33 +8155,6 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12889"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.06552,
-                    51.62585
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Join Artist Zoe White in a workshop to explore All Saints Church through collage, sketches and badge making based on the architecture and the people who would use the church such as a bride or baby.  The church is a special place for the artist who feels  sentimental and connected to the building, feelings she wants to share.\r\n\r\nThis workshop is part of Enfield Creatives’ Collection.",
-                "end": "16:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12895/building_12895_all-saints-church_871c7a8b28769553b7801edc322755ad.jpg",
-                        "title": "All Saints Church Edmonton"
-                    }
-                ],
-                "name": "Creative Exploration of All Saints Church",
-                "new_venue_this_year": "Yes",
-                "start": "12:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/12895"
             },
             "type": "Feature"
         },
