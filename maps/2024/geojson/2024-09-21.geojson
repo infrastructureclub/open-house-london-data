@@ -856,7 +856,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "An impressive Victorian neo-Classical building overlooking the Embankment of the river Thames. It is the second-largest clubhouse ever built, the first London building to incorporate a lift and to be entirely lit by electric lighting.",
-                "end": "12:45:00",
+                "end": "16:30:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -2991,7 +2991,7 @@
                 "balloted": "No",
                 "description": "The B&I Meeting House is a Grade II* listed late-Georgian Quaker Meeting House (1785), surrounded by peaceful and green gardens and a Quaker burial ground. Still in active use today, the architecture includes unique examples of old Quaker practices no longer found in more modern Meetings. Consistent renovations and updates have added new rooms, accessible ramps and toilets, and a full kitchen.",
                 "end": "18:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2688/building_2688_open-house-2_8096f5f63c1f18000bf57d73e29a94a2.jpeg",
@@ -3017,7 +3017,7 @@
                 "name": "Quaker Meeting House - Brentford & Isleworth",
                 "new_venue_this_year": "No",
                 "start": "10:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/2688"
             },
             "type": "Feature"
@@ -4728,6 +4728,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.007199,
+                    51.4995722
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "An exclusive Behind-the-scenes Tour of the London Cable Car. You'll gain access to areas used in the daily operations of the cable car not typically open to the public. Led by our expert guide, you'll learn about the history, design, and construction of the cable care, while enjoying breath-taking views from high above with a return round trip. Tour lasts 60-minute. Limited to 15 people per tour.",
+                "end": "13:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/5530/building_5530_dsc_1978-1_a29d70928fe5428fef1a72325bc7dd26.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/5530/building_5530_ifs-cloud-greenwich-peninsula_e53218b3208edfe7e44ba6c3c7448a12.png",
+                        "title": null
+                    }
+                ],
+                "name": "IFS Cloud Cable Car",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/5530"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.23189,
                     51.49553
                 ],
@@ -6201,7 +6232,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "English National Ballet brings world-class dance to the widest possible audience, and invites you into their home, the Mulryan Centre for Dance. There will be tours taking you behind the scenes of this award-winning building, and more to be announced in due course.",
+                "description": "English National Ballet bring world-class dance to the widest possible audience, and invite you into their home, the Mulryan Centre for Dance. There will be tours taking you behind the scenes of this award-winning building, plus the chance to watch rehearsals, and more.",
                 "end": "17:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -6947,7 +6978,7 @@
                 "type": "Point"
             },
             "properties": {
-                "balloted": "Yes",
+                "balloted": "No",
                 "description": "Centred on Spring Grove House, once Sir Joseph Banks home the 1850s vision was for John Taylor Jnr designed grand villas.  Today's  wider architecture includes a former college by John Norton & P Massey plus quirky arts & crafts properties.",
                 "end": "16:00:00",
                 "fully_booked": "No",
@@ -7165,49 +7196,6 @@
                 "start": "13:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/9722"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.2045922,
-                    51.4576393
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "A refurbishment of the top floor of a terraced house and an experiment in a flexible use of space and to see if you can create more space without grand interventions. Two small loft rooms are added accessible from a shared room with each its own entrance. A lounge netting hangs in front of the loft spaces. \r\nA refurbishment of the lower ground floor into a home office with its own entrance.",
-                "end": "16:30:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9888/building_9888_catja2small_b28268fb66b65aec160e218baf8e8cfc.jpg",
-                        "title": "New loftspace"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9888/building_9888_catja3small_8e9ae452efcdb6610dc2e8f2509366ae.jpg",
-                        "title": "View from loftroom"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9888/building_9888_catja4small_e4960e7d90947571ed6c287a77f83690.jpg",
-                        "title": "view over netting"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9888/building_9888_catja26small_3a6b128bc6199703ec84a3c963c98f80.jpg",
-                        "title": "View from loftroom over netting "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9888/building_9888_catja8small_b2c0ce8bd58dc1ebaa3cc4929d830ec9.jpg",
-                        "title": "Downstairs space"
-                    }
-                ],
-                "name": "Wandsworth House",
-                "new_venue_this_year": "No",
-                "start": "10:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/9888"
             },
             "type": "Feature"
         },
@@ -8594,6 +8582,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.12484,
+                    51.50134
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "This tour looks at how healthcare has had an impact on the buildings and landscapes between Westminster Abbey and the City. Exploring Healthcare related buildings, rebuilt, repurposed or removed and their influence on the landscape.",
+                "end": "13:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11308/building_11308_stthomashospital_dd33535ef7342f32b517039901714fb2.png",
+                        "title": null
+                    }
+                ],
+                "name": "Healthy City - how healthcare shaped London's landscapes",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/11308"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1224538,
                     51.51146319999999
                 ],
@@ -9485,6 +9500,37 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11908"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.07904,
+                    51.52603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Black and White Building (2023) is London's tallest, fully engineered timber office building. Located in the heart of Shoreditch, the building is characterized by its integrity to material, formal simplicity, and adaptable layout. Built from renewable materials and designed to be almost completely demountable, the building sets a powerful precedent for the future of sustainable architecture.",
+                "end": "17:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11948/building_11948_black-white-homepage-slideimage001_a377854b66d29ee07dc3124ac8b4178e.jpg",
+                        "title": "Credit Ed Reeve"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11948/building_11948_ed_reeve5_7111783fd9fb4719a5fe0715140ff77a.jpg",
+                        "title": "Ed Reeve"
+                    }
+                ],
+                "name": "Black & White Building",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11948"
             },
             "type": "Feature"
         },
@@ -11476,8 +11522,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.07503,
-                    51.51008
+                    -0.07654,
+                    51.50983
                 ],
                 "type": "Point"
             },
@@ -13349,8 +13395,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.17164,
-                    51.53134
+                    -0.1693,
+                    51.53223
                 ],
                 "type": "Point"
             },
@@ -13363,6 +13409,22 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12904/building_12904_img_2360_82c8afad1ab3266bcdb824075536777c.jpeg",
                         "title": "Red fox outside houses, North London, England UK\r\nCredits: Matt Maran and ZSL"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12904/building_12904_bagshot-house-16-1024x680_88133a5d1ce38b3a624195e6ad06518e.jpg",
+                        "title": "Allotments near cumberland market, Camden\r\nCredit: alondoninheritance.com"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12904/building_12904_screenshot-2024-08-19-151257_82d1b470a1326f8dba03e80412674064.png",
+                        "title": "Regents Park\r\nCredit: The Royal Parks"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12904/building_12904_pxl_20240602_085028319-edit-2-new_5e3053ab588ab29452a0822c31c21788.jpg",
+                        "title": "Heron on Grand Union- Regents Canal\r\nCredit: Walkspast.com"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12904/building_12904_20220609_141310_6bb314e0cabda609acfcc1bb044d8823.jpg",
+                        "title": "Regents Canal"
                     }
                 ],
                 "name": "Beaks and Boroughs: nature in London",
@@ -13475,6 +13537,37 @@
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12908"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.38104,
+                    51.50235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Southall Manor House is a Grade II* Listed Tudor building - the oldest building in Southall and potentially one of the oldest surviving buildings in West London. The building underwent recent refurbishment, extension and landscaping from 00 Architects. For Open House, the building's heritage will be animated by scents from perfumiers 420Tuesdays and Kushbu.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12927/building_12927_011_southall-manor_87de7d76299fecae9e9e0de543d38616.jpg",
+                        "title": "Southall Manor House"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12927/building_12927_southall-manor-house_c7c93a77b580ebddb32df34ab6ccc65b.jpg",
+                        "title": "Southall Manor House"
+                    }
+                ],
+                "name": "Southall Manor House",
+                "new_venue_this_year": "Yes",
+                "start": "13:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12927"
             },
             "type": "Feature"
         }

@@ -68,6 +68,21 @@
             "notes": "Further events TBA - please check back here for more details.",
             "start": "2024-09-21T10:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2688",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Beginners' Crochet Workshop",
+            "notes": "Join a relaxed free beginners' crochet workshop by CraftyK21. Learn the basic steps of crocheting, or crochet a simple granny square!",
+            "start": "2024-09-21T11:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -165,5 +180,5 @@
     "name": "Quaker Meeting House - Brentford & Isleworth",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2688",
-    "ticketed_events": false
+    "ticketed_events": true
 }
