@@ -17,11 +17,26 @@
             "capacity": null,
             "date": "2024-09-21",
             "drop_in": true,
-            "end": "2024-09-21T20:00:00+01:00",
+            "end": "2024-09-21T21:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Open Studio Event",
             "notes": "A full day of open studio activities!",
             "start": "2024-09-21T13:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": true,
+            "end": "2024-09-21T21:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open Mic night",
+            "notes": "Come and watch local live music, or come and take a  slot and show your talent! To sign up: send an email to woodgreen@thetrampery.com",
+            "start": "2024-09-21T19:00:00+01:00",
             "ticketed": false
         },
         {
@@ -56,7 +71,8 @@
             "heading": "Open Studio at 40 Cumberland road",
             "paragraphs": [
                 "Join us for a weekend of activities and art at 40 Cumberland road, where nearly 50 artists occupy studios in the building. They are excited to welcome you to their space and show you their work!",
-                "As you wander around the building and meet our artists, you are welcome to join us for a taster workshop during the day, and an open mic music event in the evening, which is free for the public to join!"
+                "As you wander around the building and meet our artists, you are welcome to join us for a taster workshop during the day, and an open mic music event in the evening, which is free for the public to join!",
+                "Free refreshments will be available in the lounge."
             ]
         }
     ],
@@ -67,6 +83,30 @@
             "description": null,
             "title": "our building on 40 Cumberland Road",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12771_screenshot-2024-06-28-at-11-55-20_c7bf5f36dc3cba08a160410866067743.png"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12771/building_12771_colorful-illustrative-creative-art-studio-flyer_1e98adc222241bd35235edf2a00254ca.png",
+            "description": null,
+            "title": "Open Studios",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12771_colorful-illustrative-creative-art-studio-flyer_1e98adc222241bd35235edf2a00254ca.png"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12771/building_12771_aug-31-8pm_31d0acd51309e482a366899da6d86917.png",
+            "description": null,
+            "title": "Open Mic Night",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12771_aug-31-8pm_31d0acd51309e482a366899da6d86917.png"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12771/building_12771_20240813_142314_e5ec364b0ea93e9f47f155630dd69a7c.jpg",
+            "description": null,
+            "title": "Front",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12771_20240813_142314_e5ec364b0ea93e9f47f155630dd69a7c.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12771/building_12771_artist-studios-wood-green-1920x1080_dc06da5d9a26d1e2c24bdf6cf9a98853.jpg",
+            "description": null,
+            "title": null,
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12771_artist-studios-wood-green-1920x1080_dc06da5d9a26d1e2c24bdf6cf9a98853.jpg"
         }
     ],
     "links": [],
@@ -76,7 +116,8 @@
         "longitude": -0.11274,
         "meeting_point": null,
         "travel_info": [
-            "Tube: Wood Green"
+            "Tube: Wood Green",
+            "Train: Alexandra Palace"
         ]
     },
     "name": "The Trampery Wood Green",

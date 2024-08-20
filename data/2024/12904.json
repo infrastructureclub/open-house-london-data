@@ -17,7 +17,7 @@
             "capacity": null,
             "date": "2024-09-21",
             "drop_in": false,
-            "end": "2024-09-21T16:00:00+01:00",
+            "end": "2024-09-21T16:30:00+01:00",
             "fully_booked": false,
             "name": "Beaks and Boroughs: Nature in London",
             "notes": "Please ",
@@ -32,7 +32,7 @@
             "capacity": null,
             "date": "2024-09-22",
             "drop_in": false,
-            "end": "2024-09-22T16:00:00+01:00",
+            "end": "2024-09-22T16:30:00+01:00",
             "fully_booked": false,
             "name": "Beaks and Boroughs: Nature in London",
             "notes": "Please ",
@@ -45,7 +45,8 @@
         {
             "heading": "Extra info",
             "paragraphs": [
-                "Our footsteps will peek into parks, church yards and waterways. Through these often overlooked \ncorners, we will explore London's stories past and present, and get to know who else we share our \ncity with"
+                "Our footsteps will peek into parks, church yards and waterways. Through these often overlooked corners, we will explore London's stories past and present, and get to know who else we share our city with.",
+                "Image Credits: \nRed fox outside houses, North London, England UK Credits: Matt Maran and ZSL\nAllotments near Cumberland market, Camden Credit: alondoninheritance.com\nHeron on Grand Union- Regents Canal Credit: Walkspast.com"
             ]
         },
         {
@@ -90,18 +91,25 @@
     ],
     "links": [
         {
+            "href": "alondoninheritance.com",
+            "title": null
+        },
+        {
+            "href": "Walkspast.com",
+            "title": null
+        },
+        {
             "href": "https://open-city.org.uk/golden-key-academy",
             "title": null
         }
     ],
     "location": {
-        "address": "1 Wellington Place, NW8 7PD",
+        "address": "The Good Life Eatery, 1 St John's Wood High St, NW8 7NG",
         "latitude": 51.53223,
-        "longitude": -0.1693,
+        "longitude": -0.16943,
         "meeting_point": null,
         "travel_info": [
-            "Tube: St. John's Wood",
-            "Additional travel info: Meet: St Johns Wood Church Gardens at the entrance at the end of Cochrane street.\r\n\r\nThiswhat three wordsis ///decreased.loss.wonderfully"
+            "Tube: St. John's Wood"
         ]
     },
     "name": "Beaks and Boroughs: nature in London",

@@ -253,6 +253,53 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1531897,
+                    51.50055039999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "During the Open House Festival people will have the unique opportunity to explore the historic mansion that is the home of the Argentine Embassy in the UK. Opening its doors on this special occasion, visitors will enjoy unprecedented access to the home of Argentineans in the UK and explore a glimpse of our culture through an art exposition of different Argentine artists.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2060/building_2060_11ac6a74-8744-41f4-ade0-85fa47c0f729_cf50129a21983e923231d26fd993222a.jpeg",
+                        "title": "Argentine Ambassador's Residence"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2060/building_2060_argentine_ambassador-s_residence_002_176a80db4d5468fd42564711f7dad663.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2060/building_2060_50169010558_c909a99166_k_9036daf6aa8c5b1fea3f6116ea8a42de.jpg",
+                        "title": "Argentine Ambassador's Residence"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2060/building_2060_50169009568_1606542788_k_d08b25b4e05a22fbd353606f6fe8d9f8.jpg",
+                        "title": "Argentine Ambassador's Residence"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2060/building_2060_50169806862_7c89cc8a8e_k_c673326ef5dccf17009ce6de70571bfe.jpg",
+                        "title": "General Jose de San Martin. Argentine Ambassador's Residence"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2060/building_2060_48871135403_4b0a70ac46_k_3ec2a03dec55e3e9bd24dee9361a3c53.jpg",
+                        "title": "Argentine Ambassador's Residence"
+                    }
+                ],
+                "name": "Argentine Ambassador's Residence",
+                "new_venue_this_year": "No",
+                "start": "13:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1747989,
                     51.4765358
                 ],
@@ -571,8 +618,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0303782,
-                    51.5107426
+                    -0.03011,
+                    51.51167
                 ],
                 "type": "Point"
             },
@@ -1084,7 +1131,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Our timber frame building was designed by Matrix Feminist Design Co-Operative, and built by women. It represents our community's history of activism-the same ethos that transformed our site from dereliction, into a thriving community garden",
+                "description": "Our timber frame building was designed by Matrix Feminist Design Co-Operative, and built by women. It represents our community's history of activism - the same ethos that transformed our site from dereliction into a thriving community garden",
                 "end": "15:00:00",
                 "fully_booked": "",
                 "images": [
@@ -2692,6 +2739,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12907"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.02644,
+                    51.43077
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Formed of a series of brick volumes set on the centre of a quiet backland site, 31/44 Architects completed a new-build family home that is deceptively open and light inside its strong masonry exterior. The mass echoes the informal backs of adjacent houses and begins to express the internal layout, where different height spaces lend hierarchy to the principal rooms.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12926/building_12926_3144-architects_park-house_exterior-context_larger_f77f6e9d49b44a84fe15d9eeb5e5957a.jpg",
+                        "title": "Exterior context, photograph by Anna Stathaki"
+                    }
+                ],
+                "name": "Park House",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12926"
             },
             "type": "Feature"
         }

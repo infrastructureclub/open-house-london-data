@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "The walk will start at the Old Operating Museum in Southwark and finish near Waterloo station, taking in major landmarks such as the Shard, or the former Bethlehem Hospital, alongside little known gems such as Octavia Hill's cottages for the poor. Based on the recently published book 'London's South Bank - The History'.",
+    "description": "The walk will start at the Old Operating Theatre Museum in Southwark and finish near Waterloo station, taking in major landmarks such as the Shard, or the former Bethlehem Hospital, alongside little known gems such as Octavia Hill's cottages for the poor. Based on the recently published book 'London's South Bank - The History'.",
     "design": {
         "designers": [
             {
@@ -13,7 +13,8 @@
             "Historical/contemporary"
         ],
         "types": [
-            "museum"
+            "museum",
+            "walk/tour"
         ]
     },
     "events": [
@@ -76,7 +77,7 @@
     ],
     "links": [],
     "location": {
-        "address": "The Old Operating Theatre Museum, 9A St Thomas Street, SE1 9RY",
+        "address": "The Old Operating Theatre Museum, SE1 9RY",
         "latitude": 51.50502,
         "longitude": -0.08859,
         "meeting_point": null,
@@ -84,10 +85,10 @@
             "Tube: London Bridge",
             "Train: London Bridge",
             "Bus: 133, 141, 149, 17, 21, 344, 345, 35, 381, 388, 43, 47",
-            "Additional travel info: The tour ends at Pearman Street, Waterloo\r\nBuses: 1, 12, 59, 68, 77, 148, 172, 176, 188, 243, 344, 360, 453 and C10"
+            "Additional travel info: Meet: Old Operating Theatre Museum, 9A St Thomas St SE1 9RY \r\nEnds: Pearman Street, Waterloo"
         ]
     },
-    "name": "GUIDED WALK",
+    "name": "South Bank Guided Walk",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12408",
     "ticketed_events": true
