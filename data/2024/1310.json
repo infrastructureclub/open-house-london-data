@@ -31,7 +31,7 @@
             "end": "2024-09-14T16:30:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Guided tours",
-            "notes": "Tours: Grand Square, King William Courtyard and Jacobean Undercroft. Book in person  on the day in Lower Grand Square. See https://ornc.org",
+            "notes": "Tours bookable in person  on the day at our Open House table in Lower Grand Square. See https://ornc.org/whats-on/open-house/",
             "start": "2024-09-14T10:00:00+01:00",
             "ticketed": false
         },
@@ -46,8 +46,23 @@
             "end": "2024-09-15T17:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Guided tours and drop in",
-            "notes": "Tours: Grand Square, King William Courtyard and Jacobean Undercroft. Admiral's House open 11.00-17.00.  BSL-led tours. See https://ornc.org",
+            "notes": "Walking tours bookable on the day in Lower Grand Square. Admiral's House drop-in open 11.00-17.00. See https://ornc.org/whats-on/open-house/",
             "start": "2024-09-15T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": true,
+            "end": "2024-09-15T12:50:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: British Sign Language-led tours (delivered in BSL only)",
+            "notes": "Led by BSL Lecturer Alan D Murray. Meet at our Open House table in Lower Grand Square. Book at https://ornc.digitickets.co.uk/category/43126",
+            "start": "2024-09-15T11:20:00+01:00",
             "ticketed": false
         }
     ],
@@ -70,10 +85,10 @@
         {
             "heading": "Grand Square",
             "paragraphs": [
-                "Saturday 14 September, 10.30-15.30, and Sunday 15 September, 10.30-15.30,  walking tour.",
+                "Saturday 14 September, 10.30-15.30, and Sunday 15 September, 10.30-15.30,  walking tours.",
                 "Bookable in-person, on the day, from our Open House table in Lower Grand Square.",
                 "The Grand Square of the Old Royal Naval College lies at the heart of one of the most spectacular architectural complexes in Europe.  These short tours will explore the histories behind the sweeping vistas on view.",
-                "The Grand Square tour will last approximately 15 minutes and will be repeated at half past the hour from 10.30 to 15.30 on 14 and 15 September."
+                "The Grand Square tour will last approximately 15 minutes and will be repeated at half past the hour from 10.30 to 15.30."
             ]
         },
         {
@@ -94,6 +109,23 @@
                 "A rare opportunity to visit the Undercroft of the Queen Anne Building, a survival from the early 1600s and the only remaining intact room from Greenwich Palace.",
                 "The Jacobean Undercroft visit will last approximately 20 minutes and will be repeated on the hour from 11.00 to 16.00.",
                 "The Undercroft is reached by a flight of steps: we regret there is no step-free access for this visit."
+            ]
+        },
+        {
+            "heading": "BSL-led tour of the Jacobean Undercroft",
+            "paragraphs": [
+                "Sunday 15 September, 12.20. This tour will last approximately 30 minutes. It will be led by BSL Guide and Lecturer Alan D Murray and will be delivered entirely in British Sign Language.  Meet at our Open House table in Lower Grand Square.",
+                "A rare opportunity to visit the Undercroft of the Queen Anne Building, a survival from the early 1600s and the only remaining intact room from Greenwich Palace.",
+                "The Undercroft is reached by a flight of steps: we regret there is no step-free access for this visit.",
+                "Please book in advance at https://ornc.digitickets.co.uk/category/43126"
+            ]
+        },
+        {
+            "heading": "British Sign Language (BSL)-led tour of Admiral's House",
+            "paragraphs": [
+                "Sunday 15 September, 11.20. This tour will last approximately 30 minutes. It will be led by BSL Guide and Lecturer Alan D Murray and will be delivered entirely in British Sign Language.  Meet at our Open House table in Lower Grand Square.",
+                "One of the oldest surviving parts of the site, Admiral’s House, overlooking the Thames, was once the residence of the Governor of the Royal Hospital for Seamen. Originally designed by John Webb for Charles II as part of a plan to create a royal palace to rival Versailles. A rare chance to view this elegant space.",
+                "Please book in advance at https://ornc.digitickets.co.uk/category/43126"
             ]
         }
     ],
@@ -136,7 +168,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1310_king-william-colonnade-james-brittain-photography-2-1_57c67711f488ad6be06aa1c499945cca.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://ornc.digitickets.co.uk/category/43126",
+            "title": null
+        },
+        {
+            "href": "https://ornc.digitickets.co.uk/category/43126",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Old Royal Naval College, Greenwich, SE10 9NN",
         "latitude": 51.4832059,
