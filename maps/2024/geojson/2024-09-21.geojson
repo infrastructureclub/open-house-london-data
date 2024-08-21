@@ -472,6 +472,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.2587626,
+                    51.48766570000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Early 18th century red brick country home of artist William Hogarth, extended significantly c. 1749-1764. The 2020 extension, funded by the National Lottery Heritage Fund, added the new Weston Studio for learning and activities, and a curved glass wall in the shape of Hogarth's Line of Beauty. Delightful re-landscaped and reinterpreted walled garden containing famous ancient mulberry tree.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/628/building_628_hogarth-s-house-and-mulberry-tree-may-2022_e9ef43e08cddd2552536335e567d1350.jpg",
+                        "title": "View of the historic house from the walled garden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/628/building_628_hogarth-first-floor_d83df3e5dc2ea027eaeee662aea4e542.jpg",
+                        "title": "First edition Hogarth's prints"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/628/building_628_extension-redevelopment-line-of-beauty-curved-glass_fe3a588086f32f5c00873838d6324d2e.jpg",
+                        "title": "View to the 2020 extension"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/628/building_628_trump-in-window-2_01eef226a53c16fd12002c46691d26b0.jpg",
+                        "title": "View of Hogarth's oriel window"
+                    }
+                ],
+                "name": "Hogarth's House",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/628"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.11566,
                     51.58736
                 ],
@@ -3881,7 +3920,7 @@
                 "balloted": "No",
                 "description": "The independent cultural centre Pushkin House will contribute to this year's Open House Festival through a programme of events and community initiatives at its Grade-II listed building in Bloomsbury Square.",
                 "end": "17:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4108/building_4108_53139306750_91b9568082_k_414e9e9762b239a4d0d1fde33fe29867.jpg",
@@ -3915,7 +3954,7 @@
                 "name": "Pushkin House",
                 "new_venue_this_year": "No",
                 "start": "10:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/4108"
             },
             "type": "Feature"
@@ -4129,149 +4168,6 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/4597"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.2747704,
-                    51.4930625
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Ruskinian walk from RIBA award-winning Chiswick Business Park, Gunnersbury Triangle Nature Reserve through South Acton Estate, birthplace of artist Patrick Caulfield; Woodlands Park Ice House; to home of William Willett, initiator of Daylight Saving Time",
-                "end": "14:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_8093_fcaefe7a22fac1f367c74dd4852b7938.jpg",
-                        "title": "Ice House (18th Century), Woodlands Park"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_beaumaris-tower-2-may-17_de61ba51f03f6da2c3b9f60eab3b54b7.jpg",
-                        "title": "Beaumaris Tower (20th century)"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_harlech-tower_90a043390fc2715e6376b277dc461cba.jpg",
-                        "title": "Harlech Tower (1968-71)"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_19th-20th-century_4099730a0a02bf883553eb5136c37d82.jpg",
-                        "title": "19th & 20th century "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_open-house-banner-2017_dd6531e1546f5585c4d71b34bf332539.jpg",
-                        "title": "Open House banner at Beaumaris Tower"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_home-of-richard-white_6441d3b56b7c0fff555e2cddbe916ade.jpg",
-                        "title": "Home of Richard White (1809) - Mill Hill Park Estate"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_home-of-william-willett_ee90027ef094ab13634ab9fb410bf6ec.jpg",
-                        "title": "Home of William Willett (c 1877) - Mill Hill Park Estate"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_the-south-acton-rec-1889-90_59b99ba9a1c179a36f03644190dd956a.jpg",
-                        "title": "Through South Acton Recreation Ground (1889-90)"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_21st-c-all-saints-road_1648a42a7346a328fbb671be733f7b40.jpg",
-                        "title": "All Saints Road, 21st Century style "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_jerome-tower_8f3e30256560715549f0b695d8773fcf.jpg",
-                        "title": "Jerome Tower's aerofoil roof (1963) seen from Mill Hill Park Estate (1877 onwards) "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_eib-corfe-twr-3-2009_e648c3d6e2549cefef1f1e53b2ec59e3.JPG",
-                        "title": "'Ealing in Bloom' at Corfe Tower - 20th century"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_walking-workshop-from-chiswick-park-business-estate_e8e40afe51afadc9e91877119afa83ce.jpg",
-                        "title": "Walking Workshop - through Chiswick Business Park"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_scbc-office-william-morris-house_26868597145018c12008ed18f76503f6.jpg",
-                        "title": "SCBC Office - William Morris House (2016)"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_south-acton-estate-s-green-lung_4b5791db71b5927846e79eb3ac430540.jpg",
-                        "title": "South Acton Estate's Green Lung"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_william-willett-s-wall-peeps-through-the-foliage_ea40b33825cb0b689e576875a0c2d517.jpg",
-                        "title": "William Willett's wall peeps through lush foliage"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_1545_e34a8533614eb7a1841ac81be097a3ac.jpg",
-                        "title": "Footpath at Gunnersbury Triangle"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_8116_de7e6f5e2b806a1a318db4c0afa03080.jpg",
-                        "title": "Rufford Tower in background (built on former Co-op jam factory site) seen from Woodlands Park entrance"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_8084_04f906e70f52591acfad3c7fd9ae9247.jpg",
-                        "title": "Acton Hill Church seen from Woodlands Park: the adjoining site has been a centre of education since 1903 and was the first campus of Brunel University"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_8129_9eb5697d4fa8d05bdb4002842e3bf9e5.jpg",
-                        "title": "South Acton Nursery School & Children's Centre (Llowarch Llowarch 2005) - South Acton Estate "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_8132_f6aaf510c7f636d0c6058f531eada6a2.jpg",
-                        "title": "Berrymede Infant School - South Acton Estate (21st century rebuild), now Acton Gardens Primary"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_8151_f8015c7e703a2bee4fac9f274f93ed88.jpg",
-                        "title": "Berrymede Junior School - South Acton Estate (19th Century), now part of Acton Gardens Primary"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_8145-v2_aab66f14654f4c79618d668a69df3387.jpg",
-                        "title": "Memorial Plaque South Acton Early Childhood Education (1897)"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_8146-v2_7ea204cccfb2ec1ae4a84567d02fa81d.jpg",
-                        "title": "Memorial Stone South Acton Early Childhood Education (1880)"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_8139_70d2dfbb811056d3c979b9a8c5fffd1c.jpg",
-                        "title": "Rosenburg Road - 21st century view to Jerome Tower (1962-3)"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_8109-v2_fb835285a09c3cf4bdbcb25f8b3598f5.jpg",
-                        "title": "Woodlands Park - rear of small shopping parade, Acton High St. Birthplace of Waitrose (1904)"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_8125-v2_7d0309109ca01ac54634a19dacebdc57.jpg",
-                        "title": "Oak Tree at Nursery 1 Avenue Crescent (Mill Hill Park Estate) - seen from Avenue Road"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_acton-working-mens-club-plaque-cropped_d6b2f8d8c3d1d5903bd6189153423d95.jpg",
-                        "title": "South Acton Working Mens Club - adjacent to South Acton Recreation Ground"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_6-wp_20210729_15_56_48_pro_5af123af40746c22d7531a722f2e3e4b.jpg",
-                        "title": "Caulfield Road by South Acton Recreation Ground"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_9-wp_20210729_16_12_05_pro_b7ffe82c544aeec39ed7ace2ebaef80c.jpg",
-                        "title": "Acton’s heraldry – young Oak Tree in South Acton Recreation Ground"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_acton-coat-arms-sculpture-large_2796e1ae132452dfab844bb08067b702.jpg",
-                        "title": "‘Floreat Actona’: coat of arms for Acton (Oak Town) municipal borough 1921 – 1965 "
-                    }
-                ],
-                "name": "A Ruskinian Walk Through Shared Heritage",
-                "new_venue_this_year": "No",
-                "start": "12:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/4686"
             },
             "type": "Feature"
         },
@@ -4843,8 +4739,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0799375,
-                    51.5211664
+                    -0.07975,
+                    51.52134
                 ],
                 "type": "Point"
             },
@@ -5068,6 +4964,69 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/6826"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1285292,
+                    51.5144001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The first purpose-built new-build community centre to be built in the heart of Soho for generations, located within the renowned Phoenix Gardens. Winner: RIBA London Award. Designed by RIBA London Architect of the Year Winner.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6841/building_6841_2-pheonix_b7ea32597f5fe33b5e6445b19dd3346d.png",
+                        "title": "Phoenix Gardens"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6841/building_6841_2_4d0309afc0e52d9bdd5f84d40a7275f3.jpg",
+                        "title": "View from Shaftesbury Avenue"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6841/building_6841_3_ea5e89f518326cf3dee23fd096f6c620.jpg",
+                        "title": "View to building"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6841/building_6841_4_0272925908a1371ee414b97bc96adcf6.jpg",
+                        "title": "Interior View"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6841/building_6841_5_f79616af8d60234498f855d8985bde25.jpg",
+                        "title": "View from within Phoenix Gardens to building"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6841/building_6841_6_b4787cdfd0633b326894ad2fb98aebc9.jpg",
+                        "title": "Internal View"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6841/building_6841_7_a364cbbfb91006c3df53a1fb5830e4a4.jpg",
+                        "title": "Interior View"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6841/building_6841_8_976ff58ed0dda8594483b49a40fd76ed.jpg",
+                        "title": "Interior View"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6841/building_6841_19-phoenix-aug_3869c5e6170e45717b6bd3cfecec3f5c.jpg",
+                        "title": "Photo Credit: Richard Chivers"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6841/building_6841_17-e1505819877596-copy_754f1b7085be92b44b060857607dd1bf.jpg",
+                        "title": "Photo Credit: Richard Chivers"
+                    }
+                ],
+                "name": "Phoenix Gardens Community Building",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/6841"
             },
             "type": "Feature"
         },
@@ -6181,6 +6140,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.07782059999999999,
+                    51.53976280000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A House for Artists is an ambitious project, designed to provide subsidised, sustainable long-term housing for artists; who in exchange offer free civic and cultural engagement for communities in Barking Town Centre. Co-commissioned by Create London and London Borough of Barking & Dagenham, this project has received supported from the Mayor of London.",
+                "end": "17:40:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7861/building_7861_2-ahfa_2c6bc867951e4b70c9e29db0c061e618.png",
+                        "title": "AHFA"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7861/building_7861_a-house-for-artists-balcony_photographer-stale-erikson_f1c35da8c71d83635a3fefd40a186157.jpg",
+                        "title": "A House for Artists, balcony"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7861/building_7861_a-house-for-artists-balcony_photographer-stale-erikson_3336196cee4ffd6838df0e1c06329a15.png",
+                        "title": "A House for Artists, balcony window"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7861/building_7861_a-house-for-artists-community-space_photographer-gili-merin_bea391c3758a7da1384d698917526231.jpg",
+                        "title": "A House for Artists, community space"
+                    }
+                ],
+                "name": "A House for Artists",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/7861"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.0061236,
                     51.5129037
                 ],
@@ -6188,7 +6186,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "English National Ballet bring world-class dance to the widest possible audience, and invite you into their home, the Mulryan Centre for Dance. There will be tours taking you behind the scenes of this award-winning building, plus the chance to watch rehearsals, and more.",
+                "description": "English National Ballet bring world-class dance to the widest possible audience, and invite you into their home, the Mulryan Centre for Dance. Book for a free tour to go behind the scenes with architecture firm Howells, attend an Insights Session with ENB Artists and get up close to some beautiful ballet costumes created by our wardrobe department. Booking opens at 12pm.",
                 "end": "17:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -7078,6 +7076,41 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/9374"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0108145,
+                    51.5141859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Glenkerry House is a 14-storey tower block designed by Hungarian architect Ernő Goldfinger. The block is managed by its residents, who collectively form the Glenkerry Co-operative Housing Association.",
+                "end": "15:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9437/building_9437_img_1152_800945498f0697675cefc46ae560347f.jpeg",
+                        "title": "Glenkerry House seen from Jolly's Green"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9437/building_9437_2014-07-25-16-10-24-copy_e51dfd99cf3a815cacdebe556f783207.jpg",
+                        "title": "Glenkerry House, Poplar, London E14"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9437/building_9437_img_1212_f57f106cefec2d2e92381cba49755468.jpeg",
+                        "title": "Glenkerry House seen from the River Lea"
+                    }
+                ],
+                "name": "Glenkerry House",
+                "new_venue_this_year": "No",
+                "start": "14:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/9437"
             },
             "type": "Feature"
         },
@@ -8084,6 +8117,53 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1014811,
+                    51.5030975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A 1960s former office block that has been transformed into a vibrant cultural hub showcasing the best of contemporary African culture and heritage. This project is supported by the Mayor of London.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10989/building_10989_2-the-africa-centre_8a05b5b294887ad6cbc60ec076c15769.png",
+                        "title": "First Floor Bar"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10989/building_10989_00004-www-nigelrglasgow-com-africa-centre_29e808dc3535cbf6dbffbbe77dc82f90.jpg",
+                        "title": "2nd Floor Art Gallery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10989/building_10989_tac_tola-0_573245235a97eb28bdec398a3437d63e.jpg",
+                        "title": "Ground Floor dining area"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10989/building_10989_africa-centre-20220608-_n1g4149_322f94d8fb8aaca6d0ed3fa4849959a4.jpg",
+                        "title": "The Africa Centre - Exterior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10989/building_10989_tac-outside-2_f548980ca83f7960bdbb7e46c5550e5d.jpg",
+                        "title": "Front Exterior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10989/building_10989_tac-outside-1_91c283122ec555eaf9fb43153dd87a5f.jpg",
+                        "title": "Front Exterior View"
+                    }
+                ],
+                "name": "The Africa Centre",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10989"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.14388,
                     51.49634
                 ],
@@ -8364,6 +8444,57 @@
                 "start": "10:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11192"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1456951,
+                    51.5800597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Former indoor garden design workshop converted into an open-access ceramics studio.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1234-1_8a57a859853d9100402d44b36577f163.jpg",
+                        "title": "Main members' making area"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1245-1-1_8711bd66b95227528bf230a021fe7b28.jpg",
+                        "title": "Main members' making area"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1241-1_ba67135b1730e887f8a8cb9b7e9800cb.jpg",
+                        "title": "Main members' making area"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1225-1_3b52bc72b319778473f5fce2fd870b5d.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1217-2_508824117ad475c302ce93ab1b27bff0.jpg",
+                        "title": "Upstairs classroom"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1218-1_faf4a6ce76632b2614e27cc5d19d508e.jpg",
+                        "title": "Downstairs throwing classroom"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1199-1_ef31c0e8aee7aa0a6ede1834ecfbf247.jpg",
+                        "title": "Back garden"
+                    }
+                ],
+                "name": "Turning Earth Ceramics Highgate",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11194"
             },
             "type": "Feature"
         },
@@ -9750,6 +9881,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.09292,
+                    51.51606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights 3 scale architectural models of London: the New London Model, the City Model and the Royal Docks Model.",
+                "end": "13:15:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12022/building_12022_tlc-gallery-image_4a4ec9198eae3721250973552952142d.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12022/building_12022_52865185960_c86ab50763_k_e52a333709b64b19b1a679bc80d0d4db.jpg",
+                        "title": "BAR Productions"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12022/building_12022_screenshot-2024-05-11-at-10-55-29_1cce4b0b44fc25088159e3fadb0040d9.png",
+                        "title": "Model Talks at The London Centre."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12022/building_12022_screenshot-2024-05-11-at-10-57-36_4261bd2d5b59c2f371317927808bded9.png",
+                        "title": "Exhibitions at The London Centre."
+                    }
+                ],
+                "name": "The London Centre",
+                "new_venue_this_year": "No",
+                "start": "12:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.09939,
                     51.37226
                 ],
@@ -10317,22 +10487,22 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The Grade I listed North Wing at St Bartholomew’s Hospital in the City of London houses two of England’s most important interiors, the Great Hall, and the Hogarth Stair with its large paintings by William Hogarth. The hospital was designed by architect James Gibbs and construction of the North Wing was completed in 1734.",
+                "description": "The Grade I listed North Wing at St Bartholomew’s Hospital in the City of London houses two of England’s most important interiors, the Great Hall, and the Hogarth Stair with its large paintings by William Hogarth. The hospital was designed by architect James Gibbs and construction of the North Wing was completed in 1732.",
                 "end": "17:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12400/building_12400_11590-matthewandrews_1b802d43c2d3c38184a52d7840195ec1.jpg",
-                        "title": "The Great Hall, photograph Matthew Andrews (C) Barts Heritage"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12400/building_12400_219487-matthewandrews2024_6fc45964f86754421b3e2480aeb2ce20.jpg",
+                        "title": "Conservation in action, photograph by Matthew Andrews"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12400/building_12400_12357-matthewandrews_39ffc9a33521f1bc32e45f16196072ec.jpg",
-                        "title": "Hogarth Stair, photograph Matthew Andrews (c) Barts Heritage"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12400/building_12400_219371-matthewandrews2024_876d9d4932e75b78942418e8bd584de8.jpg",
+                        "title": "Photograph Matthew Andrew"
                     }
                 ],
                 "name": "St Bartholomew's Hospital",
                 "new_venue_this_year": "Yes",
-                "start": "11:00:00",
+                "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12400"
             },
@@ -10666,6 +10836,57 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.12931,
+                    51.53375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A rare chance to see inside a Grade II listed brick-arched studio on Pancras Road.\r\nNow home to Brick Sixty, who design and make products in the form of the much-loved London brick.\r\nBuilt from 1895-1898, this pointed-arch arcade is one of the last surviving structures of the former Midland Railway Company coal depot, originally erected as offices and coal trading stores.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-7_2532f8cf18c0ec71f9e181c97d327265.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-4_49822e89cc25020783b238e6312d8792.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-6_fba02510d00100493a1032a474ac7c73.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-5_4e7d86d47630064af45dab3f8826f0f4.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-1_595d122091061c3bc2c69351842fb0f6.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-3_007af07419e7442f7f48f053e562a65f.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-2_51bded32faeae766932fa5f1a3699039.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    }
+                ],
+                "name": "Brick Sixty Studio",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12504"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.03515,
                     51.31178
                 ],
@@ -10788,6 +11009,37 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12531"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.02064,
+                    51.47851
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A transformative project to open up Cockpit for the benefit its makers and the local community. Our proposal for the redevelopment of Cockpit’s studio building in Deptford was supported by the Mayor of London’s Good Growth Fund and the Stride partnership. Completed in early summer 2024, the project makes Cockpit more publicly accessible and creates new workshop and studio space for makers.",
+                "end": "13:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12534/building_12534_pano_7852_7935-030724_cooke_fawcett_cockpit_final_-_peter-landers-photography-medium_da30d86bbaebe8f67b8e8abe058c5c5f.jpg",
+                        "title": "Cockpit Deptford, copyright Peter Landers Photography"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12534/building_12534_162_cp_240418_009_dscf8574-max-creasy_small_7efb6f2c34c6610649dc483ee3a0e410.jpg",
+                        "title": "The new studio and workshop building, copyright Max Creasy"
+                    }
+                ],
+                "name": "Cockpit Studios Deptford",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12534"
             },
             "type": "Feature"
         },
@@ -11641,7 +11893,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A walk through the City of London from the Thames (at the pool of London) up to Lloyds of London (site of the former HQ of the East India Company) looking at buildings and architecture built during the time of British Empire.",
+                "description": "A walk through the City of London from the Thames (at the pool of London) up to Lloyds of London, site of the former HQ of the East India Company, looking at buildings and architecture built during the time of British Empire.",
                 "end": "15:30:00",
                 "fully_booked": "No",
                 "images": [
@@ -11767,6 +12019,33 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12651"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.06923,
+                    51.4925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Appleby Blue  is a a contemporary social housing project reimagining the almshouse. Designed by Stirling Prize-winning architects Witherford Watson Mann for United St Saviour's Charity and located in Bermondsey, this innovative development offers 57 almshouses for residents aged 65+, fostering intergenerational connections and promoting community-centric urban living.",
+                "end": "14:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12655/building_12655_vile3497_0487e96b2f0105cb4f12dc47413e28be.jpeg",
+                        "title": "Philip Vile"
+                    }
+                ],
+                "name": "Appleby Blue",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12655"
             },
             "type": "Feature"
         },
@@ -12042,7 +12321,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "We're running guided walks in Tottenham Hale showcasing Haringey's new council homes and the council's commitment to working with residents on place-making and regeneration as part of our Haringey Deal. The walks start/end at Living Under One Sun in Down Lane Park, where there will be a display about our programme to build 3,000 new council homes by 2031 and our regeneration of Down Lane Park.",
-                "end": "18:00:00",
+                "end": "17:30:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -12060,7 +12339,7 @@
                 ],
                 "name": "Tottenham Hale & placemaking together",
                 "new_venue_this_year": "Yes",
-                "start": "10:30:00",
+                "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12709"
             },
@@ -12125,6 +12404,100 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12712"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0395,
+                    51.59142
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Blackhorse Lane Ateliers is London's only craft jeans maker. Based within a tastefully renovated 1920s factory building in Walthamstow. Join us for a behind-the-scenes tour where you will get to see the factory in operation. Find out about our methods of production, the equipment, tools and materials we work with and meet some of our team.",
+                "end": "12:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12715/building_12715_bla_factory-2_0d8fdcde2edea6c8657a5e7b1c1db4ec.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12715/building_12715_srw01953_ohfupload_ab569f86021a5c578ec653235863dacd.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12715/building_12715_bla-factory-full_ldf_c47ca5da7672aba640b501b9be215fa9.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12715/building_12715_bla-factory-shots-july-10_ldf_89bb31234cd39947124326b6f595969f.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12715/building_12715_misc-factory-e11-denim-11_ldf_258e6da294fa5e35a2b81c2520b72478.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12715/building_12715_bla-factory-1_ldf_53f4877934c41eaf40c53bfa75603a07.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Blackhorse Lane Ateliers",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12715"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.03929,
+                    51.5702
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "thinkFOUND make socially and environmentally sustainable furniture. We represent a social value model that gives back to communities around London. From our workshop in the Argall Industrial Estate we incorporate carpentry, fabrication, upcycling, training, employment, coaching and more. Over the weekend we will be hosting an open studio demonstrating our processes and showcasing past work.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12717/building_12717_img_0421_ldf_c4e82be909695700c8075696582dbf2a.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12717/building_12717_thinkfound_2_66d8f414653ba94b1265631e1394b0b4.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12717/building_12717_a7r02375_61c5ae4b0bbddbd3083899ebd8846e55.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12717/building_12717_img_5960_ldf_5876a6b3acb36f03674295c2de20778c.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12717/building_12717_img_6054_ldf_4f1fe79c119cc35e69c1584e8d56b5c1.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12717/building_12717_img_1810_ldf_656754bbf48b346a8d92a3be95155713.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "thinkFOUND",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12717"
             },
             "type": "Feature"
         },
@@ -12199,6 +12572,33 @@
                 "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12734"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.19189,
+                    51.36209
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Hello! We're Throwley Yard Cinema, Sutton's independent cinema and cultural hub. With a strong focus on the local community, our four cinema screens are only part of a wider offering which also includes a café, bar, live events, DJ academy, socialising and much more.",
+                "end": "20:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12736/building_12736_img_6169_6614316710175b5442f40d231ca380ce.jpeg",
+                        "title": "Throwley Yard Cinema"
+                    }
+                ],
+                "name": "Throwley Yard Cinema",
+                "new_venue_this_year": "Yes",
+                "start": "18:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12736"
             },
             "type": "Feature"
         },
@@ -13109,6 +13509,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.16881,
+                    51.52418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Alfies Antique Market is London's largest indoor antique and vintage market. The market celebrates 90 dealers who each boast uniquely sourced antique and vintage items.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12830/building_12830_outside-alfies-png_1f83462cfec126de8e46470e79488b08.png",
+                        "title": null
+                    }
+                ],
+                "name": "Alfies Antique Market",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12830"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.07339,
                     51.5633
                 ],
@@ -13155,7 +13582,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "For Skyline Soundscape, artist Nick Smith will play records, found sounds and spoken word to the horizon. Smith is interested in the relationship between the skyline of a city and music that is a common trope of cinema, and how one informing the other can be echo'd in a feedback loop through his durational performance. \r\n\r\nThis event is part of Enfield Creatives’ Collection.",
+                "description": "The Valley Room is a research and project space created by AiR. It considers artist-making in the Lea Valley through a gathering of artefacts, films, objects, maps, books. Monthly openings highlight one artwork, with the artist making an intervention or exhibition.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -13209,7 +13636,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Join Artist Tara in a workshop to celebrate Angel Yard’s story – a metamorphosis of a derelict garage into a now vibrant hub for new businesses, food, and creativity. Workshop participants will explore the theme of transformation by repurposing discarded materials into unique art pieces, symbolising renewal and growth.\r\n\r\nThis workshop is part of Enfield Creatives’ Collection.",
+                "description": "Angel Yard is a versatile and creative communal hub. Located within Snell's Park in Edmonton, it provides a place for people to develop and share their skills, whilst enriching the community and strengthening social bonds, as people from diverse backgrounds come together to collaborate and learn.",
                 "end": "15:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -13366,6 +13793,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12890"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.06068,
+                    51.67527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Myddelton House Gardens were once home to Edward Augustus Bowles, one of Britain’s most famous self-taught gardeners, artists and expert botanists. The gardens are a treasure trove of hidden gems and the beautifully reconstructed Victorian Glasshouse is no exception.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12899/building_12899_cath-carver_1cf9bc2ace5b47f1f234c44f2cbe59f8.jpg",
+                        "title": "Glasshouse"
+                    }
+                ],
+                "name": "Music with Plants by the Glasshouse",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12899"
             },
             "type": "Feature"
         },
@@ -13576,33 +14030,6 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12923"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    0.02644,
-                    51.43077
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Formed of a series of brick volumes set on the centre of a quiet backland site, 31/44 Architects completed a new-build family home that is deceptively open and light inside its strong masonry exterior. The mass echoes the informal backs of adjacent houses and begins to express the internal layout, where different height spaces lend hierarchy to the principal rooms.",
-                "end": "15:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12926/building_12926_3144-architects_park-house_exterior-context_larger_f77f6e9d49b44a84fe15d9eeb5e5957a.jpg",
-                        "title": "Exterior context, photograph by Anna Stathaki"
-                    }
-                ],
-                "name": "Park House",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/12926"
             },
             "type": "Feature"
         },

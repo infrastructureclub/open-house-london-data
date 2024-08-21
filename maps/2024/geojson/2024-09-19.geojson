@@ -427,7 +427,7 @@
                 "balloted": "No",
                 "description": "The independent cultural centre Pushkin House will contribute to this year's Open House Festival through a programme of events and community initiatives at its Grade-II listed building in Bloomsbury Square.",
                 "end": "17:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4108/building_4108_53139306750_91b9568082_k_414e9e9762b239a4d0d1fde33fe29867.jpg",
@@ -461,7 +461,7 @@
                 "name": "Pushkin House",
                 "new_venue_this_year": "No",
                 "start": "10:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/4108"
             },
             "type": "Feature"
@@ -1306,6 +1306,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.09292,
+                    51.51606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights 3 scale architectural models of London: the New London Model, the City Model and the Royal Docks Model.",
+                "end": "13:15:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12022/building_12022_tlc-gallery-image_4a4ec9198eae3721250973552952142d.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12022/building_12022_52865185960_c86ab50763_k_e52a333709b64b19b1a679bc80d0d4db.jpg",
+                        "title": "BAR Productions"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12022/building_12022_screenshot-2024-05-11-at-10-55-29_1cce4b0b44fc25088159e3fadb0040d9.png",
+                        "title": "Model Talks at The London Centre."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12022/building_12022_screenshot-2024-05-11-at-10-57-36_4261bd2d5b59c2f371317927808bded9.png",
+                        "title": "Exhibitions at The London Centre."
+                    }
+                ],
+                "name": "The London Centre",
+                "new_venue_this_year": "No",
+                "start": "12:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.09939,
                     51.37226
                 ],
@@ -1619,7 +1658,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Occupying a corner plot on Bethnal Green Road, in a rapidly changing area of East London, the existing 1970s textiles workshop is a robust, yet unremarkable three-storey masonry building. The building has been extensively redeveloped and extended to provide new creative workspaces within a high-quality, low-energy and materially rich office building",
+                "description": "Located on a corner plot along Bethnal Green Road in a rapidly evolving area of East London, this former 1970s textile workshop has been transformed into a low-energy, materially rich creative workspace.",
                 "end": "13:30:00",
                 "fully_booked": "No",
                 "images": [
@@ -2007,6 +2046,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.16881,
+                    51.52418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Alfies Antique Market is London's largest indoor antique and vintage market. The market celebrates 90 dealers who each boast uniquely sourced antique and vintage items.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12830/building_12830_outside-alfies-png_1f83462cfec126de8e46470e79488b08.png",
+                        "title": null
+                    }
+                ],
+                "name": "Alfies Antique Market",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12830"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.07339,
                     51.5633
                 ],
@@ -2040,6 +2106,33 @@
                 "start": "10:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12834"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.19529,
+                    51.49487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Join a tour to learn about the of the history of Tower House, home of The Mosaic Rooms in Earl's Court. Built in 1872 by Thomas Huggett, the tour will also shed light on the interesting story of its former resident, the impresario Imre Kiralfy. See the building and the traces of its history in this walk-through with a presentation of visual materials about the previously unseen interiors.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12893/building_12893_cbff03e3-4082-4664-a527-ac8a97cd3fc6_39571b52eea3206cc73d590481866fa7.jpeg",
+                        "title": "Street view of Tower House/The Mosaic Rooms by Andy Stagg"
+                    }
+                ],
+                "name": "The Mosaic Rooms",
+                "new_venue_this_year": "Yes",
+                "start": "14:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12893"
             },
             "type": "Feature"
         }

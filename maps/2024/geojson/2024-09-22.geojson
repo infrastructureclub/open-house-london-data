@@ -153,10 +153,6 @@
                 "fully_booked": "No",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/421/building_421_front-fh-hse-lake-jun-2016-oh_6eeff0f8eea70aae38350e59c1c94b4f.jpg",
-                        "title": "Forty Hall & Lake"
-                    },
-                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/421/building_421_forty-hall_9decf0ee8edf531237a647c8786f0a1e.jpg",
                         "title": "Forty Hall"
                     }
@@ -5376,6 +5372,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.0032383,
+                    51.429857
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Open House of 13 Nubia Way  and oral history exhibition of Europe's largest black-led community self-build for rent  iintiative including archive material and new video. https://sites.gold.ac.uk/inlivingmemory/tomorrow-is-built-today/",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11168/building_11168_dolly-hills-and-car_e8f018094ace80eb0a68709848be9b47.jpg",
+                        "title": "Nubia Way today"
+                    }
+                ],
+                "name": "'Tomorrow is Built Today' exhibition of Black-led self-build",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11168"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1319197,
                     51.5947742
                 ],
@@ -5401,6 +5424,57 @@
                 "start": "13:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11172"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1456951,
+                    51.5800597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Former indoor garden design workshop converted into an open-access ceramics studio.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1234-1_8a57a859853d9100402d44b36577f163.jpg",
+                        "title": "Main members' making area"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1245-1-1_8711bd66b95227528bf230a021fe7b28.jpg",
+                        "title": "Main members' making area"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1241-1_ba67135b1730e887f8a8cb9b7e9800cb.jpg",
+                        "title": "Main members' making area"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1225-1_3b52bc72b319778473f5fce2fd870b5d.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1217-2_508824117ad475c302ce93ab1b27bff0.jpg",
+                        "title": "Upstairs classroom"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1218-1_faf4a6ce76632b2614e27cc5d19d508e.jpg",
+                        "title": "Downstairs throwing classroom"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11194/building_11194_dscf1199-1_ef31c0e8aee7aa0a6ede1834ecfbf247.jpg",
+                        "title": "Back garden"
+                    }
+                ],
+                "name": "Turning Earth Ceramics Highgate",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11194"
             },
             "type": "Feature"
         },
@@ -5967,7 +6041,7 @@
                 "balloted": "No",
                 "description": "Join your tour guide for a tour of Hawksmoor’s  finest church, Christ Church, Spitalfields, where we’ll unlock the history of this fascinating area and building, as well as learning a new skill; how to ‘read’ a church. Covering the controversial myth about Hawksmoor and the occult, the tour will explain the social context of the construction of this church and its architectural importance.",
                 "end": "13:15:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11963/building_11963_christ_church_spitalfields_02_83b9aaafd5ab7588b4bba8ce321c1b07.jpg",
@@ -5977,7 +6051,7 @@
                 "name": "Hawksmoor: The Devil’s Architect?",
                 "new_venue_this_year": "No",
                 "start": "12:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11963"
             },
             "type": "Feature"
@@ -6212,20 +6286,68 @@
                 "fully_booked": "No",
                 "images": [
                     {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_houses-peter-cushing_2f85f9fa4937d576b991a5aafd093331.jpeg",
+                        "title": "Front at dusk."
+                    },
+                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_ef32b9fc-d9c3-471c-af0d-d6d4d59c5aa0_fc0c20141093a3148e53348b1826dc8e.jpeg",
-                        "title": null
+                        "title": "Garden"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_5e9db8ea-e26b-4748-ae83-59b23eeb3f52_5ea606a4aa6b2f0f750d62562709cd17.jpeg",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_f953c160-ca69-472e-a1c3-02ab7176d376_9551fa854968d3671478222c1e8a06be.jpeg",
-                        "title": null
+                        "title": "English Heritage Blue Plaque"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_ec401b70-dbd7-4250-b4a4-892246262989_5910bf8502f4abe1764291f7e8cb55ac.jpeg",
                         "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_img_9110_e2ea7d70613abf4dd8f5cee7f3ddf03b.jpeg",
+                        "title": "Living"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_img_9108_65323a8697af3c81f13eb716909c9850.jpeg",
+                        "title": "Cocktail time"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_img_9122_5568dd30e76a5bddb988289c798b721a.jpeg",
+                        "title": "Dining"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_img_9132_1958f2751570159e5288a66cd3820ac1.jpeg",
+                        "title": "More cocktails?"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_img_9150_3786f2b068ed7997797ec043ace00767.jpeg",
+                        "title": "Go on - one last one!"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_img_9146_a9335f2783841578f13aeae16701c669.jpeg",
+                        "title": "Cocktail O’clock."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_img_9152_b7a3a0877e02781e7584369d7e6fc782.jpeg",
+                        "title": "Shine the light."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_img_9156_557cce9b8c6e40a6661f6311354c5cfd.jpeg",
+                        "title": "Time to relax."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_img_9124_29123c04112733d1a6209a87b087347f.jpeg",
+                        "title": "Art Deco lighting."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_img_1835_54b2316ec3eb5ae15bc39ee7448ccf4e.jpeg",
+                        "title": "Time for tennis."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_cushing-4_690795bef170f20e9fa010ca7bb72a03.jpeg",
+                        "title": "Peter Cushing is here."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12230/building_12230_houses-peter-cushing-xtra-1_1684689a0353b413260a84dfbb84610a.jpeg",
+                        "title": "Original fireplace."
                     }
                 ],
                 "name": "Peter Cushing House",
@@ -6759,6 +6881,57 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12499"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.12931,
+                    51.53375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A rare chance to see inside a Grade II listed brick-arched studio on Pancras Road.\r\nNow home to Brick Sixty, who design and make products in the form of the much-loved London brick.\r\nBuilt from 1895-1898, this pointed-arch arcade is one of the last surviving structures of the former Midland Railway Company coal depot, originally erected as offices and coal trading stores.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-7_2532f8cf18c0ec71f9e181c97d327265.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-4_49822e89cc25020783b238e6312d8792.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-6_fba02510d00100493a1032a474ac7c73.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-5_4e7d86d47630064af45dab3f8826f0f4.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-1_595d122091061c3bc2c69351842fb0f6.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-3_007af07419e7442f7f48f053e562a65f.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12504/building_12504_brick-sixty_open-house-2024-2_51bded32faeae766932fa5f1a3699039.jpg",
+                        "title": "Brick Sixty Studio, Arch 141 Pancras Road, London"
+                    }
+                ],
+                "name": "Brick Sixty Studio",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12504"
             },
             "type": "Feature"
         },
@@ -7582,6 +7755,49 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.08239,
+                    51.5016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Founded by Peter Layton in 1976, London Glassblowing is among Europe’s foremost glass art galleries and one of the longest running hot glass studios. \r\n\r\nThe exquisite glass art on display in the gallery is constantly changing. Visitors can not only view pieces from the UK’s finest studio glass artists, but can also watch them practise their craft in the studio that lies beyond its white walls.",
+                "end": "16:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12704/building_12704_this-gallery_003_a222680331a99597af82c884e08beaef.jpg",
+                        "title": "The Gallery (Photograph by Alick Cotterill)"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12704/building_12704_gallery-010_4972cdf6918a45af8154c88a20993b4f.jpg",
+                        "title": "The Gallery (Photo by Alick Cotterill)"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12704/building_12704__q8a4690-copy_69756f82689ee0f7767c0c9b151dea2f.jpg",
+                        "title": "Bruce Marks, Studio Manager (Photograph by Joshua Bratt)"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12704/building_12704_lg110424-57_1a5bb84313621a28b53097cfbe502e99.jpg",
+                        "title": "Studio team in action (Photograph by Edmund White)"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12704/building_12704_gallery_005-1_6bf829e4cee2049108945daa40e41eb4.jpg",
+                        "title": "Image of the gallery by Alick Cotterill"
+                    }
+                ],
+                "name": "London Glassblowing",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12704"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.05772,
                     51.54104
                 ],
@@ -7611,6 +7827,53 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12712"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.03929,
+                    51.5702
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "thinkFOUND make socially and environmentally sustainable furniture. We represent a social value model that gives back to communities around London. From our workshop in the Argall Industrial Estate we incorporate carpentry, fabrication, upcycling, training, employment, coaching and more. Over the weekend we will be hosting an open studio demonstrating our processes and showcasing past work.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12717/building_12717_img_0421_ldf_c4e82be909695700c8075696582dbf2a.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12717/building_12717_thinkfound_2_66d8f414653ba94b1265631e1394b0b4.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12717/building_12717_a7r02375_61c5ae4b0bbddbd3083899ebd8846e55.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12717/building_12717_img_5960_ldf_5876a6b3acb36f03674295c2de20778c.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12717/building_12717_img_6054_ldf_4f1fe79c119cc35e69c1584e8d56b5c1.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12717/building_12717_img_1810_ldf_656754bbf48b346a8d92a3be95155713.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "thinkFOUND",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12717"
             },
             "type": "Feature"
         },
@@ -7681,6 +7944,45 @@
                 "start": "11:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12731"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1306,
+                    51.5157
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Discover Soho in the 1700s and 1800s - a place of bawdy houses, body snatchers and benevolent doctors who rubbed along together in alleyways and elegant townhouses. Soho’s narrow streets have been blighted by cholera and seen some of the country’s first specialist hospitals. Many of its buildings escaped the bombing of WWll and at least in part can be seen today.",
+                "end": "12:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12739/building_12739_img_1493_5f1242ce6932544e732e5df6195b65d0.jpg",
+                        "title": "Lou talking outside the Hospital for Women in Soho Square"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12739/building_12739_img_1477_0febfbd24354219bd2a9cb62c9f52024.jpg",
+                        "title": "The Broad Street pump responsible for the 1854 Soho cholera outbreak"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12739/building_12739_img_8196_8b46229df8c51f9e86f7191ff02f51fd.jpg",
+                        "title": "Prosthetic nose for syphilis sufferers"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12739/building_12739_img_1510_d0fcf4e06a73d0474d6f80938c07e2fb.jpg",
+                        "title": "Mary Seacole's home after the Crimean War"
+                    }
+                ],
+                "name": "Death, debauchery and doctors in Soho",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12739"
             },
             "type": "Feature"
         },
@@ -8113,7 +8415,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A performance of a new composition by Brigitte Beraha that expresses the dichotomy between the exterior façade of the Church - which sits quietly amongst the outside noise of the streets -  and the inside of the building, where one might find beauty in the moment, and a moment of calm and solace within the acoustic space that they are in. \r\n\r\nThis event is part of Enfield Creatives’ Collection",
+                "description": "St John the Evangelist, Palmers Green, is a prominent landmark on Green Lanes, the church was designed by John Oldrid Scott and was built 1903-1909. There is a wealth of post first world war Morris & Co glass, the east window by J.H. Dearle being particularly striking. There are more recent windows by Godard & Gibbs and a notable one of 1918 by Frank Salisbury.",
                 "end": "18:30:00",
                 "fully_booked": "No",
                 "images": [
@@ -8371,6 +8673,33 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12922"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.02644,
+                    51.43077
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Formed of a series of brick volumes set on the centre of a quiet backland site, 31/44 Architects completed a new-build family home that is deceptively open and light inside its strong masonry exterior. The mass echoes the informal backs of adjacent houses and begins to express the internal layout, where different height spaces lend hierarchy to the principal rooms.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12926/building_12926_3144-architects_park-house_exterior-context_larger_f77f6e9d49b44a84fe15d9eeb5e5957a.jpg",
+                        "title": "Exterior context, photograph by Anna Stathaki"
+                    }
+                ],
+                "name": "Park House",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12926"
             },
             "type": "Feature"
         },

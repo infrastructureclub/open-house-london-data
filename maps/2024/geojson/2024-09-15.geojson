@@ -1928,7 +1928,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "During the Open House Festival people will have the unique opportunity to explore the historic mansion that is the home of the Argentine Embassy in the UK. Opening its doors on this special occasion, visitors will enjoy unprecedented access to the home of Argentineans in the UK and explore a glimpse of our culture through an art exposition of different Argentine artists.",
-                "end": "18:00:00",
+                "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -2266,7 +2266,7 @@
                 ],
                 "name": "Trinity Buoy Wharf/Container City",
                 "new_venue_this_year": "No",
-                "start": "12:00:00",
+                "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/2205"
             },
@@ -3753,6 +3753,53 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1130917,
+                    51.5218569
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A former Victorian workhouse that has been transformed through LB Camden's Community Investment Programme into a state of the art facility for 50 homeless people laid out around a beautiful suntrap courtyard.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6355/building_6355_mp-internal-courtyard_01_378ba57c725df269a9e3df36a6bb0614.jpg",
+                        "title": "Internal Courtyard"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6355/building_6355_mp-internal-courtyard_02_72af0ebb115c1dfd853d8ec878e5307e.jpg",
+                        "title": "Internal Courtyard"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6355/building_6355_mp-external_05_e6085f9c6817db576e1cea1e2db245b2.jpg",
+                        "title": "External view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6355/building_6355_mount-pleasant-courtyard_f476fcc4cbdedfa8a1cb42f875aea7d5.jpg",
+                        "title": "Courtyard"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6355/building_6355_mount-pleasant-courtyard2_e6513836d7fccf566df3cc3c103a4c99.jpg",
+                        "title": "Courtyard 2"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6355/building_6355_mount-pleasant-reception_48d6a77f06c2af053e50d26ad03c1554.jpg",
+                        "title": "Reception"
+                    }
+                ],
+                "name": "Mount Pleasant",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/6355"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.13826,
                     51.51895
                 ],
@@ -4823,7 +4870,7 @@
                 ],
                 "name": "1.20 Oxo Tower Wharf",
                 "new_venue_this_year": "No",
-                "start": "10:00:00",
+                "start": "13:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/8766"
             },
@@ -5211,6 +5258,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1180248,
+                    51.521498
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A redevelopment of Holborn’s community centre improving and increasing facilities, enhancing accessibility and creating a space the community can be proud of.   The building has been designed by Stirling prize nominated 6a architects and includes a public artwork for the building, created by artist Cargh Thuring.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10216/building_10216_2-holborn-house_4c85d8d116463958d03b760cafb1cad0.png",
+                        "title": "Holborn House Community"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10216/building_10216_255-holbornhouse-6a-005_733acc56857e2e7c16bb482e297c8aae.jpeg",
+                        "title": "View from the stairs"
+                    }
+                ],
+                "name": "Holborn House",
+                "new_venue_this_year": "No",
+                "start": "12:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.4101565,
                     51.4317281
                 ],
@@ -5352,12 +5430,16 @@
                 "fully_booked": "",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10390/building_10390_81983597_2566743040108194_670896453098405888_n_e20b5d524f445c7837598f0dca4967db.jpg",
-                        "title": "Residents making pizza at the Canal Club community garden"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10390/building_10390_img_0094_9b14b4f9fbf97752927adce3c32ec323.jpeg",
+                        "title": null
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10390/building_10390_35053859_1637820959667078_2230305692802088960_n_f8f2766455905ea2dfbd3d3025dc2790.jpg",
                         "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10390/building_10390_81983597_2566743040108194_670896453098405888_n_e20b5d524f445c7837598f0dca4967db.jpg",
+                        "title": "Residents making pizza at the Canal Club community garden"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10390/building_10390_img_4445_1bdf82c61a304b62196b86cb0f44419a.jpg",
@@ -5365,7 +5447,7 @@
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10390/building_10390_cc-image003-1_fdb084746b5552099d4ba7311db94edf.jpeg",
-                        "title": ""
+                        "title": null
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10390/building_10390_3-c-37_p_98371562ed66c6b51df4b8dfe260d674.jpeg",
@@ -7053,7 +7135,7 @@
                         "title": null
                     }
                 ],
-                "name": "Skinner Trevino House & Sidcup Pavilion",
+                "name": "Skinner Trevino House & Pavilion",
                 "new_venue_this_year": "Yes",
                 "start": "09:00:00",
                 "ticketed_events": "No",
@@ -8592,6 +8674,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.16881,
+                    51.52418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Alfies Antique Market is London's largest indoor antique and vintage market. The market celebrates 90 dealers who each boast uniquely sourced antique and vintage items.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12830/building_12830_outside-alfies-png_1f83462cfec126de8e46470e79488b08.png",
+                        "title": null
+                    }
+                ],
+                "name": "Alfies Antique Market",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12830"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.08501,
                     51.47498
                 ],
@@ -8758,7 +8867,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Join Artist Zoe White in a workshop to explore All Saints Church through collage, sketches and badge making based on the architecture and the people who would use the church such as a bride or baby.  The church is a special place for the artist who feels  sentimental and connected to the building, feelings she wants to share.\r\n\r\nThis workshop is part of Enfield Creatives’ Collection.",
+                "description": "In 1136, the Lord of the Manor (Geoffrey de Mandeville) gave the church as an endowment to the Abbey which he founded at Walden in Essex. Surviving medieval features of the church include the chancel, the nave, the north aisle, the vestry and the tower. The eight bells in the tower weigh from 5 to 15 hundredweights. Five of them date back to the 1700s, one to 1866, and two to 1959.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -8772,6 +8881,33 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12895"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.26758,
+                    51.50684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Nestled in the heart of West London, our establishment draws inspiration from the legendary Mount Toteil, celebrated for its rich history and cultural significance. Delight in our diverse menu, featuring authentic dishes that encapsulate the vibrant flavors and heritage of the region.",
+                "end": "22:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12896/building_12896_img_6137_18dc33cf0eb00bda9babebb967db02a5.jpeg",
+                        "title": "Toteil Traditional Coffee Experience"
+                    }
+                ],
+                "name": "Toteil Restaurant",
+                "new_venue_this_year": "Yes",
+                "start": "13:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12896"
             },
             "type": "Feature"
         },

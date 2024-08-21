@@ -363,8 +363,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "The independent cultural centre Pushkin House will contribute to this year's Open House Festival through a programme of events and community initiatives at its Grade-II listed building in Bloomsbury Square.",
-                "end": "17:00:00",
-                "fully_booked": "",
+                "end": "18:45:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4108/building_4108_53139306750_91b9568082_k_414e9e9762b239a4d0d1fde33fe29867.jpg",
@@ -398,7 +398,7 @@
                 "name": "Pushkin House",
                 "new_venue_this_year": "No",
                 "start": "10:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/4108"
             },
             "type": "Feature"
@@ -1826,33 +1826,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.12758,
-                    51.50721
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "This tour will explore the 20-year transformation of Leamouth Peninsula, and discover London City Island and Goodluck Hope – a thriving hub of arts, culture and community. It will also open up The Lantern Room for visitors to explore. A short walking tour will conclude with soft drinks served in this 29th floor sky lounge, normally exclusive to residents.",
-                "end": "17:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12722/building_12722_goodluck-hope-panorama-1_f1fa22e67493b78ce06e8c0a1137623b.jpg",
-                        "title": "Goodluck Hope"
-                    }
-                ],
-                "name": "Riverside Renaissance: Discovering Goodluck Hope",
-                "new_venue_this_year": "Yes",
-                "start": "15:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/12722"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.13448,
                     51.5099
                 ],
@@ -1961,6 +1934,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.16881,
+                    51.52418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Alfies Antique Market is London's largest indoor antique and vintage market. The market celebrates 90 dealers who each boast uniquely sourced antique and vintage items.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12830/building_12830_outside-alfies-png_1f83462cfec126de8e46470e79488b08.png",
+                        "title": null
+                    }
+                ],
+                "name": "Alfies Antique Market",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12830"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.07339,
                     51.5633
                 ],
@@ -2007,7 +2007,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Design District houses permanent and purpose-designed creative workspaces across a cluster of 16 gloriously eclectic buildings, designed by eight pioneering architects. Just one minute from North Greenwich station, the district is a thriving home for creative businesses.",
+                "description": "Design District houses permanent and purpose-designed creative workspaces across a cluster of 14 gloriously eclectic buildings, designed by eight pioneering architects. Just one minute from North Greenwich station, the district is a thriving home for creative businesses.",
                 "end": "16:30:00",
                 "fully_booked": "No",
                 "images": [
@@ -2047,20 +2047,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0829,
-                    51.52484
+                    -0.08528,
+                    51.528
                 ],
                 "type": "Point"
             },
             "properties": {
                 "balloted": "No",
-                "description": "As the trend towards hyper-local retail and 15-minute cities grows, people are returning to high streets for a friendly, familiar experience. Are we reviving the heyday of ‘the parade,’ where local shops like butchers were just steps away? Join Concrete Communities + Aucoot to discuss the evolution of the built environment and the future of independent local shopkeepers in our digital age.",
+                "description": "As the trend towards hyper-local retail and 15-minute cities grows, people are returning to high streets for a friendly, familiar experience. Are we reviving the heyday of ‘the parade,’ where local shops like butchers & bakers were steps away? Join Concrete Communities + Aucoot to discuss the evolution of the built environment and the future of independent local shopkeepers in our digital age.",
                 "end": "20:30:00",
                 "fully_booked": "No",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12924/building_12924_concretecommunities-008-aucoot-openhouse_623644827ccf466dac17ca34ddf0a23e.png",
-                        "title": "Credit: kenna.studio"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12924/building_12924_concretecommunities-008-aucoot-openhouse-850x500_1a227b2c56f2943b15afd1a53517df63.png",
+                        "title": "Logo Credit: @kenna.studio"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12924/building_12924_hts-chart-edmund-sumner-0016_cfd0056580e9dedc23e737d913331b33.jpg",
+                        "title": "©Edmund Sumner"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12924/building_12924_hts-chart-edmund-sumner-0001_5a6db34a8d4ec0cadb9f9f10705c0b70.jpg",
+                        "title": "©Edmund Sumner"
                     }
                 ],
                 "name": "Aucoot x Concrete Communities",

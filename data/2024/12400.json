@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "The Grade I listed North Wing at St Bartholomew’s Hospital in the City of London houses two of England’s most important interiors, the Great Hall, and the Hogarth Stair with its large paintings by William Hogarth. The hospital was designed by architect James Gibbs and construction of the North Wing was completed in 1734.",
+    "description": "The Grade I listed North Wing at St Bartholomew’s Hospital in the City of London houses two of England’s most important interiors, the Great Hall, and the Hogarth Stair with its large paintings by William Hogarth. The hospital was designed by architect James Gibbs and construction of the North Wing was completed in 1732.",
     "design": {
         "designers": [
             {
@@ -17,6 +17,21 @@
         ]
     },
     "events": [
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12400",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T10:30:00+01:00",
+            "fully_booked": false,
+            "name": "Tour",
+            "notes": "Please ",
+            "start": "2024-09-21T10:00:00+01:00",
+            "ticketed": true
+        },
         {
             "activity_type": "Guided tour",
             "all_day": false,
@@ -141,9 +156,12 @@
         {
             "heading": "Access",
             "paragraphs": [
-                "There is a lift to the Great Hall, which will fit a non-motorised wheelchair, but unfortunately there is no lift access to the scaffold viewing deck, it can only be accessed by climbing stairs.",
+                "There is a lift to the Great Hall, but unfortunately there is no lift access to the scaffold viewing deck, it can only be accessed by climbing stairs.",
+                "The tour is unfortunately not accessible to wheelchair users.",
+                "We are unable to provide access to the site for anyone under the age of 18.",
                 "We will provide folding stools to anyone who would like one.",
-                "A Visual Story will be available on our website, you can use this to familiarise yourself with the building before your visit."
+                "A Visual Story will be available on our website, you can use this to familiarise yourself with the building before your visit.",
+                "https://bartsheritage.org.uk/restoring-historic-barts/learning/conservation/"
             ]
         },
         {
@@ -157,19 +175,24 @@
     "id": 12400,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12400/building_12400_11590-matthewandrews_1b802d43c2d3c38184a52d7840195ec1.jpg",
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12400/building_12400_219487-matthewandrews2024_6fc45964f86754421b3e2480aeb2ce20.jpg",
             "description": null,
-            "title": "The Great Hall, photograph Matthew Andrews (C) Barts Heritage",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12400_11590-matthewandrews_1b802d43c2d3c38184a52d7840195ec1.jpg"
+            "title": "Conservation in action, photograph by Matthew Andrews",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12400_219487-matthewandrews2024_6fc45964f86754421b3e2480aeb2ce20.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12400/building_12400_12357-matthewandrews_39ffc9a33521f1bc32e45f16196072ec.jpg",
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12400/building_12400_219371-matthewandrews2024_876d9d4932e75b78942418e8bd584de8.jpg",
             "description": null,
-            "title": "Hogarth Stair, photograph Matthew Andrews (c) Barts Heritage",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12400_12357-matthewandrews_39ffc9a33521f1bc32e45f16196072ec.jpg"
+            "title": "Photograph Matthew Andrew",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12400_219371-matthewandrews2024_876d9d4932e75b78942418e8bd584de8.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://bartsheritage.org.uk/restoring-historic-barts/learning/conservation/",
+            "title": null
+        }
+    ],
     "location": {
         "address": "St Bartholomew's Hospital, West Smithfield, EC1A 7BE",
         "latitude": 51.51749,
