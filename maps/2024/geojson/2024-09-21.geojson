@@ -7563,6 +7563,26 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10594/building_10594_6524a187-e331-4e89-9398-cf6236a22e58_93665102d1f69797a4e48ecc9638f7c3.jpeg",
                         "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10594/building_10594_img_5160_5e6a0100627f2ac351865f904fb5c31e.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10594/building_10594_img_5156_a5f70d3bbb8fc3f559cf84e0b9883d86.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10594/building_10594_img_5163_df3111b6055bff27d89e308bd9201e37.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10594/building_10594_img_5161_6c9f0185d9007dde78b9a5a8927cb2fd.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10594/building_10594_img_5162_8f54c07e00d75b816cc0c6156081175c.jpeg",
+                        "title": null
                     }
                 ],
                 "name": "Former Church of St Saviour",
@@ -10246,7 +10266,7 @@
                 ],
                 "name": "Holy Trinity",
                 "new_venue_this_year": "Yes",
-                "start": "10:00:00",
+                "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12375"
             },
@@ -11023,7 +11043,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Step into the historic charm of 81 Columbia Road Flower Market in East London.  This iconic Victorian terraced house functions as a live/work space for a local artist who has focussed on photographs of London architecture and life.",
+                "description": "Step into the historic charm of 81 Columbia Road Flower Market in East London.  This iconic Victorian terraced house functions as a space for a local artist who has focussed on photographs of London architecture and life.",
                 "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
@@ -12032,6 +12052,10 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12709/building_12709_walter-tull-house-entrance_4ac5d73cd9b70358698dc9643765db11.jpg",
                         "title": "Walter Tull House, 131 new council homes in Tottenham Hale"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12709/building_12709_4e1a5451_f083d9c78799725227752a8bb481f692.jpg",
+                        "title": "First phase of co-designed improvements to Down Lane Park, Tottenham Hale"
                     }
                 ],
                 "name": "Tottenham Hale & placemaking together",
@@ -13558,6 +13582,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.02644,
+                    51.43077
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Formed of a series of brick volumes set on the centre of a quiet backland site, 31/44 Architects completed a new-build family home that is deceptively open and light inside its strong masonry exterior. The mass echoes the informal backs of adjacent houses and begins to express the internal layout, where different height spaces lend hierarchy to the principal rooms.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12926/building_12926_3144-architects_park-house_exterior-context_larger_f77f6e9d49b44a84fe15d9eeb5e5957a.jpg",
+                        "title": "Exterior context, photograph by Anna Stathaki"
+                    }
+                ],
+                "name": "Park House",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12926"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.38104,
                     51.50235
                 ],
@@ -13583,6 +13634,33 @@
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12927"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13441,
+                    51.5131
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Muphoria Gallery based on Berwick Street, Soho, is London's first music art gallery, exhibiting pop art and musical instruments created by UK artists. We will be hosting a walking tour around the musically important buildings of Soho.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12928/building_12928_muphoria-front1_3a378198633ac3ff5ce75e6372e9d7b3.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Muphoria Gallery",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12928"
             },
             "type": "Feature"
         }
