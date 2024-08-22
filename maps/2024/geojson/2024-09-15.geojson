@@ -490,7 +490,7 @@
                 ],
                 "name": "Gunnersbury Park & Museum",
                 "new_venue_this_year": "No",
-                "start": "14:00:00",
+                "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/539"
             },
@@ -2720,8 +2720,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0884189,
-                    51.5165568
+                    -0.08807,
+                    51.51641
                 ],
                 "type": "Point"
             },
@@ -4436,6 +4436,49 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/7273"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.11617,
+                    51.49051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Edwardian Building, built in 1907 as a school for underprivileged children and funded by the Beaufoy family. \r\nMore recently (since 2014), the building has been functioning as a Diamond Way Buddhist Centre.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7275/building_7275_beaufoy_institute_3905a9574ef4450ece3f45b5f319cb38.jpg",
+                        "title": "From outside"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7275/building_7275_big_gompa_7fad8ce83394e8ee7c88bc6d98090b41.jpg",
+                        "title": "Big Hall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7275/building_7275_small_gompa_01_023981fb7fe04f3dd511feb10dab7567.jpg",
+                        "title": "Small Meditation Room"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7275/building_7275_detail02_70e9cd0f14bcb86a815c75fe062bc1fd.jpg",
+                        "title": "Detail"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7275/building_7275_window_c53335dcb5b04f00c6d8fb0eeefaddc9.jpg",
+                        "title": "Window"
+                    }
+                ],
+                "name": "The Beaufoy (Diamond Way Buddhist Centre)",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/7275"
             },
             "type": "Feature"
         },
@@ -9032,6 +9075,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12913"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.26438,
+                    51.52775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "POW is a not-for-profit open access workshop in Park Royal, which provides easy and affordable access to a fully equipped workshop, that you can book by the day or for as long as you need.\r\nOur workshop includes over 50 professional tools and tech, from woodworking tools and machinery, digital fabrication equipment and a fully extracted spray room.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12915/building_12915_woodwork-room_e3f0b5a103b5cff0515d2dfbfad396f7.png",
+                        "title": "Our main woodworking space"
+                    }
+                ],
+                "name": "41-43 Standard Road",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12915"
             },
             "type": "Feature"
         },

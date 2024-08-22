@@ -31,10 +31,25 @@
             "capacity": null,
             "date": "2024-09-15",
             "drop_in": false,
+            "end": "2024-09-15T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour - Gunnersbury Park and Temple",
+            "notes": "A guided walk around the 'historic core' of Gunnersbury Park, with the chance to see inside the Temple - normally closed to the public.",
+            "start": "2024-09-15T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/539",
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": false,
             "end": "2024-09-15T15:30:00+01:00",
             "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": "Please ",
+            "name": "Guided Tour - Gunnersbury Park House",
+            "notes": "A guided walk around Gunnersbury Park House, with the chance to see areas not normally open to the general public.",
             "start": "2024-09-15T14:00:00+01:00",
             "ticketed": true
         }
@@ -182,7 +197,7 @@
             "Tube: Acton Town",
             "Train: Kew Bridge, Gunnersbury",
             "Bus: E3",
-            "Additional travel info: Please meet at the museum reception for tour. Please visit our website for information on how to get to us."
+            "Additional travel info: Please check the TfL website before you travel. Additional information is available on our website. Check in for tours at museum front desk."
         ]
     },
     "name": "Gunnersbury Park & Museum",
