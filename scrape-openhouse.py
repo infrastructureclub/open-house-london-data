@@ -21,12 +21,12 @@ cookies = {}
 session_cookie = os.getenv("OH_SESSION_COOKIE")
 if session_cookie:
     print("Using session cookie...")
-    cookies = {"_open_house_session": session_cookie}
+    cookies = {"_session_id": session_cookie}
 else:
     print(
         "NOT using session cookie - this will not have accurate booking status data..."
     )
-    cookies = {"_open_house_session": "no_session"}
+    cookies = {"_session_id": "no_session"}
 
 year = 2024
 timezone = pytz.timezone("Europe/London")
@@ -106,7 +106,7 @@ for building in buildings:
         raise Exception("Invalid session cookie")
 
     # OH now reissues a time-limited cookie on each page load
-    cookies = {"_open_house_session": response.cookies["_open_house_session"]}
+    cookies = {"_session_id": response.cookies["_session_id"]}
 
     root = lxml.html.document_fromstring(response.content)
 
@@ -348,13 +348,12 @@ for building in buildings:
                 if notes_node:
                     notes = notes_node[0]
 
-                booking_string = (
-                    event.xpath('.//button[@name="button"]')[0].text_content().strip()
-                )
-
+                booking_buttons = event.xpath('.//button[@name="button"]')
                 fully_booked = False
-                if booking_string.lower() == "full":
-                    fully_booked = True
+                if booking_buttons:
+                    booking_string = booking_buttons[0].text_content().strip()
+                    if "full" in booking_string.lower():
+                        fully_booked = True
 
                 balloted = False
                 if "ballot" in booking_string.lower():
