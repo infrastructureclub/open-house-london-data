@@ -350,14 +350,14 @@ for building in buildings:
 
                 booking_buttons = event.xpath('.//button[@name="button"]')
                 fully_booked = False
+                balloted = False
                 if booking_buttons:
                     booking_string = booking_buttons[0].text_content().strip()
                     if "full" in booking_string.lower():
                         fully_booked = True
 
-                balloted = False
-                if "ballot" in booking_string.lower():
-                    balloted = True
+                    if "ballot" in booking_string.lower():
+                        balloted = True
 
                 all_day = False
                 if time_string.lower() == "all day":
