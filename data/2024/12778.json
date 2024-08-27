@@ -26,7 +26,7 @@
             "date": "2024-09-20",
             "drop_in": false,
             "end": "2024-09-20T14:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Walking tour",
             "notes": "Walking tour led by the Masterplanners and Architects.",
             "start": "2024-09-20T13:00:00+01:00",
@@ -87,8 +87,8 @@
     "links": [],
     "location": {
         "address": "Canada Water Underground Station, SE16 2XU",
-        "latitude": 51.49798,
-        "longitude": -0.04969,
+        "latitude": 51.49868,
+        "longitude": -0.04915,
         "meeting_point": null,
         "travel_info": [
             "Tube: Canada Water",

@@ -18,9 +18,9 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "A Lambeth Walk",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-15T11:30:00+01:00",
             "ticketed": true
         },
@@ -33,9 +33,9 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T14:15:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "A Lambeth Walk",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-15T13:15:00+01:00",
             "ticketed": true
         },
@@ -48,9 +48,9 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "A Lambeth Walk",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-15T15:00:00+01:00",
             "ticketed": true
         }
@@ -100,8 +100,8 @@
     "links": [],
     "location": {
         "address": "St Mary's Gardens, Lambeth Road, SE1 7ND",
-        "latitude": 51.49621,
-        "longitude": -0.11258,
+        "latitude": 51.49463,
+        "longitude": -0.12018,
         "meeting_point": null,
         "travel_info": [
             "Tube: Lambeth North, Vauxhall, Waterloo",
