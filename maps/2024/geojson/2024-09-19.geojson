@@ -19,8 +19,16 @@
                         "title": "Exterior View"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_gallery-3-dhm-photo-ellie-laycock_a36f4681ebebc273cd87336bd4084ea4.jpg",
-                        "title": null
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_modelling-studio-dorich-house-museum-photo-ellie-laycock-1_f2ae305ca32b19e19d5e5f313ee9eb7b.jpg",
+                        "title": "Modelling Studio"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_gallery-3-dhm-photo-ellie-laycock_c9da49b72aa4787dd64baedddf091a21.jpg",
+                        "title": "Gallery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_tempimagejsw0db_e2630e41404a0d402c919faf9231ec33.jpeg",
+                        "title": "Exterior View"
                     }
                 ],
                 "name": "Dorich House Museum",
@@ -895,6 +903,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1033663,
+                    51.4705441
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Remakery is a Community Maker Space, established in South London in 2012 with the aim of providing space, equipment and expertise to stop furniture and household items ending up in landfill, by empowering the community to Reclaim, Repair and Remake. We offer a range of workshops in Ecological Grassroots Making practices, with the aim of empowering our community.",
+                "end": "18:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11342/building_11342_lcs-solar-panel-workshop_8_7dde8301fe82642ddb0d270499fcae70.jpg",
+                        "title": "Solar Power Workshop hosted at The Remakery."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11342/building_11342_img_4249_ff7332d36e1e255c4cbd682408ec39c2.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11342/building_11342_img_9823_8b885d72ae365722f412f19466b58900.jpg",
+                        "title": "Sustainability focussed makerspace, tucked under the Paulet Road Estate in Zone 2 south London"
+                    }
+                ],
+                "name": "The Remakery",
+                "new_venue_this_year": "Yes",
+                "start": "17:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/11342"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0790748,
                     51.48900930000001
                 ],
@@ -1213,7 +1256,7 @@
                 "balloted": "No",
                 "description": "Explore the Bush Theatre, West London’s home of new writing. Get a behind the scenes look at our fifty-year history, including how over 2016 we transformed our 128-year-old building into an accessible and sustainable modern theatre.",
                 "end": "16:40:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11992/building_11992_daytime-outside-credit-philip-vile-for-the-bush-theatre_d410aac4be5190484396491f395c97a2.jpg",

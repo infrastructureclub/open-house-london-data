@@ -78,8 +78,16 @@
                         "title": "Exterior View"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_gallery-3-dhm-photo-ellie-laycock_a36f4681ebebc273cd87336bd4084ea4.jpg",
-                        "title": null
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_modelling-studio-dorich-house-museum-photo-ellie-laycock-1_f2ae305ca32b19e19d5e5f313ee9eb7b.jpg",
+                        "title": "Modelling Studio"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_gallery-3-dhm-photo-ellie-laycock_c9da49b72aa4787dd64baedddf091a21.jpg",
+                        "title": "Gallery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_tempimagejsw0db_e2630e41404a0d402c919faf9231ec33.jpeg",
+                        "title": "Exterior View"
                     }
                 ],
                 "name": "Dorich House Museum",
@@ -9795,7 +9803,7 @@
                 "balloted": "No",
                 "description": "Public Tours tours by Architect's DSDHA and the team at National Youth Theatre of the NYT's recently redeveloped RIBA-award-winning building, which created the UK's first theatre dedicated to staging work created by young people. This project is supported by the Mayor of London.",
                 "end": "13:20:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12046/building_12046_2-national-youth-theatre_08549d43781a7292f7d3d3b056a3a075.png",
@@ -11992,45 +12000,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.00723,
-                    51.54502
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Manbey Pod is a charming and functional garden studio located in East London, designed by Studio Bark to provide a family amenity space, storage area, and textile studio. It was self-built by the home-owners, Peter and Joan, using Studio Bark's revolutionary U-Build construction system; manufactured off-site as a kit of parts and built by Peter and Joan in their garden.",
-                "end": "16:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12664/building_12664_studio-bark_manbey-road_web-4_0bed5d7becde264ab26d5abb94399888.jpg",
-                        "title": "Image by Taran Wilkhu"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12664/building_12664_studio_bark_u-build_garden_room_int1_l_6e3662c66a91ecc5662b86c653217866.jpg",
-                        "title": "Image by Taran Wilkhu"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12664/building_12664_studio-bark_manbey-road_hr-6_8dd2f38bf2a834de8232091c78e3ddcd.jpg",
-                        "title": "Image by Taran Wilkhu"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12664/building_12664_studio_bark_u-build_garden_room_d2_l_23717f044f04d3e5305226b86ecc47f9.jpg",
-                        "title": "Image by Taran Wilkhu"
-                    }
-                ],
-                "name": "Manbey Pod",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/12664"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.19943,
                     51.55031
                 ],
@@ -12629,7 +12598,7 @@
                 ],
                 "name": "Broadwater Farm Estate - Murals and Mosaics Tour",
                 "new_venue_this_year": "Yes",
-                "start": "15:00:00",
+                "start": "10:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12744"
             },
@@ -13121,7 +13090,7 @@
                 "balloted": "No",
                 "description": "Visitors are invited to a descriptive tour of the Rewind: This is Croydon's Music.",
                 "end": "11:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12793/building_12793_1h3a7897_a02982c5351edf65e612697b1958eaee.jpg",
@@ -13889,7 +13858,7 @@
                 "type": "Point"
             },
             "properties": {
-                "balloted": "No",
+                "balloted": "Yes",
                 "description": "Morden College is a charity dedicated to supporting older people, founded in 1695 by the pioneering merchant, Sir John Morden.\r\n\r\nThe original 1695 Grade I listed Quadrangle by Edward Strong, Sir Christopher Wren's master stonemason, has provided older people with accommodation for over 300 years. Across the site and beautiful grounds, the John Morden Centre, a new community space, won the RIBA Stirling prize in 2023.",
                 "end": "16:00:00",
                 "fully_booked": "No",
@@ -14024,6 +13993,33 @@
                 "start": "15:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12933"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13186,
+                    51.5124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Start your exploration of the Open House Soho Neighbourhood with a shot of coffee, a refreshing cold drink and a bite to eat.  Explore our newly installed timeline of Soho, and our existing display on the church's history.   Relax in our calm and welcoming gardens.  Starting point for the Creative Soho Walking Tours.",
+                "end": "20:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12938/building_12938_sacred_grounds_f2c41ce07f97ca90f3d4f726d3fd0d70.png",
+                        "title": null
+                    }
+                ],
+                "name": "Sacred Grounds / St Anne's Church and Garden",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12938"
             },
             "type": "Feature"
         }
