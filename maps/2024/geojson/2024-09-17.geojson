@@ -198,8 +198,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0941925,
-                    51.51413950000001
+                    -0.09365,
+                    51.51372
                 ],
                 "type": "Point"
             },
@@ -542,8 +542,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1309568,
-                    51.5310613
+                    -0.13095,
+                    51.53106
                 ],
                 "type": "Point"
             },
@@ -741,14 +741,14 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1156656,
-                    51.50349079999999
+                    -0.1202,
+                    51.4946
                 ],
                 "type": "Point"
             },
             "properties": {
                 "balloted": "No",
-                "description": "A 2.5 hour walking tour showcasing unexpected and hidden architectural landmarks of the South Bank area, revealing the different ways in which spaces have been reclaimed, reused and revived. \r\n\r\nTwo walks held on two dates following a route from Lambeth Palace and the Garden Museum to Bernie Spain Gardens. Two walks held on two dates.",
+                "description": "A 2.5 hour walking tour showcasing unexpected and hidden architectural landmarks of the South Bank area, revealing the different ways in which spaces have been reclaimed, reused and revived. \r\n\r\nTwo guided walks held on two dates. The first walk follows a route starting from the Garden Museum, and the second walk starts from St John's Waterloo church.",
                 "end": "13:30:00",
                 "fully_booked": "Yes",
                 "images": [
@@ -788,8 +788,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.175,
-                    51.50478
+                    -0.17464,
+                    51.50466
                 ],
                 "type": "Point"
             },
@@ -978,7 +978,7 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1749,
+                    -0.175,
                     51.50478
                 ],
                 "type": "Point"
@@ -1069,6 +1069,76 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12556"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09929,
+                    51.37226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Photographer Rachel Adams has been commissioned to create an exhibition capturing Croydon's iconic architecture & portraits of the people who look after these buildings, such as cleaners, concierge, security guards. The exhibition will be held here, at the Croydon Clocktower atrium & also at the Croydon Urban Room, located in the Whitgift Shopping Centre. For more information on visiting this exhibition at the Croydon Urban Room, head here: https://programme.openhouse.org.uk/listings/12687",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12590/building_12590_img_3064_e367802c370425a540dfa9d41f99cce3.jpg",
+                        "title": "© Rachel Adams"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12590/building_12590_img_8198_827cf5598eda425825f2b37e4b03a9ab.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12590/building_12590_img_3499_4a054748f9538feaeb94fea45c1edb6b.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Croydon Unlocked",
+                "new_venue_this_year": "Yes",
+                "start": "09:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12590"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10075,
+                    51.37522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Croydon Urban Room is a space to talk about the past, present and future of the Croydon town centre. Through conversa­tions, stories, exhibitions and events, the Urban Room brings together the views of those who live, work and visit the area to create a shared vision of the future and test new uses live in action.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12687/building_12687_1721246551928_a6d64c6db9d8edb6a0b069318bba4114.jfif",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12687/building_12687_1721246553512_33b438725887eb97a2f260ce2d7bf8ef.jfif",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12687/building_12687_1721246552001_e5541502caba6c4888613ef99bd1082f.jfif",
+                        "title": null
+                    }
+                ],
+                "name": "Croydon Urban Room",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12687"
             },
             "type": "Feature"
         },

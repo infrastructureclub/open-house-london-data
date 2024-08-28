@@ -78,28 +78,8 @@
                         "title": "Exterior View"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_modelling-studio-10_b130d0d48a13339d40df6b9468196489.jpeg",
-                        "title": "Modelling Studio"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_gallery-3-dhm-photo-ellie-laycock-min_1a4589b7119e1f057608b8af21f99872.jpg",
-                        "title": "Gallery "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_living-room-dhm-photo-ellie-laycock-7_04109da95a3de3cd07e9528d113e9c43.jpg",
-                        "title": "Living Room"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_exterior-2016-dhm-photo-ellie-laycock-16_4b0961a4af518e5e274b81b20e420300.jpg",
-                        "title": "Exterior View"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_exterior-001_7471bf51891f6a73c31e6296de812a55.jpg",
-                        "title": "Exterior View"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_gallery-window-with-javanese-dancer-torso-and-typhoon-2_010ea6a2084a5282172da8838e1c7e88.jpg",
-                        "title": "Gallery"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/271/building_271_gallery-3-dhm-photo-ellie-laycock_a36f4681ebebc273cd87336bd4084ea4.jpg",
+                        "title": null
                     }
                 ],
                 "name": "Dorich House Museum",
@@ -3120,7 +3100,7 @@
                 "type": "Point"
             },
             "properties": {
-                "balloted": "No",
+                "balloted": "Yes",
                 "description": "An enduring, distinctive feature of the London skyline for the last 54 years, this is a rare opportunity for members of the public to visit the famous revolving floor, 158m above the capital. After the flight the guests can watch a history of the BT Tower film in our auditorium.",
                 "end": "19:15:00",
                 "fully_booked": "No",
@@ -4537,8 +4517,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.007199,
-                    51.4995722
+                    0.008,
+                    51.49983
                 ],
                 "type": "Point"
             },
@@ -5622,7 +5602,7 @@
                 "balloted": "No",
                 "description": "The Department Store is an award winning refurbishment of a dilapidated Edwardian building in Brixton, completed by Squire and Partners in 2017. The design was informed by the layers of history and existing fabric of the heritage building.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7607/building_7607_01_the-department-store_squire-and-partners-james-jones_35b79c2e401b53bb00e5723b495e5101.jpg",
@@ -6039,7 +6019,7 @@
                 "balloted": "No",
                 "description": "A House for Artists is an ambitious project, designed to provide subsidised, sustainable long-term housing for artists; who in exchange offer free civic and cultural engagement for communities in Barking Town Centre. Co-commissioned by Create London and London Borough of Barking & Dagenham, this project has received supported from the Mayor of London.",
                 "end": "17:40:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7861/building_7861_2-ahfa_2c6bc867951e4b70c9e29db0c061e618.png",
@@ -6450,7 +6430,7 @@
                 "type": "Point"
             },
             "properties": {
-                "balloted": "No",
+                "balloted": "Yes",
                 "description": "Join us to find out more about our incredible journey to create a new museum for London. Enter the ballot for a special tour of the General Market and Poultry Market (currently in construction), or come along to take part in free family-friendly drop-in activities.",
                 "end": "17:00:00",
                 "fully_booked": "No",
@@ -7848,10 +7828,6 @@
                 "fully_booked": "No",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10893/building_10893_85bc5516-d2bc-4dae-ac93-4bdca10bde8f_c8e3e176fadf250f7f22e7d537637dcd.jpeg",
-                        "title": "Aerial view of Thornhill Square and Church"
-                    },
-                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10893/building_10893_eabf12ee-f57b-4e22-9f37-aa763d767248_144ca243da7ba76b203a05d3a30ce8ab.png",
                         "title": "Sculpture and lettering on West Library’s facade"
                     }
@@ -7941,8 +7917,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1309568,
-                    51.5310613
+                    -0.13095,
+                    51.53106
                 ],
                 "type": "Point"
             },
@@ -8137,8 +8113,8 @@
                 "fully_booked": "",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11049/building_11049_open-studios-2024_18816b0221de0dfb5c25cd69ba2cc7e8.jpg",
-                        "title": "APT Studios & Gallery Open Studios"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11049/building_11049_exterior-rear_from-creekbed01-ps_feb603e811de9b0cacf60ea5b8703327.jpg",
+                        "title": "APT Studios & Gallery"
                     }
                 ],
                 "name": "Art in Perpetuity Trust",
@@ -9109,7 +9085,7 @@
                 "balloted": "No",
                 "description": "Join us for a guided tour of Bromley Archives. With access to the archive store, typically closed to the public, visitors will get a behind the scenes look at the collection and service.",
                 "end": "16:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11775/building_11775_img_5155_31814cfc5ea5b4a87c16ca1ba54f7d44.jpg",
@@ -9303,8 +9279,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.175,
-                    51.50478
+                    -0.17464,
+                    51.50466
                 ],
                 "type": "Point"
             },
@@ -10068,7 +10044,7 @@
                 "balloted": "No",
                 "description": "Made in Bermondsey Tour\r\nGUIDED TOUR/ 14:30 - 15:30\r\nBOOKING REQUIRED \r\n\r\nJoin the people behind the Made in Bermondsey project for a tour to discover the historic links interwoven into the design work. \r\n\r\nMade In Bermondsey is a historic market place and high street regeneration project by Hayatsu Architects and Assemble completed in 2022",
                 "end": "15:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12203/building_12203_2-blue-market_6d74e9b2ebda40ac6b8062b16eb43669.png",
@@ -11350,8 +11326,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.07868,
-                    51.52103
+                    -0.07768,
+                    51.52141
                 ],
                 "type": "Point"
             },
@@ -11464,6 +11440,41 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12589"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09919,
+                    51.37226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Photographer Rachel Adams has been commissioned to create an exhibition capturing Croydon's iconic architecture & portraits of the people who look after these buildings, such as cleaners, concierge, security guards. The exhibition will be held here, at the Croydon Clocktower atrium & also at the Croydon Urban Room, located in the Whitgift Shopping Centre. For more information on visiting this exhibition at the Croydon Urban Room, head here: https://programme.openhouse.org.uk/listings/12687",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12590/building_12590_img_3064_e367802c370425a540dfa9d41f99cce3.jpg",
+                        "title": "© Rachel Adams"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12590/building_12590_img_8198_827cf5598eda425825f2b37e4b03a9ab.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12590/building_12590_img_3499_4a054748f9538feaeb94fea45c1edb6b.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Croydon Unlocked",
+                "new_venue_this_year": "Yes",
+                "start": "09:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12590"
             },
             "type": "Feature"
         },
@@ -12098,6 +12109,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.10075,
+                    51.37522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Croydon Urban Room is a space to talk about the past, present and future of the Croydon town centre. Through conversa­tions, stories, exhibitions and events, the Urban Room brings together the views of those who live, work and visit the area to create a shared vision of the future and test new uses live in action.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12687/building_12687_1721246551928_a6d64c6db9d8edb6a0b069318bba4114.jfif",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12687/building_12687_1721246553512_33b438725887eb97a2f260ce2d7bf8ef.jfif",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12687/building_12687_1721246552001_e5541502caba6c4888613ef99bd1082f.jfif",
+                        "title": null
+                    }
+                ],
+                "name": "Croydon Urban Room",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12687"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.10482,
                     51.51427
                 ],
@@ -12176,8 +12222,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.06215,
-                    51.59158
+                    -0.06298,
+                    51.59082
                 ],
                 "type": "Point"
             },
@@ -12477,7 +12523,7 @@
                 "balloted": "No",
                 "description": "A walking tour to see a number of co-designed projects completed by Haringey Council by working with Wood Green's local community. Including community parklets, two large murals, a new café, and the award winning Rising Green Youth Hub.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12737/building_12737_01-wg-placemaking-walking-tour_45ff1042c7b5722e4dd92434d40c3aa0.jpg",
@@ -12558,7 +12604,7 @@
                 "balloted": "No",
                 "description": "Join us for a walking tour of the large-scale murals and Grade II listed mosaic mural  on Broadwater Farm Estate, commissioned in the 1980s in the wake of riots on the estate. Visit the mosaic restoration facility on the estate to hear from conservation professionals, get up close to local community art, see restoration techniques and learn about the history and future of the mosaic mural.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12744/building_12744_7_30adfba54e18a2570ad10dddc7efa119.jpg",
@@ -13066,7 +13112,7 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.09919,
+                    -0.09909,
                     51.37226
                 ],
                 "type": "Point"
@@ -13120,8 +13166,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0832,
-                    51.51059
+                    -0.08305,
+                    51.51079
                 ],
                 "type": "Point"
             },
@@ -13147,8 +13193,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0672,
-                    51.53995
+                    -0.06724,
+                    51.54003
                 ],
                 "type": "Point"
             },
@@ -13182,8 +13228,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.16429,
-                    51.55046
+                    -0.16452,
+                    51.55033
                 ],
                 "type": "Point"
             },
@@ -13267,8 +13313,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.04333,
-                    51.58707
+                    -0.04351,
+                    51.5874
                 ],
                 "type": "Point"
             },
@@ -13345,8 +13391,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.04076,
-                    51.57032
+                    -0.03761,
+                    51.56944
                 ],
                 "type": "Point"
             },
@@ -13546,8 +13592,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.12457,
-                    51.53154
+                    -0.10384,
+                    51.51173
                 ],
                 "type": "Point"
             },
@@ -13573,8 +13619,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1014,
-                    51.5194
+                    -0.10107,
+                    51.51902
                 ],
                 "type": "Point"
             },
@@ -13611,7 +13657,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "In our House, creativity is a way of life. Warehouse Art Collective forges friendships and art under one roof. Artists who call this craftwork factory home have a lot in common, while exploring ideas and artistic visions with various materials and mediums.\r\nPublic can witness the artistic process and engage with contemporary art in the work/live industrial unit within Haringey Warehouse District.",
+                "description": "In our House, creativity is a way of life. Warehouse Art Collective forges friendships and art under one roof. Artists who call this craftwork factory home have a lot in common, while exploring ideas and artistic visions with various materials and mediums.\r\nThe public can witness the artistic process and engage with contemporary art in the work/live industrial unit within Haringey Warehouse District.",
                 "end": "19:00:00",
                 "fully_booked": "",
                 "images": [
@@ -13631,8 +13677,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.07735,
-                    51.51231
+                    -0.07717,
+                    51.512
                 ],
                 "type": "Point"
             },
@@ -13767,8 +13813,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.11365,
-                    51.51094
+                    -0.1143,
+                    51.51102
                 ],
                 "type": "Point"
             },
@@ -13844,7 +13890,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Morden College is a Charity dedicated to supporting older people. Founded in 1695 by the pioneering merchant, Sir John Morden.\r\n\r\nThe original 1695 Grade I listed Quadrangle by Edward Strong, Sir Christopher Wren's master stonemason, has provided older people with accommodation for over 300 years. Across the site and beautiful grounds, the John Morden Centre, a new community space, won the RIBA Stirling prize in 2023.",
+                "description": "Morden College is a charity dedicated to supporting older people, founded in 1695 by the pioneering merchant, Sir John Morden.\r\n\r\nThe original 1695 Grade I listed Quadrangle by Edward Strong, Sir Christopher Wren's master stonemason, has provided older people with accommodation for over 300 years. Across the site and beautiful grounds, the John Morden Centre, a new community space, won the RIBA Stirling prize in 2023.",
                 "end": "16:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -13951,6 +13997,33 @@
                 "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12928"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13932,
+                    51.51092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A revival and love letter to London’s lost bohemia..   Travel back in time to the legendary haunt of some of Soho's greatest creatives.   Featuring pictures, press cuttings and even the piano from the much loved private members club.",
+                "end": "23:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12933/building_12933_colony-room_7d8e768d0318637210aabe81604f7863.jpg",
+                        "title": "ACC Art Books"
+                    }
+                ],
+                "name": "Explore the authentically recreated Colony Room",
+                "new_venue_this_year": "Yes",
+                "start": "15:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12933"
             },
             "type": "Feature"
         }

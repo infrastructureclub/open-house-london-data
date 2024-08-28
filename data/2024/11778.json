@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "A 2.5 hour walking tour showcasing unexpected and hidden architectural landmarks of the South Bank area, revealing the different ways in which spaces have been reclaimed, reused and revived. \r\n\r\nTwo walks held on two dates following a route from Lambeth Palace and the Garden Museum to Bernie Spain Gardens. Two walks held on two dates.",
+    "description": "A 2.5 hour walking tour showcasing unexpected and hidden architectural landmarks of the South Bank area, revealing the different ways in which spaces have been reclaimed, reused and revived. \r\n\r\nTwo guided walks held on two dates. The first walk follows a route starting from the Garden Museum, and the second walk starts from St John's Waterloo church.",
     "design": {
         "designers": [],
         "periods": [],
@@ -20,7 +20,7 @@
             "end": "2024-09-17T13:30:00+01:00",
             "fully_booked": true,
             "name": "From Palace to Pottery & Politics Past Walk",
-            "notes": "This guided walk explores the architectural history of South Bank between Lambeth Palace Bridge and Waterloo Bridge",
+            "notes": "This guided walk starts outside Garden Museum and ends at County Hall,  and  along the way explores the architectural history of South Bank",
             "start": "2024-09-17T11:00:00+01:00",
             "ticketed": true
         },
@@ -35,7 +35,7 @@
             "end": "2024-09-20T13:30:00+01:00",
             "fully_booked": true,
             "name": "Between and Under the Bridges South Bank Walk",
-            "notes": "This guided walk explores the architectural history of South Bank between  Blackfriars Bridge and Waterloo Bridge",
+            "notes": "This guided walk explores the architectural history of South Bank, starting at St John's Church Waterloo",
             "start": "2024-09-20T11:00:00+01:00",
             "ticketed": true
         }
@@ -103,9 +103,9 @@
     ],
     "links": [],
     "location": {
-        "address": "South Bank, SE1 7ND",
-        "latitude": 51.50349079999999,
-        "longitude": -0.1156656,
+        "address": "Garden Museum, 5 Lambeth Palace Road, SE1 7LB",
+        "latitude": 51.4946,
+        "longitude": -0.1202,
         "meeting_point": null,
         "travel_info": [
             "Tube: Waterloo",
