@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "The doors to the building (including the artists' studios) will be opened to the public. Not only will visitors get the opportunity to see \"behind the scenes\" but they will have the opportunity to find out about local artists/makers. Outdoors, visitors can bring along their food and drink and join the Our Pastures Community Garden Picnic including live music, storytelling and more.",
+    "description": "The doors to the building (including the artists' studios) will be opened to the public. Not only will visitors get the opportunity to see \"behind the scenes\" but they will have the opportunity to bring along their food and drink and join the Our Pastures Community Garden Picnic, join taster sessions from site regulars and find out more about what takes place onsite.",
     "design": {
         "designers": [
             {
@@ -27,8 +27,8 @@
             "drop_in": true,
             "end": "2024-09-22T16:00:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Our Pastures Community Garden Picnic",
-            "notes": "Join Our Pastures in the oasis of peace, calm and beauty of the Community Garden for live music, storytelling, forest activities and more.",
+            "name": "Drop in: Open Day | Open Studios",
+            "notes": "Visit the studios of Good Shepherd Studios' artists, makers and creators such as Tamasyn Gambell, Daniel Heath and Pippa Ryan.",
             "start": "2024-09-22T12:00:00+01:00",
             "ticketed": false
         },
@@ -42,9 +42,24 @@
             "drop_in": true,
             "end": "2024-09-22T16:00:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Open Day | Open Studios",
-            "notes": "Visit the studios of Good Shepherd Studios' artists, makers and creators such as Tamasyn Gambell, Daniel Heath and Pippa Ryan.",
+            "name": "Drop in: Our Pastures Community Garden Picnic",
+            "notes": "Join Our Pastures in the oasis of peace, calm and beauty of the Community Garden for live music, storytelling, forest activities and more.",
             "start": "2024-09-22T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Insect Stories with guest \"Little Sing Song\"",
+            "notes": "Join Good Shepherd Studios regulars Insect Stories and Little Sing Song for intergenerational stories and songs on an insect theme.",
+            "start": "2024-09-22T14:30:00+01:00",
             "ticketed": false
         },
         {
@@ -63,6 +78,21 @@
             "ticketed": true
         },
         {
+            "activity_type": "Family activity",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drama Taster: Interactive Storytelling with Magic Box",
+            "notes": "Join Good Shepherd Studios regular Lottie on an interactive storytelling adventure based on the odd things she finds in her Magic Box!",
+            "start": "2024-09-22T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
             "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
@@ -75,6 +105,36 @@
             "name": "Building Tour",
             "notes": "Find out about the building's history, see \"behind the scenes\" in artists'/creators' studios and hear about exciting future plans.",
             "start": "2024-09-22T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Family activity",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Dance Taster: \"Baby Dance\" with Wee Movers",
+            "notes": "Join Fiona at this class where caregivers can come along and dance with their babies aged 0-9 months (slings not essential).",
+            "start": "2024-09-22T12:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Family activity",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T13:30:00+01:00",
+            "fully_booked": false,
+            "name": "Dance Taster: \"Wee Movers\" with Wee Movers",
+            "notes": "Children aged 2-4 years and their grown-ups are invited to join Good Shepherd Studios regular Wee Movers to explore movement together.",
+            "start": "2024-09-22T13:00:00+01:00",
             "ticketed": true
         },
         {
@@ -93,6 +153,36 @@
             "ticketed": true
         },
         {
+            "activity_type": "Other",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Chair Yoga Taster with Jessica Green",
+            "notes": "Join Good Shepherd Studios regular Jessica Green for chair-based Yoga-inspired exercise.",
+            "start": "2024-09-22T13:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Family activity",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Art Taster: Make your own cityscape with Art Lab Bluu",
+            "notes": "Join Good Shepherd Studios regular Irene and make your own foldable cityscape booklet. Suitable for all ages. Materials provided.",
+            "start": "2024-09-22T13:30:00+01:00",
+            "ticketed": true
+        },
+        {
             "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
@@ -104,6 +194,21 @@
             "fully_booked": false,
             "name": "Building Tour",
             "notes": "Find out about the building's history, see \"behind the scenes\" in artists'/creators' studios and hear about exciting future plans.",
+            "start": "2024-09-22T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Other",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Vinyasa Flow Yoga Taster with Jessica Green",
+            "notes": "Join Good Shepherd Studios regular Jessica for high spirited yoga and relaxation that will leave you feeling more open, aware and alive.",
             "start": "2024-09-22T14:00:00+01:00",
             "ticketed": true
         },
@@ -120,6 +225,51 @@
             "name": "Building Tour",
             "notes": "Find out about the building's history, see \"behind the scenes\" in artists'/creators' studios and hear about exciting future plans.",
             "start": "2024-09-22T15:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Family activity",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Forest School Taster with Flying Sycamores",
+            "notes": "Join Good Shepherd Studios regular Lucy for an introduction to ‘forest school’ activities and ideas, such as nature-inspired craft.",
+            "start": "2024-09-22T15:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Other",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Yin Yoga Taster with Nikki",
+            "notes": "Join Good Shepherd Studios regular Nikki and connect to yourself bringing calmness and a sense of stillness to the body and mind.",
+            "start": "2024-09-22T15:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Other",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Short Films & Q+A with Joe Gilbert",
+            "notes": "Join award-winning filmmaker Joe Gilbert and explore his interest in architecture through his shorts on loved and lost buildings in London.",
+            "start": "2024-09-22T16:15:00+01:00",
             "ticketed": true
         }
     ],
