@@ -942,7 +942,7 @@
                 "balloted": "No",
                 "description": "Grotto with mineral decoration is last remaining part of Alexander Pope's villa built 1720. The villa was demolished 1808 and replaced and redeveloped many times in following years but Pope's Grotto remains.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/1379/building_1379_jamesnewton_524_pope-s-grotto_01_d064ce77294252d7535d638908292289.jpg",
@@ -2718,7 +2718,7 @@
                 "balloted": "No",
                 "description": "Canada's diplomatic home in the United Kingdom, the revitalised Canada House serves as a showcase for the very best of Canadian art and design in the 21C.",
                 "end": "16:15:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2783/building_2783_eb-stamp_canada_house_with_flag_to_fit_fd0a0d196431d1a3af190b04980b8a00.jpg",
@@ -2941,7 +2941,7 @@
                 "balloted": "No",
                 "description": "Tudor almshouses dating from 1596 and founded by the Archbishop of Canterbury John Whitgift. Chapel and Courtyard with original 16C clock.",
                 "end": "16:15:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/3543/building_3543__rsn1585_c3318294a1da5698d760759f42c93753.jpg",
@@ -11962,6 +11962,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13399,
+                    51.51258
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Underbelly Boulevard is a brand new home for the hottest cabaret, variety and music plus an exciting new Cocktail Bar, right in the heart of Soho. Come in and let us show you around!",
+                "end": "13:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12934/building_12934_underbelly-boulevard-exterior_da0d223d7aca55e9e2db7a35dff622c7.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12934/building_12934_underbelly-boulevard-interior_66dd91b38c9d877562fd9617f9bddce9.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12934/building_12934_underbelly-boulevard-performance_5a523090e87f382a0b0c3a673626541b.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Underbelly Boulevard",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12934"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.09875,
                     51.37203
                 ],
@@ -11991,6 +12026,33 @@
                 "start": "11:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12944"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13226,
+                    51.51302
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Smallest Gallery in Soho is a historic shop-front which faces onto 62 Dean Street, in the heart of Soho. The aim of this creative space is to display artwork that captures people’s attention on their journey through Soho and encourage them to stop, think and be inspired. The art displays are only to be viewed from the street and can be seen at any time of the day.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12945/building_12945_screenshot-2024-08-29-at-09-37-35_c4515a3a463fe8659276e2b8ad5a9ad6.png",
+                        "title": "The Smallest Gallery in Soho"
+                    }
+                ],
+                "name": "The Smallest Gallery in Soho",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12945"
             },
             "type": "Feature"
         }
