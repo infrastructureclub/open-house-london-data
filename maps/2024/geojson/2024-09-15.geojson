@@ -1189,7 +1189,7 @@
                 "balloted": "No",
                 "description": "A good example of quality late-Victorian functional design.\r\nRichmond Lock &Weir consists of three 32 ton weir gates that operate 2 hours either side of high water.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/1472/building_1472_161117-645-5_9e3f2e075bf0aa3010c0a6eb50b3286f.jpg",
@@ -4647,7 +4647,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "A fine Grade I Victorian church described by Sir John Betjeman as ‘the most magnificent church in South London.’ Notable also for significant pieces of sculpture by Jagger and Cornish and a remarkable set of Stations of the Cross.",
-                "end": "18:00:00",
+                "end": "14:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -5287,6 +5287,37 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10082"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.2931374,
+                    51.487832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Musical Museum was founded 60 years ago by the late Frank Holland which he started with his own private collection of some half-dozen reproducing pianos. The current building was specially designed for the Musical Museum, funded by a Heritage Lottery Grant and was opened in June 2008.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10085/building_10085_106349738_3138699062832198_4020628551029398812_n_fe3648eb02856ec7af1e3a7d3f2019a6.jpg",
+                        "title": "View of the Musical Museum from the High Street"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10085/building_10085_210055217_4167846236584137_6149139660557956752_n_30af925f78c99a7bbb521b08a7aa77ed.jpg",
+                        "title": "The Mighty Wurlitzer Theatre Organ in Concert"
+                    }
+                ],
+                "name": "The Musical Museum",
+                "new_venue_this_year": "No",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10085"
             },
             "type": "Feature"
         },
@@ -6727,7 +6758,7 @@
                 "balloted": "No",
                 "description": "Join John Grindrod, author of 'Iconicon' and 'Concretopia', on a walk around the endless rebuilding of Croydon town centre.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12200/building_12200_john-grindrod-croydon_81bbe917db669b198edd16057ebab752.jpg",
@@ -7167,7 +7198,7 @@
                 "balloted": "No",
                 "description": "A walking tour of the residential areas of Kensal House.  Visit our Grade II* listed housing estate at the top of Ladbroke Grove. Built by Maxwell Fry in 1937 it is the first example of modernist housing for working class people in the UK. Invaluable design input from Elizabeth Denby to create an 'urban village' around the footprint of Gasworks, with innovative community spaces",
                 "end": "14:50:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12439/building_12439_img_4047_1192263d3358e69c644615ed4c3dfedb.jpeg",
@@ -8491,7 +8522,7 @@
                 "balloted": "No",
                 "description": "Follow in the footsteps of the Beatles, Coldplay, Alfred Hitchcock and countless others….See what remains of the iconic 1960’s BBC Television Centre and the Gaumont Film Studios  ….plus discover Charles Dickens’ controversial connection to Shepherd’s Bush .",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12753/building_12753_img_3154_c97a39d0b3da82165d1c5ba56eab96be.jpeg",
@@ -8837,7 +8868,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Located in the Seven Dials Conservation Area, David Kohn Architects' tiered rooftop extension creates a new family home that responds to the richness of its historic context, the surrounding rooflines, and the robustness of the existing brick warehouse building beneath.",
+                "description": "Located in the Seven Dials Conservation Area, David Kohn Architects' tiered rooftop extension creates a new family home that responds to the richness of its historic context, the surrounding rooflines, and the robustness of the existing brick warehouse building beneath.\r\n\r\nPlease note: No photography allowed.",
                 "end": "13:45:00",
                 "fully_booked": "Yes",
                 "images": [

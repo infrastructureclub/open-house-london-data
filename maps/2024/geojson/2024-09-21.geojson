@@ -2334,7 +2334,7 @@
                 "balloted": "No",
                 "description": "The recently automated impounding station controls the water level in the docks using the original Worthington Simpson pumps driven by Lancashire dynamo.",
                 "end": "15:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2328/building_2328_impounding-station-internal_5ba2d85977d70534b1c61c51f6dd9028.jpg",
@@ -6096,6 +6096,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.30364,
+                    51.45909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "An independent Calvinistic chapel on the east side of Church Terrace in Richmond, London. Built in 1797, the small 1-storey stuccoed building is Grade II* listed. It still has its original galleried interior with pews and pulpit.",
+                "end": "15:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/8264/building_8264_img_20230516_163539_180f16ac5e3e57bd7b8bcfbac2d04def.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/8264/building_8264_101358048-67539-800_a7d851c042a9e29fcc27c33f3edb3ab9.jpg",
+                        "title": "Front elevation "
+                    }
+                ],
+                "name": "Bethlehem Chapel Richmond upon Thames",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/8264"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.05696,
                     51.53684
                 ],
@@ -6872,57 +6903,6 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/9100"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.01703,
-                    51.51349
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Lansbury Lawrence (formally Susan Lawrence and Elizabeth Lansbury) opened in the 1951 Festival of Britain as a showpiece of the Live Architecture exhibition in the Lansbury Estate. An interesting mid-century design with original features.",
-                "end": "11:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9135/building_9135_img_6021_4c73bf6957ae514cba1fdf610f320afa.jpg",
-                        "title": "Stairs and Tiles"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9135/building_9135_img_6033_fefd40592f58c2e48f366689123844ce.jpg",
-                        "title": "Entrance"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9135/building_9135_img_6030_0d32af9491784f7ef0a154c313352ee4.jpg",
-                        "title": "Interior"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9135/building_9135_img_6023_bd2b4c30824bdff82801356481b24486.jpg",
-                        "title": "Angus Tiles in Dining Hall"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9135/building_9135_img_6025_b126bf49001a3e7adae02fd1127b2833.jpg",
-                        "title": "Exterior"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9135/building_9135_haidee5_a18f67e5cd7d4c0e0763d988e6746728.jpg",
-                        "title": "Sculpture by Haidee Drew inspired by school architecture"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9135/building_9135_microsoftteams-image_ba0a360b77e2974670bcdec6d773c802.png",
-                        "title": "School Grounds - No Mow May"
-                    }
-                ],
-                "name": "Lansbury Lawrence Primary School",
-                "new_venue_this_year": "No",
-                "start": "10:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/9135"
             },
             "type": "Feature"
         },
@@ -8412,7 +8392,7 @@
                 "balloted": "No",
                 "description": "A walking tour, enlivened by unique illustrations, along the northern edge of Royal Albert Dock. Historically a frontier of trade into and out of London, it has had a fascinating journey from busy port to a place for people to call home.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11290/building_11290_lfa_2024_92a6406f6e7b8afbf981eab736cbee6b.jpeg",
@@ -9093,7 +9073,7 @@
                 "balloted": "No",
                 "description": "Join us for a guided tour of Bromley Archives. With access to the archive store, typically closed to the public, visitors will get a behind the scenes look at the collection and service.",
                 "end": "16:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11775/building_11775_img_5155_31814cfc5ea5b4a87c16ca1ba54f7d44.jpg",
@@ -9159,7 +9139,7 @@
                 "balloted": "No",
                 "description": "Discover the fascinating history of Eastcote and its surroundings, focused on how the landscape has changed, from the exclusively agricultural area to the today's modern suburb, revealing some of the oldest local buildings and their stories",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11816/building_11816_img_0212_1fd8a64b76716ca0d95a94a406b6bad4.jpg",
@@ -10511,7 +10491,7 @@
                 "balloted": "No",
                 "description": "Late Georgian Livery Hall rebuilt in 1839. Highlights include the main Hall, featuring a stunning 1870s lantern ceiling, and displays of historic arms and armour throughout the building.",
                 "end": "17:15:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12459/building_12459_hallexterior_42dba8a70ea137610b1e2ce2b9bef007.jpg",
@@ -11762,6 +11742,37 @@
                 "start": "10:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12607"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13307,
+                    51.51381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Soho is a unique neighbourhood of creativity and diversity. Join us at the former Warner Brothers De Lane Lea studio at 75 Dean Street, home of the Museum of Soho and the Westminster LGBT+ Forum. Explore an exhibition of Soho's creativity and enjoy Soho short films in our cinema.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
+                        "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12611/building_12611_coming-out-lgbt-badge-graphic-1-flat_0fa050e8495adf0c89ba401230aa71ce.jpg",
+                        "title": "Westminster LGBT+ Forum"
+                    }
+                ],
+                "name": "De Lane Lea Studios, 75 Dean Street",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12611"
             },
             "type": "Feature"
         },
@@ -13993,6 +14004,33 @@
                 "start": "15:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12933"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1343,
+                    51.5129
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Come and join us to explore this historic market and its evolution.   View images of it's historic past and its part in bringing us such exotic items as tomatoes, olive oil and grapefruit.  Take a photograph from the same spot to recreate Oasis's iconic What's the story? (Morning Glory)  album cover.  Information point and advice on exploring other Soho Open House locations and events.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12937/building_12937_berwick_25187d852802f863087f40d0f217c5a9.gif",
+                        "title": "Westminster Archive"
+                    }
+                ],
+                "name": "Berwick Street Market",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12937"
             },
             "type": "Feature"
         },

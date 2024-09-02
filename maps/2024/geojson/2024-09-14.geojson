@@ -6309,6 +6309,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.2931374,
+                    51.487832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Musical Museum was founded 60 years ago by the late Frank Holland which he started with his own private collection of some half-dozen reproducing pianos. The current building was specially designed for the Musical Museum, funded by a Heritage Lottery Grant and was opened in June 2008.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10085/building_10085_106349738_3138699062832198_4020628551029398812_n_fe3648eb02856ec7af1e3a7d3f2019a6.jpg",
+                        "title": "View of the Musical Museum from the High Street"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10085/building_10085_210055217_4167846236584137_6149139660557956752_n_30af925f78c99a7bbb521b08a7aa77ed.jpg",
+                        "title": "The Mighty Wurlitzer Theatre Organ in Concert"
+                    }
+                ],
+                "name": "The Musical Museum",
+                "new_venue_this_year": "No",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10085"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1132266,
                     51.5673623
                 ],
@@ -8767,7 +8798,7 @@
                 "balloted": "No",
                 "description": "The InStreatham walking tour will see Streatham in a new light with Modernist and Deco designs and West End actors changing the longest High Street in Europe! We include trendy apartments which once boasted dance floors, gardens and swimming pools. We’ll even spot elephants observing from above and leaping gazelles on the ground as well as plenty of other deco clues!",
                 "end": "12:15:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12453/building_12453_165354292_203670434426851_6562246841270475662_n_872bdae5e6d78c5616d73e5f9c50b467.jpg",
@@ -9744,37 +9775,6 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12572"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.13652,
-                    51.44619
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Thornton House is a new development within an existing estate; providing 14 high quality homes in a range of sizes and tenures. FBM’s regenerative design approach optimised the number of homes whilst enhancing the surrounding amenities for existing and new residents.  Passive environmental solutions have been a key consideration and the scheme achieved an urban greening factor of 0.4.",
-                "end": "14:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12575/building_12575_hydethorpe-road-4380-pano_b68433f9852efd4bca1480972fdc2c6f.jpg",
-                        "title": "Photographed by Tim Crocker"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12575/building_12575_hydethorpe-road-4346-pano_e423255b18cc4191259163fb36a61361.jpg",
-                        "title": "Photographed by Tim Crocker"
-                    }
-                ],
-                "name": "Thornton House",
-                "new_venue_this_year": "Yes",
-                "start": "09:45:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/12575"
             },
             "type": "Feature"
         },
@@ -11940,7 +11940,7 @@
                 "balloted": "No",
                 "description": "Southall Manor House is a Grade II* Listed Tudor building - the oldest building in Southall and potentially one of the oldest surviving buildings in West London. The building underwent recent refurbishment, extension and landscaping from 00 Architects. For Open House, the building's heritage will be animated by scents from perfumers 420Tuesdays and Kushbu.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12927/building_12927_011_southall-manor_87de7d76299fecae9e9e0de543d38616.jpg",
