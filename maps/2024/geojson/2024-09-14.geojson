@@ -5821,7 +5821,7 @@
                 "balloted": "No",
                 "description": "Unit 1.20 is one of 25 workshop and retail units in Oxo Tower Wharf and overlooks the courtyard towards the Bargehouse building from the first floor walkway. It is a multi-purpose space used as a workshop, showroom and teaching space.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/8766/building_8766_carreducker-oxo-tower_73e30dc4c8f3f1c1e5f35048167a6af7.jpg",
@@ -7352,7 +7352,7 @@
                 "balloted": "No",
                 "description": "A walk around historic Walthamstow showing how this unique area grew from a village into a thriving suburb, its social history and the variety of buildings that can be found where Epping Forest meets William Morris.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11296/building_11296_img_2828_8b059f0e8ad7184afcc7c0488c9ccdab.jpg",
@@ -10520,8 +10520,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.07502,
-                    51.40009
+                    -0.07527,
+                    51.40018
                 ],
                 "type": "Point"
             },
@@ -10661,33 +10661,6 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12687"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.10482,
-                    51.51427
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "London is the world's first National Park City, and our visitors centre at 109 Fleet Street is the entry point to hundreds of places to visit and things to do across a greener, healthier and wilder London.",
-                "end": "21:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12692/building_12692_109fleetstreet_stpauls_0f1218f9e2e2e355fdf9818f8a4227d0.jpg",
-                        "title": "London National Park City visitors centre at 109 Fleet Street looking towards St Paul's Cathedral"
-                    }
-                ],
-                "name": "London National Park City Visitors Centre",
-                "new_venue_this_year": "Yes",
-                "start": "12:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/12692"
             },
             "type": "Feature"
         },
@@ -10868,6 +10841,10 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12728/building_12728_monsell-52v2-agnese-sanvito_lo_e477a1e7f3024327de717eafe77a8a32.jpg",
                         "title": "Photographer: Agnese Sanvito"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12728/building_12728_07_fortyfour_fardaa_-e-christina-hancock_lo_685b75ea73cc816aebb014df820faef5.jpg",
+                        "title": "Interior ground floor. Image © E Christina Hancock"
                     }
                 ],
                 "name": "44 Monsell Road",
@@ -10928,8 +10905,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "The Herbarium is not usually open to public, only to visiting researchers and we would like to open the complex of historic and modern buildings up, prepare displays (on herbarium curation and digitisation of the collection) and arrange guided tours.",
-                "end": "16:00:00",
-                "fully_booked": "",
+                "end": "10:45:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12733/building_12733_hunter-house-exterior_3348814a162cb48cb3c5362b08b841b6.jpeg",
@@ -10947,7 +10924,7 @@
                 "name": "Royal Botanic Gardens, Kew - Herbarium",
                 "new_venue_this_year": "Yes",
                 "start": "10:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12733"
             },
             "type": "Feature"
@@ -11940,7 +11917,7 @@
                 "balloted": "No",
                 "description": "Southall Manor House is a Grade II* Listed Tudor building - the oldest building in Southall and potentially one of the oldest surviving buildings in West London. The building underwent recent refurbishment, extension and landscaping from 00 Architects. For Open House, the building's heritage will be animated by scents from perfumers 420Tuesdays and Kushbu.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12927/building_12927_011_southall-manor_87de7d76299fecae9e9e0de543d38616.jpg",

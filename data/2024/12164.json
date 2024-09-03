@@ -13,7 +13,8 @@
             "Victorian"
         ],
         "types": [
-            ""
+            "art studio",
+            "community/cultural"
         ]
     },
     "events": [
@@ -63,6 +64,21 @@
             "ticketed": false
         },
         {
+            "activity_type": "Family activity",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T10:15:00+01:00",
+            "fully_booked": false,
+            "name": "Multi-Sports for Children Aged 4-14 years old",
+            "notes": "An inclusive multi-sports group aimed at children aged 4-14.",
+            "start": "2024-09-22T09:15:00+01:00",
+            "ticketed": true
+        },
+        {
             "activity_type": "Walking tour",
             "all_day": false,
             "balloted": false,
@@ -73,7 +89,7 @@
             "end": "2024-09-22T12:00:00+01:00",
             "fully_booked": false,
             "name": "Leytonstone Freedom Walk: Led by Peter Ashan",
-            "notes": "Explore Leytonstone's multi-ethnic multi-faith community from the c17 to the present day.",
+            "notes": "Explore Leytonstone's multi-ethnic multi-faith community from the c17 to the present day. Tour starts and ends at Good Shepherd Studios.",
             "start": "2024-09-22T10:30:00+01:00",
             "ticketed": true
         },
@@ -153,21 +169,6 @@
             "ticketed": true
         },
         {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Chair Yoga Taster with Jessica Green",
-            "notes": "Join Good Shepherd Studios regular Jessica Green for chair-based Yoga-inspired exercise.",
-            "start": "2024-09-22T13:30:00+01:00",
-            "ticketed": true
-        },
-        {
             "activity_type": "Family activity",
             "all_day": false,
             "balloted": false,
@@ -179,6 +180,21 @@
             "fully_booked": false,
             "name": "Art Taster: Make your own cityscape with Art Lab Bluu",
             "notes": "Join Good Shepherd Studios regular Irene and make your own foldable cityscape booklet. Suitable for all ages. Materials provided.",
+            "start": "2024-09-22T13:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Other",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Chair Yoga Taster with Jessica Green",
+            "notes": "Join Good Shepherd Studios regular Jessica Green for chair-based Yoga-inspired exercise.",
             "start": "2024-09-22T13:30:00+01:00",
             "ticketed": true
         },
@@ -289,7 +305,7 @@
         {
             "heading": "History",
             "paragraphs": [
-                "Good Shepherd Studios is a building within a site located on a residential street off Leytonstone High Road. The site also comprises of The Pastures Sports Centre and gardens.",
+                "Good Shepherd Studios is a building within a site located on a residential street off Leytonstone High Road. The site also comprises of the Pastures Centre and Our Pastures Community Garen.",
                 "The building was previously known as the Good Shepherd Building and was built around 1880 to facilitate a home for “fallen” girls.",
                 "Fast-forward a few decades and the site is now owned by the London Borough of Waltham Forest. In 2020 the buildings were under threat of demolition and redevelopment and became the subject of the “Save Our Pastures” community-led campaign.",
                 "After much petitioning, the site was saved and the Council invited bids to take a lease of the Good Shepherd Building. After a successful proposal, work commenced in August 2022  to bring the building back to life in the form of Good Shepherds Studios. Home to a collection of design-led co-working and community spaces, the foundations of Good Shepherd Studios are now in place and the community are being involved in the direction the space will take."
@@ -298,9 +314,9 @@
         {
             "heading": "Our Neighbours",
             "paragraphs": [
-                "The site (locally known as \"Our Pastures\") is shared between Good Shepherd Studios (which includes the building, garden and outdoor \"People's Pavilion\"), Our Pastures Community Garden and Pastures Leisure Centre and Lawn.",
+                "The site is shared between Good Shepherd Studios (which includes the building, garden and outdoor \"People's Pavilion\"), Our Pastures Community Garden and Pastures Leisure Centre and Lawn.",
                 "The Community Garden is run by volunteers who invite gardeners of all levels to join them on Saturdays and Sundays 10.00-13.00.",
-                "The Pastures Leisure Centre and Lawn is run by Waltham Forest Council and used for a number of leisure and sporting events as well as a weekday centre and art project for adults with learning difficulties."
+                "The Pastures Centre and Lawn is run by Waltham Forest Council and used for a number of leisure and sporting events as well as a weekday centre and art project (Snaresbrook Arts Project) for adults with learning difficulties."
             ]
         }
     ],
@@ -346,13 +362,13 @@
     "links": [],
     "location": {
         "address": "15a Davies Lane, E11 3DR",
-        "latitude": 51.56419,
-        "longitude": 0.01222,
+        "latitude": 51.5642,
+        "longitude": 0.01224,
         "meeting_point": null,
         "travel_info": [
             "Train: Leytonstone High Road",
             "Bus: 257, 145, 66, W13",
-            "Additional travel info: Nearest Bus Stop: Leytonstone High Road station Stop J & Stop F\r\nWalking tour: From Leytonstone Underground Station to Good Shepherd Studios"
+            "Additional travel info: Nearest Bus Stop: Leytonstone High Road station Stop J & Stop F"
         ]
     },
     "name": "Good Shepherd Studios",

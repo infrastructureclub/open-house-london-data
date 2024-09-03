@@ -1601,7 +1601,7 @@
                 "balloted": "No",
                 "description": "Explore the Bush Theatre, West London’s home of new writing. Get a behind the scenes look at our fifty-year history, including how over 2016 we transformed our 128-year-old building into an accessible and sustainable modern theatre.",
                 "end": "16:40:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11992/building_11992_daytime-outside-credit-philip-vile-for-the-bush-theatre_d410aac4be5190484396491f395c97a2.jpg",
@@ -1768,7 +1768,7 @@
                 "balloted": "No",
                 "description": "Tour of our facilities. The tour will go through each section of our workshops, explaining each course and subject we teach in detail. Visitors will get a chance to view the workstations, tools, and projects our students undertake day to day at the college.",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12033/building_12033_img_20210923_100435-open-house_1286b6ea860347f62b57d40198a68c7d.jpg",
@@ -1913,6 +1913,18 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12451/building_12451_sarabande-high-road-3_e695837bb3ba41dc39a040ce86aa052f.png",
                         "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12451/building_12451_screenshot-2024-08-14-at-10-36-31_7ab62ea21ad48edea06319a5555ed020.png",
+                        "title": "Hannah Norton, photographer, Sarabande resident in her studio"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12451/building_12451_screenshot-2024-08-14-at-10-29-31_c8122f3afb5fb8e11e6cc7745928f165.png",
+                        "title": "Renata Brenha, designer (womenswear), Sarabande resident in her studio"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12451/building_12451_screenshot-2024-08-14-at-10-35-37_90114c1a18cd17256e4b94ae35f85978.png",
+                        "title": "George Richardson, sculptor, Sarabande resident in his studio"
                     }
                 ],
                 "name": "Sarabande Foundation",
@@ -2327,33 +2339,6 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12687"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.10482,
-                    51.51427
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "London is the world's first National Park City, and our visitors centre at 109 Fleet Street is the entry point to hundreds of places to visit and things to do across a greener, healthier and wilder London.",
-                "end": "20:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12692/building_12692_109fleetstreet_stpauls_0f1218f9e2e2e355fdf9818f8a4227d0.jpg",
-                        "title": "London National Park City visitors centre at 109 Fleet Street looking towards St Paul's Cathedral"
-                    }
-                ],
-                "name": "London National Park City Visitors Centre",
-                "new_venue_this_year": "Yes",
-                "start": "12:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/12692"
             },
             "type": "Feature"
         },
@@ -2937,6 +2922,33 @@
                 "start": "13:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12896"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.11273,
+                    51.51079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Ever wondered as you wandered what exactly led to that bench looking like that, why London's telephone boxes are red, what those green huts are, and why there are no public toilets anymore...? If 'YES!' then join us as we saunter around Temple / the Strand with these questions in mind, stopping to peek at parts of the city fabric that we often overlook - learning about the designers and deciders.",
+                "end": "12:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12901/building_12901_your-paragraph-text-3_fe6a17745ea9c3bb4ee396c8cdd1f00b.png",
+                        "title": null
+                    }
+                ],
+                "name": "Inbetween spaces - The Strand's public realm",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12901"
             },
             "type": "Feature"
         },
