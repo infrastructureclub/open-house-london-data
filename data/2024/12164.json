@@ -102,7 +102,7 @@
             "date": "2024-09-22",
             "drop_in": false,
             "end": "2024-09-22T12:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Drama Taster: Interactive Storytelling with Magic Box",
             "notes": "Join Good Shepherd Studios regular Lottie on an interactive storytelling adventure based on the odd things she finds in her Magic Box!",
             "start": "2024-09-22T11:00:00+01:00",
@@ -139,21 +139,6 @@
             "ticketed": true
         },
         {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T13:30:00+01:00",
-            "fully_booked": false,
-            "name": "Building Tour",
-            "notes": "Find out about the building's history, see \"behind the scenes\" in artists'/creators' studios and hear about exciting future plans.",
-            "start": "2024-09-22T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
             "activity_type": "Family activity",
             "all_day": false,
             "balloted": false,
@@ -165,6 +150,21 @@
             "fully_booked": false,
             "name": "Dance Taster: \"Wee Movers\" with Wee Movers",
             "notes": "Children aged 2-4 years and their grown-ups are invited to join Good Shepherd Studios regular Wee Movers to explore movement together.",
+            "start": "2024-09-22T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T13:30:00+01:00",
+            "fully_booked": false,
+            "name": "Building Tour",
+            "notes": "Find out about the building's history, see \"behind the scenes\" in artists'/creators' studios and hear about exciting future plans.",
             "start": "2024-09-22T13:00:00+01:00",
             "ticketed": true
         },
@@ -199,21 +199,6 @@
             "ticketed": true
         },
         {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T14:30:00+01:00",
-            "fully_booked": false,
-            "name": "Vinyasa Flow Yoga Taster with Jessica Green",
-            "notes": "Join Good Shepherd Studios regular Jessica for high spirited yoga and relaxation that will leave you feeling more open, aware and alive.",
-            "start": "2024-09-22T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
             "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
@@ -225,6 +210,21 @@
             "fully_booked": false,
             "name": "Building Tour",
             "notes": "Find out about the building's history, see \"behind the scenes\" in artists'/creators' studios and hear about exciting future plans.",
+            "start": "2024-09-22T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Other",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Vinyasa Flow Yoga Taster with Jessica Green",
+            "notes": "Join Good Shepherd Studios regular Jessica for high spirited yoga and relaxation that will leave you feeling more open, aware and alive.",
             "start": "2024-09-22T14:00:00+01:00",
             "ticketed": true
         },
