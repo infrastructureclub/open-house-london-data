@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "Self-build conversion followed by more than 40 years' occupation, from party house to office to family home for 6, and now home and studio.",
+    "description": "Nestled in a quirky old London mews, this former stable is full of surprises. A self-build project; the Adaptable House has gone from party house to a lively family home for six, and now it's a creative studio and unique home. Its living, biophilic façade bursts with greenery, with Ash Sakula’s vibrant studio downstairs and a fun, dynamic home upstairs.",
     "design": {
         "designers": [
             {
@@ -14,7 +14,10 @@
         ],
         "types": [
             "residence",
-            "architectural practice"
+            "architectural practice",
+            "housing",
+            "mixed use",
+            "offices"
         ]
     },
     "events": [
@@ -34,7 +37,15 @@
             "ticketed": false
         }
     ],
-    "facilities": [],
+    "facilities": [
+        "Drinking water",
+        "Family-friendly event",
+        "Gender neutral toilet",
+        "Handrails on stairs",
+        "Quieter area",
+        "Seating available",
+        "Toilets"
+    ],
     "factsheet": [
         {
             "heading": "Background",
@@ -71,17 +82,29 @@
     "id": 2963,
     "images": [
         {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2963/building_2963_screenshot-2024-09-05-at-15-06-29_af11f7709b2880bb61a048d46aacd7ff.png",
+            "description": null,
+            "title": "The biophilic front façade is alive with Ash Sakula's friendly studio on the ground floor",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2963_screenshot-2024-09-05-at-15-06-29_af11f7709b2880bb61a048d46aacd7ff.png"
+        },
+        {
             "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2963/building_2963_img_7414_08f140745334268032a55e8f118922c2.jpg",
             "description": null,
             "title": "View of the Adaptable House",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2963_img_7414_08f140745334268032a55e8f118922c2.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2963/building_2963_img_5686_626b30274f48a88b329cf1fcf6aae3ba.jpeg",
+            "description": null,
+            "title": "Ash Sakula studio",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2963_img_5686_626b30274f48a88b329cf1fcf6aae3ba.jpeg"
         }
     ],
     "links": [],
     "location": {
         "address": "6 Doughty Mews, WC1N 2PG",
-        "latitude": 51.52334,
-        "longitude": -0.11707,
+        "latitude": 51.523,
+        "longitude": -0.11704,
         "meeting_point": null,
         "travel_info": [
             "Tube: Russell Square, Chancery Lane, King's Cross St. Pancras, Farringdon",

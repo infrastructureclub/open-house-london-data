@@ -3512,7 +3512,7 @@
                 "balloted": "No",
                 "description": "The London Archives' older building was built in the late 1930s for the Temple Press and has many original features.   Purpose built extension in early 1990s for archival storage. Public rooms remodelled by Bisset Adams in 2000s.",
                 "end": "16:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4294/building_4294_lma_exterior_aa74264039c5901055cab13c0e2a2161.jpg",
@@ -5261,7 +5261,7 @@
                 "balloted": "No",
                 "description": "This Georgian townhouse built by Robert and James Adam in the years 1776-1780 is a fine example of the Adam style of Neoclassical interior design. It houses a collection of European artworks.  It has been the seat of the Polish Embassy in London since 1921.  Guests are welcome to join in  a guided tour and a talk by architectural historian, Colin Thom,  director of the Survey of London volume series.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7544/building_7544_polish-embassy-main-entrance_65323a5c45a950b5433611cc4d0e74f8.jpeg",
@@ -6184,8 +6184,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1691338,
-                    51.49041039999999
+                    -0.16748,
+                    51.49061
                 ],
                 "type": "Point"
             },
@@ -8530,6 +8530,37 @@
                 "start": "10:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12231"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09722,
+                    51.37037
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Opening the doors of Croydon Quakers' Adult School Hall, built in an Arts & Crafts style in the 1900's as an educational community facility in the then rural borough centre. Archive materials on the history and design of the building will be present alongside a drop-in mixed media mapping and zine making workshop.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12243/building_12243_alh-003-high-contrast-jpg_f5715257a93f03fc4343d9015cf08b72.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12243/building_12243_img_4760_26cf1d3af84a75470baf4984e55e3ee0.jpg",
+                        "title": "People taking part in the workshops in the Adult School Hall during PolyVocalCity, 2023."
+                    }
+                ],
+                "name": "Saturday School: Quakers' Hall",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12243"
             },
             "type": "Feature"
         },
@@ -11230,7 +11261,7 @@
                 "balloted": "No",
                 "description": "Beyond the grid of leafy squares and graceful Georgian terraces, studded with tourist attractions like the British Museum and Senate House, there is another side to Bloomsbury. Starting inside the 1740s Grade II listed Pushkin House on the southern edge of the area, we'll wander through the back streets and alleys discovering its hidden gems.",
                 "end": "14:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12795/building_12795_bb3big_fbb3b70276993b30f60b5e9f65cab0b0.jpeg",
@@ -11917,7 +11948,7 @@
                 "balloted": "No",
                 "description": "Southall Manor House is a Grade II* Listed Tudor building - the oldest building in Southall and potentially one of the oldest surviving buildings in West London. The building underwent recent refurbishment, extension and landscaping from 00 Architects. For Open House, the building's heritage will be animated by scents from perfumers 420Tuesdays and Kushbu.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12927/building_12927_011_southall-manor_87de7d76299fecae9e9e0de543d38616.jpg",

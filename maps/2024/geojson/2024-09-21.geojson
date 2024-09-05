@@ -9088,7 +9088,7 @@
                 "balloted": "No",
                 "description": "Discover the fascinating history of Eastcote and its surroundings, focused on how the landscape has changed, from the exclusively agricultural area to the today's modern suburb, revealing some of the oldest local buildings and their stories",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11816/building_11816_img_0212_1fd8a64b76716ca0d95a94a406b6bad4.jpg",
@@ -10071,41 +10071,6 @@
                 "start": "10:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12231"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.09722,
-                    51.37037
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Opening the doors of Croydon Quakers' Adult School Hall, built in an Arts & Crafts style in the 1900's as an educational community facility in the then rural borough centre. Archive materials on the history and design of the building will be present alongside a drop-in mixed media mapping and zine making workshop.",
-                "end": "16:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12243/building_12243_alh-003-high-contrast-jpg_f5715257a93f03fc4343d9015cf08b72.jpg",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12243/building_12243_whatsapp-image-2024-03-24-at-18-15-13_c94a53f9a4ef5009f3630bc1cd1a1814.jpeg",
-                        "title": "Image from Saturday School workshop in 2023 as part of Theatrum Mundi's PolyVocalCity 2023 cohort."
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12243/building_12243_img_4760_26cf1d3af84a75470baf4984e55e3ee0.jpg",
-                        "title": "People taking part in the workshops in the Adult School Hall during PolyVocalCity, 2023."
-                    }
-                ],
-                "name": "Saturday School: Quakers' Hall",
-                "new_venue_this_year": "No",
-                "start": "11:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/12243"
             },
             "type": "Feature"
         },
@@ -12168,7 +12133,7 @@
                 "balloted": "No",
                 "description": "Brockley Conservation Area's High Victorian enclave holds many interesting houses in a variety of styles, including Edwardian domestic architecture, historic trees and original lanes and mews. These have survived into the 21st century almost intact. Houses built in the 1950s and 1960s indicate WWII bomb damage and add to the area's variety and history.",
                 "end": "12:15:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12711/building_12711_000001130028__7808fe99499a9c46fa28189681c7293f.jpg",
@@ -13588,7 +13553,7 @@
                 "balloted": "No",
                 "description": "Join us for a hard-hat visit exploring the literal foundations of Britain's first permanent Migration Museum, opening in the City of London in 2027/8. Find out about our 12-year journey to build Britain’s missing museum, our exciting plans for our permanent home, and discover some of the rich migration histories that surround the site.",
                 "end": "13:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12890/building_12890_65-crutched-friars-museum-corner-entrance-off-crutched-friars-3xn-architects_dominus-1_a64f3f34ef23856c1efee5321c485a95.jpg",
@@ -13980,6 +13945,33 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12938"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.04517,
+                    51.49487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Come visit us at Gather, a hot glass studio in Charlton / Woolwich. On Saturday 21st September, we are running a number of short, exciting classes where participants will 'blow their own bauble'. Visit our glassblowing studio and see the process in action! We will also have a sale with Gather glassware available to purchase. Ending the day, we are hoping to provide a studio tour for those booked.",
+                "end": "16:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12948/building_12948_dsc09284_95ed3c718243baebf0edd7bad35a8e3b.jpg",
+                        "title": "Steve Bates photography (2024)"
+                    }
+                ],
+                "name": "Glassblowing open studio",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12948"
             },
             "type": "Feature"
         }
