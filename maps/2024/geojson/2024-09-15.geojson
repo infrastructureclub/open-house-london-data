@@ -3221,7 +3221,7 @@
                 "balloted": "No",
                 "description": "Ruskinian walk from RIBA award-winning Chiswick Business Park, Gunnersbury Triangle Nature Reserve through South Acton Estate, birthplace of artist Patrick Caulfield; Woodlands Park Ice House; to home of William Willett, initiator of Daylight Saving Time",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_8093_fcaefe7a22fac1f367c74dd4852b7938.jpg",
@@ -3755,7 +3755,7 @@
                 "balloted": "No",
                 "description": "Former Midland Grand Hotel, now St Pancras Renaissance Hotel and Chambers apartments. Includes hotel lobby and clock tower.",
                 "end": "16:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6076/building_6076_una-2_9123d15e32e96d3c3e4e65e3c8bd12ef.jpg",
@@ -4553,7 +4553,7 @@
                 "balloted": "No",
                 "description": "The Royal Academy of Music’s Susie Sainsbury Theatre and Angela Burgess Recital Hall project created two distinct, outstanding performance spaces for Britain’s oldest conservatoire. Designed by Ritchie Studio, the project was the winner of over 20 national and international awards including the RIBA London Building of the Year.",
                 "end": "16:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7379/building_7379_ianritchie_ram_rh_01_-c-adam-scott_9afbc625f7538d26fbe99178d53fc825.jpg",
@@ -5043,6 +5043,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.07257999999999999,
+                    51.41811000000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Explore the world's first dinosaur models hidden in a south London park. The 30 Grade I listed, life-size statues of dinosaurs and other extinct animals at Crystal Palace Park have thrilled\r\nvisitors for 166 years. Tour is kids friendly.",
+                "end": "13:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9374/building_9374_dsc_0114_adb3d98a9a28f2e755d4c9742298905f.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/9374/building_9374_dsc_0097_a7642bcbcac005272016f7843f9e1495.jpg",
+                        "title": ""
+                    }
+                ],
+                "name": "Crystal Palace Park Dinosaurs  – a tour with a London Blue Badge Tourist Guide",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/9374"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0712453,
                     51.5356201
                 ],
@@ -5385,37 +5416,6 @@
                 "start": "13:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10105"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1180248,
-                    51.521498
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "A redevelopment of Holborn’s community centre improving and increasing facilities, enhancing accessibility and creating a space the community can be proud of.   The building has been designed by Stirling prize nominated 6a architects and includes a public artwork for the building, created by artist Cargh Thuring.",
-                "end": "15:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10216/building_10216_2-holborn-house_4c85d8d116463958d03b760cafb1cad0.png",
-                        "title": "Holborn House Community"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10216/building_10216_255-holbornhouse-6a-005_733acc56857e2e7c16bb482e297c8aae.jpeg",
-                        "title": "View from the stairs"
-                    }
-                ],
-                "name": "Holborn House",
-                "new_venue_this_year": "No",
-                "start": "12:30:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/10216"
             },
             "type": "Feature"
         },
@@ -7632,7 +7632,7 @@
                 "balloted": "No",
                 "description": "The Landmark Trust is a national building conservation charity that restores historic properties at risk and turns them into accommodation for unique short breaks. \r\nJoin us at 13 Princelet Street for this rare public opening to explore the building and find out more about the Landmark Trust. Information about the building will be available with our friendly and knowledgeable staff on hand.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12560/building_12560_princelet-street-21_d0dfb4be397581d6534e2e5616be388c.jpg",
