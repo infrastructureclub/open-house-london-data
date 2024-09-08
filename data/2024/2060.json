@@ -152,6 +152,21 @@
             "notes": "Exhibition: Transitory Boundaries",
             "start": "2024-09-22T13:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2060",
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": false,
+            "end": "2024-09-15T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Curator led guided tour",
+            "notes": "",
+            "start": "2024-09-15T15:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -190,6 +205,12 @@
                 "The Argentine Ambassador’s Residence has witnessed many significant events throughout the last 70 years such as: the creation of the emblem of the Argentine Volunteer Squadron in the Second World War; the lodging of the very young John Kennedy; a bomb falling in 1941 which did not in fact explode. In addition -  the reception organised in 1990 for the restitution of diplomatic relations between Buenos Aires and London; the official visits of three Argentine presidents; and two contemporary art exhibitions ‘Casa Abierta – Open House’ which took place during Open House London 2006 and 2010.",
                 "For the 17th year running, we invite visitors to delve into Argentina’s cultural roots — from design, music to the arts — and to experience a journey through Belgrave Villa´s history and architecture, with its sumptuous interiors still intact, including a collection of paintings, furniture and tapestries.",
                 "Seventeen years ago, in 2006, the Argentine Ambassador’s Residence was the first Embassy to open its doors to the public for London Open House."
+            ]
+        },
+        {
+            "heading": "Exhibition",
+            "paragraphs": [
+                "The exhibition Transitory Boundaries wil take place at the Argentine Ambassador's Residence on the occasion of the Open House Festival in London.  A Private View will be held on Saturday 14th, 6-8 PM. Please find linked here the required RSVP page for this event: https://www.eventbrite.co.uk/e/transitory-boundaries-private-view-tickets-1007553528727?aff=odd tdt creator"
             ]
         }
     ],
@@ -232,7 +253,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2060_48871135403_4b0a70ac46_k_3ec2a03dec55e3e9bd24dee9361a3c53.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.eventbrite.co.uk/e/transitory-boundaries-private-view-tickets-1007553528727?aff=odd",
+            "title": null
+        }
+    ],
     "location": {
         "address": "49 Belgrave Square, SW1X 8QZ",
         "latitude": 51.50055039999999,
@@ -246,5 +272,5 @@
     "name": "Argentine Ambassador's Residence",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2060",
-    "ticketed_events": false
+    "ticketed_events": true
 }
