@@ -47,6 +47,21 @@
             "notes": "Tour of the Phoenix Garden Community Building by the architect, Gurmeet Sian, from Office Sian Architecture + Design.",
             "start": "2024-09-21T15:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/6841",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "BSL Guided Tour",
+            "notes": "Deaf led BSL guided tour by Architect Martin Glover",
+            "start": "2024-09-21T14:30:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -159,5 +174,5 @@
     "name": "Phoenix Gardens Community Building",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6841",
-    "ticketed_events": false
+    "ticketed_events": true
 }
