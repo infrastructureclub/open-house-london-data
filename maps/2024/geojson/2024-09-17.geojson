@@ -12,7 +12,7 @@
                 "balloted": "No",
                 "description": "Grade II-listed Georgian domestic building c.1760, formerly part of Bedford Estate. Interior refurbished 1924-5 to form lecture hall (restored 2014), library, bookshop and offices. Oak woodwork and green Doulton tiles line the staircase.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/889/building_889_swedenborg-hall_264a007f81a582f8f0af1fd74869529c.jpg",
@@ -308,7 +308,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "A cleverly integrated mixture of architectural styles and periods, incorporating a late 1720s house (later home to Herbert Henry Asquith) and the purpose-built College of Nursing (1926). Access to main building via guided tour only.",
-                "end": "19:00:00",
+                "end": "17:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -1391,6 +1391,68 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12902"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.08757,
+                    51.51361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Architectural showspace tucked inside a duplex unit inside the City of London’s Royal Exchange. Alongside three-dimensional artworks by architect Misha Stefan, is an exhibition proposing alternative, more inclusive destinations for three prominent gateway sites in the City.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_gc-intermission-entrance_e1183ecb8ce9a5c0848961ca3a174fa2.jpg",
+                        "title": "Intermission, 29 Royal Exchange EC3V 3LP"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_2-replace-installation-at-intermission-showspace_d253af4d5194de88dffe2b82bf148e2e.jpg",
+                        "title": "RE:PLACE exhibition and three-dimensional artworks at Intermission"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_tempimageeiobv3_48ce420f5a5ed7ebf2e907c5b1ad6260.png",
+                        "title": "‘Central Gateway’: No. 1 Poultry reimagined by Misha Stefan at Intermission EC3V 3LP"
+                    }
+                ],
+                "name": "Intermission",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12947"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.14507,
+                    51.52118
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Calling all non-architects (and architects) join us in a two-part event at the Royal Institute of British Architects. Unpeel and reveal invisible layers at the RIBA and the  architecture industry as a whole. The first part of the event comprises a building tour, and a polaroid camera, collage workshop. You will reshape and remould the narrative at the RIBA responding specifically at the more conte",
+                "end": "19:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12951/building_12951_screenshot-2024-09-10-at-16-55-01_e06c1fe7c866e756546c366d896cd3d3.png",
+                        "title": null
+                    }
+                ],
+                "name": "Layers: Making the Invisible Visible",
+                "new_venue_this_year": "Yes",
+                "start": "16:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12951"
             },
             "type": "Feature"
         }

@@ -284,7 +284,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "A cleverly integrated mixture of architectural styles and periods, incorporating a late 1720s house (later home to Herbert Henry Asquith) and the purpose-built College of Nursing (1926). Access to main building via guided tour only.",
-                "end": "19:00:00",
+                "end": "17:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -1049,7 +1049,7 @@
                 "balloted": "No",
                 "description": "On this journey into Soho and St Giles, I want to show the different ways London’s streets are alive with love in all its varied forms. Buildings are often said to be sympathetic or out of place, in keeping or a departure from their surroundings. This tour will explore how the built environment reflects the relationships we conduct with each other.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12760/building_12760_anteros-shaftesburyfountain_5afd112c64826b8412f2ac1d2e85bb35.jpg",
@@ -1169,6 +1169,41 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12902"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.08757,
+                    51.51361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Architectural showspace tucked inside a duplex unit inside the City of London’s Royal Exchange. Alongside three-dimensional artworks by architect Misha Stefan, is an exhibition proposing alternative, more inclusive destinations for three prominent gateway sites in the City.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_gc-intermission-entrance_e1183ecb8ce9a5c0848961ca3a174fa2.jpg",
+                        "title": "Intermission, 29 Royal Exchange EC3V 3LP"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_2-replace-installation-at-intermission-showspace_d253af4d5194de88dffe2b82bf148e2e.jpg",
+                        "title": "RE:PLACE exhibition and three-dimensional artworks at Intermission"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_tempimageeiobv3_48ce420f5a5ed7ebf2e907c5b1ad6260.png",
+                        "title": "‘Central Gateway’: No. 1 Poultry reimagined by Misha Stefan at Intermission EC3V 3LP"
+                    }
+                ],
+                "name": "Intermission",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12947"
             },
             "type": "Feature"
         }

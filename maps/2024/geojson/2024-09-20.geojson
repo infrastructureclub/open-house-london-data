@@ -137,7 +137,7 @@
                 "balloted": "No",
                 "description": "King's Cross is a 67 acre development in Central London being transformed into a new city quarter with 20 regenerated heritage buildings, new homes, offices, public spaces, shops, galleries, bars, restaurants, schools and a university.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/499/building_499_p_kxc_site_n12920-1_c033698cc5fc2be8336e52926ceac7d0.jpg",
@@ -614,7 +614,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "A cleverly integrated mixture of architectural styles and periods, incorporating a late 1720s house (later home to Herbert Henry Asquith) and the purpose-built College of Nursing (1926). Access to main building via guided tour only.",
-                "end": "19:00:00",
+                "end": "17:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -1768,7 +1768,7 @@
                 "balloted": "No",
                 "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights 3 scale architectural models of London: the New London Model, the City Model and the Royal Docks Model.",
                 "end": "13:15:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12022/building_12022_tlc-gallery-image_4a4ec9198eae3721250973552952142d.png",
@@ -1984,7 +1984,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "•⁠  ⁠Drop in archival workshops\r\n\r\n•⁠  ⁠Informal building tours \r\n\r\n•⁠  ⁠Free refreshments \r\n\r\n•⁠  ⁠Story sharing \r\n\r\n\r\nDiscover more about the working lives of our landmark community building past, present and future. \r\n\r\n\r\nMeet our community producer and become  part of the Looking Out* story. \r\n\r\n*Looking Out is a Heritage England funded project celebrating working class histories.",
+                "description": "•⁠  ⁠Drop in archival workshops\r\n\r\n•⁠  ⁠Informal building tours \r\n\r\n•⁠  ⁠Free refreshments \r\n\r\n•⁠  ⁠Story sharing \r\n\r\n\r\nDiscover more about the working lives of our landmark community building past, present and future. \r\n\r\n\r\nMeet our community producer and become  part of the Looking Out* story. \r\n\r\n*Looking Out is a Heritage England funded project celebrating working class histories.\r\n\r\nWe will have a BSL Interpreter present between 15:00 - 19:00.",
                 "end": "19:00:00",
                 "fully_booked": "",
                 "images": [
@@ -3043,6 +3043,41 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12907"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.08757,
+                    51.51361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Architectural showspace tucked inside a duplex unit inside the City of London’s Royal Exchange. Alongside three-dimensional artworks by architect Misha Stefan, is an exhibition proposing alternative, more inclusive destinations for three prominent gateway sites in the City.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_gc-intermission-entrance_e1183ecb8ce9a5c0848961ca3a174fa2.jpg",
+                        "title": "Intermission, 29 Royal Exchange EC3V 3LP"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_2-replace-installation-at-intermission-showspace_d253af4d5194de88dffe2b82bf148e2e.jpg",
+                        "title": "RE:PLACE exhibition and three-dimensional artworks at Intermission"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_tempimageeiobv3_48ce420f5a5ed7ebf2e907c5b1ad6260.png",
+                        "title": "‘Central Gateway’: No. 1 Poultry reimagined by Misha Stefan at Intermission EC3V 3LP"
+                    }
+                ],
+                "name": "Intermission",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12947"
             },
             "type": "Feature"
         }

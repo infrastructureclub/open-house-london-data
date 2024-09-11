@@ -1603,7 +1603,7 @@
                 "balloted": "No",
                 "description": "The recently automated impounding station controls the water level in the docks using the original Worthington Simpson pumps driven by Lancashire dynamo.",
                 "end": "15:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2328/building_2328_impounding-station-internal_5ba2d85977d70534b1c61c51f6dd9028.jpg",
@@ -3806,7 +3806,7 @@
                 "balloted": "No",
                 "description": "Designed by Delissa Joseph. Opened in 1892 with an eclectic French Gothic/Romanesque style. Enlarged in 1901. Features stained glass windows by Solomon, Sochachewsky and Hillman.  Extensively restored in 2008.",
                 "end": "14:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/8077/building_8077_hampstead_1218177c45bed72018852c2ceb50f306.jpg",
@@ -6483,7 +6483,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The transformation of a beloved community space in a former pub, to a purpose-built centre for families with under-5s and the wider community",
+                "description": "The transformation of a beloved community space in a former pub, to a purpose-built centre for families with under-5s and the wider community\r\n\r\nPLEASE NOTW THAT IT IS ONLY THE FAMILY CENTRE THAT IS OPEN, NOT THE RESIDENCE ABOVE IT",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -6631,6 +6631,10 @@
                 "fully_booked": "No",
                 "images": [
                     {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12499/building_12499_s2b_jay-yang-cooper-house_2024_9_web_2378d84f1f6844310f3d3133c374fd27.jpg",
+                        "title": "Dining & living space connected by porous timber floor Designed by S2Bstudio Photo: Jay yang"
+                    },
+                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12499/building_12499_s2b_jay-yang-cooper-house_2024_11_web_18208ecb857aa9605dcdff5a6ea3884b.jpg",
                         "title": "Dining & living space connected by porous timber floor Designed by S2Bstudio Photo: Jay yang"
                     },
@@ -6644,10 +6648,6 @@
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12499/building_12499_s2b_jay-yang-cooper-house_2024_16_web_203ce7025c81401893468031cfdd69f2.jpg",
-                        "title": "Dining & living space connected by porous timber floor Designed by S2Bstudio Photo: Jay yang"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12499/building_12499_s2b_jay-yang-cooper-house_2024_9_web_2378d84f1f6844310f3d3133c374fd27.jpg",
                         "title": "Dining & living space connected by porous timber floor Designed by S2Bstudio Photo: Jay yang"
                     },
                     {
@@ -7789,6 +7789,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.00224,
+                    51.54103
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "This year marks the 25th anniversary of the Jubilee line extension. To celebrate, we've planned a treasure hunt that will allow visitors to explore and discover these stations with new eyes, looking for clues about their use and learning their history. Visitors will start at Stratford station and end at Southwark station, but learn about all 11 stations that make up the extension.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12735/building_12735_canada-water-3_0ec6fab964d818e6d615411be3ca06ae.jpg",
+                        "title": "(c) TfL Visual Services"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12735/building_12735_2f1a0559-hdr_d3f8e35625f7239f863902c3fa8777cf.jpg",
+                        "title": "Southwark station (c) TfL Visual Services"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12735/building_12735_4-west-ham-2701_46643334fd2771461ea7a3beb5c4709f.jpg",
+                        "title": "West Ham ticket hall (c) TfL Visual Services"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12735/building_12735_canary-wharf-ticket-hall_7903d9bff60235298a1ec041ceb0e47a.jpg",
+                        "title": "Canary Wharf ticket hall (c) TfL Visual Services"
+                    }
+                ],
+                "name": "Jubilee Line Extension Treasure Hunt",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12735"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1306,
                     51.5157
                 ],
@@ -7910,7 +7949,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "A radical energy reduction transformation of a 1920s home that adds a light-filled basement arranged around an atrium with living wall.",
-                "end": "18:00:00",
+                "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -7945,7 +7984,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Enfield Council has been awarded grant funding from the National Heritage Lottery Fund, The Pilgrim Trust and The Enfield Society to understand how the non-conformist chapel in Lavender Hill Cemetery can be conserved and identify potential new uses.\r\n\r\nJoin us to explore the cemetery, take a look inside the former Chapel and give us your thoughts on its future!",
-                "end": "16:00:00",
+                "end": "15:30:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -7959,7 +7998,7 @@
                 ],
                 "name": "Lavender Hill: Chapel and Community",
                 "new_venue_this_year": "Yes",
-                "start": "13:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12751"
             },
@@ -7977,7 +8016,7 @@
                 "balloted": "No",
                 "description": "Oru Sutton is a landmark workspace, leisure, and destination space in the heart of Sutton High Street, creating a nurturing environment for people to connect and thrive in their work and personal lives.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12768/building_12768_screenshot-2024-06-28-at-13-44-26_aa513e65d95ac156f6a65d9b892f2ea2.png",
@@ -8680,6 +8719,41 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12942"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.08757,
+                    51.51361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Architectural showspace tucked inside a duplex unit inside the City of London’s Royal Exchange. Alongside three-dimensional artworks by architect Misha Stefan, is an exhibition proposing alternative, more inclusive destinations for three prominent gateway sites in the City.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_gc-intermission-entrance_e1183ecb8ce9a5c0848961ca3a174fa2.jpg",
+                        "title": "Intermission, 29 Royal Exchange EC3V 3LP"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_2-replace-installation-at-intermission-showspace_d253af4d5194de88dffe2b82bf148e2e.jpg",
+                        "title": "RE:PLACE exhibition and three-dimensional artworks at Intermission"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_tempimageeiobv3_48ce420f5a5ed7ebf2e907c5b1ad6260.png",
+                        "title": "‘Central Gateway’: No. 1 Poultry reimagined by Misha Stefan at Intermission EC3V 3LP"
+                    }
+                ],
+                "name": "Intermission",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12947"
             },
             "type": "Feature"
         }

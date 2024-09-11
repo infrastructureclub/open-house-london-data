@@ -31,6 +31,21 @@
             "notes": "Women of the Elephant Tusk ndi otu odu exhibition by REWA",
             "start": "2024-09-21T10:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10989",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "BSL Guided Tour",
+            "notes": "Deaf-led BSL guided tour by Architect Martin Glover",
+            "start": "2024-09-21T17:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -102,5 +117,5 @@
     "name": "The Africa Centre",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10989",
-    "ticketed_events": false
+    "ticketed_events": true
 }

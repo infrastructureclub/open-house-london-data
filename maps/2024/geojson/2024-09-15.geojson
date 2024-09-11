@@ -565,7 +565,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "A sumptuous feast of Victorian stained glass & bold sacred sculpture in what Sir John Betjeman called the 'cathedral of the Arts and Crafts movement.' Work by William Morris, Edward Burne-Jones, William Blake- Richmond & Christopher Whall.",
-                "end": "16:00:00",
+                "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -595,7 +595,7 @@
                 ],
                 "name": "Holy Trinity Church Sloane Square",
                 "new_venue_this_year": "No",
-                "start": "13:00:00",
+                "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/649"
             },
@@ -1353,7 +1353,7 @@
                 "balloted": "No",
                 "description": "Among the UK's architectural treasures, the Royal Hospital Chelsea, has housed the iconic 'Chelsea Pensioners' since 1692. Join a tour led by a Chelsea Pensioner to learn about the site's history, including architectural contributions from Sir Christopher Wren & Sir John Soane. Discover the New Soane Stable Yard and its interactive exhibition for deeper insights  into the RHC's rich history.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/1538/building_1538_figure-court-2_15599543c5de99cd7e32bddfc217626a.jpg",
@@ -2271,7 +2271,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "In the heart of London, just steps from famed Trafalgar Square, is Benjamin Franklin House, the world's only remaining Franklin home. \r\nFor nearly sixteen years between 1757 and 1775, Dr Benjamin Franklin – scientist, diplomat, philosopher, inventor, Founding Father of the United States and more – lived behind its doors.\r\n\r\nBuilt circa 1730, we are a Grade I listed house in central London.",
-                "end": "16:30:00",
+                "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -3221,7 +3221,7 @@
                 "balloted": "No",
                 "description": "Ruskinian walk from RIBA award-winning Chiswick Business Park, Gunnersbury Triangle Nature Reserve through South Acton Estate, birthplace of artist Patrick Caulfield; Woodlands Park Ice House; to home of William Willett, initiator of Daylight Saving Time",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/4686/building_4686_img_8093_fcaefe7a22fac1f367c74dd4852b7938.jpg",
@@ -5340,8 +5340,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "The Musical Museum was founded 60 years ago by the late Frank Holland which he started with his own private collection of some half-dozen reproducing pianos. The current building was specially designed for the Musical Museum, funded by a Heritage Lottery Grant and was opened in June 2008.",
-                "end": "16:00:00",
-                "fully_booked": "",
+                "end": "17:00:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10085/building_10085_106349738_3138699062832198_4020628551029398812_n_fe3648eb02856ec7af1e3a7d3f2019a6.jpg",
@@ -5355,7 +5355,7 @@
                 "name": "The Musical Museum",
                 "new_venue_this_year": "No",
                 "start": "10:30:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/10085"
             },
             "type": "Feature"
@@ -5604,6 +5604,49 @@
                 "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10390"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09044,
+                    51.52232
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A lower-ground level church space, originally a school-chapel. Stained glass windows (1820's) are from the original St. Mary Moorfields Church. 2 icons in contemporary Ethiopian-style depict Mary, Mother of the City & St. Joseph.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10436/building_10436_churchentrancegate_39bf818af0060c95d7a651d61ba9d722.jpg",
+                        "title": "Church Entrance-Gate"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10436/building_10436_sjbreastersundaymorning2020-1_74063d7ac883f20fd806efc20819c2be.jpg",
+                        "title": "Easter Sunday Morning"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10436/building_10436_sjbrmmotc_c91402e322191838484c41e5462f9df6.jpg",
+                        "title": "Mary, Mother of the City Icon"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10436/building_10436_agonyinthegardenwindow_5b3a9d79ebbc6a23cfce55e1c52078d6.jpg",
+                        "title": "Agony in the Garden Window"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10436/building_10436_sjbrquietgarden_2e87c52710f973fd7d132cdd0d4da79f.jpg",
+                        "title": "St. Joseph's Quiet Garden"
+                    }
+                ],
+                "name": "St. Joseph's Church & Quiet Garden",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10436"
             },
             "type": "Feature"
         },
@@ -6051,7 +6094,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A Grade 2 listed former Territorial Army Drill Hall  featuring restored elements of the original 1882 design. It has a triple height central hall with the restored wrought iron balconies and roofing.  Notable Neo-Georgian design brickwork. It is also unique in being the last ever buit military drill hall in the UK.",
+                "description": "A Grade 2 listed former Territorial Army Drill Hall  featuring restored elements of the original 1882 design. It has a triple height central hall with the restored wrought iron balconies and roofing.  Notable Neo-Georgian design brickwork. It is also unique in being the last ever military drill hall built in the UK.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -7206,7 +7249,7 @@
                 "balloted": "No",
                 "description": "A walking tour of the residential areas of Kensal House.  Visit our Grade II* listed housing estate at the top of Ladbroke Grove. Built by Maxwell Fry in 1937 it is the first example of modernist housing for working class people in the UK. Invaluable design input from Elizabeth Denby to create an 'urban village' around the footprint of Gasworks, with innovative community spaces",
                 "end": "14:50:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12439/building_12439_img_4047_1192263d3358e69c644615ed4c3dfedb.jpeg",
@@ -7291,6 +7334,10 @@
                 "fully_booked": "No",
                 "images": [
                     {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12499/building_12499_s2b_jay-yang-cooper-house_2024_9_web_2378d84f1f6844310f3d3133c374fd27.jpg",
+                        "title": "Dining & living space connected by porous timber floor Designed by S2Bstudio Photo: Jay yang"
+                    },
+                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12499/building_12499_s2b_jay-yang-cooper-house_2024_11_web_18208ecb857aa9605dcdff5a6ea3884b.jpg",
                         "title": "Dining & living space connected by porous timber floor Designed by S2Bstudio Photo: Jay yang"
                     },
@@ -7304,10 +7351,6 @@
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12499/building_12499_s2b_jay-yang-cooper-house_2024_16_web_203ce7025c81401893468031cfdd69f2.jpg",
-                        "title": "Dining & living space connected by porous timber floor Designed by S2Bstudio Photo: Jay yang"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12499/building_12499_s2b_jay-yang-cooper-house_2024_9_web_2378d84f1f6844310f3d3133c374fd27.jpg",
                         "title": "Dining & living space connected by porous timber floor Designed by S2Bstudio Photo: Jay yang"
                     },
                     {
@@ -7605,7 +7648,7 @@
                 "balloted": "No",
                 "description": "Stroll through beautiful Upper Shirley. Discover the area's ancient woodland, discuss nearby grand manor houses, pass by the windmill, ending at The Wilderness garden, a historic therapeutic garden and nursing home updated for the 21st century.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12559/building_12559_mha-the-wilderness-gardens-teaching-resources-profile-image_ee95dc9d89d75d421db70bf014be3f67.jpg",
@@ -8471,7 +8514,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Enfield Council has been awarded grant funding from the National Heritage Lottery Fund, The Pilgrim Trust and The Enfield Society to understand how the non-conformist chapel in Lavender Hill Cemetery can be conserved and identify potential new uses.\r\n\r\nJoin us to explore the cemetery, take a look inside the former Chapel and give us your thoughts on its future!",
-                "end": "16:00:00",
+                "end": "15:30:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -8485,7 +8528,7 @@
                 ],
                 "name": "Lavender Hill: Chapel and Community",
                 "new_venue_this_year": "Yes",
-                "start": "13:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12751"
             },
@@ -8641,6 +8684,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.03898,
+                    51.51235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "This walk invites all canal enthusiasts – also known as ‘gongoozlers’  – on a walk through the social and industrial history of the Limehouse Basin and along Regent’s Canal. Discover how a purpose-built canal shaped the lives of East Enders, Londoners and the United Kingdom.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12808/building_12808_unnamed_063fb532ef738a9ee8ecc64d0dac30c4.jpg",
+                        "title": "Limehouse Basin Marina"
+                    }
+                ],
+                "name": "Gongoozlers of Regent’s Canal & Limehouse Basin",
+                "new_venue_this_year": "Yes",
+                "start": "14:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12808"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.01162,
                     51.52487
                 ],
@@ -8712,7 +8782,7 @@
                 "balloted": "No",
                 "description": "Join curator William Rees for a tour of sites in Southall with ties to the Martinware collection; from the location of the Martin brothers' studio on the Grand Union Canal, to the lost fountain of Southall Manor House Grounds, to the home of the collection today at Southall Library, Dominion Centre. Participants will get a free Martinware map and view collection items recently placed on view.",
                 "end": "12:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12822/building_12822_martinware-map-update_b27a40649a96f8d78ea2e8234ddf7182.jpg",
@@ -9157,7 +9227,7 @@
                 "balloted": "No",
                 "description": "Southall Manor House is a Grade II* Listed Tudor building - the oldest building in Southall and potentially one of the oldest surviving buildings in West London. The building underwent recent refurbishment, extension and landscaping from 00 Architects. For Open House, the building's heritage will be animated by scents from perfumers 420Tuesdays and Kushbu.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12927/building_12927_011_southall-manor_87de7d76299fecae9e9e0de543d38616.jpg",
@@ -9173,6 +9243,68 @@
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12927"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.08757,
+                    51.51361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Architectural showspace tucked inside a duplex unit inside the City of London’s Royal Exchange. Alongside three-dimensional artworks by architect Misha Stefan, is an exhibition proposing alternative, more inclusive destinations for three prominent gateway sites in the City.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_gc-intermission-entrance_e1183ecb8ce9a5c0848961ca3a174fa2.jpg",
+                        "title": "Intermission, 29 Royal Exchange EC3V 3LP"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_2-replace-installation-at-intermission-showspace_d253af4d5194de88dffe2b82bf148e2e.jpg",
+                        "title": "RE:PLACE exhibition and three-dimensional artworks at Intermission"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_tempimageeiobv3_48ce420f5a5ed7ebf2e907c5b1ad6260.png",
+                        "title": "‘Central Gateway’: No. 1 Poultry reimagined by Misha Stefan at Intermission EC3V 3LP"
+                    }
+                ],
+                "name": "Intermission",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12947"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09844,
+                    51.51508
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Welcome to \"Echoes of Transformation: London Through Time,\" where you'll embark on a journey exploring the evolution of London’s architecture, from its historic brick and stone buildings to the towering glass and steel skyscrapers of today. The city’s ever-changing skyline reflects the shifting ideas, technologies, and values that have shaped it over the centuries.",
+                "end": "13:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12952/building_12952_echoes_of_transformation_poster_2e62accf9a72e52292667a5924c5f923.png",
+                        "title": null
+                    }
+                ],
+                "name": "Echoes of Transformation: London Through Time",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12952"
             },
             "type": "Feature"
         }

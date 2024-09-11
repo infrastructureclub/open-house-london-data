@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "Come visit us at Gather, a hot glass studio in Charlton / Woolwich. On Saturday 21st September, we are running a number of short, exciting classes where participants will 'blow their own bauble'. Visit our glassblowing studio and see the process in action! We will also have a sale with Gather glassware available to purchase. Ending the day, we are hoping to provide a studio tour for those booked.",
+    "description": "Come visit us at Gather, a hot glass studio in Charlton / Woolwich for an open studio day. On Saturday 21st September, we are running a number of pre-book short, exciting classes where participants will 'blow their own bauble' for £55 each. At 3pm we will host a free studio tour with glass blowing demonstrations. Visit us see the process in action!",
     "design": {
         "designers": [
             {
@@ -31,19 +31,49 @@
             "ticketed": false
         },
         {
-            "activity_type": "Drop in",
+            "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12948",
             "capacity": null,
             "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T16:30:00+01:00",
+            "drop_in": false,
+            "end": "2024-09-21T15:00:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Guided tour and demos of glassblowing studio",
+            "name": "Guided tour and demos of glassblowing studio",
+            "notes": "A guided tour of our glassblowing studio with some demons thrown in! Learn about how Gather set up the unique space. All questions welcome!",
+            "start": "2024-09-21T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12948",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour and demos of glassblowing studio",
             "notes": "A guided tour of our glassblowing studio with some demons thrown in! Learn about how Gather set up the unique space. All questions welcome!",
             "start": "2024-09-21T15:00:00+01:00",
-            "ticketed": false
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12948",
+            "capacity": null,
+            "date": "2024-09-21",
+            "drop_in": false,
+            "end": "2024-09-21T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour and demos of glassblowing studio",
+            "notes": "A guided tour of our glassblowing studio with some demons thrown in! Learn about how Gather set up the unique space. All questions welcome!",
+            "start": "2024-09-21T16:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -75,7 +105,6 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Greenwich",
-            "Train: Woolwich",
             "Bus: 472",
             "Additional travel info: You can walk along the river from Woolwich or catch a very short bus. Buses also run right to our studio from Greenwich studio."
         ]
@@ -83,5 +112,5 @@
     "name": "Glassblowing open studio",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12948",
-    "ticketed_events": false
+    "ticketed_events": true
 }

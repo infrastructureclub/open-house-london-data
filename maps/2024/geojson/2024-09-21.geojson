@@ -2295,7 +2295,7 @@
                 "balloted": "No",
                 "description": "The sixth livery hall to be built on a site owned by the Company since 1501. The 1958 building stands on part of 1854 hall largely destroyed in WWII. East wall recently refaced. Completely refurbished and remodelled internally 2006/7.",
                 "end": "16:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2310/building_2310_hall-bdg-fm-north-to-south_874ec04e8b2d03b54ec78a816886610b.jpg",
@@ -6140,7 +6140,7 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/8270/building_8270_screenshot-2024-08-02-at-16-44-39_35675d6c806d403cb5a9d917cdf7f713.png",
-                        "title": "Beyond Beck Road (part III) 'TIME 24'\r\n21/09/24\r\n10am-10pm"
+                        "title": "Beyond Beck Road (part III) 'TIME 24'\r\n21/09/24\r\n12-11pm"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/8270/building_8270_screenshot-2022-07-08-at-18-53-38_5ac06364fda35fef91038c69662044c7.png",
@@ -7902,7 +7902,7 @@
                 "balloted": "No",
                 "description": "A 1960s former office block that has been transformed into a vibrant cultural hub showcasing the best of contemporary African culture and heritage. This project is supported by the Mayor of London.",
                 "end": "18:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10989/building_10989_2-the-africa-centre_8a05b5b294887ad6cbc60ec076c15769.png",
@@ -7932,7 +7932,7 @@
                 "name": "The Africa Centre",
                 "new_venue_this_year": "No",
                 "start": "10:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/10989"
             },
             "type": "Feature"
@@ -8074,7 +8074,7 @@
                 "balloted": "No",
                 "description": "A victorian mid terrace house with a dark blue exterior and a zany tiled front garden. Full of original features without being dictated by the era, colour continues inside with a yellow rubber floor in the kitchen.",
                 "end": "16:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11119/building_11119_img_0882_b1eebda4b3591649c5360318dd18b3a0.jpg",
@@ -8326,53 +8326,6 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11196"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    0.03876,
-                    51.50727
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "A walking tour, enlivened by unique illustrations, along the northern edge of Royal Albert Dock. Historically a frontier of trade into and out of London, it has had a fascinating journey from busy port to a place for people to call home.",
-                "end": "16:30:00",
-                "fully_booked": "Yes",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11290/building_11290_lfa_2024_92a6406f6e7b8afbf981eab736cbee6b.jpeg",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11290/building_11290_ag_aatde_thumb_02_55e8db4d81bc59119d97e1139450807f.jpg",
-                        "title": "Central Buffet, Royal Abert Dock"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11290/building_11290_ag_aatde_thumb_05_4f14ddca7e1aeda8b6fad8237c464866.jpg",
-                        "title": "Royal Albert Wharf"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11290/building_11290_ag_aatde_thumb_06_b63f5dbcacc3bff4f6363a51d1213963.jpg",
-                        "title": "Aquatic life in Royal Albert Dock"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11290/building_11290_ag_aatde_thumb_09_5151d10838c5a7c7280e071792f097fd.jpg",
-                        "title": "Royal Albert Dock reflections"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11290/building_11290_ag_aatde_thumb_ag_56b736c68231c9b15489e475b6bf8b85.jpg",
-                        "title": "Anna Gibb"
-                    }
-                ],
-                "name": "All along the dock edge",
-                "new_venue_this_year": "No",
-                "start": "14:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/11290"
             },
             "type": "Feature"
         },
@@ -9022,7 +8975,7 @@
                 "balloted": "No",
                 "description": "Join us for a guided tour of Bromley Archives. With access to the archive store, typically closed to the public, visitors will get a behind the scenes look at the collection and service.",
                 "end": "16:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11775/building_11775_img_5155_31814cfc5ea5b4a87c16ca1ba54f7d44.jpg",
@@ -10213,33 +10166,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.07159,
-                    51.57955
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Redbridge Institute of Adult Education is opening its doors, for visitors to access 120 years of lifelong learning  history.\r\nVisitors will benefit from talks and tours on topics ranging from history of Redbridge to architecture, planning and civic amenities.  Families will  enjoy a mammoth trail, celebrating Ilford's discovery of the most complete mammoth skull ever found in Britain.",
-                "end": "15:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12409/building_12409_riae-logo-cmyk_530a0ebb6f1774bea32c2d7637669d49.jpg",
-                        "title": "Redbridge Institute opens its doors to over 120 years of history"
-                    }
-                ],
-                "name": "Redbridge Institute of Adult Education",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/12409"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.09695,
                     51.49078
                 ],
@@ -10289,6 +10215,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12422"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.04142,
+                    51.51196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Founded by Queen Matilda in 1147 and with HM Queen Elizabeth II as our previous patron, The Royal Foundation of St Katharine has served as a centre for worship, hospitality and service over many centuries. With 45 bedrooms, 11 meeting rooms, and a community café, it is a unique, quiet sanctuary in the heart of London.",
+                "end": "11:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12441/building_12441_garden-2_37851bd1794dfff55c76900b3f0bc843.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Royal Foundation of St Katharine",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12441"
             },
             "type": "Feature"
         },
@@ -10420,6 +10373,10 @@
                 "fully_booked": "No",
                 "images": [
                     {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12499/building_12499_s2b_jay-yang-cooper-house_2024_9_web_2378d84f1f6844310f3d3133c374fd27.jpg",
+                        "title": "Dining & living space connected by porous timber floor Designed by S2Bstudio Photo: Jay yang"
+                    },
+                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12499/building_12499_s2b_jay-yang-cooper-house_2024_11_web_18208ecb857aa9605dcdff5a6ea3884b.jpg",
                         "title": "Dining & living space connected by porous timber floor Designed by S2Bstudio Photo: Jay yang"
                     },
@@ -10433,10 +10390,6 @@
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12499/building_12499_s2b_jay-yang-cooper-house_2024_16_web_203ce7025c81401893468031cfdd69f2.jpg",
-                        "title": "Dining & living space connected by porous timber floor Designed by S2Bstudio Photo: Jay yang"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12499/building_12499_s2b_jay-yang-cooper-house_2024_9_web_2378d84f1f6844310f3d3133c374fd27.jpg",
                         "title": "Dining & living space connected by porous timber floor Designed by S2Bstudio Photo: Jay yang"
                     },
                     {
@@ -10734,7 +10687,7 @@
                 "balloted": "No",
                 "description": "A transformative project to open up Cockpit for the benefit its makers and the local community. Our proposal for the redevelopment of Cockpit’s studio building in Deptford was supported by the Mayor of London’s Good Growth Fund and the Stride partnership. Completed in early summer 2024, the project makes Cockpit more publicly accessible and creates new workshop and studio space for makers.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12534/building_12534_pano_7852_7935-030724_cooke_fawcett_cockpit_final_-_peter-landers-photography-medium_da30d86bbaebe8f67b8e8abe058c5c5f.jpg",
@@ -10906,7 +10859,7 @@
                 "balloted": "No",
                 "description": "Periscope is a spatial design agency focused on regenerative design and public architecture.\r\n\r\nWe welcome visitors to join us through a day of workshops and talks around some of the practice's recent works, stimulating conversations on green and blue infrastructures, master planning and urbanism, public realm and landscape.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12552/building_12552_office_periscope_01_photo_acc67688e8654034d4b375bfa9430ee9.jpg",
@@ -12323,8 +12276,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.19189,
-                    51.36209
+                    -0.19163,
+                    51.36211
                 ],
                 "type": "Point"
             },
@@ -12957,7 +12910,7 @@
                 "balloted": "No",
                 "description": "Visitors are invited to a descriptive tour of the Rewind: This is Croydon's Music.",
                 "end": "11:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12793/building_12793_1h3a7897_a02982c5351edf65e612697b1958eaee.jpg",
@@ -12984,7 +12937,7 @@
                 "balloted": "No",
                 "description": "An opportunity to explore our permanent “Home of Ideas” and to visit our current exhibition “Ideas Aren’t Linear” – a non-linear journey through the design processes of two recently completed projects: The Energy Hub and Aylesbury Health Centre, known affectionately as “The Elephant and The Castle” – exposing the twists, about-turns and serendipity that informed their unexpected relationship.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12803/building_12803_160422_dma_aylesbury_models_019_20d41c8c67ae5a2bf971a1216e6bf737.jpg",
@@ -13403,7 +13356,7 @@
                 "balloted": "No",
                 "description": "The Old Vestry Office is a Grade II listed building that was built in the early 19th century. It was originally created as a Beadle's office but later used as a police station, containing 2 cells. The Old Enfield Charitable Trust - an independent charity serving those living and working within the boundary of the Ancient Parish - run their services from the Old Vestry Office.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12872/building_12872_old-charitable-trust_2b2da31049f8052f0110873b8f3b8cde.jpg",
@@ -13599,17 +13552,21 @@
             "properties": {
                 "balloted": "No",
                 "description": "Myddelton House Gardens were once home to Edward Augustus Bowles, one of Britain’s most famous self-taught gardeners, artists and expert botanists. The gardens are a treasure trove of hidden gems and the beautifully reconstructed Victorian Glasshouse is no exception.",
-                "end": "16:00:00",
+                "end": "15:00:00",
                 "fully_booked": "",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12899/building_12899_cath-carver_1cf9bc2ace5b47f1f234c44f2cbe59f8.jpg",
                         "title": "Glasshouse"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12899/building_12899_myddelton-house_1c9e5368bb48a331be0794c3b98c0f49.jpg",
+                        "title": "Glasshouse"
                     }
                 ],
                 "name": "Music with Plants by the Glasshouse",
                 "new_venue_this_year": "Yes",
-                "start": "12:00:00",
+                "start": "13:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12899"
             },
@@ -13967,6 +13924,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.08757,
+                    51.51361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Architectural showspace tucked inside a duplex unit inside the City of London’s Royal Exchange. Alongside three-dimensional artworks by architect Misha Stefan, is an exhibition proposing alternative, more inclusive destinations for three prominent gateway sites in the City.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_gc-intermission-entrance_e1183ecb8ce9a5c0848961ca3a174fa2.jpg",
+                        "title": "Intermission, 29 Royal Exchange EC3V 3LP"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_2-replace-installation-at-intermission-showspace_d253af4d5194de88dffe2b82bf148e2e.jpg",
+                        "title": "RE:PLACE exhibition and three-dimensional artworks at Intermission"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12947/building_12947_tempimageeiobv3_48ce420f5a5ed7ebf2e907c5b1ad6260.png",
+                        "title": "‘Central Gateway’: No. 1 Poultry reimagined by Misha Stefan at Intermission EC3V 3LP"
+                    }
+                ],
+                "name": "Intermission",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12947"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.04517,
                     51.49487
                 ],
@@ -13974,9 +13966,9 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Come visit us at Gather, a hot glass studio in Charlton / Woolwich. On Saturday 21st September, we are running a number of short, exciting classes where participants will 'blow their own bauble'. Visit our glassblowing studio and see the process in action! We will also have a sale with Gather glassware available to purchase. Ending the day, we are hoping to provide a studio tour for those booked.",
-                "end": "16:30:00",
-                "fully_booked": "",
+                "description": "Come visit us at Gather, a hot glass studio in Charlton / Woolwich for an open studio day. On Saturday 21st September, we are running a number of pre-book short, exciting classes where participants will 'blow their own bauble' for £55 each. At 3pm we will host a free studio tour with glass blowing demonstrations. Visit us see the process in action!",
+                "end": "17:00:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12948/building_12948_dsc09284_95ed3c718243baebf0edd7bad35a8e3b.jpg",
@@ -13986,7 +13978,7 @@
                 "name": "Glassblowing open studio",
                 "new_venue_this_year": "Yes",
                 "start": "11:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12948"
             },
             "type": "Feature"

@@ -44,12 +44,27 @@
             "capacity": null,
             "date": "2024-09-15",
             "drop_in": true,
-            "end": "2024-09-15T16:00:00+01:00",
+            "end": "2024-09-15T14:30:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Open Day",
             "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
             "start": "2024-09-15T10:30:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Other",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10085",
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": false,
+            "end": "2024-09-15T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Silent Film with live music",
+            "notes": "Join us for an exciting new project: regular silent cinema screenings, with live musical accompaniment   on the Mighty Wurlitzer.",
+            "start": "2024-09-15T14:30:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -119,5 +134,5 @@
     "name": "The Musical Museum",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10085",
-    "ticketed_events": false
+    "ticketed_events": true
 }
