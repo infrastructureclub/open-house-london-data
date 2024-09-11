@@ -70,6 +70,21 @@
             "capacity": null,
             "date": "2024-09-15",
             "drop_in": false,
+            "end": "2024-09-15T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Deaf-led BSL Tour of SEACC",
+            "notes": "This tour will be conducted in BSL",
+            "start": "2024-09-15T14:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/9662",
+            "capacity": null,
+            "date": "2024-09-15",
+            "drop_in": false,
             "end": "2024-09-15T15:30:00+01:00",
             "fully_booked": true,
             "name": "Tour of SEACC",
@@ -81,6 +96,7 @@
     "facilities": [
         "Toilets",
         "Accessible toilet",
+        "BSL interpreter",
         "Drinking water",
         "Gender neutral toilet",
         "Step-free routes"
