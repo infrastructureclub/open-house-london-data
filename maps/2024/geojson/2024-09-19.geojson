@@ -920,7 +920,7 @@
                 "balloted": "No",
                 "description": "A modern conversion of a 19th-century hop warehouse and a 1980s office building, joined by a striking helical staircase. It is the home of the Royal College of Obstetricians and Gynaecologists and other women’s health organisations.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11186/building_11186_201014_bennetts_rcog_002_7cce7baa9658252453a66e2ba963f5b4.jpg",
@@ -951,7 +951,7 @@
                 "balloted": "No",
                 "description": "The Remakery is a Community Maker Space, established in South London in 2012 with the aim of providing space, equipment and expertise to stop furniture and household items ending up in landfill, by empowering the community to Reclaim, Repair and Remake. We offer a range of workshops in Ecological Grassroots Making practices, with the aim of empowering our community.",
                 "end": "18:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11342/building_11342_lcs-solar-panel-workshop_8_7dde8301fe82642ddb0d270499fcae70.jpg",
@@ -1652,7 +1652,7 @@
                 "balloted": "No",
                 "description": "You're invited to tour the newest addition to the London Borough of Croydon's residential streetscape on Beulah Hill, Crystal Palace. Gbolade Design Studio Architects will be opening the doors and giving group tours  of these wonderful sustainable and health homes designed to RIBA 2030 Standards to interested members of the public.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12546/building_12546_img_8923_a736ceecc8020d2a0a36cbb199092d50.jpg",
@@ -1668,6 +1668,33 @@
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12546"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10561,
+                    51.48827
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Explore how Elephant and Castle went from being the 'farm of Britain' in the Middle Ages to 'the Piccadilly of the South' in the 18th Century to, as the outspoken food critic Giles Coren unfairly put it, 'a stabby s****hole of staggering grimness' in the 20th Century. Finally, witness its recent multi-billion pound reinvention as a thriving urban metropolis at the heart of London life.",
+                "end": "12:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12562/building_12562_elephant-statue_25ba60f62b171ebf9d3d5aa47c8cf84e.png",
+                        "title": null
+                    }
+                ],
+                "name": "The rise, fall and rise of the Elephant & Castle",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12562"
             },
             "type": "Feature"
         },
@@ -1838,7 +1865,7 @@
                 "balloted": "No",
                 "description": "Historic buildings and places are a treasure trove of narratives. How does our built environment, both old and new, contribute to our sense of belonging? Explore the studio and pop-up exhibition at conservation architects and heritage consultants Donald Insall Associates, which is within a Grade II-listed Edwardian townhouse, built in 1914 to the designs of Sydney Tatchell.",
                 "end": "20:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12696/building_12696_e_240626_n3_website_f74486f654ed5f5d5abb5a15b276aa90.jpg",
@@ -1896,7 +1923,7 @@
                 "balloted": "No",
                 "description": "Not quite The Bishops Avenue and barely the Hampstead Garden Suburb, Winnington Road still contains an unrivalled variety of Neo-Georgian domestic buildings. Join Calum Orr on a walking tour looking to re-evaluate the street's architecture and development. \r\n\r\n2 of 3 walks run by the Trust.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12720/building_12720_52-winnington-road-4_84753894a8e20dc0901884e5a73e64ac.jpg",
