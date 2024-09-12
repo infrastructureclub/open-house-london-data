@@ -43,8 +43,23 @@
             "drop_in": true,
             "end": "2024-09-22T16:00:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Open Day | Open Studios",
-            "notes": "Visit the studios of Good Shepherd Studios' artists, makers and creators such as Tamasyn Gambell, Daniel Heath and Pippa Ryan.",
+            "name": "Drop in: Open Studios | Pippa Ryan",
+            "notes": "Visit the studios of Good Shepherd Studios artist Pippa Ryan. To see the rest of the building, don't forget to book onto a Building Tour.",
+            "start": "2024-09-22T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
+            "end": "2024-09-22T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Pastures Centre Open Day",
+            "notes": "Visit this multi-use centre and find out about all the facilities and activities it has to offer",
             "start": "2024-09-22T12:00:00+01:00",
             "ticketed": false
         },
@@ -90,7 +105,7 @@
             "fully_booked": false,
             "name": "Leytonstone Freedom Walk: Led by Peter Ashan",
             "notes": "Explore Leytonstone's multi-ethnic multi-faith community from the c17 to the present day. Tour starts and ends at Good Shepherd Studios.",
-            "start": "2024-09-22T10:30:00+01:00",
+            "start": "2024-09-22T10:00:00+01:00",
             "ticketed": true
         },
         {
@@ -118,7 +133,7 @@
             "drop_in": false,
             "end": "2024-09-22T12:30:00+01:00",
             "fully_booked": false,
-            "name": "Building Tour",
+            "name": "Building Tour | Good Shepherd Studios",
             "notes": "Find out about the building's history, see \"behind the scenes\" in artists'/creators' studios and hear about exciting future plans.",
             "start": "2024-09-22T12:00:00+01:00",
             "ticketed": true
@@ -139,6 +154,21 @@
             "ticketed": true
         },
         {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T13:30:00+01:00",
+            "fully_booked": false,
+            "name": "Building Tour | Good Shepherd Studios",
+            "notes": "Find out about the building's history, see \"behind the scenes\" in artists'/creators' studios and hear about exciting future plans.",
+            "start": "2024-09-22T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
             "activity_type": "Family activity",
             "all_day": false,
             "balloted": false,
@@ -150,21 +180,6 @@
             "fully_booked": false,
             "name": "Dance Taster: \"Wee Movers\" with Wee Movers",
             "notes": "Children aged 2-4 years and their grown-ups are invited to join Good Shepherd Studios regular Wee Movers to explore movement together.",
-            "start": "2024-09-22T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T13:30:00+01:00",
-            "fully_booked": false,
-            "name": "Building Tour",
-            "notes": "Find out about the building's history, see \"behind the scenes\" in artists'/creators' studios and hear about exciting future plans.",
             "start": "2024-09-22T13:00:00+01:00",
             "ticketed": true
         },
@@ -199,21 +214,6 @@
             "ticketed": true
         },
         {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T14:30:00+01:00",
-            "fully_booked": false,
-            "name": "Building Tour",
-            "notes": "Find out about the building's history, see \"behind the scenes\" in artists'/creators' studios and hear about exciting future plans.",
-            "start": "2024-09-22T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
             "activity_type": "Other",
             "all_day": false,
             "balloted": false,
@@ -236,9 +236,24 @@
             "capacity": null,
             "date": "2024-09-22",
             "drop_in": false,
+            "end": "2024-09-22T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Building Tour | Good Shepherd Studios",
+            "notes": "Find out about the building's history, see \"behind the scenes\" in artists'/creators' studios and hear about exciting future plans.",
+            "start": "2024-09-22T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
             "end": "2024-09-22T15:30:00+01:00",
             "fully_booked": false,
-            "name": "Building Tour",
+            "name": "Building Tour | Good Shepherd Studios",
             "notes": "Find out about the building's history, see \"behind the scenes\" in artists'/creators' studios and hear about exciting future plans.",
             "start": "2024-09-22T15:00:00+01:00",
             "ticketed": true

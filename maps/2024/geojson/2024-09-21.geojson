@@ -2295,7 +2295,7 @@
                 "balloted": "No",
                 "description": "The sixth livery hall to be built on a site owned by the Company since 1501. The 1958 building stands on part of 1854 hall largely destroyed in WWII. East wall recently refaced. Completely refurbished and remodelled internally 2006/7.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2310/building_2310_hall-bdg-fm-north-to-south_874ec04e8b2d03b54ec78a816886610b.jpg",
@@ -7624,7 +7624,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Red brick and Portland stone corner building with three prominent signs in Arts & Crafts style lettering in green and gold mosaic for the company 'TJ Boulting & Sons'.",
-                "end": "17:00:00",
+                "end": "16:30:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -8074,7 +8074,7 @@
                 "balloted": "No",
                 "description": "A victorian mid terrace house with a dark blue exterior and a zany tiled front garden. Full of original features without being dictated by the era, colour continues inside with a yellow rubber floor in the kitchen.",
                 "end": "16:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11119/building_11119_img_0882_b1eebda4b3591649c5360318dd18b3a0.jpg",
@@ -8341,7 +8341,7 @@
                 "balloted": "No",
                 "description": "A walk around historic Walthamstow showing how this unique area grew from a village into a thriving suburb, its social history and the variety of buildings that can be found where Epping Forest meets William Morris.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11296/building_11296_img_2828_8b059f0e8ad7184afcc7c0488c9ccdab.jpg",
@@ -8975,7 +8975,7 @@
                 "balloted": "No",
                 "description": "Join us for a guided tour of Bromley Archives. With access to the archive store, typically closed to the public, visitors will get a behind the scenes look at the collection and service.",
                 "end": "16:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11775/building_11775_img_5155_31814cfc5ea5b4a87c16ca1ba54f7d44.jpg",
@@ -9350,7 +9350,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "The Black and White Building (2023) is London's tallest, fully engineered timber office building. Located in the heart of Shoreditch, the building is characterized by its integrity to material, formal simplicity, and adaptable layout. Built from renewable materials and designed to be almost completely demountable, the building sets a powerful precedent for the future of sustainable architecture.",
-                "end": "17:30:00",
+                "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -9367,6 +9367,53 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11948"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.05795,
+                    51.53687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Visit Beck Road Studios for an artist open studios event for the chance to explore 12 hidden studios in a unique railway arch. Meet the artists in person and discover their work, including painters, sculptors, filmmakers, furniture makers, restorers, and an ethical vintage clothing label.",
+                "end": "19:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11954/building_11954_screenshot-2024-09-11-at-20-43-36_11096759911e6b8af537266bb08f7908.png",
+                        "title": "MINJU KIM | |PAINTER"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11954/building_11954_screenshot-2024-09-11-at-20-12-10_39af948b65e964ead87469ab3f1c3129.png",
+                        "title": "LUCY MUSS | PAINTER"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11954/building_11954_screenshot-2024-09-11-at-20-27-10_c636a087d4475f6cc3d01f771ecbcaff.png",
+                        "title": "ANGELA TORES | PAINTER + INSTALLATION ARTIST"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11954/building_11954_screenshot-2024-09-11-at-20-36-50_898f6917a3b5a23c8743ac6da09786fc.png",
+                        "title": "ASH MCKEAN | PAINTER"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11954/building_11954_screenshot-2024-09-11-at-20-38-30_ea15befbf319586f60f924ccd6f3e7ab.png",
+                        "title": "ELLIOT HOPES | TROUVE FINE ART \r\nFurniture, Painter, clothing repair/mending"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11954/building_11954_screenshot-2024-09-11-at-20-48-16_cd0b61a13c06e261dc35b562d70dc902.png",
+                        "title": "SHANNON CLEGG | DESIGNER MAKER"
+                    }
+                ],
+                "name": "Beck Road Studios: Open Studios Exhibitions",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11954"
             },
             "type": "Feature"
         },
@@ -9662,6 +9709,33 @@
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.07729,
+                    51.42209
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "It is with great delight that we announce the completion of Phase 1 of the major restoration project to the historic Grade II* listed Crystal Palace Subway.\r\n\r\nA new roof over the East Courtyard and extensive repairs to the walls, floor, steps and entrances can be explored.\r\n\r\nEntry is free and this is a self-led visit. There is no need to pre-book. Please note last entry is 13:30.",
+                "end": "14:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12086/building_12086_general-social-media-posts-31_b7ee7bc23da612a8fb25f9c065285202.png",
+                        "title": null
+                    }
+                ],
+                "name": "Crystal Palace Subway",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12086"
             },
             "type": "Feature"
         },
@@ -11345,7 +11419,7 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12594/building_12594_milton-grove-under-construction-june-2024_c402be4fd7d8ef415393899b553201f1.jpg",
-                        "title": "The Corner House - due to complete in August 2024 - overlooking Butterfield Green on Milton Grove"
+                        "title": "The Corner House - due to complete in September 2024 - overlooking Butterfield Green on Milton Grove"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12594/building_12594_langstaffday-mmh6-1536x922_8e4141ee4de20437da01af1bc68cc117.jpg",
@@ -12937,7 +13011,7 @@
                 "balloted": "No",
                 "description": "An opportunity to explore our permanent “Home of Ideas” and to visit our current exhibition “Ideas Aren’t Linear” – a non-linear journey through the design processes of two recently completed projects: The Energy Hub and Aylesbury Health Centre, known affectionately as “The Elephant and The Castle” – exposing the twists, about-turns and serendipity that informed their unexpected relationship.",
                 "end": "16:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12803/building_12803_160422_dma_aylesbury_models_019_20d41c8c67ae5a2bf971a1216e6bf737.jpg",
@@ -13297,16 +13371,36 @@
                         "title": "WAX Atelier's Materials Lab at Abney Park"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12834/building_12834_cq-studio_354f85cf2282bc9b4fac224dae118358.jpg",
-                        "title": "CQ Studio's Material Lab at Abney Park"
-                    },
-                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12834/building_12834_f0775f42-1fa1-446f-9909-d7076e426a31_1a12e4f05dd8a922f313da85098344bd.jpeg",
                         "title": "Wax Atelier Studio space"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12834/building_12834_7d389645-86eb-40ba-afbf-7c6ef3da7df4_c084cf6764e46e718b71685376d566c5.jpeg",
                         "title": "WAX Atelier Studio"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12834/building_12834_72117b27-ed96-4cda-bff7-81d4de8d63ab_830c43162df86a44a585467498750655.jpeg",
+                        "title": "Abney park Egyptian Gates"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12834/building_12834_aea195a6-39bb-425c-83fc-e55bbb97d9c5_b7e8ca3f012fd0c33c6fb5403eb181f7.jpeg",
+                        "title": "Workshop exterior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12834/building_12834_8295b035-3f6f-437e-8fd6-ea80db7e5d62_d15e6005feb6cefc2ddadc43139bf1b0.jpeg",
+                        "title": "Studio objects"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12834/building_12834_e35be6b7-96a6-4775-aea8-4af165cfb637_98af8d36e81a5b39b29aa152e9a494e1.jpeg",
+                        "title": "Wax atelier labs interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12834/building_12834_16aa082c-e700-42e5-a008-aaab3432c1fb_362aff8cc7609eb3175df5875ac1d6e1.jpeg",
+                        "title": "Abney Park Cemetry"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12834/building_12834_dca2e487-6252-4208-aece-728dd6428e1f_48b6b95110c9045c7517fd71d4152e60.jpeg",
+                        "title": "Abney Park’s monuments"
                     }
                 ],
                 "name": "WAX Atelier within Abney Park",
@@ -13931,7 +14025,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Architectural showspace tucked inside a duplex unit inside the City of London’s Royal Exchange. Alongside three-dimensional artworks by architect Misha Stefan, is an exhibition proposing alternative, more inclusive destinations for three prominent gateway sites in the City.",
+                "description": "Architectural showspace on the first floor of a duplex unit in the City’s Royal Exchange (the ground floor houses clothing boutique, GOFF COURTNEY, which also sells accessories, visual books & magazines. INTERMISSION is exhibiting three-dimensional artworks by architect Misha Stefan and RE:PLACE – proposing alternative, more inclusive destinations for three prominent gateway sites in the City.",
                 "end": "18:00:00",
                 "fully_booked": "",
                 "images": [
@@ -13980,6 +14074,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12948"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.01092,
+                    51.47996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Former 19th century ale house now a spacious modernised residential building in the historic centre of Greenwich",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12950/building_12950_a403f9f9-a676-4802-bc4a-632f550a6f52_ca1230427414e5ee74d4db20686152db.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "The Earl Grey",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12950"
             },
             "type": "Feature"
         }
