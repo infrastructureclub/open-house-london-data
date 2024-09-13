@@ -12640,7 +12640,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Overhaul of an ex-local authority home in Islington with a new timber cloister that encircles a hidden courtyard and a series of unexpected spaces that pirouette around a triangular column.Access to 12 Davey Close via passage next to 48 Arundel Square",
+                "description": "Overhaul of an ex-local authority home in Islington with a new timber cloister that encircles a hidden courtyard and a series of unexpected spaces that pirouette around a triangular column.  Access to 12 Davey Close via passage next to 48 Arundel Square",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -14081,6 +14081,53 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12950"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.058,
+                    51.53686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The North Arch Arts Space invites you to explore artist open studios and exhibitions in a redesigned spatial framework by a347. Inspired by the railway arch structure, these flexible, partitionable spaces adapt to artists' needs, offering a dynamic environment for creating, showcasing, and engaging with the community. Discover Beck Road’s architectural heritage, meet the makers, and see their work",
+                "end": "19:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12955/building_12955_screenshot-2024-09-11-at-22-08-02_620e837b42cfe0d23a4d361d689d473e.png",
+                        "title": "a347 Spatial partitioning designs"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12955/building_12955_screenshot-2024-09-12-at-17-38-32_82118d52c2ab25b47b136fc3278373a2.png",
+                        "title": "Studio A347"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12955/building_12955_screenshot-2024-09-12-at-17-58-14_a0de4209d67ddebdc18196c160054206.png",
+                        "title": "ABI JOY SAMUEL | Fine Artist/Painter"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12955/building_12955_template-mauve-2014-97-x-130-cms-1_502c8b5f548d801f4428b79bea3b4db9.jpg",
+                        "title": "COLIN MCCALLUM | Artist"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12955/building_12955_screenshot-2024-09-12-at-18-09-47_1039e2dbe3c6ecd27b36c9f8cc471427.png",
+                        "title": "DAVID MCCAIRLEY | Photographer"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12955/building_12955_screenshot-2024-09-12-at-18-16-22_576702353011d7f148c2b3b7779cadae.png",
+                        "title": "SAM MILLS  | Artist"
+                    }
+                ],
+                "name": "North Arch Art Space",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12955"
             },
             "type": "Feature"
         }
