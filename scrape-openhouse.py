@@ -359,6 +359,9 @@ for building in buildings:
                     if "ballot" in booking_string.lower():
                         balloted = True
 
+                        if booking_buttons[0].attrib["disabled"] == "disabled":
+                            fully_booked = True
+
                 all_day = False
                 if time_string.lower() == "all day":
                     all_day = True
