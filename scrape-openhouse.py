@@ -353,7 +353,7 @@ for building in buildings:
                 time_string = event.xpath(".//p[not(@*)]")[0].text_content()
                 name = event.xpath('.//h3[@class="text"]/text()')[0]
 
-                notes_node = event.xpath('.//p[contains(@class, "text")]/text()')
+                notes_node = event.xpath('.//p[@class="text"]/text()')
                 notes = ""
                 if notes_node:
                     notes = notes_node[0]
