@@ -240,7 +240,16 @@ for building in buildings:
             }
         )
 
-    # External links (mostly websites and ticketing)
+    # External links
+    for link in root.xpath('//section[contains(@class, "oc-listing-websites")]//a'):
+        data["links"].append(
+            {
+                "href": link.attrib["href"],
+                "title": link.text_content(),
+            }
+        )
+
+    # External links referenced in the factsheet (mostly websites and ticketing)
     links_ticketed = False
     extractor = URLExtract()
     for block in data["factsheet"]:
@@ -253,8 +262,9 @@ for building in buildings:
                     }
                 )
 
-                if "eventbrite" in href:
-                    links_ticketed = True
+    for link in data["links"]:
+        if "eventbrite" in link["href"]:
+            links_ticketed = True
 
     # Events, oh no
     events_ticketed = False
