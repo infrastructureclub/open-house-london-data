@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09939,
+                    51.37226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A storytelling adventure of Croydon's rich musical scene. This walk takes you through the heart of Central Croydon starting at The Queen’s Gardens where you will see ‘Croydon Symphony‘ the mural showcasing artists who made Croydon their home and inspiration. Then visit Fairfield Halls to The Star, now The Broad Green Tavern, where Jimi Hendrix once climbed through a back window to perform.",
+                "end": null,
+                "fully_booked": "Unknown",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12681/building_12681_croydonist-music-heritage-trail-1400px-1_6ab61966004b480840f6198fdc106cbf.jpg",
+                        "title": "Croydon Music Heritage Trail"
+                    }
+                ],
+                "name": "Central Croydon's Music Heritage Walking Tour",
+                "new_venue_this_year": "Yes",
+                "start": null,
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12681"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10555,
+                    51.39684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Northern Croydon tour explores the hometown of Stormzy and Nadia Rose while also visiting The BRIT School and the home of Avril Coleridge Taylor as well as famed recording studios that played a role in Indie, new-wave, reggae and more. This tour highlights the buildings, ranges, diversity, expression, history, art, and passion that has made Croydon a music hub.",
+                "end": null,
+                "fully_booked": "Unknown",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12682/building_12682_header_image-1_36c46dbfa5d5e8bfa8e0185d2e663274.jpg",
+                        "title": "Croydon's Music Heritage Trail"
+                    }
+                ],
+                "name": "North Croydon Music Heritage Walking Tour",
+                "new_venue_this_year": "Yes",
+                "start": null,
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12682"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

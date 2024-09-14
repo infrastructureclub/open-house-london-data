@@ -1255,7 +1255,7 @@
                 "balloted": "No",
                 "description": "Grade II listed Art Deco cinema with stalls and circle created in 1937 within the shell of an Edwardian cinema, retaining many original features. In 2017  a new auditorium was created in the basement space.",
                 "end": "11:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/1478/building_1478_rio-cinema-dalston-auditorium_802d0efc41575c07a3b736feb8b51367.jpg",
@@ -2334,7 +2334,7 @@
                 "balloted": "No",
                 "description": "The recently automated impounding station controls the water level in the docks using the original Worthington Simpson pumps driven by Lancashire dynamo.",
                 "end": "15:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2328/building_2328_impounding-station-internal_5ba2d85977d70534b1c61c51f6dd9028.jpg",
@@ -3111,7 +3111,7 @@
                 "balloted": "Yes",
                 "description": "An enduring, distinctive feature of the London skyline for the last 54 years, this is a rare opportunity for members of the public to visit the famous revolving floor, 158m above the capital. After the flight the guests can watch a history of the BT Tower film in our auditorium.",
                 "end": "19:15:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2735/building_2735_bt_tower_maja_smiejkowska_23_5a94a3235dd0b2e79cee9c53e05b8b48.jpg",
@@ -3635,7 +3635,7 @@
                 "balloted": "No",
                 "description": "New Livery Hall behind a retained early 20th century façade. This is the seventh Hall in the Leathersellers' Company's history since its foundation in the Middle Ages, and is located on the site of its second Hall.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/3489/building_3489_hall2_7d968bef9e74b7a971524f5f6ead1f16.jpg",
@@ -5610,7 +5610,7 @@
                 "balloted": "No",
                 "description": "The Department Store is an award winning refurbishment of a dilapidated Edwardian building in Brixton, completed by Squire and Partners in 2017. The design was informed by the layers of history and existing fabric of the heritage building.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/7607/building_7607_01_the-department-store_squire-and-partners-james-jones_35b79c2e401b53bb00e5723b495e5101.jpg",
@@ -8057,6 +8057,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1978557,
+                    51.4872526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Learn about our plans to transform this 40-acre site into a new piece of the city that is inclusive, climate resilient and brimming with opportunity, and sustainability underpinning the masterplan. A destination to discover wonder, a home for creative talent and a showcase for one of the fastest growing industries in the world - clean and climate tech.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11086/building_11086_aerial-of-the-site-with-boundary_b2f390f08c98cd2c2c385101e6e79924.jpg",
+                        "title": "The Earls Court Development Company Site "
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11086/building_11086_earls-court-3-copy_531ef9aba157d52b488fb3ab05cd8aff.jpg",
+                        "title": "The Earls Court Development Company Site "
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11086/building_11086_ecdc-site_2_bdb2186893179a1e6d2af2d2c87a0ebb.jpg",
+                        "title": "The Earls Court Development Company Site "
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11086/building_11086_earls-court_apron_anticlock-circle-2_b30036dc364222ba8c9c92d26e565293.jpg",
+                        "title": "The Earls Court Development Company Site - Warwick Road "
+                    }
+                ],
+                "name": "The Earls Court Development Company",
+                "new_venue_this_year": "No",
+                "start": "13:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/11086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0069079,
                     51.58836729999999
                 ],
@@ -8137,7 +8176,7 @@
                 "balloted": "No",
                 "description": "Nestled off a busy street in Camden, the former industrial building has been home to architectural firm Sheppard Robson for over 40 years. A series of additions have allowed more amenity, social spaces, and diversity in work settings.",
                 "end": "13:40:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11127/building_11127_77-parkway_sheppard-robson_1_d2427ba1a2dd2037c753fa15105b52e6.jpg",
@@ -8810,7 +8849,7 @@
                 "balloted": "No",
                 "description": "The Brady Arts & Community Centre is on Hanbury St, just off Brick Lane in a busy & creative part of East London. It opened in 1935 as the Brady Jewish Girls Club and in 1960 the Boys Club joined The Brady.  We are holding our open day on Saturday 21st  September.  Come and find out about the Brady Centre's history and take part in drop in arts activities.",
                 "end": "16:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11669/building_11669_brady-arts-centre-august-2023_95e3df5a9a5e6f10390449f602d00ad6.jpg",
@@ -8880,7 +8919,7 @@
                 "name": "Brady Arts and Community Centre",
                 "new_venue_this_year": "No",
                 "start": "12:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11669"
             },
             "type": "Feature"
@@ -9372,7 +9411,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Visit Beck Road Studios for an artist open studios event for the chance to explore 12 hidden studios in a unique railway arch. Meet the artists in person and discover their work, including painters, sculptors, filmmakers, furniture makers, restorers, and an ethical vintage clothing label.",
+                "description": "Visit Beck Road Studios for an artist open studios event for the chance to explore 12 hidden studios in a unique railway arch. Meet the artists in person and discover their work, including painters, sculptors, filmmakers, architect, motion graphic designer. furniture  restorers, and an ethical vintage clothing label.",
                 "end": "19:00:00",
                 "fully_booked": "",
                 "images": [
@@ -9415,9 +9454,13 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11954/building_11954_screenshot-2024-09-13-at-10-25-12_398c429ea9fe1ea3df8af5e4851dc520.png",
                         "title": "ANIS ESHRAQI | NIS STUDIO |Motion Graphic and 2D animation \r\nwww.nis.studio.  \r\n@nis_studio"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11954/building_11954_screenshot-2024-09-13-at-13-54-49_d4e7709ad1e5efaa9a076ff3b2e817cb.png",
+                        "title": "SAHBA MANSOUR |SILENT-ZONE STUDIO | Architecture and Design\r\n@silentzone.studio"
                     }
                 ],
-                "name": "Beck Road Studios: Open Studios Exhibitions",
+                "name": "Beck Road Studios: Artist Open Studios & Exhibitions",
                 "new_venue_this_year": "No",
                 "start": "12:00:00",
                 "ticketed_events": "No",
@@ -12367,7 +12410,7 @@
                 "balloted": "No",
                 "description": "Hello! We're Throwley Yard Cinema, Sutton's independent cinema and cultural hub. With a strong focus on the local community, our four cinema screens are only part of a wider offering which also includes a café, bar, live events, DJ academy, socialising and much more.",
                 "end": "18:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12736/building_12736_img_6169_6614316710175b5442f40d231ca380ce.jpeg",
@@ -12421,7 +12464,7 @@
                 "balloted": "No",
                 "description": "Join us for the Wood Green Creative Spaces and Places Tour, a journey through the workspaces of the creative industries of Wood Green. This tour offers a unique opportunity to visit a few of Wood Green’s workspaces showcasing a range of studios such as those for ceramics, music, visual arts, and design.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12738/building_12738_02-wg-creative-spaces-and-places-tour_8b43e7660bdd0b20894eabfb00368466.jpg",
@@ -12824,8 +12867,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "Oru Sutton is a landmark workspace, leisure, and destination space in the heart of Sutton High Street, creating a nurturing environment for people to connect and thrive in their work and personal lives.",
-                "end": "13:00:00",
-                "fully_booked": "Yes",
+                "end": "14:15:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12768/building_12768_screenshot-2024-06-28-at-13-44-26_aa513e65d95ac156f6a65d9b892f2ea2.png",
@@ -13170,7 +13213,7 @@
                 "balloted": "No",
                 "description": "Join SAVE Britain’s Heritage and Klaud Studio on a tour of the prestigious Sprüth Magers art gallery in Mayfair. Learn about the history of this seven-storey grade II listed townhouse designed by Sir Robert Taylor and witness Klaud's sensitive and sustainable restoration work. Damage from earlier renovations was corrected and a multi-use space created: a commercial gallery, a workshop and offices.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12818/building_12818_spruthmagerslondon_3980_05a509a5cb23d74cc7c1fe1135d6c83c.jpg",
@@ -13461,7 +13504,7 @@
                 "balloted": "No",
                 "description": "Angel Yard is a versatile and creative communal hub. Located within Snell's Park in Edmonton, it provides a place for people to develop and share their skills, whilst enriching the community and strengthening social bonds, as people from diverse backgrounds come together to collaborate and learn.",
                 "end": "15:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12875/building_12875_angels-yard-edmonton_e81db129ffa3e6b68584372abdf86160.jpg",
@@ -13488,7 +13531,7 @@
                 "balloted": "No",
                 "description": "Join us on a guided walk following the  'Tottenham Tales' trail. Tottenham has a rich and fascinating tapestry of tales of local rebels, artists, pioneers and more. The tour will take us around South Tottenham, a treasure hunt for the new Tottenham Tale signage that highlights the buildings and sites that hold remnants of these tales, supported by an online map to bring archive material to life.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12882/building_12882_4e1a4402_87be819807aa0fbb007e6c83acf1816a.jpg",
@@ -13810,7 +13853,7 @@
                 "balloted": "Yes",
                 "description": "Morden College is a charity dedicated to supporting older people, founded in 1695 by the pioneering merchant, Sir John Morden.\r\n\r\nThe original 1695 Grade I listed Quadrangle by Edward Strong, Sir Christopher Wren's master stonemason, has provided older people with accommodation for over 300 years. Across the site and beautiful grounds, the John Morden Centre, a new community space, won the RIBA Stirling prize in 2023.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12908/building_12908_john-morden-centre-2-credit-jim-stephenson_43e02d9a6a92370d332bb17f2f005107.jpg",
@@ -13872,7 +13915,7 @@
                 "balloted": "No",
                 "description": "Southall Manor House is a Grade II* Listed Tudor building - the oldest building in Southall and potentially one of the oldest surviving buildings in West London. The building underwent recent refurbishment, extension and landscaping from 00 Architects. For Open House, the building's heritage will be animated by scents from perfumers 420Tuesdays and Kushbu.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12927/building_12927_011_southall-manor_87de7d76299fecae9e9e0de543d38616.jpg",
@@ -14098,7 +14141,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The North Arch Arts Space invites you to explore artist open studios and exhibitions in a redesigned spatial framework by a347. Inspired by the railway arch structure, these flexible, partitionable spaces adapt to artists' needs, offering a dynamic environment for creating, showcasing, and engaging with the community. Discover Beck Road’s architectural heritage, meet the makers, and see their work",
+                "description": "The North Arch Arts Space invites you to explore their artist's work and exhibitions in a redesigned spatial framework by A347. Inspired by the railway arch structure, these flexible, partitionable spaces adapt to artists' needs, offering a dynamic environment for creating, showcasing, and engaging with the community. Discover Beck Road’s architectural heritage, meet the makers, and see their work",
                 "end": "19:00:00",
                 "fully_booked": "",
                 "images": [
@@ -14115,16 +14158,20 @@
                         "title": "ABI JOY SAMUEL | Fine Artist/Painter"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12955/building_12955_template-mauve-2014-97-x-130-cms-1_502c8b5f548d801f4428b79bea3b4db9.jpg",
-                        "title": "COLIN MCCALLUM | Artist"
-                    },
-                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12955/building_12955_screenshot-2024-09-12-at-18-09-47_1039e2dbe3c6ecd27b36c9f8cc471427.png",
                         "title": "DAVID MCCAIRLEY | Photographer"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12955/building_12955_screenshot-2024-09-12-at-18-16-22_576702353011d7f148c2b3b7779cadae.png",
                         "title": "SAM MILLS  | Artist"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12955/building_12955_photo-2024-09-13-15-10-41_af19c17136c80f15a5328a57667b4074.jpg",
+                        "title": "COLIN MCCALLUM | Artist"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12955/building_12955_photo-2024-09-13-17-01-04_4c2a36994310e519cc7dae8530fd2dc0.jpg",
+                        "title": "ABI JOY SAMUEL | Fine Artist/Painter"
                     }
                 ],
                 "name": "North Arch Art Space",
@@ -14132,6 +14179,37 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12955"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.03965,
+                    51.53301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "This is your invite to The Linkup! A space where young POC and those from working-class communities can connect, create and speak your truth.\r\n\r\nAt The Linkup, we'll dive into real conversations and create a collaborative mural that captures our experiences, our cultures and our vision for the future in London. This is your space to express, explore and inspire.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12957/building_12957_unnamed-2_03f403e20bb24515b7dee321af882124.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12957/building_12957_unnamed-3_9a4e6758dd1ee03a6c870933facef65d.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "The Link Up",
+                "new_venue_this_year": "Yes",
+                "start": "14:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12957"
             },
             "type": "Feature"
         }
