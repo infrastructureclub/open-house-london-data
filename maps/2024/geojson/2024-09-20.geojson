@@ -748,7 +748,7 @@
                 "balloted": "No",
                 "description": "Lesnes Abbey Woods is 88 hectares of ancient woodland, park and has a ruined Grade 11 list abbey ruin, situated 10 minutes walk from Abbey Wood train station. There is also The Clearing a new architect designed outdoor classroom.",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/6981/building_6981_abbey-drone-pilot-jonathan-potts-director-dagmar-scheibenreif_53a5d7e30fb24d0135f917bc9a67dac8.jpg",
@@ -1640,7 +1640,7 @@
                 "balloted": "No",
                 "description": "Explore the Bush Theatre, West London’s home of new writing. Get a behind the scenes look at our fifty-year history, including how over 2016 we transformed our 128-year-old building into an accessible and sustainable modern theatre.",
                 "end": "16:40:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11992/building_11992_daytime-outside-credit-philip-vile-for-the-bush-theatre_d410aac4be5190484396491f395c97a2.jpg",
@@ -1768,7 +1768,7 @@
                 "balloted": "No",
                 "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights 3 scale architectural models of London: the New London Model, the City Model and the Royal Docks Model.",
                 "end": "13:15:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12022/building_12022_tlc-gallery-image_4a4ec9198eae3721250973552952142d.png",
@@ -2093,13 +2093,21 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Gubns partners with Of Architecture to host an open studio, pop-up and talk, showcasing a curated exhibition of works by architect-makers alongside a studio tour led by Of co-founders James Mak and Jongwon Na.",
+                "description": "Gubns partners with Of Architecture to host a pop-up exhibition entitled Beyond Blueprints, comprising artworks crafted by architect-makers.",
                 "end": "20:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12580/building_12580_studio-of_office_a8dac6484fca5a1ec8bfc9c071b396a2.jpeg",
-                        "title": "Image from Anton Page"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12580/building_12580_gubns-of-architecture_beyond-blueprints_1200x630_newsletter-copy_8ebbf774b11bc7a8d015f5628cb9a875.jpg",
+                        "title": "Gubns x Of Architecture: Beyond Blueprints Exhibition"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12580/building_12580_gubns-of-architecture_invite-taster_matter-at-hand_1080x1080_2-2_350de10a923fbd1c1e54306effde9cd0.jpg",
+                        "title": "Gubns x Of Architecture: Ice Cream & Tea Mocktail Taster"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12580/building_12580_gubns-of-architecture_invite-taster_sanko_1080x1080_1-1_dc04da681067679147747449570f906e.jpg",
+                        "title": "Gubns x Of Architecture: Ice Cream & Tea Mocktail Taster"
                     }
                 ],
                 "name": "Gubns Open Studio No.6: Of Architecture",

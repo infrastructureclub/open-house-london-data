@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "Gubns partners with Of Architecture to host an open studio, pop-up and talk, showcasing a curated exhibition of works by architect-makers alongside a studio tour led by Of co-founders James Mak and Jongwon Na.",
+    "description": "Gubns partners with Of Architecture to host a pop-up exhibition entitled Beyond Blueprints, comprising artworks crafted by architect-makers.",
     "design": {
         "designers": [
             {
@@ -16,21 +16,6 @@
     },
     "events": [
         {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": true,
-            "end": "2024-09-22T19:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Gubns Open Studio: Architecture Of (London Tea Friends)",
-            "notes": "Gubns and Studio Of invite London Tea Friends to host their public meet-up within the studio surrounds and exhibition backdrop.",
-            "start": "2024-09-22T17:00:00+01:00",
-            "ticketed": false
-        },
-        {
             "activity_type": "Other",
             "all_day": false,
             "balloted": false,
@@ -39,9 +24,9 @@
             "date": "2024-09-20",
             "drop_in": false,
             "end": "2024-09-20T20:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Gubns Open Studio: Architecture Of (Pop-up Reception)",
-            "notes": "Opening reception for the pop-up exhibition invites architect-makers to present their works on display. Tix includes tea mocktails by Sanko.",
+            "notes": "Opening reception for a pop-up exhibition of artworks by architect-makers. MUST RSVP HERE: https://lu.ma/fxxuxi1l",
             "start": "2024-09-20T17:00:00+01:00",
             "ticketed": true
         },
@@ -54,9 +39,9 @@
             "date": "2024-09-22",
             "drop_in": false,
             "end": "2024-09-22T20:00:00+01:00",
-            "fully_booked": false,
-            "name": "Gubns Open Studio: Architecture Of (Cocktail Taster)",
-            "notes": "Gubns invites visitors to a private viewing of the pop-up exhibition alongside a tasting and tea cocktail pairing by Sanko.",
+            "fully_booked": true,
+            "name": "Gubns x Of Architecture: Ice Cream + Mocktail Taster",
+            "notes": "A private viewing of the pop-up alongside an ice cream and tea mocktail taster. £35 pp. MUST RSVP HERE: https://lu.ma/k6gi2nbo",
             "start": "2024-09-22T17:00:00+01:00",
             "ticketed": true
         }
@@ -70,29 +55,44 @@
             "heading": "About",
             "paragraphs": [
                 "Gubns is a global collective of architect-makers turning to the crafts—a group dedicated to celebrating the diversity of talent within the built environment.",
-                "Studio Of is an architecture studio working in London and Seoul. Led by James Mak and Jongwon Na, the team operates across scales and sectors, collaborating with clients ranging from public institutions, charities, to developers, designers and private individuals.",
-                "For Open House Festival,  Gubns partners with Studio Of to hose an office tour and pop-up exhibition. The tour will be led by James and Jongwon while the curated pop-up while comprise of objects designed by Gubns' community of architect-makers."
+                "Studio Of is an architecture studio working in London and Seoul, operating across scales and sectors, and collaborating with clients ranging from public institutions, charities, to developers, designers and private individuals.",
+                "For Open House Festival,  Gubns partners with Studio Of to host a pop-up exhibition: https://gubns.co/beyond-blueprints"
             ]
         }
     ],
     "id": 12580,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12580/building_12580_studio-of_office_a8dac6484fca5a1ec8bfc9c071b396a2.jpeg",
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12580/building_12580_gubns-of-architecture_beyond-blueprints_1200x630_newsletter-copy_8ebbf774b11bc7a8d015f5628cb9a875.jpg",
             "description": null,
-            "title": "Image from Anton Page",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12580_studio-of_office_a8dac6484fca5a1ec8bfc9c071b396a2.jpeg"
+            "title": "Gubns x Of Architecture: Beyond Blueprints Exhibition",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12580_gubns-of-architecture_beyond-blueprints_1200x630_newsletter-copy_8ebbf774b11bc7a8d015f5628cb9a875.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12580/building_12580_gubns-of-architecture_invite-taster_matter-at-hand_1080x1080_2-2_350de10a923fbd1c1e54306effde9cd0.jpg",
+            "description": null,
+            "title": "Gubns x Of Architecture: Ice Cream & Tea Mocktail Taster",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12580_gubns-of-architecture_invite-taster_matter-at-hand_1080x1080_2-2_350de10a923fbd1c1e54306effde9cd0.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12580/building_12580_gubns-of-architecture_invite-taster_sanko_1080x1080_1-1_dc04da681067679147747449570f906e.jpg",
+            "description": null,
+            "title": "Gubns x Of Architecture: Ice Cream & Tea Mocktail Taster",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12580_gubns-of-architecture_invite-taster_sanko_1080x1080_1-1_dc04da681067679147747449570f906e.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://gubns.co/beyond-blueprints",
+            "title": null
+        }
+    ],
     "location": {
         "address": "Reliance Wharf, Hertford Road, Unit B, N1 5ET",
         "latitude": 51.53695,
         "longitude": -0.0788,
         "meeting_point": null,
         "travel_info": [
-            "Tube: Dalston (Kingsland)",
-            "Train: Dalston (Kingsland)",
             "Bus: 149, 242, 394"
         ]
     },
