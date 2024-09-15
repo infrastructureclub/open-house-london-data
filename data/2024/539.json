@@ -32,7 +32,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour - Gunnersbury Park and Temple",
             "notes": "A guided walk around the 'historic core' of Gunnersbury Park, with the chance to see inside the Temple - normally closed to the public.",
             "start": "2024-09-15T11:00:00+01:00",
@@ -47,7 +47,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T15:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour - Gunnersbury Park House",
             "notes": "A guided walk around Gunnersbury Park House, with the chance to see areas not normally open to the general public.",
             "start": "2024-09-15T14:00:00+01:00",
@@ -187,7 +187,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_539_dsc_7583_945d95fb27fdb7786c945f39975f1ad3.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://visitgunnersbury.org/",
+            "title": "visitgunnersbury.org"
+        },
+        {
+            "href": "https://www.instagram.com/gunnersburyparkmuseum/",
+            "title": "www.instagram.com/gunnersburyparkmuseum"
+        }
+    ],
     "location": {
         "address": "Gunnersbury Park & Museum, Popes Lane, W5 4NH",
         "latitude": 51.499521,

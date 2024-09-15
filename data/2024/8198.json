@@ -33,7 +33,7 @@
             "end": "2024-09-14T11:45:00+01:00",
             "fully_booked": false,
             "name": "Guided tour of the building and grounds",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:00:00+01:00",
             "ticketed": true
         },
@@ -48,7 +48,7 @@
             "end": "2024-09-14T12:45:00+01:00",
             "fully_booked": false,
             "name": "Guided tour of the building and grounds",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T12:00:00+01:00",
             "ticketed": true
         },
@@ -63,7 +63,7 @@
             "end": "2024-09-14T14:45:00+01:00",
             "fully_booked": false,
             "name": "Guided tour of the building and grounds",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         },
@@ -78,7 +78,7 @@
             "end": "2024-09-14T15:45:00+01:00",
             "fully_booked": false,
             "name": "Guided tour of the building and grounds",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T15:00:00+01:00",
             "ticketed": true
         }
@@ -199,7 +199,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8198_bf28000d-3bf2-4b53-8bf5-dc4f1e2e8a5a_30f0519834df9d7635f9ceca36c0666a.jpeg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.rhn.org.uk/",
+            "title": "www.rhn.org.uk"
+        },
+        {
+            "href": "https://twitter.com/RHNuk",
+            "title": "twitter.com/RHNuk"
+        }
+    ],
     "location": {
         "address": "Royal Hospital for Neuro-disability, West Hill, SW15 3SW",
         "latitude": 51.45162699999999,

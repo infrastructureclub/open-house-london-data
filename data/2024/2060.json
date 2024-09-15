@@ -162,7 +162,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T17:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Curator led guided tour",
             "notes": "",
             "start": "2024-09-15T15:00:00+01:00",
@@ -251,6 +251,10 @@
         }
     ],
     "links": [
+        {
+            "href": "https://www.youtube.com/watch?v=2x5HXzJCqtQ&feature=youtu.be",
+            "title": "www.youtube.com/watch?v=2x5HXzJCqtQ&feature=youtu.be"
+        },
         {
             "href": "https://www.eventbrite.co.uk/e/transitory-boundaries-private-view-tickets-1007553528727?aff=odd",
             "title": null

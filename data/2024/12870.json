@@ -26,7 +26,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T10:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "A guided tour of the rooftop extension by the David Kohn Architects.",
             "start": "2024-09-15T10:00:00+01:00",
@@ -41,7 +41,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T11:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "A guided tour of the rooftop extension by the David Kohn Architects.",
             "start": "2024-09-15T11:00:00+01:00",
@@ -108,7 +108,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12870_221_n25_large_0cfa694a2b333b970cd0359d434d5ac3.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://davidkohn.co.uk/",
+            "title": "davidkohn.co.uk"
+        },
+        {
+            "href": "https://www.instagram.com/officedka/",
+            "title": "www.instagram.com/officedka"
+        }
+    ],
     "location": {
         "address": "8 Smart's Place, Covent Garden, WC2B 5LW",
         "latitude": 51.5163,

@@ -28,7 +28,7 @@
             "end": "2024-09-14T11:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T10:00:00+01:00",
             "ticketed": true
         },
@@ -43,7 +43,7 @@
             "end": "2024-09-14T12:30:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:30:00+01:00",
             "ticketed": true
         },
@@ -58,7 +58,7 @@
             "end": "2024-09-14T14:30:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T13:30:00+01:00",
             "ticketed": true
         },
@@ -73,7 +73,7 @@
             "end": "2024-09-14T15:45:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:45:00+01:00",
             "ticketed": true
         },
@@ -88,7 +88,7 @@
             "end": "2024-09-14T17:00:00+01:00",
             "fully_booked": false,
             "name": "Talk",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T16:00:00+01:00",
             "ticketed": true
         }
@@ -160,7 +160,24 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10965_wright-wright_lambeth-palace-library_hufton-crow_026__1a74d3a1300137a6f811853cb77be886.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://lambethpalacelibrary.info/",
+            "title": "lambethpalacelibrary.info"
+        },
+        {
+            "href": "https://twitter.com/lampallib",
+            "title": "twitter.com/lampallib"
+        },
+        {
+            "href": "https://en-gb.facebook.com/LambethPalaceLibrary/",
+            "title": "en-gb.facebook.com/LambethPalaceLibrary"
+        },
+        {
+            "href": "https://www.instagram.com/lampallib/",
+            "title": "www.instagram.com/lampallib"
+        }
+    ],
     "location": {
         "address": "15 Lambeth Palace Road, SE1 7JT",
         "latitude": 51.49518140000001,

@@ -26,7 +26,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Central Croydon- Stories, Styles & Spaces",
             "notes": "",
             "start": "2024-09-15T11:00:00+01:00",
@@ -71,7 +71,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12557_croydon_flyover_9a10f99e32ab97deccae575374a107ec.jpeg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://stanleyarts.org/",
+            "title": "stanleyarts.org"
+        },
+        {
+            "href": "https://www.instagram.com/stanleyarts.uk/",
+            "title": "www.instagram.com/stanleyarts.uk"
+        }
+    ],
     "location": {
         "address": "Outside Croydon Urban Room",
         "latitude": 51.37502,

@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "A walking tour of the residential areas of Kensal House.  Visit our Grade II* listed housing estate at the top of Ladbroke Grove. Built by Maxwell Fry in 1937 it is the first example of modernist housing for working class people in the UK. Invaluable design input from Elizabeth Denby to create an 'urban village' around the footprint of Gasworks, with innovative community spaces",
+    "description": "A walking tour of the residential areas of Kensal House.  Visit our Grade II* listed housing estate at the top of Ladbroke Grove. Built by Maxwell Fry in 1937 it is the first example of modernist housing for working class people in the UK. Unrecognised Co Design by Elizabeth Denby, to create an 'urban village' around the footprint of Gasworks, with innovative community spaces",
     "design": {
         "designers": [
             {
@@ -26,7 +26,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T11:50:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "",
             "start": "2024-09-15T11:00:00+01:00",
@@ -41,7 +41,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:50:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "",
             "start": "2024-09-15T12:00:00+01:00",
@@ -131,7 +131,7 @@
             "date": "2024-09-22",
             "drop_in": false,
             "end": "2024-09-22T14:50:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "",
             "start": "2024-09-22T14:00:00+01:00",
@@ -176,7 +176,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12439_img_4047_1192263d3358e69c644615ed4c3dfedb.jpeg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.instagram.com/kensalhouse_ra",
+            "title": "www.instagram.com/kensalhouse_ra"
+        }
+    ],
     "location": {
         "address": "Kensal House (pedestrian entrance), Ladbroke Grove, W10 5BQ",
         "latitude": 51.52558,

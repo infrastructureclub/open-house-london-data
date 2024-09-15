@@ -29,7 +29,7 @@
             "end": "2024-09-14T10:50:00+01:00",
             "fully_booked": false,
             "name": "Guided tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T10:00:00+01:00",
             "ticketed": true
         },
@@ -44,7 +44,7 @@
             "end": "2024-09-14T11:50:00+01:00",
             "fully_booked": false,
             "name": "Guided tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:00:00+01:00",
             "ticketed": true
         },
@@ -59,7 +59,7 @@
             "end": "2024-09-14T12:50:00+01:00",
             "fully_booked": false,
             "name": "Guided tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T12:00:00+01:00",
             "ticketed": true
         },
@@ -74,7 +74,7 @@
             "end": "2024-09-14T13:50:00+01:00",
             "fully_booked": false,
             "name": "Guided tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T13:00:00+01:00",
             "ticketed": true
         },
@@ -89,7 +89,7 @@
             "end": "2024-09-14T14:50:00+01:00",
             "fully_booked": false,
             "name": "Guided tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         },
@@ -104,7 +104,7 @@
             "end": "2024-09-14T15:50:00+01:00",
             "fully_booked": false,
             "name": "Guided tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T15:00:00+01:00",
             "ticketed": true
         },
@@ -119,7 +119,7 @@
             "end": "2024-09-14T16:50:00+01:00",
             "fully_booked": false,
             "name": "Guided tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T16:00:00+01:00",
             "ticketed": true
         }
@@ -165,7 +165,24 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1650_spab-back-v3_05c54d24469035b0d4b60748e513e200.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.spab.org.uk/",
+            "title": "www.spab.org.uk"
+        },
+        {
+            "href": "https://www.instagram.com/spab1877/",
+            "title": "www.instagram.com/spab1877"
+        },
+        {
+            "href": "https://www.facebook.com/SPAB1877/",
+            "title": "www.facebook.com/SPAB1877"
+        },
+        {
+            "href": "https://x.com/spab1877",
+            "title": "x.com/spab1877"
+        }
+    ],
     "location": {
         "address": "37 Spital Square, E1 6DY",
         "latitude": 51.52037,

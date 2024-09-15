@@ -86,7 +86,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T15:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Tour of SEACC",
             "notes": "A tour of the centre with the centre Director.",
             "start": "2024-09-15T15:00:00+01:00",
@@ -168,7 +168,24 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_9662_j6307_n13_high_7ef4fc092850625b08c162844d8e4c2c.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.seacc.uk/",
+            "title": "www.seacc.uk"
+        },
+        {
+            "href": "https://www.instagram.com/seaccfulham/",
+            "title": "www.instagram.com/seaccfulham"
+        },
+        {
+            "href": "https://www.instagram.com/maearchitects/",
+            "title": "www.instagram.com/maearchitects"
+        },
+        {
+            "href": "https://www.mae.co.uk/",
+            "title": "www.mae.co.uk"
+        }
+    ],
     "location": {
         "address": "Peterborough Road, Fulham, SW6 3EZ",
         "latitude": 51.46981,

@@ -34,7 +34,7 @@
             "end": "2024-09-14T11:00:00+01:00",
             "fully_booked": false,
             "name": "Aga Khan Centre Building & Gardens Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T10:00:00+01:00",
             "ticketed": true
         },
@@ -49,7 +49,7 @@
             "end": "2024-09-14T12:00:00+01:00",
             "fully_booked": false,
             "name": "Aga Khan Centre Building & Gardens Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:00:00+01:00",
             "ticketed": true
         },
@@ -64,7 +64,7 @@
             "end": "2024-09-14T13:00:00+01:00",
             "fully_booked": false,
             "name": "Aga Khan Centre Building & Gardens Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T12:00:00+01:00",
             "ticketed": true
         },
@@ -79,7 +79,7 @@
             "end": "2024-09-14T15:00:00+01:00",
             "fully_booked": false,
             "name": "Aga Khan Centre Building & Gardens Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         },
@@ -94,7 +94,7 @@
             "end": "2024-09-14T16:00:00+01:00",
             "fully_booked": false,
             "name": "Aga Khan Centre Building & Gardens Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T15:00:00+01:00",
             "ticketed": true
         },
@@ -109,7 +109,7 @@
             "end": "2024-09-14T17:00:00+01:00",
             "fully_booked": false,
             "name": "Aga Khan Centre Building & Gardens Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T16:00:00+01:00",
             "ticketed": true
         },
@@ -122,7 +122,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Aga Khan Centre Building & Gardens Tour",
             "notes": "",
             "start": "2024-09-15T11:00:00+01:00",
@@ -137,7 +137,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Aga Khan Centre Building & Gardens Tour",
             "notes": "",
             "start": "2024-09-15T12:00:00+01:00",
@@ -152,7 +152,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T14:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Aga Khan Centre Building & Gardens Tour",
             "notes": "",
             "start": "2024-09-15T13:00:00+01:00",
@@ -167,7 +167,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T15:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Aga Khan Centre Building & Gardens Tour",
             "notes": "",
             "start": "2024-09-15T14:00:00+01:00",
@@ -434,7 +434,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7273_akdn_aga-khan-centre_kings-cross_-hufton-crow_017-low-res_6ebd85161755631ce66917c5395be840.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.agakhancentre.org.uk/tours/",
+            "title": "www.agakhancentre.org.uk/tours"
+        }
+    ],
     "location": {
         "address": "Aga Khan Centre, 10 Handyside Street, N1C 4DN",
         "latitude": 51.5375703,

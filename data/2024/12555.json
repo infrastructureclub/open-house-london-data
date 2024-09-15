@@ -28,7 +28,7 @@
             "end": "2024-09-14T11:30:00+01:00",
             "fully_booked": false,
             "name": "Purley Way walking Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T10:00:00+01:00",
             "ticketed": true
         },
@@ -43,7 +43,7 @@
             "end": "2024-09-14T15:30:00+01:00",
             "fully_booked": false,
             "name": "Purley Way walking Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         }
@@ -68,7 +68,20 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12555_croydon_airport_former_terminal_building_-_geograph_3044446_995552ad4c669dc66ef59a2da3f7bd86.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://stanleyarts.org/",
+            "title": "stanleyarts.org"
+        },
+        {
+            "href": "https://www.instagram.com/stanleyarts.uk/",
+            "title": "www.instagram.com/stanleyarts.uk"
+        },
+        {
+            "href": "https://www.historiccroydonairport.org.uk/",
+            "title": "www.historiccroydonairport.org.uk"
+        }
+    ],
     "location": {
         "address": "Airport House, Purley Way, Croydon, CR0 0XZ",
         "latitude": 51.3564,

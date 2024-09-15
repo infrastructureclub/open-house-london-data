@@ -18,7 +18,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "John Grindrod: Polaroids of Croydon",
             "notes": "",
             "start": "2024-09-15T10:00:00+01:00",
@@ -33,7 +33,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T16:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "John Grindrod: Polaroids of Croydon",
             "notes": "",
             "start": "2024-09-15T14:00:00+01:00",
@@ -65,7 +65,28 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12200_john-grindrod-croydon_81bbe917db669b198edd16057ebab752.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://twitter.com/culturecroydon",
+            "title": "twitter.com/culturecroydon"
+        },
+        {
+            "href": "https://www.johngrindrod.co.uk/",
+            "title": "www.johngrindrod.co.uk"
+        },
+        {
+            "href": "https://twitter.com/grindrod",
+            "title": "twitter.com/grindrod"
+        },
+        {
+            "href": "https://www.facebook.com/JohnGrindrodAuthor/",
+            "title": "www.facebook.com/JohnGrindrodAuthor"
+        },
+        {
+            "href": "https://culturecroydon.com/",
+            "title": "culturecroydon.com"
+        }
+    ],
     "location": {
         "address": "One Croydon, 12–16 Addiscombe Rd, Croydon, CR0 6SD",
         "latitude": 51.37498,

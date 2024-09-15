@@ -121,7 +121,7 @@
             "end": "2024-09-14T10:30:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T10:00:00+01:00",
             "ticketed": true
         },
@@ -136,7 +136,7 @@
             "end": "2024-09-14T11:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T10:30:00+01:00",
             "ticketed": true
         },
@@ -151,7 +151,7 @@
             "end": "2024-09-14T11:30:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:00:00+01:00",
             "ticketed": true
         },
@@ -166,7 +166,7 @@
             "end": "2024-09-14T12:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:30:00+01:00",
             "ticketed": true
         },
@@ -181,7 +181,7 @@
             "end": "2024-09-14T12:30:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T12:00:00+01:00",
             "ticketed": true
         },
@@ -196,7 +196,7 @@
             "end": "2024-09-14T13:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T12:30:00+01:00",
             "ticketed": true
         },
@@ -211,7 +211,7 @@
             "end": "2024-09-14T13:30:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T13:00:00+01:00",
             "ticketed": true
         },
@@ -226,7 +226,7 @@
             "end": "2024-09-14T14:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T13:30:00+01:00",
             "ticketed": true
         },
@@ -241,7 +241,7 @@
             "end": "2024-09-14T14:30:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         },
@@ -256,7 +256,7 @@
             "end": "2024-09-14T15:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:30:00+01:00",
             "ticketed": true
         },
@@ -271,7 +271,7 @@
             "end": "2024-09-14T15:30:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T15:00:00+01:00",
             "ticketed": true
         },
@@ -286,7 +286,7 @@
             "end": "2024-09-14T16:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T15:30:00+01:00",
             "ticketed": true
         }
@@ -346,7 +346,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6151_untitled-design-84_e4dfdc2da2802b0934907232042312bf.png"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.rcn.org.uk/",
+            "title": "www.rcn.org.uk"
+        },
+        {
+            "href": "https://twitter.com/thercn",
+            "title": "twitter.com/thercn"
+        }
+    ],
     "location": {
         "address": "20 Cavendish Square, W1G 0RN",
         "latitude": 51.5160929,

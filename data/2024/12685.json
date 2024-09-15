@@ -28,7 +28,7 @@
             "end": "2024-09-14T11:45:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:00:00+01:00",
             "ticketed": true
         },
@@ -43,7 +43,7 @@
             "end": "2024-09-14T12:45:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T12:00:00+01:00",
             "ticketed": true
         },
@@ -58,7 +58,7 @@
             "end": "2024-09-14T13:45:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T13:00:00+01:00",
             "ticketed": true
         },
@@ -73,7 +73,7 @@
             "end": "2024-09-14T14:45:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         },
@@ -88,7 +88,7 @@
             "end": "2024-09-14T15:45:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T15:00:00+01:00",
             "ticketed": true
         },
@@ -101,7 +101,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T11:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "",
             "start": "2024-09-15T11:00:00+01:00",
@@ -192,7 +192,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12685_19_pricegore_-johandehlin_230914_a26ce76b84d6216095499415bb7aac19.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://pricegore.co.uk",
+            "title": "pricegore.co.uk"
+        },
+        {
+            "href": "https://www.instagram.com/pricegore/",
+            "title": "www.instagram.com/pricegore"
+        }
+    ],
     "location": {
         "address": "429 Fulham Rd, SW10 9TX",
         "latitude": 51.48375,

@@ -103,7 +103,7 @@
             "date": "2024-09-21",
             "drop_in": false,
             "end": "2024-09-21T15:10:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour - RSC Burlington House",
             "notes": "Visitors will be able to explore our ground and first floor areas which include our Council Room and Library.",
             "start": "2024-09-21T14:30:00+01:00",
@@ -214,7 +214,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3091_4_2b78206b0fed87330f1710ed676b3a63.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "http://www.rsc.org",
+            "title": "www.rsc.org"
+        },
+        {
+            "href": "https://twitter.com/RoySocChem",
+            "title": "twitter.com/RoySocChem"
+        }
+    ],
     "location": {
         "address": "Piccadilly, W1J 0BA",
         "latitude": 51.50893,

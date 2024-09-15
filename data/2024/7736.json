@@ -30,7 +30,7 @@
             "end": "2024-09-14T10:40:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T10:00:00+01:00",
             "ticketed": true
         },
@@ -45,7 +45,7 @@
             "end": "2024-09-14T11:40:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:00:00+01:00",
             "ticketed": true
         },
@@ -60,7 +60,7 @@
             "end": "2024-09-14T12:40:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T12:00:00+01:00",
             "ticketed": true
         },
@@ -75,7 +75,7 @@
             "end": "2024-09-14T14:40:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         },
@@ -90,7 +90,7 @@
             "end": "2024-09-14T15:40:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T15:00:00+01:00",
             "ticketed": true
         }
@@ -149,7 +149,20 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7736_dsc_2225-hdr_mmp_f40eb3e7b7620cd1a1b05983f8b876be.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://anaesthetists.org/Home/Heritage-centre",
+            "title": "anaesthetists.org/Home/Heritage-centre"
+        },
+        {
+            "href": "https://twitter.com/Anaes_Heritage",
+            "title": "twitter.com/Anaes_Heritage"
+        },
+        {
+            "href": "https://www.facebook.com/AAGBIheritagecentre/",
+            "title": "www.facebook.com/AAGBIheritagecentre"
+        }
+    ],
     "location": {
         "address": "21 Portland Place, Marylebone, W1B 1PY",
         "latitude": 51.5193726,

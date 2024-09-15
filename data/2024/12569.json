@@ -140,7 +140,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T11:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Open Studio Day:  10-11 am",
             "notes": "Experience the intimate setting where Hodgkin's works were created, featuring a display of his art and an introduction from the Studio team.",
             "start": "2024-09-15T10:00:00+01:00",
@@ -155,7 +155,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Open Studio Day:  11 am-12 pm",
             "notes": "Experience the intimate setting where Hodgkin's works were created, featuring a display of his art and an introduction from the Studio team.",
             "start": "2024-09-15T11:00:00+01:00",
@@ -278,7 +278,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12569_studio-2024_3c443511f6f7a38df9eddc5a13403638.jpeg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://howard-hodgkin.com/",
+            "title": "howard-hodgkin.com"
+        },
+        {
+            "href": "https://www.instagram.com/howardhodgkin/",
+            "title": "www.instagram.com/howardhodgkin"
+        }
+    ],
     "location": {
         "address": "The Howard Hodgkin Studio, Address tbc to ticket holders, WC1 1AB",
         "latitude": 51.50721,

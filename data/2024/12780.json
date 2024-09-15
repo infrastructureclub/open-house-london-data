@@ -26,7 +26,7 @@
             "date": "2024-09-20",
             "drop_in": false,
             "end": "2024-09-20T14:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Walking tour",
             "notes": "Walking tour led by the Masterplanners.\r\nMeeting point is outside Woolwich Elizabeth Line Station.",
             "start": "2024-09-20T13:00:00+01:00",
@@ -71,7 +71,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12780_royalarsenal_model_allies-and-morrison_18bb2ff747e87c11a91d382965c45e75.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.alliesandmorrison.com/",
+            "title": "www.alliesandmorrison.com"
+        },
+        {
+            "href": "https://www.instagram.com/alliesandmorrison/",
+            "title": "www.instagram.com/alliesandmorrison"
+        }
+    ],
     "location": {
         "address": "Woolwich Elizabeth Line Station, SE18 6EU",
         "latitude": 51.49192,

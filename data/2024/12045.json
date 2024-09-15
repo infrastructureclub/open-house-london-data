@@ -28,7 +28,7 @@
             "end": "2024-09-14T12:00:00+01:00",
             "fully_booked": false,
             "name": "Guided tour (Museum stores)",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:00:00+01:00",
             "ticketed": true
         },
@@ -43,7 +43,7 @@
             "end": "2024-09-14T15:00:00+01:00",
             "fully_booked": false,
             "name": "Guided tour (Museum stores)",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         },
@@ -86,7 +86,7 @@
             "date": "2024-09-21",
             "drop_in": false,
             "end": "2024-09-21T12:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Audio-Descriptive Guided tour (Museum stores)",
             "notes": "A dedicated tour for people with visual impairments delivered by a specialist facilitator.",
             "start": "2024-09-21T11:00:00+01:00",
@@ -128,7 +128,24 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12045_croydon-buildings-86_83fa405c864616af53e3ce77bad96cd9.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://twitter.com/MuseumOfCroydon",
+            "title": "twitter.com/MuseumOfCroydon"
+        },
+        {
+            "href": "https://museumofcroydon.com",
+            "title": "museumofcroydon.com"
+        },
+        {
+            "href": "https://www.instagram.com/museumofcroydon/",
+            "title": "www.instagram.com/museumofcroydon"
+        },
+        {
+            "href": "https://www.facebook.com/MuseumofCroydonofficial/",
+            "title": "www.facebook.com/MuseumofCroydonofficial"
+        }
+    ],
     "location": {
         "address": "Croydon Clocktower, Katharine St, CR9 1ET",
         "latitude": 51.37226,

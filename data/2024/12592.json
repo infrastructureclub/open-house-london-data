@@ -86,7 +86,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T11:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour & Discussion",
             "notes": "Join a tour and discussion of the architectural and social merit of the building. Hosts Stephen Bull, SPAB lecturer and Susan Walker, owner.",
             "start": "2024-09-15T10:00:00+01:00",
@@ -116,7 +116,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T15:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour & Discussion",
             "notes": "Join a tour and discussion of the architectural and social merit of the building. Hosts Stephen Bull, SPAB lecturer and Susan Walker, owner.",
             "start": "2024-09-15T14:00:00+01:00",
@@ -225,7 +225,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12592_goodwins-original-peg-roof-interior_1abf23ac797fe1c9909aabbce9cdc62b.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://1goodwinscourt.mystrikingly.com/",
+            "title": "1goodwinscourt.mystrikingly.com"
+        }
+    ],
     "location": {
         "address": "1 Goodwins Court, WC2N 4LL",
         "latitude": 51.5109,

@@ -43,7 +43,7 @@
             "end": "2024-09-14T12:45:00+01:00",
             "fully_booked": false,
             "name": "Merky FC HQ",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T12:00:00+01:00",
             "ticketed": true
         },
@@ -58,7 +58,7 @@
             "end": "2024-09-14T13:45:00+01:00",
             "fully_booked": false,
             "name": "Merky FC HQ",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T13:00:00+01:00",
             "ticketed": true
         },
@@ -73,7 +73,7 @@
             "end": "2024-09-14T14:45:00+01:00",
             "fully_booked": false,
             "name": "Merky FC HQ",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         }
@@ -131,7 +131,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12708_merkyfc-5jpg_3c1b6e2a3f89bae6e25bd1767aa73170.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://merkyfchq.com/",
+            "title": "merkyfchq.com"
+        }
+    ],
     "location": {
         "address": "Dagnall Park, SE25 5PH",
         "latitude": 51.39178,

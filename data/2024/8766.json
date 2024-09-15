@@ -62,7 +62,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T15:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Key fob workshop",
             "notes": "Make a leather key fob, personalised with your initials, to take away, working with scrap leather from our shoemaking.",
             "start": "2024-09-15T13:00:00+01:00",
@@ -156,7 +156,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8766_20220921_132537_bd5198a69ec8470be0c24d4c63b404cb.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.carreducker.com",
+            "title": "www.carreducker.com"
+        },
+        {
+            "href": "https://www.instagram.com/carreducker/",
+            "title": "www.instagram.com/carreducker"
+        }
+    ],
     "location": {
         "address": "Unit 1.20, The Courtyard, Oxo Tower Wharf, SE1 9PH",
         "latitude": 51.50846,

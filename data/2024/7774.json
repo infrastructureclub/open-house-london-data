@@ -26,7 +26,7 @@
             "end": "2024-09-14T11:00:00+01:00",
             "fully_booked": false,
             "name": "Devil's Acre - guided walking tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T10:00:00+01:00",
             "ticketed": true
         },
@@ -41,7 +41,7 @@
             "end": "2024-09-14T12:00:00+01:00",
             "fully_booked": false,
             "name": "Devil's Acre - guided walking tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:00:00+01:00",
             "ticketed": true
         },
@@ -56,7 +56,7 @@
             "end": "2024-09-14T13:00:00+01:00",
             "fully_booked": false,
             "name": "Devil's Acre - guided walking tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T12:00:00+01:00",
             "ticketed": true
         },
@@ -71,7 +71,7 @@
             "end": "2024-09-14T14:00:00+01:00",
             "fully_booked": false,
             "name": "Devil's Acre - guided walking tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T13:00:00+01:00",
             "ticketed": true
         },
@@ -86,7 +86,7 @@
             "end": "2024-09-14T15:00:00+01:00",
             "fully_booked": false,
             "name": "Devil's Acre - guided walking tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         },
@@ -101,7 +101,7 @@
             "end": "2024-09-14T16:00:00+01:00",
             "fully_booked": false,
             "name": "Devil's Acre - guided walking tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T15:00:00+01:00",
             "ticketed": true
         },
@@ -116,7 +116,7 @@
             "end": "2024-09-14T17:00:00+01:00",
             "fully_booked": false,
             "name": "Devil's Acre - guided walking tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T16:00:00+01:00",
             "ticketed": true
         }
@@ -153,7 +153,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7774_grey-coat-ps-1_bb2074116edcc6f5d0b29594f84e16af.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://westminsterguides.org.uk/",
+            "title": "westminsterguides.org.uk"
+        }
+    ],
     "location": {
         "address": "Cardinal Place, Victoria Street , SW1E 5JE",
         "latitude": 51.4971002,

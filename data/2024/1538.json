@@ -64,7 +64,7 @@
             "end": "2024-09-14T11:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour and Visit to new exhibition",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T10:00:00+01:00",
             "ticketed": true
         },
@@ -79,7 +79,7 @@
             "end": "2024-09-14T12:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour and Visit to new exhibition",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:00:00+01:00",
             "ticketed": true
         },
@@ -94,7 +94,7 @@
             "end": "2024-09-14T13:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour and Visit to new exhibition",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T12:00:00+01:00",
             "ticketed": true
         },
@@ -109,7 +109,7 @@
             "end": "2024-09-14T15:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour and Visit to new exhibition",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         },
@@ -124,7 +124,7 @@
             "end": "2024-09-14T16:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour and Visit to new exhibition",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T15:00:00+01:00",
             "ticketed": true
         },
@@ -137,7 +137,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T14:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour and Visit to new exhibition",
             "notes": "",
             "start": "2024-09-15T13:00:00+01:00",
@@ -152,7 +152,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T15:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour and Visit to new exhibition",
             "notes": "",
             "start": "2024-09-15T14:00:00+01:00",
@@ -167,7 +167,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour and Visit to new exhibition",
             "notes": "",
             "start": "2024-09-15T15:00:00+01:00",
@@ -305,7 +305,24 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1538_1538_d5682_graded_3k_200910_028342a0aacb62d4a22975b77d336a54.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.chelsea-pensioners.co.uk/",
+            "title": "www.chelsea-pensioners.co.uk"
+        },
+        {
+            "href": "https://twitter.com/RHChelsea",
+            "title": "twitter.com/RHChelsea"
+        },
+        {
+            "href": "https://www.instagram.com/royalhospitalchelsea",
+            "title": "www.instagram.com/royalhospitalchelsea"
+        },
+        {
+            "href": "https://en-gb.facebook.com/RoyalHospitalChelsea/",
+            "title": "en-gb.facebook.com/RoyalHospitalChelsea"
+        }
+    ],
     "location": {
         "address": "Royal Hospital Road, Chelsea, SW3 4SR",
         "latitude": 51.4878309,

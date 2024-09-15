@@ -29,7 +29,7 @@
             "end": "2024-09-14T14:00:00+01:00",
             "fully_booked": false,
             "name": "Behind the Scenes Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T13:00:00+01:00",
             "ticketed": true
         },
@@ -44,7 +44,7 @@
             "end": "2024-09-14T15:00:00+01:00",
             "fully_booked": false,
             "name": "Behind the Scenes Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         }
@@ -97,7 +97,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6274_globe-in-the-courtyard_8d8021287f1e6ad8dd100733cf99e5a2.png"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://blackculturalarchives.org/",
+            "title": "blackculturalarchives.org"
+        },
+        {
+            "href": "https://www.instagram.com/bcaheritage/",
+            "title": "www.instagram.com/bcaheritage"
+        }
+    ],
     "location": {
         "address": "1 Windrush Square, Brixton, SW2 1EF",
         "latitude": 51.46041,

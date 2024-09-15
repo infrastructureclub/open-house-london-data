@@ -20,7 +20,7 @@
             "end": "2024-09-14T14:30:00+01:00",
             "fully_booked": false,
             "name": "Croydon's Queer Heritage Walking Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T13:00:00+01:00",
             "ticketed": true
         },
@@ -35,7 +35,7 @@
             "end": "2024-09-14T17:00:00+01:00",
             "fully_booked": false,
             "name": "Croydon's Queer Heritage Walking Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T15:30:00+01:00",
             "ticketed": true
         },
@@ -79,7 +79,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12671_pride-flag_618aabc966129fe510bdb049442b9aea.png"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://stanleyarts.org/",
+            "title": "stanleyarts.org"
+        },
+        {
+            "href": "https://www.instagram.com/stanleyarts.uk/",
+            "title": "www.instagram.com/stanleyarts.uk"
+        }
+    ],
     "location": {
         "address": "Whitgift Almshouses, N End, CR0 1UB",
         "latitude": 51.37395,

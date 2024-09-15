@@ -20,7 +20,7 @@
             "end": "2024-09-14T12:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:00:00+01:00",
             "ticketed": true
         },
@@ -35,7 +35,7 @@
             "end": "2024-09-14T13:30:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T12:30:00+01:00",
             "ticketed": true
         },
@@ -50,7 +50,7 @@
             "end": "2024-09-14T15:00:00+01:00",
             "fully_booked": false,
             "name": "Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         }
@@ -85,7 +85,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12527_wild-imaginarium-luke-o_donovan-low-res-3-of-14_ca9904eb9e4d30091778666b7613f3ba.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.gosh.nhs.uk/wards-and-departments/departments/gosh-arts/",
+            "title": "www.gosh.nhs.uk/wards-and-departments/departments/gosh-arts"
+        },
+        {
+            "href": "https://www.instagram.com/gosh_arts/",
+            "title": "www.instagram.com/gosh_arts"
+        }
+    ],
     "location": {
         "address": "Great Ormond Street Hospital, Guilford Street, WC1N 1EP",
         "latitude": 51.52309,

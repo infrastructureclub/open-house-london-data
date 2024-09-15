@@ -30,7 +30,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Curator Led Tour",
             "notes": "A Curator Guided Tour of our new Gallery Rooms Through Time 1878 - 2049",
             "start": "2024-09-15T11:00:00+01:00",
@@ -45,7 +45,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T14:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Curator Led Tour",
             "notes": "A Curator Guided Tour of our new Gallery Rooms Through Time 1878 - 2049. \r\n\r\nTo book follow the Link Below:",
             "start": "2024-09-15T13:00:00+01:00",
@@ -104,7 +104,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_464_a-tenement-flat-in-1913-002_63802fe1497c9b0697ae12a469ffe3de.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.museumofthehome.org.uk",
+            "title": "www.museumofthehome.org.uk"
+        },
+        {
+            "href": "https://www.instagram.com/museumofthehome/",
+            "title": "www.instagram.com/museumofthehome"
+        }
+    ],
     "location": {
         "address": "136 Kingsland Road, E2 8EA",
         "latitude": 51.5315755,

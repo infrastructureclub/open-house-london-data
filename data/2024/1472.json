@@ -26,7 +26,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T11:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided tours",
             "notes": "Guided tours with the Lock Keeper",
             "start": "2024-09-15T10:00:00+01:00",
@@ -41,7 +41,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided tours",
             "notes": "Gilded tours with the Lock keeper",
             "start": "2024-09-15T11:00:00+01:00",
@@ -56,7 +56,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided tours",
             "notes": "Gilded tours with the Lock keeper",
             "start": "2024-09-15T12:00:00+01:00",
@@ -86,7 +86,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided tours",
             "notes": "Gilded tours with the Lock keeper",
             "start": "2024-09-15T15:00:00+01:00",
@@ -143,7 +143,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1472_161117-2_4ba84a0621ed4eb6c08004f9a91ae595.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "http://www.pla.co.uk/",
+            "title": "www.pla.co.uk"
+        }
+    ],
     "location": {
         "address": "The Towpath, Richmond, TW9 2QJ",
         "latitude": 51.4626306,

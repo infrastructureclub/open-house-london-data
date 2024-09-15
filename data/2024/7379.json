@@ -30,7 +30,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T15:15:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Architect Led Tour of the Royal Academy of Music - 1",
             "notes": "Architect led guided tour of the Royal Academy of Music Susie Sainsbury Theatre and Angela Burgess Recital Hall by Ritchie Studio",
             "start": "2024-09-15T14:15:00+01:00",
@@ -225,7 +225,20 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7379_230228-frances-marshall-6888-adj_92b520e2ce917ac74d2fa0b60401042b.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.ritchie.studio/projects/ram/",
+            "title": "www.ritchie.studio/projects/ram"
+        },
+        {
+            "href": "https://www.instagram.com/ritchie.studio/",
+            "title": "www.instagram.com/ritchie.studio"
+        },
+        {
+            "href": "https://www.linkedin.com/company/ritchiestudio",
+            "title": "www.linkedin.com/company/ritchiestudio"
+        }
+    ],
     "location": {
         "address": "Royal Academy of Music, Marylebone Road, NW1 5HT",
         "latitude": 51.52359,

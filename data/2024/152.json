@@ -27,7 +27,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T09:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Shaftesbury Tour",
             "notes": "",
             "start": "2024-09-15T09:00:00+01:00",
@@ -57,7 +57,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T10:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Shaftesbury Tour",
             "notes": "",
             "start": "2024-09-15T10:00:00+01:00",
@@ -72,7 +72,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T11:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Shaftesbury Tour",
             "notes": "",
             "start": "2024-09-15T10:30:00+01:00",
@@ -87,7 +87,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T11:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Shaftesbury Tour",
             "notes": "",
             "start": "2024-09-15T11:00:00+01:00",
@@ -117,7 +117,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Shaftesbury Tour",
             "notes": "",
             "start": "2024-09-15T12:00:00+01:00",
@@ -188,7 +188,24 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_152_2023-07-24-1532-mickey-lf-lee-mx504462-mediumres_eed1d00b85bababfe2e1ae13650875e4.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.shaftesburytheatre.com/",
+            "title": "www.shaftesburytheatre.com"
+        },
+        {
+            "href": "https://twitter.com/Shaftesbury1911",
+            "title": "twitter.com/Shaftesbury1911"
+        },
+        {
+            "href": "https://www.facebook.com/ShaftesburyTheatre1911/",
+            "title": "www.facebook.com/ShaftesburyTheatre1911"
+        },
+        {
+            "href": "https://www.instagram.com/shaftesbury_theatre/",
+            "title": "www.instagram.com/shaftesbury_theatre"
+        }
+    ],
     "location": {
         "address": "210 Shaftesbury Avenue, WC2H 8DP",
         "latitude": 51.516203,

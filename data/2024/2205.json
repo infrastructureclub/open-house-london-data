@@ -466,7 +466,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour of the SS Robin",
             "notes": "You're invited to step aboard the SS Robin, the world’s only surviving complete Victorian steamship.",
             "start": "2024-09-15T12:00:00+01:00",
@@ -481,7 +481,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T15:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour of the SS Robin",
             "notes": "You're invited to step aboard the SS Robin, the world’s only surviving complete Victorian steamship.",
             "start": "2024-09-15T14:00:00+01:00",
@@ -663,7 +663,24 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2205_the-orchard-cafe_657f58ada302190ee51c50c5383fdd58.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.trinitybuoywharf.com/",
+            "title": "www.trinitybuoywharf.com"
+        },
+        {
+            "href": "https://x.com/artsTBW",
+            "title": "x.com/artsTBW"
+        },
+        {
+            "href": "https://www.facebook.com/trinitybuoywharf",
+            "title": "www.facebook.com/trinitybuoywharf"
+        },
+        {
+            "href": "https://www.instagram.com/trinitybuoywharf/",
+            "title": "www.instagram.com/trinitybuoywharf"
+        }
+    ],
     "location": {
         "address": "64 Orchard Place, E14 0JW",
         "latitude": 51.5084415,

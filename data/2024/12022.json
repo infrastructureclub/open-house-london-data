@@ -26,7 +26,7 @@
             "date": "2024-09-20",
             "drop_in": false,
             "end": "2024-09-20T13:15:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Queer London Model Tour",
             "notes": "Join Dani Dinger and Dan de la Motte of Queer Tours of London for a special Queer London Model Tour specially for Open House 2024!",
             "start": "2024-09-20T12:30:00+01:00",
@@ -107,7 +107,20 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12022_screenshot-2024-05-11-at-10-57-36_4261bd2d5b59c2f371317927808bded9.png"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://thelondoncentre.org/",
+            "title": "thelondoncentre.org"
+        },
+        {
+            "href": "https://twitter.com/theldncentre",
+            "title": "twitter.com/theldncentre"
+        },
+        {
+            "href": "https://twitter.com/nlalondon",
+            "title": "twitter.com/nlalondon"
+        }
+    ],
     "location": {
         "address": "3 Aldermanbury, EC2V 7HH",
         "latitude": 51.51606,

@@ -86,7 +86,7 @@
             "date": "2024-09-20",
             "drop_in": false,
             "end": "2024-09-20T16:05:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour",
             "notes": "",
             "start": "2024-09-20T15:35:00+01:00",
@@ -168,7 +168,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_11992_night-outside-credit-as-philip-vile-for-the-bush-theatre_e03ded494522444ff4d95c7984c1cc89.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.bushtheatre.co.uk/",
+            "title": "www.bushtheatre.co.uk"
+        },
+        {
+            "href": "https://www.instagram.com/bushtheatre/",
+            "title": "www.instagram.com/bushtheatre"
+        }
+    ],
     "location": {
         "address": "Bush Theatre, 7 Uxbridge Rd, W12 8LJ",
         "latitude": 51.50525,

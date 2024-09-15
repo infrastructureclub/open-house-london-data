@@ -28,7 +28,7 @@
             "date": "2024-09-17",
             "drop_in": false,
             "end": "2024-09-17T12:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided tour of RAF Biggin Hill Museum & Chapel",
             "notes": "The tour will be the inside and outside of the Museum and Chapel.",
             "start": "2024-09-17T11:00:00+01:00",
@@ -76,7 +76,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1774_chapel-and-museum-17-01-19_ea8be2bfab73602824d7441a96f36c56.JPG"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://bigginhillmuseum.com",
+            "title": "bigginhillmuseum.com"
+        }
+    ],
     "location": {
         "address": "Biggin Hill Memorial Museum, Main Road, Biggin Hill, Westerham",
         "latitude": 51.3271514,

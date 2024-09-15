@@ -58,7 +58,7 @@
             "end": "2024-09-15T09:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Mass",
-            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "notes": "",
             "start": "2024-09-15T08:00:00+01:00",
             "ticketed": false
         },
@@ -73,7 +73,7 @@
             "end": "2024-09-15T11:30:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Solemn Mass",
-            "notes": "Please let us know if you plan to visit. Doing so allows the venue to plan ahead and you will be notified by email about any changes to the programme that might affect your visit.",
+            "notes": "",
             "start": "2024-09-15T10:30:00+01:00",
             "ticketed": false
         },
@@ -206,7 +206,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2490_222-1_70cec86469aa256758388aff55a5d630.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.staugustine.london/",
+            "title": "www.staugustine.london"
+        }
+    ],
     "location": {
         "address": "Kilburn Park Road, NW6 5XB",
         "latitude": 51.53353509999999,

@@ -46,7 +46,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T11:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "Guided tour of the headquarters of the Royal College of General Practitioners.",
             "start": "2024-09-15T10:00:00+01:00",
@@ -61,7 +61,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "Guided tour of the headquarters of the Royal College of General Practitioners.",
             "start": "2024-09-15T11:00:00+01:00",
@@ -76,7 +76,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "Guided tour of the headquarters of the Royal College of General Practitioners.",
             "start": "2024-09-15T12:00:00+01:00",
@@ -91,7 +91,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T14:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "Guided tour of the headquarters of the Royal College of General Practitioners.",
             "start": "2024-09-15T13:00:00+01:00",
@@ -121,7 +121,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "Guided tour of the headquarters of the Royal College of General Practitioners.",
             "start": "2024-09-15T15:00:00+01:00",
@@ -136,7 +136,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T17:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "Guided tour of 30 Euston Square, the headquarters of the Royal College of General Practitioners",
             "start": "2024-09-15T16:00:00+01:00",
@@ -249,7 +249,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1523_front-of-30es_6379cc8939ec74dde47f3e60b2a790cf.jfif"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.rcgp.org.uk/about/museum-heritage",
+            "title": "www.rcgp.org.uk/about/museum-heritage"
+        }
+    ],
     "location": {
         "address": "30 Euston Square, NW1 2FB",
         "latitude": 51.5265851,

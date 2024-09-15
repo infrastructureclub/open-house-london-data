@@ -26,7 +26,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T14:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "The American Other in London",
             "notes": "",
             "start": "2024-09-15T11:30:00+01:00",
@@ -104,6 +104,18 @@
         }
     ],
     "links": [
+        {
+            "href": "https://www.instagram.com/eclectic_tours/",
+            "title": "www.instagram.com/eclectic_tours"
+        },
+        {
+            "href": "https://www.facebook.com/eclectic.tours.london",
+            "title": "www.facebook.com/eclectic.tours.london"
+        },
+        {
+            "href": "https://eclectic-tours.com/",
+            "title": "eclectic-tours.com"
+        },
         {
             "href": "eclectic-tours.com",
             "title": null

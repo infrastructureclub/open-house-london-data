@@ -28,7 +28,7 @@
             "end": "2024-09-14T12:00:00+01:00",
             "fully_booked": false,
             "name": "Addington Village Walking tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:00:00+01:00",
             "ticketed": true
         },
@@ -43,7 +43,7 @@
             "end": "2024-09-14T14:00:00+01:00",
             "fully_booked": false,
             "name": "Addington Village Walking tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T13:00:00+01:00",
             "ticketed": true
         },
@@ -58,7 +58,7 @@
             "end": "2024-09-14T16:00:00+01:00",
             "fully_booked": false,
             "name": "Addington Village Walking tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T15:00:00+01:00",
             "ticketed": true
         }
@@ -86,7 +86,20 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12558_southeast_view_of_the_church_of_saint_mary_the_blessed_virgin_church-_addington_-03_a5212e2e63a5e9b7ae3c460be18559cc.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://stanleyarts.org/",
+            "title": "stanleyarts.org"
+        },
+        {
+            "href": "https://www.instagram.com/stanleyarts.uk/",
+            "title": "www.instagram.com/stanleyarts.uk"
+        },
+        {
+            "href": "https://addington.org.uk/",
+            "title": "addington.org.uk"
+        }
+    ],
     "location": {
         "address": "St Mary the Blessed Virgin, Addington Village Rd, Croydon, Croydon",
         "latitude": 51.35843,

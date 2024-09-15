@@ -132,7 +132,7 @@
             "date": "2024-09-21",
             "drop_in": false,
             "end": "2024-09-21T14:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour with BSL Interpretation",
             "notes": "Step into our beautiful studios and find out more about our award-winning building with members of architecture firm Howells.",
             "start": "2024-09-21T13:45:00+01:00",
@@ -216,7 +216,20 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_8261_linden-2-c-michael-molloy-2000x1333_87e672ab0ae9c1c7b798bd8d6eb3a989.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.ballet.org.uk/",
+            "title": "www.ballet.org.uk"
+        },
+        {
+            "href": "https://www.instagram.com/englishnationalballet/",
+            "title": "www.instagram.com/englishnationalballet"
+        },
+        {
+            "href": "https://www.youtube.com/englishnationalballet",
+            "title": "www.youtube.com/englishnationalballet"
+        }
+    ],
     "location": {
         "address": "English National Ballet, 41 Hopewell Square, E14 0SY",
         "latitude": 51.5129037,

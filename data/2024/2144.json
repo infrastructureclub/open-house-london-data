@@ -41,7 +41,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Picker House Guided Tour",
             "notes": "Please note, the tour length and finish time are approximate,  the tour must be finished by 5pm at the latest.",
             "start": "2024-09-15T14:00:00+01:00",
@@ -109,7 +109,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_2144_pickeropenhouse-13_db89260bd54c53437c572a8f0909f6d1.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.stanleypickertrust.org",
+            "title": "www.stanleypickertrust.org"
+        }
+    ],
     "location": {
         "address": "Picker, Kingston upon Thames, KT27HX.",
         "latitude": 51.42286,

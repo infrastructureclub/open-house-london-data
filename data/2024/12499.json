@@ -191,7 +191,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Cooper House Open House visit",
             "notes": "Open house with Architect on site\r\nEvery 20 minutes, 15 pax will be led into the property. \r\nFor Ladies, Trousers only.",
             "start": "2024-09-15T11:30:00+01:00",
@@ -206,7 +206,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Cooper House Open House visit",
             "notes": "Open house with Architect on site\r\nEvery 20 minutes, 15 pax will be led into the property. \r\nFor Ladies, Trousers only.",
             "start": "2024-09-15T12:00:00+01:00",
@@ -251,7 +251,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T14:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Cooper House Open House visit",
             "notes": "Open house with Architect on site\r\nEvery 20 minutes, 15 pax will be led into the property. \r\nFor Ladies, Trousers only.",
             "start": "2024-09-15T13:30:00+01:00",
@@ -266,7 +266,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T14:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Cooper House Open House visit",
             "notes": "Open house with Architect on site\r\nEvery 20 minutes, 15 pax will be led into the property. \r\nFor Ladies, Trousers only.",
             "start": "2024-09-15T14:00:00+01:00",
@@ -281,7 +281,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T15:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Cooper House Open House visit",
             "notes": "Open house with Architect on site\r\nEvery 20 minutes, 15 pax will be led into the property. \r\nFor Ladies, Trousers only.",
             "start": "2024-09-15T14:30:00+01:00",
@@ -296,7 +296,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T15:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Cooper House Open House visit",
             "notes": "Open house with Architect on site\r\nEvery 20 minutes, 15 pax will be led into the property. \r\nFor Ladies, Trousers only.",
             "start": "2024-09-15T15:00:00+01:00",
@@ -326,7 +326,7 @@
             "date": "2024-09-21",
             "drop_in": false,
             "end": "2024-09-21T11:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Cooper House Open House visit",
             "notes": "Open house with Architect on site\r\nEvery 25 minutes, 15 pax will be led into the property. \r\nFor Ladies, Trousers only.",
             "start": "2024-09-21T11:00:00+01:00",
@@ -476,7 +476,7 @@
             "date": "2024-09-22",
             "drop_in": false,
             "end": "2024-09-22T11:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Cooper House Open House visit",
             "notes": "Open house with Architect on site\r\nEvery 25 minutes, 15 pax will be led into the property. \r\nFor Ladies, Trousers only.",
             "start": "2024-09-22T11:00:00+01:00",
@@ -756,7 +756,24 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12499_s2b_jay-yang-cooper-house_2024_2_web_a6cdb9a3ef45e19b47ede2e59fadd4ca.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.s2-b.com/",
+            "title": "www.s2-b.com"
+        },
+        {
+            "href": "https://www.instagram.com/s2bstudio/",
+            "title": "www.instagram.com/s2bstudio"
+        },
+        {
+            "href": "https://youtu.be/JRfYo3ahTks",
+            "title": "youtu.be/JRfYo3ahTks"
+        },
+        {
+            "href": "https://www.tiktok.com/@s2bstudio",
+            "title": "www.tiktok.com/@s2bstudio"
+        }
+    ],
     "location": {
         "address": "2A King's Road, N17 8NP",
         "latitude": 51.60142,

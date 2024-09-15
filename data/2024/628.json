@@ -72,7 +72,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Tour of attic and Weston Studio",
             "notes": "",
             "start": "2024-09-15T12:30:00+01:00",
@@ -102,7 +102,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Tour of attic and Weston Studio",
             "notes": "",
             "start": "2024-09-15T15:30:00+01:00",
@@ -180,6 +180,22 @@
         }
     ],
     "links": [
+        {
+            "href": "https://hogarthshouse.org/",
+            "title": "hogarthshouse.org"
+        },
+        {
+            "href": "https://www.facebook.com/pages/Hogarths-House/",
+            "title": "www.facebook.com/pages/Hogarths-House"
+        },
+        {
+            "href": "https://www.instagram.com/hogarthshousechiswick/",
+            "title": "www.instagram.com/hogarthshousechiswick"
+        },
+        {
+            "href": "https://x.com/HogarthsHouse",
+            "title": "x.com/HogarthsHouse"
+        },
         {
             "href": "www.artiststudiomuseum.org",
             "title": null

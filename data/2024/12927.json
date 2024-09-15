@@ -28,7 +28,7 @@
             "end": "2024-09-14T13:45:00+01:00",
             "fully_booked": false,
             "name": "Scents of Southall Manor - Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T13:00:00+01:00",
             "ticketed": true
         },
@@ -43,7 +43,7 @@
             "end": "2024-09-14T14:30:00+01:00",
             "fully_booked": false,
             "name": "Scents of Southall Manor - Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T13:45:00+01:00",
             "ticketed": true
         },
@@ -58,7 +58,7 @@
             "end": "2024-09-14T15:15:00+01:00",
             "fully_booked": false,
             "name": "Scents of Southall Manor - Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:30:00+01:00",
             "ticketed": true
         },
@@ -73,7 +73,7 @@
             "end": "2024-09-14T16:15:00+01:00",
             "fully_booked": false,
             "name": "Scents of Southall Manor - Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T15:30:00+01:00",
             "ticketed": true
         },
@@ -88,7 +88,7 @@
             "end": "2024-09-14T17:00:00+01:00",
             "fully_booked": false,
             "name": "Scents of Southall Manor - Guided Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T16:15:00+01:00",
             "ticketed": true
         },
@@ -101,7 +101,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T13:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Scents of Southall Manor - Guided Tour",
             "notes": "",
             "start": "2024-09-15T13:00:00+01:00",
@@ -348,7 +348,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12927_southall-manor-house_c7c93a77b580ebddb32df34ab6ccc65b.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.aroundealing.com/history/southall-manor-house/",
+            "title": "www.aroundealing.com/history/southall-manor-house"
+        }
+    ],
     "location": {
         "address": "Southall Manor House, The Green, Southall, UB2 4BJ",
         "latitude": 51.50235,

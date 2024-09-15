@@ -76,7 +76,7 @@
             "date": "2024-09-21",
             "drop_in": false,
             "end": "2024-09-21T12:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour",
             "notes": "",
             "start": "2024-09-21T11:30:00+01:00",
@@ -300,7 +300,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_7607_105_the-department-store_squire-and-partners-james-jones_72c3f5530a2e94a787a155eab531c343.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://squireandpartners.com/",
+            "title": "squireandpartners.com"
+        },
+        {
+            "href": "https://www.instagram.com/squirepartners/",
+            "title": "www.instagram.com/squirepartners"
+        }
+    ],
     "location": {
         "address": "The Department Store, 248 Ferndale Road, SW9 8FR",
         "latitude": 51.4640281,

@@ -20,7 +20,7 @@
             "end": "2024-09-14T12:30:00+01:00",
             "fully_booked": false,
             "name": "Walking Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:00:00+01:00",
             "ticketed": true
         },
@@ -35,7 +35,7 @@
             "end": "2024-09-14T16:00:00+01:00",
             "fully_booked": false,
             "name": "Walking Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:30:00+01:00",
             "ticketed": true
         }
@@ -116,7 +116,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12660_20240722_163405_6ccccb542e9999d0675401735613f978.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.nickferguson.co.uk",
+            "title": "www.nickferguson.co.uk"
+        },
+        {
+            "href": "https://www.instagram.com/nickferguson77",
+            "title": "www.instagram.com/nickferguson77"
+        }
+    ],
     "location": {
         "address": "The Five Bells, UB7 0AQ",
         "latitude": 51.48888,

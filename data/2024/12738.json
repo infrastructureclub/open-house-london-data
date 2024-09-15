@@ -26,7 +26,7 @@
             "date": "2024-09-21",
             "drop_in": false,
             "end": "2024-09-21T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Wood Green Creative Spaces and Places Tour",
             "notes": "",
             "start": "2024-09-21T14:00:00+01:00",
@@ -61,7 +61,20 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12738_02-wg-creative-spaces-and-places-tour_8b43e7660bdd0b20894eabfb00368466.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://new.haringey.gov.uk/",
+            "title": "new.haringey.gov.uk"
+        },
+        {
+            "href": "https://www.instagram.com/haringeycouncil/",
+            "title": "www.instagram.com/haringeycouncil"
+        },
+        {
+            "href": "https://www.linkedin.com/company/haringey/mycompany/verification/",
+            "title": "www.linkedin.com/company/haringey/mycompany/verification"
+        }
+    ],
     "location": {
         "address": "Outside the entrance to River Park House opposite Wood Green undergro",
         "latitude": 51.59753,

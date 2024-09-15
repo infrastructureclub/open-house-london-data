@@ -62,7 +62,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Walk: Creativity Unwrapped",
             "notes": "Explore the fascinating history of the Cemetery, which offers a unique blend of Jewish traditions and Victorian funerary architecture.",
             "start": "2024-09-15T11:00:00+01:00",
@@ -133,7 +133,20 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_6847_dsc2838_aaafbdc137348581d49fc178833e161d.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.instagram.com/willesdencemetery/",
+            "title": "www.instagram.com/willesdencemetery"
+        },
+        {
+            "href": "https://www.willesdenjewishcemetery.org.uk/",
+            "title": "www.willesdenjewishcemetery.org.uk"
+        },
+        {
+            "href": "https://www.facebook.com/WillesdenCemetery/",
+            "title": "www.facebook.com/WillesdenCemetery"
+        }
+    ],
     "location": {
         "address": "Willesden Jewish Cemetery, Beaconsfield Road, NW10 2JE",
         "latitude": 51.5476111,

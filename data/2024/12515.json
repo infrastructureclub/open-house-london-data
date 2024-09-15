@@ -58,7 +58,7 @@
             "end": "2024-09-14T11:00:00+01:00",
             "fully_booked": false,
             "name": "Open Day",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T10:00:00+01:00",
             "ticketed": true
         },
@@ -73,7 +73,7 @@
             "end": "2024-09-14T13:00:00+01:00",
             "fully_booked": false,
             "name": "Open Day",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T12:00:00+01:00",
             "ticketed": true
         },
@@ -88,7 +88,7 @@
             "end": "2024-09-14T16:00:00+01:00",
             "fully_booked": false,
             "name": "Open Day",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T15:00:00+01:00",
             "ticketed": true
         },
@@ -101,7 +101,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T11:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Open Day",
             "notes": "",
             "start": "2024-09-15T10:00:00+01:00",
@@ -116,7 +116,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Open Day",
             "notes": "",
             "start": "2024-09-15T12:00:00+01:00",
@@ -178,7 +178,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12515_img_1979_f2389ae1c80e3b864864f1f02c8c0e15.jpeg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.londonpicturearchive.org.uk/view-item?i=122940&WINID=1715635873331",
+            "title": "www.londonpicturearchive.org.uk/view-item?i=122940&WINID=1715635873331"
+        },
+        {
+            "href": "https://www.iwm.org.uk/memorials/item/memorial/53173#",
+            "title": "www.iwm.org.uk/memorials/item/memorial/53173#"
+        }
+    ],
     "location": {
         "address": "747 Commercial Road, Limehouse, E14 7LE",
         "latitude": 51.51261,

@@ -26,7 +26,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T11:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "10:30am Studio Visit",
             "notes": "Studio Visit",
             "start": "2024-09-15T10:30:00+01:00",
@@ -41,7 +41,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T11:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "11:00am Studio Visit",
             "notes": "Studio Visit",
             "start": "2024-09-15T11:00:00+01:00",
@@ -71,7 +71,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "12noon Studio Visit",
             "notes": "Studio Visit",
             "start": "2024-09-15T12:00:00+01:00",
@@ -86,7 +86,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T13:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "1pm Studio Visit",
             "notes": "Studio Visit",
             "start": "2024-09-15T13:00:00+01:00",
@@ -101,7 +101,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T14:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "1:30pm Studio Visit",
             "notes": "Studio Visit",
             "start": "2024-09-15T13:30:00+01:00",
@@ -116,7 +116,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T14:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "2:00pm Studio Visit",
             "notes": "Studio Visit",
             "start": "2024-09-15T14:00:00+01:00",
@@ -146,7 +146,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T15:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "3:00pm Studio Visit",
             "notes": "Studio Visit",
             "start": "2024-09-15T15:00:00+01:00",
@@ -161,7 +161,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "3:30pm Studio Visit",
             "notes": "Studio Visit",
             "start": "2024-09-15T15:30:00+01:00",
@@ -212,7 +212,20 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12790_garden-hide-10_f7395e1167756edfaf7df89048046ecb.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://commonbond.studio",
+            "title": "commonbond.studio"
+        },
+        {
+            "href": "https://www.instagram.com/gardenhide.studio/",
+            "title": "www.instagram.com/gardenhide.studio"
+        },
+        {
+            "href": "https://www.instagram.com/commonbond.architects/",
+            "title": "www.instagram.com/commonbond.architects"
+        }
+    ],
     "location": {
         "address": "1A Bendmore Avenue, SE2 0EY",
         "latitude": 51.48607,

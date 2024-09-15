@@ -29,7 +29,7 @@
             "end": "2024-09-14T11:30:00+01:00",
             "fully_booked": false,
             "name": "Guided tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T10:30:00+01:00",
             "ticketed": true
         },
@@ -44,7 +44,7 @@
             "end": "2024-09-14T12:30:00+01:00",
             "fully_booked": false,
             "name": "Guided tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T11:30:00+01:00",
             "ticketed": true
         },
@@ -59,7 +59,7 @@
             "end": "2024-09-14T14:00:00+01:00",
             "fully_booked": false,
             "name": "Guided tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T13:00:00+01:00",
             "ticketed": true
         },
@@ -74,7 +74,7 @@
             "end": "2024-09-14T15:00:00+01:00",
             "fully_booked": false,
             "name": "Guided tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T14:00:00+01:00",
             "ticketed": true
         }
@@ -125,7 +125,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1048_selected-mml-21-9-15-283_d5e1dd69ca213c076d478dc31a820c34.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "http://www.marx-memorial-library.org.uk",
+            "title": "www.marx-memorial-library.org.uk"
+        },
+        {
+            "href": "https://twitter.com/MarxLibrary",
+            "title": "twitter.com/MarxLibrary"
+        }
+    ],
     "location": {
         "address": "37a Clerkenwell Green, EC1R 0DU",
         "latitude": 51.5229739,

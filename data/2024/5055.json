@@ -59,7 +59,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Architectural Tours by Wright & Wright Architects",
             "notes": "You will need to sign up for a free ticket to join these tours led by Stephen Smith, Partner at Wright & Wright Architects.",
             "start": "2024-09-15T12:00:00+01:00",
@@ -74,7 +74,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T13:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Architectural Tours by Wright & Wright Architects",
             "notes": "You will need to sign up for a free ticket to join these tours led by Stephen Smith, Partner at Wright & Wright Architects.",
             "start": "2024-09-15T13:00:00+01:00",
@@ -187,6 +187,22 @@
         }
     ],
     "links": [
+        {
+            "href": "https://www.thebritishacademy.ac.uk/",
+            "title": "www.thebritishacademy.ac.uk"
+        },
+        {
+            "href": "https://www.instagram.com/thebritishacademy/",
+            "title": "www.instagram.com/thebritishacademy"
+        },
+        {
+            "href": "https://x.com/BritishAcademy",
+            "title": "x.com/BritishAcademy"
+        },
+        {
+            "href": "https://www.linkedin.com/company/the-british-academy-/",
+            "title": "www.linkedin.com/company/the-british-academy-"
+        },
         {
             "href": "www.thebritishacademy.ac.uk",
             "title": null

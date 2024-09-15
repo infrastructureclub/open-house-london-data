@@ -20,7 +20,7 @@
             "date": "2024-09-21",
             "drop_in": false,
             "end": "2024-09-21T16:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Tour",
             "notes": "",
             "start": "2024-09-21T15:00:00+01:00",
@@ -51,7 +51,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12803_160422_dma_aylesbury_models_019_20d41c8c67ae5a2bf971a1216e6bf737.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://morrisand.company/",
+            "title": "morrisand.company"
+        },
+        {
+            "href": "https://www.instagram.com/moco_arch",
+            "title": "www.instagram.com/moco_arch"
+        }
+    ],
     "location": {
         "address": "215 Mare Street, E8 3QE",
         "latitude": 51.54152,

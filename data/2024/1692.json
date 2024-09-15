@@ -43,7 +43,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "Guided tour of all floors of the building including theatre, wardrobe and watchtower, including views through newly replaced clear glass.",
             "start": "2024-09-15T12:00:00+01:00",
@@ -58,7 +58,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T14:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "Guided tour of all floors of the building including theatre, wardrobe and watchtower, including views through newly replaced clear glass.",
             "start": "2024-09-15T13:00:00+01:00",
@@ -191,6 +191,22 @@
         }
     ],
     "links": [
+        {
+            "href": "https://www.southlondontheatre.co.uk/",
+            "title": "www.southlondontheatre.co.uk"
+        },
+        {
+            "href": "https://www.facebook.com/southlondontheatre",
+            "title": "www.facebook.com/southlondontheatre"
+        },
+        {
+            "href": "https://twitter.com/SLTheatre",
+            "title": "twitter.com/SLTheatre"
+        },
+        {
+            "href": "https://www.instagram.com/southlondontheatre/",
+            "title": "www.instagram.com/southlondontheatre"
+        },
         {
             "href": "www.southlondontheatre.co.uk",
             "title": null

@@ -48,7 +48,7 @@
             "date": "2024-09-21",
             "drop_in": false,
             "end": "2024-09-21T11:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Expert architecture tour - Royal College of Physicians",
             "notes": "Join an expert guide to explore one of London’s most important and provocative buildings discovering key features of Denys Lasdun’s design.",
             "start": "2024-09-21T10:30:00+01:00",
@@ -260,7 +260,24 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_1527_main-hall-2_0b1339dbb001622e33b26cac71dcf8a7.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://history.rcplondon.ac.uk/",
+            "title": "history.rcplondon.ac.uk"
+        },
+        {
+            "href": "https://www.facebook.com/RCPMuseum/",
+            "title": "www.facebook.com/RCPMuseum"
+        },
+        {
+            "href": "https://www.instagram.com/rcpmuseum/",
+            "title": "www.instagram.com/rcpmuseum"
+        },
+        {
+            "href": "https://twitter.com/RCPmuseum",
+            "title": "twitter.com/RCPmuseum"
+        }
+    ],
     "location": {
         "address": "11 St Andrew's Place, Regent's Park, NW1 4LE",
         "latitude": 51.5258654,

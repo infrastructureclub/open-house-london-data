@@ -65,7 +65,7 @@
             "date": "2024-09-21",
             "drop_in": false,
             "end": "2024-09-21T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Costumed Interpretation tour",
             "notes": "Costumed Interpretation tour with portrayal of Lady Mary Reade, who Boston Manor House was originally built for in 1622-23.",
             "start": "2024-09-21T15:00:00+01:00",
@@ -112,7 +112,24 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_10142_boston-manor-house-view-from-park-lake_1374c93e6b177cad683819c569dfe1c8.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://bostonmanorhouse.org/",
+            "title": "bostonmanorhouse.org"
+        },
+        {
+            "href": "https://www.instagram.com/bostonmanorhouse/",
+            "title": "www.instagram.com/bostonmanorhouse"
+        },
+        {
+            "href": "https://www.facebook.com/people/Boston-Manor-House/100025624776949/",
+            "title": "www.facebook.com/people/Boston-Manor-House/100025624776949"
+        },
+        {
+            "href": "https://x.com/BostonMnrHouse",
+            "title": "x.com/BostonMnrHouse"
+        }
+    ],
     "location": {
         "address": "Boston Manor House, Boston Manor Road, Brentford, TW8 9JX",
         "latitude": 51.49191829999999,

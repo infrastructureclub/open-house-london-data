@@ -18,7 +18,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T12:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "A Lambeth Walk",
             "notes": "",
             "start": "2024-09-15T11:30:00+01:00",
@@ -33,7 +33,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T14:15:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "A Lambeth Walk",
             "notes": "",
             "start": "2024-09-15T13:15:00+01:00",
@@ -97,7 +97,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12719_screenshot_20240820-142811_gmail_e89ebc3b8e6e2aea35024536f2bc3aab.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.lambethtourguides.org",
+            "title": "www.lambethtourguides.org"
+        },
+        {
+            "href": "https://x.com/GuidesLambeth",
+            "title": "x.com/GuidesLambeth"
+        }
+    ],
     "location": {
         "address": "St Mary's Gardens, Lambeth Road, SE1 7ND",
         "latitude": 51.49463,

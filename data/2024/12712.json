@@ -48,7 +48,7 @@
             "date": "2024-09-22",
             "drop_in": false,
             "end": "2024-09-22T16:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided Walk and Talk",
             "notes": "",
             "start": "2024-09-22T14:00:00+01:00",
@@ -107,7 +107,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12712_future-heritage-walk_hidden-house-project_3_d8905bde3740463c6befd10611b9ff5d.jpeg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.hiddenhouseproject.com/",
+            "title": "www.hiddenhouseproject.com"
+        },
+        {
+            "href": "https://www.instagram.com/hiddenhouseproject",
+            "title": "www.instagram.com/hiddenhouseproject"
+        }
+    ],
     "location": {
         "address": "London Fields Overground Station, E8 3PA",
         "latitude": 51.54104,

@@ -24,7 +24,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T11:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Upper Shirley walking tour",
             "notes": "",
             "start": "2024-09-15T10:00:00+01:00",
@@ -75,7 +75,28 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12559_mha-the-wilderness-gardens-teaching-resources-profile-image_ee95dc9d89d75d421db70bf014be3f67.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://stanleyarts.org/",
+            "title": "stanleyarts.org"
+        },
+        {
+            "href": "https://www.instagram.com/stanleyarts.uk/",
+            "title": "www.instagram.com/stanleyarts.uk"
+        },
+        {
+            "href": "https://www.mha.org.uk/care-support/types-care-support/green-care/wilderness",
+            "title": "www.mha.org.uk/care-support/types-care-support/green-care/wilderness"
+        },
+        {
+            "href": "https://www.shirleywindmill.org.uk/",
+            "title": "www.shirleywindmill.org.uk"
+        },
+        {
+            "href": "https://www.facebook.com/MHAtheWilderness/",
+            "title": "www.facebook.com/MHAtheWilderness"
+        }
+    ],
     "location": {
         "address": "Outside Shirley Windmill, Postmill Close, Croydon, CR0 5DY",
         "latitude": 51.36888,

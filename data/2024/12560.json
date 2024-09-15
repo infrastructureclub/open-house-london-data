@@ -43,7 +43,7 @@
             "end": "2024-09-14T16:00:00+01:00",
             "fully_booked": false,
             "name": "Open Day",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T10:00:00+01:00",
             "ticketed": true
         },
@@ -56,7 +56,7 @@
             "date": "2024-09-15",
             "drop_in": false,
             "end": "2024-09-15T16:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Open Day",
             "notes": "",
             "start": "2024-09-15T10:00:00+01:00",
@@ -129,7 +129,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12560_princelet-street-4_230f5f39d03fb39992446f7409ffe80f.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.instagram.com/landmark_engagement/",
+            "title": "www.instagram.com/landmark_engagement"
+        },
+        {
+            "href": "https://twitter.com/LandmarkEngage1",
+            "title": "twitter.com/LandmarkEngage1"
+        }
+    ],
     "location": {
         "address": "13 Princelet Street, E1 6QH",
         "latitude": 51.51986,

@@ -31,7 +31,7 @@
             "end": "2024-09-14T12:15:00+01:00",
             "fully_booked": false,
             "name": "InStreatham Art Deco Walking Tour",
-            "notes": "Please ",
+            "notes": "",
             "start": "2024-09-14T10:30:00+01:00",
             "ticketed": true
         }
@@ -77,7 +77,16 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12453_1836572_b4c24a8f-1_97bc396ea3affd313781da547d82bb84.jpg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://instreatham.com/",
+            "title": "instreatham.com"
+        },
+        {
+            "href": "https://www.instagram.com/instreatham/",
+            "title": "www.instagram.com/instreatham"
+        }
+    ],
     "location": {
         "address": "Pullman Court, Arriva London - Brixton Garage, SW2 4SZ",
         "latitude": 51.44284,
