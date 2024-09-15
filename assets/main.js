@@ -194,8 +194,8 @@
     data.push(`<dt>New this year</dt><dd>${new_venue_this_year}</dd>`);
     const coords = feature.geometry.coordinates;
     const latlng = `${coords[1]},${coords[0]}`;
-    const gmapsParams = new URLSearchParams({'api': 1, 'destination': latlng});
-    const gmapsUrl = `https://www.google.com/maps/dir/?${gmapsParams}`;
+    const gmapsParams = new URLSearchParams({'api': 1, 'query': latlng});
+    const gmapsUrl = `https://www.google.com/maps/search/?${gmapsParams}`;
     const cmParams = new URLSearchParams({'endcoord': latlng, 'endname': name});
     const date = document.forms.filter.date.value;
     const faveData = favourites[id]?.[date];
