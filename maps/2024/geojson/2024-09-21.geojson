@@ -407,7 +407,7 @@
                 "balloted": "No",
                 "description": "Founded to house the widows of clergymen, the original building consisted of 20 houses built around a classically-styled quadrangle. Captain Richard Ryder – one of Sir Christopher Wren's surveyors – was in charge of design and construction.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/555/building_555_100_0882_c4ffd6b29473be783fd23628739fb2d1.jpg",
@@ -2213,7 +2213,7 @@
                 "balloted": "No",
                 "description": "Join architects Studio Weave and the Waltham Forest Culture team to go behind the scenes at the museum. The Grade II-listed building was constructed in 1730 to house the parish workhouse. After a variety of other uses it opened as Walthamstow Museum in 1931. The museum is currently closed for transformation into a fully accessible and inclusive museum, join a tour to hear about the plans.",
                 "end": "16:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2263/building_2263_vestry_pressimages_vitrinedisplay-small_64f9863429d7814dc9ab2855fb612c8d.jpg",
@@ -2295,7 +2295,7 @@
                 "balloted": "No",
                 "description": "The sixth livery hall to be built on a site owned by the Company since 1501. The 1958 building stands on part of 1854 hall largely destroyed in WWII. East wall recently refaced. Completely refurbished and remodelled internally 2006/7.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2310/building_2310_hall-bdg-fm-north-to-south_874ec04e8b2d03b54ec78a816886610b.jpg",
@@ -2651,21 +2651,41 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A large Grade II* listed parish church - one of Scott's finest designs. Key features include the magnificent east window by Ruskin. Interior recently redecorated and restored together with recently restored spire.",
+                "description": "A large Grade II* listed parish church - built in 1844 it was the first church designed by George Gilbert Scott, grandfather of Giles Gilbert Scott (Tate Modern), to replace the previous medieval church that burnt down. \r\n\r\nKey features include the magnificent east window by Ruskin and a Wesley designed organ that is most famous as the origin of ORGANOKE.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2505/building_2505_st-giles_0664e5eb5f173393f575883114bbb950.jpg",
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2505/building_2505_st-giles-parish-church_1_2a1b11778f9e3c2879ca8e2aa396e019.jpg",
+                        "title": "St Giles' Camberwell. Built 1844 by George Gilbert Scott. Window designed by John Ruskin"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2505/building_2505_web_st-giles-parish-church_2_9c7052ef87ed0944d5d032f7df57171c.jpg",
+                        "title": "Chancel with John Ruskin designed East Window"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2505/building_2505_web_st-giles-parish-church_17_39eda9898e100ebb4eb0ac821352f4ac.jpg",
+                        "title": "St Giles' Exterior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2505/building_2505_web_st-giles-parish-church_5_d934d6202852586d922bbade46ffaccb.jpg",
+                        "title": "Ceiling Detail"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2505/building_2505_web_st-giles-parish-church_18_3a277797c59539469fce8f4dab2d09bb.jpg",
+                        "title": "St Giles from the churchyard"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2505/building_2505_web_st-giles-parish-church_11_3856c87e5661c4140193b123dfd1d08b.jpg",
+                        "title": "Organ designed by Samuel Sebastian Wesley, grandson of Charles Wesley."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2505/building_2505_web_st-giles-parish-church_13_c1362a7bf7e9aef7b81216820875ce68.jpg",
                         "title": null
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2505/building_2505_20170402_191541_15619816d09b7c8751b514ed6100bb11.jpg",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2505/building_2505_st-giles-christmas-day_d9b2879fbcd47c7e04e23a3277b8260b.jpg",
-                        "title": null
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/2505/building_2505_web_st-giles-parish-church_22_2b85615765b96d743c9b3cfacd1d23d1.jpg",
+                        "title": "East Window, designed by John Ruskin"
                     }
                 ],
                 "name": "St Giles Parish Church, Camberwell",
@@ -11299,7 +11319,23 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12589/building_12589_01_peckhamhouse_photographerpercyweston_91c0a06d02b0c401303832ddc7c40083.jpg",
-                        "title": null
+                        "title": "Image credit: Percy Weston"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12589/building_12589_peckhamhouse_photographerjimstephenson_ribaj_highres_04webres_e104d8d9f1db8f0e8d2a2fe7e25b2640.jpg",
+                        "title": "Image credit: Jim Stephenson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12589/building_12589_peckhamhouse_photographerjimstephenson_ribaj_highres_08webres_7ca74ceb705ecbb85e7d32a370aa3d76.jpg",
+                        "title": "Image credit: Jim Stephenson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12589/building_12589_peckham-jimstephenson-73webres_e0f4c4ff897385812f4c9f90d5218583.jpg",
+                        "title": "Image credit: Jim Stephenson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12589/building_12589_peckham-jimstephenson-38awebres_9b3fcac5028affe9af5503fd6abbc535.jpg",
+                        "title": "Image credit: Jim Stephenson"
                     }
                 ],
                 "name": "Peckham House",
@@ -13864,7 +13900,7 @@
                 "balloted": "No",
                 "description": "Muphoria Gallery based on Berwick Street, Soho, is London's first music art gallery, exhibiting pop art and musical instruments created by UK artists. We will be hosting a walking tour around the musically important buildings of Soho.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12928/building_12928_muphoria-front1_3a378198633ac3ff5ce75e6372e9d7b3.jpg",
