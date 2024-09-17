@@ -4759,7 +4759,7 @@
                         "title": "View from Lincoln's Inn Fields © Ed Reeve"
                     }
                 ],
-                "name": "The Marshall Building - London School of Economics and Political Science",
+                "name": "The Marshall Building",
                 "new_venue_this_year": "No",
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
@@ -4779,7 +4779,7 @@
                 "balloted": "No",
                 "description": "A tour of one of the largest and best preserved early Victorian squares and gardens in London, also with a magnificent and original public library of 1906, which shows Byzantine and Art Nouveau influences, and a remarkable Gothic church. Refreshments available.",
                 "end": "16:40:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/10893/building_10893_eabf12ee-f57b-4e22-9f37-aa763d767248_144ca243da7ba76b203a05d3a30ce8ab.png",
@@ -5028,7 +5028,7 @@
                 "balloted": "No",
                 "description": "A victorian mid terrace house with a dark blue exterior and a zany tiled front garden. Full of original features without being dictated by the era, colour continues inside with a yellow rubber floor in the kitchen.",
                 "end": "15:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/11119/building_11119_img_0882_b1eebda4b3591649c5360318dd18b3a0.jpg",
@@ -6735,7 +6735,7 @@
                 "balloted": "No",
                 "description": "Mother has been in the Biscuit Building since 2006, it was designed by Clive Wilkinson Architects. It is a four-story creative workspace, with the design centred around a 14-foot wide staircase through the building from ground to loading level to first floor and then second floor. A table, which accommodates Mother staff, is shaped as a continuous ribbon with this staircase.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12532/building_12532_screenshot-2024-06-07-at-18-57-53_be63de4f7eda0075d97ff06abe38ee83.png",
@@ -8622,6 +8622,41 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12947"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1898,
+                    51.48404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "An exhibition of work by artists Flora Hunt and Lac Milan at The Chapel, Brompton Cemetery. \r\n\r\nThis grade II listed, domed 19th century chapel at one of London’s ‘Magnificent Seven’ cemeteries will be open for the weekend, hosting an exhibition exploring urban space, nature, anxiety, local history and community, featuring drawing, sculpture, film and a participatory communal singing project.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12956/building_12956_brompton-cemetery-open-house-image_5fb95d095550b761f60d92320aefd143.jpg",
+                        "title": "Let These Fabulous Hands Be the Guide at The Chapel at Brompton Cemetery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12956/building_12956_lax-drawing_e064330e115ceedf2c860c85f166c746.jpeg",
+                        "title": "Work by Lac Milan"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2024/12956/building_12956_18-a-pair-of-gigantic-hands_2c68624d369e06b47550f35dd60e9729.jpeg",
+                        "title": "Work by Flora Hunt"
+                    }
+                ],
+                "name": "Let These Fabulous Hands Be the Guide",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12956"
             },
             "type": "Feature"
         }
