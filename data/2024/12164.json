@@ -71,6 +71,21 @@
             "capacity": null,
             "date": "2024-09-22",
             "drop_in": true,
+            "end": "2024-09-22T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Arts & Crafts with Wild Minds",
+            "notes": "Join Sara and make your own mosaic-inspired artwork. Suitable for all ages. Materials provided.",
+            "start": "2024-09-22T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": true,
             "end": "2024-09-22T15:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Insect Stories with guest \"Little Sing Song\"",
@@ -214,21 +229,6 @@
             "ticketed": true
         },
         {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T14:30:00+01:00",
-            "fully_booked": false,
-            "name": "Vinyasa Flow Yoga Taster with Jessica Green",
-            "notes": "Join Good Shepherd Studios regular Jessica for high spirited yoga and relaxation that will leave you feeling more open, aware and alive.",
-            "start": "2024-09-22T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
             "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
@@ -240,6 +240,21 @@
             "fully_booked": false,
             "name": "Building Tour | Good Shepherd Studios",
             "notes": "Find out about the building's history, see \"behind the scenes\" in artists'/creators' studios and hear about exciting future plans.",
+            "start": "2024-09-22T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Other",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2024-09-22",
+            "drop_in": false,
+            "end": "2024-09-22T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Vinyasa Flow Yoga Taster with Jessica Green",
+            "notes": "Join Good Shepherd Studios regular Jessica for high spirited yoga and relaxation that will leave you feeling more open, aware and alive.",
             "start": "2024-09-22T14:00:00+01:00",
             "ticketed": true
         },
@@ -320,7 +335,7 @@
         {
             "heading": "History",
             "paragraphs": [
-                "Good Shepherd Studios is a building within a site located on a residential street off Leytonstone High Road. The site also comprises of the Pastures Centre and Our Pastures Community Garen.",
+                "Good Shepherd Studios is a building within a site located on a residential street off Leytonstone High Road. The site also comprises of the Pastures Centre and Our Pastures Community Garden.",
                 "The building was previously known as the Good Shepherd Building and was built around 1880 to facilitate a home for “fallen” girls.",
                 "Fast-forward a few decades and the site is now owned by the London Borough of Waltham Forest. In 2020 the buildings were under threat of demolition and redevelopment and became the subject of the “Save Our Pastures” community-led campaign.",
                 "After much petitioning, the site was saved and the Council invited bids to take a lease of the Good Shepherd Building. After a successful proposal, work commenced in August 2022  to bring the building back to life in the form of Good Shepherds Studios. Home to a collection of design-led co-working and community spaces, the foundations of Good Shepherd Studios are now in place and the community are being involved in the direction the space will take."
@@ -329,7 +344,7 @@
         {
             "heading": "Our Neighbours",
             "paragraphs": [
-                "The site is shared between Good Shepherd Studios (which includes the building, garden and outdoor \"People's Pavilion\"), Our Pastures Community Garden and Pastures Leisure Centre and Lawn.",
+                "The site is shared between Good Shepherd Studios (which includes the building, garden and outdoor \"People's Pavilion\"), Our Pastures Community Garden and the Pastures Centre and Lawn.",
                 "The Community Garden is run by volunteers who invite gardeners of all levels to join them on Saturdays and Sundays 10.00-13.00.",
                 "The Pastures Centre and Lawn is run by Waltham Forest Council and used for a number of leisure and sporting events as well as a weekday centre and art project (Snaresbrook Arts Project) for adults with learning difficulties."
             ]
