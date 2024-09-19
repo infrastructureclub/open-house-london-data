@@ -42,7 +42,7 @@
             "date": "2024-09-21",
             "drop_in": false,
             "end": "2024-09-21T11:15:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Tours of the Estate",
             "notes": "",
             "start": "2024-09-21T10:30:00+01:00",
@@ -147,7 +147,7 @@
             "date": "2024-09-21",
             "drop_in": false,
             "end": "2024-09-21T14:45:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Tours of the Estate",
             "notes": "",
             "start": "2024-09-21T14:00:00+01:00",
@@ -192,19 +192,22 @@
             "date": "2024-09-21",
             "drop_in": false,
             "end": "2024-09-21T16:15:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Tours of the Estate",
             "notes": "",
             "start": "2024-09-21T15:30:00+01:00",
             "ticketed": true
         }
     ],
-    "facilities": [],
+    "facilities": [
+        "Seating available",
+        "Toilets"
+    ],
     "factsheet": [
         {
             "heading": "Architectural Heritage",
             "paragraphs": [
-                "Lillington Gardens in Pimlico, Westminster, was built from 1961 to 1971 by Roger Westman and Darbourne & Darke. It set a new standard in high-density public housing with medium-rise structures and private gardens. Blending well with nearby Victorian surroundings, the modernist design won multiple awards and was praised by Nikolaus Pevsner as \"the most interesting recent housing in inner London."
+                "Lillington Gardens in Pimlico, Westminster, was built from 1961 to 1971 by Roger Westman and Darbourne & Darke. It set a new standard in high-density public housing with medium-rise structures and private gardens. Blending well with nearby Victorian surroundings, the modernist design won multiple awards and was praised by Nikolaus Pevsner as \"the most interesting recent housing in inner London\"."
             ]
         }
     ],
@@ -250,7 +253,8 @@
         "travel_info": [
             "Tube: Pimlico, Vauxhall, Victoria",
             "Train: Victoria",
-            "Bus: 185, 2, 24, 36"
+            "Bus: 185, 2, 24, 36",
+            "Additional travel info: Meeting point: The Community Centre, Lillington Gardens (off Charlwood Street)."
         ]
     },
     "name": "Lillington Gardens Estate",
