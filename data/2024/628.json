@@ -17,98 +17,7 @@
             "historical house"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": true,
-            "end": "2024-09-15T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Videos of upper floors",
-            "notes": "Videos of upper floors will be running on a loop in the Weston Studio, which is on the ground floor and fully accessible.",
-            "start": "2024-09-15T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": true,
-            "end": "2024-09-15T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Archive items and Q&A",
-            "notes": "Selected archive items will be on display with a member of staff available for Q&A.",
-            "start": "2024-09-15T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open studio Trace Monotype printing session",
-            "notes": "Artist Charlotte Cooper will showcase a Trace Monotype printing demo at the Weston Studio, guiding visitors to create a printed collage.",
-            "start": "2024-09-21T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/628",
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": false,
-            "end": "2024-09-15T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Tour of attic and Weston Studio",
-            "notes": "",
-            "start": "2024-09-15T12:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/628",
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": false,
-            "end": "2024-09-15T14:30:00+01:00",
-            "fully_booked": false,
-            "name": "Tour of attic and Weston Studio",
-            "notes": "",
-            "start": "2024-09-15T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/628",
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": false,
-            "end": "2024-09-15T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Tour of attic and Weston Studio",
-            "notes": "",
-            "start": "2024-09-15T15:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -215,5 +124,5 @@
     "name": "Hogarth's House",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/628",
-    "ticketed_events": true
+    "ticketed_events": false
 }

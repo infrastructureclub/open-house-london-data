@@ -19,53 +19,7 @@
             "online"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "Visit the museum, see our exhibition \"San Francisco in Kingston; Muybridge and Panoramas\"  and try out our new audio guide",
-            "start": "2024-09-14T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/781",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Join local tour guide, Julian McCarthy, on a guided tour of the museum",
-            "start": "2024-09-14T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/781",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Join local tour guide, Julian McCarthy, on a guided tour of the museum",
-            "start": "2024-09-14T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -132,5 +86,5 @@
     "name": "Kingston Library, Museum and Art Gallery",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/781",
-    "ticketed_events": true
+    "ticketed_events": false
 }

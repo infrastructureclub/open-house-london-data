@@ -16,98 +16,7 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "Come inside the Brady and meet some of the groups based here.",
-            "start": "2024-09-21T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Family Arts Workshop  with A Team Arts",
-            "notes": "A Team Arts Education who are based at the Brady will host 3 hours of free family arts workshops in the Art Room.",
-            "start": "2024-09-21T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Community Music Open Studio",
-            "notes": "Community Music open their studio.\r\nMeet the staff, see what projects and classes are coming up. Have a go on the equipment.",
-            "start": "2024-09-21T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T12:45:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Brady Girls Film",
-            "notes": "A short film documenting the ex Brady Girls Club youth members, sharing their memories of being at the Brady.",
-            "start": "2024-09-21T12:15:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Outside Edge Theatre Co",
-            "notes": "Meet some of the Outside Edge Theatre Co participants and enjoy a drama taster session in the Studio Theatre.",
-            "start": "2024-09-21T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11669",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T14:45:00+01:00",
-            "fully_booked": false,
-            "name": "Tour of The Brady and it's history as we know it.",
-            "notes": "This is a free tour with limited tickets. Please book.",
-            "start": "2024-09-21T14:15:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -270,5 +179,5 @@
     "name": "Brady Arts and Community Centre",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11669",
-    "ticketed_events": true
+    "ticketed_events": false
 }

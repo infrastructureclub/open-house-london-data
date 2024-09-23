@@ -24,68 +24,7 @@
             "restaurant/bar"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7542",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T11:00:00+01:00",
-            "fully_booked": false,
-            "name": "Tour of BLOQS' factory, workspaces and machinery",
-            "notes": "Founder Al Parra with show you the facility and its offering, alongside sharing BLOQs history and future ambitions",
-            "start": "2024-09-14T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7542",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "BLOQS architectural tour with 5th Studio",
-            "notes": "5th Studio + BLOQS designed the UK's first open-access factory, a 32,000sqft light-filled space blending new build with adaptive resuse.",
-            "start": "2024-09-14T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7542",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "BLOQS architectural tour with 5th Studio",
-            "notes": "5th Studio + BLOQS designed the UK's first open-access factory, a 32,000sqft light-filled space blending new build with adaptive resuse.",
-            "start": "2024-09-14T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7542",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Tour of BLOQS' factory, workspaces and machinery",
-            "notes": "Founder Al Parra with show you the facility and its offering, alongside sharing BLOQs history and future ambitions",
-            "start": "2024-09-14T16:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Toilets",
@@ -225,5 +164,5 @@
     "name": "Bloqs: Tours, Workshops, Exhibition & Performance",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/7542",
-    "ticketed_events": true
+    "ticketed_events": false
 }

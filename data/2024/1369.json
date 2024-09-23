@@ -20,98 +20,7 @@
             "gallery"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": true,
-            "end": "2024-09-15T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Drop-in family workshop",
-            "notes": "Tickets must be pre-booked at www.pitzhanger.org.uk and are for manor & workshop only - does not include entry to Grayson Perry exhibition.",
-            "start": "2024-09-15T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": true,
-            "end": "2024-09-22T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Drop-in family workshop",
-            "notes": "Tickets must be pre-booked at www.pitzhanger.org.uk and are for manor & workshop only - does not include entry to Grayson Perry exhibition.",
-            "start": "2024-09-22T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1369",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open Day",
-            "notes": "Tickets must be pre-booked at www.pitzhanger.org.uk and are for manor only - does not include entry to Grayson Perry exhibition.",
-            "start": "2024-09-14T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1369",
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": false,
-            "end": "2024-09-15T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open Day",
-            "notes": "Tickets must be pre-booked at www.pitzhanger.org.uk and are for manor only - does not include entry to Grayson Perry exhibition.",
-            "start": "2024-09-15T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1369",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open Day",
-            "notes": "Tickets must be pre-booked at www.pitzhanger.org.uk and are for manor only - does not include entry to Grayson Perry exhibition.",
-            "start": "2024-09-21T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1369",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open Day",
-            "notes": "Tickets must be pre-booked at www.pitzhanger.org.uk and are for manor only - does not include entry to Grayson Perry exhibition.",
-            "start": "2024-09-22T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -200,5 +109,5 @@
     "name": "Pitzhanger Manor & Gallery",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1369",
-    "ticketed_events": true
+    "ticketed_events": false
 }

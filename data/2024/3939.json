@@ -18,113 +18,7 @@
             "museum"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Crafts at Honeywood",
-            "notes": "Make a card model of Honeywood in its beautiful setting on the edge of Carshalton Ponds and create animal inspired headbands! Free",
-            "start": "2024-09-14T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Queen Mary’s Carshalton – 50 Eventful Years (1909-59)",
-            "notes": "Exploring Queen Mary’s Hospital: from its founding vision, pioneering treatments, wartime challenges, and the heroes who shaped its legacy.",
-            "start": "2024-09-14T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: The Diamond Centre...  “Celebrating 50 Years”",
-            "notes": "The centre provides equine therapies to riders of all ages. Find out more in this display whilst exploring memories from the last 50 years.",
-            "start": "2024-09-14T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T11:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Introduction to the House",
-            "notes": "John Phillips explores the history of the house and the people who have lived in Honeywood during the last three centuries.\r\nFree, approx 30",
-            "start": "2024-09-14T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Introduction to the House",
-            "notes": "John Phillips explores the history of the house and the people who have lived in Honeywood during the last three centuries.\r\nFree, approx 30",
-            "start": "2024-09-14T11:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/3939",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Carshalton Ponds Walk",
-            "notes": "Historian John Phillips leads a walk around the Ponds looking at their history, the surrounding buildings and park. Free, meet at Honeywood.",
-            "start": "2024-09-14T14:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/3939",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Carshalton Ponds Walk",
-            "notes": "Historian John Phillips leads a walk around the Ponds looking at their history, the surrounding buildings and park. Free, meet at Honeywood.",
-            "start": "2024-09-14T16:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Toilets",
@@ -213,5 +107,5 @@
     "name": "Honeywood Museum",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/3939",
-    "ticketed_events": true
+    "ticketed_events": false
 }

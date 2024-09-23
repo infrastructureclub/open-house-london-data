@@ -16,38 +16,7 @@
             "industrial"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "A static open day with special tours and kids activities for Open House Weekend",
-            "start": "2024-09-14T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": true,
-            "end": "2024-09-22T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "The museum will be open from 10am to 4pm we will steam at 12.30-1.15pm and 2.30-3.15pm. There will be tours throughout the day.",
-            "start": "2024-09-22T10:00:00+01:00",
-            "ticketed": false
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Toilets"

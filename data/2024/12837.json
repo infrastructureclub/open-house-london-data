@@ -22,68 +22,7 @@
             "art studio"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T18:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Kollektiv Collective",
-            "notes": "Our in house gallery Generation & Display host Kollektiv Collective",
-            "start": "2024-09-14T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": true,
-            "end": "2024-09-15T17:35:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Timing Is Divine",
-            "notes": "Vida Vojić performs her solo alchemical drum work 'Timing Is Divine'\r\nLondon premier.\r\nNo booking but no entry mid performance",
-            "start": "2024-09-15T17:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12837",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drawing Performance Project: Lucy Algar",
-            "notes": "Playful Interrogation of the Body Through Drawing",
-            "start": "2024-09-14T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12837",
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": false,
-            "end": "2024-09-15T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Aventures in Psychophysicality w/ Sarah Walton",
-            "notes": "Sarah Walton, ex Royal Ballet soloist, expands intuitive connection, to each other and the world around us. No experience necessary",
-            "start": "2024-09-15T12:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Drinking water",
         "Family-friendly event",
@@ -146,5 +85,5 @@
     "name": "Queensrollahouse",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12837",
-    "ticketed_events": true
+    "ticketed_events": false
 }

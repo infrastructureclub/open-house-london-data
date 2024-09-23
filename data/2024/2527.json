@@ -24,98 +24,7 @@
             "gallery"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-18",
-            "drop_in": true,
-            "end": "2024-09-18T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open day",
-            "notes": "Explore our beautiful Victorian Gothic Revival Church, its hidden gem, the Chapel of St Sepulchre and marvel at the recent restoration work",
-            "start": "2024-09-18T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open day",
-            "notes": "Explore our beautiful Victorian Gothic Revival Church, its hidden gem, the Chapel of St Sepulchre and marvel at the recent restoration work",
-            "start": "2024-09-21T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2527",
-            "capacity": null,
-            "date": "2024-09-18",
-            "drop_in": false,
-            "end": "2024-09-18T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Join our friendly and knowledgeable volunteer guides for a free highlights tour and learn about St Mary Magdalene’s rich Victorian heritage.",
-            "start": "2024-09-18T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2527",
-            "capacity": null,
-            "date": "2024-09-18",
-            "drop_in": false,
-            "end": "2024-09-18T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Chapel tour",
-            "notes": "Discover our hidden jewel, Sir Ninian Comper's Chapel of St Sepulchre.",
-            "start": "2024-09-18T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2527",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T13:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Join our friendly and knowledgeable volunteer guides for a free highlights tour and learn about St Mary Magdalene’s rich Victorian heritage.",
-            "start": "2024-09-21T12:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2527",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Finding St Mary Magdalene",
-            "notes": "Grab your binoculars to hunt for all of the paintings, statues, stained glass and mosaics depicting the ‘notorious sinner’ St Mary Magdalene",
-            "start": "2024-09-21T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -243,5 +152,5 @@
     "name": "Grand Junction at St Mary Magdalene Church, Paddington",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2527",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -8,98 +8,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Exhibition: regeneration and new council homes",
-            "notes": "",
-            "start": "2024-09-21T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12709",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour: Visit to RLA Viewing Platform",
-            "notes": "Guided Tour to the top of Rosa Luxemburg Apartments for a better view of placemaking across Tottenham Hale, and landscapes of the Lee Valley",
-            "start": "2024-09-21T11:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12709",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour: Visit to RLA Viewing Platform",
-            "notes": "Guided Tour to the top of Rosa Luxemburg Apartments for a better view of placemaking across Tottenham Hale, and landscapes of the Lee Valley",
-            "start": "2024-09-21T12:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12709",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T14:45:00+01:00",
-            "fully_booked": false,
-            "name": "Walking Tour: Down Lane Park, Greening and Co-Design",
-            "notes": "Join Haringey Council for a walking tour exploring the transformational improvements to Down Lane Park co-designed with the community.",
-            "start": "2024-09-21T13:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12709",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour: Visit to RLA Viewing Platform",
-            "notes": "Guided Tour to the top of Rosa Luxemburg Apartments for a better view of placemaking across Tottenham Hale, and landscapes of the Lee Valley",
-            "start": "2024-09-21T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12709",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T17:30:00+01:00",
-            "fully_booked": false,
-            "name": "Walking Tour: A better deal for Tottenham Hale",
-            "notes": "Join Haringey Council exploring the story of Tottenham Hale and an insightful discussion about the journey through 10 years of regeneration.",
-            "start": "2024-09-21T15:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -201,5 +110,5 @@
     "name": "Tottenham Hale & placemaking together",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12709",
-    "ticketed_events": true
+    "ticketed_events": false
 }

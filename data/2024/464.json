@@ -20,38 +20,7 @@
             "museum"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/464",
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": false,
-            "end": "2024-09-15T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Curator Led Tour",
-            "notes": "A Curator Guided Tour of our new Gallery Rooms Through Time 1878 - 2049",
-            "start": "2024-09-15T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/464",
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": false,
-            "end": "2024-09-15T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Curator Led Tour",
-            "notes": "A Curator Guided Tour of our new Gallery Rooms Through Time 1878 - 2049. \r\n\r\nTo book follow the Link Below:",
-            "start": "2024-09-15T13:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -128,5 +97,5 @@
     "name": "Museum of the Home ( Formerly Geffrye Museum)",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/464",
-    "ticketed_events": true
+    "ticketed_events": false
 }

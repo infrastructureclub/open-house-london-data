@@ -23,68 +23,7 @@
             "embassy/high commission"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/5487",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T11:30:00+01:00",
-            "fully_booked": false,
-            "name": "FREE Guided tour",
-            "notes": "",
-            "start": "2024-09-14T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/5487",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T12:15:00+01:00",
-            "fully_booked": false,
-            "name": "FREE Guided tour",
-            "notes": "",
-            "start": "2024-09-14T11:45:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/5487",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "FREE Guided tour",
-            "notes": "",
-            "start": "2024-09-14T12:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/5487",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T13:45:00+01:00",
-            "fully_booked": false,
-            "name": "FREE Guided tour",
-            "notes": "",
-            "start": "2024-09-14T13:15:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Cloakroom",
@@ -162,5 +101,5 @@
     "name": "Embassy of the Republic of Estonia",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/5487",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -43,68 +43,7 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Incredible Edible event",
-            "notes": "Meet the Incredible Edible team and Central Hill residents at their planters to discuss food growing, food security and biodiversity.",
-            "start": "2024-09-14T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/6556",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Walk with Residents",
-            "notes": "Walk with residents and guide discussing housing, regeneration, history, maintenance issues, biodiversity and Green space",
-            "start": "2024-09-14T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/6556",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Lunchtime talk discussion with John Medhurst",
-            "notes": "Talk with John Medhurst, residents, biodiversity experts accompanied by refreshments, plant stalls and Incredible Edible!",
-            "start": "2024-09-14T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/6556",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Walk with residents",
-            "notes": "Guided walk with residents discussing housing, regeneration, history, maintenance, biodiversity and green space.",
-            "start": "2024-09-14T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking"
     ],
@@ -189,5 +128,5 @@
     "name": "Central Hill Estate",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6556",
-    "ticketed_events": true
+    "ticketed_events": false
 }

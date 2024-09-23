@@ -16,23 +16,7 @@
             "offices"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12507",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Tour and Talk",
-            "notes": "This event will open with a presentation, followed by a walking tour of the community hub and business centre.",
-            "start": "2024-09-14T12:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -104,5 +88,5 @@
     "name": "Tooting Works",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12507",
-    "ticketed_events": true
+    "ticketed_events": false
 }

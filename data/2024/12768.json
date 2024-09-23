@@ -16,68 +16,7 @@
             "offices"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12768",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Oru tour",
-            "notes": "",
-            "start": "2024-09-21T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12768",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T14:15:00+01:00",
-            "fully_booked": false,
-            "name": "Mindful Flow Yoga with Kelly Winch",
-            "notes": "A mindful, flowing vinyasa pairing movement with breath, aiming to bring you out of your head and into your body. Suitable for all levels.",
-            "start": "2024-09-21T13:45:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12768",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Pilates with Aya Saotome",
-            "notes": "This is a dynamic class, with a focus on strength and power localised in the key muscles of the body, to support your daily movement.",
-            "start": "2024-09-21T14:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12768",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Oru tour",
-            "notes": "",
-            "start": "2024-09-22T15:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -128,5 +67,5 @@
     "name": "Oru Space",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12768",
-    "ticketed_events": true
+    "ticketed_events": false
 }

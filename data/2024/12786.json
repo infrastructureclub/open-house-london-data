@@ -10,38 +10,7 @@
             "monument"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12786",
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": false,
-            "end": "2024-09-15T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "",
-            "start": "2024-09-15T10:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12786",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "",
-            "start": "2024-09-22T10:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -82,5 +51,5 @@
     "name": "World War 2 in Westminster - a walk",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12786",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -19,113 +19,7 @@
             "online"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Self-guided tours",
-            "notes": "Walk within our walls to discover our Grade I & II* buildings, unique organ, 200+ year legacy, and plans for the future.",
-            "start": "2024-09-14T09:45:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Family activity",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2230",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T10:45:00+01:00",
-            "fully_booked": false,
-            "name": "WOOFYT Family Organ Building Workshop - Ages 7-10",
-            "notes": "Explore the connections between music, science, engineering and technology. Generously supported by the Institute of Physics.",
-            "start": "2024-09-14T09:45:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2230",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T11:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": "Take a walk within our walls and learn about our 220-year history, ongoing building conservation, and the stage that's hosted global artists",
-            "start": "2024-09-14T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2230",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": "Take a walk within our walls and learn about our 220-year history, ongoing building conservation, and the stage that's hosted global artists",
-            "start": "2024-09-14T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Family activity",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2230",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "WOOFYT Family Organ Building Workshop - Ages 11+",
-            "notes": "Explore the connections between music, science, engineering and technology. Generously supported by the Institute of Physics.",
-            "start": "2024-09-14T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2230",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Organ Recital",
-            "notes": "A lunchtime treat from Union Chapel's organ students and their tutor and acclaimed concert organist Jeremiah Stephenson.",
-            "start": "2024-09-14T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2230",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": "Take a walk within our walls and learn about our 220-year history, ongoing building conservation, and the stage that's hosted global artists",
-            "start": "2024-09-14T13:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -265,5 +159,5 @@
     "name": "Union Chapel",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2230",
-    "ticketed_events": true
+    "ticketed_events": false
 }

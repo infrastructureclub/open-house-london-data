@@ -16,38 +16,7 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Guided tours",
-            "notes": "Tours can be quite flexible as it is not a large building, but we can offer a tour every hour or so as needed and to fit around the talk.",
-            "start": "2024-09-21T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12531",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Churches making space for the community",
-            "notes": "With our client we will give an illustrated talk on creating successful spaces to reach out to the community, & show a video about our bees,",
-            "start": "2024-09-21T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -114,5 +83,5 @@
     "name": "Christ Church Community Centre, Highbury",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12531",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -16,38 +16,7 @@
             "civic"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Photography Exhibition by locals",
-            "notes": "Hosted by the Isleworth Society- showcasing the shortlisted and winning photos in 4 different categories and various age groups on display.",
-            "start": "2024-09-21T14:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Family activity",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/3004",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Dance Performance",
-            "notes": "Isleworth dance troupe Alliance Dance Unit will hold a performance captivating audiences and showcasing  the talent of local youth.",
-            "start": "2024-09-21T16:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -196,5 +165,5 @@
     "name": "Isleworth Public Hall",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/3004",
-    "ticketed_events": true
+    "ticketed_events": false
 }

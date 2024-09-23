@@ -17,68 +17,7 @@
             "miscellaneous"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open day and exhibition in the hub",
-            "notes": "Visit the community hub, built by volunteers in 2019, and new public garden (a work in progress!)",
-            "start": "2024-09-14T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10389",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Building tour",
-            "notes": "Guided tour including visits to the interiors of one or more flats.",
-            "start": "2024-09-14T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10389",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Building tour",
-            "notes": "Guided tour including visits to the interiors of one or more flats.",
-            "start": "2024-09-14T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10389",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Building tour",
-            "notes": "Guided tour including visits to the interiors of one or more flats.",
-            "start": "2024-09-14T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -186,5 +125,5 @@
     "name": "12 Church Grove",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10389",
-    "ticketed_events": true
+    "ticketed_events": false
 }

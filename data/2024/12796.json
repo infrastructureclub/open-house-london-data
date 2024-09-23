@@ -8,23 +8,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12796",
-            "capacity": null,
-            "date": "2024-09-18",
-            "drop_in": false,
-            "end": "2024-09-18T20:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "",
-            "start": "2024-09-18T18:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -95,5 +79,5 @@
     "name": "A city is not a museum: how London adapts and changes",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12796",
-    "ticketed_events": true
+    "ticketed_events": false
 }

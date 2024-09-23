@@ -17,98 +17,7 @@
             "gallery"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-20",
-            "drop_in": true,
-            "end": "2024-09-20T20:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: NPG Design Challenge",
-            "notes": "Respond to creative design briefs inspired by the NPG's recent transformation by Jamie Fobert, with architectural design tutor Wilson Yau.",
-            "start": "2024-09-20T18:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-20",
-            "drop_in": true,
-            "end": "2024-09-20T20:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Architectural Drawing Workshop",
-            "notes": "Begin your weekend by creating your own architectural drawings, inspired by the Gallery’s historic building with Benedict O'Looney.",
-            "start": "2024-09-20T18:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-20",
-            "drop_in": true,
-            "end": "2024-09-20T20:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: DJ: Tabideee",
-            "notes": "British Sudanese Civil Engineer & founder of Space Black Heba Tabidi brings her sonic practice to the NPG.",
-            "start": "2024-09-20T18:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12669",
-            "capacity": null,
-            "date": "2024-09-20",
-            "drop_in": false,
-            "end": "2024-09-20T18:45:00+01:00",
-            "fully_booked": false,
-            "name": "NPG Building Tour",
-            "notes": "Meeting Point: Ross Place Entrance to the Gallery.",
-            "start": "2024-09-20T18:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12669",
-            "capacity": null,
-            "date": "2024-09-20",
-            "drop_in": false,
-            "end": "2024-09-20T20:00:00+01:00",
-            "fully_booked": false,
-            "name": "Muyiwa Oki In Conversation with Eleanor Jolliffe",
-            "notes": "Location:  National Portrait Gallery, The Ondaatje Wing Lecture Theatre.",
-            "start": "2024-09-20T19:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12669",
-            "capacity": null,
-            "date": "2024-09-20",
-            "drop_in": false,
-            "end": "2024-09-20T19:45:00+01:00",
-            "fully_booked": false,
-            "name": "NPG Building Tour",
-            "notes": "Meeting Point: Ross Place entrance to the Gallery.",
-            "start": "2024-09-20T19:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -157,5 +66,5 @@
     "name": "National Portrait Gallery Architecture Late",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12669",
-    "ticketed_events": true
+    "ticketed_events": false
 }

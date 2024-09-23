@@ -8,38 +8,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12591",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T13:45:00+01:00",
-            "fully_booked": false,
-            "name": "Community Energy Walking Tour",
-            "notes": "A walking tour of two community energy sites followed by a workshop on how to get involved in the community energy revolution.",
-            "start": "2024-09-21T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12591",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T17:15:00+01:00",
-            "fully_booked": false,
-            "name": "Community Energy Walking Tour",
-            "notes": "A walking tour of two community energy sites followed by a workshop on how to get involved in the community energy revolution.",
-            "start": "2024-09-21T14:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -108,5 +77,5 @@
     "name": "South East London Community Energy - Walking Tour",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12591",
-    "ticketed_events": true
+    "ticketed_events": false
 }

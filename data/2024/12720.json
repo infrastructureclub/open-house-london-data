@@ -10,23 +10,7 @@
             ""
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12720",
-            "capacity": null,
-            "date": "2024-09-19",
-            "drop_in": false,
-            "end": "2024-09-19T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Walking tour",
-            "notes": "",
-            "start": "2024-09-19T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -65,5 +49,5 @@
     "name": "Reappraising Winnington Road",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12720",
-    "ticketed_events": true
+    "ticketed_events": false
 }

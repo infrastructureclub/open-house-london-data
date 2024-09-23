@@ -19,38 +19,7 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": true,
-            "end": "2024-09-22T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open day and guided tours",
-            "notes": "Guided tours of the Community Centre and of the estate.",
-            "start": "2024-09-22T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7444",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "BSL Guided Tour",
-            "notes": "Deaf-led BSL guided tour. Please not this will not be a spoken English tour and will be conducted entirely in BSL.",
-            "start": "2024-09-22T15:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -210,5 +179,5 @@
     "name": "Golden Lane Estate Community Centre",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/7444",
-    "ticketed_events": true
+    "ticketed_events": false
 }

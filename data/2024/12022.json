@@ -16,38 +16,7 @@
             "gallery"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12022",
-            "capacity": null,
-            "date": "2024-09-20",
-            "drop_in": false,
-            "end": "2024-09-20T13:15:00+01:00",
-            "fully_booked": false,
-            "name": "Queer London Model Tour",
-            "notes": "Join Dani Dinger and Dan de la Motte of Queer Tours of London for a special Queer London Model Tour specially for Open House 2024!",
-            "start": "2024-09-20T12:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12022",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T13:15:00+01:00",
-            "fully_booked": false,
-            "name": "Model Talk, with NLA & The London Society",
-            "notes": "Learn about London’s historical and physical development around NLA’s 3 scale models of the city, in association with The London Society.",
-            "start": "2024-09-21T12:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -135,5 +104,5 @@
     "name": "The London Centre",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/12022",
-    "ticketed_events": true
+    "ticketed_events": false
 }

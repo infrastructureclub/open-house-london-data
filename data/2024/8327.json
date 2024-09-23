@@ -22,98 +22,7 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: St Margaret's Church Open Day",
-            "notes": "",
-            "start": "2024-09-21T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": true,
-            "end": "2024-09-22T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: St Margaret's Church Open Day",
-            "notes": "",
-            "start": "2024-09-22T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8327",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T11:45:00+01:00",
-            "fully_booked": false,
-            "name": "Visit to St Margaret's Old Churchyard, Blackheath",
-            "notes": "The visit will be to the churchyard only. A guide will provide richly illustrated talks lasting about 45 minutes.",
-            "start": "2024-09-21T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8327",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T14:45:00+01:00",
-            "fully_booked": false,
-            "name": "Visit to St Margaret's Old Churchyard, Blackheath",
-            "notes": "The visit will be to the churchyard only. A guide will provide richly illustrated talks lasting about 45 minutes.",
-            "start": "2024-09-21T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8327",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Visit to St Margaret's Old Churchyard, Blackheath",
-            "notes": "A guide will provide richly illustrated talks lasting about 45 min.",
-            "start": "2024-09-22T11:45:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8327",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T14:45:00+01:00",
-            "fully_booked": false,
-            "name": "Visit to St Margaret's Old Churchyard, Blackheath",
-            "notes": "A guide will provide richly illustrated talks lasting about 45 min.",
-            "start": "2024-09-22T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Toilets",
@@ -255,5 +164,5 @@
     "name": "St Margaret's Church, Lee",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/8327",
-    "ticketed_events": true
+    "ticketed_events": false
 }

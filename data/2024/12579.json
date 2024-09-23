@@ -16,68 +16,7 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "Visitors are welcome to visit and explore the Church at any time during the day.",
-            "start": "2024-09-14T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": true,
-            "end": "2024-09-15T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "Visitors are welcome to explore the Church except during Masses. These are at 9am and 11am and anyone is welcome to see the building in use.",
-            "start": "2024-09-15T09:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12579",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T11:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": "A tour of the building will also offer visitors the chance to examine architectural plans of the Church and see fittings and vestments.",
-            "start": "2024-09-14T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12579",
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": false,
-            "end": "2024-09-15T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": "An opportunity for a close exploration of Pearson's fine Church in conversation with the Parish Clergy who serve here.",
-            "start": "2024-09-15T15:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Drinking water",
@@ -132,5 +71,5 @@
     "name": "St Michael's Church, Croydon",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12579",
-    "ticketed_events": true
+    "ticketed_events": false
 }

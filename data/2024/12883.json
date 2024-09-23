@@ -10,38 +10,7 @@
             ""
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12883",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T15:15:00+01:00",
-            "fully_booked": false,
-            "name": "From Prejudice to Pride Guided Walk",
-            "notes": "Join a City Guide to explore some  of the LGBT+ stories of the City of London.",
-            "start": "2024-09-21T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12883",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T15:15:00+01:00",
-            "fully_booked": false,
-            "name": "From Prejudice to Pride Guided Walk",
-            "notes": "Join a City Guide to explore some  of the LGBT+ stories of the City of London.",
-            "start": "2024-09-22T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Step-free routes",
         "Toilets"
@@ -101,5 +70,5 @@
     "name": "From Prejudice to Pride",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12883",
-    "ticketed_events": true
+    "ticketed_events": false
 }

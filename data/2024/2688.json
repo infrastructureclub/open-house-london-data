@@ -23,98 +23,7 @@
             "mixed use"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T18:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Art Exhibition",
-            "notes": "An all-day installation of local art. Details and artists to be announced.",
-            "start": "2024-09-21T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T18:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day, History & Artefacts",
-            "notes": "Drop in and explore, learn about our unique history (including early Quaker artefacts), or just enjoy our grounds! Refreshments provided.",
-            "start": "2024-09-21T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Drop-in crafting sessions",
-            "notes": "CraftSpace is a local organisation holding inclusive, creative events for all skill levels. Drop in and craft a friendship bracelet!",
-            "start": "2024-09-21T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2688",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Beginners' Crochet Workshop",
-            "notes": "Join a relaxed free beginners' crochet workshop by CraftyK21. Learn the basic steps of crocheting, or crochet a simple granny square!",
-            "start": "2024-09-21T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2688",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Syon Early Music Group chamber performance",
-            "notes": "Chamber music performance from Syon Early Music Group, performing music for recorders, strings and harpsichord by Bach, Corelli, & Gibbons.",
-            "start": "2024-09-21T14:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2688",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T16:15:00+01:00",
-            "fully_booked": false,
-            "name": "Solo concert by Keith Buckman",
-            "notes": "Solo performance, guitar and voice, telling stories of history. By Keith Buckman (of The Far Meadow, Kindred Spirit Band, & Marshpoem.)",
-            "start": "2024-09-21T15:45:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Drinking water",
@@ -219,5 +128,5 @@
     "name": "Quaker Meeting House - Brentford & Isleworth",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2688",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -8,38 +8,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12581",
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": false,
-            "end": "2024-09-15T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "How the Tube shaped London",
-            "notes": "Explore some of the oldest - and newest - parts of London's underground rail infrastructure",
-            "start": "2024-09-15T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12581",
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": false,
-            "end": "2024-09-22T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "How the Tube shaped London",
-            "notes": "Explore some of the oldest - and newest - parts of London's underground rail infrastructure,",
-            "start": "2024-09-22T10:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets"
     ],
@@ -153,5 +122,5 @@
     "name": "How the tube shaped London",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12581",
-    "ticketed_events": true
+    "ticketed_events": false
 }

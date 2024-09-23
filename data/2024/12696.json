@@ -16,38 +16,7 @@
             "architectural practice"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-20",
-            "drop_in": true,
-            "end": "2024-09-20T18:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Exhibition",
-            "notes": "",
-            "start": "2024-09-20T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12696",
-            "capacity": null,
-            "date": "2024-09-19",
-            "drop_in": false,
-            "end": "2024-09-19T20:00:00+01:00",
-            "fully_booked": false,
-            "name": "Opening event",
-            "notes": "Visitors will have the opportunity to chat with architects and heritage consultants during the preview.",
-            "start": "2024-09-19T18:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Drinking water",
         "Handrails on stairs",
@@ -142,5 +111,5 @@
     "name": "Hidden Narratives: open studios at 12 Devonshire Street",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12696",
-    "ticketed_events": true
+    "ticketed_events": false
 }

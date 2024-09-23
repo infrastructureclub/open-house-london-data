@@ -16,23 +16,7 @@
             "mixed use"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12953",
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": false,
-            "end": "2024-09-14T18:00:00+01:00",
-            "fully_booked": false,
-            "name": "Exhibition & Workshop",
-            "notes": "Exhibition with audio recordings followed by a painting workshop.",
-            "start": "2024-09-14T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets"
     ],
@@ -88,5 +72,5 @@
     "name": "Embraced or Tolerated?",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12953",
-    "ticketed_events": true
+    "ticketed_events": false
 }

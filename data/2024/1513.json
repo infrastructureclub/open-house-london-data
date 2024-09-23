@@ -19,83 +19,7 @@
             "gallery"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T18:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Keeper's House",
-            "notes": "",
-            "start": "2024-09-21T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Fine Rooms",
-            "notes": "There will be six 10-minute spotlight talks throughout the day, taking place at 10.30am, 11.30am , 12.30pm, 1.30pm, 2.30pm and 3.30pm.",
-            "start": "2024-09-21T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Royal Academy Schools",
-            "notes": "There will be four 10-minute spotlight talks throughout the day, taking place at 12pm, 2pm, 3pm, and 4pm.",
-            "start": "2024-09-21T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1513",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "RA Library Tours",
-            "notes": "Please note that spaces are limited and must be booked in advance.",
-            "start": "2024-09-21T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1513",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "RA Library Tours",
-            "notes": "Please note that spaces are limited and must be booked in advance.",
-            "start": "2024-09-21T13:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -191,5 +115,5 @@
     "name": "Burlington House: Royal Academy of Arts",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1513",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -16,23 +16,7 @@
             ""
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12879",
-            "capacity": null,
-            "date": "2024-09-20",
-            "drop_in": false,
-            "end": "2024-09-20T08:00:00+01:00",
-            "fully_booked": false,
-            "name": "Smithfield Market Guided Tour",
-            "notes": "The 6.30am start should not put anyone off. This is an unusual experience for anyone interested in history, food and Victorian architecture.",
-            "start": "2024-09-20T06:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Step-free routes"
     ],
@@ -99,5 +83,5 @@
     "name": "Smithfield Market Tour",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12879",
-    "ticketed_events": true
+    "ticketed_events": false
 }

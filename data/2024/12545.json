@@ -18,53 +18,7 @@
             "residence"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "The main space will be open to the public, with smaller private spaces limited to 2-3 visitors. The design team will be in attendance.",
-            "start": "2024-09-14T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": true,
-            "end": "2024-09-21T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "The main space will be open to the public, with smaller private spaces limited to 2-3 visitors. The design team will be in attendance.",
-            "start": "2024-09-21T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12545",
-            "capacity": null,
-            "date": "2024-09-18",
-            "drop_in": false,
-            "end": "2024-09-18T21:00:00+01:00",
-            "fully_booked": false,
-            "name": "Talking Shop: How We Role",
-            "notes": "An evening of short talks on recent self-built projects from Brisco Loran, Surman Weston, Khan Bonshek and Commonbond. Doors 6pm. Pizza 9pm.",
-            "start": "2024-09-18T19:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -201,5 +155,5 @@
     "name": "Costa's Barbers",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12545",
-    "ticketed_events": true
+    "ticketed_events": false
 }

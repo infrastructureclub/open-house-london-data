@@ -20,53 +20,7 @@
             "event"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-14",
-            "drop_in": true,
-            "end": "2024-09-14T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "Open Day to experience the vibrant atmosphere of the Musical Museum",
-            "start": "2024-09-14T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": true,
-            "end": "2024-09-15T14:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "",
-            "start": "2024-09-15T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/10085",
-            "capacity": null,
-            "date": "2024-09-15",
-            "drop_in": false,
-            "end": "2024-09-15T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Silent Film with live music",
-            "notes": "Join us for an exciting new project: regular silent cinema screenings, with live musical accompaniment   on the Mighty Wurlitzer.",
-            "start": "2024-09-15T14:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -134,5 +88,5 @@
     "name": "The Musical Museum",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10085",
-    "ticketed_events": true
+    "ticketed_events": false
 }

@@ -19,128 +19,7 @@
             "civic"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-20",
-            "drop_in": true,
-            "end": "2024-09-20T13:50:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Lunchtime Recital",
-            "notes": "40 minutes of music presented by emerging professional musicians from one of London's world class conservatoires.",
-            "start": "2024-09-20T13:10:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-20",
-            "drop_in": true,
-            "end": "2024-09-20T14:45:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Talk - from Saxons to Victorians",
-            "notes": "An entertaining general history of the Minster building, given by our Education Officer, David Morgan.",
-            "start": "2024-09-20T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": true,
-            "end": "2024-09-22T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Talk - Minster History and Architecture",
-            "notes": "Education Office David Morgan gives an outline of the Minster's history and features of the building. Q&A and opportunity to look around.",
-            "start": "2024-09-22T12:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": true,
-            "end": "2024-09-22T13:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Guided tour - Stained Glass Windows",
-            "notes": "Education Office David Morgan gives a guided tour of the the Minster's beautiful stained glass windows. Q&A and opportunity to look around.",
-            "start": "2024-09-22T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2024-09-22",
-            "drop_in": true,
-            "end": "2024-09-22T18:15:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Choral Evensong",
-            "notes": "Traditional Choral Evensong sung by our Choir - 45 minutes of glorious music to round off the weekend.  All welcome.",
-            "start": "2024-09-22T17:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8724",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T11:30:00+01:00",
-            "fully_booked": false,
-            "name": "Tours of the Bell Tower",
-            "notes": "Tour of the Bell Tower - visitors can climb the bell tower and have a go at ringing the bells!",
-            "start": "2024-09-21T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8724",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Tours of the Bell Tower",
-            "notes": "Tour of the Bell Tower - visitors can climb the bell tower and have a go at ringing the bells!",
-            "start": "2024-09-21T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8724",
-            "capacity": null,
-            "date": "2024-09-21",
-            "drop_in": false,
-            "end": "2024-09-21T14:30:00+01:00",
-            "fully_booked": false,
-            "name": "Tours of the Bell Tower",
-            "notes": "Tour of the Bell Tower - visitors can climb the bell tower and have a go at ringing the bells!",
-            "start": "2024-09-21T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet"
@@ -260,5 +139,5 @@
     "name": "Croydon Minster",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/8724",
-    "ticketed_events": true
+    "ticketed_events": false
 }
