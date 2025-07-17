@@ -297,7 +297,7 @@ for building in buildings:
                 capacity = None
                 capacity_node = event.xpath('.//p[contains(@class, "capacity")]/text()')
                 if capacity_node:
-                    matches = re.search("(\d+)", capacity_node[0])
+                    matches = re.search(r'(\d+)', capacity_node[0])
                     capacity = int(matches.group(1))
 
                 notes_node = event.xpath('.//p[contains(@class, "text")]/text()')
