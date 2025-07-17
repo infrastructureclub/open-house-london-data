@@ -17,6 +17,8 @@ headers = {
     "Referer": "https://programme.openhouse.org.uk/",
 }
 
+proxy = "socks5h://127.0.0.1:25344/"
+
 cookies = {}
 session_cookie = os.getenv("OH_SESSION_COOKIE")
 if session_cookie:
@@ -33,7 +35,10 @@ timezone = pytz.timezone("Europe/London")
 
 buildings = []
 response = requests.get(
-    "https://programme.openhouse.org.uk/map", headers=headers, impersonate="chrome"
+    "https://programme.openhouse.org.uk/map",
+    headers=headers,
+    impersonate="chrome",
+    proxy=proxy,
 )
 root = lxml.html.document_fromstring(response.content)
 marker_nodes = root.xpath('//ul[@class="markers"]/li')
@@ -64,11 +69,17 @@ for building in buildings:
     while True:
         try:
             response = requests.get(
-                original_url, cookies=cookies, headers=headers, impersonate="chrome"
+                original_url,
+                cookies=cookies,
+                headers=headers,
+                impersonate="chrome",
+                proxy=proxy,
             )
             if response.content == b"Retry later\n" or response.status_code == 503:
                 sleep_until = datetime.now() + timedelta(minutes=10)
-                print("!! Hit rate limiting, having a little sleep until %s" % sleep_until)
+                print(
+                    "!! Hit rate limiting, having a little sleep until %s" % sleep_until
+                )
                 time.sleep(10 * 60)
             else:
                 break
@@ -92,9 +103,7 @@ for building in buildings:
         )
         continue
     if b"Listing withdrawn" in response.content:
-        print(
-            "SKIPPING as listing has been withdrawn for this year"
-        )
+        print("SKIPPING as listing has been withdrawn for this year")
         continue
 
     if session_cookie and b"Log out" not in response.content:
@@ -426,4 +435,4 @@ for building in buildings:
 
     print(" - Found %s events" % len(data["events"]))
 
-    time.sleep(10)
+    time.sleep(1)
