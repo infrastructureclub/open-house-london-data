@@ -16,7 +16,7 @@ jobs:
       - name: Scrape and commit
         env:
           YEAR: 2025
-          OH_SESSION_COOKIE: ${{ secrets.OH_SESSION_COOKIE }}
+#          OH_SESSION_COOKIE: ${{ secrets.OH_SESSION_COOKIE }}
           WG_CONFIG_FILE: ${{ secrets.WG_CONFIG_FILE }}
         run: |
           sudo apt-get install libgeos-dev
