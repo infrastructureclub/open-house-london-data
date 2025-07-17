@@ -3,6 +3,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.1340197,
+                    51.5611056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The White House is a contemporary and community art space operated by Create London. Formerly an 18th-century farmhouse, the space was transformed in 2016 by Apparata into a new model for arts engagement.\r\n\r\nThe White House is currently exhibiting 'Stranger in Silver Walking on Air', an immersive exhibition by Turner Prize-nominated artist Delaine Le Bas, inspired by Roma & Traveller histories.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/201/building_201_15-delaine-le-bas_a-stranger-in-silver-walking-on-air_image-by-alexander-christie_courtesy-create-london_f0cdee8f0af14a11231e564f743fe9a2.jpg",
+                        "title": "Delaine Le Bas' 'Stranger in Silver Walking on Air'. Photography by Alex Christie."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/201/building_201_participants_white_house_4ccfc4a6b6296ebac6e8a3ea3b26f496.jpg",
+                        "title": "Art-led activity in the White House Front Room "
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/201/building_201_img_6564_3f115767f997ea060f4e81395cd9fb41.jpg",
+                        "title": "Outside of The White House "
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/201/building_201_7-delaine-le-bas_a-stranger-in-silver-walking-on-air_image-by-alexander-christie_courtesy-create-london_2af9dacb8406356f7c608fe3735a43d9.jpg",
+                        "title": "Delaine Le Bas' 'Stranger in Silver Walking on Air'. Photography by Alex Christie."
+                    }
+                ],
+                "name": "White House, Becontree Estate",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.2630588,
                     51.4333564
                 ],
@@ -1351,6 +1390,45 @@
                 "start": "09:45:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.12256,
+                    51.49773
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Situated in the heart of the Thamesmead Estate, TACO! (Thamesmead Arts and Culture Office) an artist-led organisation supporting research, production, and exchange. The space is designed by architects Manalo & White and features a gallery, events space, bookshop, cafe/bar and a broadcast studio for radio RTM.FM, all neatly packed into an 87sqm footprint.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12190/building_12190_taco-francis-chu-22_59581743264582182066a34541265723.jpg",
+                        "title": "TACO!-Francis Scott-Wendy-Chu-Li Shewring"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12190/building_12190_m-w_taco-_gallery_dg_33-copy_43aeb98d511dbc3b7358ba72830d269c.jpg",
+                        "title": "TACO!-Manalo & White-Gallery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12190/building_12190_tm-20mar24-124_3e8472c1d279a6aa98f2a63e1d85add0.jpg",
+                        "title": "TACO!-Manalo & White-Bookshop"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12190/building_12190_0abdbb46-3db3-4a2f-b84f-e699ba4d5fb8_1_105_c-copy_35db2b22e68b7d030d3a46e921d2d33b.jpeg",
+                        "title": "TACO!-Burial Listening Party-Event"
+                    }
+                ],
+                "name": "TACO! (Thamesmead Arts and Culture Office)",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12190"
             },
             "type": "Feature"
         },
