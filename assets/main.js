@@ -496,46 +496,32 @@
     updateTimeFilter();
   };
 
-
+  const transparent1px = document.createElement('img');
+  transparent1px.src = 'data:image/webp;base64,MXB4dHJhbnNwYXJlbnQud2VicAo=';
   const addScrollableHandlers = () => {
     const scrollable = document.querySelector('.scrollable.scroll-x');
+    scrollable.draggable = true;
     const dragThreshold = 4;
 
-    scrollable.addEventListener('pointerdown', (e) => {
-      if (e.pointerType != 'mouse') return;
-
+    scrollable.addEventListener('dragstart', (e) => {
       let startX = e.pageX - scrollable.offsetLeft;
       let scrollLeft = scrollable.scrollLeft;
-      let dragged = false;
-      let pointerId = e.pointerId;
 
-      const scrollMove = (e) => {
-        if (e.pointerId != pointerId) return;
+      const drag = (e) => {
+        if (e.clientX == 0 && e.clientY == 0) return;
         e.preventDefault();
         const x = e.pageX - scrollable.offsetLeft;
         const walkX = (x - startX) * 1;
-        if (Math.abs(walkX) > dragThreshold) dragged = true;
         scrollable.scrollLeft = scrollLeft - walkX;
       };
 
-      scrollable.style.cursor = 'grabbing';
-      scrollable.addEventListener('pointermove', scrollMove);
-      const scrollEnd = () => {
-        scrollable.style.cursor = 'auto';
-        scrollable.removeEventListener('pointermove', scrollMove);
-        scrollable.removeEventListener('click', redispatch);
-        scrollable.removeEventListener('mousedown', redispatch);
+      scrollable.addEventListener('drag', drag);
+      const dragEnd = () => {
+        scrollable.removeEventListener('drag', drag);
       };
-      scrollable.addEventListener('lostpointercapture', scrollEnd);
-      const redispatch = (e) => {
-        if (!e.isTrusted) return;
-        if (dragged) return;
-        const actualTarget = document.elementFromPoint(e.clientX, e.clientY);
-        if (actualTarget.closest('.scrollable') == scrollable) actualTarget.dispatchEvent(new e.constructor(e.type, e));
-      };
-      scrollable.addEventListener('click', redispatch);
-      scrollable.addEventListener('mousedown', redispatch);
-      scrollable.setPointerCapture(pointerId);
+      scrollable.addEventListener('dragend', dragEnd);
+      e.dataTransfer.setDragImage(transparent1px, 0, 0);
+      e.dataTransfer.dropEffect = 'none';
     });
   };
 
