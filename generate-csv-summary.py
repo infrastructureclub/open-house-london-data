@@ -8,7 +8,7 @@ from datetime import datetime
 from dateutil import parser
 import pytz
 
-year = 2024
+year = os.environ["YEAR"]
 timezone = pytz.timezone("Europe/London")
 data_path = "data/%s" % year
 csv_path = "csv/%s" % year

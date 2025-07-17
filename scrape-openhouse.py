@@ -28,7 +28,7 @@ else:
     )
     cookies = {"_session_id": "no_session"}
 
-year = 2024
+year = int(os.environ["YEAR"])
 timezone = pytz.timezone("Europe/London")
 
 buildings = []
