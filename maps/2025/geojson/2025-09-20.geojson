@@ -2421,6 +2421,65 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.19029,
+                    51.51843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Grade I listed Norman church with notable chancel arch with chevron and nailhead ornament, built by Richard De Lucy.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2507/building_2507_rainham-parish-church_28_06639682dfb3d5647ed4972ded5c1447.jpg",
+                        "title": "View of the Church"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2507/building_2507_rainham-church-for-puzzle_b023100451d8c1100049cf3c3394c568.jpg",
+                        "title": "View of the Church"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2507/building_2507_rainham-parish-church_12_bbe588586c1573866d7eaa660f5f627a.jpg",
+                        "title": "Chancel Arch"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2507/building_2507_rainham-parish-church_7_8hdr-web_d8b78e29175ec7f92491ccc7cbacb6a2.jpg",
+                        "title": "Chancel Window Arrangement"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2507/building_2507_rainham-parish-church_9_7e624271578fb2b8c3f148847cbbcefc.jpg",
+                        "title": "View of the Nave from the Rood Loft Stairs"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2507/building_2507_rainham-parish-church_d1a8ad90f8f6d9cad779e40300c489be.jpg",
+                        "title": "Nave Ceiling Beams"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2507/building_2507_rainham-parish-church_2_051697bef090efff22e7c37a67b5e353.jpg",
+                        "title": "Close Up of the Original Paintwork of the Church"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2507/building_2507_rainham-parish-church_32_66b70a7c22d1b54b1e48deedfaa86f46.jpg",
+                        "title": "View of the Nave from the Font"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2507/building_2507_rainham-parish-church_25_5c220c38013129efafd49e22f427af52.jpg",
+                        "title": "Close Up of the Circular Chancel Window"
+                    }
+                ],
+                "name": "Rainham Parish Church of St Helen and St Giles",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2507"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.13507,
                     51.49068
                 ],
@@ -5882,6 +5941,37 @@
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/10076"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.2172764,
+                    51.5067131
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Grade II listed Norman church dating from as early as 1190 and as late as 1248.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10184/building_10184_wennington-church_31_3991fdad59334365db00b2ac00ba3555.jpg",
+                        "title": "View from Wennington Road"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10184/building_10184_wennington-church_17_a0dbf8c6d463a2cbbcf0c1ff3e7ac7e4.jpg",
+                        "title": "View of the Nave and Chancel "
+                    }
+                ],
+                "name": "Wennington Parish Church of St Mary and St Peter",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10184"
             },
             "type": "Feature"
         },

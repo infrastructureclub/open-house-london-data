@@ -3345,6 +3345,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.12474,
+                    51.53005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Former Midland Grand Hotel, now St Pancras Renaissance Hotel and Chambers apartments. Includes hotel lobby and clock tower.",
+                "end": "16:50:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6076/building_6076_una-2_9123d15e32e96d3c3e4e65e3c8bd12ef.jpg",
+                        "title": "Exterior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6076/building_6076_10_f7c053e5b3cdce7d4c21decb04c9ef77.jpg",
+                        "title": "Clocktower interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6076/building_6076_img_0497_3f8307ce1bbcb3f1f18e2c9ea442edd6.jpg",
+                        "title": "Gilbert Scott's orginal drawings"
+                    }
+                ],
+                "name": "St Pancras Chambers and Clock Tower",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/6076"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.008551,
                     51.479672
                 ],
@@ -6164,6 +6199,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.22483,
+                    51.51188
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Follow in the footsteps of the Beatles, Coldplay, Alfred Hitchcock and countless others….See what remains of the iconic 1960’s BBC Television Centre and the Gaumont Film Studios  ….plus discover Charles Dickens’ controversial connection to Shepherd’s Bush.",
+                "end": "13:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12753/building_12753_img_3154_c97a39d0b3da82165d1c5ba56eab96be.jpeg",
+                        "title": "Television Centre"
+                    }
+                ],
+                "name": "‘Strictly Entertainment’- Shepherd’s Bush 1915-2013",
+                "new_venue_this_year": "No",
+                "start": "11:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12753"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.11959,
                     51.4778
                 ],
@@ -6465,6 +6527,37 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13051"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.16072,
+                    51.48633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Part of the Chelsea Heritage Quarter, the National Army Museum covers the British Army’s role from the Civil Wars to the modern day. We engage and inspire with the stories of our soldiers and how their service shapes our world; past, present and future. Founded by Royal Charter in 1960, the Museum has been on the Chelsea site since 1970. Come and find out who we are and why we are here!",
+                "end": "15:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13061/building_13061_nam_building-exterior_e11ae3edabb346e86fce4cf13655e4e3.jpeg",
+                        "title": "National Army Museum exterior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13061/building_13061_chelsea-under-construction_5106508507445d1d730e45661e709439.jpg",
+                        "title": "National Army Museum under construction, 1969"
+                    }
+                ],
+                "name": "National Army Museum",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13061"
             },
             "type": "Feature"
         },
