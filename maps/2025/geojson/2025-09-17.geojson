@@ -340,7 +340,7 @@
                         "title": "View West of the Organ Case created by Richard Bridge in 1753  "
                     }
                 ],
-                "name": "Parish Church of St Andrew Enfield",
+                "name": "Parish Church of St Andrew, Enfield",
                 "new_venue_this_year": "No",
                 "start": "12:30:00",
                 "ticketed_events": "No",
@@ -427,6 +427,37 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/2783"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.08791,
+                    51.37287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "An opportunity to visit Crofton Roman Villa and view the archaeological remains of a 10 room house on former Roman farmland, inhabited from 140 AD to 400 AD and the only Roman villa open to the public in greater London!\r\n\r\nYou can also view the proposed plans and meet the team responsible for the exciting refurbishment works due to take place on the building commencing early 2026.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2969/building_2969_20240615_160515_8a582d65b597238cecf76e10e67d4e38.jpg",
+                        "title": "Crofton Roman Villa"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2969/building_2969_crofton-roman-villa-open-house_537b5dfdbf655aa29c060ae207c2022c.jpg",
+                        "title": "Representation of Crofton Roman Villa"
+                    }
+                ],
+                "name": "Crofton Roman Villa",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2969"
             },
             "type": "Feature"
         },
@@ -555,8 +586,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1210104,
-                    51.5133246
+                    -0.12106,
+                    51.51341
                 ],
                 "type": "Point"
             },
@@ -871,6 +902,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13826,
+                    51.51895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Loughborough Pearson's red brick building is unimposing from the outside, but inside is a riot of Gothic Revival design. Golden mosaics reveal the character of the Grade II* listed chapel, built as part of the Middlesex Hospital.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6534/building_6534_dsc_4004_b7259ee15bdec13d50a055d763a41b47.jpg",
+                        "title": "The altar"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6534/building_6534_dsc_3989_281329c1b0e48f73a07a582c2db52299.jpg",
+                        "title": "View of the gold ceiling"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6534/building_6534_dsc_4011_3691ddb616aa40c276d8544b704aed19.jpg",
+                        "title": "Stained glass windows"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6534/building_6534_dsc_4088_85166f6539671e84ded3e068b09d8631.jpg",
+                        "title": "The ornate baptisery of the Fitzrovia Chapel"
+                    }
+                ],
+                "name": "Fitzrovia Chapel",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/6534"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0522038,
                     51.550593
                 ],
@@ -980,7 +1050,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A great little museum set in the Grade 2 listed Ossulston Estate - a prime example of pre-war Social housing - based on Karl Marz Hof in Vienna.\r\nOpen Tuesday to Friday 9am-5pm, plus Saturday 13th, Saturday 20th and Sunday 21st September 11am-4pm.",
+                "description": "A great little museum set in the Grade 2 listed Ossulston Estate - a prime example of pre-war Social housing - based on Karl Marx Hof in Vienna.\r\nOpen Tuesday to Friday 9am-5pm, plus Saturday 13th, Saturday 20th and Sunday 21st September 11am-4pm.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [

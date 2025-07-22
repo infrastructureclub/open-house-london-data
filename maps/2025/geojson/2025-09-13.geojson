@@ -1318,8 +1318,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1169377,
-                    51.51073239999999
+                    -0.1173,
+                    51.5113
                 ],
                 "type": "Point"
             },
@@ -2107,7 +2107,7 @@
                         "title": "View West of the Organ Case created by Richard Bridge in 1753  "
                     }
                 ],
-                "name": "Parish Church of St Andrew Enfield",
+                "name": "Parish Church of St Andrew, Enfield",
                 "new_venue_this_year": "No",
                 "start": "10:00:00",
                 "ticketed_events": "No",
@@ -2508,7 +2508,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "An important example of 1960s comprehensive school design in the Brutalist style. Acland Burghley has recently received a significant support from the National Lottery Heritage Fund for its ambitious ‘A Hall for All’ project and in 2020 welcomed in a resident orchestra, the Orchestra of the Age of Enlightenment in a collaborative partnership which is a UK-first.",
+                "description": "An important example of 1960s comprehensive school design in the Brutalist style. Acland Burghley has recently received significant support from the National Lottery Heritage Fund for its ambitious ‘A Hall for All’ project; and in 2020 welcomed in a resident orchestra, the Orchestra of the Age of Enlightenment in a collaborative partnership which is a UK-first.",
                 "end": "16:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -2568,8 +2568,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1210104,
-                    51.5133246
+                    -0.12106,
+                    51.51341
                 ],
                 "type": "Point"
             },
@@ -2632,6 +2632,53 @@
                 "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/3348"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.30048,
+                    51.46428
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "St John’s has a wide nave approached via a narthex formed under the gallery running the width of the west end.  East of the nave is a chancel flanked to the south by the Lady Chapel and to the north by the organ chamber with loft over.",
+                "end": "11:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3397/building_3397_p1070206_a56df35e92b95a94a5065ed8aadbebdd.jpg",
+                        "title": "Exterior from Kew Road"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3397/building_3397_sjd-exterior-blue-sky_017b61e0229fe98c77fcf0033b8658f0.jpg",
+                        "title": "St John's from Kew Road"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3397/building_3397_internal-sjd-2018-geoff-brandwood_7cef894a4cc2080ce35c92ed2ca36a73.jpg",
+                        "title": "Chancel with triptych"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3397/building_3397_screen-centrepiece-2_96c00a9e1e0d23cea3e7cdc873300f41.jpg",
+                        "title": "Screen to the Lady Chapel"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3397/building_3397_stjladychapel_whole_end_window-high-res_41d9f52a17652fec7d8f75283909d829.jpg",
+                        "title": "Lady Chapel window"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3397/building_3397_stjohn_chancel_0986cb2cb2059a2067309a65aa14dab3.jpg",
+                        "title": "Chancel"
+                    }
+                ],
+                "name": "St John the Divine",
+                "new_venue_this_year": "No",
+                "start": "10:15:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3397"
             },
             "type": "Feature"
         },
@@ -2814,6 +2861,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.2171867,
+                    51.3593955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Originally a farmer's house dating to 1500, with jettied upper storey. Later additions reflect the changing lifestyles of the owners, including the Killicks for over two centuries. Now houses scale model of Henry VIII's Nonsuch Palace.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3742/building_3742_whitehall-cropped-image-2_13ca1b54f05b5d43948dd0244994330f.jpg",
+                        "title": ""
+                    }
+                ],
+                "name": "Whitehall Historic House",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3742"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.16684,
                     51.36508
                 ],
@@ -2925,6 +2999,45 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/3749"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1655658,
+                    51.3660834
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Chalk and flint house dating to 17C with additions including extensions of 1896 and 1903 when owned by John Pattinson Kirk. Rich in period detail and the interior restored and stairs opened up with funding from the Heritage Lottery Fund.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3939/building_3939_honeywood_summer_4e0a4dda2189e18fc02f58411fdd3873.jpg",
+                        "title": "View of Honeywood today across Carshalton Ponds"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3939/building_3939_honey-chalk-flint_07e8108417df4a7764002c54d2944bcd.jpg",
+                        "title": "Flint and chalk wall c1680"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3939/building_3939_honeywood-drawing-room_7aaa34753106ae664ea49ba5fca6337d.jpg",
+                        "title": "Honeywood drawing room Edwardian decoration"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3939/building_3939_hw-window_cb68b9befbb22ce0f01d8518050416bc.jpg",
+                        "title": "Edwardian stained glass window"
+                    }
+                ],
+                "name": "Honeywood Museum",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3939"
             },
             "type": "Feature"
         },
@@ -3252,8 +3365,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.27661,
-                    51.49472
+                    -0.27587,
+                    51.49461
                 ],
                 "type": "Point"
             },
@@ -3433,7 +3546,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Two Grade II listed buildings, 4-storey yellow stock brick with a rusticated stucco base. No. 57 has an attic level with a garden at the rear. Staircases are intact and each room still retains the high ceilings and ornamental fireplaces. The garden behind No. 58 has been developed to include an additional meeting room, and an interior development creating conference rooms in the lower ground floor",
+                "description": "Two Grade II listed buildings, 4-storey yellow stock brick with a rusticated stucco base. No. 57 has an attic level with a garden at the rear. Staircases are intact and each room still retains its high ceilings and ornamental fireplaces. The garden behind No. 58 has been developed to include an additional meeting room, and an interior development has created conference rooms in the lower ground floor",
                 "end": "16:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -3996,8 +4109,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.08069,
-                    51.52074
+                    -0.07999,
+                    51.52122
                 ],
                 "type": "Point"
             },
@@ -6071,6 +6184,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1080343,
+                    51.51412879999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Fleet Street Heritage Wall comprises 86 A3 information panels about the people, places, ideas and newspapers which made the name of Fleet Street famous throughout the world.  Each Saturday and Sunday from 10 until 4, Piers Nicholson, who created the Heritage Sundial above the Wall, will speak on the project  and its innovative features which will make it widely accessible to all comers.",
+                "end": "16:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_main-image_5afd88cc9e65466cc43a8e8598b24d5a.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_heritage-wall-and-sundial_84f69a0811fe9a37e6a5c209440c2f0d.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_img_3617_f319ad78a7cce2e4f3f465fd64f3d872.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_img_3618_17b79bcdb05195bf940ae8d1d78640ed.png",
+                        "title": null
+                    }
+                ],
+                "name": "Fleet Street Heritage Wall and Sundial",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/10644"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1454343,
                     51.5765813
                 ],
@@ -6199,7 +6351,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A great little museum set in the Grade 2 listed Ossulston Estate - a prime example of pre-war Social housing - based on Karl Marz Hof in Vienna.\r\nOpen Tuesday to Friday 9am-5pm, plus Saturday 13th, Saturday 20th and Sunday 21st September 11am-4pm.",
+                "description": "A great little museum set in the Grade 2 listed Ossulston Estate - a prime example of pre-war Social housing - based on Karl Marx Hof in Vienna.\r\nOpen Tuesday to Friday 9am-5pm, plus Saturday 13th, Saturday 20th and Sunday 21st September 11am-4pm.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -6428,7 +6580,7 @@
                         "title": ""
                     }
                 ],
-                "name": "Sheppard Robson 77 Parkway",
+                "name": "Sheppard Robson, 77 Parkway",
                 "new_venue_this_year": "No",
                 "start": "10:00:00",
                 "ticketed_events": "No",
@@ -6490,8 +6642,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0054362,
-                    51.500307
+                    0.00604,
+                    51.50019
                 ],
                 "type": "Point"
             },
@@ -6536,7 +6688,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "All Saints Church has aspects of the fabric dating back to at least early C12 with further modification and additions in the 15th, 17th and 19th centuries.  Charles and Mary Lamb lived on Church Street, where the church is situated and are buried in the Garden of Remembrance with the churchyard.",
+                "description": "Listed Grade ll*, All Saints Church has aspects of the fabric dating back to at least early C12 with further modification and additions in the 15th, 17th and 19th centuries.  Charles and Mary Lamb lived on Church Street, where the church is situated and are buried in the Garden of Remembrance with the churchyard.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -6742,6 +6894,37 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11351"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0635681,
+                    51.5838118
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Gaunson Creative Studios in South Tottenham, home to over 70 artist studios, will be opening its doors for the first time since 2019. Visitors will be able to meet and buy from over 50 artists across the weekend.",
+                "end": "23:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11380/building_11380_studio-2_6ab0f3cef02cdc31fb0e043aa6f08345.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11380/building_11380_studios1_901875dd2f97e9e4f3d09e0db27bf063.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Gaunson Creative Open Studios part of Markfield Road Festival",
+                "new_venue_this_year": "No",
+                "start": "14:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11380"
             },
             "type": "Feature"
         },
@@ -7169,7 +7352,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Visit Beck Road Studios for an artist open studios event for the chance to explore 10 hidden studios in a unique railway arch. Meet the artists in person and discover their work, including painters, sculptors, photographer, fashion designer, furniture restorers, and an ethical vintage clothing label.",
+                "description": "Visit Beck Road Studios for an artist open studios event and a chance to explore 10 hidden studios in a unique railway arch. Meet the artists in person and discover their work, including painters, sculptors, photographer, fashion designer, furniture restorers, as well as an ethical vintage clothing label.",
                 "end": "19:00:00",
                 "fully_booked": "",
                 "images": [
@@ -7347,6 +7530,45 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12164"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09927,
+                    51.37235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Croydon Town Hall will be opened for a limited number of guided tours, providing rare access to this unique Victorian-style, Grade II listed building. Croydon Town Hall was designed by local architect Charles Henman and opened in 1896.",
+                "end": "12:45:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12168/building_12168_img_2191_dea7228c83b7ff7c68abb18b62586b55.jpg",
+                        "title": "© Croydon Council"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12168/building_12168_2010-04-15-002_f324421680bc62adaf6cbf040f7e0882.jpg",
+                        "title": "© Croydon Council"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12168/building_12168_img_4530_23fdc1fa5ba281d7d44c149f99bef96c.jpg",
+                        "title": "© Croydon Council"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12168/building_12168_wp_20170424_13_25_35_pro_c3d57c6ee2985cb35ae912eb9d1a6b2a.jpg",
+                        "title": "© Croydon Council"
+                    }
+                ],
+                "name": "Croydon Town Hall",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12168"
             },
             "type": "Feature"
         },
@@ -7972,8 +8194,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.12758,
-                    51.50721
+                    -0.08844,
+                    51.50661
                 ],
                 "type": "Point"
             },
@@ -8026,7 +8248,7 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.12748,
+                    -0.12758,
                     51.50721
                 ],
                 "type": "Point"
@@ -8100,7 +8322,7 @@
                         "title": "Inner Space Meditation Centre"
                     }
                 ],
-                "name": "Inner Space, Meditation Centre, Covent Garden",
+                "name": "Inner Space Meditation Centre, Covent Garden",
                 "new_venue_this_year": "No",
                 "start": "11:00:00",
                 "ticketed_events": "No",
@@ -8392,6 +8614,68 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.08305,
+                    51.51079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Take a guided tour of a beautiful example of a Wren church with unique features",
+                "end": "18:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12807/building_12807_20210427_112350_5c79c24b42cb651ce878be9eb99da4ca.jpg",
+                        "title": "St Margaret Pattens from the South door"
+                    }
+                ],
+                "name": "St Margaret Pattens Guild Church",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12807"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.01162,
+                    51.52487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Trace the lost river and discover the abandoned island of Channelsea, then visit the newly founded urban oasis of Abbey Gardens on this walk, talk and eat exploration of this hidden history of the tidal Lea Valley and site of  London's now rapidly vanishing industrial past. Consider the opportunity to make new urban green spaces that celebrate both wild and man made environments in harmony.",
+                "end": "12:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12810/building_12810_screenshot-2024-07-02-at-11-18-38_21d748252aeed5b6bb24059fe6fa8cd4.png",
+                        "title": "Channelsea Island - https://www.remotelondon.com"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12810/building_12810_screenshot-2024-07-02-at-11-17-03_c88fbecea07f281462c2f6eded0fc064.png",
+                        "title": "OS Map of 1898 showing Abbey Mills Pumping Station and the island -https://www.remotelondon.com"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12810/building_12810_screenshot-2024-07-02-at-09-33-16_3b79cda0b177d439f3401b1e33384c21.png",
+                        "title": "Abbey Gardens - Community Growing and making - https://www.abbeygardens.org/"
+                    }
+                ],
+                "name": "Channelsea River to Abbey Gardens - Lost + Found Places",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12810"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.16452,
                     51.55033
                 ],
@@ -8419,8 +8703,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.30516,
-                    51.50643
+                    -0.30281,
+                    51.50665
                 ],
                 "type": "Point"
             },
@@ -8723,6 +9007,53 @@
                 "start": "10:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.11282,
+                    51.51313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Instituto Cervantes is a public institution under the Ministry of Foreign Affairs, European Union and Cooperation of Spain, created by the Spanish Government in 1991 to promote the teaching, study and use of Spanish globally and the understanding of Hispanic cultures abroad. Instituto Cervantes has presence in more than 90 cities across 45 countries,",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13018/building_13018_binom-architects-ioana-marinescu-cervantes-institute_b9b9e05821f1688c3515437f37b524e6.jpg",
+                        "title": "Binom Architects | Photos by: Ioana Marinescu"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13018/building_13018_binom-architects-ioana-marinescu-cervantes-institute-1_e83d3b806a8cafeb8e3fa2dd2f162cf7.jpg",
+                        "title": "Binom Architects\r\n| Photos by: Ioana Marinescu"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13018/building_13018_binom-architects-ioana-marinescu-cervantes-institute-2_0d4f513b7257541bb0549b0403cd9b76.jpg",
+                        "title": "Binom Architects | Photos by: Ioana Marinescu"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13018/building_13018_binom-architects-ioana-marinescu-cervantes-institute-4_7be6f68e7d7901b3422c172d25d2e040.jpg",
+                        "title": "Binom Architects | Photos by: Ioana Marinescu"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13018/building_13018_binom-architects-ioana-marinescu-cervantes-institute-5_2edd8c8536a7292d510cffd8e9069adc.jpg",
+                        "title": "Binom Architects | Photos by: Ioana Marinescu"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13018/building_13018_binom-architects-ioana-marinescu-cervantes-institute-8_104cd88c16bcc6eddf150e07d426af7b.jpg",
+                        "title": "Binom Architects | Photos by: Ioana Marinescu"
+                    }
+                ],
+                "name": "Instituto Cervantes London",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13018"
             },
             "type": "Feature"
         },
@@ -9579,7 +9910,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "One of four Commissioners’ Churches by W and HW Inwood in Camden, St Mary’s is currently hidden by a scaffolding crash deck that is protecting the public from the risk  of falling stonework. Threatened with closer and demolition in 2024, the Grade II listed church has been championed by conservation groups and community alike, for the importance of its social history as well as its architecture.",
+                "description": "One of four Commissioners’ Churches by W and HW Inwood in Camden, St Mary’s is currently hidden by a scaffolding crash deck that is protecting the public from the risk  of falling stonework. Threatened with closure and demolition in 2024, the Grade II listed church has been championed by conservation groups and community alike, for the importance of its social history as well as its architecture.",
                 "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
@@ -9647,27 +9978,27 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13167/building_13167_the-village_d13b899ede3b28f56f69a16748138661.jpg",
-                        "title": "The Village-Photograph by Peter Molloy"
+                        "title": "The Village - Photograph by Peter Molloy"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13167/building_13167__dsf1353_fec1c34d0da36009e8eadd4d36c02024.jpg",
-                        "title": "The Village- Construction House-Photograph by Peter Molloy"
+                        "title": "The Village - Construction House-Photograph by Peter Molloy"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13167/building_13167__dsf1388_17b7838413b2b1fb7fb6f8a300374ad0.jpg",
-                        "title": "The Village-Theatre House-Photograph by Peter Molloy"
+                        "title": "The Village - Theatre House-Photograph by Peter Molloy"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13167/building_13167__dsf1398_ae17804821940ed75ccf082bedbc4fb9.jpg",
-                        "title": "The Village- Theatre House-Photograph by Peter Molloy"
+                        "title": "The Village - Theatre House-Photograph by Peter Molloy"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13167/building_13167__dsf1380_66232751d5c9960da156f40a23780d66.jpg",
-                        "title": "The Village- Entrance House-Photograph by Peter Molloy"
+                        "title": "The Village - Entrance House-Photograph by Peter Molloy"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13167/building_13167__dsf1418_bf8ddb1e93b8899d0cc98e402460ee73.jpg",
-                        "title": "The Village- Photograph by Peter Molloy"
+                        "title": "The Village - Photograph by Peter Molloy"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13167/building_13167__dsf1399_17c5de0f9168a6d9b0a7c50e859f3c94.jpg",
@@ -9987,7 +10318,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The Civic Action Lab is a new community event space, art gallery and artist studios at the former Palace Cinema in the heart of Kentish Town. The Cinema, originally design by Architect John Stanley Beard, has been underutilised since its closure in the 1950s. However together with charity Hypha Studio's, Camden Council is reimagining the space as a place for community innovation and collaboration.",
+                "description": "The Civic Action Lab is a new community event space, art gallery and artist studios at the former Palace Cinema in the heart of Kentish Town. The Cinema, originally designed by Architect John Stanley Beard, has been underutilised since its closure in the 1950s. However together with charity Hypha Studios, Camden Council is reimagining the space as a place for community innovation and collaboration.",
                 "end": "15:00:00",
                 "fully_booked": "",
                 "images": [
@@ -10075,6 +10406,33 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13292"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.06515,
+                    51.46985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Collectarium and  Peter Maloney build on their Lockdown Space Collection which invited people to post images and films online that shared how they had adapted, re-imagined, transformed and expanded their home environment during lockdown. This exhibition spatially reframes and recontextualises the collection to critically reconsider the ideal home in our increasingly unsettled times.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13323/building_13323_lockdownliving01_2000_eabc04c37e3ea388df8412362fbbfa24.jpeg",
+                        "title": "Lockdown Cubs Camping Weekend, Image: Collectarium"
+                    }
+                ],
+                "name": "The Ideal Home for Lockdown Living",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13323"
             },
             "type": "Feature"
         }

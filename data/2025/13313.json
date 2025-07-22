@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "description": "Come and look behind the scenes at our London Film School studios on Parker Street. Based above the Garden Cinema, a stone's throw from Covent Garden, the building has recently been refurbished to bespoke studios, edit suits and classrooms for the world's renowned British film school.",
+    "description": "Come and look behind the scenes at our London Film School studios on Parker Street. Based above the Garden Cinema, a stone's throw from Covent Garden, the building has recently been refurbished to bespoke studios, edit suites and classrooms for the world-renowned British film school.",
     "design": {
         "designers": [
             {
@@ -18,21 +18,6 @@
     },
     "events": [
         {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": true,
-            "end": "2025-09-14T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Guided Tour",
-            "notes": "",
-            "start": "2025-09-14T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
             "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
@@ -45,6 +30,21 @@
             "name": "Guided Tour",
             "notes": "",
             "start": "2025-09-14T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/13313",
+            "capacity": null,
+            "date": "2025-09-14",
+            "drop_in": false,
+            "end": "2025-09-14T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": "",
+            "start": "2025-09-14T13:00:00+01:00",
             "ticketed": true
         },
         {

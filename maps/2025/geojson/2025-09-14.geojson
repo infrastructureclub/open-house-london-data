@@ -209,7 +209,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The Grade II listed home of Quakers in Britain, Friends House won an RIBA bronze medal in 1927. The building houses Quakers in Britain central offices, as well as their library and archive, event spaces, a café, bookshop, worship space, courtyard, and garden. Friends House serves as a hub for an array of events, meetings, conferences, and gatherings for organisations and individuals.",
+                "description": "The Grade II listed home of Quakers in Britain, Friends House won an RIBA bronze medal in 1927. The building houses the central offices of Quakers in Britain as well as their library and archive, event spaces, a café, bookshop, worship space, courtyard, and garden. Friends House serves as a hub for an array of events, meetings, conferences, and gatherings for organisations and individuals.",
                 "end": "13:30:00",
                 "fully_booked": "No",
                 "images": [
@@ -263,10 +263,6 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/460/building_460_9-dancing-round-the-maypole_21c820871929e27cd0d58058577b4cf8.jpg",
                         "title": "Dancing round the Maypole, 1st May 2016"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/460/building_460_220px-garrick-s_temple_south_view_d2835f24f7f380c04964a49677da0f54.jpg",
-                        "title": "View of the Temple from across the River Thames"
                     }
                 ],
                 "name": "Garrick's Temple to Shakespeare",
@@ -1335,8 +1331,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1169377,
-                    51.51073239999999
+                    -0.1173,
+                    51.5113
                 ],
                 "type": "Point"
             },
@@ -2295,6 +2291,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.3529492,
+                    51.5937662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Built circa 1310, the moated manor house is the earliest surviving timber framed building in Middlesex. Described as one of the most interesting domestic complexes in the whole country, the fabric of Headstone Manor contains examples of high quality work dating from the 14th, 17th and 18th centuries.",
+                "end": "14:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3074/building_3074_back-cover-2_55597324b58a89ca2b56ee8a1e25c0dc.jpg",
+                        "title": "Headstone Manor &Museum"
+                    }
+                ],
+                "name": "Headstone Manor & Museum",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/3074"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1529519,
                     51.5007552
                 ],
@@ -2326,8 +2349,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1210104,
-                    51.5133246
+                    -0.12106,
+                    51.51341
                 ],
                 "type": "Point"
             },
@@ -2496,6 +2519,45 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/3678"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1705811,
+                    51.3552692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Grade II listed building inspired by the ideals of John Ruskin and William Morris and contains Dickinson's paintings, hand-made furniture, furnishings, metalwork and friezes, in Arts & Crafts style.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3743/building_3743_lhh-frd-painting-front_4f03e5b60da396c7e0f179735609fddb.jpg",
+                        "title": "Little Holland House by Frank Dickinson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3743/building_3743_lhh-master-bedroom_b9efe192a0be99336ece2f0a6ab5d33c.jpg",
+                        "title": "Little Holland House master bedroom"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3743/building_3743_lhh-fireplace_aef28cbb45ee1de81768001472f3f798.jpg",
+                        "title": "Little Holland House living room fireplace"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3743/building_3743_lhh-frieze_0393f1933c3caa041014a3e4dc489163.jpg",
+                        "title": "Little Holland House frieze above fireplace"
+                    }
+                ],
+                "name": "Little Holland House",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3743"
             },
             "type": "Feature"
         },
@@ -2713,8 +2775,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.27661,
-                    51.49472
+                    -0.27587,
+                    51.49461
                 ],
                 "type": "Point"
             },
@@ -3928,6 +3990,77 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.264048,
+                    51.5096193
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "This three storey Victorian house was converted to flats in the 1970s. The current owners, who moved to London from Manhattan, converted it back into single family home with a large open-plan ground floor and Mediterranean-style garden.  Long-hidden Victorian features were exposed in the process. In 2025 the attic was renovated to create to create an airy master bedroom and en suite.",
+                "end": "19:59:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7479/building_7479_2vieenrose_abadb7a4d68d978db127548a42ec3b84.jpg",
+                        "title": "Ground floor main space"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7479/building_7479_img_3757_091453b060d0ed9f66984d34ff7394e9.jpg",
+                        "title": "Side door"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7479/building_7479_img_6055_bcdde7258f14f73e1241f47dc5ebe04c.jpg",
+                        "title": "From the kitchen island"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7479/building_7479_1-vie-en-rose__6abb2fec58ef777866e01b930a116079.jpg",
+                        "title": "Kitchen"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7479/building_7479_6vienrose_e09a91c9f5ae26d6df489cb0c32106ce.jpg",
+                        "title": "Kitchen teaching and cooking area"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7479/building_7479_img_3760-1_70d6612ee0ef5cf1349f7bcc0a50c355.jpg",
+                        "title": "Frontage"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7479/building_7479_35fb91b1-6c0e-4711-9f93-69fa7a002207_153e4b8716d730a9b84d6e9f7270a72c.jpg",
+                        "title": "Attic en suite"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7479/building_7479_img_1828_d1ba58ee6521d77a76047e6abc4a949c.jpg",
+                        "title": "Master bedroom detail"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7479/building_7479_55f85f8f-ff1a-45f0-80f4-663a1b9e4e17_c295976563fc98661a51d942891b1ce7.jpg",
+                        "title": "En suite"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7479/building_7479_img_3525_08b5c5a1d5f1fa950d91270355189e31.jpg",
+                        "title": "The back garden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7479/building_7479_img_8507_cffa819be20ac1fd29e7fbc76e7ff544.jpg",
+                        "title": "Sunset from the bedroom"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7479/building_7479_img_7847_14dbc274a7937a8391d5d2850ff53532.jpg",
+                        "title": "Dining area"
+                    }
+                ],
+                "name": "31 Milton Road",
+                "new_venue_this_year": "Yes",
+                "start": "16:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/7479"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.3062179,
                     51.40975359999999
                 ],
@@ -4186,6 +4319,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.11933,
+                    51.50342
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Setting off from the London Eye we cover icons of the South Bank before heading into the back streets to see different types of historic and contemporary architecture. The tour encompasses the area of my milk round from 1980 to 2020, eventually finishing at Borough High St..",
+                "end": "13:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/9208/building_9208_beating-the-bounds-roupell_059f3c740996d40eb19ae6f802c36deb.jpg",
+                        "title": "Beating the Bounds - Roupell St."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/9208/building_9208_dsc00163a_e3909305b3ff863fd3a531af9c1d1c55.jpg",
+                        "title": "Roupell St terraced housing"
+                    }
+                ],
+                "name": "Beating the Bounds",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/9208"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.07257999999999999,
                     51.41811000000001
                 ],
@@ -4313,6 +4477,45 @@
                 "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10010"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10137,
+                    51.53887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Little Angel Theatre was converted from a derelict temperance hall in 1961 and has been showcasing puppetry performances ever since. It is London's only purpose-built puppet theatre, due to the existence of its marionette bridge.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10082/building_10082_little-angel-theatre-credit-ellie-kurttz_78110db8d733ed024ba4b53402e5d58f.jpg",
+                        "title": "View of the theatre from Dagmar Terrace"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10082/building_10082_la-059-document-name_a534f75b653596533542d16f2b647dcf.jpg",
+                        "title": "Green Plaque for founder John Wright"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10082/building_10082_la-120-document-name_c1d9672899cc0e2867d2eb0d1ca76eaf.jpg",
+                        "title": "The Theatre Foyer"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10082/building_10082_la-141-document-name_67a9ddafe83ea329a358186916048978.jpg",
+                        "title": "The auditorium"
+                    }
+                ],
+                "name": "Little Angel Theatre",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10082"
             },
             "type": "Feature"
         },
@@ -4656,6 +4859,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1080343,
+                    51.51412879999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Fleet Street Heritage Wall comprises 86 A3 information panels about the people, places, ideas and newspapers which made the name of Fleet Street famous throughout the world.  Each Saturday and Sunday from 10 until 4, Piers Nicholson, who created the Heritage Sundial above the Wall, will speak on the project  and its innovative features which will make it widely accessible to all comers.",
+                "end": "16:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_main-image_5afd88cc9e65466cc43a8e8598b24d5a.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_heritage-wall-and-sundial_84f69a0811fe9a37e6a5c209440c2f0d.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_img_3617_f319ad78a7cce2e4f3f465fd64f3d872.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_img_3618_17b79bcdb05195bf940ae8d1d78640ed.png",
+                        "title": null
+                    }
+                ],
+                "name": "Fleet Street Heritage Wall and Sundial",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/10644"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1398657,
                     51.52359629999999
                 ],
@@ -4768,7 +5010,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A great little museum set in the Grade 2 listed Ossulston Estate - a prime example of pre-war Social housing - based on Karl Marz Hof in Vienna.\r\nOpen Tuesday to Friday 9am-5pm, plus Saturday 13th, Saturday 20th and Sunday 21st September 11am-4pm.",
+                "description": "A great little museum set in the Grade 2 listed Ossulston Estate - a prime example of pre-war Social housing - based on Karl Marx Hof in Vienna.\r\nOpen Tuesday to Friday 9am-5pm, plus Saturday 13th, Saturday 20th and Sunday 21st September 11am-4pm.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -5007,8 +5249,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0054362,
-                    51.500307
+                    0.00604,
+                    51.50019
                 ],
                 "type": "Point"
             },
@@ -5053,7 +5295,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "All Saints Church has aspects of the fabric dating back to at least early C12 with further modification and additions in the 15th, 17th and 19th centuries.  Charles and Mary Lamb lived on Church Street, where the church is situated and are buried in the Garden of Remembrance with the churchyard.",
+                "description": "Listed Grade ll*, All Saints Church has aspects of the fabric dating back to at least early C12 with further modification and additions in the 15th, 17th and 19th centuries.  Charles and Mary Lamb lived on Church Street, where the church is situated and are buried in the Garden of Remembrance with the churchyard.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -5126,6 +5368,37 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11296"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0635681,
+                    51.5838118
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Gaunson Creative Studios in South Tottenham, home to over 70 artist studios, will be opening its doors for the first time since 2019. Visitors will be able to meet and buy from over 50 artists across the weekend.",
+                "end": "20:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11380/building_11380_studio-2_6ab0f3cef02cdc31fb0e043aa6f08345.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11380/building_11380_studios1_901875dd2f97e9e4f3d09e0db27bf063.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Gaunson Creative Open Studios part of Markfield Road Festival",
+                "new_venue_this_year": "No",
+                "start": "14:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11380"
             },
             "type": "Feature"
         },
@@ -6067,7 +6340,7 @@
                         "title": "Inner Space Meditation Centre"
                     }
                 ],
-                "name": "Inner Space, Meditation Centre, Covent Garden",
+                "name": "Inner Space Meditation Centre, Covent Garden",
                 "new_venue_this_year": "No",
                 "start": "11:00:00",
                 "ticketed_events": "No",
@@ -6289,8 +6562,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.30516,
-                    51.50643
+                    -0.30281,
+                    51.50665
                 ],
                 "type": "Point"
             },
@@ -6758,8 +7031,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.31853,
-                    51.46219
+                    -0.31783,
+                    51.46206
                 ],
                 "type": "Point"
             },
@@ -6851,7 +7124,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Step behind the scenes at London Film School, one of the world’s most renowned film institutions. Just a stone’s throw from Covent Garden. Shelton Street was a banana warehouse, then 70s wasteland before it had a new era as a film school in London's creative heart. Our new venue on Parker street has recently been converted into bespoke film studios. Come and take a tour and join the workshop!",
+                "description": "Step behind the scenes at London Film School, one of the world’s most renowned film institutions. Just a stone’s throw from Covent Garden. Shelton Street was a banana warehouse, then 70s wasteland before it had a new era as a film school in London's creative heart. Our new venue on Parker Street has recently been converted into bespoke film studios. Come and take a tour and join the workshop!",
                 "end": "16:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -6983,7 +7256,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The Civic Action Lab is a new community event space, art gallery and artist studios at the former Palace Cinema in the heart of Kentish Town. The Cinema, originally design by Architect John Stanley Beard, has been underutilised since its closure in the 1950s. However together with charity Hypha Studio's, Camden Council is reimagining the space as a place for community innovation and collaboration.",
+                "description": "The Civic Action Lab is a new community event space, art gallery and artist studios at the former Palace Cinema in the heart of Kentish Town. The Cinema, originally designed by Architect John Stanley Beard, has been underutilised since its closure in the 1950s. However together with charity Hypha Studios, Camden Council is reimagining the space as a place for community innovation and collaboration.",
                 "end": "15:00:00",
                 "fully_booked": "",
                 "images": [
@@ -7073,6 +7346,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.07891,
+                    51.50843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "\"When trying to find Internet infrastructure in a city, it's helpful to start from the ground up – or, more precisely, somewhere just below the ground up...\" - Ingrid Burrington, artist (2016)\r\n\r\nThis tour will walk you through the ubiquitous but often invisible infrastructure that enables connectivity in London, with a focus specifically on the City of London.",
+                "end": "12:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13284/building_13284_img_8651_c3eb96b156502ebade7e06c2f1d935d2.jpg",
+                        "title": "Image description: Image of wifi connection sign in City of London. \r\nCredit: Anne Lee Steele"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13284/building_13284_tour-image_b84c33a29240e56907335d783daa0584.jpg",
+                        "title": "Image description: Tower Subway Tunnel, reflected on glass.\r\nCredit: Anne Lee Steele"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13284/building_13284_img_8837-copy_7d639384cbe9981a8cc80fdc59977bd7.jpg",
+                        "title": "Image description: Manhole cover with a logo of BT (British Telecom)\r\nCredit: Anne Lee Steele"
+                    }
+                ],
+                "name": "Internet infrastructure of London walking tour",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13284"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.09209,
                     51.54868
                 ],
@@ -7084,6 +7392,10 @@
                 "end": "13:00:00",
                 "fully_booked": "No",
                 "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13299/building_13299_img_3690_79d00683875e88142a38446db2667708.jpeg",
+                        "title": null
+                    },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13299/building_13299_img_3540_17e6dedb8551c07e0a8e801ed9c31498.jpeg",
                         "title": null
@@ -7109,7 +7421,11 @@
                         "title": null
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13299/building_13299_img_3543_e23dc6f2f33d529528502f2c704e247d.jpeg",
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13299/building_13299_img_3685_0ee69b4754e9b73d166ffcde29a22df6.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13299/building_13299_img_3543-1_498f8b1c5ab58e16eaba9bdffb529e05.jpeg",
                         "title": null
                     }
                 ],
@@ -7131,7 +7447,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Come and look behind the scenes at our London Film School studios on Parker Street. Based above the Garden Cinema, a stone's throw from Covent Garden, the building has recently been refurbished to bespoke studios, edit suits and classrooms for the world's renowned British film school.",
+                "description": "Come and look behind the scenes at our London Film School studios on Parker Street. Based above the Garden Cinema, a stone's throw from Covent Garden, the building has recently been refurbished to bespoke studios, edit suites and classrooms for the world-renowned British film school.",
                 "end": "16:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -7145,6 +7461,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13313"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.06515,
+                    51.46985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Collectarium and  Peter Maloney build on their Lockdown Space Collection which invited people to post images and films online that shared how they had adapted, re-imagined, transformed and expanded their home environment during lockdown. This exhibition spatially reframes and recontextualises the collection to critically reconsider the ideal home in our increasingly unsettled times.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13323/building_13323_lockdownliving01_2000_eabc04c37e3ea388df8412362fbbfa24.jpeg",
+                        "title": "Lockdown Cubs Camping Weekend, Image: Collectarium"
+                    }
+                ],
+                "name": "The Ideal Home for Lockdown Living",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13323"
             },
             "type": "Feature"
         }

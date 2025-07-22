@@ -234,6 +234,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.3529492,
+                    51.5937662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Built circa 1310, the moated manor house is the earliest surviving timber framed building in Middlesex. Described as one of the most interesting domestic complexes in the whole country, the fabric of Headstone Manor contains examples of high quality work dating from the 14th, 17th and 18th centuries.",
+                "end": "15:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3074/building_3074_back-cover-2_55597324b58a89ca2b56ee8a1e25c0dc.jpg",
+                        "title": "Headstone Manor &Museum"
+                    }
+                ],
+                "name": "Headstone Manor & Museum",
+                "new_venue_this_year": "Yes",
+                "start": "15:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/3074"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.118179,
                     51.51987740000001
                 ],
@@ -455,6 +482,45 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/6270"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13826,
+                    51.51895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Loughborough Pearson's red brick building is unimposing from the outside, but inside is a riot of Gothic Revival design. Golden mosaics reveal the character of the Grade II* listed chapel, built as part of the Middlesex Hospital.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6534/building_6534_dsc_4004_b7259ee15bdec13d50a055d763a41b47.jpg",
+                        "title": "The altar"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6534/building_6534_dsc_3989_281329c1b0e48f73a07a582c2db52299.jpg",
+                        "title": "View of the gold ceiling"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6534/building_6534_dsc_4011_3691ddb616aa40c276d8544b704aed19.jpg",
+                        "title": "Stained glass windows"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6534/building_6534_dsc_4088_85166f6539671e84ded3e068b09d8631.jpg",
+                        "title": "The ornate baptisery of the Fitzrovia Chapel"
+                    }
+                ],
+                "name": "Fitzrovia Chapel",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/6534"
             },
             "type": "Feature"
         },
@@ -1021,6 +1087,33 @@
                 "start": "20:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13152"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.06515,
+                    51.46985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Collectarium and  Peter Maloney build on their Lockdown Space Collection which invited people to post images and films online that shared how they had adapted, re-imagined, transformed and expanded their home environment during lockdown. This exhibition spatially reframes and recontextualises the collection to critically reconsider the ideal home in our increasingly unsettled times.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13323/building_13323_lockdownliving01_2000_eabc04c37e3ea388df8412362fbbfa24.jpeg",
+                        "title": "Lockdown Cubs Camping Weekend, Image: Collectarium"
+                    }
+                ],
+                "name": "The Ideal Home for Lockdown Living",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13323"
             },
             "type": "Feature"
         }

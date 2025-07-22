@@ -230,6 +230,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.3529492,
+                    51.5937662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Built circa 1310, the moated manor house is the earliest surviving timber framed building in Middlesex. Described as one of the most interesting domestic complexes in the whole country, the fabric of Headstone Manor contains examples of high quality work dating from the 14th, 17th and 18th centuries.",
+                "end": "14:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3074/building_3074_back-cover-2_55597324b58a89ca2b56ee8a1e25c0dc.jpg",
+                        "title": "Headstone Manor &Museum"
+                    }
+                ],
+                "name": "Headstone Manor & Museum",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/3074"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.09365,
                     51.51372
                 ],
@@ -400,6 +427,45 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/5278"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13826,
+                    51.51895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Loughborough Pearson's red brick building is unimposing from the outside, but inside is a riot of Gothic Revival design. Golden mosaics reveal the character of the Grade II* listed chapel, built as part of the Middlesex Hospital.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6534/building_6534_dsc_4004_b7259ee15bdec13d50a055d763a41b47.jpg",
+                        "title": "The altar"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6534/building_6534_dsc_3989_281329c1b0e48f73a07a582c2db52299.jpg",
+                        "title": "View of the gold ceiling"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6534/building_6534_dsc_4011_3691ddb616aa40c276d8544b704aed19.jpg",
+                        "title": "Stained glass windows"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6534/building_6534_dsc_4088_85166f6539671e84ded3e068b09d8631.jpg",
+                        "title": "The ornate baptisery of the Fitzrovia Chapel"
+                    }
+                ],
+                "name": "Fitzrovia Chapel",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/6534"
             },
             "type": "Feature"
         },
@@ -617,7 +683,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A great little museum set in the Grade 2 listed Ossulston Estate - a prime example of pre-war Social housing - based on Karl Marz Hof in Vienna.\r\nOpen Tuesday to Friday 9am-5pm, plus Saturday 13th, Saturday 20th and Sunday 21st September 11am-4pm.",
+                "description": "A great little museum set in the Grade 2 listed Ossulston Estate - a prime example of pre-war Social housing - based on Karl Marx Hof in Vienna.\r\nOpen Tuesday to Friday 9am-5pm, plus Saturday 13th, Saturday 20th and Sunday 21st September 11am-4pm.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
