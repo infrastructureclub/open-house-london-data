@@ -3,8 +3,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.1340197,
-                    51.5611056
+                    0.13278,
+                    51.56146
                 ],
                 "type": "Point"
             },
@@ -127,7 +127,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Grade II-listed Georgian domestic building c.1760, formerly part of Bedford Estate. Interior refurbished 1925 to form lecture hall (restored 2014), library, bookshop and offices. Oak woodwork and green Doulton tiles line the staircase.",
+                "description": "Grade II-listed Georgian domestic building c.1760, formerly part of the Bedford Estate. Interior refurbished 1925 to form lecture hall (restored 2014), library, bookshop and offices. Oak woodwork and green Doulton tiles line the staircase.",
                 "end": "17:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -995,6 +995,61 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/8339"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0990206,
+                    51.5192561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Founders' Hall has a unique blend of neo-Vernacular, Arts and Crafts, and Post-Modern styles. Its exterior features distinctive gabled bays, terracotta panels, and metal grilles, while the interior showcases a ceremonial staircase, ornate parlour, and a livery hall illuminated by impressive œil de bœuf windows, creating an exceptional fusion of architectural elements.",
+                "end": "19:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8396/building_8396_pxl_20230215_122648530_2_634a9c33db11699a6aeb60e20337471a.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8396/building_8396_ita-venues-founder-s-hall-stairwell-3-copy_50360261d1638cfc498469e76e2a3269.jpg",
+                        "title": "Entrance to the Hall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8396/building_8396_ita-founders-hall-outside-building-2_69d4fe56d52049b493bd97f916953502.jpg",
+                        "title": "Exterior View"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8396/building_8396_pxl_20220110_144145659_83ea2e435b7d694e5bad064dd5107f94.jpg",
+                        "title": "Artwork inside the Hall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8396/building_8396_coade-stone-photograph-2021_e99ecfd8df468147a6e2051584e2f572.jpg",
+                        "title": "Exterior - Coade Stone (1800)"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8396/building_8396_picture1_b19e097f93e8c4de9b9284f05d16aa41.jpg",
+                        "title": "Founders' Hall "
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8396/building_8396_pxl_20220301_133727085_b7c9b0c8722b9dc7a6301230493667b4.jpg",
+                        "title": "'Mole's eye view' \r\nEloise Harris, 2023"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8396/building_8396_pxl_20230413_104441570_f0f994088eba037e1816b9f37ab02770.jpg",
+                        "title": "'Millennium Bell' \r\nEloise Harris, 2023"
+                    }
+                ],
+                "name": "Founders' Hall",
+                "new_venue_this_year": "No",
+                "start": "16:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/8396"
             },
             "type": "Feature"
         },

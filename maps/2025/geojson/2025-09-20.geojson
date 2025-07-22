@@ -97,8 +97,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.1340197,
-                    51.5611056
+                    0.13278,
+                    51.56146
                 ],
                 "type": "Point"
             },
@@ -352,6 +352,45 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/555"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1492358,
+                    51.5721393
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Founded by Sir Roger Cholmeley, Lord Chief Justice of England, in 1565, Highgate School is governed as a single charitable foundation. Highgate School combines Victorian buildings (our Chapel, Central Hall classrooms and Sir Martin Gilbert Library) with modern facilities.",
+                "end": "14:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/604/building_604_highgate_chapel_01_4ebcbef694434ff392166f898f50953b.jpg",
+                        "title": "Highgate Chapel"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/604/building_604_highgate_chapel_02_246ddac66f928ff03b592e512bcfd753.jpg",
+                        "title": "Chapel Interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/604/building_604_highgate-library_5d0edfa546b0a4051acf85e6a6eace9a.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/604/building_604_school-museum-5-resize_2b48a281f2925d49a6d4e75d34d0b194.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Highgate School Chapel, Library, Museum",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/604"
             },
             "type": "Feature"
         },
@@ -2269,8 +2308,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1976526,
-                    51.6732098
+                    -0.19642,
+                    51.67758
                 ],
                 "type": "Point"
             },
@@ -5509,7 +5548,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Founders' Hall boasts a unique blend of neo-Vernacular, Arts and Crafts, and Post-Modern styles. Its exterior features distinctive gabled bays, terracotta panels, and metal grilles, while the interior showcases a ceremonial staircase, ornate parlour, and a livery hall illuminated by impressive œil de bœuf windows, creating an exceptional fusion of architectural elements.",
+                "description": "Founders' Hall has a unique blend of neo-Vernacular, Arts and Crafts, and Post-Modern styles. Its exterior features distinctive gabled bays, terracotta panels, and metal grilles, while the interior showcases a ceremonial staircase, ornate parlour, and a livery hall illuminated by impressive œil de bœuf windows, creating an exceptional fusion of architectural elements.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
