@@ -4483,6 +4483,53 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.105544,
+                    51.5137695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Wren designed building of 1675, interior lost in blitz of 1940, reopened 1957 with 'Wren inspired' interior",
+                "end": "16:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10035/building_10035_saint-brides-slater-king-354_bb8f07c9db1f49a68fbe0607f358d945.jpg",
+                        "title": "Interior looking East"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10035/building_10035__dsc5779_cd3d912e5447e35e717d236627d51849.jpg",
+                        "title": "St Bride - David McFall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10035/building_10035__dsc5914_179a1c91dd4d40e08e3a1850fa0f390c.jpg",
+                        "title": "The Spire"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10035/building_10035_saint-brides-slater-king-418_c22f6b0ed23f0c5ed4d2af75a40e3446.jpg",
+                        "title": "Crypt Chapel"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10035/building_10035_saint-brides-slater-king-337_46871a9de60eca0f2b50cb5dbc1b3314.jpg",
+                        "title": "The Dome"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10035/building_10035_saint-brides-slater-king-370_d2eda4854bb80af0cf057fca1dbc9b38.jpg",
+                        "title": "woodwork detail"
+                    }
+                ],
+                "name": "St Bride's Church, Fleet Street",
+                "new_venue_this_year": "No",
+                "start": "12:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.10137,
                     51.53887
                 ],
@@ -5715,6 +5762,37 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12190"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10395,
+                    51.30475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Norman Fisher Observatory is owned and run by Croydon Astronomical Society. \r\nOpen for the public to visit on clear Saturday evenings from September through to April, we will welcome visitors on Sunday 14th September between 2pm & 4pm.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12205/building_12205_img_3043_3badac2293c32f3b5736fd3fe536e7eb.jpeg",
+                        "title": "Main dome of the Norman Fisher Observatory, with the clubhouse behind."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12205/building_12205_img_3339_d896d0e573637c69b6d89c88ce7d4f53.jpeg",
+                        "title": "Photo by Paula Harvey:\r\nAurora Borealis over Norman Fisher Observatory, Friday 10th May 2024."
+                    }
+                ],
+                "name": "Norman Fisher Observatory",
+                "new_venue_this_year": "No",
+                "start": "14:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12205"
             },
             "type": "Feature"
         },
