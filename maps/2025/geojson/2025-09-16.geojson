@@ -769,7 +769,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Start Stamford Brook tube.  Follow the hidden river, Stamford Brook, through streets and parks.  Amongst the architecture we will see on this route is a delightful square with great variety.  Finish near Hammersmith Station .",
+                "description": "Start at   Stamford Brook tube.  Follow the hidden river, Stamford Brook, through streets and parks.  Amongst the architecture we will see on this route is a delightful square with great variety.  Finish near Hammersmith Station .",
                 "end": "12:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -1417,6 +1417,57 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13271"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.05836,
+                    51.58798
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Hale Wharf occupies a sliver of land where the urban intensity of Tottenham Hale meets the reservoirs and rivers of the Lee Valley, designated green belt and a Site of Special Scientific Interest. 505 new homes of a mix of size and tenure occupy a range of building typologies that make the most of this unique location. A guided tour will take you through the story of this new neighbourhood.",
+                "end": "15:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13294/building_13294_hale-wharf_image-4_credit-tim-crocker_e952e5ea0dc8fdaddfbadbefdd115f54.jpg",
+                        "title": "Photographer: Tim Crocker"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13294/building_13294_hale-wharf_image-2_credit-tim-crocker_8f9b15c24e30fb9fe512a5ae9dbdb3f1.jpg",
+                        "title": "Credit: Tim Crocker"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13294/building_13294_hale-wharf_image-5_credit-tim-crocker_761fc55560fddd5b1573b582f94025ee.jpg",
+                        "title": "Credit: Tim Crocker"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13294/building_13294_hale-wharf_image-1_credit-tim-crocker_9b6e9ac58874b64e91182dc0834468eb.jpg",
+                        "title": "Credit: Tim Crocker"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13294/building_13294_hale-wharf_image-10_credit-tim-crocker_2c266019ba075175b2fb86bb82f3e69a.jpg",
+                        "title": "Credit: Tim Crocker"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13294/building_13294_hale-wharf_image-6_credit-allies-and-morrison_93bd8a6b4905e6f38380f99eab725687.jpg",
+                        "title": "Credit: Allies and Morrison"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13294/building_13294_hale-wharf_image-13_credit-tim-crocker_2e3db896de08470e8a637a98e4668ce9.jpg",
+                        "title": "Credit: Tim Crocker"
+                    }
+                ],
+                "name": "Hale Wharf",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13294"
             },
             "type": "Feature"
         }

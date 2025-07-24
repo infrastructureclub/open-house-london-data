@@ -773,17 +773,17 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Museum and workshop showcasing the history of electrical timekeeping and networked time (1840-1970). We display an internationally significant collection, and showcase conservation in action.",
+                "description": "Museum and workshop showcasing the history of electrical and networked timekeeping (1840-1970). We display an internationally significant collection of clocks and timekeepers, and showcase conservation in action.",
                 "end": "16:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5457/building_5457_alex_jeffrey_lumen_0077_compressed_bd134e1f35d7f41e3e7fed0faf1fb4b0.jpg",
+                        "title": "Photo: Simon Camper"
+                    },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5457/building_5457_img_8411bw_a2dd589a1d8f6aad3706bddff4a0c449.jpg",
                         "title": "Conservators at work"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5457/building_5457_3_2b4217c68adaeb661f15a7aa99cf2409.JPG",
-                        "title": "Main gallery"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5457/building_5457_js1_2341-2_e7f3c38687d4cb26b9b7f30f291a8a27.jpg",
@@ -813,7 +813,7 @@
                 "name": "The Clockworks",
                 "new_venue_this_year": "No",
                 "start": "10:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/5457"
             },
             "type": "Feature"

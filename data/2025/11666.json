@@ -18,21 +18,6 @@
     },
     "events": [
         {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": true,
-            "end": "2025-09-20T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Hoxton Hall Guided Tour",
-            "notes": "Come join our tour of Hoxton Hall led by the Lady of the Manor and a Music Hall performance with The Good Companions!",
-            "start": "2025-09-20T15:15:00+01:00",
-            "ticketed": false
-        },
-        {
             "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
@@ -75,6 +60,21 @@
             "name": "Hoxton Hall Guided Tour",
             "notes": "Come join our tour of Hoxton Hall led by the Lady of the Manor and a Music Hall performance with The Good Companions!",
             "start": "2025-09-20T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/11666",
+            "capacity": null,
+            "date": "2025-09-20",
+            "drop_in": false,
+            "end": "2025-09-20T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Hoxton Hall Guided Tour",
+            "notes": "Come join our tour of Hoxton Hall led by the Lady of the Manor and a Music Hall performance with The Good Companions!",
+            "start": "2025-09-20T15:15:00+01:00",
             "ticketed": true
         }
     ],
