@@ -50,21 +50,6 @@
             "ticketed": false
         },
         {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": true,
-            "end": "2025-09-20T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Guided tour",
-            "notes": "Guided tour of the collection at The Clockworks, led by the Founder, Curator and Conservator-in-Residence.",
-            "start": "2025-09-20T14:30:00+01:00",
-            "ticketed": false
-        },
-        {
             "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
@@ -108,6 +93,21 @@
             "notes": "Guided tour of the collection at The Clockworks, led by the Founder, Curator and Conservator-in-Residence.",
             "start": "2025-09-20T11:00:00+01:00",
             "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/5457",
+            "capacity": null,
+            "date": "2025-09-20",
+            "drop_in": false,
+            "end": "2025-09-20T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour",
+            "notes": "Guided tour of the collection at The Clockworks, led by the Founder, Curator and Conservator-in-Residence.",
+            "start": "2025-09-20T14:30:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -125,7 +125,7 @@
             "heading": "Background",
             "paragraphs": [
                 "For decades, James and Luci allocated part of their home to an internationally important collection of electrical horology, available to view by appointment. Then, in 2012, they created The Clockworks, using the ground floor of a mid-Victorian printworks in the heart of West Norwood. With the help of local architect Mick Crowley, they created a hub for electrical horology, encompassing a museum, library and state of the art workshop for conservation and repair work.",
-                "The Clockworks features a superb gallery space that retains a seamless connection with the associated workshop and meeting area. Modern materials and components complement the nineteenth century light-industrial character of the building. Where possible, brickwork and steel ceiling joists have been left exposed. The Clockworks is now a world-recognised  research and study centre for the study and conservation of objects associated with electrical timekeeping, as well as a museum displaying precision clocks of international significance."
+                "The Clockworks features a superb gallery space that retains a seamless connection with the associated workshop and meeting area. Modern materials and components complement the nineteenth century light-industrial character of the building. Where possible, brickwork and steel ceiling joists have been left exposed. The Clockworks is now a world-recognised  research and study centre for the study and conservation of objects associated with electrical timekeeping, as well as a museum displaying precision clocks of international significance. These include the world's first successful free pendulum, designed by railway engineer William Hamilton Shortt in 1920, and two examples of the astronomical tank clocks designed by Soviet physicist Feodosii Fedchenko in the 1960s - still the most accurate pendulum clocks ever made."
             ]
         }
     ],

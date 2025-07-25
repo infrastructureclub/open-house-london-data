@@ -3297,6 +3297,10 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/4597/building_4597_f2e90d6f-375e-4122-b971-7a3cad002807_2e6d2eef64da684059813fdb3556d85a.jpeg",
                         "title": "Stone from St Patrick’s Cathedral , Armagh. Given to the Vicar of Barking Rev Thomas Bloomer 1938."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/4597/building_4597_st-patrick-s-church-1_79502bf86d74158a59d2aceb4bf950ee.jpg",
+                        "title": null
                     }
                 ],
                 "name": "St Patrick's Church",
@@ -6264,7 +6268,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A great little museum set in the Grade 2 listed Ossulston Estate - a prime example of pre-war Social housing - based on Karl Marx Hof in Vienna.\r\nOpen Tuesday to Friday 9am-5pm, plus Saturday 13th, Saturday 20th and Sunday 21st September 11am-4pm.",
+                "description": "A great little museum set in the Grade 2 listed Ossulston Estate - a prime example of pre-war Social housing - based on Karl Marz Hof in Vienna.\r\nOpen Tuesday to Friday 10am-4pm, plus Saturday 13th, Sunday 14th and Saturday 20th September 11am-4pm.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -7336,6 +7340,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.09292,
+                    51.51606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights scale architectural models of London: the New London Model and the City Model, in additional to a rotating exhibition highlighting key NLA projects.",
+                "end": "14:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12022/building_12022_tlc-gallery-image_4a4ec9198eae3721250973552952142d.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12022/building_12022_screenshot-2024-05-11-at-10-55-29_1cce4b0b44fc25088159e3fadb0040d9.png",
+                        "title": "Model Talks at The London Centre."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12022/building_12022_screenshot-2024-05-11-at-10-57-36_4261bd2d5b59c2f371317927808bded9.png",
+                        "title": "Exhibitions at The London Centre."
+                    }
+                ],
+                "name": "The London Centre",
+                "new_venue_this_year": "No",
+                "start": "14:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.09939,
                     51.37226
                 ],
@@ -7457,7 +7496,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Croydon Town Hall will be opened for a limited number of guided tours, providing rare access to this unique Victorian-style, Grade II listed building. Croydon Town Hall was designed by local architect Charles Henman and opened in 1896.",
-                "end": "12:45:00",
+                "end": "13:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -7479,7 +7518,7 @@
                 ],
                 "name": "Croydon Town Hall",
                 "new_venue_this_year": "No",
-                "start": "10:00:00",
+                "start": "10:15:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12168"
             },
@@ -7500,12 +7539,12 @@
                 "fully_booked": "No",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12190/building_12190_taco-francis-chu-22_59581743264582182066a34541265723.jpg",
-                        "title": "TACO!-Francis Scott-Wendy-Chu-Li Shewring"
-                    },
-                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12190/building_12190_m-w_taco-_gallery_dg_33-copy_43aeb98d511dbc3b7358ba72830d269c.jpg",
                         "title": "TACO!-Manalo & White-Gallery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12190/building_12190_taco-francis-chu-22_59581743264582182066a34541265723.jpg",
+                        "title": "TACO!-Francis Scott-Wendy-Chu-Li Shewring"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12190/building_12190_tm-20mar24-124_3e8472c1d279a6aa98f2a63e1d85add0.jpg",
