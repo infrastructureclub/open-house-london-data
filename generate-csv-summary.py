@@ -10,8 +10,8 @@ import pytz
 
 year = os.environ["YEAR"]
 timezone = pytz.timezone("Europe/London")
-data_path = "data/%s" % year
-csv_path = "csv/%s" % year
+data_path = f"data/{year}"
+csv_path = f"csv/{year}"
 
 dates = defaultdict(list)
 
@@ -46,7 +46,7 @@ now = timezone.localize(datetime.now())
 for date, locations in dates.items():
     os.makedirs(csv_path, exist_ok=True)
 
-    print("Writing %s..." % date)
+    print(f"Writing {date}...")
 
     with open(csv_path + "/" + date + ".csv", "w", encoding="utf-8") as f:
         writer = csv.writer(f)

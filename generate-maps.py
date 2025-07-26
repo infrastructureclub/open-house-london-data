@@ -13,8 +13,8 @@ from shapely.geometry import Point
 
 year = os.environ["YEAR"]
 timezone = pytz.timezone("Europe/London")
-data_path = "data/%s" % year
-maps_path = "maps/%s" % year
+data_path = f"data/{year}"
+maps_path = f"maps/{year}"
 
 dates = defaultdict(list)
 
@@ -37,7 +37,7 @@ for filename in os.listdir(data_path):
 now = timezone.localize(datetime.now())
 
 for date, locations in sorted(dates.items()):
-    print("Writing %s..." % date)
+    print(f"Writing {date}...")
 
     kml = simplekml.Kml()
     features = []
@@ -98,9 +98,9 @@ for date, locations in sorted(dates.items()):
         # If someone uses the same lat/lon for multiple venues in the same
         # building only one of them will show up in most geojson renderers, so
         # we add a small amount to the longitude to avoid this
-        while "%s,%s" % (lat, lon) in seen_latlons:
+        while f"{lat},{lon}" in seen_latlons:
             lon = lon + 0.0001
-        seen_latlons.add("%s,%s" % (lat, lon))
+        seen_latlons.add(f"{lat},{lon}")
 
         kml.newpoint(
             name=location["name"],

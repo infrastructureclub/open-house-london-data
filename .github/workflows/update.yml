@@ -18,13 +18,13 @@ jobs:
           YEAR: 2025
 #          OH_SESSION_COOKIE: ${{ secrets.OH_SESSION_COOKIE }}
           WG_CONFIG_FILE: ${{ secrets.WG_CONFIG_FILE }}
+          PROXY: socks5h://127.0.0.1:25344/
         run: |
           sudo apt-get install libgeos-dev
           pip install -r requirements.txt
 
           # we'll regenerate these, so remove them now and git add -u will
-          # later mark them as deleted in git
-          rm data/$YEAR/* || true
+          # later mark them as deleted in git. `data` is handled by the scraper.
           rm csv/$YEAR/* || true
           rm -rf maps/$YEAR/* || true
 
@@ -57,7 +57,6 @@ jobs:
           mv csv.new csv
           mv maps.new maps
 
-          # -u because we want to also remove any files that have been deleted
           git add data
           git add csv
           git add maps

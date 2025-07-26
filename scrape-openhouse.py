@@ -17,7 +17,7 @@ headers = {
     "Referer": "https://programme.openhouse.org.uk/",
 }
 
-proxy = "socks5h://127.0.0.1:25344/"
+proxy = os.getenv("PROXY")
 
 cookies = {}
 session_cookie = os.getenv("OH_SESSION_COOKIE")
@@ -31,7 +31,14 @@ else:
     cookies = {"_session_id": "no_session"}
 
 year = int(os.environ["YEAR"])
+os.makedirs(f"data/{year}", exist_ok=True)
+
 timezone = pytz.timezone("Europe/London")
+
+existing_venues = []
+for venue_fname in os.listdir(f"data/{year}/"):
+    if ".json" in venue_fname:
+        existing_venues.append(int(venue_fname.split(".")[0]))
 
 buildings = []
 response = requests.get(
@@ -58,13 +65,16 @@ if len(buildings) == 0:
     print("ERROR: No buildings found")
     sys.exit(1)
 
-
+scrape_start = datetime.now()
+scraped_venues = []
 count = 0
+
 for building in buildings:
     count += 1
-    print("Fetching listing %s/%s - %s" % (count, len(buildings), building))
+    print(f"Fetching listing {count}/{len(buildings)} - {building}")
 
-    original_url = "https://programme.openhouse.org.uk/listings/%s" % building["id"]
+    venue_file = f'data/{year}/{building["id"]}.json'
+    original_url = f'https://programme.openhouse.org.uk/listings/{building["id"]}'
 
     while True:
         try:
@@ -78,20 +88,16 @@ for building in buildings:
             if response.content == b"Retry later\n" or response.status_code == 503:
                 sleep_until = datetime.now() + timedelta(minutes=10)
                 print(
-                    "!! Hit rate limiting, having a little sleep until %s" % sleep_until
+                    f"!! Hit rate limiting, having a little sleep until {sleep_until}"
                 )
                 time.sleep(10 * 60)
             else:
                 break
 
         except requests.errors.RequestsError as e:
-            print("!!? Failed to fetch listing page, trying again in 10s: '%s'" % e)
+            print(f"!!? Failed to fetch listing page, trying again in 10s: '{e}'")
             time.sleep(10)
 
-    # FIXME: If the server has downtime this will result in all listings being
-    # removed as we delete them all before the run. Instead we should be
-    # skipping over them and only deleting listings that now 404, from within
-    # this code instead of the github workflow.
     if response.status_code == 500:
         print(
             "SKIPPING due to 500 response from server - likely this listing isn't public yet"
@@ -143,7 +149,21 @@ for building in buildings:
         "all_week": False,  # Not used anymore, preserved for backward compat
         "ticketed_events": False,
         "new_venue_this_year": True,
+        "first_published": None,
+        "venue_years_listed": [],
     }
+
+    data["first_published"] = scrape_start.isoformat()
+
+    # If we already have data for this venue to persist
+    existing_data = {}
+    if building["id"] in existing_venues:
+        with open(venue_file, "r") as f:
+            existing_data = json.load(f)
+
+        # first_published may not exist in earlier data
+        if "first_published" in existing_data:
+            data["first_published"] = existing_data["first_published"]
 
     # Images
     image_nodes = root.xpath('//*[contains(@id, "photo-")]/img')
@@ -188,7 +208,7 @@ for building in buildings:
     travel_ps = root.xpath(travel_and_facilities_prefix + "[2]/p")
     for node in zip(travel_titles, travel_ps):
         data["location"]["travel_info"].append(
-            "%s: %s" % (node[0].text_content(), node[1].text_content())
+            f"{node[0].text_content()}: {node[1].text_content()}"
         )
 
     # Facilities
@@ -297,7 +317,7 @@ for building in buildings:
                 capacity = None
                 capacity_node = event.xpath('.//p[contains(@class, "capacity")]/text()')
                 if capacity_node:
-                    matches = re.search(r'(\d+)', capacity_node[0])
+                    matches = re.search(r"(\d+)", capacity_node[0])
                     capacity = int(matches.group(1))
 
                 notes_node = event.xpath('.//p[contains(@class, "text")]/text()')
@@ -416,13 +436,15 @@ for building in buildings:
     if links_ticketed or events_ticketed:
         data["ticketed_events"] = True
 
-    # If we've seen this venue in the past five years, it's not new
-    for previous_year in (year - 1, year - 2, year - 3, year - 4, year - 5):
-        if os.path.exists("data/%s/%s.json" % (previous_year, data["id"])):
-            data["new_venue_this_year"] = False
+    # Detect new venues, previous years exhibited
+    for previous_year in sorted(os.listdir("data/")):
+        previous_year = int(previous_year)
+        if os.path.exists(f"data/{previous_year}/{data['id']}.json"):
+            data["venue_years_listed"].append(previous_year)
+            if previous_year != year:
+                data["new_venue_this_year"] = False
 
-    os.makedirs("data/%s" % year, exist_ok=True)
-    with open("data/%s/%s.json" % (year, data["id"]), "w", encoding="utf8") as f:
+    with open(venue_file, "w", encoding="utf8") as f:
         f.write(
             json.dumps(
                 data,
@@ -433,6 +455,13 @@ for building in buildings:
             )
         )
 
-    print(" - Found %s events" % len(data["events"]))
+    print(f" - Found {len(data['events'])} events")
+    scraped_venues.append(data["id"])
 
     time.sleep(1)
+
+# Remove all venues that we didn't see this time, or we failed to scrape
+venues_to_remove = set(existing_venues) - set(scraped_venues)
+print(f"* Removing venues that no longer exist: {venues_to_remove}")
+for venue in venues_to_remove:
+    os.remove(f'data/{year}/{venue}.json')
