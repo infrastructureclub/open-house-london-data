@@ -30,8 +30,8 @@
             "drop_in": true,
             "end": "2025-09-20T16:00:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Open Days",
-            "notes": "We also wish to open on Sunday 21 September  13.30 - 16.30",
+            "name": "Drop in: Open Day",
+            "notes": "",
             "start": "2025-09-20T10:00:00+01:00",
             "ticketed": false
         },
@@ -45,7 +45,7 @@
             "drop_in": true,
             "end": "2025-09-21T16:30:00+01:00",
             "fully_booked": false,
-            "name": "Drop in",
+            "name": "Drop in: Open Day",
             "notes": "",
             "start": "2025-09-21T13:30:00+01:00",
             "ticketed": false
@@ -71,6 +71,7 @@
             ]
         }
     ],
+    "first_published": "2025-07-26T21:21:23.055071",
     "id": 2059,
     "images": [
         {
@@ -161,5 +162,12 @@
     "name": "The Hospital Chapel of St Mary & St Thomas",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2059",
-    "ticketed_events": false
+    "ticketed_events": false,
+    "venue_years_listed": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+    ]
 }
