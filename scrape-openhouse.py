@@ -40,6 +40,8 @@ for venue_fname in os.listdir(f"data/{year}/"):
     if ".json" in venue_fname:
         existing_venues.append(int(venue_fname.split(".")[0]))
 
+print(f"Found {len(existing_venues)} existing venues for {year}")
+
 buildings = []
 response = requests.get(
     "https://programme.openhouse.org.uk/map",
@@ -160,6 +162,8 @@ for building in buildings:
     if building["id"] in existing_venues:
         with open(venue_file, "r") as f:
             existing_data = json.load(f)
+
+        print(" - Found existing data")
 
         # first_published may not exist in earlier data
         if "first_published" in existing_data:
