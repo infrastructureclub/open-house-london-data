@@ -537,6 +537,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.101948,
+                    51.5416319
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Explore Islington Town Hall: a grand, Grade II listed example of Edwardian Baroque architecture. Celebrating its centenary this year, the Town Hall's Art Deco style interiors, staircases and impressive council chamber reflect civic pride and timeless design in the heart of Upper Street. Original clocks, paintings and decorative panels have survived for a century in this lovely municipal building.",
+                "end": "12:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/767/building_767_islington-town-hall-1980_2e22d15915ae6bd99019ecff45618128.jpg",
+                        "title": "View from Upper Street"
+                    }
+                ],
+                "name": "Islington Town Hall",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/767"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.16216,
                     51.55196
                 ],
@@ -2525,6 +2552,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.2972871,
+                    51.5154533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Inter-war residential development representing the 'glamorous aspirations' of the period (Pevsner). Five blocks of flats in Dutch-Colonial-Baroque style, and clubhouse with swimming pool.",
+                "end": "20:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3684/building_3684_20-1_ealingvillage_emb_still2_36a2679dc5ad6f4121c112f6180a187d.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3684/building_3684_img_2328_5c9f32e3248451fe282b9de90d3fe7bd.jpeg",
+                        "title": "Ealing Village Tree"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3684/building_3684_img_2935_39abe5e84df6690d0c3350e77a112160.jpeg",
+                        "title": "EV"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3684/building_3684_img_2936_e820e5b8126195f5d8f0ebbf6037ed07.jpeg",
+                        "title": "Swimming pool"
+                    }
+                ],
+                "name": "Ealing Village",
+                "new_venue_this_year": "Yes",
+                "start": "08:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/3684"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1705811,
                     51.3552692
                 ],
@@ -3070,7 +3136,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The sustainable new headquarters of the Mayor of London and London Assembly located in the Royal Docks, Newham.  The docks are re-emerging as a commercial and cultural hub, and an exciting new waterfront.",
+                "description": "The sustainable new headquarters of the Mayor of London and London Assembly located in the Royal Docks, Newham.  The docks are re-emerging as a commercial and cultural hub, and an exciting new waterfront.\r\n\r\nThis year the Greater London Authority will be celebrating the  25th anniversary of it's formation and will be holding an exhibition.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [

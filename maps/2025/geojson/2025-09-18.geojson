@@ -1914,6 +1914,37 @@
                 "url": "https://programme.openhouse.org.uk/listings/13283"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1017,
+                    51.52306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "What does an office have in common with hotels, residential clubhouses, F&B spaces, and retail? We invite you to an open studio at Conran and Partners to examine how design increasingly blurs traditional sector boundaries. Experience a journey through spaces that shift from public to private, reflecting how the modern workplace has evolved into a lifestyle choice.",
+                "end": "21:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13296/building_13296_conran-and-partners_dock-shed_taran-wilkhu-31_c90d6e2211973c4e528be429a8061e9a.jpg",
+                        "title": "Dock Shed, Canada Water.  Interior design by Conran and Partners - photo by Taran Wilkhu"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13296/building_13296_conran-and-partners_45-mortimer-street_images-by-anna-stathaki-13_8b52bcf627e072c0b6e881c58351f1eb.jpg",
+                        "title": "45 Mortimer Street, London.  Interior design by Conran and Partners - photo by Anna Stathaki"
+                    }
+                ],
+                "name": "Blurred boundaries",
+                "new_venue_this_year": "Yes",
+                "start": "15:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13296"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
