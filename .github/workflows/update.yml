@@ -38,6 +38,7 @@ jobs:
           python -u generate-csv-summary.py
           python -u generate-maps.py
           python -u generate-new-venue-lists.py
+          python -u generate-venue-announcement-list.py
 
           mv data data.new
           mv csv csv.new
