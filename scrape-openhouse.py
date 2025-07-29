@@ -448,6 +448,11 @@ for building in buildings:
             if previous_year != year:
                 data["new_venue_this_year"] = False
 
+    # If we just scraped this for the first time the file for this year doesn't
+    # exist yet so ensure we add this year to reduce commitspam
+    if year not in data["venue_years_listed"]:
+        data["venue_years_listed"].append(year)
+
     with open(venue_file, "w", encoding="utf8") as f:
         f.write(
             json.dumps(
