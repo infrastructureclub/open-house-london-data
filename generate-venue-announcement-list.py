@@ -79,7 +79,7 @@ if os.path.isdir(input_directory):
             fe = fg.add_entry()
             fe.id(datestring)
             fe.title(f'{len(listings)} new Open House venues listed on {date:%a %d %B at %H:%M}')
-            fe.link(href=f'https://openhouse.infrastructureclub.org/reports/new_venues/{year}.html#{datestring}')
+            fe.link(href=f'https://openhouse.infrastructureclub.org/reports/venues_announced/{year}.html#{datestring}')
 
         of.write(
             f"""
