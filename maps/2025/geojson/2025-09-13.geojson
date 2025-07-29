@@ -401,7 +401,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The first purpose-built yoga centre in Europe. Yoga's philosophy is translated into the crisp simplicity of the design, down a cobbled path into a courtyard garden, the modernist facade is striking and simiple. The two studios have light pouring in through a grid of square lightwells in ceiling and ceiling mounted panels can be opened to create one space large enough for 70 yoga practitioners.",
+                "description": "The first purpose-built yoga centre in Europe. Yoga's philosophy is translated into the crisp simplicity of the design, down a cobbled path into a courtyard garden, the modernist facade is striking and simiple. The two studios have light pouring in through a grid of square lightwells in the ceiling; and ceiling-mounted panels can be opened to create one space large enough for 70 yoga practitioners.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -2083,6 +2083,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.06696,
+                    51.41915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Fine Victorian church with large mosaic and painted reredos, screen and wall paintings and some unusual glass. Arts and crafts decoration by Nathaniel Westlake and Salviati Bros.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2469/building_2469_soc3_da49e066cae22be126dc025e49b26fef.jpg",
+                        "title": "Rood Screen and Chancel"
+                    }
+                ],
+                "name": "Church of the Annunciation",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2469"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.08199,
                     51.65278
                 ],
@@ -2348,7 +2375,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "During Open House, the Friends of Battersea Parish Church are staging a Floral Festival, organ recitals, historical displays, and on Sunday 14 September at 3pm, a concert by The London Vegetable Orchestra  “Rooted in Culture”; suitable for all ages, King Charles recently tooted a carrot to Twinkle, twinkle! On Friday 19 September at 7pm, author Lamorna Ash will join us for a Q&A and book signing.",
+                "description": "During Open House, the Friends of Battersea Parish Church are staging a Floral Festival, organ recitals, historical displays, and on Sunday 14 September at 3pm, a concert by The London Vegetable Orchestra  “Rooted in Culture”: suitable for all ages, King Charles recently tooted a carrot to Twinkle, twinkle! On Friday 19 September at 7pm, author Lamorna Ash will join us for a Q&A and book signing.",
                 "end": "16:30:00",
                 "fully_booked": "No",
                 "images": [
@@ -2452,6 +2479,88 @@
                 "start": "10:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/2571"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1061456,
+                    51.4463695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Brockwell Hall was originally built in 1811-1813 for a wealthy Ludgate Hill glass maker as the centrepiece of his estate. It has recently been restored by PRS Architects, following an initiative led by Brockwell Hall Community Partners. Original features of the Grade II* listed Recency Villa have been restored and new spaces inside the Hall created for park users and the local community to enjoy.",
+                "end": "11:15:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2711/building_2711_2025-05-02-19-39-04-007_019c919ace41660e204036935f71fb6f.png",
+                        "title": "Brockwell Hall"
+                    }
+                ],
+                "name": "Brockwell Hall",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/2711"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.12892,
+                    51.50802
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Canada's diplomatic home in the United Kingdom, the revitalised Canada House serves as a showcase for the very best of Canadian art and design in the 21C.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2783/building_2783_eb-stamp_canada_house_with_flag_to_fit_fd0a0d196431d1a3af190b04980b8a00.jpg",
+                        "title": "View Pall Mall East"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2783/building_2783_51_chc_fit-out13_v2_lr-11_abe2090dc66385d0b83c549aca49119e.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2783/building_2783_canada-house-external_c4d5f9c71812b7dc77887a4613afb25e.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2783/building_2783_canada_house-with-flag-re-touch-no_side_flag_90946b8bcd129d1b77c414d651c57f77.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2783/building_2783_chc_4_terrace_7092_hr_v2_20e54b95cee59abadcfd81b8b049f292.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2783/building_2783_chc_ext2_9257_hr_48dad66a953740715b97e47d79906629.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2783/building_2783_img_6371_9c819f9c795b72a49550afcc81243afb.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2783/building_2783_maple_1857c8351e7b46b7c9386aba366f1e9e.jpg",
+                        "title": ""
+                    }
+                ],
+                "name": "Canada House",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/2783"
             },
             "type": "Feature"
         },
@@ -2646,7 +2755,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "St John’s has a wide nave approached via a narthex formed under the gallery running the width of the west end.  East of the nave is a chancel flanked to the south by the Lady Chapel and to the north by the organ chamber with loft over.",
-                "end": "11:00:00",
+                "end": "12:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -2676,7 +2785,7 @@
                 ],
                 "name": "St John the Divine",
                 "new_venue_this_year": "No",
-                "start": "10:15:00",
+                "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/3397"
             },
@@ -2861,8 +2970,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.2972871,
-                    51.5154533
+                    -0.29474,
+                    51.51603
                 ],
                 "type": "Point"
             },
@@ -3044,8 +3153,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1655658,
-                    51.3660834
+                    -0.16497,
+                    51.36524
                 ],
                 "type": "Point"
             },
@@ -3818,6 +3927,37 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/5389"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.18281,
+                    51.49891
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Representing Neo-Classicist style characteristic of the mid-19C, many of the details of the house have been restored to their original splendour. The interior design is inspired by Estonian nature: swamps, lakes and forests.",
+                "end": "13:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5487/building_5487_saatkond-landscape_106128d2a472b742b1ced99d94667926.jpg",
+                        "title": "entrance"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5487/building_5487_26151889245_cfaf8ba6de_o_bb8e57275d3d0591d63f59a71edb104e.jpg",
+                        "title": "consular section"
+                    }
+                ],
+                "name": "Embassy of the Republic of Estonia",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/5487"
             },
             "type": "Feature"
         },
@@ -7527,8 +7667,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.09927,
-                    51.37235
+                    -0.09866,
+                    51.37207
                 ],
                 "type": "Point"
             },
@@ -8632,8 +8772,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.01162,
-                    51.52487
+                    -0.01133,
+                    51.52427
                 ],
                 "type": "Point"
             },
@@ -9004,8 +9144,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.11282,
-                    51.51313
+                    -0.11288,
+                    51.51305
                 ],
                 "type": "Point"
             },
@@ -10165,7 +10305,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A tour from Brentford to Isleworth.  An opportunity to reminisce about and view landscapes Turner painted while exploring buildings with which  he was familiar, ranging  from a surviving purpose built Georgian School of Industry to the grandeur of 16thC Syon House and 17thC Gordon House, both embellished by architect Robert Adam.",
+                "description": "A tour from Brentford to Isleworth.  An opportunity to reminisce about and view landscapes Turner painted, while exploring buildings with which he was familiar, ranging  from a surviving purpose built Georgian School of Industry to the grandeur of 16thC Syon House and 17thC Gordon House, both embellished by architect Robert Adam.",
                 "end": "16:30:00",
                 "fully_booked": "No",
                 "images": [
@@ -10459,6 +10599,80 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13292"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09895,
+                    51.37635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A box of building bricks or connecting rods has given pleasure to generations of children, and tested the ingenuity of designers and makers. See an exhibition of your own childhood favourites, together with historical rarities- and try some of them of them out. Hear a talk given by architectural historian and chairman of Pollocks Toy Museum Trust Dr. Alan Powers .",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13305/building_13305_image0-3_2173bd63d0a523802725362ac797a88e.jpeg",
+                        "title": "Factory Town"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13305/building_13305_image2-2_ce6ca1bcd0d9b886b8a4735f5da8c6d3.jpeg",
+                        "title": "Bayko Building Set"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13305/building_13305_image1-5_bde8f9dae6b26171d435f6143721d6ee.jpeg",
+                        "title": "Minibrix Rubber Blocks"
+                    }
+                ],
+                "name": "Blocks, Rods, Bricks and Fiddly Bits",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13305"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.12908,
+                    51.53359
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Now used as the atelier and showroom for the bespoke women's tailoring house, Isabel Glanville, this arch is a Grade II listed building, built in 1898, in the Gothic Revival style. A rare remnant of a pointed-arch arcade which was originally used as trade stores and built by the Midland Railway Company.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13309/building_13309_bella-outside-studio_08c0191100e5da8b26939ad38d132595.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13309/building_13309__r040459_39ee41ac618b1450f1a4ca48bd8213f4.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13309/building_13309__58a9939_29d0fd684a5d6d65682ff72ffb2c3d80.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13309/building_13309_img_4142_87a278e63a51c2583942c7205a3ea1ad.jpeg",
+                        "title": null
+                    }
+                ],
+                "name": "137 Pancras Road",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13309"
             },
             "type": "Feature"
         },
