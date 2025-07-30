@@ -56,9 +56,10 @@ if os.path.isdir(input_directory):
                         font-size: 0.8em;
                     }}
                 </style>
+                <link rel="alternate" type="application/rss+xml" title="Open House venue announcement feed" href="https://openhouse.infrastructureclub.org/reports/venues_announced/rss.xml" />
             </head>
             <body>
-            <h1>London Open House venue announcements for {year}</h1>
+            <h1>London Open House venue announcements for {year}&nbsp;<a href="rss.xml"><img src="../../assets/rss.png"></a></h1>
         """
         )
 
