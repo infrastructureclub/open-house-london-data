@@ -3,7 +3,7 @@ import glob
 import json
 import html
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, timezone
 
 from dateutil import parser
 from feedgen.feed import FeedGenerator
@@ -64,6 +64,8 @@ if os.path.isdir(input_directory):
 
         for datestring, listings in sorted(groups.items(), reverse=True):
             date = parser.parse(datestring)
+            date = date.replace(tzinfo=timezone.utc)
+
             of.write(f"<h2 id='{datestring}'>{date:%a %d %B at %H:%M}</h2>")
             for data in listings:
                 description = html.escape(data["description"], quote=True)
@@ -71,13 +73,17 @@ if os.path.isdir(input_directory):
                 ticket = ""
                 if data["ticketed_events"]:
                     ticket = "&nbsp;🎟️"
+                new = ""
+                if data["new_venue_this_year"]:
+                    new = "🆕&nbsp;"
 
                 of.write(
-                    f"<li><a href='{data['original_url']}' title='{description}'>{data['name']}</a>{ticket}&nbsp;<span class='trailer'>{', '.join(data['design']['types'])}&nbsp;|&nbsp;{postcode}</span></li>"
+                    f"<li>{new}<a href='{data['original_url']}' title='{description}'>{data['name']}</a>{ticket}&nbsp;<span class='trailer'>{', '.join(data['design']['types'])}&nbsp;|&nbsp;{postcode}</span></li>"
                 )
 
             fe = fg.add_entry()
             fe.id(datestring)
+            fe.published(published=date)
             fe.title(f'{len(listings)} new Open House venues listed on {date:%a %d %B at %H:%M}')
             fe.link(href=f'https://openhouse.infrastructureclub.org/reports/venues_announced/{year}.html#{datestring}')
 
