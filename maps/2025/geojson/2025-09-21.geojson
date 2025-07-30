@@ -2479,6 +2479,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13901,
+                    51.52139
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "Yes",
+                "description": "An enduring, distinctive feature of the London skyline for the last 54 years, this is a rare opportunity for members of the public to visit the famous revolving floor, 158m above the capital. After the flight the guests can watch a history of the BT Tower film in our auditorium.",
+                "end": "19:15:00",
+                "fully_booked": "Yes",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2735/building_2735_bt_tower_maja_smiejkowska_23_5a94a3235dd0b2e79cee9c53e05b8b48.jpg",
+                        "title": "BT_Tower_Maja_Smiejkowska_23"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2735/building_2735_wp_20150707_21_48_59_pro-2_92217ffa88764baa5f3ce9d806f45d21.jpg",
+                        "title": "View from BT Tower"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2735/building_2735_screenshot-2023-08-16-at-15-57-46_f1e5d2c5b84b3cd89e63ab3286e14d97.png",
+                        "title": "BT Tower at Night"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2735/building_2735_screenshot-2023-08-16-at-15-59-03_7d45d14f8ccbc369a34553be7976d52d.png",
+                        "title": "BT Tower"
+                    }
+                ],
+                "name": "BT Tower",
+                "new_venue_this_year": "No",
+                "start": "09:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/2735"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.12344,
                     51.54731
                 ],
@@ -3796,6 +3835,57 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/6935"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.02449,
+                    51.54713
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Studio Wayne McGregor is a world-class creative arts space, containing extraordinary dance studios and a series of playful spaces in which to collaborate, make and create - part of a new technological and creative community of east London.",
+                "end": "17:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7001/building_7001_001_openspacetower_studiowaynemcgregor_richard-davies_01_lr_616113208aad46d8c3b5dc31a225e149.jpg",
+                        "title": "The Gallery is our primary space featuring a striking tower that connects all our spaces"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7001/building_7001_003_studio1_studiowaynemcgregor_gilbert_mccarragher_lores_052_08806fe13997083659698dc830f9986e.jpg",
+                        "title": "Studio 1, the largest studio with a feature ceiling aperture to allow the space to be filled with natural light in daylight hours"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7001/building_7001_004_studio2_studiowaynemcgregor_gilbert_mccarragher_lores_048_00b1e77262a7af88748302abd35f2fe1.jpg",
+                        "title": "Studio 2 is uniquely designed to play with light and architecture with three skylights"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7001/building_7001_005_studio3_studiowaynemcgregor_gilbert_mccarragher_lores_056_b11cf1826b815ba381121b035f36d4ae.jpg",
+                        "title": "Mirrors adorn each of the doors in Studio 3, the second largest studio"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7001/building_7001_007_meetingroom_studiowaynemcgregor_richard-davies_05_lr_a7c6a6eb69769df409cda6c83de2ae14.jpg",
+                        "title": "The Collaboration Space features a bespoke vinyl floor based on a work by Bauhaus artist Anni Albers"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7001/building_7001_006_firstfloor_studiowaynemcgregor_gilbert_mccarragher_lores_032_a49a6938ed377559eebd89322d46c47c.jpg",
+                        "title": "View from the first floor"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7001/building_7001_008_terrace_studiowaynemcgregor_gilbert_mccarragher_lores_038_5fd6f38e078c9980d96b317ff883f012.jpg",
+                        "title": "The Obsidian Terrace is an internal terrace for meetings, networking events and photoshoots"
+                    }
+                ],
+                "name": "Studio Wayne McGregor",
+                "new_venue_this_year": "No",
+                "start": "10:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/7001"
             },
             "type": "Feature"
         },

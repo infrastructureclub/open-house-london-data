@@ -2324,6 +2324,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1437,
+                    51.51825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "Yes",
+                "description": "First ever purpose-built broadcast centre in UK, and a jewel of Art Deco design with original artworks by sculptor Eric Gill. \r\nRemodelled and extended in 2006/2013 by architects MacCormac Jamieson and Prichard/Sheppard Robson.",
+                "end": "17:00:00",
+                "fully_booked": "Yes",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2292/building_2292_bbc-broadcasting-house-7-credit-bbc_1a64cdaae1d1dfc55520b0c0f6f5b17b.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2292/building_2292_broadcasthouse-aerial-jeff-overs_b8fb5c694536c7c1c45d487aa6fa3089.jpg",
+                        "title": "Copyright Jeff Overs"
+                    }
+                ],
+                "name": "BBC Broadcasting House",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/2292"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1306893,
                     51.4974785
                 ],
@@ -3221,6 +3252,45 @@
                 "start": "10:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/2731"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13901,
+                    51.52139
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "Yes",
+                "description": "An enduring, distinctive feature of the London skyline for the last 54 years, this is a rare opportunity for members of the public to visit the famous revolving floor, 158m above the capital. After the flight the guests can watch a history of the BT Tower film in our auditorium.",
+                "end": "19:15:00",
+                "fully_booked": "Yes",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2735/building_2735_bt_tower_maja_smiejkowska_23_5a94a3235dd0b2e79cee9c53e05b8b48.jpg",
+                        "title": "BT_Tower_Maja_Smiejkowska_23"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2735/building_2735_wp_20150707_21_48_59_pro-2_92217ffa88764baa5f3ce9d806f45d21.jpg",
+                        "title": "View from BT Tower"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2735/building_2735_screenshot-2023-08-16-at-15-57-46_f1e5d2c5b84b3cd89e63ab3286e14d97.png",
+                        "title": "BT Tower at Night"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2735/building_2735_screenshot-2023-08-16-at-15-59-03_7d45d14f8ccbc369a34553be7976d52d.png",
+                        "title": "BT Tower"
+                    }
+                ],
+                "name": "BT Tower",
+                "new_venue_this_year": "No",
+                "start": "09:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/2735"
             },
             "type": "Feature"
         },
@@ -6193,6 +6263,33 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/8339"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10449,
+                    51.51841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "Yes",
+                "description": "Join us to find out more about our incredible journey to create a new museum for London. Enter the ballot for a special tour of the Poultry Market (currently in construction).",
+                "end": "17:00:00",
+                "fully_booked": "Yes",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8380/building_8380_capture_22f902317eabdd55fffeca746aeb0050.png",
+                        "title": "London Museum, Proposed Aerial (c) Secchi Smith"
+                    }
+                ],
+                "name": "London Museum, West Smithfield",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/8380"
             },
             "type": "Feature"
         },
