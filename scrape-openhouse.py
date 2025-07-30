@@ -150,6 +150,7 @@ for building in buildings:
         "events": [],
         "all_week": False,  # Not used anymore, preserved for backward compat
         "ticketed_events": False,
+        "balloted_events": False,
         "new_venue_this_year": True,
         "first_published": None,
         "venue_years_listed": [],
@@ -301,6 +302,7 @@ for building in buildings:
 
     # Events, oh no
     events_ticketed = False
+    balloted_events = False
 
     # Drop in events
     drop_in_node = root.xpath(
@@ -401,6 +403,7 @@ for building in buildings:
 
                     if "ballot" in booking_string.lower():
                         balloted = True
+                        balloted_events = True
 
                         if booking_buttons[0].attrib["disabled"] == "disabled":
                             fully_booked = True
@@ -439,6 +442,8 @@ for building in buildings:
 
     if links_ticketed or events_ticketed:
         data["ticketed_events"] = True
+
+    data["balloted_events"] = balloted_events
 
     # Detect new venues, previous years exhibited
     for previous_year in sorted(os.listdir("data/")):
