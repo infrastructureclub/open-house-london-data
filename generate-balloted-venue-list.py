@@ -57,12 +57,12 @@ if os.path.isdir(input_directory):
             if types == "":
                 types = "unknown"
 
-            of.write(f"<h2>{types.title()}</h2>")
+            of.write(f"<h2>{types.title()}</h2>\n")
             for data in listings:
                 description = html.escape(data["description"], quote=True)
                 postcode = data["location"]["address"].split(",")[-1]
                 of.write(
-                    f"<li><a href='{data['original_url']}' title='{description}'>{data['name']}</a>&nbsp;<span class='postcode'>{postcode}</p></li>"
+                    f"<li><a href='{data['original_url']}' title='{description}'>{data['name']}</a>&nbsp;<span class='postcode'>{postcode}</p></li>\n"
                 )
 
         of.write(

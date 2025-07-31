@@ -55,15 +55,17 @@ if os.path.isdir(input_directory):
             if types == "":
                 types = "unknown"
 
-            of.write(f"<h2>{types.title()}</h2>")
+            of.write(f"<h2>{types.title()}</h2>\n")
             for data in listings:
                 description = html.escape(data["description"], quote=True)
                 postcode = data["location"]["address"].split(",")[-1]
                 ticket = ""
-                if data["ticketed_events"]:
+                if data["balloted_events"]:
+                    ticket = "&nbsp;🗳️"
+                elif data["ticketed_events"]:
                     ticket = "&nbsp;🎟️"
                 of.write(
-                    f"<li><a href='{data['original_url']}' title='{description}'>{data['name']}</a>{ticket}&nbsp;<span class='postcode'>{postcode}</p></li>"
+                    f"<li><a href='{data['original_url']}' title='{description}'>{data['name']}</a>{ticket}&nbsp;<span class='postcode'>{postcode}</p></li>\n"
                 )
 
         of.write(

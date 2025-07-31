@@ -67,19 +67,23 @@ if os.path.isdir(input_directory):
             date = parser.parse(datestring)
             date = date.replace(tzinfo=timezone.utc)
 
-            of.write(f"<h2 id='{datestring}'>{date:%a %d %B at %H:%M}</h2>")
+            of.write(f"<h2 id='{datestring}'>{date:%a %d %B at %H:%M}</h2>\n")
             for data in listings:
                 description = html.escape(data["description"], quote=True)
                 postcode = data["location"]["address"].split(",")[-1]
+
                 ticket = ""
-                if data["ticketed_events"]:
+                if data["balloted_events"]:
+                    ticket = "&nbsp;🗳️"
+                elif data["ticketed_events"]:
                     ticket = "&nbsp;🎟️"
+
                 new = ""
                 if data["new_venue_this_year"]:
                     new = "🆕&nbsp;"
 
                 of.write(
-                    f"<li>{new}<a href='{data['original_url']}' title='{description}'>{data['name']}</a>{ticket}&nbsp;<span class='trailer'>{', '.join(data['design']['types'])}&nbsp;|&nbsp;{postcode}</span></li>"
+                    f"<li>{new}<a href='{data['original_url']}' title='{description}'>{data['name']}</a>{ticket}&nbsp;<span class='trailer'>{', '.join(data['design']['types'])}&nbsp;|&nbsp;{postcode}</span></li>\n"
                 )
 
             fe = fg.add_entry()
