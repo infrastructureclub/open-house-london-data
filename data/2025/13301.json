@@ -11,34 +11,34 @@
     },
     "events": [
         {
-            "activity_type": "Guided tour",
+            "activity_type": "Drop in",
             "all_day": false,
             "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13301",
+            "booking_link": null,
             "capacity": null,
             "date": "2025-09-19",
-            "drop_in": false,
-            "end": "2025-09-19T19:30:00+01:00",
+            "drop_in": true,
+            "end": "2025-09-19T20:00:00+01:00",
             "fully_booked": false,
-            "name": "Medieval Graffiti Tour",
-            "notes": "Join us for a discussion of graffiti through time, learn about its different uses, how it's evolved.",
-            "start": "2025-09-19T18:00:00+01:00",
-            "ticketed": true
+            "name": "Drop in: Bartholomew Fayre",
+            "notes": "",
+            "start": "2025-09-19T16:00:00+01:00",
+            "ticketed": false
         },
         {
-            "activity_type": "Talk",
+            "activity_type": "Drop in",
             "all_day": false,
             "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13301",
+            "booking_link": null,
             "capacity": null,
             "date": "2025-09-20",
-            "drop_in": false,
+            "drop_in": true,
             "end": "2025-09-20T19:00:00+01:00",
             "fully_booked": false,
-            "name": "Young People's Disputation",
-            "notes": "A young people's disputation developed by the Open City Apprentice Curators, 2025.",
-            "start": "2025-09-20T17:30:00+01:00",
-            "ticketed": true
+            "name": "Drop in: Bartholomew Fayre",
+            "notes": "",
+            "start": "2025-09-20T11:00:00+01:00",
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -102,7 +102,7 @@
     "name": "Bartholomew's Fayre: Great St Barts",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13301",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

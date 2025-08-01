@@ -1415,6 +1415,33 @@
                 "url": "https://programme.openhouse.org.uk/listings/13294"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1024,
+                    51.46474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Printmaking workshop featuring artists working with traditional printmaking techniques - etching, wood cut, Lino cut and mono print.",
+                "end": "16:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13338/building_13338_colin-workshop_9da1bb75bca204f8d4128db3237d081f.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Artichoke Print Workshop Coldharbour Works",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13338"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
