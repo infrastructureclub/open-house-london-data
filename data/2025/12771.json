@@ -39,6 +39,36 @@
             "notes": "",
             "start": "2025-09-21T12:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12771",
+            "capacity": null,
+            "date": "2025-09-20",
+            "drop_in": false,
+            "end": "2025-09-20T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Introductory studio tour of building",
+            "notes": "This tour is a quick general introduction to the variety of creative businesses. Visitors may then explore further as they choose.",
+            "start": "2025-09-20T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12771",
+            "capacity": null,
+            "date": "2025-09-21",
+            "drop_in": false,
+            "end": "2025-09-21T14:30:00+01:00",
+            "fully_booked": false,
+            "name": "Introductory studio tour of building",
+            "notes": "This tour is a quick general introduction to the variety of creative businesses. Visitors may then explore further as they choose.",
+            "start": "2025-09-21T14:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -80,7 +110,7 @@
         {
             "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12771/building_12771_20240813_142314_e5ec364b0ea93e9f47f155630dd69a7c.jpg",
             "description": null,
-            "title": "Front",
+            "title": "Front entrance",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12771_20240813_142314_e5ec364b0ea93e9f47f155630dd69a7c.jpg"
         },
         {
@@ -90,7 +120,12 @@
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12771_img_7752_7d97528c592c2867c03ffa25cd66cf92.jpeg"
         }
     ],
-    "links": [],
+    "links": [
+        {
+            "href": "https://www.instagram.com/cumberland_road_studios/",
+            "title": "www.instagram.com/cumberland_road_studios"
+        }
+    ],
     "location": {
         "address": "40 Cumberland Road, N22 7BU",
         "latitude": 51.59726,
@@ -105,7 +140,7 @@
     "name": "Cumberland Road Studios, Wood Green",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/12771",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2024,
         2025
