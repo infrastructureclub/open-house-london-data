@@ -18,7 +18,7 @@ os.makedirs(output_directory, exist_ok=True)
 if os.path.isdir(input_directory):
 
     fg = FeedGenerator()
-    fg.id('http://lernfunk.de/media/654321')
+    fg.id('https://openhouse.infrastructureclub.org/reports/venues_announced/2025.html')
     fg.title('London Open House venue announcements')
     fg.author( {'name':'Infrastructure Club'} )
     fg.subtitle('London Open House venue announcement feed')
@@ -63,12 +63,16 @@ if os.path.isdir(input_directory):
         """
         )
 
+        latest_date = None
         for datestring, listings in sorted(groups.items(), reverse=True):
             date = parser.parse(datestring)
             date = date.replace(tzinfo=timezone.utc)
 
+            if not latest_date:
+                latest_date = date
+
             of.write(f"<h2 id='{datestring}'>{date:%a %d %B at %H:%M}</h2>\n")
-            for data in listings:
+            for data in sorted(listings, key=lambda v: (v["name"], v["id"])):
                 description = html.escape(data["description"], quote=True)
                 postcode = data["location"]["address"].split(",")[-1]
 
@@ -89,6 +93,7 @@ if os.path.isdir(input_directory):
             fe = fg.add_entry()
             fe.id(datestring)
             fe.published(published=date)
+            fe.updated(updated=date)
             fe.title(f'{len(listings)} new Open House venues listed on {date:%a %d %B at %H:%M}')
             fe.link(href=f'https://openhouse.infrastructureclub.org/reports/venues_announced/{year}.html#{datestring}')
 
@@ -99,6 +104,7 @@ if os.path.isdir(input_directory):
         """
         )
 
+        fg.updated(latest_date)
         fg.atom_file(f'{output_directory}/atom.xml', pretty=True)
         fg.rss_file(f'{output_directory}/rss.xml', pretty=True)
 
