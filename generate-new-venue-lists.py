@@ -56,7 +56,7 @@ if os.path.isdir(input_directory):
                 types = "unknown"
 
             of.write(f"<h2>{types.title()}</h2>\n")
-            for data in listings:
+            for data in sorted(listings, key=lambda v: v["name"]):
                 description = html.escape(data["description"], quote=True)
                 postcode = data["location"]["address"].split(",")[-1]
                 ticket = ""
