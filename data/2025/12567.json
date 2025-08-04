@@ -52,13 +52,15 @@
             "drop_in": true,
             "end": "2025-09-21T17:00:00+01:00",
             "fully_booked": false,
-            "name": "Drop in",
+            "name": "Drop in: Drop in",
             "notes": "",
             "start": "2025-09-21T11:00:00+01:00",
             "ticketed": false
         }
     ],
-    "facilities": [],
+    "facilities": [
+        "Handrails on one side of stairs"
+    ],
     "factsheet": [
         {
             "heading": "Flower, Art and Architecture",
