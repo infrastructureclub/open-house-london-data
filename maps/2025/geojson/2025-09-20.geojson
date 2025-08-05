@@ -2002,7 +2002,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "During the Open House Festival people will have the unique opportunity to explore the historic mansion that is the home of the Argentine Embassy in the UK. Opening its doors on this special occasion, visitors will enjoy unprecedented access to the home of Argentineans in the UK and explore a glimpse of our culture through an art exposition of different Argentine artists.",
+                "description": "During the Open House Festival people will have the unique opportunity to explore the historic mansion that is the home of the Argentine Embassy in the UK. Opening its doors on this special occasion, visitors will enjoy unprecedented access to the home of Argentinians in the UK and explore a glimpse of our culture through an art exposition of different Argentine artists.",
                 "end": "18:00:00",
                 "fully_booked": "",
                 "images": [
@@ -10939,6 +10939,41 @@
                 "start": "10:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13172"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1439,
+                    51.48671
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Innovative refurbishment of a flat within the 40th Anniversary Civic Trust Award winning development originally conceived by Powell & Moya.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13181/building_13181_img_6098_d767baaf1686a5c18a77e379d70aabc0.jpg",
+                        "title": "Striking design using innovative materials but it's a proper functioning kitchen, not just for show!"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13181/building_13181_img_5177-2_e359198e49f6955ffb74e5580d5ee4f1.jpg",
+                        "title": "Combining commercial carpet with art work, living walls & modular furniture for max flexible space."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13181/building_13181_img_5252_5afe02e4c67e339227a6b57ffc11e88b.jpg",
+                        "title": "Lots of interesting detail and finishes to appreciate"
+                    }
+                ],
+                "name": "28 Chippendale House",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13181"
             },
             "type": "Feature"
         },

@@ -2527,7 +2527,7 @@
             },
             "properties": {
                 "balloted": "Yes",
-                "description": "10 Downing Street has been the residence of British Prime Ministers since 1735. Behind its famous black door the most important decisions affecting Britain for the last 284 years have been taken.",
+                "description": "10 Downing Street has been the residence of British Prime Ministers since 1735. Behind its famous black door the most important decisions affecting Britain for nearly 300 years have been taken.",
                 "end": "15:00:00",
                 "fully_booked": "Yes",
                 "images": [
@@ -4994,7 +4994,7 @@
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7736/building_7736_1844p_f870f97902628260dd36d582cb88724f.jpg",
-                        "title": "Intavent ceiling "
+                        "title": "Intavent Suite ceiling"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7736/building_7736_1920p_ae84840a92e2f9a9751feb3f7bcc65d9.jpg",
@@ -6578,7 +6578,7 @@
                 "balloted": "No",
                 "description": "Nestled off a busy street in Camden, the former industrial building has been home to architectural firm Sheppard Robson for over 40 years. A series of additions have allowed more amenity, social spaces, and diversity in work settings.",
                 "end": "14:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11127/building_11127_77-parkway_sheppard-robson_1_d2427ba1a2dd2037c753fa15105b52e6.jpg",
@@ -6624,7 +6624,7 @@
                 "name": "Sheppard Robson, 77 Parkway",
                 "new_venue_this_year": "No",
                 "start": "10:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/11127"
             },
             "type": "Feature"
@@ -9251,16 +9251,16 @@
                 "fully_booked": "No",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13018/building_13018_open-house-fest-horizontal-website_da87564e622be7cac4a7ea63d4fb488d.jpg",
-                        "title": "THE BEAUTY OF ARCHITECTURAL SKELETONS"
-                    },
-                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13018/building_13018_queerole_949b29d63452845d375218c084fae46e.jpg",
                         "title": "Queerolé by Patricia Langa. Photo by Darren + Evans"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13018/building_13018_sofia-ros_731f3487e60240888b9deff2547ffc8f.jpg",
                         "title": "Accordionist Sofía Ros"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13018/building_13018_ohf-website_909ca1c3f498aa6ce408dbb746b3b93b.jpg",
+                        "title": null
                     }
                 ],
                 "name": "Instituto Cervantes London",
@@ -9781,45 +9781,6 @@
                 "start": "10:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13106"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.51088,
-                    51.4239
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "A contemporary, flood-resilient family home set on the banks of the River Thames. This sustainable replacement dwelling combines modernist clarity with the ease of a riverside pavilion—elevated, energy-efficient, and open to light. Framed by broad, river-facing terraces, its living spaces flow seamlessly between the interior and river views. The project is a work in progress.",
-                "end": "16:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13107/building_13107_pxl_20250522_115400782_143516a3e5380a34268cef6b179870f7.jpg",
-                        "title": "Riverside House, Rear Elevation - Riverside view. May 2025"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13107/building_13107_pxl_20240412_143653273-long_exposure-01-cover_8adac89ea66f831b30ef8d03b0414286.jpg",
-                        "title": "Podium and wash-through"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13107/building_13107_pxl_20250522_122135002_1a531e5c9a6d6ee6efe7dce8d7a9d777.jpg",
-                        "title": "Interior gallery"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13107/building_13107_pxl_20250522_120649581_df8c8f2a7a95c80e4e7cdc978e4cc07b.jpg",
-                        "title": "Ground floor river view"
-                    }
-                ],
-                "name": "Riverside House",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/13107"
             },
             "type": "Feature"
         },
