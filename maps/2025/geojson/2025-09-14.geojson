@@ -4229,6 +4229,53 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.3055622,
+                    51.49637999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Designed by local architect Charles Jones in 1861, the chapels are constructed of ragstone with limestone dressings in a Gothic style.   \r\nThere is a central porte cochere (archway for carriages) with clock and belfry, flanked by the South and North Chapels. These are set in a large area of naturalised woodland with interesting and atmospheric memorials and benches for peaceful, relaxation",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8288/building_8288_chapels-low-res-for-oh_jpg_a8e8e403546bd271ec8c9bd88af4fb3b.jpg",
+                        "title": "Chapels and main drive from South Ealing Road"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8288/building_8288_south-chapel-window-2_adadbbf71b0eabfee35ce300b59bd289.jpg",
+                        "title": "South Chapel Stained Glass"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8288/building_8288_south-ealing-cemetary-5_4f8a1572a040ebda639af0f0caaa7d83.jpeg",
+                        "title": "Inner areas left to nature"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8288/building_8288_clock-tower-low-res-for-oh_98d9af8b422f42ddb8e0e9eae43a1c6e.jpg",
+                        "title": "Clock tower and bell"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8288/building_8288_clock-mechanism-low-res-for-oh_19a83f815651c442b20c9344ed09fd57.jpg",
+                        "title": "Clock and gong mechanism - Gillet & Bland 1877"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8288/building_8288_main-drive-low-res-for-oh_bb4f132f0602b82bf2aa0decbc27f0c4.jpg",
+                        "title": "Main avenue through the old cemetery"
+                    }
+                ],
+                "name": "South Ealing Cemetery Chapels",
+                "new_venue_this_year": "Yes",
+                "start": "13:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/8288"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1151837,
                     51.4745206
                 ],
@@ -6031,6 +6078,33 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12390"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.04142,
+                    51.51196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Founded by Queen Matilda in 1147 and with HM Queen Elizabeth II as our previous patron, The Royal Foundation of St Katharine has served as a centre for worship, hospitality and service over many centuries. With 45 bedrooms, 11 meeting rooms, and a community café, it is a unique, quiet sanctuary in the heart of London.",
+                "end": "14:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12441/building_12441_garden-2_37851bd1794dfff55c76900b3f0bc843.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Royal Foundation of St Katharine",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12441"
             },
             "type": "Feature"
         },
