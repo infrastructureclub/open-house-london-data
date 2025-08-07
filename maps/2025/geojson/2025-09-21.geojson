@@ -7766,6 +7766,68 @@
                 "url": "https://programme.openhouse.org.uk/listings/13318"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13988,
+                    51.57283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Wembury Mews was designed by Russell Jones in 2020.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13321/building_13321_dscf2094_f0393e4239293518ad929d03e349fa50.jpg",
+                        "title": "Image: Matthew Blunderfield"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13321/building_13321_dscf2137_3e0c192bd25c6880987683c3d0221668.jpg",
+                        "title": "Image: Matthew Blunderfield"
+                    }
+                ],
+                "name": "Wenbury Mews",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13321"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10753,
+                    51.54651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "11 Orleston Mews was designed by Caruso St John Architects in 1987.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13391/building_13391_peter-st-john-house_03bea1aec1d470de6614008406f0feff.png",
+                        "title": "Image: Matthew Blunderfield"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13391/building_13391_dscf1149_c52fc0b0a949b144298aa1b7479ec0d2.jpg",
+                        "title": "Image: Matthew Blunderfield"
+                    }
+                ],
+                "name": "Orleston Mews",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13391"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
