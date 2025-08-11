@@ -2457,7 +2457,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Residence of Sir Francis Ronalds, George MacDonald and (from 1878-96) William Morris. Organised by the William Morris Society. Access to the William Morris Society's premises in the Coach House and basement only, including the current exhibition.",
-                "end": "17:00:00",
+                "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -2483,7 +2483,7 @@
                 ],
                 "name": "William Morris Society - Kelmscott House",
                 "new_venue_this_year": "No",
-                "start": "13:00:00",
+                "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/2387"
             },
@@ -11121,8 +11121,8 @@
                 "fully_booked": "No",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13155/building_13155_img_1993_364a7cdc13362e9151afe78365e2d18b.jpg",
-                        "title": "Image Credit: @mrbryanejones"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13155/building_13155_soul-city_5dfdda617eb8ae966bf6348757e5727c.jpg",
+                        "title": null
                     }
                 ],
                 "name": "Soul City",
@@ -12035,6 +12035,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13344"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.46506,
+                    51.54089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Explore the Generator House at RAF Uxbridge’s Battle of Britain Bunker. Normally off‑limits to the public, it houses the original 1930s standby generator that powered the underground Operations Room coordinating RAF Fighter Command in WWII. It offers a glimpse into wartime engineering, featuring preserved machinery, original fittings, and fascinating stories.  Free admission, no booking required.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13377/building_13377_danger_secrets_1eeb67bdfa9745baef0db4efe6448b5e.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "The Battle of Britain Bunker - The Generator House",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13377"
             },
             "type": "Feature"
         }

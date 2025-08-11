@@ -3105,7 +3105,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The sustainable new headquarters of the Mayor of London and London Assembly located in the Royal Docks, Newham. The docks are re-emerging as a commercial and cultural hub, and an exciting new waterfront. This year the Greater London Authority will be celebrating the 25th anniversary of it's formation and will be holding an exhibition",
+                "description": "The sustainable headquarters of the Mayor of London and London Assembly located in the Royal Docks, Newham. The docks are re-emerging as a commercial and cultural hub, and an exciting new waterfront. This year the Greater London Authority will be celebrating the 25th anniversary of its formation and will be holding an exhibition.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -7108,7 +7108,7 @@
                         "title": "An extension of Kennington Park"
                     }
                 ],
-                "name": "Building nature: South London green spaces tour",
+                "name": "Building nature: South London green spaces",
                 "new_venue_this_year": "Yes",
                 "start": "10:30:00",
                 "ticketed_events": "Yes",
@@ -7716,6 +7716,87 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13323"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.46506,
+                    51.54089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Explore the Generator House at RAF Uxbridge’s Battle of Britain Bunker. Normally off‑limits to the public, it houses the original 1930s standby generator that powered the underground Operations Room coordinating RAF Fighter Command in WWII. It offers a glimpse into wartime engineering, featuring preserved machinery, original fittings, and fascinating stories.  Free admission, no booking required.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13377/building_13377_danger_secrets_1eeb67bdfa9745baef0db4efe6448b5e.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "The Battle of Britain Bunker - The Generator House",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13377"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.42737,
+                    51.5788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Manor Farm House in Ruislip, built in 1505–1507, is a Tudor-style, Grade II listed building that once hosted local court sessions and housed high-status guests. Now a visitor centre, it features original beams, historic displays, and forms part of the wider 22-acre Manor Farm heritage site.  It is also believed to be the home to the oldest example of surviving domestic English  wallpaper.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13382/building_13382_jsonld_ffaf3b5b622e90a4d95f65e40cafbb39.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "The Manor House, Manor Farm, Ruislip",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13382"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.40302,
+                    51.58687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The dovecote at Eastcote House Gardens is an 18th-century, Grade II listed brick structure with a tiled roof, originally built to house pigeons for food and manure. It replaced an earlier Elizabethan dovecote by the Hawtrey family. Now preserved as part of  a tranquil gardens. Usually out-of-bounds to the public, it reflects historic manor life.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13388/building_13388_eastcote_house_gardens_dovecote_48dfa6d22b779facb083018a77c32bd1.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "The Dovecote, Eastcote House Gardens",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13388"
             },
             "type": "Feature"
         }

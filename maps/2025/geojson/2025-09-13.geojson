@@ -2021,7 +2021,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Residence of Sir Francis Ronalds, George MacDonald and (from 1878-96) William Morris. Organised by the William Morris Society. Access to the William Morris Society's premises in the Coach House and basement only, including the current exhibition.",
-                "end": "17:00:00",
+                "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -2047,7 +2047,7 @@
                 ],
                 "name": "William Morris Society - Kelmscott House",
                 "new_venue_this_year": "No",
-                "start": "13:00:00",
+                "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/2387"
             },
@@ -3771,7 +3771,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The sustainable new headquarters of the Mayor of London and London Assembly located in the Royal Docks, Newham. The docks are re-emerging as a commercial and cultural hub, and an exciting new waterfront. This year the Greater London Authority will be celebrating the 25th anniversary of it's formation and will be holding an exhibition",
+                "description": "The sustainable headquarters of the Mayor of London and London Assembly located in the Royal Docks, Newham. The docks are re-emerging as a commercial and cultural hub, and an exciting new waterfront. This year the Greater London Authority will be celebrating the 25th anniversary of its formation and will be holding an exhibition.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -10296,8 +10296,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "Leybourne Road is a pair of new build semi-detached townhouses on an old garage site next to Wanstead Flats in Leytonstone designed and developed by award winning architect developers Nelson Wright.  The design is a contemporary interpretation of a familiar terraced housing typology with a focus on light quality and exposed natural finishes and a sense of craft.",
-                "end": "15:00:00",
-                "fully_booked": "",
+                "end": "15:45:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13180/building_13180_nw_leybourne-5-edit-hi-res_edit-copy_7a6d4ea4152da5bb61a924ca8698699b.jpg",
@@ -10314,12 +10314,24 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13180/building_13180_copy_nw_leybourne-142-edit-hi-res_bedd9063102eb16ef1506bacbc822467.jpg",
                         "title": "French + Tye"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13180/building_13180_nelson-london-kitchen_ca76e38ebe9434abc730602655e3a228.jpg",
+                        "title": "French + Tye"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13180/building_13180_nw_leybourne-79-edit-lo-res_copy_d5e13e7882d49ac1c3b6cba550aecffc.jpg",
+                        "title": "French + Tye"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13180/building_13180_nw_leybourne-18-edit-lo-res_copy_16838210b0a007530ed877ab20df8ea0.jpg",
+                        "title": "French + Tye"
                     }
                 ],
                 "name": "Leybourne Road",
                 "new_venue_this_year": "Yes",
                 "start": "10:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13180"
             },
             "type": "Feature"
@@ -10883,6 +10895,60 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.46506,
+                    51.54089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Explore the Generator House at RAF Uxbridge’s Battle of Britain Bunker. Normally off‑limits to the public, it houses the original 1930s standby generator that powered the underground Operations Room coordinating RAF Fighter Command in WWII. It offers a glimpse into wartime engineering, featuring preserved machinery, original fittings, and fascinating stories.  Free admission, no booking required.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13377/building_13377_danger_secrets_1eeb67bdfa9745baef0db4efe6448b5e.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "The Battle of Britain Bunker - The Generator House",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13377"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.42737,
+                    51.5788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Manor Farm House in Ruislip, built in 1505–1507, is a Tudor-style, Grade II listed building that once hosted local court sessions and housed high-status guests. Now a visitor centre, it features original beams, historic displays, and forms part of the wider 22-acre Manor Farm heritage site.  It is also believed to be the home to the oldest example of surviving domestic English  wallpaper.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13382/building_13382_jsonld_ffaf3b5b622e90a4d95f65e40cafbb39.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "The Manor House, Manor Farm, Ruislip",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13382"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.02038,
                     51.44531
                 ],
@@ -10904,6 +10970,76 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13387"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.40302,
+                    51.58687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The dovecote at Eastcote House Gardens is an 18th-century, Grade II listed brick structure with a tiled roof, originally built to house pigeons for food and manure. It replaced an earlier Elizabethan dovecote by the Hawtrey family. Now preserved as part of  a tranquil gardens. Usually out-of-bounds to the public, it reflects historic manor life.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13388/building_13388_eastcote_house_gardens_dovecote_48dfa6d22b779facb083018a77c32bd1.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "The Dovecote, Eastcote House Gardens",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13388"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.18156,
+                    51.54448
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Terzetto unlocks a contemporary haven in Hampstead, using calm materiality and sharp craftsmanship to create a textural and natural home, at one with the elements and its environment.",
+                "end": "12:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13407/building_13407_terzetto_conform-architects_02_879077cf481589cfd6e1a88fe12501a4.jpg",
+                        "title": "Terzetto by ConForm - James Retief"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13407/building_13407_terzetto_conform-architects_08_439a2f987778f292d6a83e97d75508af.jpg",
+                        "title": "Terzetto by ConForm 02 - James Retief"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13407/building_13407_terzetto_conform-architects_13_5a4240bce3971f440bad53e347f5231e.jpg",
+                        "title": "ConForm - Terzetto 03 - James Retief"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13407/building_13407_terzetto_conform-architects_14_30c4471bd7f7a296a4d4a93ed21332f5.jpg",
+                        "title": "ConForm - Terzetto 04 - James Retief"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13407/building_13407_terzetto_conform-architects_22_f5c21366d1a113dd38e29a8267cf4b3b.jpg",
+                        "title": "ConForm - Terzetto 05 - James Retief"
+                    }
+                ],
+                "name": "Don’t Move, Improve! – Terzetto",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13407"
             },
             "type": "Feature"
         }

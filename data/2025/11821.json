@@ -20,7 +20,7 @@
             "drop_in": false,
             "end": "2025-09-21T12:30:00+01:00",
             "fully_booked": false,
-            "name": "Spitalfields - a guided walking tour",
+            "name": "Spitalfields - stories of people",
             "notes": "",
             "start": "2025-09-21T11:00:00+01:00",
             "ticketed": true
@@ -32,6 +32,12 @@
             "heading": "Walking Tour",
             "paragraphs": [
                 "a walk through the east end of London focusing on the stories of those who came and made this their home."
+            ]
+        },
+        {
+            "heading": "Golden Key Academy",
+            "paragraphs": [
+                "This tour is led by an alumnus of Open City’s Golden Key Academy - an eight-month course designed to train insightful and engaging guides who bring London’s rich stories to life.\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\nLearn more about the Golden Key Academy here: open-city.org.uk/golden-key-academy"
             ]
         }
     ],
@@ -59,6 +65,10 @@
         {
             "href": "https://www.sixinthecity.co.uk",
             "title": "www.sixinthecity.co.uk"
+        },
+        {
+            "href": "open-city.org.uk/golden-key-academy",
+            "title": null
         }
     ],
     "location": {
