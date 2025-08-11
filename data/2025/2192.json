@@ -50,19 +50,19 @@
             "ticketed": false
         },
         {
-            "activity_type": "Drop in",
+            "activity_type": "Walking tour",
             "all_day": false,
             "balloted": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2192",
             "capacity": null,
             "date": "2025-09-21",
-            "drop_in": true,
+            "drop_in": false,
             "end": "2025-09-21T15:30:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Architect let walking tour of part of the estate",
-            "notes": "This is an architect led tour provided by a local resident whom is an architect.  Arrive early for homemade cakes and beverages available.",
+            "name": "Architect led walking tour of part of the estate",
+            "notes": "This is an architect led tour provided by a local resident whom is an architect.   Arrive early for homemade cakes and beverages available.",
             "start": "2025-09-21T14:00:00+01:00",
-            "ticketed": false
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -221,7 +221,7 @@
     "name": "Tower Gardens Garden Suburb",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2192",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2021,
         2022,
