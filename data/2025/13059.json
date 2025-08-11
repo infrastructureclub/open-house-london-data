@@ -17,53 +17,7 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": true,
-            "end": "2025-09-20T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Tour",
-            "notes": "Tour the grounds and the building. Pause in front of the artefacts and enjoy the exhibition of photographs and the voices of the parish.",
-            "start": "2025-09-20T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13059",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open Forum on Lost Anchors",
-            "notes": "Join us after your tour, or come back from having done one to discuss what it means when we lose our faith anchor. Refreshments Provided.",
-            "start": "2025-09-20T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13059",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open Tour and Patronal Feast",
-            "notes": "Please do join the church for its service at 10 OR its Patronal Feast from 11.30. Take the Tour and enjoy the last day of the exhibition.",
-            "start": "2025-09-21T11:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -129,7 +83,7 @@
     "name": "St. Matthews, Upper Clapton",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13059",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]
