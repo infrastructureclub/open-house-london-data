@@ -2007,6 +2007,37 @@
                 "url": "https://programme.openhouse.org.uk/listings/13339"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.3674,
+                    51.46868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The London Borough of Hounslow is 60!  This exhibition in Hounslow Library explores what the borough looked like in 1965 in terms of architecture and industry, and what life was like for residents then. Contrasting with this, there are contemporary photos showing how our vibrant, diverse and lively borough has changed, with new architecture and life as it is lived now.",
+                "end": "20:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13414/building_13414_then1_e982165da6e769c612c4e9a9a696f76f.jpg",
+                        "title": "The Chiswick Bus Works photographed in 1967 replaced by Chiswick Business Park."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13414/building_13414_now_95682a2aae14d1abcc702f60cb052c00.jpg",
+                        "title": "Chiswick Business Park, that replaced the Bus Works, was completed in 2015."
+                    }
+                ],
+                "name": "London Borough of Hounslow 60th Anniversary Exhibition",
+                "new_venue_this_year": "Yes",
+                "start": "09:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13414"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"

@@ -1476,6 +1476,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0417,
+                    51.59408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Built in the 1950s, this site was originally the head offices for a large consortium of industrial spaces which produced dyes and food colourings. It is now a creative workspace with 26 studios for creative businesses and an event space.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11358/building_11358_switchboard-studios_elevation-night-2_jan-kattein-architects-ltd_lowres_4438b1e58cb3a3ef4ba5e46847f2c23d.jpg",
+                        "title": "View at night of entrance and neon signage"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11358/building_11358_copy-of-main-image-mountain-way_c6c34b842232142d093d605c652b0faa.jpg",
+                        "title": "Image courtesy of Mountain Way Pictures"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11358/building_11358_copy-of-main-image-cos_5cdffda3cc87c1d4427c65eed1b5e773.jpg",
+                        "title": "Image courtesy of EJM Studio"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11358/building_11358_copy-of-main-image-ejm_7d4ae6f488854ec242f707a85097ec38.jpeg",
+                        "title": "Image courtesy of Colour of Saying"
+                    }
+                ],
+                "name": "Switchboard Studios",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11358"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.069852,
                     51.4922188
                 ],
@@ -1783,7 +1822,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Find out more about Peckham's Aylesham Community Action group's work, get a sense of our neighbourhood's character on a walk with locals and discuss our campaigns against attempts for insensitive overdevelopments in our area.\r\nWe want to engage with built environment enthusiasts and together find some answers to London's critical questions : ‘What it takes to build or destroy a community?'",
+                "description": "Find out more about Peckham's Aylesham Community Action group's work, get a sense of our neighbourhood's character on a walk with locals and discuss our campaigns against attempts for insensitive over developments in our area.\r\nWe want to engage with built environment enthusiasts and together find some answers to London's critical questions : ‘What it takes to build or destroy a community?'",
                 "end": "20:30:00",
                 "fully_booked": "No",
                 "images": [
@@ -2767,6 +2806,37 @@
                 "start": "17:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13331"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.3674,
+                    51.46868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The London Borough of Hounslow is 60!  This exhibition in Hounslow Library explores what the borough looked like in 1965 in terms of architecture and industry, and what life was like for residents then. Contrasting with this, there are contemporary photos showing how our vibrant, diverse and lively borough has changed, with new architecture and life as it is lived now.",
+                "end": "17:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13414/building_13414_then1_e982165da6e769c612c4e9a9a696f76f.jpg",
+                        "title": "The Chiswick Bus Works photographed in 1967 replaced by Chiswick Business Park."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13414/building_13414_now_95682a2aae14d1abcc702f60cb052c00.jpg",
+                        "title": "Chiswick Business Park, that replaced the Bus Works, was completed in 2015."
+                    }
+                ],
+                "name": "London Borough of Hounslow 60th Anniversary Exhibition",
+                "new_venue_this_year": "Yes",
+                "start": "09:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13414"
             },
             "type": "Feature"
         }

@@ -1913,12 +1913,16 @@
                 "fully_booked": "No",
                 "images": [
                     {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13311/building_13311_untitled-design_3539b6c56322a826d7b58f03edcb3755.jpg",
+                        "title": "Canning Town Library, 1978"
+                    },
+                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13311/building_13311_hard-hat-tours_1f9f9916b1af4c33b70fa728d2d5d50a.png",
                         "title": null
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13311/building_13311_canning_town_old_library_a1776a266fa75b7337f1937514d8fd3c.png",
-                        "title": null
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13311/building_13311_untitled-design-1_6351b127c1502f26f6af8a1171151ce3.jpg",
+                        "title": "Canning Town Old Library"
                     }
                 ],
                 "name": "Hard Hat Tours: Inside Canning Town Old Library",
@@ -1926,6 +1930,80 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13311"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.14035,
+                    51.52583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Join artist Alisa Ruzavina for an art & ecology walk exploring the diverse land of Regents Park Estate & Regent’s Park through creative exercises, sharing of local stories, plant knowledge & folklore. The walk will include an artist tour of  Wonderscopes – public sculptures celebrating local relationship to changing seasons.",
+                "end": "19:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13330/building_13330_3-photo-credit-nick-turpin-copy_f516f059ccccd5813d448fb430a6af33.jpg",
+                        "title": "Photography by  Nick Turpin"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13330/building_13330_kaleidoscope-view_8d0a91a61cb68ef6afccead476a73c11.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13330/building_13330_2-photo-credit-nick-turpin_f245beb3002c44e5df953c8ccc3cd22c.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13330/building_13330_1-photo-credit-nick-turpin_f7a879949a5e3831f97a4e3460c8617e.jpeg",
+                        "title": "Photography by Nick Turpin"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13330/building_13330_kaleidoscope-view_89cb524844746ed2144497df5c585ff3.jpeg",
+                        "title": null
+                    }
+                ],
+                "name": "Regent’s Park & Estate: Autumn Equinox Exploration",
+                "new_venue_this_year": "Yes",
+                "start": "17:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13330"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.3674,
+                    51.46868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The London Borough of Hounslow is 60!  This exhibition in Hounslow Library explores what the borough looked like in 1965 in terms of architecture and industry, and what life was like for residents then. Contrasting with this, there are contemporary photos showing how our vibrant, diverse and lively borough has changed, with new architecture and life as it is lived now.",
+                "end": "17:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13414/building_13414_then1_e982165da6e769c612c4e9a9a696f76f.jpg",
+                        "title": "The Chiswick Bus Works photographed in 1967 replaced by Chiswick Business Park."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13414/building_13414_now_95682a2aae14d1abcc702f60cb052c00.jpg",
+                        "title": "Chiswick Business Park, that replaced the Bus Works, was completed in 2015."
+                    }
+                ],
+                "name": "London Borough of Hounslow 60th Anniversary Exhibition",
+                "new_venue_this_year": "Yes",
+                "start": "09:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13414"
             },
             "type": "Feature"
         }

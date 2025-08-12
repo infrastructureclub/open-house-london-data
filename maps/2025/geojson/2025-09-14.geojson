@@ -1334,7 +1334,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Grade I listed restored building of five wings, four of which surround large courtyard.  Construction began in 1775. New Wing, overlooking Waterloo Bridge, dates from 1850 by Sir James Pennethorne.",
+                "description": "This special occasion marks Somerset House's transformation from government offices to an internationally acclaimed cultural hub, inviting visitors to explore rarely seen spaces and engage with our vibrant creative community.",
                 "end": "18:00:00",
                 "fully_booked": "",
                 "images": [
@@ -3961,10 +3961,6 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7272/building_7272_posk-snow_6b4cbc4bace665dbe5c413e315b5b8bb.jpg",
                         "title": "POSK in the snow"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7272/building_7272_posk-front-2_6ec0add81d3d405996c94660a7c352bc.jpg",
-                        "title": "POSK front 2"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7272/building_7272_posk-jazz-cafe-1_568097cb5f502ab6c53fe8b5bb266b92.jpg",
@@ -7112,7 +7108,7 @@
                         "title": "A Walworth churchyard"
                     }
                 ],
-                "name": "Building nature: South London green spaces",
+                "name": "Building nature: South London's green spaces",
                 "new_venue_this_year": "Yes",
                 "start": "10:30:00",
                 "ticketed_events": "Yes",
@@ -7720,6 +7716,37 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13323"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0999,
+                    51.63937
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "This 1970s home was fully extended and remodeled into a live-work space, featuring a side extension with a double-height atrium, relocated access and stairs, and a mix of original and new materials. Triple glazing, underfloor heating, and low-energy lighting enhance sustainability. A glazed landing links old and new, with bamboo landscaping for privacy.",
+                "end": "18:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13329/building_13329_alpha-house-1_7c028c24d9c8ae7bf0273681f7e9abe6.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13329/building_13329_alpha-house-2_edeec8c12896ecb05feaa2caed4b7755.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Alpha House",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13329"
             },
             "type": "Feature"
         },
