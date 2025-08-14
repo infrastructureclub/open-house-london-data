@@ -19,19 +19,19 @@
     },
     "events": [
         {
-            "activity_type": "Drop in",
+            "activity_type": "Walking tour",
             "all_day": false,
             "balloted": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/13101",
             "capacity": null,
             "date": "2025-09-18",
-            "drop_in": true,
+            "drop_in": false,
             "end": "2025-09-18T13:00:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Broadwater Farm Estate Tour",
-            "notes": "",
+            "name": "Broadwater Farm Estate Tour",
+            "notes": "Itinerary includes:\r\n\r\n•\tTour of the estate \r\n•\tVisit to New Homes site \r\n•\tVisit to Mural storage site \r\n•\tVisit to Terrace Gardens.",
             "start": "2025-09-18T11:00:00+01:00",
-            "ticketed": false
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -69,6 +69,8 @@
         "longitude": -0.0845,
         "meeting_point": null,
         "travel_info": [
+            "Tube: Turnpike Lane",
+            "Train: Bruce Grove",
             "Bus: W4",
             "Additional travel info: Meet at BWF Community Centre, on the corner of Adams Rd/Freedom Rd."
         ]
@@ -76,7 +78,7 @@
     "name": "Broadwater Farm Estate Tour inc visit to New Homes site",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13101",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2025
     ]
