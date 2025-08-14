@@ -39,6 +39,36 @@
             "notes": "Exhibition of 150 years of childrens' building construction toys, with talks, a hands-on building challenge and  Sunday  bookable workshop.",
             "start": "2025-09-14T11:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/13305",
+            "capacity": null,
+            "date": "2025-09-14",
+            "drop_in": false,
+            "end": "2025-09-14T12:30:00+01:00",
+            "fully_booked": false,
+            "name": "Workshop with Ambrose Gillick",
+            "notes": "Building giant constructions with his Mapl system of lightwight components.\r\n2 children per adult ticketholders",
+            "start": "2025-09-14T11:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/13305",
+            "capacity": null,
+            "date": "2025-09-14",
+            "drop_in": false,
+            "end": "2025-09-14T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Workshop with Ambrose Gillick",
+            "notes": "Building giant constructions with his Mapl system of lightwight components\r\n2 children per adult ticketholders",
+            "start": "2025-09-14T14:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -115,7 +145,7 @@
     "name": "Blocks, Rods, Bricks and Fiddly Bits",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13305",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2025
     ]
