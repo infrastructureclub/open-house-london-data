@@ -1684,8 +1684,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.3674,
-                    51.46868
+                    -0.36774,
+                    51.46869
                 ],
                 "type": "Point"
             },
@@ -1709,6 +1709,37 @@
                 "start": "09:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13414"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.02282,
+                    51.54441
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Bustling pub/restaurant and art gallery, with live music, DJs and a huge waterside terrace.",
+                "end": "23:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13416/building_13416_number90-front_be4129a606a198f4b88bb53d5e2974b6.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13416/building_13416_terrace-at-dusk_9f8fd3d1731f5443a9a94f1f17a3bc43.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Number 90",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13416"
             },
             "type": "Feature"
         }
