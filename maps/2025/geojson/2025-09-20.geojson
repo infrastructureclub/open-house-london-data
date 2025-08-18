@@ -3137,6 +3137,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.29184,
+                    51.5143
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Walk across Ealing Common, taking in the range of architectural styles. Highlights: the home of a Wimbledon champion and the death mask of a prime minister.",
+                "end": "15:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2574/building_2574_st-matthews_f17c403ca0069a490f9bff18a549e950.jpg",
+                        "title": "St Matthews Church"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2574/building_2574_greystone-house_b29256b0d607b66a5dec2b03e4619e6d.jpg",
+                        "title": "Greystone House"
+                    }
+                ],
+                "name": "Ealing Common Walk",
+                "new_venue_this_year": "No",
+                "start": "14:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2574"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0305,
                     51.52359
                 ],
@@ -8406,8 +8437,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1059243,
-                    51.5247289
+                    -0.10562,
+                    51.52484
                 ],
                 "type": "Point"
             },
@@ -12388,6 +12419,64 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.03558,
+                    51.55081
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Removing a wall, widening a hole, punching another and lowering a window - this should be enough. A play of diagonals and light across an orthographic plan; long channels of activity and thresholds - much more than would be expected. Small phenomena of light and warmth that circle across the house from dawn to dusk.",
+                "end": "17:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13389/building_13389_2025_07_10_skyler_house_shot_04_0573263948c6a43fb8e100ac5416991d.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13389/building_13389_img_5002_cfdf833814135ff3150759e85ddb8a86.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Skyler House",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13389"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13036,
+                    51.52448
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "In this half-day workshop, we invite participants to join us in a “collective dwelling” in / on Gordon Square in the heart of Bloomsbury. Mobilising dwelling as both a praxis of being in space and of slow thinking, we invite participants to share time with us as we collectively map this square along the axes of space, sound, senses, memory and meaning.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13392/building_13392_gordon-square_2a76777fb1953337fe7c64b0b0ae1b79.jpg",
+                        "title": "Gordon Square, London"
+                    }
+                ],
+                "name": "Dwelling in / on Gordon Square",
+                "new_venue_this_year": "Yes",
+                "start": "14:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13392"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.20807,
                     51.46323
                 ],
@@ -12438,7 +12527,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Join us at Olympia as we open our doors for the first—and last—time to give the public a behind-the-scenes sneak peek at London's most ambitious transformation. Discover how this iconic landmark is becoming a brand new entertainment destination, as our tour will showcase visitors what's to come.",
+                "description": "Join us at Olympia as we open our doors for the first—and only—time to give the public a behind-the-scenes sneak peek at London's most ambitious transformation. Discover how this iconic landmark is becoming a brand new culture and entertainment destination, as our tour will showcase visitors what's to come.",
                 "end": "15:30:00",
                 "fully_booked": "No",
                 "images": [

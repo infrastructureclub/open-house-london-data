@@ -1390,6 +1390,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.00604,
+                    51.50019
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The building, designed by Mole Architects, comprises a top-lit, 2,000 square foot rehearsal studio, open-plan office, music production studio. \r\n\r\nConstructed entirely from timber, clad in weathered corten steel and designed to limit energy consumption.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11214/building_11214_1592-nickguttridge-molearchitects-designdistrict-026_88184ec6a13b8d240745fcdd19fe2af6.jpg",
+                        "title": "Top Floor rehearsal studio"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11214/building_11214_ces_64fad49be000cc4f72556e00b2b4b5d1.jpg",
+                        "title": "Clod Ensemble Studios"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11214/building_11214_ces2_0cd99090cb3b35a2d4a6d512a3715e92.jpg",
+                        "title": "Clod Ensemble Studios"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11214/building_11214_ces3_844dfaaba8649f35132ef72f28269970.jpg",
+                        "title": "Clod Ensemble Studios"
+                    }
+                ],
+                "name": "C2 Clod Ensemble Studios : Design District",
+                "new_venue_this_year": "No",
+                "start": "13:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/11214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0194102,
                     51.5828202
                 ],
@@ -2733,6 +2772,33 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13253"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13035,
+                    51.51668
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The leafy Georgian streets of Bloomsbury were shaken up in the 1930s by a new wave of development, from great academic institutions to speculative flats for modern urban living, plus probably the most stylish car showroom in London. We'll explore the range of 1930s architectural styles used in some famous and not so famous buildings, and even take a peek inside where we can.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13283/building_13283_img_20210423_083028_2fa9dffc727ab4b060f02f7095fb96a3.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "1930s Bloomsbury walking tour",
+                "new_venue_this_year": "Yes",
+                "start": "14:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13283"
             },
             "type": "Feature"
         },
