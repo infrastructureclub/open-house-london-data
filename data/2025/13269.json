@@ -19,19 +19,19 @@
     },
     "events": [
         {
-            "activity_type": "Drop in",
+            "activity_type": "Walking tour",
             "all_day": false,
             "balloted": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/13269",
             "capacity": null,
             "date": "2025-09-20",
-            "drop_in": true,
+            "drop_in": false,
             "end": "2025-09-20T13:00:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Wood Green Reimagined",
+            "name": "Wood Green Reimagined",
             "notes": "",
             "start": "2025-09-20T11:00:00+01:00",
-            "ticketed": false
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -73,7 +73,7 @@
     "name": "Wood Green Reimagined",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13269",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2025
     ]
