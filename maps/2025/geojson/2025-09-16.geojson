@@ -89,6 +89,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.25509,
+                    51.48725
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Early 18th century red brick country home of artist William Hogarth, extended significantly c. 1749-1764. The 2020 extension, funded by the National Lottery Heritage Fund, added the new Weston Studio for learning and activities, and a curved glass wall in the shape of Hogarth's Line of Beauty. Delightful re-landscaped and reinterpreted walled garden containing famous ancient mulberry tree.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/628/building_628_hogarth-s-house-and-mulberry-tree-may-2022_e9ef43e08cddd2552536335e567d1350.jpg",
+                        "title": "View of the historic house from the walled garden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/628/building_628_hogarth-first-floor_d83df3e5dc2ea027eaeee662aea4e542.jpg",
+                        "title": "First edition Hogarth's prints"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/628/building_628_extension-redevelopment-line-of-beauty-curved-glass_fe3a588086f32f5c00873838d6324d2e.jpg",
+                        "title": "View to the 2020 extension"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/628/building_628_trump-in-window-2_01eef226a53c16fd12002c46691d26b0.jpg",
+                        "title": "View of Hogarth's oriel window"
+                    }
+                ],
+                "name": "Hogarth's House",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/628"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.21683,
                     51.47157
                 ],
@@ -748,6 +787,41 @@
                 "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.3183739,
+                    51.49191829999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Boston Manor House is a Jacobean House built for Lady Mary Reade in 1623 and later owned by the Clitherow family from the 1670s until the 1920s. The House is now open to the public with free entry six days a week. Its beautifully restored historic interiors, including breath-taking ornate plasterwork, are joined by two community exhibition galleries, meeting rooms and an attractive modern café.",
+                "end": "14:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10142/building_10142_boston-manor-house-summer-2_c0f61ec64b1603fb550d52f0f09a6911.png",
+                        "title": "Boston Manor House after renovation"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10142/building_10142_portico-view_999fec832900435c60d71d0e12234533.jpg",
+                        "title": "Boston Manor House portico"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10142/building_10142_boston-manor-house-view-from-park-lake_1374c93e6b177cad683819c569dfe1c8.jpg",
+                        "title": "Boston Manor House viewed from Boston Manor Park pond."
+                    }
+                ],
+                "name": "Boston Manor House",
+                "new_venue_this_year": "No",
+                "start": "12:15:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/10142"
             },
             "type": "Feature"
         },

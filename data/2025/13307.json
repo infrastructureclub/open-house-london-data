@@ -1,7 +1,7 @@
 {
     "all_week": false,
     "balloted_events": false,
-    "description": "Explore the heritage behind Ashburton Park and the local area",
+    "description": "Explore the heritage behind Ashburton Hall & Park and the local area. We will also have object handling, free craft activities within the Ashburton Hall building and a ParkBathe wellbeing walk within the park.",
     "design": {
         "designers": [],
         "periods": [
@@ -24,18 +24,28 @@
             "fully_booked": false,
             "name": "Drop in: 100 years of Ashburton Park",
             "notes": "",
-            "start": "2025-09-14T12:00:00+01:00",
+            "start": "2025-09-14T10:00:00+01:00",
             "ticketed": false
         }
     ],
-    "facilities": [],
+    "facilities": [
+        "Drinking water",
+        "Family-friendly event",
+        "Parking",
+        "Quieter area",
+        "Seating available",
+        "Step-free routes",
+        "Toilets",
+        "Accessible toilet",
+        "Baby changing facilities"
+    ],
     "factsheet": [
         {
             "heading": "Celebrating 100 Years of Ashburton Park",
             "paragraphs": [
                 "Join us at Ashburton Park as we celebrate a century of heritage, community, and green space. This special festival marks the park's 100th anniversary and offers a unique opportunity to explore its rich history while enjoying a day of family-friendly fun.",
                 "Visitors will be able to discover more about the park’s past, from its origins as the grounds of a grand estate, orphanage and hospital to its transformation into a public space at the heart of the local community.",
-                "There will be an opportunity to learn about the development of the park over the decades,  through guided walks and  opportunities to view historic photographs and maps. The day will also feature a range of activities for all ages – including creative workshops, heritage-themed games, and storytelling sessions that bring local history to life",
+                "There will be an opportunity to learn about the development of the park over the decades,  through guided walks and  opportunities to view historic photographs and maps. The day will also feature a range of activities for all ages – including talks and tours of the building, family-friendly creative activities, object handling, and wellbeing walks in the park to discover the hidden natural details of the 100 year old park.",
                 "Whether you're a local history enthusiast or simply looking for a day out with the family, we encourage you to join us in celebrating the 100 years of Ashburton Park.",
                 "Accessibility and Facilities\nAshburton Park is accessible for wheelchair users and has toilet and baby-changing facilities on site. Refreshments will be available from Ashburton Hall Café.",
                 "Travel Information\nThe park is easily accessible by public transport, with several bus routes stopping nearby and Woodside tram stop just a short walk away. Parking is limited, so visitors are encouraged to use public transport or walk where possible."
@@ -50,12 +60,22 @@
             "description": null,
             "title": "1882 convent building now called Ashburton Park",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_13307_ashburton-hall-old-convent-building-ashburton-park_dfec7c548f2bb0d78acf778c9e4a0737.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13307/building_13307_1h3a9447_29b773ac4d3b42f491939c4c0e09f07c.jpg",
+            "description": null,
+            "title": "Photography by Glenn Foster",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_13307_1h3a9447_29b773ac4d3b42f491939c4c0e09f07c.jpg"
         }
     ],
     "links": [
         {
             "href": "https://www.croydon.gov.uk/libraries-leisure-and-culture/parks-and-open-spaces/100-years-ashburton-park",
             "title": "www.croydon.gov.uk/libraries-leisure-and-culture/parks-and-open-spaces/100-years-ashburton-park"
+        },
+        {
+            "href": "https://www.better.org.uk/leisure-centre/london/croydon/ashburton-hall-park",
+            "title": "www.better.org.uk/leisure-centre/london/croydon/ashburton-hall-park"
         }
     ],
     "location": {
@@ -63,7 +83,11 @@
         "latitude": 51.38473,
         "longitude": -0.06632,
         "meeting_point": null,
-        "travel_info": []
+        "travel_info": [
+            "Train: East Croydon, West Croydon",
+            "Bus: 130, 289, 312",
+            "Additional travel info: Tram access from Woodside or Addiscombe tram stops."
+        ]
     },
     "name": "Ashburton Park",
     "new_venue_this_year": true,
