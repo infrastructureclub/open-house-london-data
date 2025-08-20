@@ -370,6 +370,10 @@ for building in buildings:
     events_node = root.xpath(
         '//section[contains(@class, "oc-listing-activities")]//h2[text()="Activities"]'
     )
+
+    bookable_count = 0
+    fully_booked_count = 0
+
     if events_node:
         events_ticketed = True
 
@@ -396,10 +400,12 @@ for building in buildings:
                 booking_buttons = event.xpath('.//button[@name="button"]')
                 fully_booked = False
                 balloted = False
+
                 if booking_buttons:
                     booking_string = booking_buttons[0].text_content().strip()
                     if "full" in booking_string.lower():
                         fully_booked = True
+                        fully_booked_count += 1
 
                     if "ballot" in booking_string.lower():
                         balloted = True
@@ -407,6 +413,10 @@ for building in buildings:
 
                         if booking_buttons[0].attrib["disabled"] == "disabled":
                             fully_booked = True
+                            fully_booked_count += 1
+
+                    if not fully_booked:
+                        bookable_count += 1
 
                 all_day = False
                 if time_string.lower() == "all day":
@@ -469,7 +479,7 @@ for building in buildings:
             )
         )
 
-    print(f" - Found {len(data['events'])} events")
+    print(f" - Found {len(data['events'])} events ({bookable_count} bookable, {fully_booked_count} fully booked)")
     scraped_venues.append(data["id"])
 
     time.sleep(1)
