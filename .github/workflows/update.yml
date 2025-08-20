@@ -13,6 +13,11 @@ jobs:
         uses: actions/checkout@v2
         with:
           persist-credentials: false
+      - name: Install apt dependencies
+        uses: daaku/gh-action-apt-install@v4
+        with:
+          packages: libgeos-dev
+          version: 1
       - name: Scrape and commit
         env:
           YEAR: 2025
@@ -20,7 +25,6 @@ jobs:
           WG_CONFIG_FILE: ${{ secrets.WG_CONFIG_FILE }}
           PROXY: socks5h://127.0.0.1:25344/
         run: |
-          sudo apt-get install libgeos-dev
           pip install -r requirements.txt
 
           # we'll regenerate these, so remove them now and git add -u will
