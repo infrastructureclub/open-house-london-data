@@ -6,6 +6,7 @@ All of it. Automatically scraped periodically with updates committed to git, aut
 Things you can use
 ------------------
 * **<a href="http://openhouse.infrastructureclub.org/">A lovely browsable map, with filtering options by day and booking!</a>**
+* **<a href="https://openhouse.infrastructureclub.org/reports/bookable_venues/2025.html">A list of all the events with tickets still available!</a>**
 * **<a href="https://openhouse.infrastructureclub.org/reports/venues_announced/2025.html">A venue announcement tracker!</a>** (with an <a href="https://openhouse.infrastructureclub.org/reports/venues_announced/rss.xml">RSS feed</a>)
 * **<a href="https://openhouse.infrastructureclub.org/reports/new_venues/2025.html">A list of all the brand new venues this year!</a>**
 * **<a href="https://openhouse.infrastructureclub.org/reports/balloted_venues/2025.html">A list of balloted venues this year!</a>**
