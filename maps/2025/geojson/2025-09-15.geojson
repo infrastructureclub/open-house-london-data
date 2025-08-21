@@ -12,7 +12,7 @@
                 "balloted": "No",
                 "description": "Grade II-listed Georgian domestic building c.1760, formerly part of the Bedford Estate. Interior refurbished 1925 to form lecture hall (restored 2014), library, bookshop and offices. Oak woodwork and green Doulton tiles line the staircase.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/889/building_889_swedenborg-hall_264a007f81a582f8f0af1fd74869529c.jpg",
@@ -163,7 +163,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "During Open House, the Friends of Battersea Parish Church are staging a Floral Festival, organ recitals, historical displays, and on Sunday 14 September at 3pm, a concert by The London Vegetable Orchestra  “Rooted in Culture”: suitable for all ages, King Charles recently tooted a carrot to Twinkle, twinkle! On Friday 19 September at 7pm, author Lamorna Ash will join us for a Q&A and book signing.",
+                "description": "During Open House, the Friends of Battersea Parish Church are staging a Floral Festival, organ recitals, historical displays.\r\nSunday 14 September at 3pm, a concert by The London Vegetable Orchestra  “Rooted in Culture”: \r\nTuesday 16 September at 7pm,  renowned author Lamorna Ash will join us\r\nWednesday 17th September at 7pm Jason Sandy, famous London Mudlarker, will present his latest finds",
                 "end": "16:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -309,7 +309,7 @@
                 "balloted": "No",
                 "description": "The home of Conway Hall Ethical Society, an organisation renowned as a hub for free speech and progressive thought. Grade II listed building with both Arts and Crafts and Art Deco features adding to its distinctive style.",
                 "end": "20:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3425/building_3425_conwayhall-0574-edit_9e8ab8bfbce45e9048d7d908877ba22f.jpg",
@@ -575,7 +575,7 @@
                 "balloted": "No",
                 "description": "The Stirling-prize shortlisted King’s Cross Masterplan established a framework for the incremental redevelopment of this industrial heritage site through a mix of uses and a network of public spaces structuring new urban blocks and knitting the site into its context.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7788/building_7788_aam_kx_granarysquare1_4964e1eef80f2fc5f37931ca762203cc.jpg",
@@ -821,6 +821,57 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0790748,
+                    51.48900930000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Poroban will open their studio to the public and community groups online and at the studio,  where our team will be available to discuss sustainable construction and view samples.  Poroban have a strong focus on low carbon design including timber and demountable construction.  Currently in development is the new Hastings Castle Visitor Centre and Trinity College Community Centre in Camberwell.",
+                "end": "12:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11347/building_11347_oh_678a-55_cropped_c9c51ae499f1ec4ab9b205ed11aafd9d.jpg",
+                        "title": "Latimer Road, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11347/building_11347_latimer-road_poroban_oh_678a-467_c98d221b46cf685524c3fd36a00dcc7d.jpg",
+                        "title": "Latimer Road"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11347/building_11347_latimer-road_poroban_oh_678a-205_d116d7a3a9210909aefb21f222352f29.jpg",
+                        "title": "Latimer Road"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11347/building_11347_oh_788d-95_0c389b5378a10478cf99ce86792718d1.jpg",
+                        "title": "The Avenue, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11347/building_11347_oh_788d-137_0137fa560ef4ca430ea72e7e08abdbd6.jpg",
+                        "title": "The Avenue, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11347/building_11347_oh_788d-62_dc7c85e7ee08a8312932102f66b0e02b.jpg",
+                        "title": "The Avenue, London"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11347/building_11347_dsc_0112_b82991c73ac3c9ef06b6a8a4da991f46.jpg",
+                        "title": "Hastings Castle Visitor Centre"
+                    }
+                ],
+                "name": "Poroban studio",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/11347"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0813472,
                     51.517312
                 ],
@@ -830,7 +881,7 @@
                 "balloted": "No",
                 "description": "Andaz London Liverpool Street, a concept by Hyatt, blends rich history dating back to the 1200s with modern decor and the vibrant energy of its London neighborhood.\r\n\r\nStep inside and join us for an open house tour led by our dedicated team!",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11391/building_11391_andaz-london-liverpool-street_andaz-lounge-26_ca6d723e7641f07f2fa91498690deb0c.jpg",
@@ -881,7 +932,7 @@
                 "balloted": "No",
                 "description": "Explore the Bush Theatre, West London’s home of new writing. Get a behind the scenes look at our fifty-year history, including how over 2016 we transformed our 128-year-old building into an accessible and sustainable modern theatre.",
                 "end": "16:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11992/building_11992_daytime-outside-credit-philip-vile-for-the-bush-theatre_d410aac4be5190484396491f395c97a2.jpg",
@@ -963,7 +1014,7 @@
                 "balloted": "No",
                 "description": "The Grade II listed Victorian complex, originally built between 1865 – 1906, is one of London’s most iconic civic buildings. After a devastating fire in 2013, it was placed in the Heritage at Risk Register and closed. Now, after sensitive restoration by Feix & Merlin and General Projects, it reopens its doors. With a modern CLT extension that celebrates its former glory while embracing its future.",
                 "end": "20:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12422/building_12422_wth-day-1-70-copy_503527f64a6a76e413d121df71f1d3a4.jpg",
@@ -1022,7 +1073,7 @@
                 "balloted": "No",
                 "description": "A guided tour of Wardian, two residential towers of 55 and 50 storeys. Wardian was inspired by the great explorer and innovator Dr Nathaniel Bagshaw Ward who was responsible for the creation of the Wardian Case, used to transport plants around the world at the height of the British Empire. The tour, led by Howells, will conclude with a complimentary drink in the rooftop sky lounge.",
                 "end": "14:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12544/building_12544_wd-exteriors-9_e0f83536b3e928daa19479a16b6e6f01.jpg",
@@ -1076,7 +1127,7 @@
                 "balloted": "No",
                 "description": "Walk through the City of London from the Thames up to Lloyds of London, site of the former HQ of the East India Company, looking at buildings and architecture built during the time of British Empire.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12616/building_12616_stone-and-steel_b20cb1e19be5de7d99dc3c0e6f697e59.jpg",
@@ -1243,7 +1294,7 @@
                 "balloted": "No",
                 "description": "Working, sleeping, playing – the City of London is home to all sorts of activities after dark. This walking tour will explore buildings and spaces, well known and lesser-known, in darkness, and will tell the history of night-time in London. We will visit places where London works, sleeps and plays at night, and over the course of two hours will even see how night time activity shifts.",
                 "end": "22:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13152/building_13152_img_0982_ccc39efa2240d0625292bdf1e21ca4a5.jpeg",
@@ -1278,7 +1329,7 @@
                 "balloted": "No",
                 "description": "Beresford Square in Woolwich has been transformed. Come and find out from the designers what has changed.",
                 "end": "19:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13298/building_13298_woolwich_town_centre_beresford_square_credit_neil-speakman_0c898ebc005e18f58ad06f56433c59b4.jpg",
@@ -1321,6 +1372,33 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13323"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13273,
+                    51.51607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "This is your go-to place to discover who you really are, where you have come from and where you are going. The greatest blend of all philosophies, religions and spirituality, you will get tasty food, music, talks, and books to whet your appetite for your journey back to the spiritual world. Whether you want a peaceful haven to chill out or someone to speak to you will find it here in Soho Street.",
+                "end": "14:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13325/building_13325_img-20220330-wa0002_0db279339b010bc728f5ca99d0a2ab6b.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Hare Krishna Temple in London",
+                "new_venue_this_year": "Yes",
+                "start": "12:25:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13325"
             },
             "type": "Feature"
         },
