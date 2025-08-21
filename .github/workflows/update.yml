@@ -44,6 +44,7 @@ jobs:
           python -u generate-new-venue-lists.py
           python -u generate-venue-announcement-list.py
           python -u generate-balloted-venue-list.py
+          python -u generate-bookable-venue-list.py
 
           mv data data.new
           mv csv csv.new
