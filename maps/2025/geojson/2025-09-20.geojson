@@ -1796,7 +1796,7 @@
                 "balloted": "No",
                 "description": "Australia House, home to the Australian High Commission since 1918, is London’s longest continually-occupied diplomatic mission. Designed by A. Marshall Mackenzie & Son and opened by King George V, this Grade II listed landmark features striking marble and timber interiors, much of it shipped from Australia during the First World War.",
                 "end": "15:15:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1806/building_1806_exhibition_hall_2_63355ca71c31c6576ce15d65719854ff.jpeg",
@@ -4047,6 +4047,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.2171867,
+                    51.3593955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Originally a farmer's house dating to 1500, with jettied upper storey. Later additions reflect the changing lifestyles of the owners, including the Killicks for over two centuries. Now houses scale model of Henry VIII's Nonsuch Palace.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3742/building_3742_whitehall-cropped-image-2_13ca1b54f05b5d43948dd0244994330f.jpg",
+                        "title": ""
+                    }
+                ],
+                "name": "Whitehall Historic House",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3742"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.06408,
                     51.47207
                 ],
@@ -4956,7 +4983,7 @@
                 "balloted": "No",
                 "description": "A cleverly integrated mixture of architectural styles and periods, incorporating a late 1720s house (later home to Herbert Henry Asquith) and the purpose-built College of Nursing (1926). Access to main building via guided tour only.",
                 "end": "16:15:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6151/building_6151_external-2_06e1c11c4f9913f6b00a6f55fe35679f.jpg",
@@ -5783,7 +5810,7 @@
                 "balloted": "No",
                 "description": "The Aga Khan Centre, designed by Pritzker prize winning architect Fumihiko Maki, houses the UK institutions of the Aga Khan Development Network. A unique feature are its six gardens inspired by different regions of the Muslim world.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7273/building_7273_fma-agaedmund-sumner-0005-lower-res_6a4339874e0937766619f70f4f8267af.jpg",
@@ -9626,7 +9653,7 @@
                 "balloted": "No",
                 "description": "Sir Howard Hodgkin (1932 – 2017) was one of England’s most celebrated contemporary artists. Abstracted yet allusive, apparently spontaneous but in fact highly controlled, his paintings convey feeling through gesture and colour.  His former studio, converted from a nineteenth-century dairy, sits in the heart of Bloomsbury.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12569/building_12569_studio-2024_3c443511f6f7a38df9eddc5a13403638.jpeg",
@@ -11263,7 +11290,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The Tate Institute is a net zero carbon, natural material, circular economy-led retrofit of a locally listed heritage building in the Royal Docks, Newham to provide a new community space for the area operated by ReSpace.",
+                "description": "The Tate Institute is a net zero carbon in operation, natural material, circular economy-led retrofit by Office S&M Architects of a locally listed building in the Royal Docks, Newham to provide a new community space for the area operated by ReSpace Projects.",
                 "end": "21:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -11518,7 +11545,7 @@
                 "balloted": "No",
                 "description": "This walking tour of Deptford explores waves of urban change in the area from the Victorian period to today. It highlights shifts in industry and infrastructure, different eras of social housing, public policy and development models. The tour invites reflection on what drives regeneration and how more regenerative practices could benefit people, ecology and community wealth.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13144/building_13144_open-house-festival-id_d0628520b18129a92e521c8939c01309.png",
@@ -12772,7 +12799,7 @@
                 "balloted": "No",
                 "description": "Join artist and activist Ruan Murphy in this family friendly, protest inspired printing workshop! This messy, hands-on and thoughtful activity encourages young people and their adults to think about causes that matter to them, and create their own unique piece of art.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13385/building_13385_rebel_printmaking-2_bb66e50c0739686057b8c87dc8895aba.jpg",
@@ -12884,7 +12911,7 @@
                 "balloted": "No",
                 "description": "In this workshop, you’ll work with Studio Tip to turn real-world surplus materials — the kind that normally gets dumped after mass production — into playful objects and artworks. Offcuts, trims, odd shapes and leftovers. Stuff that didn’t make the cut. Until now.",
                 "end": "14:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13394/building_13394_studio-tip-now-gallery-7_859800d68d404aeb76fb339e90c8b5e3.jpg",
@@ -13191,7 +13218,7 @@
                 "balloted": "No",
                 "description": "Common Land has a long and rich tradition of bringing people together in the public realm, and this tradition continues today in the north-eastern corner of Hackney.\r\n \r\nThis guided walking tour around Clapton Common, historic common land in Stamford Hill, will be led by some of the architects and community builders who have recently delivered new social infrastructure to serve a mixed community.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13427/building_13427_commonroom-jimstephenson-14-webres_648d1c68951e9c4ce01e24c6259d41fc.jpg",

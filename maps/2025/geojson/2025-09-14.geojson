@@ -5786,7 +5786,7 @@
                 "balloted": "No",
                 "description": "Discover the fascinating history of Eastcote and its surroundings, focused on how the landscape has changed, from the exclusively agricultural area to the today's modern suburb, revealing some of the oldest local buildings and their stories",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11816/building_11816_img_0212_1fd8a64b76716ca0d95a94a406b6bad4.jpg",
@@ -6664,7 +6664,7 @@
                 "balloted": "No",
                 "description": "Victorian Tardis.\r\nThe original house dates from 1864, but was completely redeveloped in 1984 and fine tuned in 1993 and in 2023 by three different architects. Double height and open interiors contrast with a Victorian facade.",
                 "end": "17:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12639/building_12639_img_4785_ed0b55dbd120c4c2bc48a598c5abe5da.jpeg",
@@ -6860,6 +6860,57 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12824"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.26931,
+                    51.52641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Housed in an industrial 50s warehouse formerly occupied by Rolls Royce and acquired in a semi-derelict state, its transformation was approached by the artist Henry Krokatsis as a large sculptural work. It has been constructed using found and redundant materials, balancing functionality and subversion. It continues to act as an evolving social sculpture.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12837/building_12837_16-low-res-end-copy_b8dcfc7a5918c6bd6b8f9d3cbbe70057.jpg",
+                        "title": "Queensrollahouse interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12837/building_12837_queensrollahouse-groundfloor-atrium-2_f32232ca47de6ec32aa73b3bec5bf087.jpg",
+                        "title": "Queensrollahouse interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12837/building_12837_queensrollahouse-groundfloor-atrium-3_75ad034216ed71fc2f5072281065abdf.jpg",
+                        "title": "Queensrollahouse interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12837/building_12837_queensrollahouse-roofterrace-1_6000_50a0d80d9e742d29de90202be6d4a08f.jpg",
+                        "title": "Queensrollahouse roof terrace"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12837/building_12837_queensrollahouse-roofterrace-4_6000_26ca5e4690ff6dc6f05c39d0183230f3.jpg",
+                        "title": "Queensrollahouse roof terrace"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12837/building_12837_queensrollahouse-exterior_94ca9e442e4ff643e4b8cc527bcfacc8.jpg",
+                        "title": "Queensrollahouse exterior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12837/building_12837_extdscf5969_edit_01a98462c6314074f4570839a6070a14.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Queensrollahouse",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12837"
             },
             "type": "Feature"
         },
