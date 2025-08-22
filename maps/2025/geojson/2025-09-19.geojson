@@ -1688,7 +1688,7 @@
                 "balloted": "No",
                 "description": "Andaz London Liverpool Street, a concept by Hyatt, blends rich history dating back to the 1200s with modern decor and the vibrant energy of its London neighborhood.\r\n\r\nStep inside and join us for an open house tour led by our dedicated team!",
                 "end": "10:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11391/building_11391_andaz-london-liverpool-street_andaz-lounge-26_ca6d723e7641f07f2fa91498690deb0c.jpg",
@@ -2163,7 +2163,7 @@
                 "balloted": "No",
                 "description": "St Lawrence started life as a hospital and chapel in the 12th century. There is a 15th century tower but the rest of the building was rebuilt in the 19th century. It has been unused and  virtually derelict since the 1960s.  It has been refurbished but is currently empty. We will not have access to the interior.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12693/building_12693_st-lawrence-s-brentford_7cfeb0f9770afff327c56bbaa39aea7d.jpg",
@@ -3331,6 +3331,49 @@
                 "start": "09:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13414"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.02456,
+                    51.54471
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "HTA reimagined and repurposed a Victorian warehouse in Hackney Wick, East London, creating a permanent new home for its 200 London-based staff. Built in 1868 as a factory to manufacture the world’s first synthetic plastic, the warehouse originally comprised four separate buildings and was identified as a significant piece of heritage within the Hackney Wick masterplan.",
+                "end": "20:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13435/building_13435_hta_wal_n25_medium_e92b89a37cfe53ded6ddaba973238c57.jpg",
+                        "title": "Photographer: Tim Crocker"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13435/building_13435_hta_wal_n34_medium_2bdc36109806bf270f8d514b6c1092ee.jpg",
+                        "title": "Photographer: Tim Crocker"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13435/building_13435_hta_wal_n35_medium_09bc09c665a9c8cb8b8c6e86301f449f.jpg",
+                        "title": "Photographer: Tim Crocker"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13435/building_13435_hta_wal_n36_medium_6aa1379d0b1c1eeb9f7b3ffef7054bfb.jpg",
+                        "title": "Photographer: Tim Crocker"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13435/building_13435_hta_wal_n37_medium_490c61896e857553a6ab84e6d6c14e5c.jpg",
+                        "title": "Photographer: Tim Crocker"
+                    }
+                ],
+                "name": "HTA Design",
+                "new_venue_this_year": "Yes",
+                "start": "18:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13435"
             },
             "type": "Feature"
         }
