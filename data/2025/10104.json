@@ -34,7 +34,7 @@
             "end": "2025-09-14T16:30:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Bell Tower Tours & Change Ringing Demonstrations",
-            "notes": "Visit St John at Hackney bell tower, hear about the bells that came from nearly St Augustine's Tower, and watch an actual bell being rung!",
+            "notes": "Visit St John at Hackney bell tower, hear about the bells that came from nearby St Augustine's Tower, and watch an actual bell being rung!",
             "start": "2025-09-14T14:00:00+01:00",
             "ticketed": false
         },
@@ -46,7 +46,7 @@
             "capacity": null,
             "date": "2025-09-17",
             "drop_in": false,
-            "end": "2025-09-17T19:00:00+01:00",
+            "end": "2025-09-17T19:45:00+01:00",
             "fully_booked": true,
             "name": "Bells, Building & Behind the Scenes",
             "notes": "A tour of the nave and monuments room, focusing on the 2020 restoration, followed by a talk in the bell tower.",
@@ -57,7 +57,8 @@
     "facilities": [
         "Parking",
         "Toilets",
-        "Handrails on one side of stairs"
+        "Handrails on one side of stairs",
+        "Gender neutral toilet"
     ],
     "factsheet": [
         {
@@ -77,7 +78,7 @@
         {
             "heading": "Bells and Tradition",
             "paragraphs": [
-                "The church's bell tower tells its own fascinating story. This later addition was specifically designed to house ten bells relocated from the nearby St Augustine's tower, creating one of East London's most important ringing centres. Eight bells were recast in 1957 following the 1955 fire, with two treble bells added in 2004—a moment that marked a renaissance in East London's bell ringing tradition.",
+                "The church's bell tower tells its own fascinating story. This later addition was specifically designed to house the eight bells transferred from nearby St Augustine's tower, creating one of East London's most important ringing centres. Eight bells were recast in 1957 following the 1955 fire, with two treble bells added in 2004—a moment that marked a renaissance in East London's bell ringing tradition.",
                 "The ancient art of change ringing continues here, with our skilled ringers maintaining centuries-old techniques that transform mathematical patterns into glorious sound."
             ]
         },
@@ -170,7 +171,7 @@
         "travel_info": [
             "Tube: Highbury & Islington",
             "Train: Hackney Central, Dalston Junction, Hackney Downs",
-            "Bus: 38, 254, 30, 242, 253"
+            "Bus: 38, 254, 30, 242, 253, 106, 276, 425, 488, 55"
         ]
     },
     "name": "St John at Hackney",
