@@ -1855,6 +1855,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.11244,
+                    51.53016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Discover Bevin Court - one of London's hidden gems,  a bold Modernist icon in the heart of Finsbury. Designed by Berthold Lubetkin, this striking 1950s housing project blends social vision with architectural flair, centering around its dramatic central staircase. Lubetkin's motto that 'nothing is too good for ordinary people' resonates through this building.",
+                "end": "16:00:00",
+                "fully_booked": "Yes",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2214/building_2214_square-stair_0e62e3ebed6b925a29de6b9da8a2993d.jpg",
+                        "title": "View of the staircase from below"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2214/building_2214_yates-restored-small_47d35b9a93519cdccb6a653c4aab5108.jpg",
+                        "title": "Peter Yates' mural 'Day and Night, Winged Bulls' (1954, restored 2016) in the foyer of Bevin Court"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2214/building_2214_bevin-court-entrance_c23eb16ef0288c37b8d80233c72187f0.jpg",
+                        "title": "Bevin Court entrance"
+                    }
+                ],
+                "name": "Bevin Court",
+                "new_venue_this_year": "No",
+                "start": "10:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/2214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.14285,
                     51.5168
                 ],
@@ -2205,7 +2240,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "During Open House, the Friends of Battersea Parish Church are staging a Floral Festival, organ recitals, historical displays.\r\nSunday 14 September at 3pm, a concert by The London Vegetable Orchestra  “Rooted in Culture”: \r\nTuesday 16 September at 7pm,  renowned author Lamorna Ash will join us\r\nWednesday 17th September at 7pm Jason Sandy, famous London Mudlarker, will present his latest finds",
+                "description": "During Open House, the Friends of Battersea Parish Church are staging a Floral Festival, organ recitals, historical displays.\r\nSunday 14 September at 3pm, a concert by The London Vegetable Orchestra  “Rooted in Culture”: \r\nTuesday 16 September at 7pm,  renowned author Lamorna Ash will join us\r\nWednesday 17th September at 7pm Jason Sandy, famous London Mudlark, will present his latest finds",
                 "end": "17:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -7147,7 +7182,7 @@
                 "balloted": "No",
                 "description": "Queer Britain is the UK’s permanent museum of LGBT History.    Housed in a converted Victorian office building in the heart of the regenerated King’s Cross area, the galleries are a riot of voices and objects from over 100 years of queer history. At Open House 2025, Queer Britain’s volunteer guides will give talks demonstrating the museum’s mission to reclaim, preserve and inspire LGBTQ+ history.",
                 "end": "17:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13050/building_13050_queer-britain-kings-cross-london_4cce6e1fef74a3607d6932b5eb914877.jpg",
@@ -7486,7 +7521,7 @@
                 ],
                 "name": "The Old Church Stoke Newington",
                 "new_venue_this_year": "Yes",
-                "start": "11:00:00",
+                "start": "11:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13175"
             },
@@ -7643,7 +7678,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Bradbury Studios is the newly refurbished, accessible home of the UK's flagship disabled-led theatre company, Graeae.",
-                "end": "17:00:00",
+                "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -7655,7 +7690,7 @@
                         "title": null
                     }
                 ],
-                "name": "Bradbury Studios - Graeae Theatre Company",
+                "name": "Graeae Theatre Company",
                 "new_venue_this_year": "Yes",
                 "start": "11:00:00",
                 "ticketed_events": "No",
@@ -7909,7 +7944,7 @@
                         "title": null
                     }
                 ],
-                "name": "137 Pancras Road",
+                "name": "Isabel Glanville Studio",
                 "new_venue_this_year": "Yes",
                 "start": "10:00:00",
                 "ticketed_events": "No",

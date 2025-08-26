@@ -6726,7 +6726,7 @@
                 "balloted": "No",
                 "description": "Sir Howard Hodgkin (1932 – 2017) was one of England’s most celebrated contemporary artists. Abstracted yet allusive, apparently spontaneous but in fact highly controlled, his paintings convey feeling through gesture and colour.  His former studio, converted from a nineteenth-century dairy, sits in the heart of Bloomsbury.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12569/building_12569_studio-2024_3c443511f6f7a38df9eddc5a13403638.jpeg",
@@ -6878,7 +6878,7 @@
                 "balloted": "No",
                 "description": "The early 1800's saw the green fields of northern Clerkenwell spring up into grand squares and terraced houses. This walking tour will look at how the speculative housing developed, what remains today, and the unique stories and characters of the area.",
                 "end": "15:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12601/building_12601_img_7139_2f690915510cc91455356ed592678cf2.jpeg",
@@ -7404,7 +7404,7 @@
                 "balloted": "No",
                 "description": "Queer Britain is the UK’s permanent museum of LGBT History.    Housed in a converted Victorian office building in the heart of the regenerated King’s Cross area, the galleries are a riot of voices and objects from over 100 years of queer history. At Open House 2025, Queer Britain’s volunteer guides will give talks demonstrating the museum’s mission to reclaim, preserve and inspire LGBTQ+ history.",
                 "end": "17:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13050/building_13050_queer-britain-kings-cross-london_4cce6e1fef74a3607d6932b5eb914877.jpg",
@@ -8408,6 +8408,37 @@
                 "start": "11:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13414"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10332,
+                    51.51271
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A British Sign Language (No Spoken Word) tour of this wonderful courtyard building with some of the best-preserved 17C livery hall interiors. Built on the site of the Blackfriars Priory and replacing the original hall burned down in 1666. Courtyard refurbished in 2017",
+                "end": "15:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13424/building_13424_apothecaries-hall-great-hall_afb7064968e235156bb85e9ee000073e.jpg",
+                        "title": "Great Hall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13424/building_13424_apothecaries-hall-parlour-room_beb3533ba36b88d51e1f531d6669113a.jpg",
+                        "title": "Parlour Room"
+                    }
+                ],
+                "name": "British Sign Language Tour of Apothecaries' Hall",
+                "new_venue_this_year": "Yes",
+                "start": "14:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13424"
             },
             "type": "Feature"
         },
