@@ -15,8 +15,7 @@
             "Historical/contemporary"
         ],
         "types": [
-            "walk/tour",
-            "open site"
+            "walk/tour"
         ]
     },
     "events": [
@@ -28,11 +27,41 @@
             "capacity": null,
             "date": "2025-09-21",
             "drop_in": true,
-            "end": "2025-09-21T16:00:00+01:00",
+            "end": "2025-09-21T11:45:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Drop in: Guided Walk\r\nTours of Brockley's Historic Mews, ending at Breakspears Mews Community Garden. Plus self-guided walks.",
+            "start": "2025-09-21T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2025-09-21",
+            "drop_in": true,
+            "end": "2025-09-21T13:15:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Guided Walk",
-            "notes": "Guided Tours of Brockley's Historic Mews ending at Breakspears Mews Community Garden plus self-guided walks",
-            "start": "2025-09-21T11:00:00+01:00",
+            "notes": "Drop in: Guided Walk\r\nTours of Brockley's Historic Mews, ending at Breakspears Mews Community Garden. Plus self-guided walks.",
+            "start": "2025-09-21T12:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2025-09-21",
+            "drop_in": true,
+            "end": "2025-09-21T14:45:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in",
+            "notes": "Drop in: Guided Walk\r\nTours of Brockley's Historic Mews, ending at Breakspears Mews Community Garden. Plus self-guided walks.",
+            "start": "2025-09-21T14:00:00+01:00",
             "ticketed": false
         }
     ],
@@ -131,9 +160,9 @@
         }
     ],
     "location": {
-        "address": "Ashby, Wickham, Breakspears Mews, Junctions with Ashby Road, SE4 1TF",
-        "latitude": 51.46869,
-        "longitude": -0.0327,
+        "address": "Wickham Arms, 69 Upper Brockley Road,, SE4 1TF",
+        "latitude": 51.4686,
+        "longitude": -0.03272,
         "meeting_point": null,
         "travel_info": [
             "Tube: New Cross Gate, New Cross",

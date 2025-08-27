@@ -53,34 +53,34 @@
             "ticketed": false
         },
         {
-            "activity_type": "Drop in",
+            "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/888",
             "capacity": null,
             "date": "2025-09-21",
-            "drop_in": true,
-            "end": "2025-09-21T11:45:00+01:00",
+            "drop_in": false,
+            "end": "2025-09-21T12:15:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Tour the House",
+            "name": "Tour the House",
             "notes": "Join us to find out more about Lauderdale House's colourful owners and clues in the building to its past.",
             "start": "2025-09-21T11:00:00+01:00",
-            "ticketed": false
+            "ticketed": true
         },
         {
-            "activity_type": "Drop in",
+            "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/888",
             "capacity": null,
             "date": "2025-09-21",
-            "drop_in": true,
-            "end": "2025-09-21T14:45:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
+            "drop_in": false,
+            "end": "2025-09-21T15:00:00+01:00",
+            "fully_booked": true,
+            "name": "Tour the House",
             "notes": "Join us to find out more about Lauderdale House's colourful owners and clues in the building to its past.",
             "start": "2025-09-21T14:00:00+01:00",
-            "ticketed": false
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -226,7 +226,7 @@
     "name": "Lauderdale House",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/888",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2021,
         2024,

@@ -1796,7 +1796,7 @@
                 "balloted": "No",
                 "description": "Australia House, home to the Australian High Commission since 1918, is London’s longest continually-occupied diplomatic mission. Designed by A. Marshall Mackenzie & Son and opened by King George V, this Grade II listed landmark features striking marble and timber interiors, much of it shipped from Australia during the First World War.",
                 "end": "15:15:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1806/building_1806_exhibition_hall_2_63355ca71c31c6576ce15d65719854ff.jpeg",
@@ -5016,7 +5016,7 @@
                 ],
                 "name": "IFS Cloud Cable Car",
                 "new_venue_this_year": "No",
-                "start": "11:00:00",
+                "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/5530"
             },
@@ -6500,53 +6500,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.2717071,
-                    51.5022222
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Acton Gardens is an award winning partnership between L&Q and Countryside Properties. This collaboration is delivering the  regeneration of South Acton to create over 3,000 new homes, community facilities and retail, play and green spaces.",
-                "end": "16:30:00",
-                "fully_booked": "Yes",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8153/building_8153_221018_grid_actongardens_026-phase-9-4_32afbef02a850a0244ba772dd81fe68c.jpg",
-                        "title": "GRID Architects Phase 9.4"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8153/building_8153_stitcharchitectslondon-projects-actongardens7-1-01-min_f641c50517200949318cbca1b3cfab62.jpg",
-                        "title": "Stitch Architects Phase 7.1"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8153/building_8153_pro-16250_acton-gardens-06-garden-neighbourhood_436ef95b8308296ee992ddc29316e65e.jpg",
-                        "title": "Allies and Morrison Phase 9.2"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8153/building_8153_acton-gardens-phase-5_6d55365b253cf0af08eaa3c6410f177b.jpg",
-                        "title": "HTA Phase 5"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8153/building_8153_23847-lme-miela-park-bench-united-kingdom-london-south-acton-gardens-02-gallery-large-1024x0_12d13e5648c2f25d03bdbd40ae507568.jpg",
-                        "title": "Levitt Bernstein Phase 6.2"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8153/building_8153_stitcharchitectslondon-projects-actongardens3-1-01_0fa52a04f80ccc3bcd009420dbb86e78.jpg",
-                        "title": "Stitch Architects Phase 3.1"
-                    }
-                ],
-                "name": "Acton Gardens",
-                "new_venue_this_year": "No",
-                "start": "13:30:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/8153"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.2141963,
                     51.4987228
                 ],
@@ -7510,7 +7463,7 @@
                 "balloted": "No",
                 "description": "In 1666, a devastating fire swept through the City of London, destroying 13,200 houses, 87 parish churches, The Royal Exchange, Guildhall and St. Paul's Cathedral.  The Fire started on Sunday, 2 September 1666 in Thomas Farriner's bakery in Pudding Lane. \r\nChristopher Wren played a major role in rebuilding the City. \r\nJoin our free walks led by City of London Guides to find out more.",
                 "end": "15:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10238/building_10238_great-fire_cdb623d9a7d002bfedeb091b563fbe2d.jpeg",
@@ -7869,7 +7822,7 @@
                 "balloted": "No",
                 "description": "Architecture studio Klaud leads a tour of the Soho Photography Quarter and The Photographers’ Gallery's refurbished ground floor, which has been redesigned to connect to this new public space that features a 45m ‘Artfrieze’ at the core of a curated public art programme.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10735/building_10735_spq_ala6472_f1096a656a7744c8449bfd59f7c977cb.jpg",
@@ -8959,7 +8912,7 @@
                 "balloted": "No",
                 "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights scale architectural models of London: the New London Model and the City Model, in additional to a rotating exhibition highlighting key NLA projects.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12022/building_12022_tlc-gallery-image_4a4ec9198eae3721250973552952142d.png",
@@ -13026,6 +12979,60 @@
             },
             "properties": {
                 "balloted": "No",
+                "description": "Come and hear some of them with the City of London Guides. We would love to tell you tales of peasants, angry monks, body snatchers, great art and much much more.",
+                "end": "11:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13395/building_13395_kat-van-der-linden-eefndvfrsj0-unsplash_567fb9da0cae3fd314d6aacbff6a3815.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Bartholomew Fayre: Medics, Monks, Meat and Martyrs",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13395"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10036999999999997,
+                    51.51859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Alec Forshaw, conservationist, historian and author, will lead a circular walk around Smithfield's back streets.",
+                "end": "13:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13397/building_13397_kat-van-der-linden-eefndvfrsj0-unsplash_831b8073e853400b134e8ae5bf7413c8.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Bartholomew Fayre: Smithfield Backstreets Walking Tour",
+                "new_venue_this_year": "Yes",
+                "start": "12:45:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13397"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10026999999999997,
+                    51.51859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
                 "description": "Join Assemblage Collective for this manifesto zine-making workshop, all about expressing yourself and your ideas for a better world! Learn how to craft a zine (like a mini book, from the word maga-zine), then use a range of materials to draw, collage, stamp, write and create a playful manifesto for the future.",
                 "end": "13:00:00",
                 "fully_booked": "",
@@ -13046,7 +13053,7 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.10036999999999997,
+                    -0.10016999999999997,
                     51.51859
                 ],
                 "type": "Point"
@@ -13222,6 +13229,41 @@
                 "start": "09:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13414"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09747,
+                    51.37204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Bring the ideas in your imagination to life in a MATT+FIONA big build at this year’s Open House! Using recycled materials, cardboard, colourful fabric and some nifty fixings, we’ll be reimagining a eco-friendly, joyful Croydon of the future in Queen's Gardens.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13421/building_13421_compton_verney_easter_170425_0730_credit_andrew_moore_49e88c2a3a0d087db963159e3c54f079.jpg",
+                        "title": "Photo © Andrew Moore"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13421/building_13421_gd_m-f-025x_b619feeef626bc44ff96cbb050dc15f9.jpg",
+                        "title": "Photo © Grant Donaldson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13421/building_13421_compton_verney_easter_170425_2372_credit_andrew_moore_9c5167dd393695d7c802f0ae73c5b3da.jpg",
+                        "title": "Photo © Andrew Moore"
+                    }
+                ],
+                "name": "MATT+FIONA: You Play Croydon",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13421"
             },
             "type": "Feature"
         },
@@ -13413,6 +13455,33 @@
                 "start": "09:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13431"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10052,
+                    51.51835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Community engagement is promised in every regeneration project, but how often do locals truly shape their spaces? Do professionals know best, or should power be shared? \r\n\r\nJoin us at The Priory Church of St Bartholomew the Great for the Accelerate Debate, where bold thinkers explore the ethics, risks and rewards of co-design.",
+                "end": "19:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13440/building_13440_screenshot-2025-08-27-at-15-11-01_96a94fb5f690eb9bf0095efe9cd77a13.png",
+                        "title": "Save Brick Lane Campaign march. Photo by Sarah Ainslie"
+                    }
+                ],
+                "name": "Accelerate Debates: Designing With? or Designing For?",
+                "new_venue_this_year": "Yes",
+                "start": "17:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13440"
             },
             "type": "Feature"
         }

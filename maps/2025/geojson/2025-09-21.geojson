@@ -747,7 +747,7 @@
                 "balloted": "No",
                 "description": "Grade II* listed building in Waterlow Park dating to 1582 and recently refurbished. Original Tudor wooden framework adapted by successive owners over the centuries. Today the house runs primarily as an arts, heritage and education centre.",
                 "end": "16:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/888/building_888_house-with-red-flowers-sheila-norris_66e65594c590a0beb52315c177d0abb3.jpg",
@@ -789,7 +789,7 @@
                 "name": "Lauderdale House",
                 "new_venue_this_year": "No",
                 "start": "11:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/888"
             },
             "type": "Feature"
@@ -3857,7 +3857,7 @@
                 ],
                 "name": "IFS Cloud Cable Car",
                 "new_venue_this_year": "No",
-                "start": "11:00:00",
+                "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/5530"
             },
@@ -4821,15 +4821,15 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0327,
-                    51.46869
+                    -0.03272,
+                    51.4686
                 ],
                 "type": "Point"
             },
             "properties": {
                 "balloted": "No",
                 "description": "Guided walks through Brockley Conservation Area's quirky mews: leafy lanes, industrial units, Victorian and interesting modern architecture existing in harmony. The cherished public right of way  allows community contact with nature.",
-                "end": "16:00:00",
+                "end": "14:45:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -6648,7 +6648,7 @@
                 "balloted": "No",
                 "description": "Mother has been in the Biscuit Building since 2006, it was designed by Clive Wilkinson Architects. It is a four-story creative workspace, with the design centred around a 14-foot wide staircase through the building from ground to loading level to first floor and then second floor. A table, which accommodates Mother staff, is shaped as a continuous ribbon with this staircase.",
                 "end": "16:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12532/building_12532_screenshot-2024-06-07-at-18-57-53_be63de4f7eda0075d97ff06abe38ee83.png",
@@ -6777,7 +6777,7 @@
                 "balloted": "No",
                 "description": "Sir Howard Hodgkin (1932 – 2017) was one of England’s most celebrated contemporary artists. Abstracted yet allusive, apparently spontaneous but in fact highly controlled, his paintings convey feeling through gesture and colour.  His former studio, converted from a nineteenth-century dairy, sits in the heart of Bloomsbury.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12569/building_12569_studio-2024_3c443511f6f7a38df9eddc5a13403638.jpeg",
@@ -7455,7 +7455,7 @@
                 "balloted": "No",
                 "description": "Queer Britain is the UK’s permanent museum of LGBT History.    Housed in a converted Victorian office building in the heart of the regenerated King’s Cross area, the galleries are a riot of voices and objects from over 100 years of queer history. At Open House 2025, Queer Britain’s volunteer guides will give talks demonstrating the museum’s mission to reclaim, preserve and inspire LGBTQ+ history.",
                 "end": "17:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13050/building_13050_queer-britain-kings-cross-london_4cce6e1fef74a3607d6932b5eb914877.jpg",
@@ -8459,6 +8459,41 @@
                 "start": "11:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13414"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09747,
+                    51.37204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Bring the ideas in your imagination to life in a MATT+FIONA big build at this year’s Open House! Using recycled materials, cardboard, colourful fabric and some nifty fixings, we’ll be reimagining a eco-friendly, joyful Croydon of the future in Queen's Gardens.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13421/building_13421_compton_verney_easter_170425_0730_credit_andrew_moore_49e88c2a3a0d087db963159e3c54f079.jpg",
+                        "title": "Photo © Andrew Moore"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13421/building_13421_gd_m-f-025x_b619feeef626bc44ff96cbb050dc15f9.jpg",
+                        "title": "Photo © Grant Donaldson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13421/building_13421_compton_verney_easter_170425_2372_credit_andrew_moore_9c5167dd393695d7c802f0ae73c5b3da.jpg",
+                        "title": "Photo © Andrew Moore"
+                    }
+                ],
+                "name": "MATT+FIONA: You Play Croydon",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13421"
             },
             "type": "Feature"
         },
