@@ -8554,6 +8554,64 @@
                 "url": "https://programme.openhouse.org.uk/listings/13431"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09737,
+                    51.37204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Artist Samia Tossio invites children to create wearable “architectural hats” representing Croydon landmarks or other famous buildings, or imaginary towers, or skylines, using recycled and upcycled materials. We will provide easy print-outs of Croydon specific, London specific, and famous London buildings for younger children.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13438/building_13438_samia-3_be07eda87961b8a320426ed6d2e9224e.jpg",
+                        "title": "Photo © Samia Tossio"
+                    }
+                ],
+                "name": "You Wear Croydon",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13438"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09727,
+                    51.37204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Explore drawing in Croydon’s Queens Gardens in a fun and relaxed Charcoal Drawing event run by local artist Neal Vaughan. We'll draw the buildings and nature together, reflecting on what it is like to live in a city like Croydon. For all ages.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13442/building_13442_neal-vaughan1_3b18c262f4855facdc787fe65b97a7bf.jpeg",
+                        "title": "Photo © Neal Vaughan"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13442/building_13442_neal-vaughan2_f69218f0d63c31a71c902b13766d746e.jpg",
+                        "title": "Photo © Neal Vaughan"
+                    }
+                ],
+                "name": "You Draw Croydon",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13442"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"

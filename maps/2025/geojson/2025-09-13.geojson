@@ -859,6 +859,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1382929,
+                    51.5136182
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The recently restored Grade II listed Marshall Street Baths were constructed in the Roman Renaissance style and feature elaborate brick and stonework, marble-lined halls and a stunning barrel vaulted roof.  Features a restoration of the marble-lined swimming pool which is an exemplar of 1930s architecture.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1047/building_1047_03-mslc-after-refurb-2010_5441dec0c0b98f72dca1fe188747b939.jpg",
+                        "title": "The refurbished swimming pool"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1047/building_1047_msb-dive-slide-002_665af25014708d0f1721049fa965bf1b.jpg",
+                        "title": "Swimming pool in the 1930s"
+                    }
+                ],
+                "name": "Marshall Street Leisure Centre",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/1047"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1056922,
                     51.5229739
                 ],
@@ -1476,7 +1507,7 @@
                 "balloted": "No",
                 "description": "The church was first mentioned c1080 and is the oldest of the City churches dedicated to St Mary. It became a Guild Church by virtue of the  City of London (Guild Churches) Act, 1952.  It is the only Wren church built in the Late Gothic style after the Great Fire of London, 1666, thanks to a bequest.",
                 "end": "12:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1824/building_1824_120214-st-mary-aldermary-from-walbrook_6a0a8e05d9859705ab51593e095dc07d.jpg",
@@ -4017,7 +4048,7 @@
                 "balloted": "No",
                 "description": "Representing Neo-Classicist style characteristic of the mid-19C, many of the details of the house have been restored to their original splendour. The interior design is inspired by Estonian nature: swamps, lakes and forests.",
                 "end": "13:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5487/building_5487_saatkond-landscape_106128d2a472b742b1ced99d94667926.jpg",
@@ -4657,7 +4688,7 @@
                 "balloted": "No",
                 "description": "The Aga Khan Centre, designed by Pritzker prize winning architect Fumihiko Maki, houses the UK institutions of the Aga Khan Development Network. A unique feature are its six gardens inspired by different regions of the Muslim world.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7273/building_7273_fma-agaedmund-sumner-0005-lower-res_6a4339874e0937766619f70f4f8267af.jpg",
@@ -8995,6 +9026,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13186,
+                    51.5124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Start your exploration of the Open House Soho Neighbourhood with a shot of coffee, a refreshing cold drink and a bite to eat.  Explore our recently installed timeline of Soho, and our existing display on the church's history.   Relax in our calm and welcoming gardens.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12938/building_12938_sacred_grounds_f2c41ce07f97ca90f3d4f726d3fd0d70.png",
+                        "title": null
+                    }
+                ],
+                "name": "Sacred Grounds / St Anne's Church and Garden",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12938"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.13226,
                     51.51302
                 ],
@@ -9412,7 +9470,7 @@
                 "balloted": "No",
                 "description": "A meanwhile use building to support the main works at Euston Station to provide a new main terminal for the HS2 train link. The new facilities comprise a new off-site manufactured building providing high quality space for HS2 personnel working at the site together with a new Construction Skills Learning Centre, public park, allotments and community facilities.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13021/building_13021_fbmarchitects02_ad1d224db13addbcc0cca87a0dba46a2.jpg",
@@ -9481,7 +9539,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Absorb the fascinating history of ancient Londinium, visiting sites where the Romans lived, worked, and played.",
-                "end": "15:30:00",
+                "end": "16:00:00",
                 "fully_booked": "Yes",
                 "images": [
                     {
@@ -10155,7 +10213,7 @@
                 "balloted": "No",
                 "description": "Have you ever fancied waking up early before the city gets busy, then going for a walk and sketching many of London’s most iconic sights in just 1.5 hours? If yes, then join other fellow creatives for this untutored, friendly, social urban sketch event organised by EarlyMasterworks.com for The Open House Festival.",
                 "end": "10:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13147/building_13147_pexels-jabzee-30754172_76052e33a9f811f24a986895354efc6d.jpg",
