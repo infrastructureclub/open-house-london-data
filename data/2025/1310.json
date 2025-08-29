@@ -50,6 +50,21 @@
             "notes": "Drop-in visit to Admiral's House and tours of Grand Square, King William Courtyard and the Jacobean Undercroft bookable on the day.",
             "start": "2025-09-14T10:30:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "BSL guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/1310",
+            "capacity": null,
+            "date": "2025-09-13",
+            "drop_in": false,
+            "end": "2025-09-13T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "BSL-led tour of the Jacobean Undercroft (in BSL only)",
+            "notes": "A tour of the early-1600s Jacobean Undercroft delivered entirely in British Sign Language by one of our very own volunteers.",
+            "start": "2025-09-13T14:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -93,6 +108,13 @@
                 "Saturday 13 September and Sunday 14 September, walking tours. Bookable in-person, on the day, from our Open House table in Grand Square. The tour will last about 20 minutes and will be repeated on the hour from 11.00 to 16.00, with additional tours at 10.30 and 16.30.",
                 "A rare opportunity to visit the Undercroft of the Queen Anne Building, a survival from the early 1600s and the only remaining intact room from Greenwich Palace.",
                 "The Undercroft is reached by a flight of steps: we regret there is no step-free access for this visit."
+            ]
+        },
+        {
+            "heading": "BSL-led tour of the Jacobean Undercroft",
+            "paragraphs": [
+                "Saturday 13 September at 2.30, a tour of the  Jacobean Undercroft delivered entirely in British Sign Language by one of our very own volunteers,",
+                "Meet at the gazebo in Lower Grand Square at 2pm to sign in.  The guide will meet you there."
             ]
         }
     ],
@@ -165,7 +187,7 @@
     "name": "Old Royal Naval College",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1310",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2021,
         2022,

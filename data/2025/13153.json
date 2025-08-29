@@ -29,7 +29,7 @@
             "end": "2025-09-18T18:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Thursday open day",
-            "notes": "All are welcome at our regular Thursday open afternoons. Come along and enjoy our self-guided audio tour.",
+            "notes": "All are welcome at our regular Thursday open afternoons. Come along, meet our guide or enjoy our self-guided audio tour.",
             "start": "2025-09-18T12:00:00+01:00",
             "ticketed": false
         },
@@ -44,7 +44,7 @@
             "end": "2025-09-19T18:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Friday open day",
-            "notes": "All are welcome at our regular Friday open afternoons. Come along and enjoy our self-guided audio tour.",
+            "notes": "All are welcome at our regular Friday open afternoons. Come along, meet our guide or enjoy our self-guided audio tour.",
             "start": "2025-09-19T12:00:00+01:00",
             "ticketed": false
         },
@@ -72,10 +72,25 @@
             "date": "2025-09-20",
             "drop_in": false,
             "end": "2025-09-20T14:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided tour",
             "notes": "Join our tour guide for a special tour of the Meeting House, and learn about its fascinating history.",
             "start": "2025-09-20T12:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/13153",
+            "capacity": null,
+            "date": "2025-09-20",
+            "drop_in": false,
+            "end": "2025-09-20T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour",
+            "notes": "Join our tour guide for a special tour of the Meeting House, and learn about its fascinating history.",
+            "start": "2025-09-20T14:00:00+01:00",
             "ticketed": true
         }
     ],

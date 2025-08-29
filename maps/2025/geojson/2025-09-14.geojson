@@ -488,7 +488,7 @@
                 "balloted": "No",
                 "description": "The home of Emery Walker, printer, antiquary and mentor to William Morris. A unique Arts and Crafts domestic interior.",
                 "end": "16:15:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/668/building_668_emery-1624-2_bea33607d5ef40de4ceccffc34315046.jpg",
@@ -1096,7 +1096,7 @@
                 "balloted": "No",
                 "description": "Sir Christopher Wren's riverside masterpiece in Greenwich, built as the Royal Hospital for Seamen and begun in 1696 on the site of the Tudor Greenwich Palace. Occupied by the Royal Naval College from 1869 to 1998, it is now a premier historic, cultural and educational destination in the heart of the Maritime Greenwich UNESCO World Heritage Site.",
                 "end": "17:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1310/building_1310_old-royal-naval-college_9471bb0d4370a4e76a3c8d1357bb623e.jpg",
@@ -1126,7 +1126,7 @@
                 "name": "Old Royal Naval College",
                 "new_venue_this_year": "No",
                 "start": "10:30:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/1310"
             },
             "type": "Feature"
@@ -3160,7 +3160,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Grade II* listed mausoleum in the form of a Bedouin tent carved to resemble draping canvas. The mausoleum houses the coffins of Sir Richard and Lady Isabel Burton. The interior is painted with religious imagery and decorated with camel bells, lamps, and wreaths of flowers.\r\n\r\nThe building is currently undergoing conservation work and the rear will be under scaffold and inaccessible.",
+                "description": "Grade II* listed mausoleum in the form of a Bedouin tent carved to resemble draping canvas. The mausoleum houses the coffins of Sir Richard and Lady Isabel Burton. The interior is painted with religious imagery and decorated with camel bells, lamps, and wreaths of flowers.\r\n\r\nThe building is currently undergoing conservation work and will be under scaffold.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -3349,12 +3349,16 @@
                 "fully_booked": "",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_piercyandco_kew-house_-cambridge-road-view-c-jack-hobhouse_5007e059cb2c5735430370705a2d03b2.jpg",
-                        "title": "View from Cambridge Road"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_kew-house-front-view-c-tim-lucas_9ebf639ab7a6147db529a9d9d69995df.jpg",
+                        "title": "Street facing elevation of Kew house with the twin gables and glazed link."
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_piercyandco_kew-house_roof-c-jack-hobhouse_1c422ea0435523bf32938c56080e976e.jpg",
                         "title": "Roof view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_piercyandco_kew-house_-cambridge-road-view-c-jack-hobhouse_5007e059cb2c5735430370705a2d03b2.jpg",
+                        "title": "View from Cambridge Road"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_piercyandco_kew-house_-installation-of-shells_38d9473494071e96aa6186985fd2e522.jpg",
@@ -3363,10 +3367,6 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_kew-house-02_2fa24f351863eaac7a271ca41a39bd5d.jpg",
                         "title": "Jack Hobhouse"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_kew-house-front-view-c-tim-lucas_9ebf639ab7a6147db529a9d9d69995df.jpg",
-                        "title": "Street facing elevation of Kew house with the twin gables and glazed link."
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_kew-house-basement-gallery-c-tim-lucas_b6ce85ac48adccb6d5b4a094106e032c.jpg",

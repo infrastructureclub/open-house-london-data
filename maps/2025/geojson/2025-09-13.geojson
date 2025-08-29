@@ -1044,7 +1044,7 @@
                 "balloted": "No",
                 "description": "Sir Christopher Wren's riverside masterpiece in Greenwich, built as the Royal Hospital for Seamen and begun in 1696 on the site of the Tudor Greenwich Palace. Occupied by the Royal Naval College from 1869 to 1998, it is now a premier historic, cultural and educational destination in the heart of the Maritime Greenwich UNESCO World Heritage Site.",
                 "end": "17:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1310/building_1310_old-royal-naval-college_9471bb0d4370a4e76a3c8d1357bb623e.jpg",
@@ -1074,7 +1074,7 @@
                 "name": "Old Royal Naval College",
                 "new_venue_this_year": "No",
                 "start": "10:30:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/1310"
             },
             "type": "Feature"
@@ -1507,7 +1507,7 @@
                 "balloted": "No",
                 "description": "The church was first mentioned c1080 and is the oldest of the City churches dedicated to St Mary. It became a Guild Church by virtue of the  City of London (Guild Churches) Act, 1952.  It is the only Wren church built in the Late Gothic style after the Great Fire of London, 1666, thanks to a bequest.",
                 "end": "12:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1824/building_1824_120214-st-mary-aldermary-from-walbrook_6a0a8e05d9859705ab51593e095dc07d.jpg",
@@ -4082,12 +4082,16 @@
                 "fully_booked": "",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_piercyandco_kew-house_-cambridge-road-view-c-jack-hobhouse_5007e059cb2c5735430370705a2d03b2.jpg",
-                        "title": "View from Cambridge Road"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_kew-house-front-view-c-tim-lucas_9ebf639ab7a6147db529a9d9d69995df.jpg",
+                        "title": "Street facing elevation of Kew house with the twin gables and glazed link."
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_piercyandco_kew-house_roof-c-jack-hobhouse_1c422ea0435523bf32938c56080e976e.jpg",
                         "title": "Roof view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_piercyandco_kew-house_-cambridge-road-view-c-jack-hobhouse_5007e059cb2c5735430370705a2d03b2.jpg",
+                        "title": "View from Cambridge Road"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_piercyandco_kew-house_-installation-of-shells_38d9473494071e96aa6186985fd2e522.jpg",
@@ -4096,10 +4100,6 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_kew-house-02_2fa24f351863eaac7a271ca41a39bd5d.jpg",
                         "title": "Jack Hobhouse"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_kew-house-front-view-c-tim-lucas_9ebf639ab7a6147db529a9d9d69995df.jpg",
-                        "title": "Street facing elevation of Kew house with the twin gables and glazed link."
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5737/building_5737_kew-house-basement-gallery-c-tim-lucas_b6ce85ac48adccb6d5b4a094106e032c.jpg",
@@ -6688,7 +6688,7 @@
                 "balloted": "No",
                 "description": "Nestled off a busy street in Camden, the former industrial building has been home to architectural firm Sheppard Robson for over 40 years. A series of additions have allowed more amenity, social spaces, and diversity in work settings.",
                 "end": "14:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11127/building_11127_77-parkway_sheppard-robson_1_d2427ba1a2dd2037c753fa15105b52e6.jpg",
@@ -8319,7 +8319,7 @@
                 "balloted": "No",
                 "description": "Built in 1817 and located at the terminus of York Gate, Regent’s Park, St Marylebone Parish Church is one of the most significant landmarks of Marylebone. Our parish church has shaped and has been shaped by the community of Marylebone, even giving the village its name and providing continual spiritual and pastoral care for the community for over 900 years.",
                 "end": "14:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12548/building_12548_bob-atkins-190_9cc7a1513295940c25717144144ebab3.jpg",
@@ -9089,7 +9089,7 @@
                 "balloted": "No",
                 "description": "This project by Caruso St John Architects for developers W·RE, is located close to St Pancras Station in an area of the city that is undergoing substantial change. The site was previously occupied by a block of light-industrial units, and the newly constructed 24,000 sqm mixed-use scheme accommodates the same area of industrial workspace within a denser development of offices, housing, and retail.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12949/building_12949_stp-3_5_121b8545d1ff72d2363e95873fd62443.jpg",

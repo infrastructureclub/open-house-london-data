@@ -753,6 +753,49 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0347985,
+                    51.576733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Grade II listed Victorian engine house remodelled to take a pair of 1895 Marshall steam engines, still in working order. A museum celebrating the rich Industrial Heritage of the Borough and the Lea Valley Region.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/983/building_983_dscf0203-large_95c6be3fe4c1cc327f7e04015aa45e34.jpg",
+                        "title": "The Pumphouse"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/983/building_983_pumphouse-2_e56a864f5d477bfeb799ae0290603ea9.jpg",
+                        "title": "The front of the Pumphouse"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/983/building_983_dscf0191-large_428c024b6cbbf1088e94375ce1af6b4a.jpg",
+                        "title": "The engines"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/983/building_983_fire-truck_04885ab3e6613ef2ca16986ed8666fa4.jpeg",
+                        "title": "Dennis Fire Truck"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/983/building_983_walthamstow-1_f2af6cd4327dea83ef655f3888a98212.jpeg",
+                        "title": "1967 Stock Victoria Line tube carriage"
+                    }
+                ],
+                "name": "Walthamstow Pumphouse Museum",
+                "new_venue_this_year": "No",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/983"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.3882381,
                     51.5944539
                 ],
@@ -789,7 +832,7 @@
                 "balloted": "No",
                 "description": "Grade I listed, late Georgian sugar warehouse now housing the Museum of London Docklands. Sensitively restored, the new multimedia displays coexist with the massive timber and brick structures of the original building.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1148/building_1148_museum-of-london-docklands-1-museum-of-london_4a671d76bdb330e3ad88b0c9c7dad6c5.jpg",
@@ -4067,7 +4110,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Inter-war residential development representing the 'glamorous aspirations' of the period (Pevsner). Five blocks of flats in Dutch-Colonial-Baroque style, and clubhouse with swimming pool.",
-                "end": "20:00:00",
+                "end": "12:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -4089,7 +4132,7 @@
                 ],
                 "name": "Ealing Village",
                 "new_venue_this_year": "Yes",
-                "start": "08:00:00",
+                "start": "09:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/3684"
             },
@@ -5034,7 +5077,7 @@
                 "balloted": "No",
                 "description": "A cleverly integrated mixture of architectural styles and periods, incorporating a late 1720s house (later home to Herbert Henry Asquith) and the purpose-built College of Nursing (1926). Access to main building via guided tour only.",
                 "end": "16:15:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6151/building_6151_external-2_06e1c11c4f9913f6b00a6f55fe35679f.jpg",
@@ -7046,7 +7089,7 @@
                 "balloted": "No",
                 "description": "A radical transformation of an Edwardian Semi that has been completely opened up and renovated with bold materials and bright colours. A stage-set mountain is elevated on an exposed structure to form the striking rear extension.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8897/building_8897_6-01_13776808b2196033d9d74f35ba9db997.jpg",
@@ -8836,13 +8879,25 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The North London Buddhist Centre has been described as an 'oasis along the Holloway road'. It just celebrated its 20th anniversary in its current premises built in 1980 with some elements of Georgian style. The building houses two shrine rooms, a café area and  bodywork studio.",
-                "end": "16:45:00",
+                "description": "The North London Buddhist Centre has been described as an 'oasis along the Holloway road'. Last year, it celebrated its 20th anniversary in its current premises, built in 1980 with some elements of Georgian style. The building houses two shrine rooms, a café area and  bodywork studio.",
+                "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11996/building_11996_sharedimage-2_f47be6f2fe4af11e6feeaf9baa87d9cd.jpg",
-                        "title": null
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11996/building_11996_outside-of-nlbc_e632a90a973f31ceb33710e756a80c26.jpg",
+                        "title": "Street view of the North London Buddhist Centre"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11996/building_11996_img_4611_e657a5face7e73090a5cafafff575b0b.jpg",
+                        "title": "Main Shrine Room"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11996/building_11996_reception-tables-and-chairs_859e01293c6d9239bffc60a82310a7ca.jpg",
+                        "title": "Reception Space 1"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11996/building_11996_shopview_31a76ae25e350a2cb5b9b5de02353284.jpg",
+                        "title": "Reception & shop"
                     }
                 ],
                 "name": "North London Buddhist Centre",
@@ -8974,7 +9029,7 @@
                 "balloted": "No",
                 "description": "The first custom-build homes built in London. A terrace of flats and houses which was built from scratch and sold at 'shell' for the owners to fit-out themselves.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12094/building_12094_blenheim-grove-9-edit-lo-res_99421c41c4e15488628f868531f7326e.jpg",
@@ -11495,7 +11550,7 @@
                 "balloted": "No",
                 "description": "Royal Docks Originals, the first edition of a new festival showcasing the Royal Docks as London’s newest cultural engine, will run from 15th Sep to 4th Oct. \r\n\r\nThe first of the 3 festival weekends will take place around Pontoon Dock and Silvertown; as part of that weekend’s programme, we will with Projekt to open up one of their flagship creative workspaces to visitors.",
                 "end": "15:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13129/building_13129_the-factory-image_8961af06330485efe169b54212b5e78a.jpg",
@@ -11716,8 +11771,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "Newington Green Unitarian Meeting House was built in 1708 for the local Non-conformist community. By the end of the 18th century it had become a Unitarian chapel of 'rational dissent' led by minister and radical Richard Price; it welcomed early feminist Mary Wollstonecraft. It maintains its original facade and many of its internal chapel fittings. It's home to the New Unity Unitarian congregation.",
-                "end": "14:00:00",
-                "fully_booked": "Yes",
+                "end": "16:00:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13153/building_13153_ngmh-exterior-marcus-duran_e41a8cc85a5addff08456a874cf79118.png",
@@ -13326,7 +13381,7 @@
                 "balloted": "No",
                 "description": "This audio described tour is specifically for those with visual impairments.  The 2025 London Open House Festival, in conjunction with VocalEyes, is pleased to announce an audio described tour, including tactile elements, and accompanied by an expert from The Royal College of Physicians, of their striking, provocative building and one of London’s few Grade I listed post-war buildings.",
                 "end": "13:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13422/building_13422_royal-college-of-physicians_992d290e8cc55e7d82c8a42188e67796.jpg",

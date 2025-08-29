@@ -1122,7 +1122,7 @@
                 "balloted": "No",
                 "description": "Explore the Bush Theatre, West London’s home of new writing. Get a behind the scenes look at our fifty-year history, including how over 2016 we transformed our 128-year-old building into an accessible and sustainable modern theatre.",
                 "end": "16:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11992/building_11992_daytime-outside-credit-philip-vile-for-the-bush-theatre_d410aac4be5190484396491f395c97a2.jpg",
@@ -1387,33 +1387,6 @@
                 "start": "18:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13041"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.1,
-                    51.50345
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Resonance FM is a pioneering, non-profit community radio station, with a studio at 7 Risborough Street, Southwark, London. Broadcasting 24/7 on 104.4 FM, DAB, and online, it offers over 100 weekly shows created by volunteer engineers and programme-makers. The station champions free expression and artistic diversity, providing a platform for local and international voices across arts & culture.",
-                "end": "17:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13049/building_13049_screenshot-2025-07-01-at-10-51-28_bb79a5b2e045cec798d84900af8fd743.png",
-                        "title": "Keira Anee"
-                    }
-                ],
-                "name": "Resonance FM Studios",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/13049"
             },
             "type": "Feature"
         },
