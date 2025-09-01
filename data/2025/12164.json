@@ -74,6 +74,21 @@
             "drop_in": true,
             "end": "2025-09-14T16:00:00+01:00",
             "fully_booked": false,
+            "name": "Drop in: Short Film Series",
+            "notes": "Short films made by or about people and places connected to Good Shepherd Studios",
+            "start": "2025-09-14T12:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2025-09-14",
+            "drop_in": true,
+            "end": "2025-09-14T16:00:00+01:00",
+            "fully_booked": false,
             "name": "Drop in: Open Studios",
             "notes": "Find out what’s behind those doors and meet some of the Studio Members in their workspaces.",
             "start": "2025-09-14T12:00:00+01:00",
@@ -91,21 +106,6 @@
             "fully_booked": false,
             "name": "Drop in: Stalls, Picnic and Activities w/ Our Pastures",
             "notes": "Bring a picnic, find out more about local community groups, participate in arts & crafts activities and be entertained by local talent",
-            "start": "2025-09-14T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": true,
-            "end": "2025-09-14T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Short Film Series",
-            "notes": "Short films made by or about people and places connected to Good Shepherd Studios",
             "start": "2025-09-14T12:00:00+01:00",
             "ticketed": false
         },
@@ -140,21 +140,6 @@
             "ticketed": true
         },
         {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Eco-Fashion Workshop w/ We Make - Kids Club",
-            "notes": "Bring along an item of clothing and be guided in upcycling it. Suitable for ages 5-11",
-            "start": "2025-09-13T10:30:00+01:00",
-            "ticketed": true
-        },
-        {
             "activity_type": "Walking tour",
             "all_day": false,
             "balloted": false,
@@ -166,6 +151,21 @@
             "fully_booked": false,
             "name": "“Walk & Lime” Health & Heritage Walk w/ David Boote",
             "notes": "A sponsored heritage walk and “Caribbean style” chill to raise funds and awareness of dementia. Meeting Point: The Mural, 15a Davies Lane",
+            "start": "2025-09-13T10:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2025-09-13",
+            "drop_in": false,
+            "end": "2025-09-13T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Eco-Fashion Workshop w/ We Make - Kids Club",
+            "notes": "Bring along an item of clothing and be guided in upcycling it. Suitable for ages 5-11",
             "start": "2025-09-13T10:30:00+01:00",
             "ticketed": true
         },
@@ -227,6 +227,21 @@
             "name": "Building Tour",
             "notes": "A guided look at Good Shepherd Studios, its past and plans for the future (step-free adaptation available)",
             "start": "2025-09-13T13:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2025-09-13",
+            "drop_in": false,
+            "end": "2025-09-13T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Creative Wellness Space",
+            "notes": "Creative wellness activities suitable for all ages and levels of experience",
+            "start": "2025-09-13T14:00:00+01:00",
             "ticketed": true
         },
         {
@@ -302,21 +317,6 @@
             "name": "Building Tour",
             "notes": "A guided look at Good Shepherd Studios, its past and plans for the future (step-free adaptation available)",
             "start": "2025-09-14T13:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Creative Wellness Space",
-            "notes": "Creative wellness activities suitable for all ages and levels of experience",
-            "start": "2025-09-14T14:00:00+01:00",
             "ticketed": true
         },
         {

@@ -334,7 +334,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "During Open House, the Friends of Battersea Parish Church are staging a Floral Festival, organ recitals, historical displays.\r\nSunday 14 September at 3pm, a concert by The London Vegetable Orchestra  “Rooted in Culture”: \r\nTuesday 16 September at 7pm,  renowned author Lamorna Ash will join us\r\nWednesday 17th September at 7pm Jason Sandy, famous London Mudlark, will present his latest finds",
+                "description": "During Open House, the Friends of Battersea Parish Church present a Floral Festival, organ recitals & historical displays. Sun 14 Sept, 3pm: The London Vegetable Orchestra “Rooted in Culture”. Tues 16 Sept, 7pm: Author Lamorna Ash in conversation. Wed 17 Sept, 7pm: Mudlark Jason Sandy on his latest finds. Plus, join us for Choral Evensong amidst the flowers at St Mary’s Battersea",
                 "end": "16:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -1678,6 +1678,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13932,
+                    51.51092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A revival and love letter to London’s lost bohemia..   Travel back in time to the legendary haunt of some of Soho's greatest creatives.   Featuring pictures, press cuttings and even the piano from the much loved private members club.",
+                "end": "22:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12933/building_12933_licence-to-offend_399ae41fb06aff3ae5f7879d5f5f2b6d.jpeg",
+                        "title": "Guy Venables"
+                    }
+                ],
+                "name": "Explore the authentically recreated Colony Room",
+                "new_venue_this_year": "No",
+                "start": "15:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12933"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.16263,
                     51.54221
                 ],
@@ -1841,6 +1868,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.19112,
+                    51.46249
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Visit Western Riverside Waste Authority, Smugglers Way Waste Transfer Station during the Open House Festival to find out what happens to waste and recycling from Hammersmith & Fulham, Kensington and Chelsea, Wandsworth and Lambeth.",
+                "end": "12:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13053/building_13053_wrwa-site-ariel_1270d2c64312ec4412f58c0184988fc3.jpg",
+                        "title": "Overview of the Waste & Recycling Centre"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13053/building_13053_growhampton-recycling-plant-1-of-33_d88952473ff7e27581fc1f9ad4ae2965.jpg",
+                        "title": "A stop to see the recycling bales."
+                    }
+                ],
+                "name": "Western Riverside Waste Authority",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13053"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0845,
                     51.59571
                 ],
@@ -1850,7 +1908,7 @@
                 "balloted": "No",
                 "description": "Join us for a walking tour of Broadwater Farm Estate and see close up building of the first new council homes being built on the estate for 50 years and visit our Terrace Garden projects.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13101/building_13101_3broadwatermarch14_1d4bd03ba514567b7f435e9bb6c54028.jpg",

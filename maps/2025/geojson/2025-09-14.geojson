@@ -484,7 +484,7 @@
                 "balloted": "No",
                 "description": "Built during the golden era of Camden public housing under Borough Architect Sydney Cook. Peter Tábori  studied with Ernő Goldfinger and worked with Denys Lasdun, and met Ken Adie when both were students at the Regent Street Polytechnic.",
                 "end": "16:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/689/building_689_img_1817_d70579ad3924822011b562c1c562d710.jpg",
@@ -2201,8 +2201,8 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "During Open House, the Friends of Battersea Parish Church are staging a Floral Festival, organ recitals, historical displays.\r\nSunday 14 September at 3pm, a concert by The London Vegetable Orchestra  “Rooted in Culture”: \r\nTuesday 16 September at 7pm,  renowned author Lamorna Ash will join us\r\nWednesday 17th September at 7pm Jason Sandy, famous London Mudlark, will present his latest finds",
-                "end": "17:00:00",
+                "description": "During Open House, the Friends of Battersea Parish Church present a Floral Festival, organ recitals & historical displays. Sun 14 Sept, 3pm: The London Vegetable Orchestra “Rooted in Culture”. Tues 16 Sept, 7pm: Author Lamorna Ash in conversation. Wed 17 Sept, 7pm: Mudlark Jason Sandy on his latest finds. Plus, join us for Choral Evensong amidst the flowers at St Mary’s Battersea",
+                "end": "19:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -6625,7 +6625,7 @@
                 "balloted": "No",
                 "description": "Victorian Tardis.\r\nThe original house dates from 1864, but was completely redeveloped in 1984 and fine tuned in 1993 and in 2023 by three different architects. Double height and open interiors contrast with a Victorian facade.",
                 "end": "17:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12639/building_12639_img_4785_ed0b55dbd120c4c2bc48a598c5abe5da.jpeg",
@@ -6899,6 +6899,41 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12880"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13399,
+                    51.51258
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Since June 2023 Underbelly Boulevard has been the permanent home for the hottest cabaret, variety, comedy and music plus an exciting new Cocktail Bar, right in the heart of Soho. Come in and let us show you around!",
+                "end": "14:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12934/building_12934_underbelly-boulevard-exterior_da0d223d7aca55e9e2db7a35dff622c7.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12934/building_12934_underbelly-boulevard-interior_66dd91b38c9d877562fd9617f9bddce9.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12934/building_12934_underbelly-boulevard-performance_5a523090e87f382a0b0c3a673626541b.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Underbelly Boulevard",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12934"
             },
             "type": "Feature"
         },
@@ -7667,7 +7702,7 @@
                 "balloted": "No",
                 "description": "\"When trying to find Internet infrastructure in a city, it's helpful to start from the ground up – or, more precisely, somewhere just below the ground up...\" - Ingrid Burrington, artist (2016)\r\n\r\n\r\nThis tour will walk you through the ubiquitous but often invisible infrastructure that enables connectivity in London, with a focus specifically on the City of London.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13284/building_13284_img_8651_c3eb96b156502ebade7e06c2f1d935d2.jpg",
@@ -7833,7 +7868,7 @@
                 ],
                 "name": "Ashburton Park",
                 "new_venue_this_year": "Yes",
-                "start": "10:00:00",
+                "start": "13:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13307"
             },

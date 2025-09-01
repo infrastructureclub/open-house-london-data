@@ -3208,7 +3208,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "During Open House, the Friends of Battersea Parish Church are staging a Floral Festival, organ recitals, historical displays.\r\nSunday 14 September at 3pm, a concert by The London Vegetable Orchestra  “Rooted in Culture”: \r\nTuesday 16 September at 7pm,  renowned author Lamorna Ash will join us\r\nWednesday 17th September at 7pm Jason Sandy, famous London Mudlark, will present his latest finds",
+                "description": "During Open House, the Friends of Battersea Parish Church present a Floral Festival, organ recitals & historical displays. Sun 14 Sept, 3pm: The London Vegetable Orchestra “Rooted in Culture”. Tues 16 Sept, 7pm: Author Lamorna Ash in conversation. Wed 17 Sept, 7pm: Mudlark Jason Sandy on his latest finds. Plus, join us for Choral Evensong amidst the flowers at St Mary’s Battersea",
                 "end": "16:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -4757,7 +4757,7 @@
                 "balloted": "No",
                 "description": "At around 9m x 6m and 3-storeys high, the top floor originally contained a vast 70 cubic metre capacity cast iron water tank. This tank now forms an impressive viewing gallery; the exterior has ornate brickwork and elaborate detailing.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5049/building_5049_st-pancras-waterpoint_84f349c863d069508789ef1a5aa51b51.jpg",
@@ -10808,6 +10808,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13932,
+                    51.51092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A revival and love letter to London’s lost bohemia..   Travel back in time to the legendary haunt of some of Soho's greatest creatives.   Featuring pictures, press cuttings and even the piano from the much loved private members club.",
+                "end": "22:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12933/building_12933_licence-to-offend_399ae41fb06aff3ae5f7879d5f5f2b6d.jpeg",
+                        "title": "Guy Venables"
+                    }
+                ],
+                "name": "Explore the authentically recreated Colony Room",
+                "new_venue_this_year": "No",
+                "start": "15:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12933"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.02405,
                     51.52302
                 ],
@@ -13646,6 +13673,49 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13442"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.08264,
+                    51.55572
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Greenview House is a contemporary, low-energy home that prioritises thermal performance, spatial quality, and occupant comfort. The design of the house is underpinned by a commitment to offset the environmental impact of its construction. A fabric-first approach, supported by green technologies, keeps energy use low and significantly reduces the building’s long-term operational carbon footprint.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13443/building_13443_115-greenview-house-web-res-2_4e80571d6064bbb7e99f26a988517a5d.jpg",
+                        "title": "Nick Dearden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13443/building_13443_115-greenview-house-web-res-10_8716cb9ed6937717399316199d0bbaec.jpg",
+                        "title": "Nick Dearden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13443/building_13443_115-greenview-house-web-res-6_23c591b7d0a4812d8fe10b203c691655.jpg",
+                        "title": "Nick Dearden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13443/building_13443_115-greenview-house-web-res-19_e97f3228c5a8fbec54cc3dc3e265860b.jpg",
+                        "title": "Nick Dearden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13443/building_13443_115-greenview-house-web-res-25_b2dcf286d6ff8eb57a0f2382ab92020a.jpg",
+                        "title": "Nick Dearden"
+                    }
+                ],
+                "name": "Greenview House",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13443"
             },
             "type": "Feature"
         }

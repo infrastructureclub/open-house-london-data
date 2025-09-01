@@ -2450,7 +2450,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "During Open House, the Friends of Battersea Parish Church are staging a Floral Festival, organ recitals, historical displays.\r\nSunday 14 September at 3pm, a concert by The London Vegetable Orchestra  “Rooted in Culture”: \r\nTuesday 16 September at 7pm,  renowned author Lamorna Ash will join us\r\nWednesday 17th September at 7pm Jason Sandy, famous London Mudlark, will present his latest finds",
+                "description": "During Open House, the Friends of Battersea Parish Church present a Floral Festival, organ recitals & historical displays. Sun 14 Sept, 3pm: The London Vegetable Orchestra “Rooted in Culture”. Tues 16 Sept, 7pm: Author Lamorna Ash in conversation. Wed 17 Sept, 7pm: Mudlark Jason Sandy on his latest finds. Plus, join us for Choral Evensong amidst the flowers at St Mary’s Battersea",
                 "end": "16:30:00",
                 "fully_booked": "No",
                 "images": [
@@ -3782,7 +3782,7 @@
                 "balloted": "No",
                 "description": "Two Grade II listed buildings, 4-storey yellow stock brick with a rusticated stucco base. No. 57 has an attic level with a garden at the rear. Staircases are intact and each room still retains its high ceilings and ornamental fireplaces. The garden behind No. 58 has been developed to include an additional meeting room, and an interior development has created conference rooms in the lower ground floor",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5048/building_5048_photo-4_867377d80f56723c426445fd7b058382.jpg",
@@ -9026,6 +9026,60 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13932,
+                    51.51092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A revival and love letter to London’s lost bohemia..   Travel back in time to the legendary haunt of some of Soho's greatest creatives.   Featuring pictures, press cuttings and even the piano from the much loved private members club.",
+                "end": "22:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12933/building_12933_licence-to-offend_399ae41fb06aff3ae5f7879d5f5f2b6d.jpeg",
+                        "title": "Guy Venables"
+                    }
+                ],
+                "name": "Explore the authentically recreated Colony Room",
+                "new_venue_this_year": "No",
+                "start": "15:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12933"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1343,
+                    51.5129
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Come and join us to explore this historic market and its evolution.   View images of it's historic past and its part in bringing us such exotic items as tomatoes, olive oil and grapefruit.  Take a photograph from the same spot to recreate Oasis's iconic What's the story? (Morning Glory)  album cover.  Information point and advice on exploring other Soho Open House locations and events.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12937/building_12937_berwick_25187d852802f863087f40d0f217c5a9.gif",
+                        "title": "Westminster Archive"
+                    }
+                ],
+                "name": "Berwick Street Market",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12937"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.13186,
                     51.5124
                 ],
@@ -9089,7 +9143,7 @@
                 "balloted": "No",
                 "description": "This project by Caruso St John Architects for developers W·RE, is located close to St Pancras Station in an area of the city that is undergoing substantial change. The site was previously occupied by a block of light-industrial units, and the newly constructed 24,000 sqm mixed-use scheme accommodates the same area of industrial workspace within a denser development of offices, housing, and retail.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12949/building_12949_stp-3_5_121b8545d1ff72d2363e95873fd62443.jpg",
@@ -9719,7 +9773,7 @@
                 "balloted": "No",
                 "description": "Queer Britain is the UK’s permanent museum of LGBT History.    Housed in a converted Victorian office building in the heart of the regenerated King’s Cross area, the galleries are a riot of voices and objects from over 100 years of queer history. At Open House 2025, Queer Britain’s volunteer guides will give talks demonstrating the museum’s mission to reclaim, preserve and inspire LGBTQ+ history.",
                 "end": "17:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13050/building_13050_queer-britain-kings-cross-london_4cce6e1fef74a3607d6932b5eb914877.jpg",
@@ -9824,7 +9878,7 @@
                 "balloted": "No",
                 "description": "Launched on 24th April 2025, Regent’s Park Estate Story Trail is an exciting new resident-led socially engaged public art trail through Regent’s Park Estate, Euston. \r\n\r\nThe trail encompasses 12 site-specific art installations created by 10 artists and collectives, bringing 31 new public artworks to Regent's Park Estate.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13100/building_13100_regent-s-park-portrait-brendan-barry-photo_-nick-turpin_ecb7b4fc9431c87d71f7491e8496ff06.jpg",

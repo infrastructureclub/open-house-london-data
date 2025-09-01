@@ -1,7 +1,7 @@
 {
     "all_week": false,
     "balloted_events": false,
-    "description": "During Open House, the Friends of Battersea Parish Church are staging a Floral Festival, organ recitals, historical displays.\r\nSunday 14 September at 3pm, a concert by The London Vegetable Orchestra  “Rooted in Culture”: \r\nTuesday 16 September at 7pm,  renowned author Lamorna Ash will join us\r\nWednesday 17th September at 7pm Jason Sandy, famous London Mudlark, will present his latest finds",
+    "description": "During Open House, the Friends of Battersea Parish Church present a Floral Festival, organ recitals & historical displays. Sun 14 Sept, 3pm: The London Vegetable Orchestra “Rooted in Culture”. Tues 16 Sept, 7pm: Author Lamorna Ash in conversation. Wed 17 Sept, 7pm: Mudlark Jason Sandy on his latest finds. Plus, join us for Choral Evensong amidst the flowers at St Mary’s Battersea",
     "design": {
         "designers": [
             {
@@ -61,6 +61,21 @@
             "name": "Drop in",
             "notes": "Church is open for visitors with guides available",
             "start": "2025-09-14T12:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2025-09-14",
+            "drop_in": true,
+            "end": "2025-09-14T19:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Choral Evensong with St Mary's Choir",
+            "notes": "Choral Evensong at St Mary’s Battersea during Open House Flower Festival – timeless music, prayer & beauty by the Thames.",
+            "start": "2025-09-14T18:00:00+01:00",
             "ticketed": false
         },
         {
@@ -247,7 +262,8 @@
         {
             "heading": "Open House Week - Special Events",
             "paragraphs": [
-                "FLORAL FESTIVAL Featuring installations by local and international florists, posies from the leading UK Charity Thrive in Battersea Park, and displays from Ethelburga Community Gardening Club – celebrating beauty, community and sustainability.\nROOTED IN CULTURE CONCERT, SUNDAY 14 SEPTEMBER, 3PM A joyful performance by The London Vegetable Orchestra, featuring music made from vegetables and mini workshops for all ages. \nLAMORNA ASH - IN CONVERSATION & BOOK SIGNING.  TUESDAY 16TH SEPTEMBER 7PM\nJoin award-winning author Lamorna Ash for a special evening of discussion and reflection on her new book: Don’t Forget We’re Here Forever: A New Generation’s Search for Religion. Lamorna will take part in a Q&A, followed by a book signing in the historic and peaceful setting of St Mary’s.\nJASON SANDY An Evening with Mudlark Jason Sandy\n Wednesday, 17th September at 7.00 pm\n Unearthing London's Secrets: an evening with master mudlark, author, Thames archaeologist, British Museum and Tate Modern exhibitor, Jason Sandy\nWednesday, 17th September at 7.00 pm"
+                "FLORAL FESTIVAL Featuring installations by local and international florists, posies from the leading UK Charity Thrive in Battersea Park, and displays from Ethelburga Community Gardening Club – celebrating beauty, community and sustainability.",
+                "ROOTED IN CULTURE CONCERT, SUNDAY 14 SEPTEMBER, 3PM A joyful performance by The London Vegetable Orchestra, featuring music made from vegetables and mini workshops for all ages. CHORAL EVENSONG SUNDAY 14 SEPTEMBER 6PM\nCome and experience the peace, beauty, and tradition of Evensong \nSet among magnificent floral displays and the historic beauty of St Mary’s, the choir will lead us in this timeless service of music, scripture and prayer. Whether you are a regular worshipper, a visitor exploring London Open House, or simply drawn by the music and flowers, you will find a warm welcome.\nLAMORNA ASH - IN CONVERSATION & BOOK SIGNING.  TUESDAY 16TH SEPTEMBER 7PM\nJoin award-winning author Lamorna Ash for a special evening of discussion and reflection on her new book: Don’t Forget We’re Here Forever: A New Generation’s Search for Religion. Lamorna will take part in a Q&A, followed by a book signing in the historic and peaceful setting of St Mary’s.\nJASON SANDY An Evening with Mudlark Jason Sandy\n Wednesday, 17th September at 7.00 pm\n Unearthing London's Secrets: an evening with master mudlark, author, Thames archaeologist, British Museum and Tate Modern exhibitor, Jason Sandy\nWednesday, 17th September at 7.00 pm"
             ]
         }
     ],
