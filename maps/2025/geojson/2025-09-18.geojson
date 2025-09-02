@@ -172,7 +172,7 @@
                 "balloted": "No",
                 "description": "Landmark Edwardian Baroque style town hall  in red brick and Portland stone landmark tower.  Interior has marble staircase and ornate council chamber.  Atrium, reception and courtyard spaces created in 2018. Grade II listed. Winner of RIBA London Award 2019.",
                 "end": "19:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/876/building_876_town-hall_be7dcba2a69bde9638b58b97e6722a84.jpg",
@@ -1474,6 +1474,37 @@
                 "start": "09:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12598"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13307,
+                    51.51381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Soho is a unique neighbourhood of creativity and diversity. Join us at the former Warner Brothers De Lane Lea studio at 75 Dean Street, home of the Museum of Soho.  Explore an exhibition of Soho's 300 year history.   See short films and talks on Soho in our 80 seater screening room.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
+                        "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_thumbnail_timelines_6ac80be6cb66c21f925eca6c9955b650.jpg",
+                        "title": "Timelines - 300 Years of Soho"
+                    }
+                ],
+                "name": "De Lane Lea Studios, 75 Dean Street",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12611"
             },
             "type": "Feature"
         },

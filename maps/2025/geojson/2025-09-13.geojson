@@ -376,7 +376,7 @@
                 "balloted": "No",
                 "description": "Built during the golden era of Camden public housing under Borough Architect Sydney Cook. Peter Tábori  studied with Ernő Goldfinger and worked with Denys Lasdun, and met Ken Adie when both were students at the Regent Street Polytechnic.",
                 "end": "16:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/689/building_689_img_1817_d70579ad3924822011b562c1c562d710.jpg",
@@ -1130,7 +1130,7 @@
                 "balloted": "No",
                 "description": "Red brick and Bath stone grand 'Elizabethan Renaissance' style building altered by war, political changes and reflecting Richmond's history.",
                 "end": "15:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1381/building_1381_lcf-22706-old-town-hall_9a44e44a79644167bb8e1ead5e5e599f.jpg",
@@ -2894,6 +2894,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/3397"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.3706816,
+                    51.57401170000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Grade II* listed Art Deco building with well-preserved interior. Auditorium with deep coved ribs; proscenium arch flanked by fluted columns. Restoration fully funded by  donations from Zoroastrian faith community, without government grants.",
+                "end": "16:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3433/building_3433_z-centre-entrance_93d9fba39571894da044c0ba1c703721.jpg",
+                        "title": ""
+                    }
+                ],
+                "name": "Zoroastrian Centre For Europe (formerly Grosvenor Cinema)",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3433"
             },
             "type": "Feature"
         },
@@ -4916,7 +4943,7 @@
                 "balloted": "No",
                 "description": "We are running our usual guided walking tours around historic Kingston this year. Come and find out interesting facts and stories about old Kingston. You will be amazed about how much you learn and enjoy.\r\n\r\n\r\n\r\nOur guided tours are informative, interesting and fun. For more information about us visit: https://www.kingstontourguides.org.uk/",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7678/building_7678_jack-wills-building_5634d10159f2358034caaeac3fb2e521.jpg",
@@ -5229,7 +5256,7 @@
                 "balloted": "No",
                 "description": "The original Grade II listed house was a former Georgian villa. 3 extensions were added through the Victorian period reflecting the style of the era.  Subsequent additions reflect medical practices. An archivist will be giving free tours.",
                 "end": "15:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8198/building_8198_0277_rhn-032_a6330091cde193cd4291cd1a8f6dbc7a.jpg",
@@ -7499,8 +7526,8 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Visit Beck Road Studios for an artist open studios event and a chance to explore 10 hidden studios in a unique railway arch. Meet the artists in person and discover their work, including painters, sculptors, photographer, fashion designer, furniture restorers, as well as an ethical vintage clothing label.",
-                "end": "19:00:00",
+                "description": "Visit Beck Road Studios for an artist open studios event and a chance to explore 10 hidden studios in a railway arch. Meet the artists in person and discover their work, including painters, sculptors, photographer, fashion designer, furniture restorers, as well as an ethical vintage clothing label.",
+                "end": "18:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -7530,6 +7557,10 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11954/building_11954_screenshot-2024-09-19-at-11-49-29_cc093fcc4518d5393b22debdda895818.png",
                         "title": "Tess McMillan | Painter"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11954/building_11954_mute-frequencies-beck-road-studios-open-house-13-sep-2025-vanilla-edit_b5728eac15361ffb6a3890b5b83ca768.jpeg",
+                        "title": "Mute Frequencies"
                     }
                 ],
                 "name": "Beck Road Studios: Artist Open Studios & Exhibitions",
@@ -8572,6 +8603,37 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12588"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13307,
+                    51.51381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Soho is a unique neighbourhood of creativity and diversity. Join us at the former Warner Brothers De Lane Lea studio at 75 Dean Street, home of the Museum of Soho.  Explore an exhibition of Soho's 300 year history.   See short films and talks on Soho in our 80 seater screening room.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
+                        "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_thumbnail_timelines_6ac80be6cb66c21f925eca6c9955b650.jpg",
+                        "title": "Timelines - 300 Years of Soho"
+                    }
+                ],
+                "name": "De Lane Lea Studios, 75 Dean Street",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12611"
             },
             "type": "Feature"
         },
@@ -11147,10 +11209,6 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13337/building_13337_select-image-open-house-2025_dc34ecd53315c1fc8b58a740eb9f966a.jpg",
                         "title": "Lycee International Winston Churchill"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13337/building_13337_nwd00356_ef87d7546d5c7ec971253ec2e51f3ad6.jpg",
-                        "title": null
                     }
                 ],
                 "name": "Lycée international Winston Churchill",
@@ -11460,6 +11518,33 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13437"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13121,
+                    51.51158
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Discover the fascinating stories and characters behind this iconic district and gain a whole new perspective on London’s Chinatown! Our trained volunteer History Champions can’t wait to take you on a journey through this area’s complex, nuanced and fascinating evolution.\r\n\r\nPlaces are funded by Westminster City Council to allow Open House festival goers to enjoy the tour for free.",
+                "end": "12:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13441/building_13441_befunky_2025-8-1_19-47-25_d6fcc094a3adec9e8f91cb33d288d8b1.jpg",
+                        "title": "History Champion volunteers lead tours around London's iconic Chinatown"
+                    }
+                ],
+                "name": "Chinatown Stories community-led walking tour",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13441"
             },
             "type": "Feature"
         }

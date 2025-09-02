@@ -1174,7 +1174,7 @@
                 "balloted": "No",
                 "description": "Explore the hidden corners of Queen Mary University's Mile End campus. Guided tour includes the former People’s Palace (1887), Mile End Hospital (1858), and the Sephardic Jewish cemetery (1733), the UK’s second oldest Jewish cemetery.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1432/building_1432_28076664654_4fc401d34a_k_425dd0bc64c0ae9c7637ea77393bf103.jpg",
@@ -2285,7 +2285,7 @@
                 "balloted": "No",
                 "description": "Britain's first co-partnership garden suburb, first houses built in 1901. Parker and Unwin's plan introduced in 1907, mainly Arts and Crafts style; fascinating social history.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2571/building_2571_lud10lud4rusk09july-f_0511bf448f8a4f99d0b256936538e7a9.jpg",
@@ -3804,7 +3804,7 @@
                 "balloted": "No",
                 "description": "The walk starts in the Medieval market place, proceeds  through 17th century development and 18th century housing then explores 19th/20th century industrial legacy and striking new 21st century Thames-side regeneration schemes.",
                 "end": "16:15:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6782/building_6782_img_0356_9a9dc7e6086c45b7e4d068f3e8434f01.jpg",
@@ -5678,7 +5678,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Home to RHS Chelsea Gold Medalists Mike McMahon and Jewlsy Mathews, this space showcases a decade of their handcrafted furniture and cabinetry. \r\nTheir work, all made by their own hands, has received international acclaim featuring in BBC Gardeners' World (TV), The Modern House, The Observer, Dwell, Interior Design, and IDEAT. Experience bespoke design in every meticulously crafted detail.",
+                "description": "Home to RHS Chelsea Gold Medalists Mike McMahon and Jewlsy Mathews, this space showcases a decade of their handcrafted furniture and cabinetry. \r\nTheir work, all made by their own hands, has received international acclaim featuring in BBC Gardeners' World (TV), The Modern House, The Observer, Dwell, Interior Design and IDEAT. Experience bespoke design in every meticulously crafted detail.",
                 "end": "18:00:00",
                 "fully_booked": "",
                 "images": [
@@ -6616,6 +6616,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13307,
+                    51.51381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Soho is a unique neighbourhood of creativity and diversity. Join us at the former Warner Brothers De Lane Lea studio at 75 Dean Street, home of the Museum of Soho.  Explore an exhibition of Soho's 300 year history.   See short films and talks on Soho in our 80 seater screening room.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
+                        "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_thumbnail_timelines_6ac80be6cb66c21f925eca6c9955b650.jpg",
+                        "title": "Timelines - 300 Years of Soho"
+                    }
+                ],
+                "name": "De Lane Lea Studios, 75 Dean Street",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12611"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.12282,
                     51.55154
                 ],
@@ -6625,7 +6656,7 @@
                 "balloted": "No",
                 "description": "Victorian Tardis.\r\nThe original house dates from 1864, but was completely redeveloped in 1984 and fine tuned in 1993 and in 2023 by three different architects. Double height and open interiors contrast with a Victorian facade.",
                 "end": "17:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12639/building_12639_img_4785_ed0b55dbd120c4c2bc48a598c5abe5da.jpeg",
@@ -7569,7 +7600,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "St Matthew's is an inclusive church with unique architecture, remarkable history, and a very strong musical tradition; but in the shadow of Westminster Abbey it is often overlooked, making it a real hidden gem. Come and learn about St Matthew's history and community, hear our choir and historic organ, and learn about how we continue centuries of prayer in this holy place.",
-                "end": "18:00:00",
+                "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
                     {

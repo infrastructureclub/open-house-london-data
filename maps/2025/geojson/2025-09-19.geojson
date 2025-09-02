@@ -1786,7 +1786,7 @@
                 "balloted": "No",
                 "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights scale architectural models of London: the New London Model and the City Model, in additional to a rotating exhibition highlighting key NLA projects.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12022/building_12022_tlc-gallery-image_4a4ec9198eae3721250973552952142d.png",
@@ -1968,7 +1968,7 @@
                 "fully_booked": "No",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12451/building_12451_sarabande-high-road-3_e695837bb3ba41dc39a040ce86aa052f.png",
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12451/building_12451_screenshot-2025-09-02-at-17-00-03_c14948a5ae31d32cea69f6790d461d52.png",
                         "title": null
                     },
                     {
@@ -1990,6 +1990,10 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12451/building_12451_dsc09894_5a398538e17c74b00f70cf49faba56a7.jpg",
                         "title": "Shared studio of residents Adele Brydges and Beverley Duckworth"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12451/building_12451_front-01_9-x-16_de584d7186b10b9415885984377256c1.jpg",
+                        "title": null
                     }
                 ],
                 "name": "Sarabande Foundation",
@@ -2090,6 +2094,37 @@
                 "start": "18:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12597"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13307,
+                    51.51381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Soho is a unique neighbourhood of creativity and diversity. Join us at the former Warner Brothers De Lane Lea studio at 75 Dean Street, home of the Museum of Soho.  Explore an exhibition of Soho's 300 year history.   See short films and talks on Soho in our 80 seater screening room.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
+                        "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_thumbnail_timelines_6ac80be6cb66c21f925eca6c9955b650.jpg",
+                        "title": "Timelines - 300 Years of Soho"
+                    }
+                ],
+                "name": "De Lane Lea Studios, 75 Dean Street",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12611"
             },
             "type": "Feature"
         },

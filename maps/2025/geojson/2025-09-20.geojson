@@ -391,7 +391,7 @@
                 "balloted": "No",
                 "description": "Founded to house the widows of clergymen, the original building consisted of 20 houses built around a classically-styled quadrangle. Captain Richard Ryder – one of Sir Christopher Wren's surveyors – was in charge of design and construction.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/555/building_555_100_0882_c4ffd6b29473be783fd23628739fb2d1.jpg",
@@ -9998,6 +9998,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13307,
+                    51.51381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Soho is a unique neighbourhood of creativity and diversity. Join us at the former Warner Brothers De Lane Lea studio at 75 Dean Street, home of the Museum of Soho.  Explore an exhibition of Soho's 300 year history.   See short films and talks on Soho in our 80 seater screening room.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
+                        "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_thumbnail_timelines_6ac80be6cb66c21f925eca6c9955b650.jpg",
+                        "title": "Timelines - 300 Years of Soho"
+                    }
+                ],
+                "name": "De Lane Lea Studios, 75 Dean Street",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12611"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.06078,
                     51.67527
                 ],
@@ -13060,7 +13091,7 @@
                 "balloted": "No",
                 "description": "In this half-day workshop, we invite participants to join us in a “collective dwelling” in / on Gordon Square in the heart of Bloomsbury. Mobilising dwelling as both a praxis of being in space and of slow thinking, we invite participants to share time with us as we collectively map this square along the axes of space, sound, senses, memory and meaning.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13392/building_13392_gordon-square_2a76777fb1953337fe7c64b0b0ae1b79.jpg",
@@ -13412,7 +13443,7 @@
                 "balloted": "No",
                 "description": "This audio described tour is specifically for those with visual impairments.  The 2025 London Open House Festival, in conjunction with VocalEyes, is pleased to announce an audio described tour, including tactile elements, and accompanied by an expert from The Royal College of Physicians, of their striking, provocative building and one of London’s few Grade I listed post-war buildings.",
                 "end": "13:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13422/building_13422_royal-college-of-physicians_992d290e8cc55e7d82c8a42188e67796.jpg",

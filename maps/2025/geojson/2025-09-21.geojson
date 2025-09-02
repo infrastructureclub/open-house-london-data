@@ -414,6 +414,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1665024,
+                    51.426616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Exceptional example of the luxury cinema 'Picture Palace' of the 1930's with outstanding Gothic interior by Theodore Komisarjevsky and over 3,000-seats. The first and only Grade I listed cinema in the UK.",
+                "end": "12:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/498/building_498_tooting-granada_eh09748_d967f8e0e3140a21b5c2c35cbdba0224.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/498/building_498_20220114_110319-1_954a84d338e4cebc287f4892fab1f772.jpg",
+                        "title": "Main hall"
+                    }
+                ],
+                "name": "Buzz Bingo Hall (former Granada Cinema)",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/498"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.0177407,
                     51.494727
                 ],
@@ -2945,6 +2976,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.3706816,
+                    51.57401170000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Grade II* listed Art Deco building with well-preserved interior. Auditorium with deep coved ribs; proscenium arch flanked by fluted columns. Restoration fully funded by  donations from Zoroastrian faith community, without government grants.",
+                "end": "16:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3433/building_3433_z-centre-entrance_93d9fba39571894da044c0ba1c703721.jpg",
+                        "title": ""
+                    }
+                ],
+                "name": "Zoroastrian Centre For Europe (formerly Grosvenor Cinema)",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3433"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.05485,
                     51.36889
                 ],
@@ -3059,7 +3117,7 @@
                 "balloted": "No",
                 "description": "Inter-war residential development representing the 'glamorous aspirations' of the period (Pevsner). Five blocks of flats in Dutch-Colonial-Baroque style, and clubhouse with swimming pool.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3684/building_3684_20-1_ealingvillage_emb_still2_36a2679dc5ad6f4121c112f6180a187d.jpg",
@@ -6597,7 +6655,7 @@
                 "balloted": "No",
                 "description": "Mother has been in the Biscuit Building since 2006, it was designed by Clive Wilkinson Architects. It is a four-story creative workspace, with the design centred around a 14-foot wide staircase through the building from ground to loading level to first floor and then second floor. A table, which accommodates Mother staff, is shaped as a continuous ribbon with this staircase.",
                 "end": "16:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12532/building_12532_screenshot-2024-06-07-at-18-57-53_be63de4f7eda0075d97ff06abe38ee83.png",
@@ -6972,6 +7030,37 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12607"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13307,
+                    51.51381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Soho is a unique neighbourhood of creativity and diversity. Join us at the former Warner Brothers De Lane Lea studio at 75 Dean Street, home of the Museum of Soho.  Explore an exhibition of Soho's 300 year history.   See short films and talks on Soho in our 80 seater screening room.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
+                        "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_thumbnail_timelines_6ac80be6cb66c21f925eca6c9955b650.jpg",
+                        "title": "Timelines - 300 Years of Soho"
+                    }
+                ],
+                "name": "De Lane Lea Studios, 75 Dean Street",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12611"
             },
             "type": "Feature"
         },

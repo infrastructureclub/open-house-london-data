@@ -1135,7 +1135,7 @@
                 "balloted": "No",
                 "description": "St John at Hackney Church has been Hackney's centre of Christian worship since 1275. The current church was completed in 1792, with major restoration finished in 2020. It's a major ringing centre in East London with ten bells from 4 to 16 cwt - eight from 1957 following the 1955 fire, and two added in 2004. This very active tower rings for Sunday services, national celebrations and commemorations.",
                 "end": "19:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10104/building_10104_st_johns_at_hackney_gilbert_mccarragher_005_lores_0916e926a5f000d12015e38217587c7c.jpg",
@@ -1651,6 +1651,37 @@
                 "start": "09:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12598"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13307,
+                    51.51381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Soho is a unique neighbourhood of creativity and diversity. Join us at the former Warner Brothers De Lane Lea studio at 75 Dean Street, home of the Museum of Soho.  Explore an exhibition of Soho's 300 year history.   See short films and talks on Soho in our 80 seater screening room.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
+                        "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_thumbnail_timelines_6ac80be6cb66c21f925eca6c9955b650.jpg",
+                        "title": "Timelines - 300 Years of Soho"
+                    }
+                ],
+                "name": "De Lane Lea Studios, 75 Dean Street",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12611"
             },
             "type": "Feature"
         },
