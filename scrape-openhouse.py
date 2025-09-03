@@ -472,11 +472,12 @@ for building in buildings:
             venues_now_bookable.append(data["id"])
 
     # Detect a venue adding new days for the summary
-    current_dates = {e["date"] for e in data.get("events", [])}
-    previous_dates = {e["date"] for e in existing_data.get("events", [])}
-    new_days = current_dates - previous_dates
-    if len(new_days) > 0:
-        venues_added_days[data["id"]] = new_days
+    if existing_data:
+        current_dates = {e["date"] for e in data["events"]}
+        previous_dates = {e["date"] for e in existing_data["events"]}
+        new_days = current_dates - previous_dates
+        if len(new_days) > 0:
+            venues_added_days[data["id"]] = new_days
 
     # Detect new venues, previous years exhibited
     for previous_year in sorted(os.listdir("data/")):
