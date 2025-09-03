@@ -37,7 +37,7 @@ timezone = pytz.timezone("Europe/London")
 
 existing_venues = []
 for venue_fname in os.listdir(f"data/{year}/"):
-    if ".json" in venue_fname:
+    if venue_fname.endswith(".json"):
         existing_venues.append(int(venue_fname.split(".")[0]))
 
 print(f"Found {len(existing_venues)} existing venues for {year}")
@@ -67,8 +67,12 @@ if len(buildings) == 0:
     print("ERROR: No buildings found")
     sys.exit(1)
 
-scrape_start = datetime.now()
+
 scraped_venues = []
+venues_added_days = {}
+venues_now_bookable = []
+
+scrape_start = datetime.now()
 count = 0
 
 for building in buildings:
@@ -455,6 +459,25 @@ for building in buildings:
 
     data["balloted_events"] = balloted_events
 
+    # Detect a venue no longer being fully booked for the summary
+    if data["ticketed_events"]:
+        previously_fully_booked = True
+        if existing_data:
+            for event in existing_data["events"]:
+                if event["ticketed"] and not event["fully_booked"]:
+                    previously_fully_booked = False
+                    break
+
+        if bookable_count > 0 and previously_fully_booked:
+            venues_now_bookable.append(data["id"])
+
+    # Detect a venue adding new days for the summary
+    current_dates = {e["date"] for e in data.get("events", [])}
+    previous_dates = {e["date"] for e in existing_data.get("events", [])}
+    new_days = current_dates - previous_dates
+    if len(new_days) > 0:
+        venues_added_days[data["id"]] = new_days
+
     # Detect new venues, previous years exhibited
     for previous_year in sorted(os.listdir("data/")):
         previous_year = int(previous_year)
@@ -479,7 +502,9 @@ for building in buildings:
             )
         )
 
-    print(f" - Found {len(data['events'])} events ({bookable_count} bookable, {fully_booked_count} fully booked)")
+    print(
+        f" - Found {len(data['events'])} events ({bookable_count} bookable, {fully_booked_count} fully booked)"
+    )
     scraped_venues.append(data["id"])
 
     time.sleep(1)
@@ -488,4 +513,24 @@ for building in buildings:
 venues_to_remove = set(existing_venues) - set(scraped_venues)
 print(f"* Removing venues that no longer exist: {venues_to_remove}")
 for venue in venues_to_remove:
-    os.remove(f'data/{year}/{venue}.json')
+    os.remove(f"data/{year}/{venue}.json")
+
+os.makedirs(f"scrape_summaries/{year}", exist_ok=True)
+with open(f"scrape_summaries/{year}/{scrape_start:%Y-%m-%d_%H%M}.json", "w") as f:
+    venues_added = set(scraped_venues) - set(existing_venues)
+    scrape_summary = {
+        "removed_venues": list(venues_to_remove),
+        "added_venues": list(venues_added),
+        "venues_added_days": venues_added_days,
+        "venues_now_bookable": venues_now_bookable,
+    }
+
+    f.write(
+        json.dumps(
+            scrape_summary,
+            indent=4,
+            sort_keys=True,
+            separators=(",", ": "),
+            ensure_ascii=False,
+        )
+    )
