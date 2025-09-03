@@ -522,7 +522,7 @@ with open(f"scrape_summaries/{year}/{scrape_start:%Y-%m-%d_%H%M}.json", "w") as 
     scrape_summary = {
         "removed_venues": list(venues_to_remove),
         "added_venues": list(venues_added),
-        "venues_added_days": venues_added_days,
+        "venues_added_days": list(venues_added_days),
         "venues_now_bookable": venues_now_bookable,
     }
 
