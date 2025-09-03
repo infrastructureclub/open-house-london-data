@@ -202,7 +202,7 @@ for building in buildings:
 
     # The map link now only exists if you have JS on, there is no non-JS default /o\
     lat_lon_matches = re.search(
-        '"https://www.openstreetmap.org/#map=18/(-?\d+\.\d+)/(-?\d+\.\d+)"',
+        r'"https://www.openstreetmap.org/#map=18/(-?\d+\.\d+)/(-?\d+\.\d+)"',
         str(response.content),
     )
     data["location"]["latitude"] = float(lat_lon_matches.group(1))
