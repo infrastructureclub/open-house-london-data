@@ -989,7 +989,7 @@
                 "balloted": "No",
                 "description": "Grade I listed, late Georgian sugar warehouse now housing the Museum of London Docklands. Sensitively restored, the new multimedia displays coexist with the massive timber and brick structures of the original building.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1148/building_1148_museum-of-london-docklands-1-museum-of-london_4a671d76bdb330e3ad88b0c9c7dad6c5.jpg",
@@ -1239,8 +1239,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "Grade II* Listed Modernist building, famously described by Walter Gropius as \"an oasis of glass in a desert of brick\". Originally built to house 'The Peckham Experiment' an innovative health centre in the 1930s. It was converted to private dwellings in 2000, retaining the indoor pool. \r\n\r\nJoin residents and members of the legacy organisations alongside members of the RIBA and Southwark Archives.",
-                "end": "15:00:00",
-                "fully_booked": "Yes",
+                "end": "16:30:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1367/building_1367_67a518606209bcfe01eac2c1_pe_hslider-01-3_d3ad3ecc329aeb0d99c4fb49d2257efa.jpg",
@@ -7050,6 +7050,10 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
                         "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_timelines_a_poster-smaller_287dd37b03b8b176ff68999ec91638e3.jpg",
+                        "title": "Museum of Soho"
                     }
                 ],
                 "name": "De Lane Lea Studios, 75 Dean Street",
@@ -8452,6 +8456,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.12937,
+                    51.51531
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The project is a long-term vision for the remarkable heritage area of Tin Pan Alley, including sensitive historic building repairs and a series of contemporary interventions.  Located within Camden’s Denmark Street Conservation Area, the buildings span 400 years of local history and include:  five Grade II and II* listed 17th Century townhouses, a mansion block and three historic warehouses.",
+                "end": "11:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13418/building_13418_05_tin-pan-alley_fred-howarth_denmark-street-6-7_view-5_3133261c8fcbc3e8af2805883ff65e1c.jpg",
+                        "title": "Tin Pan Alley\r\nIan Chalk Architects\r\nFred Haworth Photographer"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13418/building_13418_03_tin-pan-alley_ica_book-mews-pavilion_exterior_03_0e44f69cf242e7074507337665581397.jpg",
+                        "title": "Tin Pan Alley\r\nIan Chalk Architects"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13418/building_13418_03_2_tin-pan-alley_ica_book-mews-pavilion_interior_03_2_e0fc74f290e7be8bdc23787057446f85.jpg",
+                        "title": "Tin Pan Alley\r\nIan Chalk Architects"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13418/building_13418_16_tin-pan-alley_fred-howarth_shaldon-mansions_view-16_9adf781113a4b5071abc912d97bef139.jpg",
+                        "title": "Tin Pan Alley\r\nIan Chalk Architects\r\nFred Haworth Photography"
+                    }
+                ],
+                "name": "Tin Pan Alley",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13418"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.09747,
                     51.37204
                 ],
@@ -8552,13 +8595,17 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Artist Samia Tossio invites children to create wearable “architectural hats” representing Croydon landmarks or other famous buildings, or imaginary towers, or skylines, using recycled and upcycled materials. We will provide easy print-outs of Croydon specific, London specific, and famous London buildings for younger children.",
+                "description": "Artist Samia Tossio invites children to create wearable “architectural hats” representing Croydon landmarks such as the NLA tower (lovingly referred to as the 50p building)  or skylines, using recycled and upcycled materials. We will provide easy print-outs of Croydon specific, London specific, and famous London buildings for younger children.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13438/building_13438_samia-3_be07eda87961b8a320426ed6d2e9224e.jpg",
                         "title": "Photo © Samia Tossio"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13438/building_13438_number-1-croydon-credit-glenn-foster_6fa21d98b4d4d878e5c9fc6f28b2cb72.jpg",
+                        "title": "© Glenn Foster"
                     }
                 ],
                 "name": "You Wear Croydon",
@@ -8597,6 +8644,41 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13442"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.01221,
+                    51.53875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Join Elevate as they share the stories behind east London’s Queen Elizabeth Olympic Park - where community and youth empowerment drive its regeneration. Explore the Park’s cultural spaces, knowledge hub, and co-designed areas that reflect local voices, and leave with your own connection to the Park.",
+                "end": "18:15:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13446/building_13446_024-lldccareers_c760e0670e6df18ce8aece4a738aeb21.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13446/building_13446_024-lldccareers_0ad4e34fc02e31d8ec51daed6b0fd04b.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13446/building_13446_elevate-040_8f06602d3e0983a6b64660fe84935ca9.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Elevate Youth Board Tour",
+                "new_venue_this_year": "Yes",
+                "start": "16:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13446"
             },
             "type": "Feature"
         }

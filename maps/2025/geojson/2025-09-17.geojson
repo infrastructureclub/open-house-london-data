@@ -316,57 +316,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1248869,
-                    51.5076423
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Just steps from Trafalgar Square, is Benjamin Franklin House, the world's only remaining Franklin home.\r\n\r\nFor nearly sixteen years between 1757 and 1775, Benjamin Franklin – scientist, diplomat, philosopher, inventor, and Founding Father of the United States – lived behind its doors.\r\n\r\nBuilt circa 1730, we are a Grade I listed house, with largely original flooring and wall paneling.",
-                "end": "19:30:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2347/building_2347_108471840_10157814229813191_5282745387740849018_n_28bff91e5fd34e2d8576cad3350cfebf.jpg",
-                        "title": "Franklin's Floor "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2347/building_2347_bfh-exterior-19_8c6e1c0e1ddd5f5768ad51de39a943a2.jpg",
-                        "title": "View from outside"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2347/building_2347_202_1201b7fce20dde491bf1debd7a74bc6f.jpg",
-                        "title": "Georgian decoration on central staircase "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2347/building_2347__mg_2524_aaf4004b43cdaaaee343213af526438c.jpg",
-                        "title": "Polly Stevenson Hewson"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2347/building_2347_glass-armonica-500x500_e35967870e1a9925aa77af54af5dd811.jpg",
-                        "title": "Glass harmonica"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2347/building_2347_bfh-historical-experience_73f3fbc276c403bcee72ef4b6b58a913.jpg",
-                        "title": "Historical experience"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2347/building_2347_img_4118_c68e6026647cfb42f51273597b3bb6a3.jpg",
-                        "title": "4th of July celebrations!"
-                    }
-                ],
-                "name": "Benjamin Franklin House",
-                "new_venue_this_year": "No",
-                "start": "18:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/2347"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     0.02428,
                     51.57762
                 ],
@@ -1671,6 +1620,10 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
                         "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_timelines_a_poster-smaller_287dd37b03b8b176ff68999ec91638e3.jpg",
+                        "title": "Museum of Soho"
                     }
                 ],
                 "name": "De Lane Lea Studios, 75 Dean Street",
@@ -1910,7 +1863,7 @@
                 "balloted": "No",
                 "description": "Visit Western Riverside Waste Authority, Smugglers Way Waste Transfer Station during the Open House Festival to find out what happens to waste and recycling from Hammersmith & Fulham, Kensington and Chelsea, Wandsworth and Lambeth.",
                 "end": "19:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13053/building_13053_wrwa-site-ariel_1270d2c64312ec4412f58c0184988fc3.jpg",
@@ -2299,6 +2252,37 @@
                 "start": "09:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13414"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13826,
+                    51.51651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Purpose of Light, Misan Harriman’s landmark photographic exhibition, bears witness to significant  moments, not with judgment or ideology, but with a deep and unflinching empathy for the human condition. Featuring 110 unique photographs, this exhibition is a call not for division, but for togetherness.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13445/building_13445_akiandmisan_d20ea15df753b35e64392faad27d938d.jpg",
+                        "title": "Misan Harriman"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13445/building_13445_power-near-parliament-sq-20th-of-june-2020_a0732383770c1b2511b75f654b300b0f.jpg",
+                        "title": "Misan Harriman"
+                    }
+                ],
+                "name": "The Purpose of Light: Exhibition by Misan Harriman",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13445"
             },
             "type": "Feature"
         }

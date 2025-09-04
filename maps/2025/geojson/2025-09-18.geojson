@@ -1494,6 +1494,10 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
                         "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_timelines_a_poster-smaller_287dd37b03b8b176ff68999ec91638e3.jpg",
+                        "title": "Museum of Soho"
                     }
                 ],
                 "name": "De Lane Lea Studios, 75 Dean Street",
@@ -1935,7 +1939,7 @@
                 "balloted": "No",
                 "description": "Join us for a walking tour of Broadwater Farm Estate and see close up building of the first new council homes being built on the estate for 50 years and visit our Terrace Garden projects.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13101/building_13101_3broadwatermarch14_1d4bd03ba514567b7f435e9bb6c54028.jpg",
@@ -2320,6 +2324,37 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13433"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13826,
+                    51.51651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Purpose of Light, Misan Harriman’s landmark photographic exhibition, bears witness to significant  moments, not with judgment or ideology, but with a deep and unflinching empathy for the human condition. Featuring 110 unique photographs, this exhibition is a call not for division, but for togetherness.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13445/building_13445_akiandmisan_d20ea15df753b35e64392faad27d938d.jpg",
+                        "title": "Misan Harriman"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13445/building_13445_power-near-parliament-sq-20th-of-june-2020_a0732383770c1b2511b75f654b300b0f.jpg",
+                        "title": "Misan Harriman"
+                    }
+                ],
+                "name": "The Purpose of Light: Exhibition by Misan Harriman",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13445"
             },
             "type": "Feature"
         }

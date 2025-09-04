@@ -1168,8 +1168,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "Grade II* Listed Modernist building, famously described by Walter Gropius as \"an oasis of glass in a desert of brick\". Originally built to house 'The Peckham Experiment' an innovative health centre in the 1930s. It was converted to private dwellings in 2000, retaining the indoor pool. \r\n\r\nJoin residents and members of the legacy organisations alongside members of the RIBA and Southwark Archives.",
-                "end": "15:00:00",
-                "fully_booked": "Yes",
+                "end": "16:30:00",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1367/building_1367_67a518606209bcfe01eac2c1_pe_hslider-01-3_d3ad3ecc329aeb0d99c4fb49d2257efa.jpg",
@@ -10012,6 +10012,10 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
                         "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_timelines_a_poster-smaller_287dd37b03b8b176ff68999ec91638e3.jpg",
+                        "title": "Museum of Soho"
                     }
                 ],
                 "name": "De Lane Lea Studios, 75 Dean Street",
@@ -10264,7 +10268,7 @@
                 "balloted": "No",
                 "description": "Two guided walking tours of Haringey's new council homes at Wingspan Walk (Ashley Road Depot), Walter Tull House, and Hale Wharf, and our co-designed improvements of Down Lane Park, set amidst Tottenham Hale's wider regeneration. We'll be joined by and from the architects, contractors, and project teams involved in these schemes that are part of Haringey's award-winning housing delivery programme.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12709/building_12709_ard-5_dd8434953a2152d8ac97605ab61f8563.jpg",
@@ -10705,6 +10709,45 @@
                 "start": "12:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12827"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.03761,
+                    51.56944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Every hour on the hour Neckstamper will give a brewery tour explaining our brewing process and equipment we use. The brewery taproom will also be open for the public to enjoy our beer or purchase cans to take away.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12828/building_12828_img_0378_6d39778f03dcd7595ebc37323c716e02.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12828/building_12828_dsc04417_aa6b2b848eea2ddc56c0365abee2f9d4.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12828/building_12828_dsc05046_da7efaad2ba185cdbb1a1aa409d4b6b4.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12828/building_12828_dsc04440_e7cb13f9d30c2e2eead1301889bc9b2d.jpeg",
+                        "title": null
+                    }
+                ],
+                "name": "Neckstamper Brewery",
+                "new_venue_this_year": "No",
+                "start": "14:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12828"
             },
             "type": "Feature"
         },
@@ -13621,6 +13664,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.00757,
+                    51.57552
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "This Victorian church designed by Blomfield will be open for a tour of its remarkable set of stained glass windows by Margaret Chilton.",
+                "end": "16:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13436/building_13436_st-andrew-s-leytonstone-copy_2c15814758e82c1f02b9750fcf283feb.jpg",
+                        "title": "St Andrew's Leytonstone"
+                    }
+                ],
+                "name": "St Andrew's Church Leytonstone",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13436"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.09737,
                     51.37204
                 ],
@@ -13628,13 +13698,17 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Artist Samia Tossio invites children to create wearable “architectural hats” representing Croydon landmarks or other famous buildings, or imaginary towers, or skylines, using recycled and upcycled materials. We will provide easy print-outs of Croydon specific, London specific, and famous London buildings for younger children.",
+                "description": "Artist Samia Tossio invites children to create wearable “architectural hats” representing Croydon landmarks such as the NLA tower (lovingly referred to as the 50p building)  or skylines, using recycled and upcycled materials. We will provide easy print-outs of Croydon specific, London specific, and famous London buildings for younger children.",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13438/building_13438_samia-3_be07eda87961b8a320426ed6d2e9224e.jpg",
                         "title": "Photo © Samia Tossio"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13438/building_13438_number-1-croydon-credit-glenn-foster_6fa21d98b4d4d878e5c9fc6f28b2cb72.jpg",
+                        "title": "© Glenn Foster"
                     }
                 ],
                 "name": "You Wear Croydon",
@@ -13743,6 +13817,37 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13443"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13826,
+                    51.51651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Purpose of Light, Misan Harriman’s landmark photographic exhibition, bears witness to significant  moments, not with judgment or ideology, but with a deep and unflinching empathy for the human condition. Featuring 110 unique photographs, this exhibition is a call not for division, but for togetherness.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13445/building_13445_akiandmisan_d20ea15df753b35e64392faad27d938d.jpg",
+                        "title": "Misan Harriman"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13445/building_13445_power-near-parliament-sq-20th-of-june-2020_a0732383770c1b2511b75f654b300b0f.jpg",
+                        "title": "Misan Harriman"
+                    }
+                ],
+                "name": "The Purpose of Light: Exhibition by Misan Harriman",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13445"
             },
             "type": "Feature"
         }

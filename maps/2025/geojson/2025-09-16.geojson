@@ -657,7 +657,7 @@
                 "balloted": "No",
                 "description": "Centred on Spring Grove House, once Sir Joseph Banks home, the 1850s vision was for a neighbourhood with grand villas designed by John Taylor Jr.. Today's  wider architecture includes a former college by John Norton & P Massey, plus quirky arts & crafts properties.",
                 "end": "16:15:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/9032/building_9032_lancaster-house_23a08ddc8c6cf414ce7bdf4876f0624e.jpg",
@@ -1240,6 +1240,10 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
                         "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_timelines_a_poster-smaller_287dd37b03b8b176ff68999ec91638e3.jpg",
+                        "title": "Museum of Soho"
                     }
                 ],
                 "name": "De Lane Lea Studios, 75 Dean Street",
@@ -1689,7 +1693,7 @@
                 "balloted": "No",
                 "description": "Hale Wharf occupies a sliver of land where the urban intensity of Tottenham Hale meets the reservoirs and rivers of the Lee Valley, designated green belt and a Site of Special Scientific Interest. 505 new homes of a mix of size and tenure occupy a range of building typologies that make the most of this unique location. A guided tour will take you through the story of this new neighbourhood.",
                 "end": "15:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13294/building_13294_hale-wharf_image-4_credit-tim-crocker_e952e5ea0dc8fdaddfbadbefdd115f54.jpg",
@@ -1946,6 +1950,37 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13416"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13826,
+                    51.51651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Purpose of Light, Misan Harriman’s landmark photographic exhibition, bears witness to significant  moments, not with judgment or ideology, but with a deep and unflinching empathy for the human condition. Featuring 110 unique photographs, this exhibition is a call not for division, but for togetherness.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13445/building_13445_akiandmisan_d20ea15df753b35e64392faad27d938d.jpg",
+                        "title": "Misan Harriman"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13445/building_13445_power-near-parliament-sq-20th-of-june-2020_a0732383770c1b2511b75f654b300b0f.jpg",
+                        "title": "Misan Harriman"
+                    }
+                ],
+                "name": "The Purpose of Light: Exhibition by Misan Harriman",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13445"
             },
             "type": "Feature"
         }

@@ -2114,6 +2114,10 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
                         "title": "Museum of Soho"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_timelines_a_poster-smaller_287dd37b03b8b176ff68999ec91638e3.jpg",
+                        "title": "Museum of Soho"
                     }
                 ],
                 "name": "De Lane Lea Studios, 75 Dean Street",
@@ -2272,6 +2276,45 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12809"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.03761,
+                    51.56944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Every hour on the hour Neckstamper will give a brewery tour explaining our brewing process and equipment we use. The brewery taproom will also be open for the public to enjoy our beer or purchase cans to take away.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12828/building_12828_img_0378_6d39778f03dcd7595ebc37323c716e02.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12828/building_12828_dsc04417_aa6b2b848eea2ddc56c0365abee2f9d4.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12828/building_12828_dsc05046_da7efaad2ba185cdbb1a1aa409d4b6b4.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12828/building_12828_dsc04440_e7cb13f9d30c2e2eead1301889bc9b2d.jpeg",
+                        "title": null
+                    }
+                ],
+                "name": "Neckstamper Brewery",
+                "new_venue_this_year": "No",
+                "start": "14:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12828"
             },
             "type": "Feature"
         },
@@ -3432,6 +3475,37 @@
                 "start": "18:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13435"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13826,
+                    51.51651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Purpose of Light, Misan Harriman’s landmark photographic exhibition, bears witness to significant  moments, not with judgment or ideology, but with a deep and unflinching empathy for the human condition. Featuring 110 unique photographs, this exhibition is a call not for division, but for togetherness.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13445/building_13445_akiandmisan_d20ea15df753b35e64392faad27d938d.jpg",
+                        "title": "Misan Harriman"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13445/building_13445_power-near-parliament-sq-20th-of-june-2020_a0732383770c1b2511b75f654b300b0f.jpg",
+                        "title": "Misan Harriman"
+                    }
+                ],
+                "name": "The Purpose of Light: Exhibition by Misan Harriman",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13445"
             },
             "type": "Feature"
         }
