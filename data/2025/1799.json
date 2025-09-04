@@ -15,8 +15,7 @@
             "Georgian"
         ],
         "types": [
-            "concert/performance space",
-            "religious"
+            "event"
         ]
     },
     "events": [
@@ -33,21 +32,6 @@
             "name": "Drop in: Open Day",
             "notes": "An opportunity for the general public to view the concert hall and peruse archival material in the crypt.",
             "start": "2025-09-17T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-19",
-            "drop_in": true,
-            "end": "2025-09-19T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "An opportunity for the general public to view the concert hall and peruse archival material in the crypt.",
-            "start": "2025-09-19T14:00:00+01:00",
             "ticketed": false
         }
     ],
@@ -163,20 +147,24 @@
     ],
     "links": [
         {
-            "href": "https://www.instagram.com/stjohnssmithsquare/",
-            "title": "www.instagram.com/stjohnssmithsquare"
-        },
-        {
-            "href": "https://twitter.com/StJohnsSmithSq",
-            "title": "twitter.com/StJohnsSmithSq"
-        },
-        {
-            "href": "https://www.facebook.com/stjohnssmithsquare/posts/661449146010753",
-            "title": "www.facebook.com/stjohnssmithsquare/posts/661449146010753"
-        },
-        {
             "href": "https://www.sinfoniasmithsq.org.uk/",
             "title": "www.sinfoniasmithsq.org.uk"
+        },
+        {
+            "href": "https://www.instagram.com/sinfoniasmithsq/",
+            "title": "www.instagram.com/sinfoniasmithsq"
+        },
+        {
+            "href": "https://x.com/sinfoniasmithsq",
+            "title": "x.com/sinfoniasmithsq"
+        },
+        {
+            "href": "https://www.youtube.com/@SinfoniaSmithSq",
+            "title": "www.youtube.com/@SinfoniaSmithSq"
+        },
+        {
+            "href": "https://www.facebook.com/SinfoniaSmithSquare/",
+            "title": "www.facebook.com/SinfoniaSmithSquare"
         },
         {
             "href": "www.sjss.org.uk",
@@ -185,8 +173,8 @@
     ],
     "location": {
         "address": "Smith Square, SW1P 3HA",
-        "latitude": 51.4956954,
-        "longitude": -0.1270462,
+        "latitude": 51.4957,
+        "longitude": -0.12721,
         "meeting_point": null,
         "travel_info": [
             "Tube: Westminster, Pimlico, Victoria",
