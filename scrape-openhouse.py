@@ -401,7 +401,7 @@ for building in buildings:
                 if notes_node:
                     notes = notes_node[0]
 
-                booking_buttons = event.xpath('.//button[@name="button"]')
+                booking_buttons = event.xpath('.//*[@class="oc-button-black"]')
                 fully_booked = False
                 balloted = False
 
