@@ -477,7 +477,7 @@ for building in buildings:
         previous_dates = {e["date"] for e in existing_data["events"]}
         new_days = current_dates - previous_dates
         if len(new_days) > 0:
-            venues_added_days[data["id"]] = new_days
+            venues_added_days[data["id"]] = list(new_days)
 
     # Detect new venues, previous years exhibited
     for previous_year in sorted(os.listdir("data/")):
@@ -522,7 +522,7 @@ with open(f"scrape_summaries/{year}/{scrape_start:%Y-%m-%d_%H%M}.json", "w") as 
     scrape_summary = {
         "removed_venues": list(venues_to_remove),
         "added_venues": list(venues_added),
-        "venues_added_days": list(venues_added_days),
+        "venues_added_days": venues_added_days,
         "venues_now_bookable": venues_now_bookable,
     }
 
