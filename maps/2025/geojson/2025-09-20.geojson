@@ -1169,7 +1169,7 @@
                 "balloted": "No",
                 "description": "Grade II* Listed Modernist building, famously described by Walter Gropius as \"an oasis of glass in a desert of brick\". Originally built to house 'The Peckham Experiment' an innovative health centre in the 1930s. It was converted to private dwellings in 2000, retaining the indoor pool. \r\n\r\nJoin residents and members of the legacy organisations alongside members of the RIBA and Southwark Archives.",
                 "end": "16:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1367/building_1367_67a518606209bcfe01eac2c1_pe_hslider-01-3_d3ad3ecc329aeb0d99c4fb49d2257efa.jpg",
@@ -1839,7 +1839,7 @@
                 "balloted": "No",
                 "description": "Australia House, home to the Australian High Commission since 1918, is London’s longest continually-occupied diplomatic mission. Designed by A. Marshall Mackenzie & Son and opened by King George V, this Grade II listed landmark features striking marble and timber interiors, much of it shipped from Australia during the First World War.",
                 "end": "15:15:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1806/building_1806_exhibition_hall_2_63355ca71c31c6576ce15d65719854ff.jpeg",
@@ -10010,12 +10010,12 @@
                 "fully_booked": "No",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_ephemeral_1a85bea6f7cf3951690b59e41c535267.jpg",
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_timelines_a_poster-smaller_287dd37b03b8b176ff68999ec91638e3.jpg",
                         "title": "Museum of Soho"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_timelines_a_poster-smaller_287dd37b03b8b176ff68999ec91638e3.jpg",
-                        "title": "Museum of Soho"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12611/building_12611_openhouse25-soho-poster-final-2_e35a1e6724a51151e5441e30cd1bb0b1.png",
+                        "title": "Shakir Razak / Textural Beats"
                     }
                 ],
                 "name": "De Lane Lea Studios, 75 Dean Street",
@@ -11530,7 +11530,7 @@
                 "balloted": "No",
                 "description": "Croydon Council's ambitious 1990s Croydon Clocktower project created a large new central library. Former Town Hall library (and other) spaces were then repurposed as arts venues which opened in 1995. These tours for 15 people will outline how this was achieved, with particular emphasis on the David Lean Cinema, and will include a brief talk on the cinema's eventful history.",
                 "end": "15:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13104/building_13104_restored-cinema-sign_ff13d85910e1af347e4a5cf9a4056585.jpg",
@@ -12595,6 +12595,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13035,
+                    51.51668
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The leafy Georgian streets of Bloomsbury were shaken up in the 1930s by a new wave of development, from great academic institutions to speculative flats for modern urban living, plus probably the most stylish car showroom in London. We'll explore the range of 1930s architectural styles used in some famous and not so famous buildings, and even take a peek inside where we can.",
+                "end": "16:00:00",
+                "fully_booked": "Yes",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13283/building_13283_img_20210423_083028_2fa9dffc727ab4b060f02f7095fb96a3.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "1930s Bloomsbury walking tour",
+                "new_venue_this_year": "Yes",
+                "start": "14:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13283"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.16194,
                     51.53975
                 ],
@@ -12809,7 +12836,7 @@
                 "balloted": "No",
                 "description": "Ever wondered what the Greenford Quay development looks like from inside? Take a tour with us across our three buildings, see views across Greenford that will be not have been seen by many local people and discover more about our green initiatives and design.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13331/building_13331_greenford-quay_e7eba8a74593946c10226c52cec37c0d.jpg",
