@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2025-09-05T06:30:00+00:00</updated>
+  <updated>2025-09-06T01:08:00+00:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
@@ -10,16 +10,19 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
   <entry>
-    <id>2025-09-06_0108.json</id>
-    <title>Tickets released for 8 venues, 1 venues added dates on Sat 06 September at 01:08</title>
-    <updated>2025-09-06T01:08:00+00:00</updated>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2025.html#2025-09-06_0108.json"/>
-    <published>2025-09-06T01:08:00+00:00</published>
-  </entry>
-  <entry>
     <id>2025-09-04_1619.json</id>
     <title>Tickets released for 10 venues on Thu 04 September at 16:19</title>
     <updated>2025-09-04T16:19:00+00:00</updated>
+    <content>🎟️ 13427 - Commons Tour of Stamford Hill
+🎟️ 13413 - 'Gongbath' with Jez Smith FRSA inside St Paul’s Cathedral
+🎟️ 12908 - The John Morden Centre and Morden College Almshouses
+🎟️ 12611 - De Lane Lea Studios, 75 Dean Street
+🎟️ 11992 - Bush Theatre - Backstage Tours
+🎟️ 10284 - Surbiton Queen of the Suburbs
+🎟️ 10238 - The Great Fire of London
+🎟️ 10142 - Boston Manor House
+🎟️ 5048 - London Mathematical Society
+🎟️ 4927 - Wanstead Heritage Walk</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2025.html#2025-09-04_1619.json"/>
     <published>2025-09-04T16:19:00+00:00</published>
   </entry>
@@ -27,7 +30,31 @@
     <id>2025-09-05_0630.json</id>
     <title>Tickets released for 7 venues, 1 venues added dates on Fri 05 September at 06:30</title>
     <updated>2025-09-05T06:30:00+00:00</updated>
+    <content>🎟️ 13424 - British Sign Language Tour of Apothecaries' Hall
+🎟️ 13331 - Greenford Quay - Rooftop Tour
+🎟️ 13104 - David Lean Cinema Tour
+🎟️ 10591 - 6 Moretown (Gensler London Studio)
+🎟️ 4686 - A Ruskinian Walk Through Shared Heritage
+🎟️ 3684 - Ealing Village
+🎟️ 1538 - Royal Hospital Chelsea, Home of the Chelsea Pensioners
+🗓️ 13283 - 1930s Bloomsbury walking tour</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2025.html#2025-09-05_0630.json"/>
     <published>2025-09-05T06:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2025-09-06_0108.json</id>
+    <title>Tickets released for 8 venues, 1 venues added dates on Sat 06 September at 01:08</title>
+    <updated>2025-09-06T01:08:00+00:00</updated>
+    <content>🎟️ 13423 - BSL (British Sign Language) Tour of Dorich House Museum
+🎟️ 13334 - Red Clover Gardens, Lion Green Road
+🎟️ 13293 - The Museum of Transology: Exploring Trans Spatiality
+🎟️ 13267 - Hampstead Garden Suburb
+🎟️ 13170 - Garage Gallery E17
+🎟️ 13147 - Urban Sketching the London Morning
+🎟️ 12601 - Georgian Clerkenwell's speculative housing boom
+🎟️ 6151 - Royal College of Nursing
+🗓️ 2840 - Charlton House &amp; Gardens</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2025.html#2025-09-06_0108.json"/>
+    <published>2025-09-06T01:08:00+00:00</published>
   </entry>
 </feed>
