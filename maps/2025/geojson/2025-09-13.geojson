@@ -1835,7 +1835,7 @@
                 "balloted": "No",
                 "description": "The world's founding university settlement. Built to provide educational & social spaces for East Londoners. Neo-Tudor Grade II listed building with notable room decorated by Arts & Crafts designer CR Ashbee. Restoration completed in 2018.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2202/building_2202_scp00031-1-1_e5d40c3609d7a88df5920dbf9cb6c45d.jpg",
@@ -2673,6 +2673,89 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.03717,
+                    51.48059
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Welcome to one of the U.K.'s few remaining Jacobean manor homes, nestled in picturesque Charlton Park. This stunning property boasts classic red brick with elegant white stone dressings, embodying timeless Jacobean style. Each room features a unique fireplace, exquisite strapwork ceilings, and original period details. Experience historical elegance and modern comfort in this extraordinary home.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_dsc_0985_0e812b4d67d9d208c2172e961c8da5a5.jpg",
+                        "title": "Back of House - Park View"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_dsc_1135_484cae922590c50cb73fe120e9646d15.jpg",
+                        "title": "Grand Staircase"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_charlton-house-1_4927beaf28d794b8686055c965281a0f.jpg",
+                        "title": "View from Charlton Road"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_1_5bbea89136f74ad1aff3b63422803766.jpg",
+                        "title": "Long Gallery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_2_8cf6e5a8021abf1a623c2c57148b4261.jpg",
+                        "title": "Back Lawn at Charlton House & Gardens"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_3_b1be357abf116a10835f001e1c1d86d3.jpg",
+                        "title": "Ceiling Details"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_4_666307aa676891a98fff803a350c7d3f.jpg",
+                        "title": "Old Library Ceiling Details"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_5_4baf94cb0ae9bab3241cdb4461b8d6a6.jpg",
+                        "title": "Old Pond Garden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_6_5224461002927ea556c014d23f7451cf.jpg",
+                        "title": "Grand Salon Fireplace"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_7_155f32fff16ccacce67afa70ecc0f636.jpg",
+                        "title": "Entrance to The Peace Garden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_10_ff66210f13baf3b8df821c908cdb639b.jpg",
+                        "title": "Old Library"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_9_8023bd3c3afd9281d9e9fcae20209eb2.jpg",
+                        "title": "Exterior Details"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_8_9963bb5bc06ad4c05b0e3a4ae2e6143e.jpg",
+                        "title": "Long Gallery Fireplace"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_12_3ec30c4f7542eab0a9a7558bd61e04d8.jpg",
+                        "title": "View From The Gardens"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2840/building_2840_13_1bc4e39f6d84294ca55f79bbd6a1fbd9.jpg",
+                        "title": "The Peace Garden"
+                    }
+                ],
+                "name": "Charlton House & Gardens",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2840"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.12465,
                     51.51769
                 ],
@@ -3112,7 +3195,7 @@
                 "balloted": "No",
                 "description": "Inter-war residential development representing the 'glamorous aspirations' of the period (Pevsner). Five blocks of flats in Dutch-Colonial-Baroque style, and clubhouse with swimming pool.",
                 "end": "20:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/3684/building_3684_20-1_ealingvillage_emb_still2_36a2679dc5ad6f4121c112f6180a187d.jpg",
@@ -9251,10 +9334,6 @@
                 "fully_booked": "",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12955/building_12955_screenshot-2024-09-11-at-22-08-02_620e837b42cfe0d23a4d361d689d473e.png",
-                        "title": "A347 Spatial partitioning designs"
-                    },
-                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12955/building_12955_screenshot-2024-09-12-at-17-38-32_82118d52c2ab25b47b136fc3278373a2.png",
                         "title": "Studio A347"
                     },
@@ -9391,7 +9470,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Winner of the Cost Effective Prize in the 2025 Don't Move, Improve Awards, Hands-on Home is a hand-built transformation of a 1970s London property. Renovated slowly by its homeowners, it celebrates patience, resourcefulness, and the belief that process — and doing it together — matters more than the outcome. In this way, our homes can become powerful spaces of connection, care, and creativity.",
-                "end": "16:00:00",
+                "end": "15:30:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -9948,7 +10027,7 @@
                 "balloted": "No",
                 "description": "Launched on 24th April 2025, Regent’s Park Estate Story Trail is an exciting new resident-led socially engaged public art trail through Regent’s Park Estate, Euston. \r\n\r\nThe trail encompasses 12 site-specific art installations created by 10 artists and collectives, bringing 31 new public artworks to Regent's Park Estate.",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13100/building_13100_regent-s-park-portrait-brendan-barry-photo_-nick-turpin_ecb7b4fc9431c87d71f7491e8496ff06.jpg",
@@ -10341,7 +10420,7 @@
                 "balloted": "No",
                 "description": "Have you ever fancied waking up early before the city gets busy, then going for a walk and sketching many of London’s most iconic sights in just 1.5 hours? If yes, then join other fellow creatives for this untutored, friendly, social urban sketch event organised by EarlyMasterworks.com for The Open House Festival.",
                 "end": "10:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13147/building_13147_pexels-jabzee-30754172_76052e33a9f811f24a986895354efc6d.jpg",
@@ -10446,37 +10525,6 @@
                 "start": "10:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13160"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.13151,
-                    51.51949
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "This innovative housing model accommodates a family of 16, showcasing adaptive design that harmonizes with its environment. The structure features pioneering use of bamboo and palm materials, incorporates buoyant platforms, and thoughtfully connects interior spaces to the waterline, blending sustainability with aesthetics.",
-                "end": "19:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13163/building_13163_housing-model_b3f86007381cd5dc80dc6e78f1a0f7ff.jpg",
-                        "title": "Conceptual rendering of the floating house design."
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13163/building_13163_housing-model2_5eb8c3dcb07ffcf746342f5bdc8fefd4.jpg",
-                        "title": "Conceptual rendering of the floating house design."
-                    }
-                ],
-                "name": "Sustainable Design in Action: An Adaptive and Aesthetic",
-                "new_venue_this_year": "Yes",
-                "start": "11:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/13163"
             },
             "type": "Feature"
         },
@@ -11179,17 +11227,21 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Experience a room-sized Camera Obscura within a terraced house located on Beck Road in East London. You will have the opportunity to have your portrait taken and purchase a photographic archival print or high quality digital file. Groups or couples welcome!",
+                "description": "Experience a room-sized Camera Obscura within a terraced house located on Beck Road in East London. You will have the opportunity to have your portrait taken and purchase a photographic archival print or high quality digital file. Individuals & Groups welcome!",
                 "end": "18:00:00",
                 "fully_booked": "",
                 "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13336/building_13336_screenshot-2025-09-05-at-21-00-58_32e3bed5a83dd5938881d2c47114826a.png",
+                        "title": "'Pinned' Photography & Print House"
+                    },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13336/building_13336_oh-25-photo_ec040d1edf84c7586abf793a682cc6ff.jpg",
                         "title": "'Pinned' Photography & Print House"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13336/building_13336_mm-portfolio-1_76aacf5e8d5b3221add4944aa3d6201c.png",
-                        "title": null
+                        "title": "'Pinned' Photography & Print House"
                     }
                 ],
                 "name": "'Pinned' Photography & Print House",
