@@ -80,6 +80,8 @@ if os.path.isdir(input_directory):
                 f"<li>{new}<a href='{data['original_url']}' title='{description}'>{data['name']}</a>{ticket}&nbsp;<span class='trailer'>{', '.join(data['design']['types'])}&nbsp;|&nbsp;{postcode}{trailer}</span></li>\n"
             )
 
+            return data
+
         generated_date = None
 
         files = sorted(glob.glob(input_directory + "/*.json"))
@@ -101,12 +103,16 @@ if os.path.isdir(input_directory):
             of.write(f"<h2 id='{filename}'>{date:%a %d %B at %H:%M}</h2>\n")
 
             summaries = []
+            summary_bodies = []
 
             if data["venues_now_bookable"]:
                 of.write(f"<h4>Tickets released</h4>\n")
                 of.write("<ul>\n")
                 for venue_id in data["venues_now_bookable"]:
-                    render_venue(of, venue_id)
+                    venue_data = render_venue(of, venue_id)
+                    summary_bodies.append(
+                        f"🎟️ {venue_data['id']} - {venue_data['name']}<br>"
+                    )
                 of.write("</ul>\n")
 
                 summaries.append(
@@ -117,7 +123,12 @@ if os.path.isdir(input_directory):
                 of.write(f"<h4>Dates added</h4>\n")
                 of.write("<ul>\n")
                 for venue_id, dates in data["venues_added_days"].items():
-                    render_venue(of, venue_id, f" - New dates: {', '.join(dates)}")
+                    venue_data = render_venue(
+                        of, venue_id, f" - New dates: {', '.join(dates)}"
+                    )
+                    summary_bodies.append(
+                        f"🗓️ {venue_data['id']} - {venue_data['name']}<br>"
+                    )
                 of.write("</ul>\n")
 
                 summaries.append(f'{len(data["venues_added_days"])} venues added dates')
@@ -127,6 +138,7 @@ if os.path.isdir(input_directory):
             fe.published(published=date)
             fe.updated(updated=date)
             fe.title(f'{", ".join(summaries)} on {date:%a %d %B at %H:%M}')
+            fe.description("\n".join(summary_bodies))
             fe.link(
                 href=f"https://openhouse.infrastructureclub.org/scrape_summaries/{year}.html#{filename}"
             )
