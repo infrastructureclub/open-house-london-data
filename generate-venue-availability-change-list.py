@@ -82,7 +82,7 @@ if os.path.isdir(input_directory):
 
         generated_date = None
 
-        files = glob.glob(input_directory + "/*.json")
+        files = sorted(glob.glob(input_directory + "/*.json"))
         files.reverse()
         for filepath in files[:24]:
             with open(filepath, "r") as f:
