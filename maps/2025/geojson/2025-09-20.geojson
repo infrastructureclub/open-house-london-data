@@ -1169,7 +1169,7 @@
                 "balloted": "No",
                 "description": "Grade II* Listed Modernist building, famously described by Walter Gropius as \"an oasis of glass in a desert of brick\". Originally built to house 'The Peckham Experiment' an innovative health centre in the 1930s. It was converted to private dwellings in 2000, retaining the indoor pool. \r\n\r\nJoin residents and members of the legacy organisations alongside members of the RIBA and Southwark Archives.",
                 "end": "16:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1367/building_1367_67a518606209bcfe01eac2c1_pe_hslider-01-3_d3ad3ecc329aeb0d99c4fb49d2257efa.jpg",
@@ -3467,7 +3467,7 @@
                 "balloted": "No",
                 "description": "The Bishop's Palace was the official residence of the Bishops of Rochester. The present building dates from 1775, although there have been manor houses on the site since the 10C. The estate was acquired by Victorian coal merchant Coles Child who undertook numerous alterations and additions designed possibly by Norman Shaw.  The Park contains St Blaise's Well, fernery, Ice House and the former moat",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2714/building_2714_p1014472_078433c5035aed8166b28786028cdddb.jpg",
@@ -6076,7 +6076,7 @@
                 "balloted": "No",
                 "description": "The Department Store is an award winning refurbishment of a dilapidated Edwardian building in Brixton, completed by Squire & Partners in 2017. The design was informed by the layers of history and existing fabric of the heritage building.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7607/building_7607_01_the-department-store_squire-and-partners-james-jones_35b79c2e401b53bb00e5723b495e5101.jpg",
@@ -6950,7 +6950,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Founders' Hall has a unique blend of neo-Vernacular, Arts and Crafts, and Post-Modern styles. Its exterior features distinctive gabled bays, terracotta panels, and metal grilles, while the interior showcases a ceremonial staircase, ornate parlour, and a livery hall illuminated by impressive œil de bœuf windows, creating an exceptional fusion of architectural elements.",
+                "description": "Founders’ Hall is the home of the Worshipful Company of Founders (one of the City’s ancient livery companies). Built in the 1980s with a striking and eclectic design, the Hall preserves historic traits whilst embracing modern ideas. Drop in during Open House to explore its treasures, meet members, and enjoy activities for all ages!",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -8255,7 +8255,7 @@
                 "balloted": "No",
                 "description": "A walk around historic Walthamstow showing how this unique area grew from a village into a thriving suburb, its social history and the variety of buildings that can be found where Epping Forest meets William Morris.",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11296/building_11296_img_2828_8b059f0e8ad7184afcc7c0488c9ccdab.jpg",
@@ -8298,7 +8298,7 @@
                 "balloted": "No",
                 "description": "This tour looks at how healthcare has had an impact on the buildings and landscapes between Westminster Abbey and the City. Exploring healthcare-related buildings, rebuilt, repurposed or removed and their influence on the landscape.",
                 "end": "13:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11308/building_11308_apothecaries-hall_e5b8fc097f91e2c57ff053146ebc92b6.jpg",
@@ -9246,6 +9246,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.02687,
+                    51.47876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Nestled in a corner of Sir Richard Roger's Station House, Freeweaver Studio is part of the rapidly emerging creative independent Deptford Market Yard community.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12206/building_12206_320a0573_22abeeeffa5886843c33ce78ac95b80d.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Open Textile Studio and Weaving Exhibition",
+                "new_venue_this_year": "No",
+                "start": "13:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.01836,
                     51.4065
                 ],
@@ -9402,7 +9429,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "We invite you to explore a small exhibition of original artwork created for picture books over many years. Pieces being exhibited include original artwork by artists such as Monika Doppert, Amelie Areco, Quentin Blake, original film cels from Marco by Studio Ghibli, Uderzo, Tim Burton and many others. Signed copies of first edition books will also be available.",
+                "description": "We invite you to explore a small exhibition of original artwork created for picture books. Pieces being exhibited include original artwork by artists such as Monika Doppert, Amelie Areco, Quentin Blake, original film cels from Marco by Studio Ghibli, Uderzo, Tim Burton and many others. Signed copies of first edition books will also be available and live book signing. Check PanchoStories media feed",
                 "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
@@ -9716,7 +9743,7 @@
                 "balloted": "No",
                 "description": "Sir Howard Hodgkin (1932 – 2017) was one of England’s most celebrated contemporary artists. Abstracted yet allusive, apparently spontaneous but in fact highly controlled, his paintings convey feeling through gesture and colour.  His former studio, converted from a nineteenth-century dairy, sits in the heart of Bloomsbury.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12569/building_12569_studio-2024_3c443511f6f7a38df9eddc5a13403638.jpeg",
@@ -10408,7 +10435,7 @@
                 "balloted": "No",
                 "description": "This walking tour will follow the course one of the earliest public infrastructure projects in London, the 400 year old New River aqueduct. Explore a history of innovative public housing developments in one of the most densely populated parts of London and end at New River Head, a striking example of public utility architecture now being repurposed for arts and culture.",
                 "end": "14:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12746/building_12746_img_20240601_154251_73b6cf77c2ad167afc64401242a71508.jpg",
@@ -10494,6 +10521,33 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12762"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1933,
+                    51.36393
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Oru Sutton is a landmark workspace, leisure, and destination space in the heart of Sutton High Street, creating a nurturing environment for people to connect and thrive in their work and personal lives.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12768/building_12768_screenshot-2024-06-28-at-13-44-26_aa513e65d95ac156f6a65d9b892f2ea2.png",
+                        "title": null
+                    }
+                ],
+                "name": "Oru Space",
+                "new_venue_this_year": "No",
+                "start": "16:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12768"
             },
             "type": "Feature"
         },
@@ -11252,8 +11306,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0934,
-                    51.51635
+                    -0.09308,
+                    51.51644
                 ],
                 "type": "Point"
             },
@@ -11323,7 +11377,7 @@
                 "balloted": "No",
                 "description": "Queer Britain is the UK’s permanent museum of LGBT History.    Housed in a converted Victorian office building in the heart of the regenerated King’s Cross area, the galleries are a riot of voices and objects from over 100 years of queer history. At Open House 2025, Queer Britain’s volunteer guides will give talks demonstrating the museum’s mission to reclaim, preserve and inspire LGBTQ+ history.",
                 "end": "17:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13050/building_13050_queer-britain-kings-cross-london_4cce6e1fef74a3607d6932b5eb914877.jpg",
@@ -12266,6 +12320,49 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13189"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.03046,
+                    51.5235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "What does an equitable environmental education look like in London? And how does learning about the natural world connect to life in a changing city? Join us at the Soanes Centre, a purpose-built outdoor education and community centre in one of London’s most densely populated and rapidly changing boroughs to explore these questions and more, with pond dipping and activities for all ages.",
+                "end": "15:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13242/building_13242_img_6923-1_5d2c69120b2d2d9c2957808d396c030b.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13242/building_13242__kinstructures-29-1-2_8a216ef432718dcbfa2f10b51a481cc2.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13242/building_13242__soanes-centre-aug-v1-98-2_02c44b3a1003a32abbeb490431940da0.jpeg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13242/building_13242_0000_c5cecc4e6aa12f171d9c84e2d0d63ae4.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13242/building_13242_img_3152_b91160db155dbbce787e377818a0702a.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "The Soanes Centre",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13242"
             },
             "type": "Feature"
         },

@@ -470,7 +470,7 @@
                 "balloted": "No",
                 "description": "Built initially as a vestry, it was later extended. Victorian and Edwardian interiors with rich tiles and stunning stained glass, one of the most beautiful Victorian interiors in London.",
                 "end": "15:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2865/building_2865_cth-front-angle_94fb8969a8a18ddcd2bea54b6f1b5e51.jpg",
@@ -1245,7 +1245,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Founders' Hall has a unique blend of neo-Vernacular, Arts and Crafts, and Post-Modern styles. Its exterior features distinctive gabled bays, terracotta panels, and metal grilles, while the interior showcases a ceremonial staircase, ornate parlour, and a livery hall illuminated by impressive œil de bœuf windows, creating an exceptional fusion of architectural elements.",
+                "description": "Founders’ Hall is the home of the Worshipful Company of Founders (one of the City’s ancient livery companies). Built in the 1980s with a striking and eclectic design, the Hall preserves historic traits whilst embracing modern ideas. Drop in during Open House to explore its treasures, meet members, and enjoy activities for all ages!",
                 "end": "19:00:00",
                 "fully_booked": "",
                 "images": [
@@ -1865,7 +1865,7 @@
                 "balloted": "No",
                 "description": "The London Borough of Hounslow's 2019 contemporary home designed by Sheppard Robson, with iconic iridescent façade and public and private spaces stitched together by a bold and sculptural staircase, is open for architectural tours led by Sheppard Robson.",
                 "end": "13:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12032/building_12032_hounslow-house_8ecc8cbdad4768f3787b2b7f3e3d49fa.png",
@@ -2095,7 +2095,7 @@
                 "balloted": "No",
                 "description": "Completed in summer 2024, the redevelopment of Cockpit Deptford transformed a 1960s council office building into a welcoming community hub with new workshop and studio space for makers and a new public art installation - ‘Head, Heart, Hand’ by Amber Khokhar. Join us during Open House to discover RIBA nominated design and meet a selection of the inspiring makers working at Cockpit Studios.",
                 "end": "18:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12534/building_12534_pano_7852_7935-030724_cooke_fawcett_cockpit_final_-_peter-landers-photography-medium_da30d86bbaebe8f67b8e8abe058c5c5f.jpg",
@@ -2289,6 +2289,33 @@
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12760"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1933,
+                    51.36393
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Oru Sutton is a landmark workspace, leisure, and destination space in the heart of Sutton High Street, creating a nurturing environment for people to connect and thrive in their work and personal lives.",
+                "end": "19:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12768/building_12768_screenshot-2024-06-28-at-13-44-26_aa513e65d95ac156f6a65d9b892f2ea2.png",
+                        "title": null
+                    }
+                ],
+                "name": "Oru Space",
+                "new_venue_this_year": "No",
+                "start": "18:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12768"
             },
             "type": "Feature"
         },
@@ -2867,7 +2894,7 @@
                 "balloted": "No",
                 "description": "Unpack my story of North Kensington’s rich history on this guided walk. My family was one of the first families to move into the Brutalist-style Trellick Tower. From rural roots to industrial hub, class divides to cultural revolution – discover hidden stories, iconic sites, and how migration and activism shaped a vibrant, ever-changing community like no other: my childhood playground.",
                 "end": "12:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13146/building_13146_ladbroke-grove-station_d41230e358c23292cded1756ae32286a.jpg",
@@ -2898,7 +2925,7 @@
                 "balloted": "No",
                 "description": "On this  walk you will see some of the forgotten contributions of Victorian women to the magnificent buildings of South Kensington, in particular the V&A and the Royal Albert Hall. \r\n\r\nYou will also see how women were represented very differently from men on the buildings and memorials of this internationally important arts and science district.",
                 "end": "12:15:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13148/building_13148_img_4148_32daeba3bce5a31eec963a733e56938a.jpeg",

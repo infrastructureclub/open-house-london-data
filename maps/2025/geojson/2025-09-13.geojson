@@ -3554,7 +3554,7 @@
                 "balloted": "No",
                 "description": "The London Archives' older building was built in the late 1930s for the Temple Press and has many original features.   Purpose built extension in early 1990s for archival storage. Public rooms remodelled by Bisset Adams in 2000s.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/4294/building_4294_lma_exterior_aa74264039c5901055cab13c0e2a2161.jpg",
@@ -4158,7 +4158,7 @@
                 "balloted": "No",
                 "description": "Representing Neo-Classicist style characteristic of the mid-19C, many of the details of the house have been restored to their original splendour. The interior design is inspired by Estonian nature: swamps, lakes and forests.",
                 "end": "13:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5487/building_5487_saatkond-landscape_106128d2a472b742b1ced99d94667926.jpg",
@@ -5026,7 +5026,7 @@
                 "balloted": "No",
                 "description": "We are running our usual guided walking tours around historic Kingston this year. Come and find out interesting facts and stories about old Kingston. You will be amazed about how much you learn and enjoy.\r\n\r\n\r\n\r\nOur guided tours are informative, interesting and fun. For more information about us visit: https://www.kingstontourguides.org.uk/",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/7678/building_7678_jack-wills-building_5634d10159f2358034caaeac3fb2e521.jpg",
@@ -5588,7 +5588,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Founders' Hall has a unique blend of neo-Vernacular, Arts and Crafts, and Post-Modern styles. Its exterior features distinctive gabled bays, terracotta panels, and metal grilles, while the interior showcases a ceremonial staircase, ornate parlour, and a livery hall illuminated by impressive œil de bœuf windows, creating an exceptional fusion of architectural elements.",
+                "description": "Founders’ Hall is the home of the Worshipful Company of Founders (one of the City’s ancient livery companies). Built in the 1980s with a striking and eclectic design, the Hall preserves historic traits whilst embracing modern ideas. Drop in during Open House to explore its treasures, meet members, and enjoy activities for all ages!",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -7990,7 +7990,7 @@
                 "balloted": "No",
                 "description": "Petty France is a short street with a long history. This walk will time travel from the medieval origins of Petty France through its sensational history to its present distinguished profile. We shall study Charles Holden's 1927 Grade 1 listed  London Underground HQ, upstaged in 1976 by Sir Basil Spence's 1976 brutalist monument to modernism,  and where the original Queen Anne house was born.",
                 "end": "17:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12209/building_12209_petty-france_214e840f83b1f16347c16a6289219659.jpg",
@@ -8553,33 +8553,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.08844,
-                    51.50661
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "A walking tour in the City of London revealing its unique status among other boroughs of London. It gives an opportunity to learn about the City – a tiny area, covering just over one square mile packed with history, exclusive rights and peculiar customs. It’s not just a walking tour, it’s also an adventure packed with activities, which unveil a piece of the City you never knew about.",
-                "end": "13:00:00",
-                "fully_booked": "Yes",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12561/building_12561_city-of-london-dragon_658e10943fa69795b8d3df406d665a10.jpg",
-                        "title": "City of London Dragon boundary mark on Byward Street by Laura Marzec"
-                    }
-                ],
-                "name": "City of London adventure family-friendly walking tour",
-                "new_venue_this_year": "No",
-                "start": "11:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/12561"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.09911,
                     51.3221
                 ],
@@ -8998,6 +8971,33 @@
                 "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12755"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1933,
+                    51.36393
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Oru Sutton is a landmark workspace, leisure, and destination space in the heart of Sutton High Street, creating a nurturing environment for people to connect and thrive in their work and personal lives.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12768/building_12768_screenshot-2024-06-28-at-13-44-26_aa513e65d95ac156f6a65d9b892f2ea2.png",
+                        "title": null
+                    }
+                ],
+                "name": "Oru Space",
+                "new_venue_this_year": "No",
+                "start": "16:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12768"
             },
             "type": "Feature"
         },
@@ -9637,7 +9637,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Instituto Cervantes is a public institution under the Ministry of Foreign Affairs, European Union and Cooperation of Spain, created by the Spanish Government in 1991 to promote the teaching, study and use of Spanish globally and the understanding of Hispanic cultures abroad. Instituto Cervantes has presence in more than 90 cities across 45 countries,",
-                "end": "16:00:00",
+                "end": "15:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -9922,7 +9922,7 @@
                 "balloted": "No",
                 "description": "Queer Britain is the UK’s permanent museum of LGBT History.    Housed in a converted Victorian office building in the heart of the regenerated King’s Cross area, the galleries are a riot of voices and objects from over 100 years of queer history. At Open House 2025, Queer Britain’s volunteer guides will give talks demonstrating the museum’s mission to reclaim, preserve and inspire LGBTQ+ history.",
                 "end": "17:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13050/building_13050_queer-britain-kings-cross-london_4cce6e1fef74a3607d6932b5eb914877.jpg",
@@ -10027,7 +10027,7 @@
                 "balloted": "No",
                 "description": "Launched on 24th April 2025, Regent’s Park Estate Story Trail is an exciting new resident-led socially engaged public art trail through Regent’s Park Estate, Euston. \r\n\r\nThe trail encompasses 12 site-specific art installations created by 10 artists and collectives, bringing 31 new public artworks to Regent's Park Estate.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13100/building_13100_regent-s-park-portrait-brendan-barry-photo_-nick-turpin_ecb7b4fc9431c87d71f7491e8496ff06.jpg",
@@ -11733,6 +11733,68 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13445"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13171,
+                    51.51542
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "To celebrate the historic southern part of Soho, designated Chinatown 40 years ago, celebrate the art and culture that Chinese Heritage Communities have brought and shared with Londoners.  \r\n\r\nThe Soho Open House Neighbourhood Festival will be officially opened my the Lord Mayor of Westminster at 1pm.  \r\n\r\nHere you will also find information, directions and maps to explore the neighbourhood.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13448/building_13448_cha-openhouse-poster1-a3-02-web_0b61bc9f00289ed3fb5dede14d013904.jpg",
+                        "title": "Donald Shek"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13448/building_13448_chinatown_b9e21b7efdf707fe5b73a436508c023a.jpg",
+                        "title": "WCC"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13448/building_13448_soho-square-gardens_495a969f21fad3fa71b2af0b90c3847d.jfif",
+                        "title": "WCC"
+                    }
+                ],
+                "name": "Soho Square Gardens",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13448"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13437,
+                    51.51111
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A striking exhibition celebrating the world’s leading jazz photography, capturing the spirit, passion, and energy of artists on and off stage.",
+                "end": "19:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13450/building_13450_soho-jazz-festival-world-jazz-photogrpahers_f295bd72af63b1ccc0391a33eb1823b2.jpeg",
+                        "title": "Soho Jazz Festival"
+                    }
+                ],
+                "name": "Jack Solomons Jazz Club",
+                "new_venue_this_year": "Yes",
+                "start": "15:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13450"
             },
             "type": "Feature"
         }
