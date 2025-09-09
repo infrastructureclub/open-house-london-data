@@ -496,7 +496,7 @@
                 "balloted": "No",
                 "description": "1939 ArtDeco Grade II listed building refurbished in 1950, then restructured and modernised in 2014. Did you know that the Institut was founded in 1910 by a woman, Marie d’Orliac? Or that it welcomed Charles de Gaulle and the Free French Forces during the Second World War? Learn all about the Institut’s fascinating history and gorgeous ArtDeco architecture including its Grade II listed reading room.",
                 "end": "17:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/708/building_708_facade-17queensberry_c09cf4373f9acdb5458707e38f3513f1.jpg",
@@ -3385,7 +3385,7 @@
                 "balloted": "No",
                 "description": "One of the magnificent 7 cemeteries. Burials ceased 1966, now 31 acres of woodland, meadows & ponds including the Soanes Centre (Robson Kelly 1993). Of outstanding importance for flora and fauna, set amongst funereal monuments, some listed",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2612/building_2612_tower-hamlets-cemetery-park-dsc_3230_c7e8e5ca541010b39cc071569fbaf163.jpg",
@@ -4509,7 +4509,7 @@
                 "balloted": "No",
                 "description": "Ruskinian walk from RIBA award-winning Chiswick Business Park, Gunnersbury Triangle Nature Reserve through South Acton Estate, birthplace of artist Patrick Caulfield; Woodlands Park Ice House; to home of William Willett, initiator of Daylight Saving Time",
                 "end": "14:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/4686/building_4686_img_8093_fcaefe7a22fac1f367c74dd4852b7938.jpg",
@@ -8767,7 +8767,7 @@
                 "balloted": "No",
                 "description": "With 12 locations across London and over 500 spaces, Mainyard Studios is where creativity and community come together.\r\n\r\nAt Open House Festival we’re showcasing our Hackney Wick Maker Spaces and the incredible makers, artists, entrepreneurs and creatives that call Mainyard Studios home.\r\n\r\nCome meet them at the festival and see what they've designed for you!",
                 "end": "18:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11798/building_11798_copy-of-mys-listings-679hrl-297-x-210-mm-2_2868f8d2261369208499300fb4a8e81d.jpg",
@@ -9743,7 +9743,7 @@
                 "balloted": "No",
                 "description": "Sir Howard Hodgkin (1932 – 2017) was one of England’s most celebrated contemporary artists. Abstracted yet allusive, apparently spontaneous but in fact highly controlled, his paintings convey feeling through gesture and colour.  His former studio, converted from a nineteenth-century dairy, sits in the heart of Bloomsbury.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12569/building_12569_studio-2024_3c443511f6f7a38df9eddc5a13403638.jpeg",
@@ -10598,7 +10598,7 @@
                 "balloted": "No",
                 "description": "On the surface Thamesmead might seem concrete and grey, but on this tour we will take a look at the colour and life local artists that are breathing into the area. Examining the past and present, we'll explore the abbey ruins, exciting sculptures, concrete skywalks, and vivid murals that make this place the Town of Tomorrow.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12774/building_12774_earth-mother-s-shade_6e036ed4f8fc2e4919c69f097b1a16e1.jpg",
@@ -11377,7 +11377,7 @@
                 "balloted": "No",
                 "description": "Queer Britain is the UK’s permanent museum of LGBT History.    Housed in a converted Victorian office building in the heart of the regenerated King’s Cross area, the galleries are a riot of voices and objects from over 100 years of queer history. At Open House 2025, Queer Britain’s volunteer guides will give talks demonstrating the museum’s mission to reclaim, preserve and inspire LGBTQ+ history.",
                 "end": "17:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13050/building_13050_queer-britain-kings-cross-london_4cce6e1fef74a3607d6932b5eb914877.jpg",
@@ -13980,6 +13980,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13445"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.14299,
+                    51.54054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Camden Inspire: Green Loop Takeover is one-day festival taking place in Camden on Saturday 20th September that challenges our obsession with the “new”. \r\n\r\nJoin Camden’s makers, artists & designers for hands-on workshops, upcycling, talks, pop-up cinema and panel discussions.",
+                "end": "18:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13451/building_13451_credit-ben-sage-1_01ff20dc5364693e850ab0e25f6ea4c7.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Camden Inspire: Green Loop Takeover",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13451"
             },
             "type": "Feature"
         }
