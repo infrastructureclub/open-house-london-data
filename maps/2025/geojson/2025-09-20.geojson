@@ -1169,7 +1169,7 @@
                 "balloted": "No",
                 "description": "Grade II* Listed Modernist building, famously described by Walter Gropius as \"an oasis of glass in a desert of brick\". Originally built to house 'The Peckham Experiment' an innovative health centre in the 1930s. It was converted to private dwellings in 2000, retaining the indoor pool. \r\n\r\nJoin residents and members of the legacy organisations alongside members of the RIBA and Southwark Archives.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1367/building_1367_67a518606209bcfe01eac2c1_pe_hslider-01-3_d3ad3ecc329aeb0d99c4fb49d2257efa.jpg",
@@ -8298,7 +8298,7 @@
                 "balloted": "No",
                 "description": "This tour looks at how healthcare has had an impact on the buildings and landscapes between Westminster Abbey and the City. Exploring healthcare-related buildings, rebuilt, repurposed or removed and their influence on the landscape.",
                 "end": "13:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11308/building_11308_apothecaries-hall_e5b8fc097f91e2c57ff053146ebc92b6.jpg",
@@ -8767,7 +8767,7 @@
                 "balloted": "No",
                 "description": "With 12 locations across London and over 500 spaces, Mainyard Studios is where creativity and community come together.\r\n\r\nAt Open House Festival we’re showcasing our Hackney Wick Maker Spaces and the incredible makers, artists, entrepreneurs and creatives that call Mainyard Studios home.\r\n\r\nCome meet them at the festival and see what they've designed for you!",
                 "end": "18:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11798/building_11798_copy-of-mys-listings-679hrl-297-x-210-mm-2_2868f8d2261369208499300fb4a8e81d.jpg",
@@ -9743,7 +9743,7 @@
                 "balloted": "No",
                 "description": "Sir Howard Hodgkin (1932 – 2017) was one of England’s most celebrated contemporary artists. Abstracted yet allusive, apparently spontaneous but in fact highly controlled, his paintings convey feeling through gesture and colour.  His former studio, converted from a nineteenth-century dairy, sits in the heart of Bloomsbury.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12569/building_12569_studio-2024_3c443511f6f7a38df9eddc5a13403638.jpeg",
@@ -12755,7 +12755,7 @@
                 "balloted": "No",
                 "description": "An exciting opportunity to explore an innovative & eco-friendly home renovation. Featuring cork, hemp, lime, clay, stone, woodfibre, UK-grown timber, and material re-use, get inspired to make sustainable changes in your own space. Architect Natalie Black will take you on a tour of the home that has been extended and retrofitted with energy-efficient measures & low-carbon natural materials.",
                 "end": "17:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13297/building_13297_img_0742_12b2954dfaea7c5f0a639044f1dc383e.jpg",
@@ -12933,7 +12933,7 @@
                 "balloted": "No",
                 "description": "Ever wondered what the Greenford Quay development looks like from inside? Take a tour with us across our three buildings, see views across Greenford that will be not have been seen by many local people and discover more about our green initiatives and design.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13331/building_13331_greenford-quay_e7eba8a74593946c10226c52cec37c0d.jpg",
@@ -13980,6 +13980,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13445"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09716999999999999,
+                    51.37204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Explore drawing a new design for an arrival point at East Croydon station as part of the Build/Play/Wear/Draw Croydon event. This is a fun and relaxed event – with the Croydon Urban Room team, you will draw your designs and ideas for what would improve your arrival at East Croydon Station and encourage you to travel into the centre of Croydon. This is a drop-in drawing activity for all ages.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13449/building_13449_img_4044_a140d6e736544fc2bad30c1f2e796e16.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Draw Your Croydon Arrival",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13449"
             },
             "type": "Feature"
         },

@@ -7430,7 +7430,7 @@
                 "balloted": "No",
                 "description": "Queer Britain is the UK’s permanent museum of LGBT History.    Housed in a converted Victorian office building in the heart of the regenerated King’s Cross area, the galleries are a riot of voices and objects from over 100 years of queer history. At Open House 2025, Queer Britain’s volunteer guides will give talks demonstrating the museum’s mission to reclaim, preserve and inspire LGBTQ+ history.",
                 "end": "17:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13050/building_13050_queer-britain-kings-cross-london_4cce6e1fef74a3607d6932b5eb914877.jpg",
@@ -8387,7 +8387,7 @@
                 "balloted": "No",
                 "description": "Discover North London like never before in this one-of-a-kind sensory experience led by acclaimed performance artist Alisa Oleva. Together, we’ll step beyond sightseeing and into the city itself – using movement, touch, and deep listening to explore the hidden stories and unique architecture of the area’s most iconic Brutalist design.\r\n\r\nThis is a creative, hands-on journey through some of the city’s most globally recognised built environment. Inspired by parkour and gentle choreography, we’ll move with and through the space around us – climbing, stretching, and slowing down to really feel the place beneath our feet. You don’t need any dance or parkour experience,  just a curious body and an open mind.\r\nPerfect for visitors, locals, artists and anyone wanting a deeper connection to London’s urban landscape.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13410/building_13410_alisa51-copy_4ba81f20494dd1240b3d67619ddc3fbd.jpg",
@@ -8663,6 +8663,33 @@
                 "start": "16:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13446"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09716999999999999,
+                    51.37204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Explore drawing a new design for an arrival point at East Croydon station as part of the Build/Play/Wear/Draw Croydon event. This is a fun and relaxed event – with the Croydon Urban Room team, you will draw your designs and ideas for what would improve your arrival at East Croydon Station and encourage you to travel into the centre of Croydon. This is a drop-in drawing activity for all ages.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13449/building_13449_img_4044_a140d6e736544fc2bad30c1f2e796e16.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Draw Your Croydon Arrival",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13449"
             },
             "type": "Feature"
         }

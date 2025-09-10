@@ -1,7 +1,7 @@
 {
     "all_week": false,
     "balloted_events": false,
-    "description": "View the wonderful St Peters Walworth church. Designed by John Soane and about to embark on a major restoration. Take park in sharing your thoughts and feeling about planned works and what you would like to see. Meet the team from the church as well as the Heritage Manager of the project.",
+    "description": "Come and visit Sir John Soane's finest and best preserved church: St Peter's, Walworth in its 200th Anniversary Year! It's an exciting time for St Peter's with a National Lottery Heritage Fund project to restore and further open up the church.",
     "design": {
         "designers": [
             {
@@ -26,10 +26,10 @@
             "capacity": null,
             "date": "2025-09-19",
             "drop_in": true,
-            "end": "2025-09-19T17:30:00+01:00",
+            "end": "2025-09-19T15:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Soane-Inspired Kids’ Activity Station",
-            "notes": "A creative hands-on space for families to design and build their own “Soane-style” buildings using shapes, colour, and imagination.",
+            "notes": "A creative hands-on space for families with simple activities to enjoy.",
             "start": "2025-09-19T10:30:00+01:00",
             "ticketed": false
         },
@@ -41,27 +41,12 @@
             "capacity": null,
             "date": "2025-09-19",
             "drop_in": true,
-            "end": "2025-09-19T17:30:00+01:00",
+            "end": "2025-09-19T15:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Your Walworth, Your Words: Story Sharing Table",
-            "notes": "Open the whole week. Come write down your story, share your ideas, an area will be set up for the whole week for people to come use.",
+            "notes": "Come write down your story, share your ideas!",
             "start": "2025-09-19T10:30:00+01:00",
             "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13342",
-            "capacity": null,
-            "date": "2025-09-19",
-            "drop_in": false,
-            "end": "2025-09-19T17:30:00+01:00",
-            "fully_booked": true,
-            "name": "Secret Soane:",
-            "notes": "This short guided tours will reveal the hidden brilliance of Soane’s architecture at St Peter’s Walworth and the future based on the grant.",
-            "start": "2025-09-19T10:30:00+01:00",
-            "ticketed": true
         }
     ],
     "facilities": [
@@ -71,7 +56,10 @@
         "Parking",
         "Quieter area",
         "Seating available",
-        "Toilets"
+        "Toilets",
+        "Baby changing facilities",
+        "Blue badge parking",
+        "Step-free routes"
     ],
     "factsheet": [
         {
@@ -130,13 +118,14 @@
         "meeting_point": null,
         "travel_info": [
             "Tube: Kennington",
-            "Train: Elephant & Castle"
+            "Train: Elephant & Castle",
+            "Bus: 12"
         ]
     },
     "name": "Building Beyond: Soane Re-imagined",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13342",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]
