@@ -60,8 +60,12 @@ if os.path.isdir(input_directory):
         )
 
         def render_venue(fh, venue_id, trailer=""):
-            with open(f"data/{year}/{venue_id}.json", "r") as f:
-                data = json.load(f)
+            try:
+                with open(f"data/{year}/{venue_id}.json", "r") as f:
+                    data = json.load(f)
+            except FileNotFoundError:
+                print(f"Skipping {venue_id} as it has been deleted")
+                return None
 
             description = html.escape(data["description"], quote=True)
             postcode = data["location"]["address"].split(",")[-1]
@@ -110,6 +114,8 @@ if os.path.isdir(input_directory):
                 of.write("<ul>\n")
                 for venue_id in data["venues_now_bookable"]:
                     venue_data = render_venue(of, venue_id)
+                    if not venue_data:
+                        continue
                     summary_bodies.append(
                         f"🎟️ {venue_data['id']} - {venue_data['name']}<br>"
                     )
@@ -126,6 +132,8 @@ if os.path.isdir(input_directory):
                     venue_data = render_venue(
                         of, venue_id, f" - New dates: {', '.join(dates)}"
                     )
+                    if not venue_data:
+                        continue
                     summary_bodies.append(
                         f"🗓️ {venue_data['id']} - {venue_data['name']}<br>"
                     )
