@@ -1,7 +1,7 @@
 {
     "all_week": false,
     "balloted_events": false,
-    "description": "Grade II Modernist House designed by German emigre architect Rudolf Frankel for his sister and family in 1938. The house remains relatively intact and retains the layout and original features which adhere to Modernist principles of the era.",
+    "description": "Grade II Modernist House designed by German emigre architect Rudolf Frankel for his sister and family in 1938. The house remains remarkably intact and retains the layout and original features which adhere to Modernist principles of the era.\r\n\r\nGuided tours at 10:30, 12:30, 14:30 and 16:00.",
     "design": {
         "designers": [
             {
@@ -31,6 +31,66 @@
             "name": "Drop in: Open day",
             "notes": "Please let us know if you plan to visit. Doing so allows\n                    the venue to plan ahead and you will be notified by email\n                    about any changes to the programme that might affect your\n                    visit.",
             "start": "2025-09-21T10:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2025-09-21",
+            "drop_in": true,
+            "end": "2025-09-21T11:15:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open day guided tour",
+            "notes": "Guided tour of the house by the current owner",
+            "start": "2025-09-21T10:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2025-09-21",
+            "drop_in": true,
+            "end": "2025-09-21T13:15:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open day guided tour",
+            "notes": "Guided tour of the house by the current owner",
+            "start": "2025-09-21T12:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2025-09-21",
+            "drop_in": true,
+            "end": "2025-09-21T15:15:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open day guided tour",
+            "notes": "Guided tour of the house by the current owner",
+            "start": "2025-09-21T14:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2025-09-21",
+            "drop_in": true,
+            "end": "2025-09-21T16:45:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Open day guided tour",
+            "notes": "Guided tour of the house by the current owner",
+            "start": "2025-09-21T16:00:00+01:00",
             "ticketed": false
         }
     ],
@@ -65,6 +125,12 @@
             "heading": "Donations",
             "paragraphs": [
                 "We will be collecting for Shelter, so please bring some cash!"
+            ]
+        },
+        {
+            "heading": "Guided Tours",
+            "paragraphs": [
+                "Guided tours at 10:30, 12:30, 14:30 and 16:00."
             ]
         }
     ],

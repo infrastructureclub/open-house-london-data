@@ -735,7 +735,7 @@
                 "balloted": "No",
                 "description": "Grade II listed building owned by Southwark Council. Large, 19th century mansion built in the form of a stone-faced baronial castle for the inventor of Bovril. Interior includes substantial wood panelling and a great hall. The building is managed by Kingswood Arts CIC and is used as a cultural and community space.",
                 "end": "14:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/854/building_854_khcpicture2apr06_12e7bb23e87c1921fcb59c9cbd88cc50.jpg",
@@ -2585,7 +2585,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Grade II Modernist House designed by German emigre architect Rudolf Frankel for his sister and family in 1938. The house remains relatively intact and retains the layout and original features which adhere to Modernist principles of the era.",
+                "description": "Grade II Modernist House designed by German emigre architect Rudolf Frankel for his sister and family in 1938. The house remains remarkably intact and retains the layout and original features which adhere to Modernist principles of the era.\r\n\r\nGuided tours at 10:30, 12:30, 14:30 and 16:00.",
                 "end": "17:30:00",
                 "fully_booked": "",
                 "images": [
@@ -4244,7 +4244,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Kensal House, designed in the 1930s by Maxwell Fry and Elizabeth Denby, is a landmark in social housing. Central to this Grade-II* listed building is the community room, fostering social interaction among residents. Today, this space hosts SPID, a youth theatre that advocates housing justice through co-created art. After 5 years of refurbishment, SPID is ready to re-open its door to the community.",
-                "end": "16:00:00",
+                "end": "14:30:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -6881,7 +6881,7 @@
                 "balloted": "No",
                 "description": "Join this walking tour to explore London's energy history and its impact on sustainability. Visit the King's Cross canals to see old and new infrastructure. Topics include London's carbon footprint, quantifying health benefits from green infrastructure, and the role of the built environment in meeting the net zero targets. Discover how London’s past has shaped its sustainable future.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12593/building_12593_img_0311_aecfe43d25acaa1dbc9d7dbacc13062b.jpg",
@@ -8112,7 +8112,7 @@
                 "balloted": "No",
                 "description": "An exciting opportunity to explore an innovative & eco-friendly home renovation. Featuring cork, hemp, lime, clay, stone, woodfibre, UK-grown timber, and material re-use, get inspired to make sustainable changes in your own space. Architect Natalie Black will take you on a tour of the home that has been extended and retrofitted with energy-efficient measures & low-carbon natural materials.",
                 "end": "17:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13297/building_13297_img_0742_12b2954dfaea7c5f0a639044f1dc383e.jpg",
@@ -8325,7 +8325,7 @@
                 "balloted": "No",
                 "description": "11 Orleston Mews was designed by Caruso St John Architects in 1987.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13391/building_13391_peter-st-john-house_03bea1aec1d470de6614008406f0feff.png",
@@ -8387,7 +8387,7 @@
                 "balloted": "No",
                 "description": "Discover North London like never before in this one-of-a-kind sensory experience led by acclaimed performance artist Alisa Oleva. Together, we’ll step beyond sightseeing and into the city itself – using movement, touch, and deep listening to explore the hidden stories and unique architecture of the area’s most iconic Brutalist design.\r\n\r\nThis is a creative, hands-on journey through some of the city’s most globally recognised built environment. Inspired by parkour and gentle choreography, we’ll move with and through the space around us – climbing, stretching, and slowing down to really feel the place beneath our feet. You don’t need any dance or parkour experience,  just a curious body and an open mind.\r\nPerfect for visitors, locals, artists and anyone wanting a deeper connection to London’s urban landscape.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13410/building_13410_alisa51-copy_4ba81f20494dd1240b3d67619ddc3fbd.jpg",
@@ -8584,12 +8584,12 @@
                 "fully_booked": "",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13438/building_13438_samia-3_be07eda87961b8a320426ed6d2e9224e.jpg",
-                        "title": "Photo © Samia Tossio"
-                    },
-                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13438/building_13438_number-1-croydon-credit-glenn-foster_6fa21d98b4d4d878e5c9fc6f28b2cb72.jpg",
                         "title": "© Glenn Foster"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13438/building_13438_pxl_20250905_100329793-portrait-2_62ba6964dd827dfdc010d931703e1403.jpg",
+                        "title": null
                     }
                 ],
                 "name": "You Wear Croydon",
@@ -8663,33 +8663,6 @@
                 "start": "16:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13446"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.09716999999999999,
-                    51.37204
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Explore drawing a new design for an arrival point at East Croydon station as part of the Build/Play/Wear/Draw Croydon event. This is a fun and relaxed event – with the Croydon Urban Room team, you will draw your designs and ideas for what would improve your arrival at East Croydon Station and encourage you to travel into the centre of Croydon. This is a drop-in drawing activity for all ages.",
-                "end": "16:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13449/building_13449_img_4044_a140d6e736544fc2bad30c1f2e796e16.jpg",
-                        "title": null
-                    }
-                ],
-                "name": "Draw Your Croydon Arrival",
-                "new_venue_this_year": "Yes",
-                "start": "11:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/13449"
             },
             "type": "Feature"
         }

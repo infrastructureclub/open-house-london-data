@@ -19,19 +19,19 @@
     },
     "events": [
         {
-            "activity_type": "Workshop",
+            "activity_type": "Drop in",
             "all_day": false,
             "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13451",
+            "booking_link": null,
             "capacity": null,
             "date": "2025-09-20",
-            "drop_in": false,
+            "drop_in": true,
             "end": "2025-09-20T18:00:00+01:00",
             "fully_booked": false,
-            "name": "Camden Inspire",
-            "notes": "Various events on the day - see https://www.camdeninspire.com/ to book",
+            "name": "Drop in: Camden Inspire: Green Loop Takeover",
+            "notes": "Events throughout the day, dull programme of activities and workshops here:\r\n\r\nhttps://www.camdeninspire.com/",
             "start": "2025-09-20T11:00:00+01:00",
-            "ticketed": true
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -79,7 +79,7 @@
     "name": "Camden Inspire: Green Loop Takeover",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13451",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

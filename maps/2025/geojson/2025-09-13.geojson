@@ -1091,7 +1091,7 @@
                 "balloted": "No",
                 "description": "Designed by Sir John Soane as a family home and country residence. Following a three-year conservation project,  Pitzhanger has been returned to Soane’s innovative original design and re-opened to the public in March 2019.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1369/building_1369_thumbnail_img_3284-1_fea4ac539e3fbbd40a0e9fce1ac2706e.jpg",
@@ -1507,7 +1507,7 @@
                 "balloted": "No",
                 "description": "The church was first mentioned c1080 and is the oldest of the City churches dedicated to St Mary. It became a Guild Church by virtue of the  City of London (Guild Churches) Act, 1952.  It is the only Wren church built in the Late Gothic style after the Great Fire of London, 1666, thanks to a bequest.",
                 "end": "12:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1824/building_1824_120214-st-mary-aldermary-from-walbrook_6a0a8e05d9859705ab51593e095dc07d.jpg",
@@ -2534,7 +2534,7 @@
                 "balloted": "No",
                 "description": "Britain's first co-partnership garden suburb, first houses built in 1901. Parker and Unwin's plan introduced in 1907, mainly Arts and Crafts style; fascinating social history.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2571/building_2571_lud10lud4rusk09july-f_0511bf448f8a4f99d0b256936538e7a9.jpg",
@@ -3494,57 +3494,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1357918,
-                    51.5352737
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Outstanding Edwardian building (1905 grade II; many original features). The oldest UK adult college, founded 1854 by FD Maurice, John Ruskin & Christian Socialists. Purpose-designed by WD Caröe; updated for modern educational aspirations.",
-                "end": "14:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/4131/building_4131_wmc-facade_3c93e371f5294d24582dba3781a011a1.jpg",
-                        "title": "44 Crowndale Road "
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/4131/building_4131_wmc-library_f83439510174a69dff46038abf185757.jpg",
-                        "title": "The Library"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/4131/building_4131_ruskin-cafe-olc_a2c20d6f25474fb5453df03aea63a2b8.jpg",
-                        "title": "Ruskin cafe"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/4131/building_4131_original-main-entrance_e99debcd2824641fed84ea1462f6bacc.jpg",
-                        "title": "Original main entrance"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/4131/building_4131_ruskin-art-room_b687eb010b1d43a8ed9eb811beae17a3.jpg",
-                        "title": "Ruskin Art Room"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/4131/building_4131_wd-caroe_4303f28c4aff175f78af85756d2d9d27.jpg",
-                        "title": "WD Caröe"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/4131/building_4131_former-common-room_1e63006f7fefb80a8fa243cd678332eb.jpg",
-                        "title": "Former Common Room"
-                    }
-                ],
-                "name": "Working Men's College",
-                "new_venue_this_year": "No",
-                "start": "11:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/4131"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.1078771,
                     51.5249369
                 ],
@@ -3554,7 +3503,7 @@
                 "balloted": "No",
                 "description": "The London Archives' older building was built in the late 1930s for the Temple Press and has many original features.   Purpose built extension in early 1990s for archival storage. Public rooms remodelled by Bisset Adams in 2000s.",
                 "end": "15:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/4294/building_4294_lma_exterior_aa74264039c5901055cab13c0e2a2161.jpg",
@@ -3883,37 +3832,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1244206,
-                    51.5211757
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Two Grade II listed buildings, 4-storey yellow stock brick with a rusticated stucco base. No. 57 has an attic level with a garden at the rear. Staircases are intact and each room still retains its high ceilings and ornamental fireplaces. The garden behind No. 58 has been developed to include an additional meeting room, and an interior development has created conference rooms in the lower ground floor",
-                "end": "16:00:00",
-                "fully_booked": "Yes",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5048/building_5048_photo-4_867377d80f56723c426445fd7b058382.jpg",
-                        "title": "De Morgan House, 57-58 Russell Square, London. WC1B 4HS"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5048/building_5048_photo-1_1317c51a1b91bf06fc0f968ab4fe0efb.jpg",
-                        "title": "Entrance to Number 58 Russell Square."
-                    }
-                ],
-                "name": "London Mathematical Society",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/5048"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.08305,
                     51.50928
                 ],
@@ -4032,7 +3950,7 @@
                 "balloted": "No",
                 "description": "A £2.6m conversion of an office block into a state-of-the-art theatre with two auditoriums, cafe bar and education studio.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5381/building_5381_1_5ca6073a29e7a26241bf23cd7b10e662.png",
@@ -5292,7 +5210,7 @@
                 "balloted": "No",
                 "description": "Grade II* listed church dating from 12C with Medieval, Tudor, Georgian & Victorian features. 16C Tower. Church refurbishment and new extension completed in 2023. Over 1300 monuments with four Grade II listed tombs in churchyard.",
                 "end": "21:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/8141/building_8141_photo5_bb9b792a653db1fb8b93cec69e29baac.jpg",
@@ -6032,7 +5950,7 @@
                 "balloted": "No",
                 "description": "Historic walking tour of East Croydon led by a native. Those who come along are welcome to contribute their memories.  Marvel at one of the oldest electricity sub-stations in Croydon. Tour ends at the iconic One Croydon, the \"Thru'penny Bit\" office block designed by Seifert in the 1960s.  Join us for a drink afterwards in a Victorian hostelry.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10217/building_10217_1801croydonenclosuremapdetail_27fe6ddcf27eab0cd3170e67dca327ee.jpg",
@@ -6454,7 +6372,7 @@
                 "balloted": "No",
                 "description": "The Fleet Street Heritage Wall comprises 86 A3 information panels about the people, places, ideas and newspapers which made the name of Fleet Street famous throughout the world.  Each Saturday and Sunday from 10 until 4, Piers Nicholson, who created the Heritage Sundial above the Wall, will speak on the project  and its innovative features which will make it widely accessible to all comers.",
                 "end": "16:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_main-image_5afd88cc9e65466cc43a8e8598b24d5a.png",
@@ -7990,7 +7908,7 @@
                 "balloted": "No",
                 "description": "Petty France is a short street with a long history. This walk will time travel from the medieval origins of Petty France through its sensational history to its present distinguished profile. We shall study Charles Holden's 1927 Grade 1 listed  London Underground HQ, upstaged in 1976 by Sir Basil Spence's 1976 brutalist monument to modernism,  and where the original Queen Anne house was born.",
                 "end": "17:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12209/building_12209_petty-france_214e840f83b1f16347c16a6289219659.jpg",
@@ -8458,7 +8376,7 @@
                 ],
                 "name": "St Marylebone Parish Church",
                 "new_venue_this_year": "No",
-                "start": "11:00:00",
+                "start": "12:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12548"
             },
@@ -8589,7 +8507,7 @@
                 "balloted": "No",
                 "description": "Sir Howard Hodgkin (1932 – 2017) was one of England’s most celebrated contemporary artists. Abstracted yet allusive, apparently spontaneous but in fact highly controlled, his paintings convey feeling through gesture and colour.  His former studio, converted from a nineteenth-century dairy, sits in the heart of Bloomsbury.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12569/building_12569_studio-2024_3c443511f6f7a38df9eddc5a13403638.jpeg",
@@ -8912,7 +8830,7 @@
                 "balloted": "No",
                 "description": "The Herbarium is a hidden, scientific treasure located on Kew Green, usually only open to visiting researchers since it was first established in 1852. It houses almost seven million preserved botanical specimens, and one of the largest botanical library, art, and archives collections in the world. The complex of historic and modern buildings will be open with guided tours and displays.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12733/building_12733_hunter-house-exterior_3348814a162cb48cb3c5362b08b841b6.jpeg",
@@ -9040,7 +8958,7 @@
                 "balloted": "No",
                 "description": "Trace the lost river and discover the abandoned island of Channelsea, then visit the newly founded urban oasis of Abbey Gardens on this walk, talk and eat exploration of the hidden history of the tidal Lea Valley and site of London's now rapidly vanishing industrial past. Consider the opportunity to make new urban green spaces that celebrate both wild and man made environments in harmony.",
                 "end": "12:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12810/building_12810_screenshot-2024-07-02-at-11-18-38_21d748252aeed5b6bb24059fe6fa8cd4.png",
@@ -9292,7 +9210,7 @@
                 "balloted": "No",
                 "description": "This project by Caruso St John Architects for developers W·RE, is located close to St Pancras Station in an area of the city that is undergoing substantial change. The site was previously occupied by a block of light-industrial units, and the newly constructed 24,000 sqm mixed-use scheme accommodates the same area of industrial workspace within a denser development of offices, housing, and retail.",
                 "end": "17:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12949/building_12949_stp-3_5_121b8545d1ff72d2363e95873fd62443.jpg",
@@ -9534,37 +9452,6 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13009"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.05707,
-                    51.58989
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Between Saturday 13th Sept - Saturday 20th Sept a programme to include:\r\nSat 13th & 20th 10.00am - presentation about the building, our reredos & our community engagement by our Director \r\nMonday 15th 4.30pm - Children's Art Workshop with Nailah Daley-Allen\r\nTuesday 16th 11.30am - 2.00pm  - Free Art Group & Lunch for adults \r\nThursday 18th 11.00am - free art class with Joanna Pilcarcyk",
-                "end": "17:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13010/building_13010_dsc_0271_abac97751b539bf8725f28f23bf642eb.jpg",
-                        "title": null
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13010/building_13010_img_4308_8ca3b8e6971569f8d3dc0378ba9bd142.jpeg",
-                        "title": null
-                    }
-                ],
-                "name": "St Francis at The Engine Room",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/13010"
             },
             "type": "Feature"
         },
@@ -9996,7 +9883,7 @@
                 "balloted": "No",
                 "description": "Part of the Chelsea Heritage Quarter, the National Army Museum covers the British Army’s role from the Civil Wars to the modern day. We engage and inspire with the stories of our soldiers and how their service shapes our world; past, present and future. Founded by Royal Charter in 1960, the Museum has been on the Chelsea site since 1970. Come and find out who we are and why we are here!",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13061/building_13061_nam_building-exterior_e11ae3edabb346e86fce4cf13655e4e3.jpeg",
@@ -10222,7 +10109,7 @@
                 "balloted": "No",
                 "description": "The New Fauconberg Cottage replaced a building that had been on the site since 1931. Designed within extremely limited space, planning, and financial constraints, it is a testament to ingenuity and creativity. The building’s local renown is largely due to its dazzling and unique yet discreet cladding, which is both a remarkable sculpture and a functional weather protection.",
                 "end": "15:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13121/building_13121_open_house-copy_f0f59d9cac985fb11097d2f25def9dc2.jpg",
@@ -10420,7 +10307,7 @@
                 "balloted": "No",
                 "description": "Have you ever fancied waking up early before the city gets busy, then going for a walk and sketching many of London’s most iconic sights in just 1.5 hours? If yes, then join other fellow creatives for this untutored, friendly, social urban sketch event organised by EarlyMasterworks.com for The Open House Festival.",
                 "end": "10:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13147/building_13147_pexels-jabzee-30754172_76052e33a9f811f24a986895354efc6d.jpg",
@@ -10447,7 +10334,7 @@
                 "balloted": "No",
                 "description": "Most people associate Brixton with its busy town centre. But did you know a few steps away Brixton's heart you can find a wealth of green spaces and tranquillity shaped by the area's unique Georgian,  Victorian and Modernist architecture – including a series of 1970s council estates by Ted Hollamby – which continue to evolve to serve Brixton's local communities.\r\n\r\nJoin your guide Nikky Catto to find why her Brixton home  is not what you expected.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13149/building_13149_2-img_1044_b1a8ffc6c032428988ee22fc991668a1.jpg",
