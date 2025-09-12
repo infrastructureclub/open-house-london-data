@@ -286,7 +286,7 @@
                 "balloted": "No",
                 "description": "Designed by Sir John Soane as a family home and country residence. Following a three-year conservation project,  Pitzhanger has been returned to Soane’s innovative original design and re-opened to the public in March 2019.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/1369/building_1369_thumbnail_img_3284-1_fea4ac539e3fbbd40a0e9fce1ac2706e.jpg",
@@ -470,7 +470,7 @@
                 "balloted": "No",
                 "description": "Built initially as a vestry, it was later extended. Victorian and Edwardian interiors with rich tiles and stunning stained glass, one of the most beautiful Victorian interiors in London.",
                 "end": "15:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2865/building_2865_cth-front-angle_94fb8969a8a18ddcd2bea54b6f1b5e51.jpg",
@@ -2742,7 +2742,7 @@
                 "balloted": "No",
                 "description": "The Mandrake is a luxury boutique hotel with a spectacular internal hanging garden. A retrofit by architects Manalo & White and interior designer Tala Fustok Studio, every aspect has been thoughtfully designed to offer a truly immersive experience. It is a unique example of how a property can be repurposed in new and surprising ways, respecting but boldly transforming the original building.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13132/building_13132_manalo-white_mandrake_ts_05_2d68ad2b6d17ed4cef787c8317239851.jpg",
@@ -2843,7 +2843,7 @@
                 "balloted": "No",
                 "description": "Unpack my story of North Kensington’s rich history on this guided walk. My family was one of the first families to move into the Brutalist-style Trellick Tower. From rural roots to industrial hub, class divides to cultural revolution – discover hidden stories, iconic sites, and how migration and activism shaped a vibrant, ever-changing community like no other: my childhood playground.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13146/building_13146_ladbroke-grove-station_d41230e358c23292cded1756ae32286a.jpg",
@@ -3219,33 +3219,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.09967,
-                    51.51888
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Bartholomew's Fayre is a community festival taking place within the Smithfield Rotunda Garden, Great St Barts and the surrounding areas.",
-                "end": "20:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13301/building_13301_barts-main-view-1_b34351abd584cf88946d053a117f9123.jpg",
-                        "title": "Great St Bartholomew"
-                    }
-                ],
-                "name": "Bartholomew's Fayre: Great St Barts",
-                "new_venue_this_year": "Yes",
-                "start": "16:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/13301"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.13273,
                     51.51607
                 ],
@@ -3381,7 +3354,7 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.09956999999999999,
+                    -0.09967,
                     51.51888
                 ],
                 "type": "Point"
@@ -3389,7 +3362,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Was Kilroy or Banksy ever in Great St. Bart's? Probably not, but other graffiti artists and creators sure were! Join us for a discussion of graffiti through time, learn about its different uses, how it's evolved, and how people have used it to express themselves over the centuries.",
-                "end": "19:30:00",
+                "end": "17:30:00",
                 "fully_booked": "Yes",
                 "images": [
                     {
@@ -3399,9 +3372,36 @@
                 ],
                 "name": "Bartholomew Fayre: Graffiti Talk & Tour",
                 "new_venue_this_year": "Yes",
-                "start": "18:00:00",
+                "start": "16:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13381"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10076999999999998,
+                    51.51859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Join us for arts, crafts and play activities led by the London Museum as part of their intergenerational Play Cycles programme.",
+                "end": "19:45:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13399/building_13399_dsc05133_bf7da185bbcb878bfd7a02481528a049.jpg",
+                        "title": "London Museum"
+                    }
+                ],
+                "name": "Bartholomew Fayre: Play Cycles",
+                "new_venue_this_year": "Yes",
+                "start": "16:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13399"
             },
             "type": "Feature"
         },
