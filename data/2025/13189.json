@@ -42,10 +42,25 @@
             "date": "2025-09-20",
             "drop_in": false,
             "end": "2025-09-20T14:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided Tour",
             "notes": "A tour of the venue's main areas, including the pool hall, diving pool, Team GB Training Facility and Training Pool",
             "start": "2025-09-20T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/13189",
+            "capacity": null,
+            "date": "2025-09-20",
+            "drop_in": false,
+            "end": "2025-09-20T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": "A tour of the venue's main areas, including the pool hall, diving pool, Team GB Training Facility and Training Pool",
+            "start": "2025-09-20T15:00:00+01:00",
             "ticketed": true
         },
         {
@@ -76,6 +91,21 @@
             "name": "Guided Tour",
             "notes": "A tour of the venue's main areas, including the pool hall, diving pool, Team GB Training Facility and Training Pool",
             "start": "2025-09-21T13:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/13189",
+            "capacity": null,
+            "date": "2025-09-21",
+            "drop_in": false,
+            "end": "2025-09-21T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": "A tour of the venue's main areas, including the pool hall, diving pool, Team GB Training Facility and Training Pool",
+            "start": "2025-09-21T15:00:00+01:00",
             "ticketed": true
         }
     ],

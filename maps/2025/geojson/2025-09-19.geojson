@@ -470,7 +470,7 @@
                 "balloted": "No",
                 "description": "Built initially as a vestry, it was later extended. Victorian and Edwardian interiors with rich tiles and stunning stained glass, one of the most beautiful Victorian interiors in London.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/2865/building_2865_cth-front-angle_94fb8969a8a18ddcd2bea54b6f1b5e51.jpg",
@@ -2190,8 +2190,8 @@
             "properties": {
                 "balloted": "No",
                 "description": "St Lawrence started life as a hospital and chapel in the 12th century. There is a 15th century tower but the rest of the building was rebuilt in the 19th century. It has been unused and  virtually derelict since the 1960s.  It has been refurbished but is currently empty. We will not have access to the interior.",
-                "end": "12:00:00",
-                "fully_booked": "No",
+                "end": "11:30:00",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12693/building_12693_st-lawrence-s-brentford_7cfeb0f9770afff327c56bbaa39aea7d.jpg",
@@ -2200,7 +2200,7 @@
                 ],
                 "name": "St Lawrence",
                 "new_venue_this_year": "No",
-                "start": "10:30:00",
+                "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12693"
             },
@@ -2529,33 +2529,6 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13043"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.02421,
-                    51.49216
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "A Grade II listed converted church in the Isle of Dogs. Formerly a Scottish Presbyterian chapel (St.  Pauls) the Space is now a theatre and arts centre dedicated to new writing, emerging companies and artist development. We host all arts from classical recitals through to wrestling, are available for event hire and have a charming bar and kitchen on site.",
-                "end": "17:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13044/building_13044_utf-820250430_144543_fb3bb74fa9aaeb5496e72c719baf0d69.jpg",
-                        "title": "the Space Theatre"
-                    }
-                ],
-                "name": "The Space Theatre",
-                "new_venue_this_year": "Yes",
-                "start": "14:30:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/13044"
             },
             "type": "Feature"
         },
@@ -3166,7 +3139,7 @@
                 "balloted": "No",
                 "description": "An exciting opportunity to explore an innovative & eco-friendly home renovation. Featuring cork, hemp, lime, clay, stone, woodfibre, UK-grown timber, and material re-use, get inspired to make sustainable changes in your own space. Architect Natalie Black will take you on a tour of the home that has been extended and retrofitted with energy-efficient measures & low-carbon natural materials.",
                 "end": "17:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13297/building_13297_img_0742_12b2954dfaea7c5f0a639044f1dc383e.jpg",
@@ -3336,7 +3309,7 @@
                 "balloted": "No",
                 "description": "Learning from the past to change the future: placard making with the Marx Memorial Library\r\n\r\nInspired by our extensive collection of historic protest posters and banners, we will ask participants to create their own using collage and crafting on what matters to them today.",
                 "end": "20:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13380/building_13380_credit-nooma-studio_634423f7019e5c54f402a3ecaa3a1499.jpg",
@@ -3468,6 +3441,37 @@
                 "start": "09:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13414"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1194,
+                    51.51474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Situated in the heart of Covent Garden, Space House is one of London’s most architecturally significant and environmentally advanced commercial buildings. Originally designed by George Marsh and Richard Seifert in 1968, the Grade II listed building has undergone a transformative restoration—delivering a net zero carbon, experiential workplace designed to foster innovation, wellbeing and community.",
+                "end": "13:45:00",
+                "fully_booked": "Yes",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13432/building_13432_space-house-london-covent-garden-office-building_4e2011a09f8541510d8153da6cb83afa.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13432/building_13432_250131-lofficiel-singapore-s10-039-1_f7c9c7475cf7644070ca632a38e2cac5.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Space House",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13432"
             },
             "type": "Feature"
         },

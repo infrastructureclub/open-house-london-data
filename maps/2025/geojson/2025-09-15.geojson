@@ -719,6 +719,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.24492,
+                    51.49515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Start at Stamford Brook tube.  Follow the hidden river, Stamford Brook, through streets and parks.  Amongst the architecture, we will see on this route a delightful square with great variety.  Finish near Hammersmith Station.",
+                "end": "12:00:00",
+                "fully_booked": "Yes",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11162/building_11162_20220630_113524_a05707a348c617b71cc05b68deacc95a.jpg",
+                        "title": "Map of course of Stamford Brook"
+                    }
+                ],
+                "name": "Stamford Brook walk",
+                "new_venue_this_year": "No",
+                "start": "10:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/11162"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.00658,
                     51.49979
                 ],
@@ -877,7 +904,7 @@
                 "balloted": "No",
                 "description": "Explore the Bush Theatre, West London’s home of new writing. Get a behind the scenes look at our fifty-year history, including how over 2016 we transformed our 128-year-old building into an accessible and sustainable modern theatre.",
                 "end": "16:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11992/building_11992_daytime-outside-credit-philip-vile-for-the-bush-theatre_d410aac4be5190484396491f395c97a2.jpg",
@@ -944,6 +971,33 @@
                 "start": "09:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12130"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.22501,
+                    51.49343
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A walk around Brook Green with emphasis on the buried lost river, Stamford Brook.",
+                "end": "16:00:00",
+                "fully_booked": "Yes",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12421/building_12421_20220630_113524_e813173cb531bec256c697e9e67ed778.jpg",
+                        "title": null
+                    }
+                ],
+                "name": "Brook Green walk",
+                "new_venue_this_year": "No",
+                "start": "14:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12421"
             },
             "type": "Feature"
         },

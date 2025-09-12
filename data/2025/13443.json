@@ -19,19 +19,19 @@
     },
     "events": [
         {
-            "activity_type": "Drop in",
+            "activity_type": "Other",
             "all_day": false,
             "balloted": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/13443",
             "capacity": null,
             "date": "2025-09-20",
-            "drop_in": true,
+            "drop_in": false,
             "end": "2025-09-20T17:00:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "Please let us know if you plan to visit. Doing so allows\n                    the venue to plan ahead and you will be notified by email\n                    about any changes to the programme that might affect your\n                    visit.",
+            "name": "Open Day",
+            "notes": "",
             "start": "2025-09-20T10:00:00+01:00",
-            "ticketed": false
+            "ticketed": true
         }
     ],
     "facilities": [],
@@ -122,7 +122,7 @@
     "name": "Greenview House",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13443",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2025
     ]
