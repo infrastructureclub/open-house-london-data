@@ -2,29 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2025-09-14T16:15:00+00:00</updated>
+  <updated>2025-09-15T01:15:00+00:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2025-09-04_1619.json</id>
-    <title>Tickets released for 10 venues on Thu 04 September at 16:19</title>
-    <updated>2025-09-04T16:19:00+00:00</updated>
-    <content>🎟️ 13427 - Commons Tour of Stamford Hill&lt;br&gt;
-🎟️ 13413 - 'Gongbath' with Jez Smith FRSA inside St Paul’s Cathedral&lt;br&gt;
-🎟️ 12908 - The John Morden Centre and Morden College Almshouses&lt;br&gt;
-🎟️ 12611 - De Lane Lea Studios, 75 Dean Street&lt;br&gt;
-🎟️ 11992 - Bush Theatre - Backstage Tours&lt;br&gt;
-🎟️ 10284 - Surbiton Queen of the Suburbs&lt;br&gt;
-🎟️ 10238 - The Great Fire of London&lt;br&gt;
-🎟️ 10142 - Boston Manor House&lt;br&gt;
-🎟️ 4927 - Wanstead Heritage Walk&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2025.html#2025-09-04_1619.json"/>
-    <published>2025-09-04T16:19:00+00:00</published>
-  </entry>
   <entry>
     <id>2025-09-05_0630.json</id>
     <title>Tickets released for 7 venues, 1 venues added dates on Fri 05 September at 06:30</title>
@@ -607,5 +591,20 @@
 🎟️ 1367 - Guided Tours and Exhibition at Pioneer Centre, Peckham&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2025.html#2025-09-14_1615.json"/>
     <published>2025-09-14T16:15:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2025-09-15_0115.json</id>
+    <title>Tickets released for 8 venues on Mon 15 September at 01:15</title>
+    <updated>2025-09-15T01:15:00+00:00</updated>
+    <content>🎟️ 13154 - All's well in Camberwell: walking London's local government history&lt;br&gt;
+🎟️ 12778 - Canada Water Masterplan&lt;br&gt;
+🎟️ 11798 - Mainyard Studios&lt;br&gt;
+🎟️ 11765 - Tours of All Saints (EPR Architects), Austral Street&lt;br&gt;
+🎟️ 11162 - Stamford Brook walk&lt;br&gt;
+🎟️ 10614 - Flood Meadows at Hampton Court&lt;br&gt;
+🎟️ 8737 - Ram Quarter&lt;br&gt;
+🎟️ 2731 - The Brunel Museum&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2025.html#2025-09-15_0115.json"/>
+    <published>2025-09-15T01:15:00+00:00</published>
   </entry>
 </feed>
