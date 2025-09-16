@@ -12,7 +12,7 @@
                 "balloted": "No",
                 "description": "Built in a Renaissance style with high level Diocletian windows and a prominent grand cupola. In 2016 a new Fly Tower opened followed by remodelling of the auditorium in 2018 and the creation of a new basement space opened in 2022.",
                 "end": "16:15:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/152/building_152_1219_1023_c28b3190a40fb144c66729d53888295f.jpg",
@@ -882,6 +882,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1080343,
+                    51.51412879999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Fleet Street Heritage Wall comprises 86 A3 information panels about the people, places, ideas and newspapers which made the name of Fleet Street famous throughout the world.  Each Saturday and Sunday from 10 until 4, Piers Nicholson, who created the Heritage Sundial above the Wall, will speak on the project  and its innovative features which will make it widely accessible to all comers.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_main-image_5afd88cc9e65466cc43a8e8598b24d5a.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_heritage-wall-and-sundial_84f69a0811fe9a37e6a5c209440c2f0d.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_img_3617_f319ad78a7cce2e4f3f465fd64f3d872.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_img_3618_17b79bcdb05195bf940ae8d1d78640ed.png",
+                        "title": null
+                    }
+                ],
+                "name": "Fleet Street Heritage Wall and Sundial",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/10644"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1019914,
                     51.4871574
                 ],
@@ -1106,7 +1145,7 @@
                 "balloted": "No",
                 "description": "Explore the Bush Theatre, West London’s home of new writing. Get a behind the scenes look at our fifty-year history, including how over 2016 we transformed our 128-year-old building into an accessible and sustainable modern theatre.",
                 "end": "16:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/11992/building_11992_daytime-outside-credit-philip-vile-for-the-bush-theatre_d410aac4be5190484396491f395c97a2.jpg",
@@ -1343,7 +1382,7 @@
                 "balloted": "No",
                 "description": "Guiding the development of a new urban centre at the heart of south-east London's Rotherhithe peninsula, historically a network of working docks and canals connected to the River Thames - and recently the home of a 1980s low density shopping centre. Sitting between two underground stations and two waterbodies, it offers the opportunity to create a characterful, well-connected London neighbourhood.",
                 "end": "14:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12778/building_12778_802_02_canada-water-a1-and-a2_3bd0268c72a5ab6b1065abcbc944cc32.jpg",
@@ -1929,7 +1968,7 @@
                 "balloted": "No",
                 "description": "Rabbits Road Press is a colourful and welcoming community-focussed Risograph studio in Manor Park providing affordable print education and an alternative art space for all. Based in Old Manor Park Library, a  beautiful grade II listed Carnegie library, visitors are welcome to tour the Risograph studio and take part in a recycled Riso activity.",
                 "end": "14:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13339/building_13339_img_2109_3be35239afc81eaf8bb3e94ae77cdb96.jpg",
@@ -2100,7 +2139,7 @@
                 "balloted": "No",
                 "description": "Join Dan O'Brien, Cassandra Ellis, and fellow industry experts at the Atelier Ellis showroom for a panel discussion hosted by Leanne Cloudsdale from Concrete Communities. \r\n\r\nTogether, they'll explore what makes a home truly remarkable, from colour, materiality and atmosphere to the strategic design choices that create lasting value.",
                 "end": "21:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13453/building_13453_aucoot_event_4096px_001_3e23e390094ffddb23b9337a24718856.jpg",

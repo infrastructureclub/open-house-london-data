@@ -90,7 +90,7 @@
                 "balloted": "No",
                 "description": "Grade II-listed Georgian domestic building c.1760, formerly part of the Bedford Estate. Interior refurbished 1925 to form lecture hall (restored 2014), library, bookshop and offices. Oak woodwork and green Doulton tiles line the staircase.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/889/building_889_swedenborg-hall_264a007f81a582f8f0af1fd74869529c.jpg",
@@ -774,7 +774,7 @@
                 "balloted": "No",
                 "description": "A £2.6m conversion of an office block into a state-of-the-art theatre with two auditoriums, cafe bar and education studio.",
                 "end": "14:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/5381/building_5381_1_5ca6073a29e7a26241bf23cd7b10e662.png",
@@ -1128,6 +1128,45 @@
                 "start": "18:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/10104"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1080343,
+                    51.51412879999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Fleet Street Heritage Wall comprises 86 A3 information panels about the people, places, ideas and newspapers which made the name of Fleet Street famous throughout the world.  Each Saturday and Sunday from 10 until 4, Piers Nicholson, who created the Heritage Sundial above the Wall, will speak on the project  and its innovative features which will make it widely accessible to all comers.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_main-image_5afd88cc9e65466cc43a8e8598b24d5a.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_heritage-wall-and-sundial_84f69a0811fe9a37e6a5c209440c2f0d.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_img_3617_f319ad78a7cce2e4f3f465fd64f3d872.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_img_3618_17b79bcdb05195bf940ae8d1d78640ed.png",
+                        "title": null
+                    }
+                ],
+                "name": "Fleet Street Heritage Wall and Sundial",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/10644"
             },
             "type": "Feature"
         },
@@ -1929,7 +1968,7 @@
                 "balloted": "No",
                 "description": "Marking the 60th anniversary of London’s 32 boroughs, this walking tour explores the evolution of local government through the story of Camberwell. It charts the development of institutions in response to intense social and economic change to shape the city we know today. We will celebrate the visible reminders of this history in the streets around us and ask: why does this matter to Londoners today?",
                 "end": "20:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13154/building_13154_all-s-well-camberwell-town-hall_8b1b238ecd373e5f494d81308e15e70a.jpg",

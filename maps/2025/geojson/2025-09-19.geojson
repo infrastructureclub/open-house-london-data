@@ -354,7 +354,7 @@
                 ],
                 "name": "Argentine Ambassador's Residence",
                 "new_venue_this_year": "No",
-                "start": "10:00:00",
+                "start": "14:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/2060"
             },
@@ -968,7 +968,7 @@
                 "balloted": "No",
                 "description": "Set in a Grade II listed Georgian townhouse, Tonkin Liu's studio has been extended. Designed and built by the practice, an innovative timber roof and reflecting pool gathers the bouncing rain, to make it a good place to be on a bad day.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/6853/building_6853_alexjames_804_110-copy_3cdddc049ba05360b930bd3d2da7a904.jpg",
@@ -1426,6 +1426,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1080343,
+                    51.51412879999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Fleet Street Heritage Wall comprises 86 A3 information panels about the people, places, ideas and newspapers which made the name of Fleet Street famous throughout the world.  Each Saturday and Sunday from 10 until 4, Piers Nicholson, who created the Heritage Sundial above the Wall, will speak on the project  and its innovative features which will make it widely accessible to all comers.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_main-image_5afd88cc9e65466cc43a8e8598b24d5a.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_heritage-wall-and-sundial_84f69a0811fe9a37e6a5c209440c2f0d.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_img_3617_f319ad78a7cce2e4f3f465fd64f3d872.png",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/10644/building_10644_img_3618_17b79bcdb05195bf940ae8d1d78640ed.png",
+                        "title": null
+                    }
+                ],
+                "name": "Fleet Street Heritage Wall and Sundial",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/10644"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1019914,
                     51.4871574
                 ],
@@ -1728,7 +1767,7 @@
                 "balloted": "No",
                 "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights scale architectural models of London: the New London Model and the City Model, in additional to a rotating exhibition highlighting key NLA projects.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12022/building_12022_tlc-gallery-image_4a4ec9198eae3721250973552952142d.png",
@@ -2082,7 +2121,7 @@
                 "balloted": "No",
                 "description": "Appleby Blue  is a a contemporary social housing project reimagining the almshouse. Designed by Stirling Prize-winning architects Witherford Watson Mann for United St Saviour's Charity and located in Bermondsey, this innovative development offers 57 almshouses for residents aged 65+, fostering intergenerational connections and promoting community-centric urban living.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/12655/building_12655_vile3497_0487e96b2f0105cb4f12dc47413e28be.jpeg",
@@ -2664,7 +2703,7 @@
                 "balloted": "No",
                 "description": "The Mandrake is a luxury boutique hotel with a spectacular internal hanging garden. A retrofit by architects Manalo & White and interior designer Tala Fustok Studio, every aspect has been thoughtfully designed to offer a truly immersive experience. It is a unique example of how a property can be repurposed in new and surprising ways, respecting but boldly transforming the original building.",
                 "end": "15:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13132/building_13132_manalo-white_mandrake_ts_05_2d68ad2b6d17ed4cef787c8317239851.jpg",
@@ -2765,7 +2804,7 @@
                 "balloted": "No",
                 "description": "Unpack my story of North Kensington’s rich history on this guided walk. My family was one of the first families to move into the Brutalist-style Trellick Tower. From rural roots to industrial hub, class divides to cultural revolution – discover hidden stories, iconic sites, and how migration and activism shaped a vibrant, ever-changing community like no other: my childhood playground.",
                 "end": "12:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13146/building_13146_ladbroke-grove-station_d41230e358c23292cded1756ae32286a.jpg",
