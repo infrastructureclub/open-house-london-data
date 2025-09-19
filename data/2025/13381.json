@@ -19,7 +19,7 @@
             "date": "2025-09-19",
             "drop_in": false,
             "end": "2025-09-19T17:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Medieval Graffiti Tour",
             "notes": "",
             "start": "2025-09-19T16:30:00+01:00",
@@ -62,8 +62,8 @@
         "longitude": -0.09967,
         "meeting_point": null,
         "travel_info": [
-            "Tube: Barbican",
-            "Train: Farringdon"
+            "Tube: Barbican, Farringdon",
+            "Train: Farringdon, City Thameslink"
         ]
     },
     "name": "Bartholomew Fayre: Graffiti Talk & Tour",

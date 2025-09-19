@@ -13,6 +13,21 @@
     },
     "events": [
         {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2025-09-20",
+            "drop_in": true,
+            "end": "2025-09-20T13:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Brewery tour and tasting",
+            "notes": "This brewery 'tour' will be a peek inside our small and compact brewery, with a talk on how alcohol-free beer is made.",
+            "start": "2025-09-20T13:00:00+01:00",
+            "ticketed": false
+        },
+        {
             "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
@@ -24,7 +39,7 @@
             "fully_booked": true,
             "name": "Brewery tour and tasting",
             "notes": "This brewery 'tour' will be a peek inside our small and compact brewery, with a talk on how alcohol-free beer is made.",
-            "start": "2025-09-20T13:30:00+01:00",
+            "start": "2025-09-20T14:00:00+01:00",
             "ticketed": true
         },
         {
@@ -35,7 +50,7 @@
             "capacity": null,
             "date": "2025-09-20",
             "drop_in": false,
-            "end": "2025-09-20T16:00:00+01:00",
+            "end": "2025-09-20T15:30:00+01:00",
             "fully_booked": true,
             "name": "Brewery tour and tasting",
             "notes": "This brewery 'tour' will be a sneek peek inside our small and compact brewery, with a talk on how alcohol-free beer is made.",

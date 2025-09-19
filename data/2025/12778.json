@@ -27,7 +27,7 @@
             "date": "2025-09-18",
             "drop_in": false,
             "end": "2025-09-18T14:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Walking tour",
             "notes": "",
             "start": "2025-09-18T13:00:00+01:00",
@@ -96,7 +96,8 @@
         "longitude": -0.04949,
         "meeting_point": null,
         "travel_info": [
-            "Tube: Canada Water"
+            "Tube: Canada Water",
+            "Additional travel info: Meeting point: At the library exit of Canada Water Underground station, at the north end of the red bridge."
         ]
     },
     "name": "Canada Water Masterplan",
