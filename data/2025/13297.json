@@ -70,7 +70,7 @@
             "date": "2025-09-20",
             "drop_in": false,
             "end": "2025-09-20T10:45:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided tours",
             "notes": "We are running 40-minute tours every 45 minutes. Please arrive 5 minutes early. The maximum number allowed in each tour is 10 people.",
             "start": "2025-09-20T10:00:00+01:00",
@@ -85,7 +85,7 @@
             "date": "2025-09-20",
             "drop_in": false,
             "end": "2025-09-20T11:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided tours",
             "notes": "We are running 40-minute tours every 45 minutes. Please arrive 5 minutes early. The maximum number allowed in each tour is 10 people.",
             "start": "2025-09-20T10:45:00+01:00",
@@ -100,7 +100,7 @@
             "date": "2025-09-20",
             "drop_in": false,
             "end": "2025-09-20T12:15:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided tours",
             "notes": "We are running 40-minute tours every 45 minutes. Please arrive 5 minutes early. The maximum number allowed in each tour is 10 people.",
             "start": "2025-09-20T11:30:00+01:00",
@@ -130,7 +130,7 @@
             "date": "2025-09-20",
             "drop_in": false,
             "end": "2025-09-20T13:45:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided tours",
             "notes": "We are running 40-minute tours every 45 minutes. Please arrive 5 minutes early. The maximum number allowed in each tour is 10 people.",
             "start": "2025-09-20T13:00:00+01:00",
@@ -205,7 +205,7 @@
             "date": "2025-09-20",
             "drop_in": false,
             "end": "2025-09-20T17:30:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "Guided tours",
             "notes": "We are running 40-minute tours every 45 minutes. Please arrive 5 minutes early. The maximum number allowed in each tour is 10 people.",
             "start": "2025-09-20T16:45:00+01:00",
@@ -310,7 +310,7 @@
             "date": "2025-09-21",
             "drop_in": false,
             "end": "2025-09-21T14:30:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided tours",
             "notes": "We are running 40-minute tours every 45 minutes. Please arrive 5 minutes early. The maximum number allowed in each tour is 10 people.",
             "start": "2025-09-21T13:45:00+01:00",
@@ -325,7 +325,7 @@
             "date": "2025-09-21",
             "drop_in": false,
             "end": "2025-09-21T15:15:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided tours",
             "notes": "We are running 40-minute tours every 45 minutes. Please arrive 5 minutes early. The maximum number allowed in each tour is 10 people.",
             "start": "2025-09-21T14:30:00+01:00",
@@ -396,22 +396,46 @@
     "id": 13297,
     "images": [
         {
-            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13297/building_13297_img_0742_12b2954dfaea7c5f0a639044f1dc383e.jpg",
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13297/building_13297_whatsapp-image-2025-09-19-at-23-21-36_2dface5b3def026b30086de95568d6d2.jpeg",
             "description": null,
-            "title": "View of retrofit & extension: lime plaster & UK Brimstone Ash finish over woodfibre/hemp insulations",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_13297_img_0742_12b2954dfaea7c5f0a639044f1dc383e.jpg"
+            "title": "Extension view from mezzanine",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_13297_whatsapp-image-2025-09-19-at-23-21-36_2dface5b3def026b30086de95568d6d2.jpeg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13297/building_13297_img_0723_0ef2223f3d77909d99e5e1cc0a04a7ce.jpg",
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13297/building_13297_img_0497_66f092a056b8f27d65bf0201a6e10705.jpg",
             "description": null,
-            "title": "View from mezzanine. Formed in hemp block, flexible hemp & solid woodfibre, clay plaster finish.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_13297_img_0723_0ef2223f3d77909d99e5e1cc0a04a7ce.jpg"
+            "title": "View from mezzanine, UK grown Ask, clay plaster finish",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_13297_img_0497_66f092a056b8f27d65bf0201a6e10705.jpg"
         },
         {
-            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13297/building_13297_img_0738_ea6dbb56b3c81e1634f65e7919c2d507.jpg",
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13297/building_13297_img_1146_2148acdb7107ce2c8fda7c81673c1cf7.jpeg",
             "description": null,
-            "title": "View of UK grown ash mezzanine and salvaged spiral stair.",
-            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_13297_img_0738_ea6dbb56b3c81e1634f65e7919c2d507.jpg"
+            "title": "Cork insulated and clay finished bathroom",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_13297_img_1146_2148acdb7107ce2c8fda7c81673c1cf7.jpeg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13297/building_13297_img_1137_f78a05d70209a628a29660425f309103.jpeg",
+            "description": null,
+            "title": "Bathroom in whole house retrofit with clay finish",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_13297_img_1137_f78a05d70209a628a29660425f309103.jpeg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13297/building_13297_img_1168_b3278fd8153d76f10e5ed6584420e8d4.jpeg",
+            "description": null,
+            "title": "UK Brimstone ash finish to hemp and woodfibre low-carbon insulated extension",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_13297_img_1168_b3278fd8153d76f10e5ed6584420e8d4.jpeg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13297/building_13297_img_0979_badc3e993999b06bc2856b903d799efc.jpg",
+            "description": null,
+            "title": "Interior view of low-carbon extension with clay finish",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_13297_img_0979_badc3e993999b06bc2856b903d799efc.jpg"
+        },
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2025/13297/building_13297_whatsapp-image-2025-09-19-at-23-21-38_bd95e797cb779c53ef157cd7688b011e.jpeg",
+            "description": null,
+            "title": "First visitors to extension terrace",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_13297_whatsapp-image-2025-09-19-at-23-21-38_bd95e797cb779c53ef157cd7688b011e.jpeg"
         }
     ],
     "links": [
