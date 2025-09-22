@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "balloted_events": true,
+    "balloted_events": false,
     "description": "Join us to find out more about our incredible journey to create a new museum for London. Enter the ballot for a special tour of the Poultry Market (currently in construction).",
     "design": {
         "designers": [
@@ -20,98 +20,7 @@
             "museum"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": true,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8380",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T12:00:00+01:00",
-            "fully_booked": true,
-            "name": "Guided Tours: Poultry Market, 11.00-12.00",
-            "notes": "",
-            "start": "2025-09-20T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": true,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8380",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T13:00:00+01:00",
-            "fully_booked": true,
-            "name": "Guided Tours: Poultry Market, 12.00-13.00",
-            "notes": "",
-            "start": "2025-09-20T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": true,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8380",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T14:00:00+01:00",
-            "fully_booked": true,
-            "name": "Guided Tours: Poultry Market, 13.00-14.00",
-            "notes": "",
-            "start": "2025-09-20T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": true,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8380",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T15:00:00+01:00",
-            "fully_booked": true,
-            "name": "Guided Tours: Poultry Market, 14.00-15.00",
-            "notes": "",
-            "start": "2025-09-20T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": true,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8380",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T16:00:00+01:00",
-            "fully_booked": true,
-            "name": "Guided Tours: Poultry Market, 15.00-16.00",
-            "notes": "",
-            "start": "2025-09-20T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": true,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8380",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T17:00:00+01:00",
-            "fully_booked": true,
-            "name": "Guided Tours: Poultry Market, 16.00-17.00",
-            "notes": "",
-            "start": "2025-09-20T16:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets"
     ],
@@ -182,7 +91,7 @@
     "name": "London Museum, West Smithfield",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/8380",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2021,
         2023,

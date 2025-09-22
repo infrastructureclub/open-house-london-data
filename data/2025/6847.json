@@ -38,23 +38,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/6847",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Walk",
-            "notes": "Our architecture themed walks reveal the rich symbolism of Jewish & Victorian funerary art, led by our passionate, knowledgeable volunteers.",
-            "start": "2025-09-14T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Toilets",
@@ -159,7 +143,7 @@
     "name": "Willesden Jewish Cemetery",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6847",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2022,
         2024,

@@ -17,23 +17,7 @@
             "livery hall"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Deaf-led guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13424",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "BSL deaf led (no spoken word) guided tour",
-            "notes": "Meet at the entrance at 1.50.  If there is a queue please go to the front where you will be met by your guide.",
-            "start": "2025-09-21T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Cloakroom",
@@ -104,7 +88,7 @@
     "name": "British Sign Language (BSL) Tour of Apothecaries' Hall",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13424",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

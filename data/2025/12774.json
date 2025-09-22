@@ -9,38 +9,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12774",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Art and architecture in Thamesmead (morning)",
-            "notes": "",
-            "start": "2025-09-20T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12774",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Art and architecture in Thamesmead (afternoon)",
-            "notes": "",
-            "start": "2025-09-20T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -111,7 +80,7 @@
     "name": "Art and architecture in Thamesmead",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/12774",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2024,
         2025

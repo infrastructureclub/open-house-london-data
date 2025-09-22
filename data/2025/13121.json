@@ -17,68 +17,7 @@
             "residence"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13121",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T11:20:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Guided tour with explanation of history and construction",
-            "start": "2025-09-13T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13121",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Guided tour with explanation of history and construction",
-            "start": "2025-09-13T11:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13121",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T14:20:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Guided tour with explanation of history and construction",
-            "start": "2025-09-13T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13121",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Guided tour with explanation of history and construction",
-            "start": "2025-09-13T14:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Drinking water",
         "Handrails on one side of stairs",
@@ -142,7 +81,7 @@
     "name": "New Fauconberg Cottage",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13121",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

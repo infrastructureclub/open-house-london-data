@@ -17,53 +17,7 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-16",
-            "drop_in": true,
-            "end": "2025-09-16T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Come Together Adult Activities Morning with lunch",
-            "notes": "Enjoy a morning of a guided walk through one  of the wonderful surrounding walking routes , followed by Art Class followed by lunch",
-            "start": "2025-09-16T09:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": true,
-            "end": "2025-09-20T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: The Hale Art Exhibition  -Art works by local artists",
-            "notes": "An exhibit of works of art by local artists for sale and of show",
-            "start": "2025-09-20T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13010",
-            "capacity": null,
-            "date": "2025-09-18",
-            "drop_in": false,
-            "end": "2025-09-18T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Joanna's Water Colour Class",
-            "notes": "Try your hand at water colour painting  techniques,  with one  of our renown artists  Joanna Pilarczyk.",
-            "start": "2025-09-18T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -123,7 +77,7 @@
     "name": "St Francis at The Engine Room",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13010",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

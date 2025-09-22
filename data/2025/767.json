@@ -18,38 +18,7 @@
             "online"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/767",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour of the Town Hall",
-            "notes": "",
-            "start": "2025-09-14T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/767",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour of the Town Hall",
-            "notes": "",
-            "start": "2025-09-21T11:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -118,7 +87,7 @@
     "name": "Islington Town Hall",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/767",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

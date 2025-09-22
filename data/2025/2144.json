@@ -17,38 +17,7 @@
             "residence"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2144",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": "",
-            "start": "2025-09-13T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2144",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": "",
-            "start": "2025-09-14T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Gender neutral toilet",
         "Parking",
@@ -103,7 +72,7 @@
     "name": "The Stanley Picker Trust, Picker House",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2144",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2021,
         2022,

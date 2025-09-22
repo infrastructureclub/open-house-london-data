@@ -17,83 +17,7 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7863",
-            "capacity": null,
-            "date": "2025-09-18",
-            "drop_in": false,
-            "end": "2025-09-18T20:30:00+01:00",
-            "fully_booked": false,
-            "name": "self-guided visit",
-            "notes": "Book your ticket to drop-in and explore the east end of Westminster Abbey.  10 minute talks will take place across the evening.",
-            "start": "2025-09-18T18:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7863",
-            "capacity": null,
-            "date": "2025-09-18",
-            "drop_in": false,
-            "end": "2025-09-18T18:30:00+01:00",
-            "fully_booked": false,
-            "name": "Islip and Nursing Chapel Tour",
-            "notes": "Gain rare access to the Islip and Nurses’ Chapels and enjoy a unique view of the Abbey. After the tour, explore the east end of the Abbey.",
-            "start": "2025-09-18T18:10:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7863",
-            "capacity": null,
-            "date": "2025-09-18",
-            "drop_in": false,
-            "end": "2025-09-18T19:00:00+01:00",
-            "fully_booked": false,
-            "name": "Islip and Nursing Chapel Tour",
-            "notes": "Gain rare access to the Islip and Nurses’ Chapels and enjoy a unique view of the Abbey. After the tour, explore the east end of the Abbey.",
-            "start": "2025-09-18T18:40:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7863",
-            "capacity": null,
-            "date": "2025-09-18",
-            "drop_in": false,
-            "end": "2025-09-18T19:30:00+01:00",
-            "fully_booked": false,
-            "name": "Islip and Nursing Chapel Tour",
-            "notes": "Gain rare access to the Islip and Nurses’ Chapels and enjoy a unique view of the Abbey. After the tour, explore the east end of the Abbey.",
-            "start": "2025-09-18T19:10:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/7863",
-            "capacity": null,
-            "date": "2025-09-18",
-            "drop_in": false,
-            "end": "2025-09-18T20:00:00+01:00",
-            "fully_booked": false,
-            "name": "Islip and Nursing Chapel Tour",
-            "notes": "Gain rare access to the Islip and Nurses’ Chapels and enjoy a unique view of the Abbey. After the tour, explore the east end of the Abbey.",
-            "start": "2025-09-18T19:40:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -162,7 +86,7 @@
     "name": "Westminster Abbey – East End",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/7863",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

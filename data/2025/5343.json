@@ -17,68 +17,7 @@
             "library"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": true,
-            "end": "2025-09-13T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "Drop in to visit the Wiener Holocaust Library and our new exhibition \"Looted: Two Families, Nazi Theft and the Search for Restitution\".",
-            "start": "2025-09-13T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/5343",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Archive Tour",
-            "notes": "Gain an in-depth view of our historic collections and see first-hand how we collect and preserve valuable material for future generations.",
-            "start": "2025-09-13T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/5343",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Archive Tour",
-            "notes": "Gain an in-depth view of our historic collections and see first-hand how we collect and preserve valuable material for future generations.",
-            "start": "2025-09-13T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/5343",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Archive Tour",
-            "notes": "Gain an in-depth view of our historic collections and see first-hand how we collect and preserve valuable material for future generations.",
-            "start": "2025-09-13T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Cloakroom",
@@ -191,7 +130,7 @@
     "name": "Wiener Holocaust Library",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/5343",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2022,
         2023,

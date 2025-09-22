@@ -18,38 +18,7 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": true,
-            "end": "2025-09-14T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Woodland Festival",
-            "notes": "The Woodland Festival is part of a commemoration of 500 years since the dissolution of Lesnes Abbey.",
-            "start": "2025-09-14T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/6981",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T11:30:00+01:00",
-            "fully_booked": false,
-            "name": "Lesnes Abbey Archaeological Tour",
-            "notes": "Archaeologist Tony Thomas will guide you around the abbey ruins, explaining history and archaeological features of this Grade II site.",
-            "start": "2025-09-14T10:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -180,7 +149,7 @@
     "name": "Lesnes Abbey Tour",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/6981",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2023,
         2024,

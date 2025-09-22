@@ -19,83 +19,7 @@
             "scientific"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": true,
-            "end": "2025-09-20T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "All are welcome to visit throughout the day for a self-guided tour around our historic building (last entry 4.30pm)",
-            "start": "2025-09-20T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Family activity",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/4938",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T11:15:00+01:00",
-            "fully_booked": false,
-            "name": "Planet Puzzle Adventure with Dr Lucia Perez-Diaz",
-            "notes": "Join us for a fun-filled journey through our planet’s past, present and future! Ages 7-10",
-            "start": "2025-09-20T10:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Family activity",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/4938",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T12:15:00+01:00",
-            "fully_booked": false,
-            "name": "Time Travellers of Planet Earth w/ Dr Lucia Perez-Diaz",
-            "notes": "Dinosaurs, volcanoes, ice ages and more await in this interactive event for curious 7–10 year olds.",
-            "start": "2025-09-20T11:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Family activity",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/4938",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T14:45:00+01:00",
-            "fully_booked": false,
-            "name": "Planet Puzzle Adventure with Dr Lucia Perez-Diaz",
-            "notes": "Join us for a fun-filled journey through our planet’s past, present and future! Ages 7-10",
-            "start": "2025-09-20T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Family activity",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/4938",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T15:45:00+01:00",
-            "fully_booked": false,
-            "name": "Time Travellers of Planet Earth w/ Dr Lucia Perez-Diaz",
-            "notes": "Dinosaurs, volcanoes, ice ages and more await in this interactive event for curious 7–10 year olds.",
-            "start": "2025-09-20T15:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Family-friendly event",
         "Handrails on one side of stairs"
@@ -194,7 +118,7 @@
     "name": "Burlington House: The Geological Society of London",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/4938",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2023,
         2024,

@@ -17,83 +17,7 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": true,
-            "end": "2025-09-20T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Morning",
-            "notes": "Historic parish church open to all comers. Self-guided tour leaflet and refreshments available.",
-            "start": "2025-09-20T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": true,
-            "end": "2025-09-21T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Afternoon",
-            "notes": "Historic church open to all comers. Self-guided tour leaflet and refreshments available.",
-            "start": "2025-09-21T14:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12444",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T11:00:00+01:00",
-            "fully_booked": false,
-            "name": "Churchyard tour",
-            "notes": "Walking tour of historic parish churchyard. Meet outside church entrance. Sensible shoes advised.",
-            "start": "2025-09-20T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12444",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Churchyard tour",
-            "notes": "Walking tour of historic parish churchyard. Meet outside church entrance. Sensible shoes advised.",
-            "start": "2025-09-21T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12444",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "History and architecture talk / tour of church interior",
-            "notes": "Presentation followed by guided tour led by local historian.",
-            "start": "2025-09-21T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Gender neutral toilet",
@@ -152,7 +76,7 @@
     "name": "St Mary the Virgin Church",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/12444",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2024,
         2025

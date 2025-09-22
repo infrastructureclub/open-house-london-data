@@ -17,53 +17,7 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": true,
-            "end": "2025-09-20T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open day",
-            "notes": "People are invited to look round the church. Our Host Café will be open. serving hot and cold drinks together with light refreshments.",
-            "start": "2025-09-20T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1824",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T11:45:00+01:00",
-            "fully_booked": false,
-            "name": "An introduction to St Mary Aldermary",
-            "notes": "A short introductory talk will be followed by an opportunity to take in St Mary Aldermary's interior, to ask questions or make comments.",
-            "start": "2025-09-13T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1824",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T12:45:00+01:00",
-            "fully_booked": false,
-            "name": "An introduction to St Mary Aldermary",
-            "notes": "A short introductory talk will be followed by an opportunity to take in St Mary Aldermary's interior, to ask questions or make comments.",
-            "start": "2025-09-13T12:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Family-friendly event",
@@ -164,7 +118,7 @@
     "name": "St Mary Aldermary",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1824",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2021,
         2022,

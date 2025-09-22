@@ -17,53 +17,7 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": true,
-            "end": "2025-09-13T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open day",
-            "notes": "",
-            "start": "2025-09-13T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12393",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T12:10:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "",
-            "start": "2025-09-13T11:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12393",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T13:45:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "",
-            "start": "2025-09-13T13:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Baby changing facilities",
         "Drinking water",
@@ -131,7 +85,7 @@
     "name": "The Annunciation Marble Arch",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/12393",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2024,
         2025

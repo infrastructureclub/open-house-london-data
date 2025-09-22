@@ -19,83 +19,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": true,
-            "end": "2025-09-13T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Walworth Living Room",
-            "notes": "Drop in for tea and a chat. Speak to our hosts and community members to find out what the Walworth Living Room is all about.",
-            "start": "2025-09-13T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-18",
-            "drop_in": true,
-            "end": "2025-09-18T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Walworth Living Room",
-            "notes": "Drop in for tea and a chat. Speak to our hosts and community members to find out what the Walworth Living Room is all about.",
-            "start": "2025-09-18T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-19",
-            "drop_in": true,
-            "end": "2025-09-19T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Walworth Living Room",
-            "notes": "Drop in for tea and a chat. Speak to our hosts and community members to find out what the Walworth Living Room is all about.",
-            "start": "2025-09-19T09:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": true,
-            "end": "2025-09-20T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Walworth Living Room",
-            "notes": "Drop in for tea and a chat. Speak to our hosts and community members to find out what the Walworth Living Room is all about.",
-            "start": "2025-09-20T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11322",
-            "capacity": null,
-            "date": "2025-09-19",
-            "drop_in": false,
-            "end": "2025-09-19T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Walworth Living Room - Guided Tour",
-            "notes": "A tour of the Walworth Living Room that gives insights into our journey in attempting to create a public living room for our community.",
-            "start": "2025-09-19T10:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -188,7 +112,7 @@
     "name": "Walworth Living Room Tour",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11322",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2022,
         2024,

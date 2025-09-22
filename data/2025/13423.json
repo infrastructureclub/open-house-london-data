@@ -17,23 +17,7 @@
             "museum"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Deaf-led guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13423",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "BSL deaf led (no spoken word) guided tour",
-            "notes": "",
-            "start": "2025-09-20T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Deaf-led BSL tour",
         "Drinking water",
@@ -97,7 +81,7 @@
     "name": "BSL (British Sign Language) Tour of Dorich House Museum",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13423",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

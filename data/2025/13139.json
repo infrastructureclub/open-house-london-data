@@ -24,23 +24,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13139",
-            "capacity": null,
-            "date": "2025-09-19",
-            "drop_in": false,
-            "end": "2025-09-19T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Bloomsbury: the architecture of knowledge",
-            "notes": "This guided walking tour will take participants on journey through 250 years of knowledge production in Bloomsbury.",
-            "start": "2025-09-19T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -150,7 +134,7 @@
     "name": "Bloomsbury: the architecture of knowledge",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13139",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

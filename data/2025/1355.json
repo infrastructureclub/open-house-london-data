@@ -20,53 +20,7 @@
             "cinema"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1355",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T11:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided building tour with behind the scenes access",
-            "notes": "A 40 minute guided tour consisting if 2 parts: Auditoria and projection",
-            "start": "2025-09-21T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1355",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided building tour with behind the scenes access",
-            "notes": "A 40 minute guided tour consisting if 2 parts: Auditoria and projection",
-            "start": "2025-09-21T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1355",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided building tour with behind the scenes access",
-            "notes": "A 40 minute guided tour consisting if 2 parts: Auditoria and projection",
-            "start": "2025-09-21T12:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Drinking water",
@@ -162,7 +116,7 @@
     "name": "Phoenix Cinema",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1355",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2022,
         2023,

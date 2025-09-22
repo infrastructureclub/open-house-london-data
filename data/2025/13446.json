@@ -9,38 +9,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13446",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T16:45:00+01:00",
-            "fully_booked": false,
-            "name": "Walking Tour",
-            "notes": "",
-            "start": "2025-09-21T16:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13446",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T18:00:00+01:00",
-            "fully_booked": false,
-            "name": "Walking Tour",
-            "notes": "",
-            "start": "2025-09-21T17:15:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets"
     ],
@@ -104,7 +73,7 @@
     "name": "Inclusive placemaking at Queen Elizabeth Olympic Park",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13446",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

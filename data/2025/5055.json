@@ -20,68 +20,7 @@
             "institution/profession"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": true,
-            "end": "2025-09-21T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Self-guided Tour",
-            "notes": "Discover the history and art of our building using printed maps and brochures or by using our new digital Bloomberg Connects App.",
-            "start": "2025-09-21T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": true,
-            "end": "2025-09-21T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Staff-Guided Tours",
-            "notes": "Tours start every 30 minutes and last approximately 45 minutes. Last tour starts at 14:45. Tour capacity of 15 people. Sign-up on the day.",
-            "start": "2025-09-21T11:15:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/5055",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T12:45:00+01:00",
-            "fully_booked": false,
-            "name": "Architecture Tour with Wright and Wright Architects",
-            "notes": "Take a guided tour of the building's architecture, old and new, with Stephen Smith from Wright and Wright Architects.",
-            "start": "2025-09-21T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/5055",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T13:45:00+01:00",
-            "fully_booked": false,
-            "name": "Architecture Tour with Wright and Wright Architects",
-            "notes": "Take a guided tour of the building's architecture, old and new, with Stephen Smith from Wright and Wright Architects.",
-            "start": "2025-09-21T13:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -241,7 +180,7 @@
     "name": "The British Academy",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/5055",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2021,
         2023,

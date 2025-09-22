@@ -17,23 +17,7 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12764",
-            "capacity": null,
-            "date": "2025-09-18",
-            "drop_in": false,
-            "end": "2025-09-18T20:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Walk and Talks",
-            "notes": "A guided tour along the route of the new heritage trail, followed by talks from those behind the project about how it came to be.",
-            "start": "2025-09-18T17:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Drinking water",
         "Family-friendly event",
@@ -116,7 +100,7 @@
     "name": "Night at the Museum",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/12764",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

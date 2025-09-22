@@ -17,98 +17,7 @@
             "housing"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13391",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T11:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open House",
-            "notes": "",
-            "start": "2025-09-21T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13391",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open House",
-            "notes": "",
-            "start": "2025-09-21T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13391",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open House",
-            "notes": "",
-            "start": "2025-09-21T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13391",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open House",
-            "notes": "",
-            "start": "2025-09-21T14:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13391",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open House",
-            "notes": "",
-            "start": "2025-09-21T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13391",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open House",
-            "notes": "",
-            "start": "2025-09-21T16:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Seating available"
     ],
@@ -156,7 +65,7 @@
     "name": "Orleston Mews",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13391",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

@@ -12,23 +12,7 @@
             "public realm/landscape"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13298",
-            "capacity": null,
-            "date": "2025-09-15",
-            "drop_in": false,
-            "end": "2025-09-15T19:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "A designer-led guided tour of Beresford Square and Powis Street in Woolwich.",
-            "start": "2025-09-15T18:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Seating available",
         "Step-free routes"
@@ -96,7 +80,7 @@
     "name": "Designer-led tour of Beresford Square, Woolwich",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13298",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

@@ -17,53 +17,7 @@
             "religious"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": true,
-            "end": "2025-09-20T16:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "St Andrew's is a fine Victorian church designed by Arthur Blomfield. Come and see!",
-            "start": "2025-09-20T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13436",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour of the stained glass by Margaret Chilton",
-            "notes": "This scheme of windows represents the single best\r\ncollection of work anywhere by this important C20 artist.",
-            "start": "2025-09-20T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13436",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour of the stained glass by Margaret Chilton",
-            "notes": "This scheme of windows represents the single best\r\ncollection of work anywhere by this important C20 artist.",
-            "start": "2025-09-20T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Baby changing facilities",
         "Cloakroom",
@@ -115,7 +69,7 @@
     "name": "St Andrew's Church Leytonstone",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13436",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

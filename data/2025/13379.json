@@ -9,23 +9,7 @@
             "garden"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13379",
-            "capacity": null,
-            "date": "2025-09-19",
-            "drop_in": false,
-            "end": "2025-09-19T16:45:00+01:00",
-            "fully_booked": false,
-            "name": "Hello Cloth Fair Walking Tour",
-            "notes": "",
-            "start": "2025-09-19T16:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Family-friendly event",
         "Parking",
@@ -72,7 +56,7 @@
     "name": "Bartholomew Fayre: Hello Cloth Fair",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13379",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

@@ -9,98 +9,7 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": true,
-            "end": "2025-09-14T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Bradbury studios Open Day",
-            "notes": "",
-            "start": "2025-09-14T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "BSL guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13268",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T11:50:00+01:00",
-            "fully_booked": false,
-            "name": "BSL interpreted guided tour",
-            "notes": "",
-            "start": "2025-09-14T11:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "BSL guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13268",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T12:50:00+01:00",
-            "fully_booked": false,
-            "name": "BSL interpreted guided tour",
-            "notes": "",
-            "start": "2025-09-14T12:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "BSL guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13268",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T13:50:00+01:00",
-            "fully_booked": false,
-            "name": "BSL interpreted guided tour",
-            "notes": "",
-            "start": "2025-09-14T13:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "BSL guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13268",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T14:50:00+01:00",
-            "fully_booked": false,
-            "name": "BSL interpreted guided tour",
-            "notes": "",
-            "start": "2025-09-14T14:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "BSL guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13268",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T15:50:00+01:00",
-            "fully_booked": false,
-            "name": "BSL interpreted guided tour",
-            "notes": "",
-            "start": "2025-09-14T15:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Audio guide/description",
@@ -188,7 +97,7 @@
     "name": "Graeae Theatre Company",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13268",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

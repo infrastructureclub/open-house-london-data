@@ -9,38 +9,7 @@
             ""
         ]
     },
-    "events": [
-        {
-            "activity_type": "Family activity",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13394",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Free-Play Workshop",
-            "notes": "",
-            "start": "2025-09-20T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Family activity",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13394",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T14:30:00+01:00",
-            "fully_booked": false,
-            "name": "Free-Play Workshop",
-            "notes": "",
-            "start": "2025-09-20T13:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Family-friendly event",
         "Parking",
@@ -95,7 +64,7 @@
     "name": "Bartholomew Fayre: Free Play with Studio TIP",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13394",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

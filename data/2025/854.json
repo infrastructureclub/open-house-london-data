@@ -20,38 +20,7 @@
             "online"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/854",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "",
-            "start": "2025-09-21T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/854",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "",
-            "start": "2025-09-21T13:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Drinking water",
         "Parking",
@@ -151,7 +120,7 @@
     "name": "Kingswood House",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/854",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2021,
         2022,

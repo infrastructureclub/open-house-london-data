@@ -25,83 +25,7 @@
             "education"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": true,
-            "end": "2025-09-13T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "Printed guides to the building's features and history will be given to each visitor, with volunteers & staff available to answer questions.",
-            "start": "2025-09-13T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-18",
-            "drop_in": true,
-            "end": "2025-09-18T21:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Elective Affinities exhibition opening",
-            "notes": "A display of rare items from the Swedenborg House Collection counterpointed by works from invited artists. RSVP@swedenborg.org.uk",
-            "start": "2025-09-18T18:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-19",
-            "drop_in": true,
-            "end": "2025-09-19T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Elective Affinities exhibition",
-            "notes": "A display of rare items from the Swedenborg House Collection counterpointed by works from invited artists.",
-            "start": "2025-09-19T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/889",
-            "capacity": null,
-            "date": "2025-09-15",
-            "drop_in": false,
-            "end": "2025-09-15T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": "An introduction to and tour of Swedenborg House led by the Swedenborg Society's editor and former librarian James Wilson.",
-            "start": "2025-09-15T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/889",
-            "capacity": null,
-            "date": "2025-09-17",
-            "drop_in": false,
-            "end": "2025-09-17T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "'Swedenborg's London': Guided Walk",
-            "notes": "A walk from Swedenborg House (Bloomsbury) to St Paul’s, highlighting places connected to Swedenborg and Swedenborgians in London.",
-            "start": "2025-09-17T10:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Gender neutral toilet",
@@ -233,7 +157,7 @@
     "name": "The Swedenborg Society",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/889",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2021,
         2022,

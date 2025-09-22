@@ -20,53 +20,7 @@
             "museum"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": true,
-            "end": "2025-09-13T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Drop-in visit to Admiral's House and tours of Grand Square, King William Courtyard and the Jacobean Undercroft bookable on the day.",
-            "start": "2025-09-13T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": true,
-            "end": "2025-09-14T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in",
-            "notes": "Drop-in visit to Admiral's House and tours of Grand Square, King William Courtyard and the Jacobean Undercroft bookable on the day.",
-            "start": "2025-09-14T10:30:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "BSL guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1310",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "BSL-led tour of the Jacobean Undercroft (in BSL only)",
-            "notes": "A tour of the early-1600s Jacobean Undercroft delivered entirely in British Sign Language by one of our very own volunteers.",
-            "start": "2025-09-13T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -187,7 +141,7 @@
     "name": "Old Royal Naval College",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/1310",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2021,
         2022,

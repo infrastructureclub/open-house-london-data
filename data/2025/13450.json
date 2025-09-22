@@ -11,38 +11,7 @@
             "club"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13450",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Soho Jazz Festival World Jazz Photographers Exhibition",
-            "notes": "A striking exhibition celebrating the world’s leading jazz photography, capturing the spirit, passion, and energy of the artists.",
-            "start": "2025-09-13T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13450",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T19:00:00+01:00",
-            "fully_booked": false,
-            "name": "Soho Jazz Festival World Jazz Photographers Exhibition",
-            "notes": "A striking exhibition celebrating the world’s leading jazz photography, capturing the spirit, passion, and energy of the artists.",
-            "start": "2025-09-13T17:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Drinking water",
         "Toilets"
@@ -100,7 +69,7 @@
     "name": "Jack Solomons Jazz Club",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13450",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

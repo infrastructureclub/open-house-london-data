@@ -18,38 +18,7 @@
             "government"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": true,
-            "end": "2025-09-20T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Building tours",
-            "notes": "Building tours through the day, offered on a first come first served basis. These tours require the use of lifts and stairs.",
-            "start": "2025-09-20T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/119",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "NAO- Holding Government to Account",
-            "notes": "Dr Henry Midgley will do a presentation about the NAO, its history and its unique role.",
-            "start": "2025-09-20T15:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -176,7 +145,7 @@
     "name": "National Audit Office",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/119",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2023,
         2024,

@@ -18,53 +18,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": true,
-            "end": "2025-09-21T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Drop in to pick up self guided walking tour from 10am.",
-            "notes": "Self guided walk of the estate available for those whom prefer to complete the tour at their own pace without a crowd in their own time",
-            "start": "2025-09-21T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": true,
-            "end": "2025-09-21T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Drop in talk re social history and residents experience",
-            "notes": "Social history talks and historical information provided throughout the day dependent on interest.   Beverages and home made cake available.",
-            "start": "2025-09-21T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2192",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Architect led walking tour of part of the estate",
-            "notes": "This is an architect led tour provided by a local resident whom is an architect.   Arrive early for homemade cakes and beverages available.",
-            "start": "2025-09-21T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Toilets",
@@ -221,7 +175,7 @@
     "name": "Tower Gardens Garden Suburb",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2192",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2021,
         2022,

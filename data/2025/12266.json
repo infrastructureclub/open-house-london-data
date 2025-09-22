@@ -15,53 +15,7 @@
             "garden"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": true,
-            "end": "2025-09-20T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Farm Day and Pop Up Shop",
-            "notes": "Farm open free of charge for visitors to take a look, and are welcome to visit our pop up shop and speak to our growers manning the stall.",
-            "start": "2025-09-20T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12266",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Farm Tour",
-            "notes": "Come join our Founder and Chief Growing Officer Chloe for a guided tour of our beautiful farm, learning why we're here and how we grow.",
-            "start": "2025-09-20T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12266",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T13:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Farm Tour",
-            "notes": "Come join our Founder and Chief Growing Officer Chloe for a guided tour of our beautiful farm, learning why we're here and how we grow.",
-            "start": "2025-09-20T12:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Toilets",
@@ -142,7 +96,7 @@
     "name": "Sitopia Farm",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/12266",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2023,
         2024,

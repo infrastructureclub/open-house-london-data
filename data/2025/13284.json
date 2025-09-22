@@ -17,38 +17,7 @@
             "infrastructure/engineering"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13284",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Internet Infrastructure of London Walking Tour",
-            "notes": "This tour will walk you through the ubiquitous but often invisible infrastructure that enables connectivity in London.",
-            "start": "2025-09-14T10:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13284",
-            "capacity": null,
-            "date": "2025-09-21",
-            "drop_in": false,
-            "end": "2025-09-21T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Internet Infrastructure of London Walking Tour",
-            "notes": "This tour will walk you through the ubiquitous but often invisible infrastructure that enables connectivity in London.",
-            "start": "2025-09-21T10:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Drinking water"
     ],
@@ -104,7 +73,7 @@
     "name": "Internet infrastructure of London walking tour",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13284",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

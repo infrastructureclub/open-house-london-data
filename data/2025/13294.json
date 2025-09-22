@@ -17,38 +17,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13294",
-            "capacity": null,
-            "date": "2025-09-16",
-            "drop_in": false,
-            "end": "2025-09-16T13:30:00+01:00",
-            "fully_booked": false,
-            "name": "Walking tour",
-            "notes": "",
-            "start": "2025-09-16T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13294",
-            "capacity": null,
-            "date": "2025-09-16",
-            "drop_in": false,
-            "end": "2025-09-16T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Walking tour",
-            "notes": "",
-            "start": "2025-09-16T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -158,7 +127,7 @@
     "name": "Hale Wharf",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13294",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

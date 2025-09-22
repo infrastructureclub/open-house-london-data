@@ -1,6 +1,6 @@
 {
     "all_week": false,
-    "balloted_events": true,
+    "balloted_events": false,
     "description": "Join bestselling author, guide and Open City Golden Key Academy alumnus, Jack Chesher, for an intimate walking tour exploring Aldwych to Bank",
     "design": {
         "designers": [
@@ -17,23 +17,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": true,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13343",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T19:30:00+01:00",
-            "fully_booked": true,
-            "name": "Temple to Bank tour with Jack Chesher, 2 September",
-            "notes": "This is a pre-festival taster experience on Tuesday 2 September",
-            "start": "2025-09-13T17:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -101,7 +85,7 @@
     "name": "Temple to Bank tour with Jack Chesher",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13343",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

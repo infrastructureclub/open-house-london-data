@@ -17,83 +17,7 @@
             "mixed use"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-18",
-            "drop_in": true,
-            "end": "2025-09-18T18:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Thursday open day",
-            "notes": "All are welcome at our regular Thursday open afternoons. Come along, meet our guide or enjoy our self-guided audio tour.",
-            "start": "2025-09-18T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-19",
-            "drop_in": true,
-            "end": "2025-09-19T18:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Friday open day",
-            "notes": "All are welcome at our regular Friday open afternoons. Come along, meet our guide or enjoy our self-guided audio tour.",
-            "start": "2025-09-19T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13153",
-            "capacity": null,
-            "date": "2025-09-16",
-            "drop_in": false,
-            "end": "2025-09-16T21:00:00+01:00",
-            "fully_booked": false,
-            "name": "Talk and Q&A with Richard Griffiths Architects",
-            "notes": "A representative of Richard Griffiths Architects, which renovated the Meeting House in the 2010s thanks to NLHF support, will speak.",
-            "start": "2025-09-16T19:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13153",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Join our tour guide for a special tour of the Meeting House, and learn about its fascinating history.",
-            "start": "2025-09-20T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13153",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Join our tour guide for a special tour of the Meeting House, and learn about its fascinating history.",
-            "start": "2025-09-20T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Audio guide/description",
@@ -157,7 +81,7 @@
     "name": "Newington Green Unitarian Meeting House",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13153",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

@@ -17,38 +17,7 @@
             "mixed use"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13062",
-            "capacity": null,
-            "date": "2025-09-19",
-            "drop_in": false,
-            "end": "2025-09-19T11:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour of The Parcels Building",
-            "notes": "Tour of The Parcels Building including Fora's workspace on floors 4 and 5 and the roof terrace.",
-            "start": "2025-09-19T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13062",
-            "capacity": null,
-            "date": "2025-09-19",
-            "drop_in": false,
-            "end": "2025-09-19T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour of The Parcels Building",
-            "notes": "Tour of The Parcels Building including Fora's workspace on floors 4 and 5 and the roof terrace.",
-            "start": "2025-09-19T13:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Drinking water",
@@ -123,7 +92,7 @@
     "name": "The Parcels Building",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13062",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

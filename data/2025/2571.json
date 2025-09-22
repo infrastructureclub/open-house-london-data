@@ -29,38 +29,7 @@
             "walk/tour"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2571",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Walking Tour",
-            "notes": "",
-            "start": "2025-09-13T10:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Walking tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2571",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided Walking Tour",
-            "notes": "",
-            "start": "2025-09-14T10:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Parking",
         "Toilets"
@@ -118,7 +87,7 @@
     "name": "Brentham Garden Suburb",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2571",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2021,
         2022,

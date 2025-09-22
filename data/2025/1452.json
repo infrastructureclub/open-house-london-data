@@ -17,53 +17,7 @@
             "education"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1452",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T11:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Walk and talk. Welcome visitors with a small talk on the building and institution, and a tour from the rooftop to the ground floor.",
-            "start": "2025-09-20T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1452",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T13:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Walk and talk. Welcome to visitors with a small talk on the building and institution, and tour from the rooftop to the ground floor.",
-            "start": "2025-09-20T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/1452",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T15:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Walk and talk. Welcome to visitors with a small talk on the building and institution, and tour from the rooftop to the ground floor.",
-            "start": "2025-09-20T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -138,7 +92,7 @@
     "name": "Ravensbourne University London",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/1452",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

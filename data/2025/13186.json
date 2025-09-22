@@ -11,38 +11,7 @@
             "industrial"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13186",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T12:30:00+01:00",
-            "fully_booked": false,
-            "name": "Tour of Bottle Factory and local makers",
-            "notes": "A free walking tour of the history, makers and creatives of the Bottle Factory and local makers in and around the Old Kent Road.",
-            "start": "2025-09-13T11:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13186",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T14:30:00+01:00",
-            "fully_booked": false,
-            "name": "Tour of Bottle Factory and local makers",
-            "notes": "A free walking tour of the history, makers and creatives of the Bottle Factory and local makers in and around the Old Kent Road.",
-            "start": "2025-09-13T13:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Drinking water",
@@ -125,7 +94,7 @@
     "name": "Bottle Factory and makers on the Old Kent Road tours",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13186",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

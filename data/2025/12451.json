@@ -15,38 +15,7 @@
             ""
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-19",
-            "drop_in": true,
-            "end": "2025-09-19T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Sarabande Open House",
-            "notes": "Please drop in throughout the day to explore the interiors of this beautifully restored Georgian building",
-            "start": "2025-09-19T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/12451",
-            "capacity": null,
-            "date": "2025-09-19",
-            "drop_in": false,
-            "end": "2025-09-19T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Studio guided tour",
-            "notes": "Join us for a guided tour of the building, with an introduction to the studios of the 16 artists in residence",
-            "start": "2025-09-19T13:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Drinking water",
         "Family-friendly event",
@@ -137,7 +106,7 @@
     "name": "Sarabande Foundation",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/12451",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2024,
         2025

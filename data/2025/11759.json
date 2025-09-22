@@ -17,53 +17,7 @@
             "institution/profession"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": true,
-            "end": "2025-09-20T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Access to the building and exhibition archives",
-            "notes": "Drop in for people to visit the Nave and the exhibition archive in the Hall.",
-            "start": "2025-09-20T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11759",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T14:00:00+01:00",
-            "fully_booked": false,
-            "name": "Talk",
-            "notes": "St Paul’s the School – about the school itself and Steiner education; and St Paul’s the Building.",
-            "start": "2025-09-20T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11759",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Tour",
-            "notes": "Tour of the classrooms/building by a member of staff.",
-            "start": "2025-09-20T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Accessible toilet",
         "Baby changing facilities",
@@ -121,7 +75,7 @@
     "name": "St Paul's Waldorf School",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11759",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2024,
         2025

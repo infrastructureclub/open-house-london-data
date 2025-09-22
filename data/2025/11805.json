@@ -9,53 +9,7 @@
             "community/cultural"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": true,
-            "end": "2025-09-13T16:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open Day",
-            "notes": "Drop in Open Day at The Thorney Island Archives",
-            "start": "2025-09-13T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11805",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T11:50:00+01:00",
-            "fully_booked": false,
-            "name": "Talk: 'Thorney Island' - London's Lost Island",
-            "notes": "Drop in Open Day at The Archives with talks at 11:30am and 2:30pm",
-            "start": "2025-09-13T11:30:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Talk",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/11805",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T14:50:00+01:00",
-            "fully_booked": false,
-            "name": "Talk: 'Thorney Island' - London's Lost Island",
-            "notes": "Drop in Open Day at The Archives with talks at 11:30am and 2:30pm",
-            "start": "2025-09-13T14:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Drinking water",
         "Quieter area",
@@ -114,7 +68,7 @@
     "name": "Talks at The Thorney Island Society Archives",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/11805",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2023,
         2024,

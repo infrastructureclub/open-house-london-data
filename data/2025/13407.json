@@ -15,38 +15,7 @@
             "residence"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13407",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T12:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open Morning - Terzetto",
-            "notes": "Ticketed open house due to limited size of apartment Reserve your ticket and meet the architect and see the details that make the project",
-            "start": "2025-09-13T10:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13407",
-            "capacity": null,
-            "date": "2025-09-13",
-            "drop_in": false,
-            "end": "2025-09-13T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Open Morning - Terzetto",
-            "notes": "Ticketed open house due to limited size of apartment Reserve your ticket and meet the architect and see the details that make the project",
-            "start": "2025-09-13T11:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [],
     "factsheet": [
         {
@@ -122,7 +91,7 @@
     "name": "Don’t Move, Improve! – Terzetto",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13407",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025
     ]

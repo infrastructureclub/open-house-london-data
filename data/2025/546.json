@@ -18,83 +18,7 @@
             "theatre"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": true,
-            "end": "2025-09-14T13:15:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Open morning",
-            "notes": "Drop in and have a look around the Stalls and Dress Circle of Hackney Empire.",
-            "start": "2025-09-14T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/546",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T11:15:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Come and explore Hackney Empire on this 1 hour guided tour around the building and outside.",
-            "start": "2025-09-14T10:15:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/546",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T12:15:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Come and explore Hackney Empire on this 1 hour guided tour around the building and outside.",
-            "start": "2025-09-14T11:15:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/546",
-            "capacity": null,
-            "date": "2025-09-14",
-            "drop_in": false,
-            "end": "2025-09-14T13:15:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Come and explore Hackney Empire on this 1 hour guided tour around the building and outside.",
-            "start": "2025-09-14T12:15:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/546",
-            "capacity": null,
-            "date": "2025-09-16",
-            "drop_in": false,
-            "end": "2025-09-16T19:30:00+01:00",
-            "fully_booked": false,
-            "name": "Guided tour",
-            "notes": "Come and explore Hackney Empire on this 1 hour guided tour around the building and outside.",
-            "start": "2025-09-16T18:30:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -216,7 +140,7 @@
     "name": "Hackney Empire",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/546",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2022,
         2023,

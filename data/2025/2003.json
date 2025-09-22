@@ -20,53 +20,7 @@
             "institution/profession"
         ]
     },
-    "events": [
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": true,
-            "end": "2025-09-20T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Table Top Museums",
-            "notes": "",
-            "start": "2025-09-20T11:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2003",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Tour of the Art Workers' Guild",
-            "notes": "",
-            "start": "2025-09-20T12:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Guided tour",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/2003",
-            "capacity": null,
-            "date": "2025-09-20",
-            "drop_in": false,
-            "end": "2025-09-20T15:00:00+01:00",
-            "fully_booked": false,
-            "name": "Tour of the Art Workers' Guild",
-            "notes": "",
-            "start": "2025-09-20T14:00:00+01:00",
-            "ticketed": true
-        }
-    ],
+    "events": [],
     "facilities": [
         "Toilets",
         "Accessible toilet",
@@ -181,7 +135,7 @@
     "name": "Table Top Museums at The Art Workers’ Guild",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2003",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2021,
         2022,
