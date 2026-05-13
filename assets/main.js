@@ -276,7 +276,7 @@
     /* Ensure CSS has been loaded */
     await windowReady;
 
-    mapboxgl.accessToken = 'pk.eyJ1IjoibXM3ODIxIiwiYSI6ImNrdGFlMTMwMzA5dnYycG15MzhjeXgwa3MifQ.hD7yHtV4jWmf5tige7c2kg';
+    mapboxgl.accessToken = 'pk.eyJ1IjoibXM3ODIxIiwiYSI6ImNtcDNiaWppazAzYWEyc3Nkbjk4cXl1ZHcifQ.Cb_JaQqrgFeNH3UC8OWPWQ';
 
     console.log(`Creating map`);
     const map = new mapboxgl.Map({
