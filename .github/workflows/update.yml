@@ -23,7 +23,7 @@ jobs:
           YEAR: 2026
           #OH_SESSION_COOKIE: ${{ secrets.OH_SESSION_COOKIE }}
           WG_CONFIG_FILE: ${{ secrets.WG_CONFIG_FILE }}
-          #PROXY: socks5h://127.0.0.1:25344/
+          PROXY: socks5h://127.0.0.1:25344/
         run: |
           pip install -r requirements.txt
 
