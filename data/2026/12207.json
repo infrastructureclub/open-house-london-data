@@ -1,0 +1,105 @@
+{
+    "all_week": false,
+    "balloted_events": false,
+    "description": "Modern public library extended and reimagined 2023-2025, re-opened 2025 with improved library facilities, makerspace, business lounge, community space, Bromley Historic Collections displays, garden and café. London Borough of  Bromley Regeneration Team project, architects Brimelow McSweeney, library operators GLL.",
+    "design": {
+        "designers": [
+            {
+                "architect": "Brimelow McSweeney",
+                "description": null,
+                "year": "2025"
+            }
+        ],
+        "periods": [
+            "Contemporary"
+        ],
+        "types": [
+            "library"
+        ]
+    },
+    "events": [
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2026-09-19",
+            "drop_in": true,
+            "end": "2026-09-19T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Meet Bromley Historic Collections drop in",
+            "notes": "The BHC team will showcase examples of items from across the collection with an opportunity learn how the service can help with research.",
+            "start": "2026-09-19T09:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12207",
+            "capacity": null,
+            "date": "2026-09-19",
+            "drop_in": false,
+            "end": "2026-09-19T15:30:00+01:00",
+            "fully_booked": false,
+            "name": "Reminiscence-Style Session",
+            "notes": "With help from objects from our Handling Collection, we encourage you to share your memories of being in and around Bromley.",
+            "start": "2026-09-19T14:30:00+01:00",
+            "ticketed": true
+        }
+    ],
+    "facilities": [
+        "Toilets",
+        "Accessible toilet",
+        "Baby changing facilities",
+        "Family-friendly event",
+        "Gender neutral toilet",
+        "Quieter area",
+        "Seating available",
+        "Step-free routes"
+    ],
+    "factsheet": [
+        {
+            "heading": "History",
+            "paragraphs": [
+                "Come and explore this newly imagined and extended public library over 4 floors. Taking inspiration from the local woodland environment, the library includes accents of oak leaves in the design, and the murals in the children's library take the visitor on an exploration into imagination. Built on the site of the original library at Glebe Way, the new building provides more space for library books and services, enlarged children's library, together with more meeting space, the innovative makerspace and cafe.\nBromley Historic Collections team will be running drop in sessions throughout the day \"Meet the BHC Team\" and find out more about our local area and what is available in our archives. There will be a reminiscence-style session in the afternoon where the BHC team will invite visitors to share memories about local buildings and places."
+            ]
+        }
+    ],
+    "first_published": "2026-07-29T15:05:45.909863",
+    "id": 12207,
+    "images": [
+        {
+            "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12207/building_12207_20260618_103018_aea71e680ee03fda271f36bb81cd93ae.jpg",
+            "description": null,
+            "title": "West Wickham Library, Glebe Way 2026",
+            "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_12207_20260618_103018_aea71e680ee03fda271f36bb81cd93ae.jpg"
+        }
+    ],
+    "links": [
+        {
+            "href": "https://www.better.org.uk/library/london/bromley/west-wickham-library",
+            "title": "www.better.org.uk/library/london/bromley/west-wickham-library"
+        }
+    ],
+    "location": {
+        "address": "Glebe Way, West Wickham, BR4 0SH",
+        "latitude": 51.37585,
+        "longitude": -0.01397,
+        "meeting_point": null,
+        "travel_info": [
+            "Train: West Wickham",
+            "Bus: 119, 194, 352"
+        ]
+    },
+    "name": "West Wickham Library",
+    "new_venue_this_year": false,
+    "original_url": "https://programme.openhouse.org.uk/listings/12207",
+    "ticketed_events": true,
+    "venue_years_listed": [
+        2023,
+        2024,
+        2026
+    ]
+}
