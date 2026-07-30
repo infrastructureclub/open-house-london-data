@@ -468,8 +468,8 @@ for building in buildings:
                     previously_fully_booked = False
                     break
 
-        if bookable_count > 0 and previously_fully_booked:
-            venues_now_bookable.append(data["id"])
+            if bookable_count > 0 and previously_fully_booked:
+                venues_now_bookable.append(data["id"])
 
     # Detect a venue adding new days for the summary
     if existing_data:
