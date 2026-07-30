@@ -92,11 +92,11 @@ for building in buildings:
                 proxy=proxy,
             )
             if response.content == b"Retry later\n" or response.status_code == 503:
-                sleep_until = datetime.now() + timedelta(minutes=10)
+                sleep_until = datetime.now() + timedelta(minutes=1)
                 print(
                     f"!! Hit rate limiting, having a little sleep until {sleep_until}"
                 )
-                time.sleep(10 * 60)
+                time.sleep(1 * 60)
             else:
                 break
 

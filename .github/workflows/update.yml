@@ -22,8 +22,8 @@ jobs:
         env:
           YEAR: 2026
           #OH_SESSION_COOKIE: ${{ secrets.OH_SESSION_COOKIE }}
-          WG_CONFIG_FILE: ${{ secrets.WG_CONFIG_FILE }}
-          PROXY: socks5h://127.0.0.1:25344/
+          WG_CONFIG_ZIP: ${{ secrets.WG_CONFIG_ZIP }}
+          PROXY: socks5h://127.0.0.1:1080/
         run: |
           pip install -r requirements.txt
 
@@ -32,11 +32,14 @@ jobs:
           rm csv/$YEAR/* || true
           rm -rf maps/$YEAR/* || true
 
-          # Spin up wireproxy
-          wget https://github.com/whyvl/wireproxy/releases/download/v1.0.9/wireproxy_linux_amd64.tar.gz
-          tar -zxf wireproxy_linux_amd64.tar.gz
-          echo "$WG_CONFIG_FILE" >> wireguard.conf
-          ./wireproxy -c wireproxy.conf &
+          # Spin up wirevolver
+          wget https://github.com/Jonty/wirevolver/releases/download/v1/wirevolver-linux-amd64 -O wirevolver
+          chmod +x wirevolver
+          echo "$WG_CONFIG_ZIP" | base64 --decode > configs.zip
+          ls -lah configs.zip
+          file configs.zip
+          unzip configs.zip
+          ./wirevolver --config-dir configs --rotate-every 100 --rotate-idle 30s &
 
           python -u scrape-openhouse.py
           python -u generate-csv-summary.py
@@ -77,7 +80,7 @@ jobs:
           # || true means this won't error when there's nothing to commit
           git commit -m "Automatic OH London data update" || true
 
-          # Kill wireproxy
+          # Kill wirevolver
           kill %1
 
       - name: Push changes
