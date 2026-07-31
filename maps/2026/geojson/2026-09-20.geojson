@@ -680,6 +680,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0115774,
+                    51.5855139
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A row of thirteen dwellings plus a hall used as a committee room and offices, constructed as one block on two floors. The building is divided by a jettied cross range. Grade II listed.",
+                "end": "14:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1119/building_1119_sir-george-monoux-almshouses-july-2016-2_a5f966061695d6ce15b6c081028b65ea.jpg",
+                        "title": ""
+                    }
+                ],
+                "name": "Monoux Almshouses",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/1119"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.02386,
                     51.50747
                 ],
