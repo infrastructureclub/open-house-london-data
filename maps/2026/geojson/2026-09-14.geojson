@@ -1416,6 +1416,41 @@
                 "url": "https://programme.openhouse.org.uk/listings/13863"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.00162,
+                    51.44235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Visit the Grade II listed Corbett Community Library building. This beautifully preserved Edwardian building is rich in architectural character and heritage, featuring stunning stained glass windows, an impressive dome, ornate door handles, and a historic brass plaque. Discover the history and craftsmanship of this remarkable community landmark during your visit.",
+                "end": "17:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13888/building_13888_blue-skies_9ef2c0d6329548fb242ca70bef159eeb.jpg",
+                        "title": "The library building, photographed by Rachel Braithwaite,"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13888/building_13888_dome_10e45a4bb4d6ac4f1593d194c410746d.jpg",
+                        "title": "Glass dome, photographed by Rachel Braithwaite"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13888/building_13888_event-day-2025_fba3f21ff59184552d302152259a92f6.jpg",
+                        "title": "Outside of the building in full by Rachel Braithwaite"
+                    }
+                ],
+                "name": "Corbett Community Library",
+                "new_venue_this_year": "Yes",
+                "start": "09:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13888"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"

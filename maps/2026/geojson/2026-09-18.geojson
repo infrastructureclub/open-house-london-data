@@ -144,6 +144,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0899439,
+                    51.5127333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Wren's own and 'finest City Church'.  Fantastic architecture with different shapes,  twelve Corinthian columns and covered by huge dome - first of its type. Central stone altar by Henry Moore installed in 1987. Birthplace of the Samaritans.",
+                "end": "13:15:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1867/building_1867_2025-ssw-front-of-church_64612bef62557174bf79155ce255ebfe.jpg",
+                        "title": "St Stephen Walbrook"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1867/building_1867_st-stephen-walbrook_exaggerated-dome-image_cd692b6c704c45f287a291508ded4060.jpg",
+                        "title": "St Stephen Walbrook"
+                    }
+                ],
+                "name": "The City Churches: St Stephen Walbrook",
+                "new_venue_this_year": "No",
+                "start": "12:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/1867"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.45721,
                     51.5651
                 ],
@@ -965,6 +996,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0417,
+                    51.59408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Built in the 1950s, this site was originally the head offices for a large consortium of industrial spaces which produced dyes and food colourings. It is now a creative workspace with 26 studios for creative businesses and an event space.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11358/building_11358_switchboard-studios_elevation-night-2_jan-kattein-architects-ltd_lowres_4438b1e58cb3a3ef4ba5e46847f2c23d.jpg",
+                        "title": "View at night of entrance and neon signage"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11358/building_11358_colour-lab-25_colour-of-saying_2_f105e01d086b10483a2e005a00e98e9f.jpg",
+                        "title": "Colour Lab by Colour of Saying. Image Colour of Saying"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11358/building_11358_cwl_ldf-banner_1920x1080px_4-v1_e20ecda1240f9618de3ed8794bceec56.jpg",
+                        "title": "Photography by Laura Perryman, Colour of Saying, Design by Chroma Waste Lab"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11358/building_11358_ethical-colour-ldf-091_a9f220ccee8b952ca11c32e70d869a2d.jpg",
+                        "title": "Previous exhibition, Ethical Colour by Colour of Saying, LDF 2024"
+                    }
+                ],
+                "name": "Switchboard Studios",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11358"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0813472,
                     51.517312
                 ],
@@ -1532,7 +1602,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "A walking tour of the City, visiting key areas associated with famous writers, from Shakespeare, Dr Johnson, Oscar Wilde, and many others.",
-                "end": "19:00:00",
+                "end": "15:30:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -1542,7 +1612,7 @@
                 ],
                 "name": "The Literary City",
                 "new_venue_this_year": "No",
-                "start": "18:00:00",
+                "start": "14:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13039"
             },

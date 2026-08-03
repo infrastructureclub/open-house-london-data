@@ -234,6 +234,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0899439,
+                    51.5127333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Wren's own and 'finest City Church'.  Fantastic architecture with different shapes,  twelve Corinthian columns and covered by huge dome - first of its type. Central stone altar by Henry Moore installed in 1987. Birthplace of the Samaritans.",
+                "end": "19:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1867/building_1867_2025-ssw-front-of-church_64612bef62557174bf79155ce255ebfe.jpg",
+                        "title": "St Stephen Walbrook"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1867/building_1867_st-stephen-walbrook_exaggerated-dome-image_cd692b6c704c45f287a291508ded4060.jpg",
+                        "title": "St Stephen Walbrook"
+                    }
+                ],
+                "name": "The City Churches: St Stephen Walbrook",
+                "new_venue_this_year": "No",
+                "start": "17:45:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/1867"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.13911,
                     51.50853
                 ],
@@ -896,6 +927,45 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10952"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0417,
+                    51.59408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Built in the 1950s, this site was originally the head offices for a large consortium of industrial spaces which produced dyes and food colourings. It is now a creative workspace with 26 studios for creative businesses and an event space.",
+                "end": "21:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11358/building_11358_switchboard-studios_elevation-night-2_jan-kattein-architects-ltd_lowres_4438b1e58cb3a3ef4ba5e46847f2c23d.jpg",
+                        "title": "View at night of entrance and neon signage"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11358/building_11358_colour-lab-25_colour-of-saying_2_f105e01d086b10483a2e005a00e98e9f.jpg",
+                        "title": "Colour Lab by Colour of Saying. Image Colour of Saying"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11358/building_11358_cwl_ldf-banner_1920x1080px_4-v1_e20ecda1240f9618de3ed8794bceec56.jpg",
+                        "title": "Photography by Laura Perryman, Colour of Saying, Design by Chroma Waste Lab"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11358/building_11358_ethical-colour-ldf-091_a9f220ccee8b952ca11c32e70d869a2d.jpg",
+                        "title": "Previous exhibition, Ethical Colour by Colour of Saying, LDF 2024"
+                    }
+                ],
+                "name": "Switchboard Studios",
+                "new_venue_this_year": "No",
+                "start": "18:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/11358"
             },
             "type": "Feature"
         },
@@ -2174,6 +2244,76 @@
                 "start": "18:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13883"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.00162,
+                    51.44235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Visit the Grade II listed Corbett Community Library building. This beautifully preserved Edwardian building is rich in architectural character and heritage, featuring stunning stained glass windows, an impressive dome, ornate door handles, and a historic brass plaque. Discover the history and craftsmanship of this remarkable community landmark during your visit.",
+                "end": "17:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13888/building_13888_blue-skies_9ef2c0d6329548fb242ca70bef159eeb.jpg",
+                        "title": "The library building, photographed by Rachel Braithwaite,"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13888/building_13888_dome_10e45a4bb4d6ac4f1593d194c410746d.jpg",
+                        "title": "Glass dome, photographed by Rachel Braithwaite"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13888/building_13888_event-day-2025_fba3f21ff59184552d302152259a92f6.jpg",
+                        "title": "Outside of the building in full by Rachel Braithwaite"
+                    }
+                ],
+                "name": "Corbett Community Library",
+                "new_venue_this_year": "Yes",
+                "start": "09:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13888"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.14556,
+                    51.48659
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "There's a Story in All of Us is ETAT's annual exhibition celebrating the creativity, voices and lived experiences of people at our charity. Discover artworks inspired by memory, identity and storytelling, plus the premiere of our silent film, a comedy about a grand art heist set in Pimlico. See how we use our community hall to foster creativity, connection and belonging. Thursday 17 Sept, 12–8pm",
+                "end": "20:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13893/building_13893_everyday-at-etat_f202aefcfd23db85208ead6b31fcfeba.png",
+                        "title": "Everyday at ETAT"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13893/building_13893_screenshot-2026-07-20-at-16-14-30_fb1c7e59ba3deb033b9e44c583de7ab0.jpeg",
+                        "title": "ETAT silent film"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13893/building_13893_screenshot-2026-07-29-at-16-42-24_862066c93d9f4ff28984264516089b85.jpeg",
+                        "title": "Google Images"
+                    }
+                ],
+                "name": "ETAT Annual Art Exhibition, Thamesbank Community Centre",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13893"
             },
             "type": "Feature"
         }
