@@ -516,22 +516,23 @@ print(f"* Removing venues that no longer exist: {venues_to_remove}")
 for venue in venues_to_remove:
     os.remove(f"data/{year}/{venue}.json")
 
-os.makedirs(f"scrape_summaries/{year}", exist_ok=True)
-with open(f"scrape_summaries/{year}/{scrape_start:%Y-%m-%d_%H%M}.json", "w") as f:
-    venues_added = set(scraped_venues) - set(existing_venues)
-    scrape_summary = {
-        "removed_venues": list(venues_to_remove),
-        "added_venues": list(venues_added),
-        "venues_added_days": venues_added_days,
-        "venues_now_bookable": venues_now_bookable,
-    }
-
-    f.write(
-        json.dumps(
-            scrape_summary,
-            indent=4,
-            sort_keys=True,
-            separators=(",", ": "),
-            ensure_ascii=False,
+# Output summary
+venues_added = set(scraped_venues) - set(existing_venues)
+scrape_summary = {
+    "removed_venues": list(venues_to_remove),
+    "added_venues": list(venues_added),
+    "venues_added_days": venues_added_days,
+    "venues_now_bookable": venues_now_bookable,
+}
+if any(scrape_summary.values()):
+    os.makedirs(f"scrape_summaries/{year}", exist_ok=True)
+    with open(f"scrape_summaries/{year}/{scrape_start:%Y-%m-%d_%H%M}.json", "w") as f:
+        f.write(
+            json.dumps(
+                scrape_summary,
+                indent=4,
+                sort_keys=True,
+                separators=(",", ": "),
+                ensure_ascii=False,
+            )
         )
-    )
