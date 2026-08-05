@@ -39,6 +39,21 @@
             "notes": "Curator-led guided historical tours every half an hour from 1pm onwards until last tour at 4pm. No need to book.",
             "start": "2026-09-13T13:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "BSL guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/2728",
+            "capacity": null,
+            "date": "2026-09-13",
+            "drop_in": false,
+            "end": "2026-09-13T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "BSL deaf led (no spoken word) guided tour",
+            "notes": "Tickets: BSL users only. Non-BSL companions are welcome to explore the building separately. info: access@open-city.org.uk",
+            "start": "2026-09-13T14:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -145,7 +160,7 @@
     "name": "Bruce Castle Museum",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/2728",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2021,
         2022,

@@ -10524,6 +10524,37 @@
                 "url": "https://programme.openhouse.org.uk/listings/13888"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.02129,
+                    51.44616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Lewisham Heritage is responsible for the collection, preservation and making available the history and heritage for Lewisham Council and its communities.\r\nWhile Lewisham Library is being refurbished our Heritage Reading Room is located at Catford Library.\r\n\r\nThere will be a display of archive material in Meeting Room 2 and hourly tours of the Heritage Reading Room.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13902/building_13902_millenium-33-5-6a_e46bda9188ba282ee73e6f2c67f735ac.jpg",
+                        "title": "K White, Millennium Portrait of Lewisham, 33/5/6A © Lewisham Heritage, Lewisham Council"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13902/building_13902_20251101_151504_ac864d715b3cdf26a3cfd03830d11e97.jpg",
+                        "title": "Lewisham Heritage Reading Room, Catford Library © Lewisham Heritage, Lewisham Council"
+                    }
+                ],
+                "name": "Lewisham Heritage at Catford Library",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13902"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"

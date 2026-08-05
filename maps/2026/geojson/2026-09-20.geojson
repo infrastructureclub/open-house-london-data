@@ -3788,6 +3788,10 @@
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/9204/building_9204_dscn4786_9b5062ae153aaffebd8ad74b3566df12.JPG",
                         "title": "Hither Green and Sydenham civilian memorial, Ladywell Cemetery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/9204/building_9204_jane-clouson-memorial_a5466cf60455a86086d7d5b048a68eb3.jpg",
+                        "title": "Memorial to murdered housemaid Jane Clouson in Brockley Cemetery"
                     }
                 ],
                 "name": "Guided tour of Ladywell and Brockley Cemeteries including the Non-conformist chapel",
@@ -5493,6 +5497,10 @@
                 "fully_booked": "",
                 "images": [
                     {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12942/building_12942_480939890_10162374494463895_7757850246010855325_n_8466de9574632fbeae70a3e6ca95479a.jpg",
+                        "title": "Charmaine Mcnally"
+                    },
+                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12942/building_12942_whatsapp-image-2024-08-26-at-17-51-54_355b6bd2_967a276dab57e76525cfd0dcbc62a855.jpg",
                         "title": "building 2000 Charmaine Mcnally"
                     },
@@ -5502,10 +5510,6 @@
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12942/building_12942_481701236_10162374494273895_4648325877400939444_n_7b397b8ec6a788bb5eff4ddb39ca49ac.jpg",
-                        "title": "Charmaine Mcnally"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12942/building_12942_480939890_10162374494463895_7757850246010855325_n_8466de9574632fbeae70a3e6ca95479a.jpg",
                         "title": "Charmaine Mcnally"
                     }
                 ],
@@ -5758,8 +5762,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.12805,
-                    51.63226
+                    -0.12778,
+                    51.63231
                 ],
                 "type": "Point"
             },
@@ -7131,6 +7135,37 @@
                 "start": "10:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13876"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.03132,
+                    51.47699
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Now in its seventeenth year, Sedici consists of artists from many countries who are now based across England. Working across eclectic mediums and subject matter, this diverse body of artists share an independent and contemporary purpose highlighting the ongoing strength of Art being made today. \r\n\r\nThe gallery itself is a reimagined, mid-century school gymnasium with original details",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13882/building_13882_7b5be741-7cbd-4433-8521-748127410d27_ba4b11ea9ae4d498604ebf9828271cd9.jpg",
+                        "title": "Luke Merryweather"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13882/building_13882_img_5282_d1d2f44629535eb3af96789461d5412e.jpg",
+                        "title": "Luke Merryweather"
+                    }
+                ],
+                "name": "The Annual Sedici Post Grad Group Exhibition",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13882"
             },
             "type": "Feature"
         },
