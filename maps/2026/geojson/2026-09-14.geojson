@@ -1385,6 +1385,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.10635,
+                    51.56999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A walking workshop exploring the intersections of nature and urban space along Parkland Walk, a former railway transformed into London's longest local nature reserve. Through sensory and reflective exercises, participants will investigate ecological succession, green infrastructure, and the ways human and more-than-human worlds shape, reclaim, and coexist within the city.",
+                "end": "14:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13859/building_13859_parkland-walk-2_18b485b803022034dfa28cba64a272c5.jpg",
+                        "title": "Parkland Walk Website"
+                    }
+                ],
+                "name": "Parkland Walk",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13859"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.12643,
                     51.50084
                 ],
@@ -1449,6 +1476,33 @@
                 "start": "09:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13888"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0755,
+                    51.51447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A guided walk around the fascinating and often overlooked area of Aldgate in the City of London.",
+                "end": "19:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13912/building_13912_onecityldn-7504505_0b5f8d37a0fc1d280482206de50b7c84.jpg",
+                        "title": "City of London, One City"
+                    }
+                ],
+                "name": "Aldgate walking tour",
+                "new_venue_this_year": "Yes",
+                "start": "18:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13912"
             },
             "type": "Feature"
         }

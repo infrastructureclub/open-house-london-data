@@ -1962,6 +1962,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.09937,
+                    51.37216
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Drink in the hidden histories of Croydon’s historic pubs with Pub Historian Charo Havermans. This Open House, we’re letting you into the secrets and fascinating stories of some of Croydon’s most iconic and historic Public Houses. Join Pub Historian and tour guide Charo Havermans as she takes you to four historic pubs in the heart of Croydon.",
+                "end": "22:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13788/building_13788_public-historian-logo-vector-4_15db1305e00241665750bc1334765806.png",
+                        "title": "Public Historian"
+                    }
+                ],
+                "name": "Open (Public) House! Historic Pub Tour in Croydon",
+                "new_venue_this_year": "Yes",
+                "start": "19:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13788"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.09641,
                     51.57096
                 ],
@@ -2155,6 +2182,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13868"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0755,
+                    51.51447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A guided walk around the fascinating and often overlooked area of Aldgate in the City of London.",
+                "end": "19:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13912/building_13912_onecityldn-7504505_0b5f8d37a0fc1d280482206de50b7c84.jpg",
+                        "title": "City of London, One City"
+                    }
+                ],
+                "name": "Aldgate walking tour",
+                "new_venue_this_year": "Yes",
+                "start": "18:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13912"
             },
             "type": "Feature"
         }

@@ -1556,6 +1556,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.09937,
+                    51.37216
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Drink in the hidden histories of Croydon’s historic pubs with Pub Historian Charo Havermans. This Open House, we’re letting you into the secrets and fascinating stories of some of Croydon’s most iconic and historic Public Houses. Join Pub Historian and tour guide Charo Havermans as she takes you to four historic pubs in the heart of Croydon.",
+                "end": "22:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13788/building_13788_public-historian-logo-vector-4_15db1305e00241665750bc1334765806.png",
+                        "title": "Public Historian"
+                    }
+                ],
+                "name": "Open (Public) House! Historic Pub Tour in Croydon",
+                "new_venue_this_year": "Yes",
+                "start": "19:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13788"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.13283,
                     51.52584
                 ],
@@ -1858,6 +1885,41 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13880"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13004,
+                    51.51628
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Hear about the history of Soho on a walk around some of the sites associated with colourful characters yesteryear. From Soho's beginnings as a fashionable suburb in the seventeenth century up to the 1950s, I regale you with delicious snippets of history. We end the tour with the option of refreshments at the birthplace of British Rock n Roll.",
+                "end": "13:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13881/building_13881_charles-ii-with-malibu-copy_7d037345d561c8f2e72037555805db20.jpg",
+                        "title": "Christina Maw"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13881/building_13881_london-birthplace-of-espresso-cafe-culture_79af76ea7ce009d987b21cf46e6f78ee.jpg",
+                        "title": "Susan Springall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13881/building_13881_40s-couple_b200da3fc0d764a7adee48738e976607.jpg",
+                        "title": "Susan Springall"
+                    }
+                ],
+                "name": "Refugees, Radicals and Revellers in Soho",
+                "new_venue_this_year": "Yes",
+                "start": "11:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13881"
             },
             "type": "Feature"
         },
