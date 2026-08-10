@@ -3054,6 +3054,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.01599,
+                    51.45567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The church was rebuilt in late 15th century with some of that still remaining to this day.\t\t\t\t\t\t\t\r\nDuring the festival there will be opportunity to self-guide or join a group tour which will include access to restricted areas such as the crypt and tower. These last about 30 min and will start on each hour with the last starting at 3 pm",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/5160/building_5160_st-mary-the-virgin_08b2a4ec02b39a4d98875cf5f20a47a7.jpg",
+                        "title": "St Mary the Virgin"
+                    }
+                ],
+                "name": "Parish Church of St Mary The Virgin Lewisham",
+                "new_venue_this_year": "Yes",
+                "start": "11:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/5160"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.17965,
                     51.55892
                 ],
@@ -3093,7 +3120,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "The sustainable headquarters of the Mayor of London and London Assembly located in the Royal Docks, Newham. The docks are re-emerging as a commercial and cultural hub, and an exciting new waterfront.",
-                "end": "16:00:00",
+                "end": "15:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -3576,6 +3603,65 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/7444"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.264048,
+                    51.5096193
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A three-storey Victorian house was split into flats in the 1970s.  The current owners have turned it back into single family home, with a large open-plan ground floor, professional kitche and Mediterranean garden, revealing long-hidden Victorian features in the process.\r\nLast year the loft was converted into an airy master bedroom and en suite with views of both sunrise and sunset.",
+                "end": "19:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7479/building_7479_2vieenrose_abadb7a4d68d978db127548a42ec3b84.jpg",
+                        "title": "Ground floor main space"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7479/building_7479_img_3757_091453b060d0ed9f66984d34ff7394e9.jpg",
+                        "title": "Side entrance"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7479/building_7479_6vienrose_e09a91c9f5ae26d6df489cb0c32106ce.jpg",
+                        "title": "Teaching kitchen"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7479/building_7479_img_3760-1_70d6612ee0ef5cf1349f7bcc0a50c355.jpg",
+                        "title": "Frontage"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7479/building_7479_35fb91b1-6c0e-4711-9f93-69fa7a002207_153e4b8716d730a9b84d6e9f7270a72c.jpg",
+                        "title": "Attic en suite"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7479/building_7479_img_1828_d1ba58ee6521d77a76047e6abc4a949c.jpg",
+                        "title": "Master bedroom detail"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7479/building_7479_55f85f8f-ff1a-45f0-80f4-663a1b9e4e17_c295976563fc98661a51d942891b1ce7.jpg",
+                        "title": "En suite"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7479/building_7479_img_3525_08b5c5a1d5f1fa950d91270355189e31.jpg",
+                        "title": "The back garden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7479/building_7479_img_8507_cffa819be20ac1fd29e7fbc76e7ff544.jpg",
+                        "title": "Sunset from the bedroom"
+                    }
+                ],
+                "name": "31 Milton Road",
+                "new_venue_this_year": "No",
+                "start": "16:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/7479"
             },
             "type": "Feature"
         },

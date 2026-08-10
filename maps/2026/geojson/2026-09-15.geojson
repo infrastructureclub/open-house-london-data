@@ -225,6 +225,77 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.12465,
+                    51.51769
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "St George's Bloomsbury is one of the twelve new churches designed and paid for under the 1711 Act of Parliament for building fifty new Churches, and the sixth and final London Church designed by Hawksmoor.",
+                "end": "14:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2856/building_2856_004_44117bcb11ab44b8b07c8a4fab03a652.jpg",
+                        "title": "The unique steeple with George I,  lion, and unicorn."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2856/building_2856_church-scene_f09303546c75acf522a67a6ad872e978.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2856/building_2856_sgb-logo_a87b7c2bb6608253bedd8b9764978980.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2856/building_2856_tower-north_9fd30fbeb89abbf99ffc506f127fc9c2.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2856/building_2856_reredos_842d6d9ab2884d4e4218e4083b122446.jpg",
+                        "title": null
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2856/building_2856_img_1640_ec27319f8aff87a5dc4e9ec416dccc15.jpg",
+                        "title": "EC"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2856/building_2856_img_1643_60335fe0ab9f19cc2d53b05e3f66192e.jpg",
+                        "title": "EC"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2856/building_2856_img_1633_4a52a779a9a0619a3f1a2d62ddc6a276.jpg",
+                        "title": "EC"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2856/building_2856_img_1647_be5042684e011256004c791c1c46cdfb.jpg",
+                        "title": "EC"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2856/building_2856_img_1636_fa53220bb6229178e597b42f0553a295.jpg",
+                        "title": "EC"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2856/building_2856_img_1634-1_1a6acf60fc07da433c0b225ede1d4882.jpg",
+                        "title": "EC"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2856/building_2856_img_8952_9fb326652367182c7466db590edc1087.jpg",
+                        "title": "EC"
+                    }
+                ],
+                "name": "St George's Bloomsbury",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2856"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.2656707,
                     51.4914109
                 ],
@@ -392,6 +463,33 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/3678"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.01599,
+                    51.45567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The church was rebuilt in late 15th century with some of that still remaining to this day.\t\t\t\t\t\t\t\r\nDuring the festival there will be opportunity to self-guide or join a group tour which will include access to restricted areas such as the crypt and tower. These last about 30 min and will start on each hour with the last starting at 3 pm",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/5160/building_5160_st-mary-the-virgin_08b2a4ec02b39a4d98875cf5f20a47a7.jpg",
+                        "title": "St Mary the Virgin"
+                    }
+                ],
+                "name": "Parish Church of St Mary The Virgin Lewisham",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/5160"
             },
             "type": "Feature"
         },
