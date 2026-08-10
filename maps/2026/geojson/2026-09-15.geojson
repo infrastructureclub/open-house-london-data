@@ -167,6 +167,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.05974,
+                    51.51024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Splendid Baroque exterior. Interior destroyed in the Blitz and rebuilt to new design by Martin Bailey in 1963.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2500/building_2500_img_1236_ba3fc7daada7e02eab74dece706a848a.jpeg",
+                        "title": null
+                    }
+                ],
+                "name": "St George in the East",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2500"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.17138,
                     51.47864
                 ],
@@ -760,6 +787,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.15707,
+                    51.43028
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A Gothic revival church of cathedral proportions completed in 1906 by Temple Moore with Italian baroque features from Bologna and Florence. Excellent acoustic design has enabled recordings from London Chamber Choir, Paul McCartney's tribute to Linda, Pavarotti, Placido Domingo, and many more!",
+                "end": "12:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12429/building_12429_asc_03dc4301b5be64138b55d3f3702a5fc8.jpeg",
+                        "title": "All Saints Church, Tooting"
+                    }
+                ],
+                "name": "All Saints Church, Tooting",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12429"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.12107,
                     51.60712
                 ],
@@ -1309,6 +1363,37 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13676"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.06428,
+                    51.56992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Originally, built in 1773 as the Stamford Hill Chapel, St Thomas' are \"Citizens with the Saints\". The Heritage Lottery Fund, local artists, and academics are working with the church to engage and preserve how we work together as 'commoners' and 'caretakers for the 'common good'. Explore this in the Exhibition - On Common Ground - and become part of St Thomas' Future for the Common Good.",
+                "end": "18:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13683/building_13683_img_2407_hg-copy_e58c59a423e43772bdda28330b27f138.jpg",
+                        "title": "Millette, H.G. (2026) St Thomas' Textiles."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13683/building_13683_screenshot-2026-07-02-at-12-06-01_be5c5b7367e3cc81eb8f0b7a21a11cd5.png",
+                        "title": "Watson, M. [as Diz_qo] (2026) Garden Room Graphic."
+                    }
+                ],
+                "name": "St Thomas with St Matthew, Clapton Common",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13683"
             },
             "type": "Feature"
         },

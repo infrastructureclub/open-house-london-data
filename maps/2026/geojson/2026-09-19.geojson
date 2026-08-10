@@ -979,6 +979,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.30702,
+                    51.51093
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Designed by Sir John Soane as a family home and country residence. Following a three-year conservation project,  Pitzhanger has been returned to Soane’s innovative original design and re-opened to the public in March 2019.",
+                "end": "16:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1369/building_1369_thumbnail_img_3284-1_fea4ac539e3fbbd40a0e9fce1ac2706e.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1369/building_1369_phm-04-003_fcad303705a22c3881ce10cb2b5633b6.jpg",
+                        "title": "Pitzhanger Manor & Gallery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1369/building_1369_13_vestibule_up_angled_pitzhanger16july21383_81cd1e4f84321ef3e40d8d8277c6d24f.jpg",
+                        "title": "Vestibule ceiling"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1369/building_1369_drawingrmwide_pitzhangera21323_4be2b6f044c9f46e3373587fb9605537.jpg",
+                        "title": "Upper Drawing Room"
+                    }
+                ],
+                "name": "Pitzhanger Manor & Gallery",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/1369"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.09159,
                     51.51551
                 ],
@@ -6744,6 +6783,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.15707,
+                    51.43028
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A Gothic revival church of cathedral proportions completed in 1906 by Temple Moore with Italian baroque features from Bologna and Florence. Excellent acoustic design has enabled recordings from London Chamber Choir, Paul McCartney's tribute to Linda, Pavarotti, Placido Domingo, and many more!",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12429/building_12429_asc_03dc4301b5be64138b55d3f3702a5fc8.jpeg",
+                        "title": "All Saints Church, Tooting"
+                    }
+                ],
+                "name": "All Saints Church, Tooting",
+                "new_venue_this_year": "No",
+                "start": "13:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12429"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.03435,
                     51.53216
                 ],
@@ -7588,6 +7654,33 @@
                 "start": "09:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12774"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.08305,
+                    51.51079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Take a guided tour of a beautiful example of a Wren church with unique features",
+                "end": "18:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12807/building_12807_20210427_112350_5c79c24b42cb651ce878be9eb99da4ca.jpg",
+                        "title": "St Margaret Pattens from the South door"
+                    }
+                ],
+                "name": "St Margaret Pattens Guild Church",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/12807"
             },
             "type": "Feature"
         },
@@ -10399,33 +10492,6 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13748"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.02641,
-                    51.50562
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Set within the construction site of One North Quay, Canary Wharf, join us for a performance and installation presented by artist Niamh Hannaford using materials donated from the Canary Wharf construction site. This is an opportunity to gain exclusive access to a monumental building currently under construction, which will eventually house companies on the cutting edge of science and innovation.",
-                "end": "15:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13750/building_13750_artwork-image_551d04ad452cd319dc32ab4f19b44124.jpeg",
-                        "title": "Artist: Niamh Hannaford"
-                    }
-                ],
-                "name": "Artist Niamh Hannaford at One North Quay Canary Wharf",
-                "new_venue_this_year": "Yes",
-                "start": "11:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/13750"
             },
             "type": "Feature"
         },

@@ -1151,6 +1151,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.15707,
+                    51.43028
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A Gothic revival church of cathedral proportions completed in 1906 by Temple Moore with Italian baroque features from Bologna and Florence. Excellent acoustic design has enabled recordings from London Chamber Choir, Paul McCartney's tribute to Linda, Pavarotti, Placido Domingo, and many more!",
+                "end": "12:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12429/building_12429_asc_03dc4301b5be64138b55d3f3702a5fc8.jpeg",
+                        "title": "All Saints Church, Tooting"
+                    }
+                ],
+                "name": "All Saints Church, Tooting",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12429"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.18773,
                     51.45501
                 ],

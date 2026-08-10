@@ -176,6 +176,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.19014,
+                    51.58208
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Delightful brick and tile building inspired by the famous 1688 Meeting House at Jordans in Buckinghamshire. A simple building in a tranquil setting, reflecting the Quakers' beliefs.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/442/building_442_1000039787_6b7dc0c2efe21cff8128899dd312b5f3.jpg",
+                        "title": "Amy"
+                    }
+                ],
+                "name": "Golders Green Quaker Meeting House",
+                "new_venue_this_year": "No",
+                "start": "14:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/442"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.35449,
                     51.41117
                 ],
@@ -3302,6 +3329,53 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/7273"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.06991,
+                    51.55507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "This renovation reworks a 20th-century London townhouse with a perforated plywood stair and extensive timber interventions that introduce light, structure, and continuity. Texts engraved into the stair and screen record the collaborative design dialogue. A cantilevered balcony connects the kitchen and garden with minimal structure and visual weight.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7381/building_7381_tarotsuruta29lr_ba8c97352fdefa63c2d32956d4866551.jpg",
+                        "title": "Tim Crocker_2"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7381/building_7381_1_tarotsuruta9lr_6556cff84a34cd62a5d733823768ba4f.jpg",
+                        "title": "Tim Crocker_1"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7381/building_7381_2_tarotsuruta1lr_7a7f2a01b6b355204e1dc84e7c0c9673.jpg",
+                        "title": "Tim Crocker_3"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7381/building_7381_9_tarotsuruta11lr_6dfc2ad4a993c1eea0e82deb4956cd7a.jpg",
+                        "title": "Tim Crocker_4"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7381/building_7381_11_tarotsuruta6lr_a519f14dc0350aa98ca38fda0281a1af.jpg",
+                        "title": "Tim Croker_5"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7381/building_7381_19_tarotsuruta27lr_7f8d36dbe266682a52b49d2ed2a8d7d0.jpg",
+                        "title": "Tim Crocker_6"
+                    }
+                ],
+                "name": "Marie's Wardrobe",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/7381"
             },
             "type": "Feature"
         },

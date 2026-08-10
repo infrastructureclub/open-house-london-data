@@ -81,6 +81,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.30702,
+                    51.51093
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Designed by Sir John Soane as a family home and country residence. Following a three-year conservation project,  Pitzhanger has been returned to Soane’s innovative original design and re-opened to the public in March 2019.",
+                "end": "16:45:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1369/building_1369_thumbnail_img_3284-1_fea4ac539e3fbbd40a0e9fce1ac2706e.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1369/building_1369_phm-04-003_fcad303705a22c3881ce10cb2b5633b6.jpg",
+                        "title": "Pitzhanger Manor & Gallery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1369/building_1369_13_vestibule_up_angled_pitzhanger16july21383_81cd1e4f84321ef3e40d8d8277c6d24f.jpg",
+                        "title": "Vestibule ceiling"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1369/building_1369_drawingrmwide_pitzhangera21323_4be2b6f044c9f46e3373587fb9605537.jpg",
+                        "title": "Upper Drawing Room"
+                    }
+                ],
+                "name": "Pitzhanger Manor & Gallery",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/1369"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.13911,
                     51.50853
                 ],
@@ -173,6 +212,33 @@
                 "start": "12:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/2479"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.05974,
+                    51.51024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Splendid Baroque exterior. Interior destroyed in the Blitz and rebuilt to new design by Martin Bailey in 1963.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2500/building_2500_img_1236_ba3fc7daada7e02eab74dece706a848a.jpeg",
+                        "title": null
+                    }
+                ],
+                "name": "St George in the East",
+                "new_venue_this_year": "No",
+                "start": "15:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2500"
             },
             "type": "Feature"
         },
