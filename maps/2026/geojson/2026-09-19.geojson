@@ -621,7 +621,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Lloyd’s may be the global market for specialist insurance and reinsurance, but it is also a London icon. Over the last three centuries, Lloyd’s has called home to just eight buildings – the most recent of which can be found on Lime Street, in the heart of the City. Designed by renowned British architect Lord Richard Rogers and opened by Her Majesty The Queen in 1986, the Lloyd’s building is a radical addition to the skyline, and a pioneering example of high-tech architecture.",
-                "end": "16:00:00",
+                "end": "16:45:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -893,8 +893,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.10457,
-                    51.52298
+                    -0.10458,
+                    51.52299
                 ],
                 "type": "Point"
             },
@@ -1018,8 +1018,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.30702,
-                    51.51093
+                    -0.30835,
+                    51.51129
                 ],
                 "type": "Point"
             },
@@ -1096,8 +1096,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.00584,
-                    51.50191
+                    0.0054,
+                    51.50162
                 ],
                 "type": "Point"
             },
@@ -1357,6 +1357,41 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/1642"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.07836,
+                    51.52038
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A rare opportunity to explore the Georgian headquarters of the Society for the Protection of Ancient Buildings (SPAB), the UK’s oldest building conservation charity, not normally open to the public.",
+                "end": "16:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1650/building_1650_spabhq-86-reduced-size_ad289419b50feb7e582082836f430dc4.jpg",
+                        "title": "37 Spital Square "
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1650/building_1650_spab-01-circ-stairs_9d6bfd2deb2952afdbca7db17b440fc5.jpg",
+                        "title": ""
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1650/building_1650_spab-back-v3_05c54d24469035b0d4b60748e513e200.jpg",
+                        "title": ""
+                    }
+                ],
+                "name": "Society for the Protection of Ancient Buildings (SPAB)",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/1650"
             },
             "type": "Feature"
         },
@@ -2129,8 +2164,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.08199,
-                    51.65278
+                    -0.08285,
+                    51.65298
                 ],
                 "type": "Point"
             },
@@ -2634,8 +2669,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.3260394,
-                    51.4791863
+                    -0.32588,
+                    51.47912
                 ],
                 "type": "Point"
             },
@@ -2647,23 +2682,23 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2688/building_2688_open-house-2_8096f5f63c1f18000bf57d73e29a94a2.jpeg",
-                        "title": "The view of the meeting house from the south graveyard.\r\n\r\nCredit: Catherine Thompkins."
+                        "title": "Quaker Meeting House ( from the south graveyard.)\r\n\r\nCredit: Catherine Thompkins."
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2688/building_2688_b-i-meeting-house-doorway-2_83d336ba06ecbafd2d0fee759384b12b.jpg",
-                        "title": "Door date inscription, showing the early Quaker calendar system.\r\n\r\nCredit: unknown."
+                        "title": "Quaker Meeting House - Brentford & Islewo date inscription, showing the early Quaker calendar system"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2688/building_2688_eco-loo-and-garden-room-28-july_0742dc5153ef1e7878103fec537b37c5.jpg",
-                        "title": "Our summer-house style Garden Room, a recent addition alongside allotments.\r\n\r\nCredit: unknown."
+                        "title": "QUAKER MEETING HOUSE (Our summer-house style Garden Room.)"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2688/building_2688_open-house-4_bd0058650df8efbf106c3a12d3679a33.jpeg",
-                        "title": "The meeting room, set up for Meeting for Worship.\r\n\r\nCredit: Catherine Thompkins"
+                        "title": "QUAKER MEETING HOUSE ( meeting room, set up for Meeting for Worship.)\r\n\r\nCredit: Catherine Thompkins"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2688/building_2688_open-house-3_9f17515424905c4820a12538d502f7a0.jpeg",
-                        "title": "Meeting House & allotments.\r\n\r\nCredit: Catherine Thompkins"
+                        "title": "QUAKER MEETING HOUSE ( House & allotments.)\r\n\r\nCredit: Catherine Thompkins"
                     }
                 ],
                 "name": "Quaker Meeting House - Brentford & Isleworth",
@@ -4006,8 +4041,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0536863,
-                    51.5283145
+                    -0.05393,
+                    51.52869
                 ],
                 "type": "Point"
             },
@@ -4533,8 +4568,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1285292,
-                    51.5144001
+                    -0.1286,
+                    51.51464
                 ],
                 "type": "Point"
             },
@@ -5141,8 +5176,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.21653,
-                    51.56693
+                    -0.21581,
+                    51.56881
                 ],
                 "type": "Point"
             },
@@ -5622,8 +5657,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1132266,
-                    51.5673623
+                    -0.11313,
+                    51.56738
                 ],
                 "type": "Point"
             },
@@ -5794,8 +5829,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1099428,
-                    51.528361
+                    -0.10861,
+                    51.52895
                 ],
                 "type": "Point"
             },
@@ -6110,7 +6145,7 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.13095,
+                    -0.13092,
                     51.53106
                 ],
                 "type": "Point"
@@ -7920,8 +7955,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.08556,
-                    51.4755
+                    -0.08501,
+                    51.47498
                 ],
                 "type": "Point"
             },
