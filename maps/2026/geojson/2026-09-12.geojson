@@ -3,8 +3,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1261448,
-                    51.516203
+                    -0.12596,
+                    51.51601
                 ],
                 "type": "Point"
             },
@@ -1186,8 +1186,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1582174,
-                    51.4878309
+                    -0.1603,
+                    51.48658
                 ],
                 "type": "Point"
             },
@@ -1677,23 +1677,23 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2050/building_2050_wp_20180923_15_30_00_pro_e6668c28c648c997e636b64d0113c3a8.jpg",
-                        "title": "Visitors in the Barn "
+                        "title": "The Great Barn, Harmondsworth (Visitors in the Barn )"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2050/building_2050_dp170255_d8506c61fe59198af30a6c96388049e0.jpg",
-                        "title": "New hand-made tiles on the roof in 2015"
+                        "title": "The Great Barn, Harmondsworth (New hand-made tiles on the roof in 2015)"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2050/building_2050_dp170257_7d08225e04b0effa88848f954dccb108.jpg",
-                        "title": "The unaltered interior of the Barn"
+                        "title": "The Great Barn, Harmondsworth (The unaltered interior of the Barn)"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2050/building_2050_img_0529_c0841e7af1022f965717b1382883a101.jpg",
-                        "title": "The newly-repaired Barn from St Mary's church tower, Jan 2015"
+                        "title": "The Great Barn, Harmondsworth (The newly-repaired Barn from St Mary's church tower, Jan 2015)"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2050/building_2050_img-20241010_bf17aa553803907173d6c0121ea31b32.jpg",
-                        "title": "The repairs are now hardly visible"
+                        "title": "The Great Barn, Harmondsworth (The repairs are now hardly visible)"
                     }
                 ],
                 "name": "The Great Barn, Harmondsworth",
@@ -2145,6 +2145,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.06696,
+                    51.41915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Fine Victorian church with large mosaic and painted reredos, screen and wall paintings and some unusual glass. Arts and crafts decoration by Nathaniel Westlake and Salviati Bros.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2469/building_2469_soc3_da49e066cae22be126dc025e49b26fef.jpg",
+                        "title": "Rood Screen and Chancel - Church of the Annunciation"
+                    }
+                ],
+                "name": "Church of the Annunciation",
+                "new_venue_this_year": "No",
+                "start": "09:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/2469"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.08199,
                     51.65278
                 ],
@@ -2205,6 +2232,45 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/2490"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1088368,
+                    51.4982463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A stunning cathedral in the heart of London. Discover the story of a forgotten masterpiece. Designed by Augustus Pugin and opened in 1848, the original cathedral was hailed as England's foremost Catholic church before an incendiary bomb devastated the building in 1941. Explore the history, architecture and legacy that shaped the Cathedral you see today—and discover its remarkable story.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_0187_4febec197ee63a29b7807ca5e339120a.jpg",
+                        "title": "Entrance to St George's Cathedral, Southwark. © Marie Laurent 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_main-window_11f4f975224831ec2e5fa997e412aafb.jpg",
+                        "title": "The East Window designed by Harry Clarke Studios, Dublin. © Mansoor Iessa 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_0061_32417627487755744b2ec347dbcdf6b8.jpg",
+                        "title": "Processional banner depicting St George.  © Marie Laurent 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_9677_47352922219bd3a7561a8304ca4d81fd.jpg",
+                        "title": "St George's Cathedral. © Marie Laurent"
+                    }
+                ],
+                "name": "St George's Cathedral",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2502"
             },
             "type": "Feature"
         },
@@ -3433,8 +3499,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.05796,
-                    51.48299
+                    -0.05877,
+                    51.48147
                 ],
                 "type": "Point"
             },
@@ -4335,8 +4401,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.2141958,
-                    51.45162699999999
+                    -0.21459,
+                    51.4516
                 ],
                 "type": "Point"
             },
@@ -4777,8 +4843,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.09755699999999999,
-                    51.5148819
+                    -0.09755,
+                    51.51488
                 ],
                 "type": "Point"
             },
@@ -4812,8 +4878,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.19681,
-                    51.46974
+                    -0.19722,
+                    51.46995
                 ],
                 "type": "Point"
             },
@@ -5011,8 +5077,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.07868,
-                    51.39722
+                    -0.07738,
+                    51.39709
                 ],
                 "type": "Point"
             },
@@ -5118,27 +5184,27 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10300/building_10300_priory_gardens_2021_14ba5ea4c5a00d40214c04c13f002453.jpg",
-                        "title": "View from Priory Gardens"
+                        "title": "The Victorian Society (View from Priory Gardens)"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10300/building_10300_a606ebb8-65a7-4998-918f-1d261be75f05_29a514d8a7c44bb88d9be34f306e29bd.jpeg",
-                        "title": "Priory Gardens"
+                        "title": "The Victorian Society (Priory Gardens)"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10300/building_10300_4fe796b0-0ace-4a0f-8ae0-43e812a10eca_037d5660fe8441e49f966ed67e7a8637.jpeg",
-                        "title": "Garden aspect"
+                        "title": "The Victorian Society (Garden aspect)"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10300/building_10300_bccb7ee3-9176-4d62-8a8b-21f80945a9b7_f9028b6686e5afb7f992711631996bba.jpeg",
-                        "title": "Committee Room"
+                        "title": "The Victorian Society (Committee Room)"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10300/building_10300_41734f72-aade-4339-ab2a-ed7ef1c80084_6836026ad527214738c9026aa1600360.jpeg",
-                        "title": "View from Bath Road"
+                        "title": "The Victorian Society (View from Bath Road)"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10300/building_10300_3a5a21b7-38b1-47b9-90f8-f60f9ac29a1a_ffb903c8b84720167eced079c56f794f.jpeg",
-                        "title": "Gate"
+                        "title": "The Victorian Society (Gate)"
                     }
                 ],
                 "name": "The Victorian Society",
@@ -5502,7 +5568,7 @@
             "geometry": {
                 "coordinates": [
                     -0.14534,
-                    51.5373399
+                    51.53733
                 ],
                 "type": "Point"
             },
@@ -5888,8 +5954,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.08723,
-                    51.4148
+                    0.08728,
+                    51.41486
                 ],
                 "type": "Point"
             },
@@ -6055,8 +6121,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.12174,
-                    51.53991
+                    -0.12166,
+                    51.53985
                 ],
                 "type": "Point"
             },
@@ -6247,12 +6313,12 @@
                 "fully_booked": "No",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11824/building_11824_722-p-isleworth-house-2003_c31a6b66e2e16f5b8577f432e5fc372d.jpg",
-                        "title": "Isleworth House"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11824/building_11824_1380-p-isleworth-police-station-old_cd6f6b7a09e3f43a437e9a5c4b5fe2ed.jpg",
+                        "title": "Hidden Isleworth - a walking tour with varied building"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11824/building_11824_1380-p-isleworth-police-station-old_cd6f6b7a09e3f43a437e9a5c4b5fe2ed.jpg",
-                        "title": "Old Police station"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11824/building_11824_722-p-isleworth-house-2003_c31a6b66e2e16f5b8577f432e5fc372d.jpg",
+                        "title": "Isleworth House"
                     }
                 ],
                 "name": "Hidden Isleworth - a walking tour with varied buildings",
@@ -7361,8 +7427,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.29117,
-                    51.48527
+                    -0.29498,
+                    51.48381
                 ],
                 "type": "Point"
             },
@@ -7417,7 +7483,7 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12753/building_12753_img_3154_c97a39d0b3da82165d1c5ba56eab96be.jpeg",
-                        "title": "Television Centre"
+                        "title": "Television Centre -‘Strictly Entertainment’- Shepherd’s Bush 1915-2013"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12753/building_12753_img_3192_29726d5a20cf1f4f20406dd825a537cf.jpeg",
@@ -7522,7 +7588,7 @@
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12806/building_12806_studio-duke-s-head-yard-1940-by-tayler-green-for-cartoonist-roger-pettiward_78eb27b65c9cc7aabd816e2d574cb9f0.jpg",
-                        "title": "Studio, Duke's Head Yard (1940) by Tayler & Green for cartoonist Roger Pettiward"
+                        "title": "Studio, Duke's Head Yard (1940) by Tayler & Green for cartoonist Roger Pettiward - Kateryna Davydova"
                     }
                 ],
                 "name": "Resilience in Highgate: multi-sensory walk",
@@ -8560,7 +8626,7 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13377/building_13377_danger_secrets_1eeb67bdfa9745baef0db4efe6448b5e.jpg",
-                        "title": null
+                        "title": "The Battle of Britain Bunker - The Generator Hous"
                     }
                 ],
                 "name": "The Battle of Britain Bunker - The Generator House",
@@ -8587,7 +8653,7 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13378/building_13378_great_barn_d4887c9e26cf6fddcfd12685a0fec79c.png",
-                        "title": null
+                        "title": "The Great Barn"
                     }
                 ],
                 "name": "The Great Barn",
@@ -9277,15 +9343,15 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13693/building_13693_feltham-green-cabin-launch-sir-brian-may-and-freddie-sister_e6ad7d79d6149d87520df220d8c438ac.png",
-                        "title": "London Borough of Hounslow"
+                        "title": "From Tiles to Tales: Feltham’s Mural and Mosaic Trail"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13693/building_13693_img_7004_027fd7efba27a48db0dddd7e678dc1a8.jpg",
-                        "title": "London Borough of Hounslow"
+                        "title": "From Tiles to Tales: Feltham’s Mural and Mosaic Trail"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13693/building_13693_20260317_133115_831c3e7da3a934f546b07b5f66e76860.jpg",
-                        "title": "Joyce Ip"
+                        "title": "From Tiles to Tales: Feltham’s Mural and Mosaic Trail"
                     }
                 ],
                 "name": "From Tiles to Tales: Feltham’s Mural and Mosaic Trail",

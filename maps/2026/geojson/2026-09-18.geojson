@@ -188,7 +188,7 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1939/building_1939_swakeleys-house-open-house-2011-08_45bbb18d3b76fc224c8612bee4f0510a.jpg",
-                        "title": "Swakeleys House exterior "
+                        "title": "Swakeleys Estate ( exterior )"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1939/building_1939_swakeleys-house-open-house-2011-01_9fc70ce8ba54b07e0942520f396eb5ac.jpg",
@@ -263,6 +263,45 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/2074"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1088368,
+                    51.4982463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A stunning cathedral in the heart of London. Discover the story of a forgotten masterpiece. Designed by Augustus Pugin and opened in 1848, the original cathedral was hailed as England's foremost Catholic church before an incendiary bomb devastated the building in 1941. Explore the history, architecture and legacy that shaped the Cathedral you see today—and discover its remarkable story.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_0187_4febec197ee63a29b7807ca5e339120a.jpg",
+                        "title": "Entrance to St George's Cathedral, Southwark. © Marie Laurent 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_main-window_11f4f975224831ec2e5fa997e412aafb.jpg",
+                        "title": "The East Window designed by Harry Clarke Studios, Dublin. © Mansoor Iessa 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_0061_32417627487755744b2ec347dbcdf6b8.jpg",
+                        "title": "Processional banner depicting St George.  © Marie Laurent 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_9677_47352922219bd3a7561a8304ca4d81fd.jpg",
+                        "title": "St George's Cathedral. © Marie Laurent"
+                    }
+                ],
+                "name": "St George's Cathedral",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2502"
             },
             "type": "Feature"
         },
@@ -492,8 +531,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1539844,
-                    51.500248
+                    -0.15398,
+                    51.50024
                 ],
                 "type": "Point"
             },
@@ -1232,15 +1271,15 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12032/building_12032_hounslow-house_8ecc8cbdad4768f3787b2b7f3e3d49fa.png",
-                        "title": null
+                        "title": "Hounslow House"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12032/building_12032_sr_hounslow-house_jack-hobhouse-1_f381dec8901f100241121155404a09e6.jpg",
-                        "title": null
+                        "title": "Hounslow House"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12032/building_12032_sr_hounslow-house_jack-hobhouse-3_4c6a2b5631d206e341e2a79cf8f69135.jpg",
-                        "title": null
+                        "title": "Hounslow House"
                     }
                 ],
                 "name": "Hounslow House",
@@ -1577,11 +1616,11 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12731/building_12731_1000005892_116b8ca1776a91491de180bd5411381f.jpg",
-                        "title": null
+                        "title": "Kate Glinsman"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12731/building_12731_wlc-palmhouse_ae7dc69d83d37670a49e67ec46e4f9da.jpg",
-                        "title": "Wolves Lane Palm House"
+                        "title": "Wolves Lane Palm House - Kate Glinsman"
                     }
                 ],
                 "name": "Wolves Lane Horticultural Centre",
@@ -1754,8 +1793,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.13021,
-                    51.51324
+                    -0.13013,
+                    51.51332
                 ],
                 "type": "Point"
             },

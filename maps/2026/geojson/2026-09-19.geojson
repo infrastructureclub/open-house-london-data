@@ -1221,8 +1221,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0165,
-                    51.66838
+                    -0.01669,
+                    51.6687
                 ],
                 "type": "Point"
             },
@@ -1363,8 +1363,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.11737,
-                    51.51704
+                    -0.1174,
+                    51.51703
                 ],
                 "type": "Point"
             },
@@ -1481,7 +1481,7 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1939/building_1939_swakeleys-house-open-house-2011-08_45bbb18d3b76fc224c8612bee4f0510a.jpg",
-                        "title": "Swakeleys House exterior "
+                        "title": "Swakeleys Estate ( exterior )"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1939/building_1939_swakeleys-house-open-house-2011-01_9fc70ce8ba54b07e0942520f396eb5ac.jpg",
@@ -2248,6 +2248,45 @@
                 "start": "10:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/2490"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1088368,
+                    51.4982463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A stunning cathedral in the heart of London. Discover the story of a forgotten masterpiece. Designed by Augustus Pugin and opened in 1848, the original cathedral was hailed as England's foremost Catholic church before an incendiary bomb devastated the building in 1941. Explore the history, architecture and legacy that shaped the Cathedral you see today—and discover its remarkable story.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_0187_4febec197ee63a29b7807ca5e339120a.jpg",
+                        "title": "Entrance to St George's Cathedral, Southwark. © Marie Laurent 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_main-window_11f4f975224831ec2e5fa997e412aafb.jpg",
+                        "title": "The East Window designed by Harry Clarke Studios, Dublin. © Mansoor Iessa 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_0061_32417627487755744b2ec347dbcdf6b8.jpg",
+                        "title": "Processional banner depicting St George.  © Marie Laurent 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_9677_47352922219bd3a7561a8304ca4d81fd.jpg",
+                        "title": "St George's Cathedral. © Marie Laurent"
+                    }
+                ],
+                "name": "St George's Cathedral",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2502"
             },
             "type": "Feature"
         },
@@ -3869,8 +3908,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1539844,
-                    51.500248
+                    -0.15398,
+                    51.50024
                 ],
                 "type": "Point"
             },
@@ -4252,8 +4291,47 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.1457657,
-                    51.5160929
+                    -0.23189,
+                    51.49553
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Recently designated as a Building of Cultural Interest by the Council, the Quaker Meeting House is designed to be a highly sustainable building to embody the Quaker values of simplicity and equality.  The award winning building promotes a sense of calm and tranquility.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/5929/building_5929_ell6zowwoaa4cw9_f592cb3ce9305a4dcbbfe20eca33a3df.jpg",
+                        "title": "Hammersmith Quaker Meeting House Interior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/5929/building_5929_blossom_front_3_a8d761fd28460a64ec6d8ef71efe67c1.jpeg",
+                        "title": "Front of the Meeting House"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/5929/building_5929_qmh_april21-13-of-180_caac4ce7d07cb99ccd798e3a938dd1b7.jpg",
+                        "title": "Hammersmith Quaker Meeting House Exterior"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/5929/building_5929_img_5045-rotated-meeting-room_a2f75b3d9964e7afe859e13a4796250d.jpg",
+                        "title": "Interior of meeting room"
+                    }
+                ],
+                "name": "Hammersmith Quaker Meeting House",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/5929"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.14596,
+                    51.51594
                 ],
                 "type": "Point"
             },
@@ -4620,8 +4698,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.07305,
-                    51.47355
+                    0.07296,
+                    51.47345
                 ],
                 "type": "Point"
             },
@@ -5353,8 +5431,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.09755699999999999,
-                    51.5148819
+                    -0.09755,
+                    51.51488
                 ],
                 "type": "Point"
             },
@@ -5454,8 +5532,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.19681,
-                    51.46974
+                    -0.19722,
+                    51.46995
                 ],
                 "type": "Point"
             },
@@ -6786,8 +6864,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.07925,
-                    51.46739
+                    0.07924,
+                    51.4674
                 ],
                 "type": "Point"
             },
@@ -8837,7 +8915,7 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13377/building_13377_danger_secrets_1eeb67bdfa9745baef0db4efe6448b5e.jpg",
-                        "title": null
+                        "title": "The Battle of Britain Bunker - The Generator Hous"
                     }
                 ],
                 "name": "The Battle of Britain Bunker - The Generator House",

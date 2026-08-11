@@ -298,6 +298,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1088368,
+                    51.4982463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A stunning cathedral in the heart of London. Discover the story of a forgotten masterpiece. Designed by Augustus Pugin and opened in 1848, the original cathedral was hailed as England's foremost Catholic church before an incendiary bomb devastated the building in 1941. Explore the history, architecture and legacy that shaped the Cathedral you see today—and discover its remarkable story.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_0187_4febec197ee63a29b7807ca5e339120a.jpg",
+                        "title": "Entrance to St George's Cathedral, Southwark. © Marie Laurent 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_main-window_11f4f975224831ec2e5fa997e412aafb.jpg",
+                        "title": "The East Window designed by Harry Clarke Studios, Dublin. © Mansoor Iessa 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_0061_32417627487755744b2ec347dbcdf6b8.jpg",
+                        "title": "Processional banner depicting St George.  © Marie Laurent 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_9677_47352922219bd3a7561a8304ca4d81fd.jpg",
+                        "title": "St George's Cathedral. © Marie Laurent"
+                    }
+                ],
+                "name": "St George's Cathedral",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2502"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.17138,
                     51.47864
                 ],

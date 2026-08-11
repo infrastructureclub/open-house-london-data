@@ -245,6 +245,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1088368,
+                    51.4982463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A stunning cathedral in the heart of London. Discover the story of a forgotten masterpiece. Designed by Augustus Pugin and opened in 1848, the original cathedral was hailed as England's foremost Catholic church before an incendiary bomb devastated the building in 1941. Explore the history, architecture and legacy that shaped the Cathedral you see today—and discover its remarkable story.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_0187_4febec197ee63a29b7807ca5e339120a.jpg",
+                        "title": "Entrance to St George's Cathedral, Southwark. © Marie Laurent 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_main-window_11f4f975224831ec2e5fa997e412aafb.jpg",
+                        "title": "The East Window designed by Harry Clarke Studios, Dublin. © Mansoor Iessa 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_0061_32417627487755744b2ec347dbcdf6b8.jpg",
+                        "title": "Processional banner depicting St George.  © Marie Laurent 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2502/building_2502_img_9677_47352922219bd3a7561a8304ca4d81fd.jpg",
+                        "title": "St George's Cathedral. © Marie Laurent"
+                    }
+                ],
+                "name": "St George's Cathedral",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2502"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.17138,
                     51.47864
                 ],
@@ -1980,6 +2019,49 @@
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13714"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.15097,
+                    51.49427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "St Michael's Chester Square is a grade 2 listed church in the heart of Victoria, built in the late Decorated Gothic style. The War Memorial Chapel at the north east end of the church was designed by Giles Gilbert Scott and completed in 1920. The stained glass West Window is by Hugh Easton and two windows to the south are by Morris & Co and date to 1882.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13739/building_13739_085a8559-enhanced-nr_da80528f188a7b9c9d6505ebb8ed8580.jpg",
+                        "title": "Bethlynn Wilson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13739/building_13739_img_7596_baca4348da817714e66ae97d83e25963.jpg",
+                        "title": "Amy Kirk"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13739/building_13739_085a8440-enhanced-nr_72c66bf444efc2d463e4b588541e480f.jpg",
+                        "title": "Bethlynn Wilson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13739/building_13739_085a8426-enhanced-nr_ede19409265450cd146806ed688b16d6.jpg",
+                        "title": "Bethlynn Wilson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13739/building_13739_047a9870_6be1fb1705a7b3670bd38223a1c85c7e.jpg",
+                        "title": "Bethlynn Wilson"
+                    }
+                ],
+                "name": "St Michael's Chester Square",
+                "new_venue_this_year": "Yes",
+                "start": "13:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13739"
             },
             "type": "Feature"
         },
