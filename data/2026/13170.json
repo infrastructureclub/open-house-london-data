@@ -86,10 +86,10 @@
             "capacity": null,
             "date": "2026-09-20",
             "drop_in": true,
-            "end": "2026-09-20T17:00:00+01:00",
+            "end": "2026-09-20T11:00:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Gallery visit to see our show 'The Making of Mothers'",
-            "notes": "A mixed-media group exhibition bringing together artists from East London who create alongside, with, about and around motherhood.",
+            "name": "Drop in: Family workshop",
+            "notes": "Let's create together!  Families welcome -  join us for some relaxed activities, many using repurposed or recycled household items.",
             "start": "2026-09-20T10:00:00+01:00",
             "ticketed": false
         },
@@ -101,27 +101,12 @@
             "capacity": null,
             "date": "2026-09-20",
             "drop_in": true,
-            "end": "2026-09-20T11:00:00+01:00",
+            "end": "2026-09-20T17:00:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Family workshop",
-            "notes": "Let's create together!  Families welcome -  join us for some relaxed activities, many using repurposed or recycled household items.",
+            "name": "Drop in: Gallery visit to see our show 'The Making of Mothers'",
+            "notes": "A mixed-media group exhibition bringing together artists from East London who create alongside, with, about and around motherhood.",
             "start": "2026-09-20T10:00:00+01:00",
             "ticketed": false
-        },
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13170",
-            "capacity": null,
-            "date": "2026-09-17",
-            "drop_in": false,
-            "end": "2026-09-17T14:30:00+01:00",
-            "fully_booked": false,
-            "name": "Mending workshop",
-            "notes": "A relaxed group session lead by a textile artist; learn about simple mending & darning techniques.  Bring along some clothes needing repair!",
-            "start": "2026-09-17T12:30:00+01:00",
-            "ticketed": true
         }
     ],
     "facilities": [
@@ -191,7 +176,7 @@
     "name": "Garage Gallery E17",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/13170",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025,
         2026
