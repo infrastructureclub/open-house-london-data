@@ -10885,6 +10885,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.12496,
+                    51.5321
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Cycle Tour of Peace Gardens and Open House Properties",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13759/building_13759_agakhangarden_075ba85ca834f30a1f0f1dd6bbd7973d.jpeg",
+                        "title": "Aga Khan Centre Garden (Mike Longhurst)"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13759/building_13759_img_1444_14d73db8b92ad65dbf652fa6557e72cc.jpeg",
+                        "title": "Kyoto Garden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13759/building_13759_img_1442_5fe396e84a929ce61d7ccb496f7e8d1b.jpeg",
+                        "title": "Japanese Garden of Peace"
+                    }
+                ],
+                "name": "Peace Gardens in London",
+                "new_venue_this_year": "Yes",
+                "start": "09:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13759"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.07606,
                     51.53023
                 ],
@@ -11728,16 +11763,16 @@
                 "fully_booked": "",
                 "images": [
                     {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13888/building_13888_event-day-2025_fba3f21ff59184552d302152259a92f6.jpg",
+                        "title": "Outside of the building in full by Rachel Braithwaite"
+                    },
+                    {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13888/building_13888_blue-skies_9ef2c0d6329548fb242ca70bef159eeb.jpg",
                         "title": "The library building, photographed by Rachel Braithwaite,"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13888/building_13888_dome_10e45a4bb4d6ac4f1593d194c410746d.jpg",
                         "title": "Glass dome, photographed by Rachel Braithwaite"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13888/building_13888_event-day-2025_fba3f21ff59184552d302152259a92f6.jpg",
-                        "title": "Outside of the building in full by Rachel Braithwaite"
                     }
                 ],
                 "name": "Corbett Community Library",
