@@ -5410,6 +5410,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.0914547,
+                    51.5155471
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The capital’s only Roman Amphitheatre. Regular combined guided tours of Amphitheatre and Guildhall Art Gallery at 12.15pm & 1.15pm on Tuesday-Sunday. Additional Open House tours on 19 and 20 September, please see Guildhall Art Gallery listing.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10902/building_10902_roman-amphitheatre-resize-square_9ae1adc560e04bc1bca04278998749d1.jpg",
+                        "title": "Clive Totman"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10902/building_10902_roman-amphitheatre-resize_725f114eb5a1f59bd0ce13d82cd611f6.jpg",
+                        "title": "Clive Totman"
+                    }
+                ],
+                "name": "London's Roman Amphitheatre",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10902"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.13092,
                     51.53106
                 ],
@@ -6240,53 +6271,6 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11805"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.39714,
-                    51.57655
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Discover the fascinating history of Eastcote and its surroundings, focused on how the landscape has changed, from the exclusively agricultural area to the today's modern suburb, revealing some of the oldest local buildings and their stories",
-                "end": "13:30:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11816/building_11816_img_0212_1fd8a64b76716ca0d95a94a406b6bad4.jpg",
-                        "title": "Photo of Eastcote Walking Tour"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11816/building_11816_20230318_135610_6aabd872c46e7af7894eaa7988282ea3.jpg",
-                        "title": "Photo of Eastcote Walking Tour"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11816/building_11816_20230318_140324_de3c9e12b109e9cc36e394d79f9ae7ff.jpg",
-                        "title": "Photo of Eastcote Walking Tour"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11816/building_11816_20230318_142615-1_e9ef26abda1069a49d98b6c28aaa1bad.jpg",
-                        "title": "Photo of Eastcote Walking Tour"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11816/building_11816_20230318_141802-1_8f7618870f2fcb92033b71997842ac2a.jpg",
-                        "title": "Photo of Eastcote Walking Tour"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11816/building_11816_20230318_132858_eb8ee4b5bbbc4a3f1679aa26294f586e.jpg",
-                        "title": "Photo of Eastcote Walking Tour"
-                    }
-                ],
-                "name": "Eastcote Walking Tour",
-                "new_venue_this_year": "No",
-                "start": "11:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/11816"
             },
             "type": "Feature"
         },
@@ -8755,23 +8739,35 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Art and architectural activities spread across City venues, including Guildhall Art Gallery, Bloomberg SPACE and Dr Johnson's House, tailored to families with children aged 3-13.",
+                "description": "Once again City of London cultural sites have pulled together to create an Open House offering for families. Join Guildhall Art Gallery, the Insurance Museum, London Mithraeum Bloomberg SPACE, St Paul’s Cathedral and Dr Johnson’s House to celebrate architecture, heritage and placemaking in the City. Pick up a map or join the walking bus to explore it all.",
                 "end": "16:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13439/building_13439_col_familyday_19022025_0218_ff8c15241f444d6b010dd7b1034d4a41.jpg",
-                        "title": "Photo of Family Day in the City"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13439/building_13439_col_familyday_19022025_0159_1e29f21ad17bb64c0fa1aa0afb31679b.jpg",
+                        "title": "Guildhall Art Gallery"
                     },
                     {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13439/building_13439_roman-quest-family-day-2025-44_e14c387e4adae4249f8007d0af9cb2e3.jpg",
-                        "title": "Photo of Family Day in the City"
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13439/building_13439_col_familyday_sept25_0142_3861609584ad3465bd7976c25a68ade3.jpg",
+                        "title": "Guildhall Art Gallery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13439/building_13439_col_familyday_sept25_0127_13b66665b5d58a0bc688d282d269f75d.jpg",
+                        "title": "Guildhall Art Gallery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13439/building_13439_col_familyday_sept25_0175-cropped_dca3a0a0aaf236560f058b7c191c7a63.jpg",
+                        "title": "Guildhall Art Gallery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13439/building_13439_col_familyday_sept25_0047_6b2575eb59234028aec11a9000bd0c24.jpg",
+                        "title": "Guildhall Art Gallery"
                     }
                 ],
                 "name": "Family Day in the City",
                 "new_venue_this_year": "No",
                 "start": "11:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13439"
             },
             "type": "Feature"
