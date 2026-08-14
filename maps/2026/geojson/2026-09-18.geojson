@@ -2178,6 +2178,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1194,
+                    51.51474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Situated in the heart of Covent Garden, Space House is one of London’s most architecturally significant and environmentally advanced commercial buildings. Originally designed by George Marsh and Richard Seifert in 1968, the Grade II listed building has undergone a transformative restoration—delivering a net zero carbon, experiential workplace designed to foster innovation, wellbeing and community.",
+                "end": "12:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13432/building_13432_space-house-london-covent-garden-office-building_4e2011a09f8541510d8153da6cb83afa.jpg",
+                        "title": "Photo of Space House"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13432/building_13432_250131-lofficiel-singapore-s10-039-1_f7c9c7475cf7644070ca632a38e2cac5.jpg",
+                        "title": "Photo of Space House"
+                    }
+                ],
+                "name": "Space House",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13432"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.13826,
                     51.51651
                 ],

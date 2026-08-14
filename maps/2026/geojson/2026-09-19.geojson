@@ -2552,6 +2552,61 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.18939,
+                    51.5224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Grade I Victorian Gothic church by G E Street, architect of the Royal Courts of Justice. The recent conservation project reveals the majestic colours of Daniel Bell's painted ceiling, plus Dow Jones Architects' contemporary heritage wing.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2527/building_2527_170123-rendered-smaller_33ba5bddf4171296ae569cfb7b137607.jpg",
+                        "title": "Dow Jones Architects"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2527/building_2527_anthony-coleman-1-2019_676568314e0a05102349d41ae714c565.jpg",
+                        "title": "Anthony Coleman"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2527/building_2527_anna-kunst-2019_e28376995bb75bdfd56d38c414f99594.jpg",
+                        "title": "Anna Kunst"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2527/building_2527_anthony-coleman-2-2019_adb68c7cfde9337db6d1ebe3e6afbc97.jpg",
+                        "title": "Anthony Coleman"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2527/building_2527_lloyd-evans-2-2019_bdc271975be4c58368539b6e60c8f238.jpg",
+                        "title": "Lloyd Evans"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2527/building_2527_lloyd-evans-1-2019_d7138b680f2be9501eeea3416b18d818.jpg",
+                        "title": "Lloyd Evans"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2527/building_2527__dsf7174_14dad90f8030a36e23bf7ef2e27d82e5.jpg",
+                        "title": "Anthony Coleman"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2527/building_2527__dsc5123-2_2c3586a43d95098deaddce425520c9d9.jpg",
+                        "title": "Anthony Coleman"
+                    }
+                ],
+                "name": "Grand Junction at St Mary Magdalene Church, Paddington",
+                "new_venue_this_year": "No",
+                "start": "13:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2527"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.17138,
                     51.47864
                 ],
@@ -9823,7 +9878,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "This walking tour tells the story of how migrants and local heroes played a vital part in creating the fabric of Hornsey and Crouch End. It will explore local communities, people, places, sounds, smells, tastes, textures, and of course buildings and spaces; while telling the story of how the area went from a small cluster of buildings to the multi-cultural neighbourhood it is today.",
-                "end": "14:30:00",
+                "end": "13:30:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -11776,6 +11831,33 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13894"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.02686,
+                    51.4776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "South East London's leading arts centre,.\r\nThe Albany is the engine room for people to reach their creative potential, tell their stories and define their own culture. Together we will inspire new possibilities for positive change.  \r\nThe Albany is an incubator for new ideas and initiatives. Our Creative Strategy places democratic, community-led approaches at the heart of everything we do,",
+                "end": "14:30:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13919/building_13919_dsc00170_0060469057e7efb39e30eed742fe9b65.jpg",
+                        "title": "Photo of The Albany"
+                    }
+                ],
+                "name": "The Albany",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13919"
             },
             "type": "Feature"
         }

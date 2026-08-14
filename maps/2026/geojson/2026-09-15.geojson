@@ -46,7 +46,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "The Hall stands on land which was bought in 1922: construction work, which was undertaken by Holland, Hannen & Cubitts, started that year and the Hall was opened on 17 June 1925. Decorated in the Arts & Crafts style, and resplendent with art and treasures, visitors will gain access to areas not normally open to the public and will be guided by real Company members.",
-                "end": "16:00:00",
+                "end": "15:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -2181,6 +2181,53 @@
                 "start": "09:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13888"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09889,
+                    51.51415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Experience hands-on techniques with experts and artists in two nearby locations. Experiment with stone, paper sculpting and weaving. \r\nPart of a cultural programme delivered by City of London Corporation and Cheapside Business Alliance, produced by URBAN LEARNERS, encouraging discussion on reuse and heritage focused on historic granite stones repurposed as inclusive seating by St Paul’s Cathedral.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13909/building_13909_urban-learners-x-open-house_9fa4b7c41abd6ca04663f09436a6eea9.jpg",
+                        "title": "Urban Learners"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13909/building_13909_ul-x-ohf_02_d114d5c55d8fbae8c90749f753dc3061.jpg",
+                        "title": "Clive Totman"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13909/building_13909_day-of-craft-map_1f8232c5570dcc3719f8ded5716b3651.jpg",
+                        "title": "URBAN LEARNERS"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13909/building_13909_ul-x-ohf_04_edcc12394d8cbac53a862d518211ee04.jpg",
+                        "title": "URBAN LEARNERS"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13909/building_13909_ul-x-ohf_05_df57d6224fd879bdb4a6f156f149bfff.jpg",
+                        "title": "Peter Ayres"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13909/building_13909_ul-x-ohf_03_42dd5a5bdfa52ac1876679b164f4b91e.jpg",
+                        "title": "URBAN LEARNERS"
+                    }
+                ],
+                "name": "'If Stone Could Speak’: Day of Craft",
+                "new_venue_this_year": "Yes",
+                "start": "10:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13909"
             },
             "type": "Feature"
         }
