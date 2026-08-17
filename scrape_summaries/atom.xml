@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-17T10:30:00+00:00</updated>
+  <updated>2026-08-17T12:40:00+00:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-05_1728.json</id>
-    <title>Tickets released for 1 venues on Wed 05 August at 17:28</title>
-    <updated>2026-08-05T17:28:00+00:00</updated>
-    <content>🎟️ 2728 - Bruce Castle Museum&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-05_1728.json"/>
-    <published>2026-08-05T17:28:00+00:00</published>
-  </entry>
   <entry>
     <id>2026-08-05_1927.json</id>
     <title>Tickets released for 1 venues on Wed 05 August at 19:27</title>
@@ -126,5 +118,13 @@
 🗓️ 6536 - The Building Centre&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-17_1030.json"/>
     <published>2026-08-17T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-17_1240.json</id>
+    <title>Tickets released for 1 venues on Mon 17 August at 12:40</title>
+    <updated>2026-08-17T12:40:00+00:00</updated>
+    <content>🎟️ 13822 - Ibraaz&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-17_1240.json"/>
+    <published>2026-08-17T12:40:00+00:00</published>
   </entry>
 </feed>
