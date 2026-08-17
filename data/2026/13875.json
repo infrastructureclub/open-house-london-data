@@ -24,21 +24,6 @@
             "balloted": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2026-09-12",
-            "drop_in": true,
-            "end": "2026-09-12T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Taster printing workshops",
-            "notes": "Drop in: Dry point workshop.\r\nTry your hand at printmaking with an expert printmaker on hand to guide you through the process.",
-            "start": "2026-09-12T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
             "date": "2026-09-13",
             "drop_in": true,
             "end": "2026-09-13T17:00:00+01:00",
@@ -152,6 +137,21 @@
             "notes": "Drop in: Paper stencil screen printing workshop.\r\nTry your hand at printmaking with an expert printmaker to guide you through the process.",
             "start": "2026-09-20T12:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/13875",
+            "capacity": null,
+            "date": "2026-09-12",
+            "drop_in": false,
+            "end": "2026-09-12T13:00:00+01:00",
+            "fully_booked": false,
+            "name": "Taster printing workshop",
+            "notes": "Dry point workshop.\r\nTry printmaking with an expert printmaker on hand to guide you through the process. Booking required on our website.",
+            "start": "2026-09-12T11:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -212,7 +212,7 @@
     "name": "Southbank Printmakers",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13875",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2026
     ]

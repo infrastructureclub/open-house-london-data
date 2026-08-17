@@ -710,6 +710,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1315686,
+                    51.5195747
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Explore the Building Centre, a landmark home for architecture and the built environment in the heart of London. Discover its distinctive modernist spaces, public galleries and exhibitions, and learn how the building has brought together architects, designers, makers and city-shapers for more than 90 years.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/6536/building_6536_01-small-file_0ea81a4f4ddcd56ccb4db75692db1e8b.jpg",
+                        "title": "Photo of The Building Centre"
+                    }
+                ],
+                "name": "The Building Centre",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/6536"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.30891,
                     51.48316
                 ],
@@ -1549,7 +1576,7 @@
                 "balloted": "No",
                 "description": "Join a tour to learn about the of the history of Tower House, home of The Mosaic Rooms in Earl's Court. Built in 1872 by Thomas Huggett, the tour will also shed light on the interesting story of its former resident, the impresario Imre Kiralfy. See the building and the traces of its history in this walk-through with a presentation of visual materials about the previously unseen interiors.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12893/building_12893_cbff03e3-4082-4664-a527-ac8a97cd3fc6_39571b52eea3206cc73d590481866fa7.jpeg",
@@ -1559,7 +1586,7 @@
                 "name": "The Mosaic Rooms",
                 "new_venue_this_year": "No",
                 "start": "14:00:00",
-                "ticketed_events": "Yes",
+                "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12893"
             },
             "type": "Feature"
@@ -2126,7 +2153,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "London Square presents a rare opportunity to live within the sensitively restored former Surrey County Hall, complemented by a striking collection of contemporary new-build homes and commercial areas for hire.\r\n\r\nSet in the heart of Kingston, residents enjoy a riverside town rich in culture, green spaces, shopping and dining - all with excellent connection to London and beyond.",
-                "end": "19:00:00",
+                "end": "16:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
@@ -2485,7 +2512,7 @@
                 "balloted": "No",
                 "description": "We are a friendly artist run gallery in Wells Street offering affordable, handmade fine art prints with a broad range of subjects created using many different printmaking techniques.\r\nWe aim to encourage people who have never encountered art before to experience printmaking through our regular workshops.",
                 "end": "17:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13875/building_13875_sbpm-73-wells-street-window_73122bd29be402382a7a2388df889a8e.jpg",
@@ -2499,7 +2526,7 @@
                 "name": "Southbank Printmakers",
                 "new_venue_this_year": "Yes",
                 "start": "12:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13875"
             },
             "type": "Feature"

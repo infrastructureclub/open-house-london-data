@@ -5008,6 +5008,61 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.2206,
+                    51.52319
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Set in the historic Sunbeam Talbot factory, a 1903 Beaux Arts building in Ladbroke Grove, Ladbroke Hall perpetuates the building’s legacy of innovation and creation. A space for exploration, inspiration and connection, across the many forms of arts and creative expressions, its seasonal live cultural programming celebrates the best of arts, live events and food.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_0f85ff7a-467c-4b56-897b-3d37e6de7277_jc_ad960aafa0bd4d7f0593df186494d59b.jpg",
+                        "title": "Photo of Ladbroke Hall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_photo-01-07-2025-18-24-51_14f5f2fe455c2e9b176a0503a9d8cb6c.jpg",
+                        "title": "Photo of Ladbroke Hall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_openhouse1_917e4484c1d0e3bad7738bc273ba3a63.png",
+                        "title": "Photo of Ladbroke Hall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_openhouse2_7d32e9c04a8ebe273312b4930c93692d.png",
+                        "title": "Photo of Ladbroke Hall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_openhouse4_23690fcc2ff64cbfa69c0ac596b169a3.png",
+                        "title": "Photo of Ladbroke Hall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_jazz_4f88443e59533a4187475caf44c6316e.png",
+                        "title": "Photo of Ladbroke Hall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_openhouse5_6d250767af5e8698e2921fbc45b8542f.png",
+                        "title": "Photo of Ladbroke Hall"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_openhouse6_f068895833f20bb53f1b3b29e24e2e2a.png",
+                        "title": "Photo of Ladbroke Hall"
+                    }
+                ],
+                "name": "Ladbroke Hall",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/11573"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.10501,
                     51.47179
                 ],
@@ -8013,7 +8068,7 @@
                 "balloted": "No",
                 "description": "We are a friendly artist run gallery in Wells Street offering affordable, handmade fine art prints with a broad range of subjects created using many different printmaking techniques.\r\nWe aim to encourage people who have never encountered art before to experience printmaking through our regular workshops.",
                 "end": "17:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13875/building_13875_sbpm-73-wells-street-window_73122bd29be402382a7a2388df889a8e.jpg",
@@ -8027,7 +8082,7 @@
                 "name": "Southbank Printmakers",
                 "new_venue_this_year": "Yes",
                 "start": "12:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13875"
             },
             "type": "Feature"

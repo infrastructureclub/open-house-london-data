@@ -733,6 +733,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.1315686,
+                    51.5195747
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Explore the Building Centre, a landmark home for architecture and the built environment in the heart of London. Discover its distinctive modernist spaces, public galleries and exhibitions, and learn how the building has brought together architects, designers, makers and city-shapers for more than 90 years.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/6536/building_6536_01-small-file_0ea81a4f4ddcd56ccb4db75692db1e8b.jpg",
+                        "title": "Photo of The Building Centre"
+                    }
+                ],
+                "name": "The Building Centre",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/6536"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1930382,
                     51.4578437
                 ],
@@ -2404,7 +2431,7 @@
                 "balloted": "No",
                 "description": "We are a friendly artist run gallery in Wells Street offering affordable, handmade fine art prints with a broad range of subjects created using many different printmaking techniques.\r\nWe aim to encourage people who have never encountered art before to experience printmaking through our regular workshops.",
                 "end": "17:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13875/building_13875_sbpm-73-wells-street-window_73122bd29be402382a7a2388df889a8e.jpg",
@@ -2418,7 +2445,7 @@
                 "name": "Southbank Printmakers",
                 "new_venue_this_year": "Yes",
                 "start": "12:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13875"
             },
             "type": "Feature"
