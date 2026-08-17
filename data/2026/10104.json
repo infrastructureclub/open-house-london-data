@@ -24,19 +24,19 @@
     },
     "events": [
         {
-            "activity_type": "Drop in",
+            "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
-            "booking_link": null,
+            "booking_link": "https://programme.openhouse.org.uk/listings/10104",
             "capacity": null,
-            "date": "2026-09-20",
-            "drop_in": true,
-            "end": "2026-09-20T16:30:00+01:00",
+            "date": "2026-09-14",
+            "drop_in": false,
+            "end": "2026-09-14T18:30:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Open Tower - history and demo",
-            "notes": "",
-            "start": "2026-09-20T14:00:00+01:00",
-            "ticketed": false
+            "name": "Tour and Tower - monuments and dells",
+            "notes": "Take a tour of this renovated worship & event space with its ancient monuments, and learn about the heritage of its bells and bell ringing.",
+            "start": "2026-09-14T17:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -162,7 +162,7 @@
     "name": "St John at Hackney",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/10104",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2021,
         2025,

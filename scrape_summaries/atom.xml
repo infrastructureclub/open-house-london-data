@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-17T12:40:00+00:00</updated>
+  <updated>2026-08-17T18:37:00+00:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-05_1927.json</id>
-    <title>Tickets released for 1 venues on Wed 05 August at 19:27</title>
-    <updated>2026-08-05T19:27:00+00:00</updated>
-    <content>🎟️ 12588 - Inner Space Meditation Centre, Covent Garden&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-05_1927.json"/>
-    <published>2026-08-05T19:27:00+00:00</published>
-  </entry>
   <entry>
     <id>2026-08-07_1259.json</id>
     <title>3 venues added dates on Fri 07 August at 12:59</title>
@@ -126,5 +118,14 @@
     <content>🎟️ 13822 - Ibraaz&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-17_1240.json"/>
     <published>2026-08-17T12:40:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-17_1837.json</id>
+    <title>Tickets released for 1 venues, 1 venues added dates on Mon 17 August at 18:37</title>
+    <updated>2026-08-17T18:37:00+00:00</updated>
+    <content>🎟️ 10104 - St John at Hackney&lt;br&gt;
+🗓️ 10104 - St John at Hackney&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-17_1837.json"/>
+    <published>2026-08-17T18:37:00+00:00</published>
   </entry>
 </feed>
