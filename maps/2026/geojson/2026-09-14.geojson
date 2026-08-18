@@ -886,7 +886,7 @@
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11391/building_11391_masonic-temple-ceiling_f0d5e21a755f731156550376a92c628c.jpg",
-                        "title": "Photo of Andaz London Liverpool Street"
+                        "title": "Andaz London"
                     }
                 ],
                 "name": "Andaz London Liverpool Street",
@@ -1010,11 +1010,11 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12400/building_12400_284913-matthewandrews2025_panorama_771b7f40d0d4a19427308b9d6c7258a9.jpg",
-                        "title": "Photo of St Bartholomew's Hospital"
+                        "title": "Caroline Hamson"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12400/building_12400_335750-matthewandrews2026_panorama_7d9abe4cf1cdaa549009dde5be7b9aab.jpg",
-                        "title": "Photo of St Bartholomew's Hospital"
+                        "title": "Caroline Hamson"
                     }
                 ],
                 "name": "St Bartholomew's Hospital",
@@ -1277,6 +1277,53 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.16263,
+                    51.54221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "St Mary's is a Victorian church famous for its second vicar Percy Dearmer who together with Ralph Vaughn Williams produced the English Hymnal in 1906.  We have a rich history of Church Music, beautiful worship and  vestments.  We also have a passion for  social justice within our community.  We were the first parish in Edmonton Diocese to have a woman vicar.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13007/building_13007_1553c5b59f3f61255107640210fd9f62_5e2059770ea35b45b8c321b3a2e92318.jpg",
+                        "title": "Photo of St Mary the Virgin Primrose Hill"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13007/building_13007_a1bd6252ad1b26f90cd4f543c9a14b6b_ccdf5dfc7dab6b2da7344672bb754994.jpg",
+                        "title": "Photo of St Mary the Virgin Primrose Hill"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13007/building_13007_86b47c2f696df230b30ddcb1408f50c1_c8281333c47768fd078a8842e6c17770.jpg",
+                        "title": "Photo of St Mary the Virgin Primrose Hill"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13007/building_13007_8ad645bcb4ed64a0e959e4ddd7037dd5_f63ffc2e109553ec287cf4ce25603544.jpg",
+                        "title": "Photo of St Mary the Virgin Primrose Hill"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13007/building_13007_20180405_114638_28825122d9ecb1f6e32e427728539b7b.jpg",
+                        "title": "Photo of St Mary the Virgin Primrose Hill"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13007/building_13007_dan_4583_f212d121e50fafe8abf7f2c145d1ef82.jpg",
+                        "title": "Photo of St Mary the Virgin Primrose Hill"
+                    }
+                ],
+                "name": "St Mary the Virgin Primrose Hill",
+                "new_venue_this_year": "No",
+                "start": "09:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.1,
                     51.50345
                 ],
@@ -1395,7 +1442,7 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13629/building_13629_960px-city_dragon_f41a7f598207ffbfa3608ad318e80c7b.jpg",
-                        "title": "Photo of Secrets and Symbols of the City"
+                        "title": "Katherine Pearce"
                     }
                 ],
                 "name": "Secrets and Symbols of the City",
@@ -1663,6 +1710,33 @@
                 "start": "09:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13888"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13307,
+                    51.51381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A special exhibition exploring the people and places that shaped the area during the Second World War. Tracing famous figures who made Soho their home, and the ordinary everyday heroes who kept the area functioning and our spirits up!",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13889/building_13889_img_20260818_134031_00b07eb36a274ab4710cab923e63e60c.png",
+                        "title": "Museum of Soho"
+                    }
+                ],
+                "name": "The West End At War",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13889"
             },
             "type": "Feature"
         },
