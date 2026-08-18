@@ -133,11 +133,11 @@
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/276/building_276_drapers-hall-full-height-front-door_185703620a177de0520414e65d493fec.jpg",
-                        "title": "Richard Valencia"
+                        "title": "Richard Kalina"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/276/building_276_job_0050_d22ad77016b432b7846be896dcb25c2b.jpg",
-                        "title": "Photo of Drapers' Hall"
+                        "title": "Richard Kalina"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/276/building_276_3z2a1455-resized_eb20b2c3f535c72c9a3f06998f70c2fa.jpg",
@@ -145,7 +145,7 @@
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/276/building_276_20250506_102844_ae0536f2491be772a7376b54152d37fb.jpg",
-                        "title": "Photo of Drapers' Hall"
+                        "title": "Richard Kalina"
                     }
                 ],
                 "name": "Drapers' Hall",
@@ -4745,7 +4745,7 @@
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11069/building_11069_rosamonde-hatton-v2_3c6c8ca119f963a58708a70cdfd03265.jpg",
-                        "title": "Photo of Timothy Hatton Architects – The Foundry"
+                        "title": "Timothy Hatton Architects"
                     }
                 ],
                 "name": "Timothy Hatton Architects – The Foundry",
@@ -5577,41 +5577,6 @@
                 "start": "12:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/12235"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.18384,
-                    51.52325
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "This walking tour uncovers the stories of urban redevelopment in Paddington, exploring how successive major infrastructure projects  have repeatedly reshaped the historic fabric of the area. We will trace the impact of these transformations, considering the balance between disruption and economic progress, asking who  benefited and who was left behind in their wake.",
-                "end": "12:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12541/building_12541_img_1339_5bd77cda369bdfd100f2764edd37a33d.jpeg",
-                        "title": "Photo of Whose Paddington?"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12541/building_12541_img_1335_ab70e1b55ddcb12bdcfead2567b02860.jpeg",
-                        "title": "Photo of Whose Paddington?"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12541/building_12541_img_0066_404f7354795a4d3022389f7a6ab5fe62.jpeg",
-                        "title": "Photo of Whose Paddington?"
-                    }
-                ],
-                "name": "Whose Paddington?",
-                "new_venue_this_year": "No",
-                "start": "10:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/12541"
             },
             "type": "Feature"
         },
@@ -8162,6 +8127,37 @@
                 "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13883"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.00134,
+                    51.43589
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Step back in time with a guided walk around the historic Excalibur Estate, the UK's largest surviving post-war prefabricated housing estate.\r\n\r\nDiscover why these remarkable homes were built in the aftermath of the Second World War, explore their innovative design and architecture, and hear the stories of the people who have made Excalibur their home over the decades.",
+                "end": "15:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13891/building_13891_img_6493-2_30eb08c87fce4f5e3e5b25f6f3010732.jpg",
+                        "title": "Photo of Prefab Walking Tour - Excalibur Estate"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13891/building_13891_img_6506_dab58d08e3dee66b04aa0e81c0831ecc.jpg",
+                        "title": "own image"
+                    }
+                ],
+                "name": "Prefab Walking Tour - Excalibur Estate",
+                "new_venue_this_year": "Yes",
+                "start": "13:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13891"
             },
             "type": "Feature"
         }
