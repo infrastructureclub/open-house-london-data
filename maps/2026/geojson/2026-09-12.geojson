@@ -7946,6 +7946,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13186,
+                    51.5124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Start your exploration of the Open House Soho Neighbourhood with a shot of coffee, a refreshing cold drink and a bite to eat.  Explore our timeline of Soho, and our existing display on the church's history.   Relax in our calm and welcoming gardens.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12938/building_12938_sacred_grounds_f2c41ce07f97ca90f3d4f726d3fd0d70.png",
+                        "title": "Photo of Sacred Grounds / St Anne's Church and Garden"
+                    }
+                ],
+                "name": "Sacred Grounds / St Anne's Church and Garden",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12938"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.13226,
                     51.51302
                 ],
@@ -11444,6 +11471,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13915"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.12805,
+                    51.51024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The building has had many incarnations since its construction in the 1890s as a woolen warehouse.   It became a home to the Italian Benevolent Society, then a fascist club, a serviceman's club, and now a library with the largest publicly accessible collection of Chinese language books in the UK.",
+                "end": "14:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13932/building_13932_cclibrary_aac4f61617dd886ae466832eb31b42b7.jpg",
+                        "title": "Westminster City Council"
+                    }
+                ],
+                "name": "Charing Cross Library",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13932"
             },
             "type": "Feature"
         }

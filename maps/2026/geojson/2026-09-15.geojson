@@ -1137,6 +1137,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13186,
+                    51.5124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Start your exploration of the Open House Soho Neighbourhood with a shot of coffee, a refreshing cold drink and a bite to eat.  Explore our timeline of Soho, and our existing display on the church's history.   Relax in our calm and welcoming gardens.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12938/building_12938_sacred_grounds_f2c41ce07f97ca90f3d4f726d3fd0d70.png",
+                        "title": "Photo of Sacred Grounds / St Anne's Church and Garden"
+                    }
+                ],
+                "name": "Sacred Grounds / St Anne's Church and Garden",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12938"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.16263,
                     51.54221
                 ],
@@ -2296,6 +2323,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.18483,
+                    51.55096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "JW3 is the first and only Jewish Community Centre and arts venue of its kind to exist in UK. Architecturally award-winning, we are an open and welcoming Jewish space that brings different people together, strengthens identities, and builds community through arts, culture, education, and social action.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13908/building_13908_mural-open-house_a899d003d742efe8ed2bed5f666a4098.png",
+                        "title": "Blake Ezra Photography"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13908/building_13908_mural-open-house-2_f97e66be0abaa0db4718e7fedb7c561c.png",
+                        "title": "Blake Ezra Photography"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13908/building_13908_mural-open-house-3_2ee06312d1587f9db9cf236f81fdbf83.png",
+                        "title": "Blake Ezra Photography"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13908/building_13908_mural-open-house-4_bdc2876f8e3e18ef880632c6355d6d8b.png",
+                        "title": "Blake Ezra Photography"
+                    }
+                ],
+                "name": "JW3 London",
+                "new_venue_this_year": "Yes",
+                "start": "16:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13908"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.09889,
                     51.51415
                 ],
@@ -2376,6 +2442,33 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13927"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.12805,
+                    51.51024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The building has had many incarnations since its construction in the 1890s as a woolen warehouse.   It became a home to the Italian Benevolent Society, then a fascist club, a serviceman's club, and now a library with the largest publicly accessible collection of Chinese language books in the UK.",
+                "end": "17:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13932/building_13932_cclibrary_aac4f61617dd886ae466832eb31b42b7.jpg",
+                        "title": "Westminster City Council"
+                    }
+                ],
+                "name": "Charing Cross Library",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13932"
             },
             "type": "Feature"
         }
