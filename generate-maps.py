@@ -12,7 +12,6 @@ from shapely.geometry import mapping
 from shapely.geometry import Point
 
 year = os.environ["YEAR"]
-timezone = pytz.timezone("Europe/London")
 data_path = f"data/{year}"
 maps_path = f"maps/{year}"
 
@@ -34,7 +33,7 @@ for filename in os.listdir(data_path):
     if not data["events"]:
         dates["no_events"].append(data)
 
-now = timezone.localize(datetime.now())
+now = datetime.now(pytz.utc)
 
 for date, locations in sorted(dates.items()):
     print(f"Writing {date}...")

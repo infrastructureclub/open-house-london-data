@@ -5,7 +5,11 @@ import html
 from collections import defaultdict
 from datetime import datetime
 
-now = datetime.now()
+import pytz
+
+timezone = pytz.timezone("Europe/London")
+
+now = datetime.now(pytz.utc).astimezone(timezone)
 year = now.year
 input_directory = f"data/{year}"
 

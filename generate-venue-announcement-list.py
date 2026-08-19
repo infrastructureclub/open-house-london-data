@@ -7,7 +7,9 @@ from datetime import datetime, timezone
 
 from dateutil import parser
 from feedgen.feed import FeedGenerator
+import pytz
 
+london_tz = pytz.timezone("Europe/London")
 
 year = os.environ["YEAR"]
 input_directory = f"data/{year}"
@@ -67,6 +69,7 @@ if os.path.isdir(input_directory):
         for datestring, listings in sorted(groups.items(), reverse=True):
             date = parser.parse(datestring)
             date = date.replace(tzinfo=timezone.utc)
+            date = date.astimezone(london_tz)
 
             if not latest_date:
                 latest_date = date

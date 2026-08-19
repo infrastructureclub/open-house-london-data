@@ -9,7 +9,6 @@ from dateutil import parser
 import pytz
 
 year = os.environ["YEAR"]
-timezone = pytz.timezone("Europe/London")
 data_path = f"data/{year}"
 csv_path = f"csv/{year}"
 
@@ -41,7 +40,7 @@ header = [
     "fully_booked",
 ]
 
-now = timezone.localize(datetime.now())
+now = datetime.now(pytz.utc)
 
 for date, locations in dates.items():
     os.makedirs(csv_path, exist_ok=True)

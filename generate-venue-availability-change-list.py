@@ -7,7 +7,9 @@ from datetime import datetime, timezone
 
 from dateutil import parser
 from feedgen.feed import FeedGenerator
+import pytz
 
+london_tz = pytz.timezone("Europe/London")
 
 year = os.environ["YEAR"]
 input_directory = f"scrape_summaries/{year}"
@@ -100,6 +102,7 @@ if os.path.isdir(input_directory):
             filename = filepath.split("/")[-1]
             date = datetime.strptime(filename, f"%Y-%m-%d_%H%M.json")
             date = date.replace(tzinfo=timezone.utc)
+            date = date.astimezone(london_tz)
 
             if not generated_date:
                 generated_date = date
