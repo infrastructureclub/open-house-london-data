@@ -19,14 +19,72 @@ headers = {
 
 proxy = os.getenv("PROXY")
 
-cookies = {}
-session_cookie = os.getenv("OH_SESSION_COOKIE")
-if session_cookie:
-    print("Using session cookie...")
-    cookies = {"_session_id": session_cookie}
+SESSION_CACHE_FILE = ".session_cache.json"
+
+
+def login(username, password):
+    print("Logging in...")
+
+    login_page = requests.get(
+        "https://programme.openhouse.org.uk/login",
+        headers=headers,
+        impersonate="chrome",
+        proxy=proxy,
+    )
+    root = lxml.html.document_fromstring(login_page.content)
+    token_nodes = root.xpath(
+        '//form[@action="/login"]//input[@name="authenticity_token"]'
+    )
+    if not token_nodes:
+        raise Exception("Could not find login form to authenticate with")
+    authenticity_token = token_nodes[0].attrib["value"]
+
+    response = requests.post(
+        "https://programme.openhouse.org.uk/login",
+        data={
+            "authenticity_token": authenticity_token,
+            "user[email]": username,
+            "user[password]": password,
+            "redirect_to": "https://programme.openhouse.org.uk/",
+        },
+        cookies={"_session_id": login_page.cookies["_session_id"]},
+        headers=headers,
+        impersonate="chrome",
+        proxy=proxy,
+    )
+
+    if b"Log out" not in response.content:
+        raise Exception(
+            "Login failed - check OH_USERNAME/OH_PASSWORD are correct"
+        )
+
+    session_id = response.cookies["_session_id"]
+    with open(SESSION_CACHE_FILE, "w") as f:
+        json.dump({"session_id": session_id}, f)
+    print("Logged in and cached session")
+    return session_id
+
+
+username = os.getenv("OH_USERNAME")
+password = os.getenv("OH_PASSWORD")
+
+if username and password:
+    session_id = None
+    if os.path.exists(SESSION_CACHE_FILE):
+        try:
+            with open(SESSION_CACHE_FILE, "r") as f:
+                session_id = json.load(f).get("session_id")
+        except (json.JSONDecodeError, OSError):
+            session_id = None
+
+    if session_id:
+        print("Using cached session...")
+    else:
+        session_id = login(username, password)
+    cookies = {"_session_id": session_id}
 else:
     print(
-        "NOT using session cookie - this will not have accurate booking status data..."
+        "NOT logging in - OH_USERNAME/OH_PASSWORD not set - this will not have accurate booking status data..."
     )
     cookies = {"_session_id": "no_session"}
 
@@ -118,13 +176,24 @@ for building in buildings:
         print("SKIPPING as listing has been withdrawn for this year")
         continue
 
-    if session_cookie and b"Log out" not in response.content:
-        print(
-            "!! Invalid session cookie, cannot continue without scraping incorrect data"
+    if username and password and b"Log out" not in response.content:
+        print("!! Session invalid or expired, logging in again...")
+        cookies = {"_session_id": login(username, password)}
+
+        response = requests.get(
+            original_url,
+            cookies=cookies,
+            headers=headers,
+            impersonate="chrome",
+            proxy=proxy,
         )
-        print(response.status_code)
-        print(response.content)
-        raise Exception("Invalid session cookie")
+
+        if b"Log out" not in response.content:
+            print(response.status_code)
+            print(response.content)
+            raise Exception(
+                "Logged in again but session still appears invalid, cannot continue without scraping incorrect data"
+            )
 
     # OH now reissues a time-limited cookie on each page load
     cookies = {"_session_id": response.cookies["_session_id"]}

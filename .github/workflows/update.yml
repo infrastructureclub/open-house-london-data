@@ -2,7 +2,7 @@ name: Update open house data
 concurrency: scrape
 on: 
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */1 * * *'
   workflow_dispatch:
 jobs:
   scrape-and-commit:
@@ -18,10 +18,18 @@ jobs:
         with:
           packages: libgeos-dev
           version: 1
+      - name: Restore session cache
+        uses: actions/cache@v4
+        with:
+          path: .session_cache.json
+          key: oh-session-${{ github.run_id }}
+          restore-keys: |
+            oh-session-
       - name: Scrape and commit
         env:
           YEAR: 2026
-          #OH_SESSION_COOKIE: ${{ secrets.OH_SESSION_COOKIE }}
+          OH_USERNAME: ${{ secrets.OH_USERNAME }}
+          OH_PASSWORD: ${{ secrets.OH_PASSWORD }}
           WG_CONFIG_ZIP: ${{ secrets.WG_CONFIG_ZIP }}
           PROXY: socks5h://127.0.0.1:1080/
         run: |
