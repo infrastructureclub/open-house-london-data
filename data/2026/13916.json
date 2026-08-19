@@ -1,7 +1,7 @@
 {
     "all_week": false,
     "balloted_events": false,
-    "description": "Experience London's newest 3,800-capacity music venue at Olympia London. This exclusive tour features:\r\n\r\nVIP Wing Lounge Access: Stunning stage views\r\n\r\nBackstage Tour: A behind-the-scenes look at production areas\r\n\r\nStar Dressing Rooms: An exclusive peek inside where headliners prepare",
+    "description": "Experience London's newest 3,800-capacity music venue at Olympia. This exclusive tour features:\r\n\r\nVIP Wing Lounge Access: Stunning stage views\r\n\r\nBackstage Tour: A behind-the-scenes look at production areas\r\n\r\nStar Dressing Rooms: An exclusive peek inside where headliners prepare",
     "design": {
         "designers": [
             {
@@ -11,6 +11,7 @@
             }
         ],
         "periods": [
+            "Heatherwick Studios",
             "Contemporary"
         ],
         "types": [
@@ -27,7 +28,7 @@
             "date": "2026-09-18",
             "drop_in": false,
             "end": "2026-09-18T14:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "BTS Tour of the new British Airways ARC",
             "notes": "Please note: This tour lasts between 45 mins - 1 hour.",
             "start": "2026-09-18T13:00:00+01:00",
@@ -42,14 +43,19 @@
             "date": "2026-09-18",
             "drop_in": false,
             "end": "2026-09-18T15:00:00+01:00",
-            "fully_booked": false,
+            "fully_booked": true,
             "name": "BTS Tour of the new British Airways ARC",
             "notes": "Please note: This tour lasts between 45 mins - 1 hour.",
             "start": "2026-09-18T14:00:00+01:00",
             "ticketed": true
         }
     ],
-    "facilities": [],
+    "facilities": [
+        "Accessible toilet",
+        "Handrails on both sides of stairs",
+        "Step-free routes",
+        "Toilets"
+    ],
     "factsheet": [
         {
             "heading": "BTS Tour of the new British Airways Arc with AEG",
@@ -77,6 +83,14 @@
         {
             "href": "https://www.instagram.com/britishairwaysarc",
             "title": "www.instagram.com/britishairwaysarc"
+        },
+        {
+            "href": "https://www.olympia.co.uk/",
+            "title": "www.olympia.co.uk"
+        },
+        {
+            "href": "https://www.instagram.com/olympialondon",
+            "title": "www.instagram.com/olympialondon"
         }
     ],
     "location": {
@@ -85,7 +99,7 @@
         "longitude": -0.20852,
         "meeting_point": null,
         "travel_info": [
-            "Tube: Barons Court, Hammersmith, Kennington, West Brompton",
+            "Tube: Barons Court, Hammersmith, Shepherd's Bush, West Kensington",
             "Train: Kensington Olympia",
             "Bus: 27, 28, 306, 49, C1",
             "Additional travel info: Meeting Point: 7 Emberton Walk, Olympia, London."

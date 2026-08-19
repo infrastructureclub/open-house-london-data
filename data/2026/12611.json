@@ -15,7 +15,38 @@
             "community/cultural"
         ]
     },
-    "events": [],
+    "events": [
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12611",
+            "capacity": null,
+            "date": "2026-09-12",
+            "drop_in": false,
+            "end": "2026-09-12T14:45:00+01:00",
+            "fully_booked": false,
+            "name": "Hedonism As Activism",
+            "notes": "Fashion & Luxury PR Amar challenges us to consider the role of Fashion & Luxury in shaping social attitudes. Introducing the Gaydian Angels",
+            "start": "2026-09-12T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12611",
+            "capacity": null,
+            "date": "2026-09-12",
+            "drop_in": false,
+            "end": "2026-09-12T15:45:00+01:00",
+            "fully_booked": false,
+            "name": "The Joy of Discovering Musical Theatre",
+            "notes": "Westminster Blue Badge Guide Roberto shares his journey from Uruguay to London and how Musical Theatre became the touchstone of his new life",
+            "start": "2026-09-12T15:00:00+01:00",
+            "ticketed": true
+        }
+    ],
     "facilities": [
         "Drinking water",
         "Family-friendly event",
@@ -54,8 +85,12 @@
             "title": "www.instagram.com/themuseumofsoho"
         },
         {
-            "href": "https://www.cantbearts.org",
-            "title": "www.cantbearts.org"
+            "href": "https://www.instagram.com/RobertoWalksLondon",
+            "title": "www.instagram.com/RobertoWalksLondon"
+        },
+        {
+            "href": "https://linktr.ee/RobertoWalksLondon",
+            "title": "linktr.ee/RobertoWalksLondon"
         }
     ],
     "location": {
@@ -70,7 +105,7 @@
     "name": "De Lane Lea Studios, 75 Dean Street",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/12611",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2024,
         2025,
