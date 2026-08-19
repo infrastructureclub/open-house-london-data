@@ -12,7 +12,7 @@ import lxml.html
 from dateutil import parser
 import pytz
 from urlextract import URLExtract
-from curl_cffi import requests
+from curl_cffi import requests, CurlError
 
 proxy = os.getenv("PROXY")
 proxy_timeout = float(os.getenv("PROXY_TIMEOUT", "60"))
@@ -186,7 +186,7 @@ for building in buildings:
             else:
                 break
 
-        except requests.errors.RequestsError as e:
+        except CurlError as e:
             print(f"!!? Failed to fetch listing page, trying again in 10s: '{e}'")
             time.sleep(10)
 
