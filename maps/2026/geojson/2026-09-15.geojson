@@ -1137,33 +1137,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.13932,
-                    51.51092
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "A revival and love letter to London’s lost bohemia. Travel back in time to the legendary haunt of some of Soho's greatest creatives.   Featuring pictures, press cuttings and even the piano from the much loved private members club.",
-                "end": "23:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12933/building_12933_colonyroomgreen_marknorton_ohf_09212024_015_cc5f344cb8429c7f0e6040e074ddfed5.jpg",
-                        "title": "Photo of Explore the authentically recreated Colony Room"
-                    }
-                ],
-                "name": "Explore the authentically recreated Colony Room",
-                "new_venue_this_year": "No",
-                "start": "14:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/12933"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.16263,
                     51.54221
                 ],
@@ -2025,6 +1998,41 @@
                 "start": "17:30:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13821"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.12643,
+                    51.50084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Walking tour of the sites of the last days of King Charles I and the legacy of the upheavals which cost him his life and still echo to this day.",
+                "end": "15:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13863/building_13863_img_79531_b61dffc233d965785700090b5313fd0e.jpg",
+                        "title": "Photo of Walking Tour:  Charles I - Monster or Martyr ?"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13863/building_13863_img_7934_85d72f5de72f1c5cd3fe6ad61243abfe.jpg",
+                        "title": "Photo of Walking Tour:  Charles I - Monster or Martyr ?"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13863/building_13863_img-20260321-wa0057_65c15316ba81a81f548971f45dd566c7.jpg",
+                        "title": "Photo of Walking Tour:  Charles I - Monster or Martyr ?"
+                    }
+                ],
+                "name": "Walking Tour:  Charles I - Monster or Martyr ?",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13863"
             },
             "type": "Feature"
         },

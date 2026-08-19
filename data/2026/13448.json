@@ -19,19 +19,19 @@
     },
     "events": [
         {
-            "activity_type": "Other",
+            "activity_type": "Drop in",
             "all_day": false,
             "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13448",
+            "booking_link": null,
             "capacity": null,
             "date": "2026-09-12",
-            "drop_in": false,
-            "end": "2026-09-12T15:00:00+01:00",
+            "drop_in": true,
+            "end": "2026-09-12T18:00:00+01:00",
             "fully_booked": false,
-            "name": "Maybe It's because I'm a Londoner",
+            "name": "Drop in: Maybe It's because I'm a Londoner",
             "notes": "Theatrical performance",
-            "start": "2026-09-12T12:00:00+01:00",
-            "ticketed": true
+            "start": "2026-09-12T14:00:00+01:00",
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -96,7 +96,7 @@
     "name": "Soho Square Gardens",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/13448",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2025,
         2026

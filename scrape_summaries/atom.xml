@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-17T18:37:00+00:00</updated>
+  <updated>2026-08-19T08:35:00+00:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-07_1652.json</id>
-    <title>1 venues added dates on Fri 07 August at 16:52</title>
-    <updated>2026-08-07T16:52:00+00:00</updated>
-    <content>🗓️ 3660 - The Tin Tabernacle / Cambridge Hall&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-07_1652.json"/>
-    <published>2026-08-07T16:52:00+00:00</published>
-  </entry>
   <entry>
     <id>2026-08-11_1455.json</id>
     <title>1 venues added dates on Tue 11 August at 14:55</title>
@@ -117,5 +109,13 @@
 🗓️ 10104 - St John at Hackney&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-17_1837.json"/>
     <published>2026-08-17T18:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-19_0835.json</id>
+    <title>1 venues added dates on Wed 19 August at 08:35</title>
+    <updated>2026-08-19T08:35:00+00:00</updated>
+    <content>🗓️ 13863 - Walking Tour:  Charles I - Monster or Martyr ?&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-19_0835.json"/>
+    <published>2026-08-19T08:35:00+00:00</published>
   </entry>
 </feed>
