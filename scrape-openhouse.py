@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import os
 import sys
+import csv
 import json
 import re
 import time
@@ -13,14 +14,14 @@ import pytz
 from urlextract import URLExtract
 from curl_cffi import requests
 
+proxy = os.getenv("PROXY")
+proxy_timeout = float(os.getenv("PROXY_TIMEOUT", "60"))
+
 headers = {
     "Referer": "https://programme.openhouse.org.uk/",
 }
 
-proxy = os.getenv("PROXY")
-
-SESSION_CACHE_FILE = ".session_cache.json"
-
+session_cache_file = ".session_cache.json"
 
 def login(username, password):
     print("Logging in...")
@@ -30,6 +31,7 @@ def login(username, password):
         headers=headers,
         impersonate="chrome",
         proxy=proxy,
+        timeout=proxy_timeout,
     )
     root = lxml.html.document_fromstring(login_page.content)
     token_nodes = root.xpath(
@@ -51,6 +53,7 @@ def login(username, password):
         headers=headers,
         impersonate="chrome",
         proxy=proxy,
+        timeout=proxy_timeout,
     )
 
     if b"Log out" not in response.content:
@@ -59,20 +62,43 @@ def login(username, password):
         )
 
     session_id = response.cookies["_session_id"]
-    with open(SESSION_CACHE_FILE, "w") as f:
+    with open(session_cache_file, "w") as f:
         json.dump({"session_id": session_id}, f)
     print("Logged in and cached session")
     return session_id
 
+
+# CSV columns: Venue Link, Venue Name, Notify Slack Handles (comma separated)
+slack_alert_csv = "slack_alert_ids.csv"
+slack_alert_ids = {}
+if os.path.exists(slack_alert_csv):
+    with open(slack_alert_csv, newline="") as f:
+        reader = csv.reader(f)
+        next(reader, None)  # skip header row
+        for venue_link, _venue_name, handles, *_ignore in reader:
+            building_id = int(venue_link.rstrip("/").rsplit("/", 1)[-1])
+            slack_alert_ids[building_id] = [
+                h.strip() for h in handles.split(",") if h.strip()
+            ]
+
+# CSV columns: @User, Slack Member ID
+slack_member_ids_csv = "slack_member_ids.csv"
+slack_member_ids = {}
+if os.path.exists(slack_member_ids_csv):
+    with open(slack_member_ids_csv, newline="") as f:
+        reader = csv.reader(f)
+        next(reader, None)  # skip header row
+        for handle, member_id, *_ignore in reader:
+            slack_member_ids[handle.strip()] = member_id.strip()
 
 username = os.getenv("OH_USERNAME")
 password = os.getenv("OH_PASSWORD")
 
 if username and password:
     session_id = None
-    if os.path.exists(SESSION_CACHE_FILE):
+    if os.path.exists(session_cache_file):
         try:
-            with open(SESSION_CACHE_FILE, "r") as f:
+            with open(session_cache_file, "r") as f:
                 session_id = json.load(f).get("session_id")
         except (json.JSONDecodeError, OSError):
             session_id = None
@@ -106,6 +132,7 @@ response = requests.get(
     headers=headers,
     impersonate="chrome",
     proxy=proxy,
+    timeout=proxy_timeout,
 )
 root = lxml.html.document_fromstring(response.content)
 marker_nodes = root.xpath('//ul[@class="markers"]/li')
@@ -130,7 +157,7 @@ scraped_venues = []
 venues_added_days = {}
 venues_now_bookable = []
 
-scrape_start = datetime.now()
+scrape_start = datetime.now(pytz.utc)
 count = 0
 
 for building in buildings:
@@ -148,6 +175,7 @@ for building in buildings:
                 headers=headers,
                 impersonate="chrome",
                 proxy=proxy,
+                timeout=proxy_timeout,
             )
             if response.content == b"Retry later\n" or response.status_code == 503:
                 sleep_until = datetime.now() + timedelta(minutes=1)
@@ -186,6 +214,7 @@ for building in buildings:
             headers=headers,
             impersonate="chrome",
             proxy=proxy,
+            timeout=proxy_timeout,
         )
 
         if b"Log out" not in response.content:
@@ -550,6 +579,23 @@ for building in buildings:
 
             if bookable_count > 0 and previously_fully_booked:
                 venues_now_bookable.append(data["id"])
+
+                # Send slack alerts immediately if this venue is now bookable
+                slack_hook = os.getenv("SLACK_HOOK_URL")
+                if slack_hook and data["id"] in slack_alert_ids:
+                    message = f":tada: *{data['name']}* has bookings available! {original_url}"
+                    mentions = slack_alert_ids[data["id"]]
+                    if mentions:
+                        mention_text = " ".join(
+                            f"<@{slack_member_ids[m]}>" if m in slack_member_ids else m
+                            for m in mentions
+                        )
+                        message += f" - paging {mention_text}"
+
+                    try:
+                        requests.post(slack_hook, json={"text": message})
+                    except requests.errors.RequestsError as e:
+                        print(f"!! Failed to send Slack alert: '{e}'")
 
     # Detect a venue adding new days for the summary
     if existing_data:

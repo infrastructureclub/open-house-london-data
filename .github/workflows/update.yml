@@ -25,13 +25,26 @@ jobs:
           key: oh-session-${{ github.run_id }}
           restore-keys: |
             oh-session-
+      - name: Download Slack alert config
+        env:
+          SLACK_ALERT_IDS_URL: ${{ secrets.SLACK_ALERT_IDS_URL }}
+          SLACK_MEMBER_IDS_URL: ${{ secrets.SLACK_MEMBER_IDS_URL }}
+        run: |
+          if [ -n "$SLACK_ALERT_IDS_URL" ]; then
+            wget -q -O slack_alert_ids.csv "$SLACK_ALERT_IDS_URL"
+          fi
+          if [ -n "$SLACK_MEMBER_IDS_URL" ]; then
+            wget -q -O slack_member_ids.csv "$SLACK_MEMBER_IDS_URL"
+          fi
       - name: Scrape and commit
         env:
           YEAR: 2026
           OH_USERNAME: ${{ secrets.OH_USERNAME }}
           OH_PASSWORD: ${{ secrets.OH_PASSWORD }}
+          SLACK_HOOK_URL: ${{ secrets.SLACK_HOOK_URL }}
           WG_CONFIG_ZIP: ${{ secrets.WG_CONFIG_ZIP }}
           PROXY: socks5h://127.0.0.1:1080/
+          PROXY_TIMEOUT: "90"
         run: |
           pip install -r requirements.txt
 
