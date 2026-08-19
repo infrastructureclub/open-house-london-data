@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-19T21:22:00+01:00</updated>
+  <updated>2026-08-19T22:21:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-11_1656.json</id>
-    <title>1 venues added dates on Tue 11 August at 17:56</title>
-    <updated>2026-08-11T17:56:00+01:00</updated>
-    <content>🗓️ 628 - Hogarth's House&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-11_1656.json"/>
-    <published>2026-08-11T17:56:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-12_1455.json</id>
     <title>1 venues added dates on Wed 12 August at 15:55</title>
@@ -158,5 +150,14 @@
 🎟️ 443 - Friends House&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-19_2022.json"/>
     <published>2026-08-19T21:22:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-19_2121.json</id>
+    <title>Tickets released for 2 venues on Wed 19 August at 22:21</title>
+    <updated>2026-08-19T22:21:00+01:00</updated>
+    <content>🎟️ 876 - Lambeth Town Hall&lt;br&gt;
+🎟️ 1381 - The Old Town Hall, Richmond&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-19_2121.json"/>
+    <published>2026-08-19T22:21:00+01:00</published>
   </entry>
 </feed>
