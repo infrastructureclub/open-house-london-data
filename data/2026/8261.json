@@ -27,10 +27,10 @@
             "capacity": null,
             "date": "2026-09-19",
             "drop_in": true,
-            "end": "2026-09-19T15:00:00+01:00",
+            "end": "2026-09-19T14:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in: See the Company in action!",
-            "notes": "10:00 – 11:00 Company Class \r\n11:15 – 12:00 Dancer Rehearsal (BSL)\r\n12.15 – 13.00 Dancer Rehearsal\r\n13.30 – 14.15 ENB Philharmonic Orchestra",
+            "notes": "10:00 – 11:00 Company Class \r\n11:15 – 12:00 Dancer Rehearsal (BSL)\r\n12.15 – 13.00 Dancer Rehearsal\r\n13.30 – 14.00 ENB Philharmonic Orchestra",
             "start": "2026-09-19T10:00:00+01:00",
             "ticketed": false
         },
@@ -42,11 +42,11 @@
             "capacity": null,
             "date": "2026-09-19",
             "drop_in": true,
-            "end": "2026-09-19T17:00:00+01:00",
+            "end": "2026-09-19T16:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Bhangra Ceilidh",
             "notes": "Learn some new moves, take to the floor or simply enjoy the atmosphere, with our celebratory Ceilidh and live band in our production studio.",
-            "start": "2026-09-19T15:00:00+01:00",
+            "start": "2026-09-19T14:30:00+01:00",
             "ticketed": false
         },
         {
@@ -80,21 +80,6 @@
             "ticketed": true
         },
         {
-            "activity_type": "Family activity",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/8261",
-            "capacity": null,
-            "date": "2026-09-19",
-            "drop_in": false,
-            "end": "2026-09-19T13:45:00+01:00",
-            "fully_booked": false,
-            "name": "Family Dance Workshop",
-            "notes": "(Recommended age: 3 – 7 years. All children must be accompanied by an adult)",
-            "start": "2026-09-19T13:00:00+01:00",
-            "ticketed": true
-        },
-        {
             "activity_type": "BSL guided tour",
             "all_day": false,
             "balloted": false,
@@ -117,25 +102,25 @@
             "capacity": null,
             "date": "2026-09-19",
             "drop_in": false,
-            "end": "2026-09-19T14:45:00+01:00",
+            "end": "2026-09-19T13:45:00+01:00",
             "fully_booked": false,
             "name": "Family Dance Workshop",
             "notes": "(Recommended age: 3 – 7 years. All children must be accompanied by an adult)",
-            "start": "2026-09-19T14:00:00+01:00",
+            "start": "2026-09-19T13:00:00+01:00",
             "ticketed": true
         },
         {
-            "activity_type": "Guided tour",
+            "activity_type": "Family activity",
             "all_day": false,
             "balloted": false,
             "booking_link": "https://programme.openhouse.org.uk/listings/8261",
             "capacity": null,
             "date": "2026-09-19",
             "drop_in": false,
-            "end": "2026-09-19T15:00:00+01:00",
+            "end": "2026-09-19T14:45:00+01:00",
             "fully_booked": false,
-            "name": "Guided Tour",
-            "notes": "",
+            "name": "Family Dance Workshop",
+            "notes": "(Recommended age: 3 – 7 years. All children must be accompanied by an adult)",
             "start": "2026-09-19T14:00:00+01:00",
             "ticketed": true
         },
@@ -151,6 +136,21 @@
             "fully_booked": false,
             "name": "Adult Ballet Workshop",
             "notes": "(18+, Open level)\r\nWear comfy clothes suitable for moving and bring an enthusiasm to dance the afternoon away!",
+            "start": "2026-09-19T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/8261",
+            "capacity": null,
+            "date": "2026-09-19",
+            "drop_in": false,
+            "end": "2026-09-19T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided Tour",
+            "notes": "",
             "start": "2026-09-19T14:00:00+01:00",
             "ticketed": true
         },
@@ -239,7 +239,7 @@
                 "",
                 "Adult Ballet (18+, Open level) \n14:00 \nStep into our world-class studios this September and enjoy a ballet class lead by an expert associate artist, accompanied by live music. Wear comfy clothes suitable for moving and bring an enthusiasm to dance the afternoon away!",
                 "",
-                "Bhangra Ceilidh (All ages and experience levels welcome) \n15:00 \nLearn some new moves, take to the floor or simply enjoy the atmosphere, with our celebratory Bhangra Ceilidh and live band in our production studio."
+                "Bhangra Ceilidh (All ages and experience levels welcome) \n14:30 \nLearn some new moves, take to the floor or simply enjoy the atmosphere, with our celebratory Bhangra Ceilidh and live band in our production studio."
             ]
         },
         {
