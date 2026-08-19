@@ -475,20 +475,31 @@ for building in buildings:
                 balloted = False
 
                 if booking_buttons:
-                    booking_string = booking_buttons[0].text_content().strip()
-                    if "full" in booking_string.lower():
+                    booking_string = booking_buttons[0].text_content().strip().lower()
+                    button_disabled = booking_buttons[0].attrib.get("disabled") == "disabled"
+                    known_status = False
+
+                    if "full" in booking_string:
                         fully_booked = True
                         fully_booked_count += 1
+                        known_status = True
 
-                    if "ballot" in booking_string.lower():
+                    if "ballot" in booking_string:
                         balloted = True
                         balloted_events = True
+                        known_status = True
 
-                        if booking_buttons[0].attrib["disabled"] == "disabled":
+                        if button_disabled:
                             fully_booked = True
                             fully_booked_count += 1
 
-                    if not fully_booked:
+                    if not known_status and button_disabled:
+                        # If we can't determine the booking status, we'd prefer
+                        # to store that we don't know rather than say it isn't
+                        # fully booked
+                        fully_booked = None
+
+                    if fully_booked is False:
                         bookable_count += 1
 
                 all_day = False
@@ -533,7 +544,7 @@ for building in buildings:
         previously_fully_booked = True
         if existing_data:
             for event in existing_data["events"]:
-                if event["ticketed"] and not event["fully_booked"]:
+                if event["ticketed"] and event["fully_booked"] is False:
                     previously_fully_booked = False
                     break
 
