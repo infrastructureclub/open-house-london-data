@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-20T15:32:00+01:00</updated>
+  <updated>2026-08-20T16:29:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-16_1235.json</id>
-    <title>Tickets released for 1 venues, 1 venues added dates on Sun 16 August at 13:35</title>
-    <updated>2026-08-16T13:35:00+01:00</updated>
-    <content>🎟️ 13285 - 9 Wavell Court, Croydon&lt;br&gt;
-🗓️ 13285 - 9 Wavell Court, Croydon&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-16_1235.json"/>
-    <published>2026-08-16T13:35:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-17_1030.json</id>
     <title>Tickets released for 1 venues, 1 venues added dates on Mon 17 August at 11:30</title>
@@ -194,5 +185,13 @@
     <content>🎟️ 8198 - Royal Hospital for Neuro-disability&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_1432.json"/>
     <published>2026-08-20T15:32:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-20_1529.json</id>
+    <title>Tickets released for 1 venues on Thu 20 August at 16:29</title>
+    <updated>2026-08-20T16:29:00+01:00</updated>
+    <content>🎟️ 7678 - Kingston Historic walk&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_1529.json"/>
+    <published>2026-08-20T16:29:00+01:00</published>
   </entry>
 </feed>
