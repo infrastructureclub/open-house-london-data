@@ -48,6 +48,21 @@
             "notes": "Visit the artists in their studios.",
             "start": "2026-09-13T12:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12164",
+            "capacity": null,
+            "date": "2026-09-12",
+            "drop_in": false,
+            "end": "2026-09-12T14:00:00+01:00",
+            "fully_booked": false,
+            "name": "Botanical Screen Printing with Tamasyn Gambell",
+            "notes": "Screen print a fabric patch using foraged, pressed flowers and leaves. Design and take home your own botanical creation. For kids & families",
+            "start": "2026-09-12T13:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -148,7 +163,7 @@
     "name": "Good Shepherd Studios",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/12164",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2023,
         2024,
