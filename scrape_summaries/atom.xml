@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-20T17:30:00+01:00</updated>
+  <updated>2026-08-20T18:25:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-17_1240.json</id>
-    <title>Tickets released for 1 venues on Mon 17 August at 13:40</title>
-    <updated>2026-08-17T13:40:00+01:00</updated>
-    <content>🎟️ 13822 - Ibraaz&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-17_1240.json"/>
-    <published>2026-08-17T13:40:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-17_1837.json</id>
     <title>Tickets released for 1 venues, 1 venues added dates on Mon 17 August at 19:37</title>
@@ -193,5 +185,14 @@
 🎟️ 12731 - Wolves Lane Horticultural Centre&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_1630.json"/>
     <published>2026-08-20T17:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-20_1725.json</id>
+    <title>Tickets released for 2 venues on Thu 20 August at 18:25</title>
+    <updated>2026-08-20T18:25:00+01:00</updated>
+    <content>🎟️ 13621 - Mulberry Academy London Dock&lt;br&gt;
+🎟️ 628 - Hogarth's House&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_1725.json"/>
+    <published>2026-08-20T18:25:00+01:00</published>
   </entry>
 </feed>
