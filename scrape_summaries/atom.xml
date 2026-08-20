@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-20T02:01:00+01:00</updated>
+  <updated>2026-08-20T03:53:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-13_1059.json</id>
-    <title>Tickets released for 1 venues on Thu 13 August at 11:59</title>
-    <updated>2026-08-13T11:59:00+01:00</updated>
-    <content>🎟️ 13814 - William Mitchell's Mural at Brooklands Primary School&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-13_1059.json"/>
-    <published>2026-08-13T11:59:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-13_1456.json</id>
     <title>1 venues added dates on Thu 13 August at 15:56</title>
@@ -171,5 +163,13 @@
 🎟️ 12086 - Crystal Palace Subway&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_0101.json"/>
     <published>2026-08-20T02:01:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-20_0253.json</id>
+    <title>Tickets released for 1 venues on Thu 20 August at 03:53</title>
+    <updated>2026-08-20T03:53:00+01:00</updated>
+    <content>🎟️ 2192 - Tower Gardens Garden Suburb&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_0253.json"/>
+    <published>2026-08-20T03:53:00+01:00</published>
   </entry>
 </feed>
