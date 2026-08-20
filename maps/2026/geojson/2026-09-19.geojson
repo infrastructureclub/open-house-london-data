@@ -4492,7 +4492,7 @@
                 "balloted": "No",
                 "description": "A cleverly integrated mixture of architectural styles and periods, incorporating a late 1720s house (later home to Herbert Henry Asquith) and the purpose-built College of Nursing (1926). Access to main building via guided tour only.",
                 "end": "16:15:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/6151/building_6151_external-2_06e1c11c4f9913f6b00a6f55fe35679f.jpg",
@@ -5063,7 +5063,7 @@
                 "balloted": "No",
                 "description": "Georgian townhouse designed by the Adam Brothers in 1777-1778 and a fine example of Neoclassical interior design. It houses a collection of European artworks and includes a unique Edwardian Anglo-Japanese drawing room.  \r\n\r\nIndividual pre-booking is essential, a photo ID will be required upon entry. Airport-style security checks will also be in place, so please do not bring any heavy luggage.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7544/building_7544_polish-embassy-main-entrance_65323a5c45a950b5433611cc4d0e74f8.jpeg",
@@ -8319,7 +8319,7 @@
                 "balloted": "No",
                 "description": "Morden College is a charity founded in 1695 by Sir John Morden. For over 330 years, it has provided safe, high quality homes that support independence, dignity and belonging later in life. Join a guided tour of its beautiful buildings, from the historic grade I listed Quadrangle to the award winning John Morden Centre, winner of the RIBA Stirling Prize.",
                 "end": "16:15:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12908/building_12908_john-morden-centre-2-credit-jim-stephenson_43e02d9a6a92370d332bb17f2f005107.jpg",
@@ -11460,37 +11460,6 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13794"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.07469,
-                    51.54693
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Tucked away on Ashwin Street, this 1870 Victorian factory for Reeves & Sons paint survived the Blitz. Decades later, after housing railway engineers and hosting 1980s reggae sound systems, Bootstrap Charity saved it from developers. Now called The Print House, this cornerstone of the Dalston Cultural Quarter boasts a unique World War II bunker space alongside its studios and iconic Roof Park.",
-                "end": "17:30:00",
-                "fully_booked": "Yes",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13807/building_13807_the_print_house_e5b9af852186d27417d9880d6aa16438.jpg",
-                        "title": "Photo of The Print House"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13807/building_13807_ww2_bunker_bs_0beebfad69e25ca77dc90d1d8301c009.jpg",
-                        "title": "Photo of The Print House"
-                    }
-                ],
-                "name": "The Print House",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/13807"
             },
             "type": "Feature"
         },
