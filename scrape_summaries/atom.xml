@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-20T18:25:00+01:00</updated>
+  <updated>2026-08-20T19:33:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-17_1837.json</id>
-    <title>Tickets released for 1 venues, 1 venues added dates on Mon 17 August at 19:37</title>
-    <updated>2026-08-17T19:37:00+01:00</updated>
-    <content>🎟️ 10104 - St John at Hackney&lt;br&gt;
-🗓️ 10104 - St John at Hackney&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-17_1837.json"/>
-    <published>2026-08-17T19:37:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-19_0835.json</id>
     <title>1 venues added dates on Wed 19 August at 09:35</title>
@@ -194,5 +185,19 @@
 🎟️ 628 - Hogarth's House&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_1725.json"/>
     <published>2026-08-20T18:25:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-20_1833.json</id>
+    <title>Tickets released for 7 venues on Thu 20 August at 19:33</title>
+    <updated>2026-08-20T19:33:00+01:00</updated>
+    <content>🎟️ 13909 - 'If Stone Could Speak’: Day of Craft&lt;br&gt;
+🎟️ 10389 - 12 Church Grove&lt;br&gt;
+🎟️ 1355 - Phoenix Cinema&lt;br&gt;
+🎟️ 13737 - JCDecaux UK – Tour &amp; Presentation&lt;br&gt;
+🎟️ 12532 - The Biscuit Building&lt;br&gt;
+🎟️ 12441 - Royal Foundation of St Katharine&lt;br&gt;
+🎟️ 13575 - Piccadilly Rocks!&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_1833.json"/>
+    <published>2026-08-20T19:33:00+01:00</published>
   </entry>
 </feed>
