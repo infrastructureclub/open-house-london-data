@@ -8269,7 +8269,7 @@
                 "balloted": "No",
                 "description": "Join SAVE and Dr Tom Bolton on a walking tour of Aldwych. Behind the wide formal streets of Aldwych and Kingsway lies a very different neighbourhood. Clare Market and Drury Lane were a tangle of disreputable alleys until the new streets cut them in half. But traces remain, and this walk dives into the back streets to track the vanished lanes and recreate their past at the core of ancient London.",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12833/building_12833_1_c78e2a3197895bc279df3ada0d020d95.jpg",
@@ -12155,6 +12155,41 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13919"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.01312,
+                    51.45795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Join the Stall Tales local history team for a walking tour of Lewisham's market and high street. Discover the hidden history of the market, which began in the 1890s with a few unlicensed stalls, and spent decades fighting for legal recognition. We will look at the market as a temporary architecture, local retail landmarks, and reflect on the changing face of shopping in the high street.",
+                "end": "15:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13929/building_13929_20250726_camilleserisier_2082_lewishamhistorystall_72dpi_1500px-1_b7f86775460a393d78bf8b6179af65c7.jpg",
+                        "title": "Camille Serisier/Stall Tales"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13929/building_13929_fig-2-lantern-slide-copy_2f256990668c64fb8480b0d11b0f56fd.jpg",
+                        "title": "Anon. Lantern Slide, c.1900"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13929/building_13929_20150719_camilleserisier_2023_lewishamhistorystall_b27e40e2fd3114cfd9141767c4e74d8f.jpg",
+                        "title": "Camille Serisier/Stall Tales"
+                    }
+                ],
+                "name": "Stalls and Shops: a walking tour of Lewisham Market",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13929"
             },
             "type": "Feature"
         },
