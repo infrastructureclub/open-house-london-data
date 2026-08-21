@@ -2,30 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-21T08:39:00+01:00</updated>
+  <updated>2026-08-21T09:36:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-19_2022.json</id>
-    <title>Tickets released for 10 venues on Wed 19 August at 21:22</title>
-    <updated>2026-08-19T21:22:00+01:00</updated>
-    <content>🎟️ 13014 - Soho - forever changing&lt;br&gt;
-🎟️ 11303 - Crossing the Boundary, breaking the ground&lt;br&gt;
-🎟️ 2714 - Bishops Palace and Park, Bromley (formerly Bromley Civic Centre).&lt;br&gt;
-🎟️ 13100 - Regent's Park Estate Story Trail  Guided Tour&lt;br&gt;
-🎟️ 12601 - Georgian Clerkenwell's speculative housing boom&lt;br&gt;
-🎟️ 8141 - St. Mary's Church, Walthamstow Village&lt;br&gt;
-🎟️ 10238 - The Great Fire of London&lt;br&gt;
-🎟️ 13313 - London Film School - Parker Street&lt;br&gt;
-🎟️ 9008 - Brockley's Historic Mews&lt;br&gt;
-🎟️ 443 - Friends House&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-19_2022.json"/>
-    <published>2026-08-19T21:22:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-19_2121.json</id>
     <title>Tickets released for 2 venues on Wed 19 August at 22:21</title>
@@ -249,5 +232,13 @@
 🎟️ 555 - Bromley and Sheppard's College&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_0739.json"/>
     <published>2026-08-21T08:39:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-21_0836.json</id>
+    <title>Tickets released for 1 venues on Fri 21 August at 09:36</title>
+    <updated>2026-08-21T09:36:00+01:00</updated>
+    <content>🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_0836.json"/>
+    <published>2026-08-21T09:36:00+01:00</published>
   </entry>
 </feed>
