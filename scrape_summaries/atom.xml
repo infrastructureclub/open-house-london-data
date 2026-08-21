@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-21T04:55:00+01:00</updated>
+  <updated>2026-08-21T06:29:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-19_1527.json</id>
-    <title>Tickets released for 1 venues, 2 venues added dates on Wed 19 August at 16:27</title>
-    <updated>2026-08-19T16:27:00+01:00</updated>
-    <content>🎟️ 12611 - De Lane Lea Studios, 75 Dean Street&lt;br&gt;
-🗓️ 12611 - De Lane Lea Studios, 75 Dean Street&lt;br&gt;
-🗓️ 13892 - WilkinsonEyre&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-19_1527.json"/>
-    <published>2026-08-19T16:27:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-19_1749.json</id>
     <title>Tickets released for 4 venues, 1 venues added dates on Wed 19 August at 18:49</title>
@@ -252,5 +242,13 @@
     <content>🎟️ 8261 - English National Ballet&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_0355.json"/>
     <published>2026-08-21T04:55:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-21_0529.json</id>
+    <title>Tickets released for 1 venues on Fri 21 August at 06:29</title>
+    <updated>2026-08-21T06:29:00+01:00</updated>
+    <content>🎟️ 11391 - Andaz London Liverpool Street&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_0529.json"/>
+    <published>2026-08-21T06:29:00+01:00</published>
   </entry>
 </feed>
