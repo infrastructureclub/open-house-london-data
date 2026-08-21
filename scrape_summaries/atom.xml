@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-21T07:39:00+01:00</updated>
+  <updated>2026-08-21T08:39:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-19_1829.json</id>
-    <title>Tickets released for 3 venues on Wed 19 August at 19:29</title>
-    <updated>2026-08-19T19:29:00+01:00</updated>
-    <content>🎟️ 10280 - Quentin Blake Centre for Illustration - New River Head&lt;br&gt;
-🎟️ 10591 - 6 Moretown (Gensler London Studio)&lt;br&gt;
-🎟️ 13627 - Wapping Hydraulic Power Station&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-19_1829.json"/>
-    <published>2026-08-19T19:29:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-19_2022.json</id>
     <title>Tickets released for 10 venues on Wed 19 August at 21:22</title>
@@ -248,5 +238,16 @@
 🎟️ 4294 - The London Archives&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_0639.json"/>
     <published>2026-08-21T07:39:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-21_0739.json</id>
+    <title>Tickets released for 4 venues on Fri 21 August at 08:39</title>
+    <updated>2026-08-21T08:39:00+01:00</updated>
+    <content>🎟️ 13927 - Tipping Point East site tour&lt;br&gt;
+🎟️ 13285 - 9 Wavell Court, Croydon&lt;br&gt;
+🎟️ 13826 - UNIVERSITY OF WESTMINSTER: NCS and Tower Tavern&lt;br&gt;
+🎟️ 555 - Bromley and Sheppard's College&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_0739.json"/>
+    <published>2026-08-21T08:39:00+01:00</published>
   </entry>
 </feed>
