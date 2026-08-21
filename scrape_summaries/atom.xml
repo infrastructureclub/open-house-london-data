@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-21T14:41:00+01:00</updated>
+  <updated>2026-08-21T15:31:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-20_0639.json</id>
-    <title>Tickets released for 3 venues on Thu 20 August at 07:39</title>
-    <updated>2026-08-20T07:39:00+01:00</updated>
-    <content>🎟️ 13708 - The South Wing&lt;br&gt;
-🎟️ 13627 - Wapping Hydraulic Power Station&lt;br&gt;
-🎟️ 10735 - Soho Photography Quarter&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_0639.json"/>
-    <published>2026-08-20T07:39:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-20_0903.json</id>
     <title>Tickets released for 3 venues on Thu 20 August at 10:03</title>
@@ -250,5 +240,16 @@
     <content>🎟️ 555 - Bromley and Sheppard's College&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_1341.json"/>
     <published>2026-08-21T14:41:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-21_1431.json</id>
+    <title>Tickets released for 4 venues on Fri 21 August at 15:31</title>
+    <updated>2026-08-21T15:31:00+01:00</updated>
+    <content>🎟️ 13826 - UNIVERSITY OF WESTMINSTER: NCS and Tower Tavern&lt;br&gt;
+🎟️ 4294 - The London Archives&lt;br&gt;
+🎟️ 2418 - Wrotham Park&lt;br&gt;
+🎟️ 889 - The Swedenborg Society&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_1431.json"/>
+    <published>2026-08-21T15:31:00+01:00</published>
   </entry>
 </feed>
