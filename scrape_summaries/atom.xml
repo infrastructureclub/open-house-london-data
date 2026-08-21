@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-21T21:21:00+01:00</updated>
+  <updated>2026-08-21T22:20:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-20_1630.json</id>
-    <title>Tickets released for 2 venues on Thu 20 August at 17:30</title>
-    <updated>2026-08-20T17:30:00+01:00</updated>
-    <content>🎟️ 1355 - Phoenix Cinema&lt;br&gt;
-🎟️ 12731 - Wolves Lane Horticultural Centre&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_1630.json"/>
-    <published>2026-08-20T17:30:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-20_1725.json</id>
     <title>Tickets released for 2 venues on Thu 20 August at 18:25</title>
@@ -237,5 +228,14 @@
     <content>🎟️ 2840 - Charlton House &amp; Gardens&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_2021.json"/>
     <published>2026-08-21T21:21:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-21_2120.json</id>
+    <title>Tickets released for 2 venues on Fri 21 August at 22:20</title>
+    <updated>2026-08-21T22:20:00+01:00</updated>
+    <content>🎟️ 7273 - Aga Khan Centre&lt;br&gt;
+🎟️ 13627 - Wapping Hydraulic Power Station&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_2120.json"/>
+    <published>2026-08-21T22:20:00+01:00</published>
   </entry>
 </feed>
