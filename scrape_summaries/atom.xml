@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-21T15:31:00+01:00</updated>
+  <updated>2026-08-21T16:28:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-20_0903.json</id>
-    <title>Tickets released for 3 venues on Thu 20 August at 10:03</title>
-    <updated>2026-08-20T10:03:00+01:00</updated>
-    <content>🎟️ 12908 - The John Morden Centre and Morden College Almshouses&lt;br&gt;
-🎟️ 7544 - Embassy of the Republic of Poland&lt;br&gt;
-🎟️ 13655 - Traditional Roofing in Hampstead Garden Suburb&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_0903.json"/>
-    <published>2026-08-20T10:03:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-20_1132.json</id>
     <title>Tickets released for 3 venues on Thu 20 August at 12:32</title>
@@ -251,5 +241,14 @@
 🎟️ 889 - The Swedenborg Society&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_1431.json"/>
     <published>2026-08-21T15:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-21_1528.json</id>
+    <title>Tickets released for 2 venues on Fri 21 August at 16:28</title>
+    <updated>2026-08-21T16:28:00+01:00</updated>
+    <content>🎟️ 1651 - Burlington House: Society of Antiquaries of London&lt;br&gt;
+🎟️ 12833 - Lost Aldwych&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_1528.json"/>
+    <published>2026-08-21T16:28:00+01:00</published>
   </entry>
 </feed>
