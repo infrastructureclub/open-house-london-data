@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-22T14:28:00+01:00</updated>
+  <updated>2026-08-22T15:17:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-21_0355.json</id>
-    <title>Tickets released for 1 venues on Fri 21 August at 04:55</title>
-    <updated>2026-08-21T04:55:00+01:00</updated>
-    <content>🎟️ 8261 - English National Ballet&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_0355.json"/>
-    <published>2026-08-21T04:55:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-21_0529.json</id>
     <title>Tickets released for 1 venues on Fri 21 August at 06:29</title>
@@ -224,5 +216,18 @@
 🎟️ 10591 - 6 Moretown (Gensler London Studio)&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_1328.json"/>
     <published>2026-08-22T14:28:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-22_1417.json</id>
+    <title>Tickets released for 6 venues on Sat 22 August at 15:17</title>
+    <updated>2026-08-22T15:17:00+01:00</updated>
+    <content>🎟️ 13285 - 9 Wavell Court, Croydon&lt;br&gt;
+🎟️ 12422 - Walworth Town Hall&lt;br&gt;
+🎟️ 7787 - Estorick Collection of Modern Italian Art&lt;br&gt;
+🎟️ 12729 - Station Lodge&lt;br&gt;
+🎟️ 11666 - Hoxton Hall&lt;br&gt;
+🎟️ 6960 - Kingston Guildhall and History Centre&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_1417.json"/>
+    <published>2026-08-22T15:17:00+01:00</published>
   </entry>
 </feed>
