@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-22T13:31:00+01:00</updated>
+  <updated>2026-08-22T14:28:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-20_2322.json</id>
-    <title>Tickets released for 2 venues on Fri 21 August at 00:22</title>
-    <updated>2026-08-21T00:22:00+01:00</updated>
-    <content>🎟️ 12422 - Walworth Town Hall&lt;br&gt;
-🎟️ 2693 - Rachwalsky House&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_2322.json"/>
-    <published>2026-08-21T00:22:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-21_0355.json</id>
     <title>Tickets released for 1 venues on Fri 21 August at 04:55</title>
@@ -224,5 +215,14 @@
 🎟️ 628 - Hogarth's House&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_1231.json"/>
     <published>2026-08-22T13:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-22_1328.json</id>
+    <title>Tickets released for 2 venues on Sat 22 August at 14:28</title>
+    <updated>2026-08-22T14:28:00+01:00</updated>
+    <content>🎟️ 11735 - 1-4 Suffolk Street: Uni of Notre Dame &amp; G.K Chesterton&lt;br&gt;
+🎟️ 10591 - 6 Moretown (Gensler London Studio)&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_1328.json"/>
+    <published>2026-08-22T14:28:00+01:00</published>
   </entry>
 </feed>
