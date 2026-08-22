@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-22T09:24:00+01:00</updated>
+  <updated>2026-08-22T10:23:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-20_2023.json</id>
-    <title>Tickets released for 4 venues on Thu 20 August at 21:23</title>
-    <updated>2026-08-20T21:23:00+01:00</updated>
-    <content>🎟️ 13912 - Aldgate walking tour&lt;br&gt;
-🎟️ 13387 - Broadway Theatre&lt;br&gt;
-🎟️ 10591 - 6 Moretown (Gensler London Studio)&lt;br&gt;
-🎟️ 12164 - Good Shepherd Studios&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_2023.json"/>
-    <published>2026-08-20T21:23:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-20_2123.json</id>
     <title>Tickets released for 4 venues on Thu 20 August at 22:23</title>
@@ -230,5 +219,13 @@
 🎟️ 12209 - Petty France and its environs&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_0824.json"/>
     <published>2026-08-22T09:24:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-22_0923.json</id>
+    <title>Tickets released for 1 venues on Sat 22 August at 10:23</title>
+    <updated>2026-08-22T10:23:00+01:00</updated>
+    <content>🎟️ 13647 - Revolution, Reform and Regeneration: Somers Town Tours&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_0923.json"/>
+    <published>2026-08-22T10:23:00+01:00</published>
   </entry>
 </feed>
