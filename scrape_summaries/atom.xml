@@ -2,27 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-22T00:19:00+01:00</updated>
+  <updated>2026-08-22T02:00:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-20_1833.json</id>
-    <title>Tickets released for 7 venues on Thu 20 August at 19:33</title>
-    <updated>2026-08-20T19:33:00+01:00</updated>
-    <content>🎟️ 13909 - 'If Stone Could Speak’: Day of Craft&lt;br&gt;
-🎟️ 10389 - 12 Church Grove&lt;br&gt;
-🎟️ 1355 - Phoenix Cinema&lt;br&gt;
-🎟️ 13737 - JCDecaux UK – Tour &amp; Presentation&lt;br&gt;
-🎟️ 12532 - The Biscuit Building&lt;br&gt;
-🎟️ 12441 - Royal Foundation of St Katharine&lt;br&gt;
-🎟️ 13575 - Piccadilly Rocks!&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-20_1833.json"/>
-    <published>2026-08-20T19:33:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-20_1928.json</id>
     <title>Tickets released for 4 venues on Thu 20 August at 20:28</title>
@@ -237,5 +223,14 @@
 🎟️ 7273 - Aga Khan Centre&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_2319.json"/>
     <published>2026-08-22T00:19:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-22_0100.json</id>
+    <title>Tickets released for 2 venues on Sat 22 August at 02:00</title>
+    <updated>2026-08-22T02:00:00+01:00</updated>
+    <content>🎟️ 1523 - Royal College of General Practitioners&lt;br&gt;
+🎟️ 13647 - Revolution, Reform and Regeneration: Somers Town Tours&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_0100.json"/>
+    <published>2026-08-22T02:00:00+01:00</published>
   </entry>
 </feed>
