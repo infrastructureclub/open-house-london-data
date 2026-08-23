@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-23T12:17:00+01:00</updated>
+  <updated>2026-08-23T13:31:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-21_1628.json</id>
-    <title>Tickets released for 1 venues on Fri 21 August at 17:28</title>
-    <updated>2026-08-21T17:28:00+01:00</updated>
-    <content>🎟️ 11666 - Hoxton Hall&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_1628.json"/>
-    <published>2026-08-21T17:28:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-21_1831.json</id>
     <title>Tickets released for 1 venues on Fri 21 August at 19:31</title>
@@ -208,5 +200,16 @@
     <content>🎟️ 12760 - London, adored and explored&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_1117.json"/>
     <published>2026-08-23T12:17:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-23_1231.json</id>
+    <title>Tickets released for 4 venues on Sun 23 August at 13:31</title>
+    <updated>2026-08-23T13:31:00+01:00</updated>
+    <content>🎟️ 7444 - Golden Lane Estate, tours, community centre and access to flats&lt;br&gt;
+🎟️ 2612 - Tower Hamlets Cemetery Park&lt;br&gt;
+🎟️ 12551 - The Operations Support Centre - London Fire Brigade&lt;br&gt;
+🎟️ 1367 - Guided Tours and Exhibition at Pioneer Centre, Peckham&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_1231.json"/>
+    <published>2026-08-23T13:31:00+01:00</published>
   </entry>
 </feed>
