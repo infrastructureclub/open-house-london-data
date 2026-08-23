@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-23T17:19:00+01:00</updated>
+  <updated>2026-08-23T18:16:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-21_2120.json</id>
-    <title>Tickets released for 2 venues on Fri 21 August at 22:20</title>
-    <updated>2026-08-21T22:20:00+01:00</updated>
-    <content>🎟️ 7273 - Aga Khan Centre&lt;br&gt;
-🎟️ 13627 - Wapping Hydraulic Power Station&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_2120.json"/>
-    <published>2026-08-21T22:20:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-21_2319.json</id>
     <title>Tickets released for 2 venues on Sat 22 August at 00:19</title>
@@ -219,5 +210,14 @@
     <content>🎟️ 2144 - The Stanley Picker Trust, Picker House&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_1619.json"/>
     <published>2026-08-23T17:19:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-23_1716.json</id>
+    <title>Tickets released for 2 venues on Sun 23 August at 18:16</title>
+    <updated>2026-08-23T18:16:00+01:00</updated>
+    <content>🎟️ 13718 - String House - Camberwell&lt;br&gt;
+🎟️ 889 - The Swedenborg Society&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_1716.json"/>
+    <published>2026-08-23T18:16:00+01:00</published>
   </entry>
 </feed>
