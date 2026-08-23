@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-23T20:19:00+01:00</updated>
+  <updated>2026-08-23T21:18:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-22_0824.json</id>
-    <title>Tickets released for 2 venues on Sat 22 August at 09:24</title>
-    <updated>2026-08-22T09:24:00+01:00</updated>
-    <content>🎟️ 10389 - 12 Church Grove&lt;br&gt;
-🎟️ 12209 - Petty France and its environs&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_0824.json"/>
-    <published>2026-08-22T09:24:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-22_0923.json</id>
     <title>Tickets released for 1 venues on Sat 22 August at 10:23</title>
@@ -220,5 +211,16 @@
 🎟️ 13647 - Revolution, Reform and Regeneration: Somers Town Tours&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_1919.json"/>
     <published>2026-08-23T20:19:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-23_2018.json</id>
+    <title>Tickets released for 4 venues on Sun 23 August at 21:18</title>
+    <updated>2026-08-23T21:18:00+01:00</updated>
+    <content>🎟️ 13708 - The South Wing&lt;br&gt;
+🎟️ 12532 - The Biscuit Building&lt;br&gt;
+🎟️ 555 - Bromley and Sheppard's College&lt;br&gt;
+🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_2018.json"/>
+    <published>2026-08-23T21:18:00+01:00</published>
   </entry>
 </feed>
