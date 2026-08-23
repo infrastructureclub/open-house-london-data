@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-23T22:17:00+01:00</updated>
+  <updated>2026-08-23T23:17:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-22_1117.json</id>
-    <title>Tickets released for 2 venues on Sat 22 August at 12:17</title>
-    <updated>2026-08-22T12:17:00+01:00</updated>
-    <content>🎟️ 3489 - Leathersellers' Hall&lt;br&gt;
-🎟️ 7273 - Aga Khan Centre&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_1117.json"/>
-    <published>2026-08-22T12:17:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-22_1231.json</id>
     <title>Tickets released for 3 venues on Sat 22 August at 13:31</title>
@@ -224,5 +215,15 @@
 🎟️ 7544 - Embassy of the Republic of Poland&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_2117.json"/>
     <published>2026-08-23T22:17:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-23_2217.json</id>
+    <title>Tickets released for 3 venues on Sun 23 August at 23:17</title>
+    <updated>2026-08-23T23:17:00+01:00</updated>
+    <content>🎟️ 2106 - Hampstead Heath Pergola&lt;br&gt;
+🎟️ 6960 - Kingston Guildhall and History Centre&lt;br&gt;
+🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_2217.json"/>
+    <published>2026-08-23T23:17:00+01:00</published>
   </entry>
 </feed>
