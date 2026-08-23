@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-23T08:30:00+01:00</updated>
+  <updated>2026-08-23T09:24:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-21_1341.json</id>
-    <title>Tickets released for 1 venues on Fri 21 August at 14:41</title>
-    <updated>2026-08-21T14:41:00+01:00</updated>
-    <content>🎟️ 555 - Bromley and Sheppard's College&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-21_1341.json"/>
-    <published>2026-08-21T14:41:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-21_1431.json</id>
     <title>Tickets released for 4 venues on Fri 21 August at 15:31</title>
@@ -211,5 +203,14 @@
     <content>🎟️ 13708 - The South Wing&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_0730.json"/>
     <published>2026-08-23T08:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-23_0824.json</id>
+    <title>Tickets released for 2 venues on Sun 23 August at 09:24</title>
+    <updated>2026-08-23T09:24:00+01:00</updated>
+    <content>🎟️ 13656 - UAL School of pre-degree studies at 40 Lime Grove&lt;br&gt;
+🎟️ 13718 - String House - Camberwell&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_0824.json"/>
+    <published>2026-08-23T09:24:00+01:00</published>
   </entry>
 </feed>
