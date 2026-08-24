@@ -2,26 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-24T07:51:00+01:00</updated>
+  <updated>2026-08-24T08:55:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-22_1417.json</id>
-    <title>Tickets released for 6 venues on Sat 22 August at 15:17</title>
-    <updated>2026-08-22T15:17:00+01:00</updated>
-    <content>🎟️ 13285 - 9 Wavell Court, Croydon&lt;br&gt;
-🎟️ 12422 - Walworth Town Hall&lt;br&gt;
-🎟️ 7787 - Estorick Collection of Modern Italian Art&lt;br&gt;
-🎟️ 12729 - Station Lodge&lt;br&gt;
-🎟️ 11666 - Hoxton Hall&lt;br&gt;
-🎟️ 6960 - Kingston Guildhall and History Centre&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_1417.json"/>
-    <published>2026-08-22T15:17:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-22_1516.json</id>
     <title>Tickets released for 2 venues on Sat 22 August at 16:16</title>
@@ -222,5 +209,14 @@
     <content>🎟️ 11127 - Sheppard Robson, 77 Parkway&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_0651.json"/>
     <published>2026-08-24T07:51:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-24_0755.json</id>
+    <title>Tickets released for 2 venues on Mon 24 August at 08:55</title>
+    <updated>2026-08-24T08:55:00+01:00</updated>
+    <content>🎟️ 7607 - The Department Store&lt;br&gt;
+🎟️ 12532 - The Biscuit Building&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_0755.json"/>
+    <published>2026-08-24T08:55:00+01:00</published>
   </entry>
 </feed>
