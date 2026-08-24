@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-23T23:17:00+01:00</updated>
+  <updated>2026-08-24T05:54:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-22_1231.json</id>
-    <title>Tickets released for 3 venues on Sat 22 August at 13:31</title>
-    <updated>2026-08-22T13:31:00+01:00</updated>
-    <content>🎟️ 13822 - Ibraaz&lt;br&gt;
-🎟️ 12603 - The Butcher, The Baker and The Candlestick Maker&lt;br&gt;
-🎟️ 628 - Hogarth's House&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_1231.json"/>
-    <published>2026-08-22T13:31:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-22_1328.json</id>
     <title>Tickets released for 2 venues on Sat 22 August at 14:28</title>
@@ -225,5 +215,13 @@
 🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_2217.json"/>
     <published>2026-08-23T23:17:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-24_0454.json</id>
+    <title>Tickets released for 1 venues on Mon 24 August at 05:54</title>
+    <updated>2026-08-24T05:54:00+01:00</updated>
+    <content>🎟️ 2735 - BT Tower&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_0454.json"/>
+    <published>2026-08-24T05:54:00+01:00</published>
   </entry>
 </feed>
