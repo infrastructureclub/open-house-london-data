@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-24T08:55:00+01:00</updated>
+  <updated>2026-08-24T09:43:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-22_1516.json</id>
-    <title>Tickets released for 2 venues on Sat 22 August at 16:16</title>
-    <updated>2026-08-22T16:16:00+01:00</updated>
-    <content>🎟️ 7863 - Westminster Abbey – East End&lt;br&gt;
-🎟️ 12603 - The Butcher, The Baker and The Candlestick Maker&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_1516.json"/>
-    <published>2026-08-22T16:16:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-22_1717.json</id>
     <title>Tickets released for 1 venues on Sat 22 August at 18:17</title>
@@ -218,5 +209,13 @@
 🎟️ 12532 - The Biscuit Building&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_0755.json"/>
     <published>2026-08-24T08:55:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-24_0843.json</id>
+    <title>Tickets released for 1 venues on Mon 24 August at 09:43</title>
+    <updated>2026-08-24T09:43:00+01:00</updated>
+    <content>🎟️ 13821 - Bankside Yards Historic Arches:  then, now, next&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_0843.json"/>
+    <published>2026-08-24T09:43:00+01:00</published>
   </entry>
 </feed>
