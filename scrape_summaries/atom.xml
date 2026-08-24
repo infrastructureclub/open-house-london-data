@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-24T15:37:00+01:00</updated>
+  <updated>2026-08-24T16:35:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-23_0105.json</id>
-    <title>Tickets released for 1 venues on Sun 23 August at 02:05</title>
-    <updated>2026-08-23T02:05:00+01:00</updated>
-    <content>🎟️ 13899 - Somers Town - Photo walk&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_0105.json"/>
-    <published>2026-08-23T02:05:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-23_0525.json</id>
     <title>Tickets released for 1 venues on Sun 23 August at 06:25</title>
@@ -225,5 +217,16 @@
 🎟️ 5296 - Billingsgate Roman House &amp; Baths&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_1437.json"/>
     <published>2026-08-24T15:37:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-24_1535.json</id>
+    <title>Tickets released for 4 venues on Mon 24 August at 16:35</title>
+    <updated>2026-08-24T16:35:00+01:00</updated>
+    <content>🎟️ 9662 - Sands End Arts &amp; Community Centre&lt;br&gt;
+🎟️ 13721 - Making public spaces and making spaces public&lt;br&gt;
+🎟️ 13627 - Wapping Hydraulic Power Station&lt;br&gt;
+🎟️ 5006 - Dalston Eastern Curve Garden&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_1535.json"/>
+    <published>2026-08-24T16:35:00+01:00</published>
   </entry>
 </feed>
