@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-24T11:34:00+01:00</updated>
+  <updated>2026-08-24T14:47:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-22_2018.json</id>
-    <title>Tickets released for 1 venues on Sat 22 August at 21:18</title>
-    <updated>2026-08-22T21:18:00+01:00</updated>
-    <content>🎟️ 7273 - Aga Khan Centre&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_2018.json"/>
-    <published>2026-08-22T21:18:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-22_2217.json</id>
     <title>Tickets released for 1 venues on Sat 22 August at 23:17</title>
@@ -220,5 +212,17 @@
 🎟️ 9135 - Lansbury Lawrence Primary School&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_1034.json"/>
     <published>2026-08-24T11:34:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-24_1347.json</id>
+    <title>Tickets released for 4 venues, 1 venues added dates on Mon 24 August at 14:47</title>
+    <updated>2026-08-24T14:47:00+01:00</updated>
+    <content>🎟️ 1651 - Burlington House: Society of Antiquaries of London&lt;br&gt;
+🎟️ 12548 - St Marylebone Parish Church&lt;br&gt;
+🎟️ 11952 - Edmonton – the making of a north London suburb: past, present &amp; future&lt;br&gt;
+🎟️ 8830 - Trent Park: House of Secrets&lt;br&gt;
+🗓️ 11952 - Edmonton – the making of a north London suburb: past, present &amp; future&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_1347.json"/>
+    <published>2026-08-24T14:47:00+01:00</published>
   </entry>
 </feed>
