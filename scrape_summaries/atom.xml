@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-24T05:54:00+01:00</updated>
+  <updated>2026-08-24T07:51:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-22_1328.json</id>
-    <title>Tickets released for 2 venues on Sat 22 August at 14:28</title>
-    <updated>2026-08-22T14:28:00+01:00</updated>
-    <content>🎟️ 11735 - 1-4 Suffolk Street: Uni of Notre Dame &amp; G.K Chesterton&lt;br&gt;
-🎟️ 10591 - 6 Moretown (Gensler London Studio)&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-22_1328.json"/>
-    <published>2026-08-22T14:28:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-22_1417.json</id>
     <title>Tickets released for 6 venues on Sat 22 August at 15:17</title>
@@ -223,5 +214,13 @@
     <content>🎟️ 2735 - BT Tower&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_0454.json"/>
     <published>2026-08-24T05:54:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-24_0651.json</id>
+    <title>Tickets released for 1 venues on Mon 24 August at 07:51</title>
+    <updated>2026-08-24T07:51:00+01:00</updated>
+    <content>🎟️ 11127 - Sheppard Robson, 77 Parkway&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_0651.json"/>
+    <published>2026-08-24T07:51:00+01:00</published>
   </entry>
 </feed>
