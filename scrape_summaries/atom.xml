@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-25T21:24:00+01:00</updated>
+  <updated>2026-08-25T22:23:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-23_1823.json</id>
-    <title>Tickets released for 1 venues on Sun 23 August at 19:23</title>
-    <updated>2026-08-23T19:23:00+01:00</updated>
-    <content>🎟️ 10300 - The Victorian Society&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_1823.json"/>
-    <published>2026-08-23T19:23:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-23_1919.json</id>
     <title>Tickets released for 4 venues on Sun 23 August at 20:19</title>
@@ -228,5 +220,13 @@
 🎟️ 9032 - Exploring Spring Grove Isleworth&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-25_2024.json"/>
     <published>2026-08-25T21:24:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-25_2123.json</id>
+    <title>Tickets released for 1 venues on Tue 25 August at 22:23</title>
+    <updated>2026-08-25T22:23:00+01:00</updated>
+    <content>🎟️ 555 - Bromley and Sheppard's College&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-25_2123.json"/>
+    <published>2026-08-25T22:23:00+01:00</published>
   </entry>
 </feed>
