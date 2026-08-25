@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-25T13:40:00+01:00</updated>
+  <updated>2026-08-25T15:41:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-23_1419.json</id>
-    <title>Tickets released for 1 venues on Sun 23 August at 15:19</title>
-    <updated>2026-08-23T15:19:00+01:00</updated>
-    <content>🎟️ 5296 - Billingsgate Roman House &amp; Baths&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_1419.json"/>
-    <published>2026-08-23T15:19:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-23_1619.json</id>
     <title>Tickets released for 1 venues on Sun 23 August at 17:19</title>
@@ -226,5 +218,13 @@
     <content>🎟️ 11619 - Longfield Hall&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-25_1240.json"/>
     <published>2026-08-25T13:40:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-25_1441.json</id>
+    <title>Tickets released for 1 venues on Tue 25 August at 15:41</title>
+    <updated>2026-08-25T15:41:00+01:00</updated>
+    <content>🎟️ 13627 - Wapping Hydraulic Power Station&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-25_1441.json"/>
+    <published>2026-08-25T15:41:00+01:00</published>
   </entry>
 </feed>
