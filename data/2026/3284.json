@@ -92,12 +92,28 @@
             "notes": "Please let us know if you plan to visit. Doing so allows\n                    the venue to plan ahead and you will be notified by email\n                    about any changes to the programme that might affect your\n                    visit.",
             "start": "2026-09-20T13:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2026-09-20",
+            "drop_in": true,
+            "end": "2026-09-20T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Gaelic Service",
+            "notes": "A church service in the Gaelic language, with some readings, prayers and traditional Gaelic psalm-singing. All welcome!",
+            "start": "2026-09-20T15:00:00+01:00",
+            "ticketed": false
         }
     ],
     "facilities": [
         "Audio guide/description",
         "Hearing loop",
-        "Toilets"
+        "Toilets",
+        "Seating available"
     ],
     "factsheet": [
         {
@@ -114,13 +130,13 @@
         {
             "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/3284/building_3284_crown-court-church-8100154_427819fdd0307a7edac29552d5b7ac69.jpg",
             "description": null,
-            "title": "Photo of Crown Court Church of Scotland",
+            "title": "Mary-Jannet Leith",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3284_crown-court-church-8100154_427819fdd0307a7edac29552d5b7ac69.jpg"
         },
         {
             "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/3284/building_3284_crown-court-church-8109734_febb601afa578a510328762e3e7e8f56.jpg",
             "description": null,
-            "title": "Photo of Crown Court Church of Scotland",
+            "title": "Mary-Jannet Leith",
             "url": "https://d25hwkr75zzfa.cloudfront.net/store/photo/large/building_3284_crown-court-church-8109734_febb601afa578a510328762e3e7e8f56.jpg"
         }
     ],
@@ -140,6 +156,10 @@
         {
             "href": "https://www.youtube.com/channel/UCNbCJgHBfyjcgNXnuQTJ69Q",
             "title": "www.youtube.com/channel/UCNbCJgHBfyjcgNXnuQTJ69Q"
+        },
+        {
+            "href": "https://crowncourtchurch.org.uk/a-kirk-for-tomorrow/",
+            "title": "crowncourtchurch.org.uk/a-kirk-for-tomorrow"
         }
     ],
     "location": {
