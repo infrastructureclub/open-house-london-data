@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-25T10:31:00+01:00</updated>
+  <updated>2026-08-25T11:27:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-23_1117.json</id>
-    <title>Tickets released for 1 venues on Sun 23 August at 12:17</title>
-    <updated>2026-08-23T12:17:00+01:00</updated>
-    <content>🎟️ 12760 - London, adored and explored&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_1117.json"/>
-    <published>2026-08-23T12:17:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-23_1231.json</id>
     <title>Tickets released for 4 venues on Sun 23 August at 13:31</title>
@@ -229,5 +221,13 @@
     <content>🎟️ 13622 - Caribbean Heritage walking tour of Peckham&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-25_0931.json"/>
     <published>2026-08-25T10:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-25_1027.json</id>
+    <title>Tickets released for 1 venues on Tue 25 August at 11:27</title>
+    <updated>2026-08-25T11:27:00+01:00</updated>
+    <content>🎟️ 8141 - St. Mary's Church, Walthamstow Village&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-25_1027.json"/>
+    <published>2026-08-25T11:27:00+01:00</published>
   </entry>
 </feed>
