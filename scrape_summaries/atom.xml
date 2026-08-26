@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-26T13:43:00+01:00</updated>
+  <updated>2026-08-26T14:52:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-24_0651.json</id>
-    <title>Tickets released for 1 venues on Mon 24 August at 07:51</title>
-    <updated>2026-08-24T07:51:00+01:00</updated>
-    <content>🎟️ 11127 - Sheppard Robson, 77 Parkway&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_0651.json"/>
-    <published>2026-08-24T07:51:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-24_0755.json</id>
     <title>Tickets released for 2 venues on Mon 24 August at 08:55</title>
@@ -213,5 +205,13 @@
 🎟️ 6996 - HG Wells' Bromley - in his own words&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_1243.json"/>
     <published>2026-08-26T13:43:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-26_1352.json</id>
+    <title>1 venues added dates on Wed 26 August at 14:52</title>
+    <updated>2026-08-26T14:52:00+01:00</updated>
+    <content>🗓️ 13889 - The West End At War&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_1352.json"/>
+    <published>2026-08-26T14:52:00+01:00</published>
   </entry>
 </feed>
