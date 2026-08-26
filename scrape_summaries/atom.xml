@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-26T12:25:00+01:00</updated>
+  <updated>2026-08-26T13:43:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-24_0454.json</id>
-    <title>Tickets released for 1 venues on Mon 24 August at 05:54</title>
-    <updated>2026-08-24T05:54:00+01:00</updated>
-    <content>🎟️ 2735 - BT Tower&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_0454.json"/>
-    <published>2026-08-24T05:54:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-24_0651.json</id>
     <title>Tickets released for 1 venues on Mon 24 August at 07:51</title>
@@ -212,5 +204,14 @@
     <content>🎟️ 2840 - Charlton House &amp; Gardens&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_1125.json"/>
     <published>2026-08-26T12:25:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-26_1243.json</id>
+    <title>Tickets released for 2 venues on Wed 26 August at 13:43</title>
+    <updated>2026-08-26T13:43:00+01:00</updated>
+    <content>🎟️ 2728 - Bruce Castle Museum&lt;br&gt;
+🎟️ 6996 - HG Wells' Bromley - in his own words&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_1243.json"/>
+    <published>2026-08-26T13:43:00+01:00</published>
   </entry>
 </feed>
