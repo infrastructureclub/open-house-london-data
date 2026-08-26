@@ -2546,6 +2546,130 @@
                 "url": "https://programme.openhouse.org.uk/listings/13932"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.14007,
+                    51.48791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The story of Pimlico Library reflects the wider history of the neighbourhood, demonstrating how community buildings can adapt and evolve while remaining at the heart of local life.  It is unusual in that it shares the Pimlico Academy Campus with Westminster's Adult Education Service.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13934/building_13934_pimlico-library_50a384abf773806b256e72140681281c.png",
+                        "title": "Westminster City Council"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13934/building_13934_libraryofthings_7a08137e8bfe86e369c25c5fbf5ecb1e.jpg",
+                        "title": "Westminster City Council"
+                    }
+                ],
+                "name": "Pimlico Library",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13934"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13402,
+                    51.48931
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Formerly home to the Pimlico Library, the building was transformed into a vibrant, friendly and welcoming community hub.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13935/building_13935_images-3_1a8a26ac012839cf1c811cd4ffe2f677.jpg",
+                        "title": "Westminster City Council"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13935/building_13935_images-2_48c87a37e6aa92c4f095199763209a39.jpg",
+                        "title": "Westminster City Council"
+                    }
+                ],
+                "name": "Rampayne Street Community Hub",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13935"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09543,
+                    51.37418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Caravan Gallery is a unique documentary photography project and exhibition focused on Croydon's built environment. The Caravan Gallery photograph the sur/reality of everyday life and work with communities to explore people's connection to place, exhibiting their photographs of the area in a small caravan.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13945/building_13945_screenshot-2026-08-21-133909_0a21ae01a1f4f4edfa206863ad8650e3.png",
+                        "title": "The Caravan Gallery"
+                    }
+                ],
+                "name": "The Caravan Gallery comes to Croydon: College Square",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13945"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10002,
+                    51.37049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "A new mural celebrating the 750th anniversary of Croydon’s Street Market, A 1276 Royal Charter granted Croydon a weekly market which ran in the triangle around what we now know as Surrey Street, it is one of the oldest continuous markets in London. Commissioned from South London artist Vic Lee, the mural will share the surprising stories, facts and memories from the market’s remarkable history.",
+                "end": "19:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13946/building_13946_vic-lee-mural-surrey-street-750-mock-up-2_f5b43c88d27a03c44e97a96c1c5149a5.jpg",
+                        "title": "Credit: Vic Lee"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13946/building_13946_vic-lee-mural-surrey-street-750-mock-up-3_7a275a0998f19d9ebeb60d150daa7b5b.jpg",
+                        "title": "Credit: Vic Lee"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13946/building_13946_vic-lee-mural-surrey-street-750-mock-up_2c376e79f38ff8cfa4d6d2caa238318a.jpg",
+                        "title": "Credit: Vic Lee"
+                    }
+                ],
+                "name": "Surrey Street Mural by Vic Lee",
+                "new_venue_this_year": "Yes",
+                "start": "06:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13946"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
