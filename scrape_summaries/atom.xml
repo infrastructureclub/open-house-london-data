@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-26T17:15:00+01:00</updated>
+  <updated>2026-08-26T19:57:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-24_0843.json</id>
-    <title>Tickets released for 1 venues on Mon 24 August at 09:43</title>
-    <updated>2026-08-24T09:43:00+01:00</updated>
-    <content>🎟️ 13821 - Bankside Yards Historic Arches:  then, now, next&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_0843.json"/>
-    <published>2026-08-24T09:43:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-24_0942.json</id>
     <title>Tickets released for 3 venues on Mon 24 August at 10:42</title>
@@ -217,5 +209,16 @@
 🗓️ 3600 - Baitul Futuh Mosque&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_1615.json"/>
     <published>2026-08-26T17:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-26_1857.json</id>
+    <title>Tickets released for 4 venues on Wed 26 August at 19:57</title>
+    <updated>2026-08-26T19:57:00+01:00</updated>
+    <content>🎟️ 12908 - The John Morden Centre and Morden College Almshouses&lt;br&gt;
+🎟️ 1538 - Royal Hospital Chelsea, Home of the Chelsea Pensioners&lt;br&gt;
+🎟️ 1381 - The Old Town Hall, Richmond&lt;br&gt;
+🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_1857.json"/>
+    <published>2026-08-26T19:57:00+01:00</published>
   </entry>
 </feed>
