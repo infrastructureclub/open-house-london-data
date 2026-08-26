@@ -11570,6 +11570,65 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.09759,
+                    51.52013
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "An unofficial walking tour of London film locations used in Star Wars. Learn about the crucial role the city played for three different empires, Roman, British, and Galactic! \r\n\r\nDiscover how London's Barbican Estate was the perfect shooting location for a dystopian view of the science fiction city of Coruscant. \r\n\r\nLearn how London and the destiny of Star Wars are so deeply intertwined!",
+                "end": "11:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13933/building_13933_20260809_093310_3ecb096b4e8dbf29015cdd631b50f0bf.jpg",
+                        "title": "Ivan Chan"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13933/building_13933_untitled-design-2_461f427f4dc6b27a563caed72e5663b8.png",
+                        "title": "Ivan Chan"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13933/building_13933_untitled-design_e0b0be7c85a4a5031699f250d991f85d.png",
+                        "title": "Ivan Chan"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13933/building_13933_20260809_092914_ea83363c47642e2ab5071827398d3064.jpg",
+                        "title": "Ivan Chan"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13933/building_13933_20260728_183743_31da8b5115bbffc43356df7890fe14db.jpg",
+                        "title": "Ivan Chan"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13933/building_13933_20260728_180352_0fe0013372439ca8ca8a7d421dad7af3.jpg",
+                        "title": "Ivan Chan"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13933/building_13933_untitled-design-3_00f0dc3c4b8973db964152bfef57146c.png",
+                        "title": "Ivan Chan"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13933/building_13933_20260726_163927_891c0b7baeb39010c7fcf339831bf40e.jpg",
+                        "title": "Ivan Chan"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13933/building_13933_20260731_121653_90dfef3fb0d93704ba03c3c2d1a73857.jpg",
+                        "title": "Ivan Chan"
+                    }
+                ],
+                "name": "Star Wars Tour of London",
+                "new_venue_this_year": "Yes",
+                "start": "09:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13933"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.12028,
                     51.52892
                 ],
@@ -11595,6 +11654,45 @@
                 "start": "09:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13937"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.03556,
+                    51.4471
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Our regular volunteer session caring for our wildlife garden, food forest, tiny forest, pond, swales, trees and meadows.\r\nLearn about gardening, biodiversity and community action in an urban setting from the Friends group.  We will be talking about our journey to create habitats, improve access, and boost climate resilience, and the impacts for the Fields' biodiversity and the local community.",
+                "end": "12:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13942/building_13942_garden_6ce38bcf2f82e4ccc0d3ac2a3d8623a2.jpeg",
+                        "title": "Mike Williams"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13942/building_13942_tiny-forest-planting_e380b81de8b20fc2faf62ace1aed83e9.jpeg",
+                        "title": "Mike Williams"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13942/building_13942_skyline-trhough-equipment_3659538fe710914889407c5b2c723cf3.jpeg",
+                        "title": "Mike Williams"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13942/building_13942_tree-planting_36002101b7f7daffc2fb4e2836758beb.jpeg",
+                        "title": "Mike Williams"
+                    }
+                ],
+                "name": "Volunteer and Visit at Blythe Hill Fields",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13942"
             },
             "type": "Feature"
         }
