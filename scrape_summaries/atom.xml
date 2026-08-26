@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-25T22:23:00+01:00</updated>
+  <updated>2026-08-26T04:00:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-23_1919.json</id>
-    <title>Tickets released for 4 venues on Sun 23 August at 20:19</title>
-    <updated>2026-08-23T20:19:00+01:00</updated>
-    <content>🎟️ 13750 - Artist Niamh Hannaford at One North Quay Canary Wharf&lt;br&gt;
-🎟️ 13724 - Life and debt in Southwark&lt;br&gt;
-🎟️ 12129 - Bethlem Royal Hospital&lt;br&gt;
-🎟️ 13647 - Revolution, Reform and Regeneration: Somers Town Tours&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-23_1919.json"/>
-    <published>2026-08-23T20:19:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-23_2018.json</id>
     <title>Tickets released for 4 venues on Sun 23 August at 21:18</title>
@@ -228,5 +217,14 @@
     <content>🎟️ 555 - Bromley and Sheppard's College&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-25_2123.json"/>
     <published>2026-08-25T22:23:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-26_0300.json</id>
+    <title>Tickets released for 2 venues on Wed 26 August at 04:00</title>
+    <updated>2026-08-26T04:00:00+01:00</updated>
+    <content>🎟️ 2865 - Chiswick Town Hall&lt;br&gt;
+🎟️ 13695 - Crafts Council Gallery&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_0300.json"/>
+    <published>2026-08-26T04:00:00+01:00</published>
   </entry>
 </feed>
