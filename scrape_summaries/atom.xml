@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-26T19:57:00+01:00</updated>
+  <updated>2026-08-26T22:40:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-24_0942.json</id>
-    <title>Tickets released for 3 venues on Mon 24 August at 10:42</title>
-    <updated>2026-08-24T10:42:00+01:00</updated>
-    <content>🎟️ 13891 - Prefab Walking Tour - Excalibur Estate&lt;br&gt;
-🎟️ 13545 - Flux Innovation Lounge, Greenwich Design District&lt;br&gt;
-🎟️ 9032 - Exploring Spring Grove Isleworth&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_0942.json"/>
-    <published>2026-08-24T10:42:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-24_1034.json</id>
     <title>Tickets released for 3 venues on Mon 24 August at 11:34</title>
@@ -220,5 +210,15 @@
 🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_1857.json"/>
     <published>2026-08-26T19:57:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-26_2140.json</id>
+    <title>Tickets released for 3 venues on Wed 26 August at 22:40</title>
+    <updated>2026-08-26T22:40:00+01:00</updated>
+    <content>🎟️ 12421 - Brook Green walk&lt;br&gt;
+🎟️ 11162 - Stamford Brook walk&lt;br&gt;
+🎟️ 152 - Shaftesbury Theatre&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_2140.json"/>
+    <published>2026-08-26T22:40:00+01:00</published>
   </entry>
 </feed>
