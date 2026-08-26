@@ -1501,7 +1501,7 @@
                 "balloted": "No",
                 "description": "The University of Westminster was one of the first polytechnics in the UK – established in 1838, to educate the working people of London, regardless of background and financial status. Housed in the building is the Regent Street Cinema, widely regarded as the ‘birthplace of British cinema’, with the first public premiere of film in the UK by the Lumière Brothers using the Cinématographe in 1896.",
                 "end": "15:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2244/building_2244_cinema_3dc1a78bb4a2227b5e83ac664904683e.jpg",
@@ -2238,6 +2238,69 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/3348"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1995107,
+                    51.3976407
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Guided tours of the largest purpose-built mosque in Western Europe accommodating 14,000 worshippers blending of Islamic and modern British architecture. Recent developments, involving reconstruction after a fire were completed and the magnificent new complex was opened on 4th March 2023.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/3600/building_3600_baitul-futuh-_1829_2a071cdf87df44547ad4cbded410bec9.jpg",
+                        "title": "Photo of Baitul Futuh Mosque"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/3600/building_3600_baitul-futuh-dome_minaret_e2df92378b4d01809683a448534cca59.jpg",
+                        "title": "Photo of Baitul Futuh Mosque"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/3600/building_3600_baitul-futuh_f2222246dc72840b9e569a19ba87ea01.jpg",
+                        "title": "Photo of Baitul Futuh Mosque"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/3600/building_3600_calendar-1_32fcb269b2c071f93d0e46c9a5c7ac28.jpg",
+                        "title": "Photo of Baitul Futuh Mosque"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/3600/building_3600_london-baitul-futuh_cdc3c9cb3c05668999bb72b57b962787.jpg",
+                        "title": "Photo of Baitul Futuh Mosque"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/3600/building_3600_baitul-futuh-prayer-area_509386be8df1562418b83540ad6ebcbf.jpg",
+                        "title": "Photo of Baitul Futuh Mosque"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/3600/building_3600_pano-mta-library-2_870e69366dc4b49d600f0921a55498e9.jpg",
+                        "title": "Photo of Baitul Futuh Mosque"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/3600/building_3600_front-image-of-new-complex-1_43dfd7d4860c67102cc9413093ca97e1.jpg",
+                        "title": "Photo of Baitul Futuh Mosque"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/3600/building_3600_front-image-of-new-complex-3_cd974715364646c2fbc5932df7836f37.jpg",
+                        "title": "Photo of Baitul Futuh Mosque"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/3600/building_3600_front-image-of-new-complex-2_3a55c4d8de4a7a837e9bfcf98ab61557.jpg",
+                        "title": "Photo of Baitul Futuh Mosque"
+                    }
+                ],
+                "name": "Baitul Futuh Mosque",
+                "new_venue_this_year": "No",
+                "start": "10:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/3600"
             },
             "type": "Feature"
         },
