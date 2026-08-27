@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-27T14:42:00+01:00</updated>
+  <updated>2026-08-28T00:32:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-24_1437.json</id>
-    <title>Tickets released for 2 venues on Mon 24 August at 15:37</title>
-    <updated>2026-08-24T15:37:00+01:00</updated>
-    <content>🎟️ 12130 - Morris+Company | ‘The Circular City Starts With Community’&lt;br&gt;
-🎟️ 5296 - Billingsgate Roman House &amp; Baths&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_1437.json"/>
-    <published>2026-08-24T15:37:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-24_1535.json</id>
     <title>Tickets released for 4 venues on Mon 24 August at 16:35</title>
@@ -238,5 +229,20 @@
 🎟️ 119 - National Audit Office&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-27_1342.json"/>
     <published>2026-08-27T14:42:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-27_2332.json</id>
+    <title>Tickets released for 8 venues on Fri 28 August at 00:32</title>
+    <updated>2026-08-28T00:32:00+01:00</updated>
+    <content>🎟️ 13100 - Regent's Park Estate Story Trail  Guided Tour&lt;br&gt;
+🎟️ 13164 - London Film School - Shelton Street&lt;br&gt;
+🎟️ 13747 - Punchdrunk Enrichment Stores&lt;br&gt;
+🎟️ 12209 - Petty France and its environs&lt;br&gt;
+🎟️ 10307 - The Making of Pimlico&lt;br&gt;
+🎟️ 6960 - Kingston Guildhall and History Centre&lt;br&gt;
+🎟️ 5006 - Dalston Eastern Curve Garden&lt;br&gt;
+🎟️ 152 - Shaftesbury Theatre&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-27_2332.json"/>
+    <published>2026-08-28T00:32:00+01:00</published>
   </entry>
 </feed>
