@@ -1,7 +1,7 @@
 {
     "all_week": false,
     "balloted_events": false,
-    "description": "Soho is a unique neighbourhood of creativity and diversity. Join us at the former Warner Brothers De Lane Lea studio at 75 Dean Street, home of the Museum of Soho.  Explore an exhibition of Soho's 300 year history.",
+    "description": "Step inside the legendary De Lane Lea Studios at 75 Dean Street, now home to the Museum of Soho, and discover the stories, sounds and creativity that have shaped this remarkable neighbourhood. As part of Open House, enjoy a programme of talks, screenings and conversations celebrating Soho's unique spirit of innovation, diversity and cultural influence.",
     "design": {
         "designers": [
             {
@@ -16,6 +16,21 @@
         ]
     },
     "events": [
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12611",
+            "capacity": null,
+            "date": "2026-09-12",
+            "drop_in": false,
+            "end": "2026-09-12T13:45:00+01:00",
+            "fully_booked": false,
+            "name": "Soho - Saints and Sinners",
+            "notes": "Chris Barlow gives us a whistle stop tour of Soho to whet our appetites for our adventures ahead in Soho!",
+            "start": "2026-09-12T13:00:00+01:00",
+            "ticketed": true
+        },
         {
             "activity_type": "Talk",
             "all_day": false,
@@ -45,6 +60,21 @@
             "notes": "Westminster Blue Badge Guide Roberto shares his journey from Uruguay to London and how Musical Theatre became the touchstone of his new life",
             "start": "2026-09-12T15:00:00+01:00",
             "ticketed": true
+        },
+        {
+            "activity_type": "Other",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/12611",
+            "capacity": null,
+            "date": "2026-09-12",
+            "drop_in": false,
+            "end": "2026-09-12T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Our Soho - Award winning documentary",
+            "notes": "Screening of award winning film on Soho, featuring the late Josh Ackland.",
+            "start": "2026-09-12T16:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -54,10 +84,12 @@
     ],
     "factsheet": [
         {
-            "heading": "Fealy Films 12 x 12",
+            "heading": "History",
             "paragraphs": [
-                "Soho is an urban village, shaped and redrawn through time and the extraordinary array of creative and talented people who have made it their home or work canvas.\n \nJoin us at the former Warner Brother Sound Studio at 75 Dean Street, home to the Museum of Soho.\n \nJoin us for a selection of historic films of Soho as well as films created by Fealy Films as part of an ambitious project to help local creators make 12 short films in 12 months.",
-                "Speak to one of our volunteers for suggestions as you continue to explore our extraordinary neighbourhood."
+                "75 Dean Street has long been part of Soho’s creative story. For many years it housed De Lane Lea Studios, one of London’s most influential recording and post-production facilities. Countless musicians, filmmakers and broadcasters passed through its doors, helping to cement Soho’s reputation as a global centre for film, music and media.",
+                "Today, 75 Dean Street has entered a new chapter. The building is home to the Museum of Soho and a growing cultural community through All is Joy, providing space for emerging creatives.",
+                "For Open House, we have talks on the Saints and Sinners of Soho, West End Musical Theatre,  Hedonism and Activism and the award winning short documentary, Our Soho.",
+                "Interspersed will be short films from Fealy Films.  Angela Fealy is currently pulling together the 12 x 12 project to work with up and coming working class filmmakers  with the ambitious aim of helping them to create 12 short films in 2026 with 8 in the can already!"
             ]
         }
     ],
