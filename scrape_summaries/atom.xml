@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-28T00:32:00+01:00</updated>
+  <updated>2026-08-28T09:51:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-24_1535.json</id>
-    <title>Tickets released for 4 venues on Mon 24 August at 16:35</title>
-    <updated>2026-08-24T16:35:00+01:00</updated>
-    <content>🎟️ 9662 - Sands End Arts &amp; Community Centre&lt;br&gt;
-🎟️ 13721 - Making public spaces and making spaces public&lt;br&gt;
-🎟️ 13627 - Wapping Hydraulic Power Station&lt;br&gt;
-🎟️ 5006 - Dalston Eastern Curve Garden&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_1535.json"/>
-    <published>2026-08-24T16:35:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-24_1632.json</id>
     <title>Tickets released for 2 venues on Mon 24 August at 17:32</title>
@@ -244,5 +233,14 @@
 🎟️ 152 - Shaftesbury Theatre&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-27_2332.json"/>
     <published>2026-08-28T00:32:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-28_0851.json</id>
+    <title>Tickets released for 2 venues on Fri 28 August at 09:51</title>
+    <updated>2026-08-28T09:51:00+01:00</updated>
+    <content>🎟️ 13652 - Tools for Urban Narratives&lt;br&gt;
+🎟️ 1491 - Rogers House, Wimbledon&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-28_0851.json"/>
+    <published>2026-08-28T09:51:00+01:00</published>
   </entry>
 </feed>
