@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-29T20:08:00+01:00</updated>
+  <updated>2026-08-29T23:17:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-25_1027.json</id>
-    <title>Tickets released for 1 venues on Tue 25 August at 11:27</title>
-    <updated>2026-08-25T11:27:00+01:00</updated>
-    <content>🎟️ 8141 - St. Mary's Church, Walthamstow Village&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-25_1027.json"/>
-    <published>2026-08-25T11:27:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-25_1123.json</id>
     <title>Tickets released for 1 venues on Tue 25 August at 12:23</title>
@@ -258,5 +250,15 @@
 🎟️ 12603 - The Butcher, The Baker and The Candlestick Maker&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-29_1908.json"/>
     <published>2026-08-29T20:08:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-29_2217.json</id>
+    <title>Tickets released for 3 venues on Sat 29 August at 23:17</title>
+    <updated>2026-08-29T23:17:00+01:00</updated>
+    <content>🎟️ 11313 - Fruit to Fashion: how a kitchen garden became a world famous piazza&lt;br&gt;
+🎟️ 13681 - Somers Town folk&lt;br&gt;
+🎟️ 11666 - Hoxton Hall&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-29_2217.json"/>
+    <published>2026-08-29T23:17:00+01:00</published>
   </entry>
 </feed>
