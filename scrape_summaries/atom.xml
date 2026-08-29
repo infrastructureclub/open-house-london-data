@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-29T16:26:00+01:00</updated>
+  <updated>2026-08-29T20:08:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-25_0931.json</id>
-    <title>Tickets released for 1 venues on Tue 25 August at 10:31</title>
-    <updated>2026-08-25T10:31:00+01:00</updated>
-    <content>🎟️ 13622 - Caribbean Heritage walking tour of Peckham&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-25_0931.json"/>
-    <published>2026-08-25T10:31:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-25_1027.json</id>
     <title>Tickets released for 1 venues on Tue 25 August at 11:27</title>
@@ -257,5 +249,14 @@
 🎟️ 13570 - Mycenae House and Gardens&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-29_1526.json"/>
     <published>2026-08-29T16:26:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-29_1908.json</id>
+    <title>Tickets released for 2 venues on Sat 29 August at 20:08</title>
+    <updated>2026-08-29T20:08:00+01:00</updated>
+    <content>🎟️ 13929 - Stalls and Shops: a walking tour of Lewisham Market&lt;br&gt;
+🎟️ 12603 - The Butcher, The Baker and The Candlestick Maker&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-29_1908.json"/>
+    <published>2026-08-29T20:08:00+01:00</published>
   </entry>
 </feed>
