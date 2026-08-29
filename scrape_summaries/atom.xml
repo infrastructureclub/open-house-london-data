@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-29T11:43:00+01:00</updated>
+  <updated>2026-08-29T16:26:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-25_0740.json</id>
-    <title>Tickets released for 2 venues on Tue 25 August at 08:40</title>
-    <updated>2026-08-25T08:40:00+01:00</updated>
-    <content>🎟️ 13662 - St Paul's Church, Winchmore Hill&lt;br&gt;
-🎟️ 13621 - Mulberry Academy London Dock&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-25_0740.json"/>
-    <published>2026-08-25T08:40:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-25_0931.json</id>
     <title>Tickets released for 1 venues on Tue 25 August at 10:31</title>
@@ -251,5 +242,20 @@
 🎟️ 11824 - Hidden Isleworth - a walking tour with varied buildings&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-29_1043.json"/>
     <published>2026-08-29T11:43:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-29_1526.json</id>
+    <title>Tickets released for 8 venues on Sat 29 August at 16:26</title>
+    <updated>2026-08-29T16:26:00+01:00</updated>
+    <content>🎟️ 1472 - Richmond Lock Building (Surrey Side)&lt;br&gt;
+🎟️ 10280 - Quentin Blake Centre for Illustration - New River Head&lt;br&gt;
+🎟️ 13927 - Tipping Point East site tour&lt;br&gt;
+🎟️ 13545 - Flux Innovation Lounge, Greenwich Design District&lt;br&gt;
+🎟️ 13164 - London Film School - Shelton Street&lt;br&gt;
+🎟️ 2244 - Regent Street Cinema (The University of Westminster)&lt;br&gt;
+🎟️ 12601 - Georgian Clerkenwell's speculative housing boom&lt;br&gt;
+🎟️ 13570 - Mycenae House and Gardens&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-29_1526.json"/>
+    <published>2026-08-29T16:26:00+01:00</published>
   </entry>
 </feed>
