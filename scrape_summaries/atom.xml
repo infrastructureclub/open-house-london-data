@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-28T21:40:00+01:00</updated>
+  <updated>2026-08-29T11:43:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-24_1727.json</id>
-    <title>Tickets released for 1 venues on Mon 24 August at 18:27</title>
-    <updated>2026-08-24T18:27:00+01:00</updated>
-    <content>🎟️ 13747 - Punchdrunk Enrichment Stores&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-24_1727.json"/>
-    <published>2026-08-24T18:27:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-25_0740.json</id>
     <title>Tickets released for 2 venues on Tue 25 August at 08:40</title>
@@ -230,7 +222,7 @@
     <title>Tickets released for 2 venues on Fri 28 August at 09:51</title>
     <updated>2026-08-28T09:51:00+01:00</updated>
     <content>🎟️ 13652 - Tools for Urban Narratives&lt;br&gt;
-🎟️ 1491 - Rogers House, Wimbledon&lt;br&gt;</content>
+🎟️ 1491 - 22 Parkside AKA Roger's House&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-28_0851.json"/>
     <published>2026-08-28T09:51:00+01:00</published>
   </entry>
@@ -250,5 +242,14 @@
 🎟️ 12086 - Crystal Palace Subway&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-28_2040.json"/>
     <published>2026-08-28T21:40:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-29_1043.json</id>
+    <title>Tickets released for 2 venues on Sat 29 August at 11:43</title>
+    <updated>2026-08-29T11:43:00+01:00</updated>
+    <content>🎟️ 12441 - Royal Foundation of St Katharine&lt;br&gt;
+🎟️ 11824 - Hidden Isleworth - a walking tour with varied buildings&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-29_1043.json"/>
+    <published>2026-08-29T11:43:00+01:00</published>
   </entry>
 </feed>
