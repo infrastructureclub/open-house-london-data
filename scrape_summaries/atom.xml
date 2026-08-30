@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-29T23:17:00+01:00</updated>
+  <updated>2026-08-30T13:34:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-25_1123.json</id>
-    <title>Tickets released for 1 venues on Tue 25 August at 12:23</title>
-    <updated>2026-08-25T12:23:00+01:00</updated>
-    <content>🎟️ 5296 - Billingsgate Roman House &amp; Baths&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-25_1123.json"/>
-    <published>2026-08-25T12:23:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-25_1240.json</id>
     <title>Tickets released for 1 venues on Tue 25 August at 13:40</title>
@@ -260,5 +252,16 @@
 🎟️ 11666 - Hoxton Hall&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-29_2217.json"/>
     <published>2026-08-29T23:17:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-30_1234.json</id>
+    <title>Tickets released for 4 venues on Sun 30 August at 13:34</title>
+    <updated>2026-08-30T13:34:00+01:00</updated>
+    <content>🎟️ 2418 - Wrotham Park&lt;br&gt;
+🎟️ 7544 - Embassy of the Republic of Poland&lt;br&gt;
+🎟️ 13436 - St Andrew's Church Leytonstone&lt;br&gt;
+🎟️ 12833 - Lost Aldwych&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-30_1234.json"/>
+    <published>2026-08-30T13:34:00+01:00</published>
   </entry>
 </feed>
