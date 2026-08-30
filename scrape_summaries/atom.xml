@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-30T18:10:00+01:00</updated>
+  <updated>2026-08-30T21:29:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-25_1441.json</id>
-    <title>Tickets released for 1 venues on Tue 25 August at 15:41</title>
-    <updated>2026-08-25T15:41:00+01:00</updated>
-    <content>🎟️ 13627 - Wapping Hydraulic Power Station&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-25_1441.json"/>
-    <published>2026-08-25T15:41:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-25_1632.json</id>
     <title>Tickets released for 1 venues on Tue 25 August at 17:32</title>
@@ -268,5 +260,15 @@
 🎟️ 12086 - Crystal Palace Subway&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-30_1710.json"/>
     <published>2026-08-30T18:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-30_2029.json</id>
+    <title>Tickets released for 3 venues on Sun 30 August at 21:29</title>
+    <updated>2026-08-30T21:29:00+01:00</updated>
+    <content>🎟️ 13284 - Internet infrastructure of London walking tour&lt;br&gt;
+🎟️ 13803 - Hillingdon Civic Centre&lt;br&gt;
+🎟️ 2612 - Tower Hamlets Cemetery Park&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-30_2029.json"/>
+    <published>2026-08-30T21:29:00+01:00</published>
   </entry>
 </feed>
