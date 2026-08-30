@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-08-30T21:29:00+01:00</updated>
+  <updated>2026-08-31T00:06:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-25_1632.json</id>
-    <title>Tickets released for 1 venues on Tue 25 August at 17:32</title>
-    <updated>2026-08-25T17:32:00+01:00</updated>
-    <content>🎟️ 11666 - Hoxton Hall&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-25_1632.json"/>
-    <published>2026-08-25T17:32:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-25_2024.json</id>
     <title>Tickets released for 4 venues on Tue 25 August at 21:24</title>
@@ -270,5 +262,18 @@
 🎟️ 2612 - Tower Hamlets Cemetery Park&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-30_2029.json"/>
     <published>2026-08-30T21:29:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-08-30_2306.json</id>
+    <title>Tickets released for 6 venues on Mon 31 August at 00:06</title>
+    <updated>2026-08-31T00:06:00+01:00</updated>
+    <content>🎟️ 5056 - Romanian Cultural Institute&lt;br&gt;
+🎟️ 13387 - Broadway Theatre&lt;br&gt;
+🎟️ 13873 - LUC 60th Anniversary - Chandos Park&lt;br&gt;
+🎟️ 4927 - Wanstead Heritage Walk&lt;br&gt;
+🎟️ 1381 - The Old Town Hall, Richmond&lt;br&gt;
+🎟️ 6960 - Kingston Guildhall and History Centre&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-30_2306.json"/>
+    <published>2026-08-31T00:06:00+01:00</published>
   </entry>
 </feed>
