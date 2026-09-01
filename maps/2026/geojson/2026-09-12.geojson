@@ -7584,7 +7584,7 @@
                 "balloted": "No",
                 "description": "The Herbarium, Library, Art & Archives building houses a working scientific collection located on Kew Green. We are excited to publicly showcase, through guided tours, our complex of historic and modern buildings, housing almost seven million preserved botanical collections, together with one of the largest botanical library, art, and archive collections in the world.",
                 "end": "16:15:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12733/building_12733_hunter-house-exterior_3348814a162cb48cb3c5362b08b841b6.jpeg",
@@ -11081,7 +11081,7 @@
                 "balloted": "No",
                 "description": "We are a friendly artist run gallery in Wells Street offering affordable, handmade fine art prints with a broad range of subjects created using many different printmaking techniques.\r\nWe aim to encourage people who have never encountered art before to experience printmaking through our regular workshops.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13875/building_13875_sbpm-73-wells-street-window_73122bd29be402382a7a2388df889a8e.jpg",
@@ -11424,6 +11424,41 @@
                 "start": "13:30:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13910"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.02705,
+                    51.47811
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Stories of Belonging – It Takes Courage, is a short film by Halyna Skvortsova, which explores how different waves of migration have shaped Lewisham, featuring voices from the Windrush Generation and Vietnamese, African, Eastern European, Afghan, and Ukrainian communities. \r\n\r\nThe screening takes place in the new SHAPES Lewisham community space, for creatives to meet, work, learn and collaborate.",
+                "end": "15:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13911/building_13911_screenshot-2026-08-04-at-16-56-47_a5a708c204f606f295c5ef993dbbd2a0.png",
+                        "title": "Halyna Skvortsova"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13911/building_13911_screenshot-2026-08-21-at-13-27-20_8de1256704dba8e47bd1a17c79baba9e.png",
+                        "title": "Halyna Skvortsova"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13911/building_13911_screenshot-2026-08-21-at-13-29-05_7edd8340b48f3da19d5118fdbc9ca5d7.png",
+                        "title": "Halyna Skvortsova"
+                    }
+                ],
+                "name": "'Stories of Belonging' Film Screening",
+                "new_venue_this_year": "Yes",
+                "start": "13:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13911"
             },
             "type": "Feature"
         },
