@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-01T21:28:00+01:00</updated>
+  <updated>2026-09-01T23:58:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-26_1243.json</id>
-    <title>Tickets released for 2 venues on Wed 26 August at 13:43</title>
-    <updated>2026-08-26T13:43:00+01:00</updated>
-    <content>🎟️ 2728 - Bruce Castle Museum&lt;br&gt;
-🎟️ 6996 - HG Wells' Bromley - in his own words&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_1243.json"/>
-    <published>2026-08-26T13:43:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-26_1352.json</id>
     <title>1 venues added dates on Wed 26 August at 14:52</title>
@@ -296,5 +287,21 @@
 🎟️ 12603 - The Butcher, The Baker and The Candlestick Maker&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-01_2028.json"/>
     <published>2026-09-01T21:28:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-01_2258.json</id>
+    <title>Tickets released for 9 venues on Tue 01 September at 23:58</title>
+    <updated>2026-09-01T23:58:00+01:00</updated>
+    <content>🎟️ 1538 - Royal Hospital Chelsea, Home of the Chelsea Pensioners&lt;br&gt;
+🎟️ 3543 - Whitgift Almshouses&lt;br&gt;
+🎟️ 13702 - Silvertown: A sailor's story&lt;br&gt;
+🎟️ 11619 - Longfield Hall&lt;br&gt;
+🎟️ 13545 - Flux Innovation Lounge, Greenwich Design District&lt;br&gt;
+🎟️ 11910 - A House within a House&lt;br&gt;
+🎟️ 12639 - 11 Hungerford Road&lt;br&gt;
+🎟️ 6151 - Royal College of Nursing&lt;br&gt;
+🎟️ 13570 - Mycenae House and Gardens&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-01_2258.json"/>
+    <published>2026-09-01T23:58:00+01:00</published>
   </entry>
 </feed>
