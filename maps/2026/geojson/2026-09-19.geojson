@@ -5612,7 +5612,7 @@
                 "balloted": "No",
                 "description": "Lansbury Lawrence (formally Susan Lawrence and Elizabeth Lansbury) opened in the 1951 Festival of Britain as a showpiece of the Live Architecture exhibition in the Lansbury Estate. An interesting mid-century design with original features.",
                 "end": "11:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/9135/building_9135_img_6021_4c73bf6957ae514cba1fdf610f320afa.jpg",
@@ -7526,7 +7526,7 @@
                 "balloted": "No",
                 "description": "Come join local architects and activists from Peckham Heritage, Peckham Vision and Peckham Society on a walk exploring Peckham's tangible and intangible heritage. Despite a backdrop of insensitive development proposals, decades of tireless community work continue to shape the area. Come explore with us one of London's most critical questions: 'What does it take to build or to destroy a community?'",
                 "end": "18:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12597/building_12597_peckham-s-heritage-past-present-and-future_b166184156dbd638c11549b696e5407e.jpg",
@@ -9671,37 +9671,6 @@
                 "start": "13:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13620"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.06569,
-                    51.50905
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Mulberry Academy London Dock is London's largest Passivhaus school. We're opening up its doors to the public for an exclusive tour with the team who designed and delivered it.",
-                "end": "16:00:00",
-                "fully_booked": "Yes",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13621/building_13621_8960_n261_016e348afe8a92ea7c37b979250abc16.jpg",
-                        "title": "Photo of Mulberry Academy London Dock"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13621/building_13621_8960_n12_3c0797130ffa6c01575cd9fa34ace46e.jpg",
-                        "title": "Photo of Mulberry Academy London Dock"
-                    }
-                ],
-                "name": "Mulberry Academy London Dock",
-                "new_venue_this_year": "Yes",
-                "start": "10:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/13621"
             },
             "type": "Feature"
         },
@@ -12102,7 +12071,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Step inside and discover more about the eight community-led walking tours exploring Haringey’s people, places and histories. Walking Stories: Haringey brings together photographs, maps, archives, artwork and local stories from across the borough. This exhibition at Birch Arts CIC gallery in one of Blue House Yard’s distinctive colourful huts is created by the Golden Key Academy course participants.",
+                "description": "Step inside and discover the eight community-led walking tours exploring Haringey’s people, places and histories. Walking Stories: Haringey brings together photographs, maps, archives, artwork and stories from across the borough. The exhibition at Birch Arts CIC gallery, in one of Blue House Yard’s distinctive colourful huts, is created by the Golden Key Academy tour guide course participants.",
                 "end": "18:00:00",
                 "fully_booked": "",
                 "images": [
@@ -12346,6 +12315,37 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13935"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13597,
+                    51.4902
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "To celebrate the first ever Pimlico Open House Neighbourhood Festival, Cave transforms it's gallery space into a virtual map of Pimlico through it's exhibition, The Fabric of Pimlico. Celebrating the actors, authors and musicians who have made it their home over the year....no passport needed",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13939/building_13939_424949359_871459534990911_6506030038302769193_n_7286c2f06b51d37ee04a26696a6d945b.jpg",
+                        "title": "The Cave"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13939/building_13939_img-20260821-wa0004_a904d1388038fd3d0b1b65fc0d5ae066.jpg",
+                        "title": "The Cave"
+                    }
+                ],
+                "name": "Pimlico People",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13939"
             },
             "type": "Feature"
         },

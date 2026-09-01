@@ -2431,7 +2431,7 @@
                 "balloted": "No",
                 "description": "Bodney Road Studio's is home to a range of practitioners working in the built environment including architectural photographer Lorenzo Zandri, graphic designers Polytechnic and place futurists The Place Bureau. Join us on 19–20 September when we will open the studios in conjunction with a programme of exhibitions and events by Lorenzo Zandri, Polytechnic, Sammi Gale and The Place Bureau.",
                 "end": "17:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13651/building_13651_bodneyroadstudios_1_7a31b45535a6b1f931413b5507936b4b.png",
@@ -2947,7 +2947,7 @@
                 "balloted": "No",
                 "description": "Borough Yards is a vibrant cultural and retail quarter at London Bridge, where historic railway arches and Victorian streets host independent shops, restaurants, pop-ups and year-round cultural programming. This event combines a panel discussion and guided walk exploring how culture, public space and independent businesses continue to shape this mixed-use neighbourhood.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13789/building_13789_boroughyards14_smartsoho-open-house-festival_66d2e3203a3cb1b8663110c95a8b93ae.jpg",
@@ -3311,7 +3311,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Step inside and discover more about the eight community-led walking tours exploring Haringey’s people, places and histories. Walking Stories: Haringey brings together photographs, maps, archives, artwork and local stories from across the borough. This exhibition at Birch Arts CIC gallery in one of Blue House Yard’s distinctive colourful huts is created by the Golden Key Academy course participants.",
+                "description": "Step inside and discover the eight community-led walking tours exploring Haringey’s people, places and histories. Walking Stories: Haringey brings together photographs, maps, archives, artwork and stories from across the borough. The exhibition at Birch Arts CIC gallery, in one of Blue House Yard’s distinctive colourful huts, is created by the Golden Key Academy tour guide course participants.",
                 "end": "18:00:00",
                 "fully_booked": "",
                 "images": [
@@ -3461,6 +3461,37 @@
                 "start": "10:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13935"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13597,
+                    51.4902
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "To celebrate the first ever Pimlico Open House Neighbourhood Festival, Cave transforms it's gallery space into a virtual map of Pimlico through it's exhibition, The Fabric of Pimlico. Celebrating the actors, authors and musicians who have made it their home over the year....no passport needed",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13939/building_13939_424949359_871459534990911_6506030038302769193_n_7286c2f06b51d37ee04a26696a6d945b.jpg",
+                        "title": "The Cave"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13939/building_13939_img-20260821-wa0004_a904d1388038fd3d0b1b65fc0d5ae066.jpg",
+                        "title": "The Cave"
+                    }
+                ],
+                "name": "Pimlico People",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13939"
             },
             "type": "Feature"
         },
