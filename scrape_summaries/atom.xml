@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-01T18:33:00+01:00</updated>
+  <updated>2026-09-01T21:28:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-26_1125.json</id>
-    <title>Tickets released for 1 venues on Wed 26 August at 12:25</title>
-    <updated>2026-08-26T12:25:00+01:00</updated>
-    <content>🎟️ 2840 - Charlton House &amp; Gardens&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_1125.json"/>
-    <published>2026-08-26T12:25:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-26_1243.json</id>
     <title>Tickets released for 2 venues on Wed 26 August at 13:43</title>
@@ -294,5 +286,15 @@
 🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-01_1733.json"/>
     <published>2026-09-01T18:33:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-01_2028.json</id>
+    <title>Tickets released for 3 venues on Tue 01 September at 21:28</title>
+    <updated>2026-09-01T21:28:00+01:00</updated>
+    <content>🎟️ 13901 - Bridge House&lt;br&gt;
+🎟️ 13815 - Stratford Waterfront at East Bank&lt;br&gt;
+🎟️ 12603 - The Butcher, The Baker and The Candlestick Maker&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-01_2028.json"/>
+    <published>2026-09-01T21:28:00+01:00</published>
   </entry>
 </feed>
