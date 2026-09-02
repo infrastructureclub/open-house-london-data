@@ -2,26 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-02T11:32:00+01:00</updated>
+  <updated>2026-09-02T15:56:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-26_1615.json</id>
-    <title>Tickets released for 5 venues, 1 venues added dates on Wed 26 August at 17:15</title>
-    <updated>2026-08-26T17:15:00+01:00</updated>
-    <content>🎟️ 13793 - Royal Trinity Hospice and grounds&lt;br&gt;
-🎟️ 1944 - The Fan Museum&lt;br&gt;
-🎟️ 2244 - Regent Street Cinema (The University of Westminster)&lt;br&gt;
-🎟️ 13627 - Wapping Hydraulic Power Station&lt;br&gt;
-🎟️ 12597 - Peckham in the Balance: Heritage and Activism&lt;br&gt;
-🗓️ 3600 - Baitul Futuh Mosque&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_1615.json"/>
-    <published>2026-08-26T17:15:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-26_1857.json</id>
     <title>Tickets released for 4 venues on Wed 26 August at 19:57</title>
@@ -309,5 +296,17 @@
 🗓️ 522 - Greenwich Yacht Club&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-02_1032.json"/>
     <published>2026-09-02T11:32:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-02_1456.json</id>
+    <title>Tickets released for 5 venues on Wed 02 September at 15:56</title>
+    <updated>2026-09-02T15:56:00+01:00</updated>
+    <content>🎟️ 12032 - Hounslow House&lt;br&gt;
+🎟️ 3489 - Leathersellers' Hall&lt;br&gt;
+🎟️ 7544 - Embassy of the Republic of Poland&lt;br&gt;
+🎟️ 13314 - Sadler's Wells East&lt;br&gt;
+🎟️ 12687 - Croydon Urban Room&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-02_1456.json"/>
+    <published>2026-09-02T15:56:00+01:00</published>
   </entry>
 </feed>

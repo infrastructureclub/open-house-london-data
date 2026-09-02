@@ -46,33 +46,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.00617,
-                    51.48106
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Beautiful mausoleum in former Royal Navy cemetery, restored 1999 by the University of Greenwich. Many interesting plaques and gravestones.",
-                "end": "16:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/249/building_249_devonport-mausoleum-2_866610793cdd77bfaf8426f0c40e3fc8.jpg",
-                        "title": "Photo of Devonport Mausoleum"
-                    }
-                ],
-                "name": "Devonport Mausoleum",
-                "new_venue_this_year": "No",
-                "start": "10:30:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/249"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.2630588,
                     51.4333564
                 ],
@@ -5671,7 +5644,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Tucked behind a busy road in W12, this former foundry is a multi-level development featuring an architects’ studio with courtyards and spaces for exhibitions and musical performances. The  building's 15m brick chimney is a local landmark.\r\n\r\nThis year we have a new exhibition in our gallery, showcasing the work of celebrated British artist Sophie Smallhorn.",
+                "description": "Tucked behind a busy road in W12, this former foundry is a multi-level development featuring an architects’ studio with courtyards and spaces for exhibitions and musical performances. The building's 15m brick chimney is a local landmark.\r\n\r\nThis year we are excited to announce a commemorative exhibition showcasing the work of British artist Rosamonde Hatton (1952–2024).",
                 "end": "16:00:00",
                 "fully_booked": "",
                 "images": [
@@ -6127,53 +6100,6 @@
                 "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/11382"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.2206,
-                    51.52319
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Set in the historic Sunbeam Talbot factory, a 1903 Beaux Arts building in Ladbroke Grove, Ladbroke Hall perpetuates the building’s legacy of innovation and creation. A space for exploration, inspiration and connection, across the many forms of arts and creative expressions, its seasonal live cultural programming celebrates the best of arts, live events and food.",
-                "end": "17:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_0f85ff7a-467c-4b56-897b-3d37e6de7277_jc_ad960aafa0bd4d7f0593df186494d59b.jpg",
-                        "title": "Ladbroke Hall"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_openhouse1_917e4484c1d0e3bad7738bc273ba3a63.png",
-                        "title": "Ladbroke Hall"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_openhouse2_7d32e9c04a8ebe273312b4930c93692d.png",
-                        "title": "Ladbroke Hall"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_jazz_4f88443e59533a4187475caf44c6316e.png",
-                        "title": "Ladbroke Hall"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_openhouse5_6d250767af5e8698e2921fbc45b8542f.png",
-                        "title": "Ladbroke Hall"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11573/building_11573_openhouse6_f068895833f20bb53f1b3b29e24e2e2a.png",
-                        "title": "Ladbroke Hall"
-                    }
-                ],
-                "name": "Ladbroke Hall",
-                "new_venue_this_year": "Yes",
-                "start": "11:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/11573"
             },
             "type": "Feature"
         },
@@ -7547,9 +7473,9 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The Croydon Urban Room is a space to talk about the past, present and future of the Croydon town centre. Through conversa­tions, stories, exhibitions and events, the Urban Room brings together the views of those who live, work and visit the area to create a shared vision of the future and test new uses live in action.",
+                "description": "The Croydon Urban Room is a space to talk about the past, present and future of the Croydon town centre. Through conversa­tions, stories, exhibitions and events, the Urban Room brings together the views of those who live, work and visit the area to create a shared vision of the future and test new uses live in action. \r\n\r\nSee our website for further details of specific events.",
                 "end": "16:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12687/building_12687_1721246551928_a6d64c6db9d8edb6a0b069318bba4114.jfif",
@@ -7567,7 +7493,7 @@
                 "name": "Croydon Urban Room",
                 "new_venue_this_year": "No",
                 "start": "10:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/12687"
             },
             "type": "Feature"
@@ -11030,7 +10956,7 @@
                 "balloted": "No",
                 "description": "This year marks LUC’s 60th anniversary. We are celebrating a legacy founded by two landscape architects and an ecologist, built on creativity, collaboration, and meaningful design. To mark the occasion, we are showcasing five projects highlighting the breadth and diversity of LUC’s work across disciplines and design approaches. Together, they demonstrate our thoughtful and impactful work.",
                 "end": "10:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13874/building_13874_west_reservoir_-7_f7c4dba02ef2025966fac2db6f9b03ac.jpg",
@@ -11279,7 +11205,7 @@
                 "balloted": "No",
                 "description": "Bridge House is a mixed-use building by Studioshaw with 40 apartments and commercial space. The design is a new vernacular for multi-unit residential development in London. All apartments are dual-aspect and share a rooftop garden, with balconies over the canal and new public square. The facade is made from concrete elements cast only 750m from site. The building's structure is its architecture.",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13901/building_13901_bh-aug-0003_6adf928a21f416f7391b86e78b02ce2d.jpg",

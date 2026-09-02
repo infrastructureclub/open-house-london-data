@@ -20,10 +20,10 @@
             "capacity": null,
             "date": "2026-09-17",
             "drop_in": true,
-            "end": "2026-09-17T18:00:00+01:00",
+            "end": "2026-09-17T21:00:00+01:00",
             "fully_booked": false,
             "name": "Drop in: Exhibition",
-            "notes": "Public view",
+            "notes": "3 pm – 9 pm Public view of exhibition\r\n7 pm – 7.30 pm Welcome, presentation and Youth Design Challenge winners announcement",
             "start": "2026-09-17T15:00:00+01:00",
             "ticketed": false
         }
@@ -31,14 +31,26 @@
     "facilities": [
         "Audio guide/description",
         "Drinking water",
-        "Handrails on one side of stairs"
+        "Handrails on one side of stairs",
+        "Family-friendly event"
     ],
     "factsheet": [
         {
             "heading": "Exhibition",
             "paragraphs": [
-                "An exhibition of work produced in a series of creative workshops with youth organisations and students in North Westminster. The work includes collages, maps, poems, manifestos and models.",
-                "We invite attendees to engage with and respond to the exhibited work."
+                "The Marble Arch Youth Assembly was founded in 2026 to work with young people to imagine the future of their public spaces in London.",
+                "Throughout its history Marble Arch has played a crucial role in the development of London and its civic identity. It’s been a bustling market intersection, a site of execution, a celebratory gateway to a Royal park, a site of protest and demonstration. In one place, it holds the many identities and complexities of a modern city, which is exactly why the project is rooted here, and in Marble Arch's specific history as a place of protest and public assembly.",
+                "Today, the monument of Marble Arch sits on a traffic island, isolated both from Oxford Street and from Hyde Park. A vehicle-dominated environment has created an overlooked public space, cut off from the city that it was built to welcome, marooned by fourteen lanes of traffic, its grandeur diminished by vehicles, noise and poor air quality. It is not a welcoming place, nor is it fitting as a gateway to the West End.",
+                "During the summer of 2026, the project engaged over 100 young people across the City of Westminster through a series of creative workshops. This exhibition presents their responses, experiences and visions: a series of collages, body maps, a collective manifesto and a model for Marble Arch's future.",
+                "The young people who participated in the Youth Assembly are sharing their own ideas for a real project. Their work will be seen and valued by designers and decision-makers, and their ideas have the potential to impact the future of the space.",
+                "The voice of young people in city making:\nYoung people are not a homogenous group, they are individuals with intersecting identities, diverse communities, and varied ways of associating. They navigate the city with distinct needs, and bring a particular energy and vibrancy to the places they pass through. Yet public space rarely caters to them, and young people are rarely given a seat at the table in shaping it, especially at the early stages of design and development.",
+                "Young people have good ideas about their own lives, and those ideas are worth hearing. To create a truly successful public space, we must ensure it serves and is shaped by the next generation, with young people as agents in creating it, equal to every other stakeholder in the process.",
+                "Marble Arch is a place where young people from all over the world converge; tourists, students, residents, workers, people passing through. The potential for it to genuinely serve them is enormous.",
+                "The project has four main objectives:\nBuild a grounded, collective picture of young people’s relationship with Marble Arch and the surrounding area.",
+                "Gain a deep understanding what it means for young people to move freely and independently through Marble Arch and the surrounding area .",
+                "Create a space where young people can articulate what they would like to see in the area, what they need in the area to thrive.",
+                "Provide tangible skills, tools and agency that enable young people to meaningfully connect with the development of the spaces they inhabit.",
+                "The workshops:\nThe workshops worked with different topics and methodologies to explore urban democracy in different ways. Together, the outputs from these workshops form a collective vision for Marble Arch, grounded in the lived experiences and hopes of young people across different contexts."
             ]
         }
     ],
@@ -74,7 +86,7 @@
         "longitude": -0.16598,
         "meeting_point": null,
         "travel_info": [
-            "Tube: Edgware Road Circle, Marble Arch, Paddington",
+            "Tube: Marble Arch, Paddington",
             "Train: Paddington"
         ]
     },

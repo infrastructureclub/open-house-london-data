@@ -46,21 +46,6 @@
     },
     "events": [
         {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2026-09-14",
-            "drop_in": true,
-            "end": "2026-09-14T20:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Talk with residents and Special guest",
-            "notes": "Hear from residents about their fight for their homes and community with a special guest talking about Hollamby's Lambeth TBC",
-            "start": "2026-09-14T18:00:00+01:00",
-            "ticketed": false
-        },
-        {
             "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
@@ -70,7 +55,7 @@
             "drop_in": false,
             "end": "2026-09-14T12:30:00+01:00",
             "fully_booked": false,
-            "name": "Walk with Residents",
+            "name": "Morning Walk with Residents",
             "notes": "Walk with residents and hear about the reality of regeneration and how the community stopped Hollamby's favourite estate from demolition",
             "start": "2026-09-14T11:00:00+01:00",
             "ticketed": true
@@ -88,6 +73,21 @@
             "name": "Afternoon Walk with Residents",
             "notes": "",
             "start": "2026-09-14T14:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/6556",
+            "capacity": null,
+            "date": "2026-09-14",
+            "drop_in": false,
+            "end": "2026-09-14T20:00:00+01:00",
+            "fully_booked": false,
+            "name": "Talk on Retrofit and Refurbish Central Hill Estate",
+            "notes": "Hear from residents about their fight for their homes & community with TU Delft researcher Laura Barnett introducing retrofit strategies.",
+            "start": "2026-09-14T18:30:00+01:00",
             "ticketed": true
         },
         {
@@ -133,21 +133,6 @@
             "name": "Afternoon Walk with Residents",
             "notes": "",
             "start": "2026-09-20T15:00:00+01:00",
-            "ticketed": true
-        },
-        {
-            "activity_type": "Workshop",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/6556",
-            "capacity": null,
-            "date": "2026-09-20",
-            "drop_in": false,
-            "end": "2026-09-20T19:30:00+01:00",
-            "fully_booked": false,
-            "name": "Retrofit Refurbish Central Hill",
-            "notes": "",
-            "start": "2026-09-20T18:00:00+01:00",
             "ticketed": true
         }
     ],
