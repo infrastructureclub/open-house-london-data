@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-02T15:56:00+01:00</updated>
+  <updated>2026-09-02T19:26:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-26_1857.json</id>
-    <title>Tickets released for 4 venues on Wed 26 August at 19:57</title>
-    <updated>2026-08-26T19:57:00+01:00</updated>
-    <content>🎟️ 12908 - The John Morden Centre and Morden College Almshouses&lt;br&gt;
-🎟️ 1538 - Royal Hospital Chelsea, Home of the Chelsea Pensioners&lt;br&gt;
-🎟️ 1381 - The Old Town Hall, Richmond&lt;br&gt;
-🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_1857.json"/>
-    <published>2026-08-26T19:57:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-26_2140.json</id>
     <title>Tickets released for 3 venues on Wed 26 August at 22:40</title>
@@ -308,5 +297,19 @@
 🎟️ 12687 - Croydon Urban Room&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-02_1456.json"/>
     <published>2026-09-02T15:56:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-02_1826.json</id>
+    <title>Tickets released for 6 venues, 1 venues added dates on Wed 02 September at 19:26</title>
+    <updated>2026-09-02T19:26:00+01:00</updated>
+    <content>🎟️ 11573 - Ladbroke Hall&lt;br&gt;
+🎟️ 8198 - Royal Hospital for Neuro-disability&lt;br&gt;
+🎟️ 7788 - King's Cross Masterplan&lt;br&gt;
+🎟️ 8141 - St. Mary's Church, Walthamstow Village&lt;br&gt;
+🎟️ 6151 - Royal College of Nursing&lt;br&gt;
+🎟️ 12542 - 1 Waterlow Court&lt;br&gt;
+🗓️ 12542 - 1 Waterlow Court&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-02_1826.json"/>
+    <published>2026-09-02T19:26:00+01:00</published>
   </entry>
 </feed>
