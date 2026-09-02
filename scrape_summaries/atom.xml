@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-02T19:26:00+01:00</updated>
+  <updated>2026-09-02T22:33:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-26_2140.json</id>
-    <title>Tickets released for 3 venues on Wed 26 August at 22:40</title>
-    <updated>2026-08-26T22:40:00+01:00</updated>
-    <content>🎟️ 12421 - Brook Green walk&lt;br&gt;
-🎟️ 11162 - Stamford Brook walk&lt;br&gt;
-🎟️ 152 - Shaftesbury Theatre&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_2140.json"/>
-    <published>2026-08-26T22:40:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-27_0251.json</id>
     <title>Tickets released for 2 venues on Thu 27 August at 03:51</title>
@@ -311,5 +301,15 @@
 🗓️ 12542 - 1 Waterlow Court&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-02_1826.json"/>
     <published>2026-09-02T19:26:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-02_2133.json</id>
+    <title>Tickets released for 3 venues on Wed 02 September at 22:33</title>
+    <updated>2026-09-02T22:33:00+01:00</updated>
+    <content>🎟️ 13708 - The South Wing&lt;br&gt;
+🎟️ 7544 - Embassy of the Republic of Poland&lt;br&gt;
+🎟️ 6325 - "Change: 40 Years of SOM London,” a special exhibition exploring design as a cultural practice&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-02_2133.json"/>
+    <published>2026-09-02T22:33:00+01:00</published>
   </entry>
 </feed>
