@@ -88,7 +88,7 @@
             "date": "2026-09-19",
             "drop_in": false,
             "end": "2026-09-19T13:00:00+01:00",
-            "fully_booked": true,
+            "fully_booked": false,
             "name": "Guided tour",
             "notes": "Tour led by residents - takes approximately 1 hour",
             "start": "2026-09-19T12:00:00+01:00",
@@ -182,6 +182,21 @@
             "name": "Guided tour",
             "notes": "Tour led by residents - takes approximately 1 hour",
             "start": "2026-09-19T16:30:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/3069",
+            "capacity": null,
+            "date": "2026-09-19",
+            "drop_in": false,
+            "end": "2026-09-19T18:00:00+01:00",
+            "fully_booked": false,
+            "name": "Guided tour",
+            "notes": "Tour led by residents - takes approximately 1 hour",
+            "start": "2026-09-19T17:00:00+01:00",
             "ticketed": true
         }
     ],

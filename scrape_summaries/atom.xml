@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-01T23:58:00+01:00</updated>
+  <updated>2026-09-02T11:32:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-26_1352.json</id>
-    <title>1 venues added dates on Wed 26 August at 14:52</title>
-    <updated>2026-08-26T14:52:00+01:00</updated>
-    <content>🗓️ 13889 - The West End At War&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-26_1352.json"/>
-    <published>2026-08-26T14:52:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-26_1615.json</id>
     <title>Tickets released for 5 venues, 1 venues added dates on Wed 26 August at 17:15</title>
@@ -303,5 +295,19 @@
 🎟️ 13570 - Mycenae House and Gardens&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-01_2258.json"/>
     <published>2026-09-01T23:58:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-02_1032.json</id>
+    <title>Tickets released for 6 venues, 1 venues added dates on Wed 02 September at 11:32</title>
+    <updated>2026-09-02T11:32:00+01:00</updated>
+    <content>🎟️ 546 - Hackney Empire&lt;br&gt;
+🎟️ 13822 - Ibraaz&lt;br&gt;
+🎟️ 13874 - LUC 60th Anniversary - West Reservoir&lt;br&gt;
+🎟️ 3069 - Highpoint&lt;br&gt;
+🎟️ 12774 - Art and architecture in Thamesmead&lt;br&gt;
+🎟️ 11162 - Stamford Brook walk&lt;br&gt;
+🗓️ 522 - Greenwich Yacht Club&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-02_1032.json"/>
+    <published>2026-09-02T11:32:00+01:00</published>
   </entry>
 </feed>

@@ -269,6 +269,45 @@
         {
             "geometry": {
                 "coordinates": [
+                    0.0177407,
+                    51.494727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Greenwich Yacht Club is an iconic riverside clubhouse with panoramic views of the Thames, the O2 and the Thames Barrier. Completed in 2000, it has served a club founded in 1908. Activities include dinghy sailing, cruising, rowing, racing and RYA classes. Facilities include a sail loft, machine shop, construction shed and a landside building for weddings and other events.",
+                "end": "17:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/522/building_522_img_8409_3f6f33d3b8859711a93c1544073ecb2b.jpeg",
+                        "title": "Photo of Greenwich Yacht Club"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/522/building_522_gyc-clubhouse-aug-2013-033-3_8996a27bb32696dba5f2e0b2e15d8ef9.jpg",
+                        "title": "Chris Francis"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/522/building_522_clubhouse_70fc803fc39a19fb4e4312b02d46926c.jpg",
+                        "title": "Chris Francis "
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/522/building_522_lady-libby-2_8e0b8fbad40244bf61b5cc3ddc279b25.jpg",
+                        "title": "Chris Francis "
+                    }
+                ],
+                "name": "Greenwich Yacht Club",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/522"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.0919,
                     51.51589
                 ],
@@ -3373,7 +3412,7 @@
                 ],
                 "name": "Phoenix Gardens Community Building",
                 "new_venue_this_year": "No",
-                "start": "12:00:00",
+                "start": "15:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/6841"
             },
