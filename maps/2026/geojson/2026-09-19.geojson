@@ -4492,7 +4492,7 @@
                 "balloted": "No",
                 "description": "A cleverly integrated mixture of architectural styles and periods, incorporating a late 1720s house (later home to Herbert Henry Asquith) and the purpose-built College of Nursing (1926). Access to main building via guided tour only.",
                 "end": "16:15:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/6151/building_6151_external-2_06e1c11c4f9913f6b00a6f55fe35679f.jpg",
@@ -6959,7 +6959,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights scale architectural models of London: the New London Model and the City Model, in addition to a rotating exhibition highlighting key NLA projects.",
+                "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights scale architectural models of London: the New London Model and the City Model, in addition to a rotating exhibition highlighting key NLA projects. For 2026, the London Centre will be home to the Open House Festival hub, with a programme of bite-size talks and printed material from the Open City back catalogue available to take home for free.",
                 "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
@@ -6976,7 +6976,7 @@
                         "title": "Hope Halpin"
                     }
                 ],
-                "name": "The London Centre",
+                "name": "Open House Festival Hub @ The London Centre",
                 "new_venue_this_year": "No",
                 "start": "11:00:00",
                 "ticketed_events": "No",
@@ -8114,7 +8114,7 @@
                 "balloted": "No",
                 "description": "On the surface Thamesmead might seem concrete and grey, but on this tour we will take a look at the colour and life local artists are breathing into the area. Examining the past and present, we'll explore the abbey ruins, exciting sculptures, concrete skywalks, and vivid murals that make this place the Town of Tomorrow.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12774/building_12774_earth-mother-s-shade_6e036ed4f8fc2e4919c69f097b1a16e1.jpg",
@@ -12183,6 +12183,45 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13929"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.04481,
+                    51.43285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "At Sydenham Garden, we promote health and wellbeing, support recovery and build connection with nature, gardening, creative expression, and with each other. We provide therapeutic group activities for people who are referred to us.\r\n \r\nWe're opening our Wynell Rd site on Sat 19th Sept; come & visit our buildings, green spaces, view exhibited artworks and have a slice of cake in the garden.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13931/building_13931_resource-centre_3b84a0469a5721159225f2a610bbe033.jpg",
+                        "title": "@sydenhamgarden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13931/building_13931_greenhouse-landscape_4eeca2ae554935dfe2fb014bb566803d.jpg",
+                        "title": "@sydenhamgarden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13931/building_13931_bird-hide_46d550ee614cb995f973517ce8c23ece.jpg",
+                        "title": "@sydenhamgarden"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13931/building_13931_decking_3bb210f33518877b24999aaf9e9d1341.jpg",
+                        "title": "@sydenhamgarden"
+                    }
+                ],
+                "name": "Sydenham Garden",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13931"
             },
             "type": "Feature"
         },

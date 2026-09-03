@@ -1,7 +1,7 @@
 {
     "all_week": false,
     "balloted_events": false,
-    "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights scale architectural models of London: the New London Model and the City Model, in addition to a rotating exhibition highlighting key NLA projects.",
+    "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights scale architectural models of London: the New London Model and the City Model, in addition to a rotating exhibition highlighting key NLA projects. For 2026, the London Centre will be home to the Open House Festival hub, with a programme of bite-size talks and printed material from the Open City back catalogue available to take home for free.",
     "design": {
         "designers": [
             {
@@ -46,6 +46,36 @@
             "name": "Drop in: Festival Hub at The London Centre",
             "notes": "Please let us know if you plan to visit. Doing so allows\n                    the venue to plan ahead and you will be notified by email\n                    about any changes to the programme that might affect your\n                    visit.",
             "start": "2026-09-19T11:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2026-09-19",
+            "drop_in": true,
+            "end": "2026-09-19T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: The London Model Talk - London by Thames",
+            "notes": "Ros Oakley on how the mighty Thames river has influenced the City of London and the lives of those who’ve lived along its banks.",
+            "start": "2026-09-19T14:30:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2026-09-19",
+            "drop_in": true,
+            "end": "2026-09-19T16:30:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: The London Model Talk - Elephant and Castle",
+            "notes": "Joseph Granata on Elephant and Castle",
+            "start": "2026-09-19T16:00:00+01:00",
             "ticketed": false
         }
     ],
@@ -129,7 +159,7 @@
             "Bus: 141, 21, 43, 76"
         ]
     },
-    "name": "The London Centre",
+    "name": "Open House Festival Hub @ The London Centre",
     "new_venue_this_year": false,
     "original_url": "https://programme.openhouse.org.uk/listings/12022",
     "ticketed_events": false,

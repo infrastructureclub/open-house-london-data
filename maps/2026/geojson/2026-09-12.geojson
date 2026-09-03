@@ -2510,7 +2510,7 @@
                 "balloted": "No",
                 "description": "Saturday 12th September. Meet at the Iron Duke sculpture for a 2.00 p.m. start. Ends at 3.30 p.m. with refreshments at All Saints Church. Walk along the perimeter of  Ealing Common, taking in the range of architectural styles. Highlights: the home of a Wimbledon champion and the death mask of a prime minister.",
                 "end": "15:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2574/building_2574_st-matthews_f17c403ca0069a490f9bff18a549e950.jpg",
@@ -4402,7 +4402,7 @@
                 "balloted": "No",
                 "description": "Quote - “All the secrets of the world worth knowing are hiding in plain sight”, the City of Westminster Tour Guides are offering a new walk around the quieter streets of Victoria, we will unveil some of these Hidden in Plain Sight secrets.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/7774/building_7774_maunsel-streete_08d30427722c8518c21a2db0eec95fbe.jpeg",
@@ -6537,7 +6537,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights scale architectural models of London: the New London Model and the City Model, in addition to a rotating exhibition highlighting key NLA projects.",
+                "description": "Home of NLA, London’s built environment community, and located in the West Wing of the Guildhall complex, the Centre highlights scale architectural models of London: the New London Model and the City Model, in addition to a rotating exhibition highlighting key NLA projects. For 2026, the London Centre will be home to the Open House Festival hub, with a programme of bite-size talks and printed material from the Open City back catalogue available to take home for free.",
                 "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
@@ -6554,7 +6554,7 @@
                         "title": "Hope Halpin"
                     }
                 ],
-                "name": "The London Centre",
+                "name": "Open House Festival Hub @ The London Centre",
                 "new_venue_this_year": "No",
                 "start": "11:00:00",
                 "ticketed_events": "No",
@@ -7082,7 +7082,7 @@
                 "balloted": "No",
                 "description": "Mother has been in the Biscuit Building since 2006, it was designed by Clive Wilkinson Architects. It is a four-story creative workspace, with the design centred around a 14-foot wide staircase through the building from ground to loading level to first floor and then second floor. A table, which accommodates Mother staff, is shaped as a continuous ribbon with this staircase.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12532/building_12532_screenshot-2024-06-07-at-18-57-53_be63de4f7eda0075d97ff06abe38ee83.png",
@@ -7183,7 +7183,7 @@
                 "balloted": "No",
                 "description": "Sir Howard Hodgkin (1932 – 2017) was one of England’s most celebrated contemporary artists. Abstracted yet allusive, apparently spontaneous but in fact highly controlled, his paintings convey feeling through gesture and colour.  His former studio, converted from a nineteenth-century dairy, sits in the heart of Bloomsbury.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12569/building_12569_studio-2024_3c443511f6f7a38df9eddc5a13403638.jpeg",
@@ -11669,6 +11669,37 @@
                 "start": "06:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13946"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.09204,
+                    51.51543
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Want to know more about the history of the City? Hop aboard our walking bus for fun facts and sensational stories as we wind through the local City.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13949/building_13949_image_2d0c374d737c4986c7a10512fead86b5.jpg",
+                        "title": "Guildhall Art Gallery"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13949/building_13949_image-2_8f673b2e3e19cf7b988ef5bcd82e986c.jpg",
+                        "title": "Guildhall Art Gallery"
+                    }
+                ],
+                "name": "Hop on, hop off Walking Tour Bus by Hullabaloo",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13949"
             },
             "type": "Feature"
         }

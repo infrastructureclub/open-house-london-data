@@ -7475,7 +7475,7 @@
                 "balloted": "No",
                 "description": "Join us at Brooklands Primary School to discover more about the story of William Mitchell’s mural (1958), designed as part of the London County Council’s pioneering Design Consultant Scheme",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13814/building_13814_mitchell-mural_71fa59ef6feb19b1967319c6b79e414f.jpg",
@@ -7828,6 +7828,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.03,
+                    51.48031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Piehouse Workers Co-op is a not-for-profit, worker-run, wheelchair accessible music venue. On 20th September we will throw a zine launch party. Come down to get a copy of our first Piehouse Zine with stalls by our resident artists, DJS & a BBQ.",
+                "end": "16:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13924/building_13924_piehouse-_-credit_-jazz-noble_a0623e3bd8e428acfb37e6489acfcfb1.jpg",
+                        "title": "Jazz Noble"
+                    }
+                ],
+                "name": "Piehouse Workers Coop",
+                "new_venue_this_year": "Yes",
+                "start": "12:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13924"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.12962,
                     51.51201
                 ],
@@ -8007,7 +8034,7 @@
                         "title": "Coco Collective- Community Research"
                     }
                 ],
-                "name": "Coco Collective- Ital Community Gardens",
+                "name": "Coco Collective - Ital Community Gardens",
                 "new_venue_this_year": "Yes",
                 "start": "11:30:00",
                 "ticketed_events": "No",
@@ -8074,6 +8101,37 @@
                 "start": "06:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13946"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.05958,
+                    51.59309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "In 2022, local skaters started cleaning up a derelict Tottenham underpass and turning it into a community-built, covered DIY skatepark. Since then, it has been transformed into a free space for skaters, BMXers, roller skaters and anyone else on wheels. As a community of communities, we continue to bring people together to share skills and collaborate creatively, as well as skate.",
+                "end": "19:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13947/building_13947_downcurve_9c91c2493ac898c64d0c3f51fd1d1d24.jpg",
+                        "title": "Downside DIY Exterior - Image credit : Raoul Fearnley"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13947/building_13947_jam__dfc98d4cb4701ed9570f9a78bca57d57.jpg",
+                        "title": "Jam for SkatePal - image credit : Raoul Fearnley"
+                    }
+                ],
+                "name": "Downside DIY Community Skatepark",
+                "new_venue_this_year": "Yes",
+                "start": "14:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13947"
             },
             "type": "Feature"
         }

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-03T13:33:00+01:00</updated>
+  <updated>2026-09-03T17:53:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-28_0851.json</id>
-    <title>Tickets released for 2 venues on Fri 28 August at 09:51</title>
-    <updated>2026-08-28T09:51:00+01:00</updated>
-    <content>🎟️ 13652 - Tools for Urban Narratives&lt;br&gt;
-🎟️ 1491 - 22 Parkside AKA Roger's House&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-28_0851.json"/>
-    <published>2026-08-28T09:51:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-28_2040.json</id>
     <title>Tickets released for 10 venues on Fri 28 August at 21:40</title>
@@ -284,5 +275,17 @@
 🎟️ 12209 - Petty France and its environs&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-03_1233.json"/>
     <published>2026-09-03T13:33:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-03_1653.json</id>
+    <title>Tickets released for 5 venues on Thu 03 September at 17:53</title>
+    <updated>2026-09-03T17:53:00+01:00</updated>
+    <content>🎟️ 7774 - Victoria: Hidden in Plain Sight&lt;br&gt;
+🎟️ 12639 - 11 Hungerford Road&lt;br&gt;
+🎟️ 13580 - Suburban Art and Design in Petts Wood&lt;br&gt;
+🎟️ 2574 - Ealing Common Walk&lt;br&gt;
+🎟️ 6151 - Royal College of Nursing&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-03_1653.json"/>
+    <published>2026-09-03T17:53:00+01:00</published>
   </entry>
 </feed>
