@@ -2138,13 +2138,13 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Join us to explore the newly reopened Seven Sisters market and surrounding area.\r\n\r\nKnown as a hub for North London’s Latin American community, the market has been closed since 2021 whilst the site has been undergoing development. The reopening of this site in June 2025 gives us a great opportunity to gather together, remember the history of the market and collectively imagine its future.",
+                "description": "Join us to explore the recently reopened Seven Sisters market in partnership with the Making Spaces Project and Wards Corner CBS.\r\n\r\nKnown as a hub for North London’s Latin American community, the market was reopened in June 2025 in this interactive event, we will gather together, remember the history of the market and collectively imagine its future.",
                 "end": "19:00:00",
                 "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13250/building_13250_screenshot-2026-07-02-at-16-38-25_9b676130741c1282ec4a710a36c814a1.png",
-                        "title": "Peter Browning"
+                        "title": "Erefua Boakye"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13250/building_13250_img_5812_dd523a3ee88f0626d82f9b64276389e2.jpeg",
@@ -2561,7 +2561,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "London Square presents a rare opportunity to live within the sensitively restored former Surrey County Hall, complemented by a striking collection of contemporary new-build homes and commercial areas for hire.\r\n\r\nSet in the heart of Kingston, residents enjoy a riverside town rich in culture, green spaces, shopping and dining - all with excellent connection to London and beyond.",
+                "description": "London Square presents a rare opportunity to step inside a sensitively restored former Surrey County Hall, which will be transformed into a collection of contemporary new-build homes to buy and commercial areas for hire.\r\n\r\nSet in the heart of Kingston, this is a unique opportunity to experience County Hall from the inside out—before its next chapter begins.",
                 "end": "16:00:00",
                 "fully_booked": "No",
                 "images": [
@@ -3501,17 +3501,17 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "To celebrate the first ever Pimlico Open House Neighbourhood Festival, Cave transforms it's gallery space into a virtual map of Pimlico through it's exhibition, The Fabric of Pimlico. Celebrating the actors, authors and musicians who have made it their home over the year....no passport needed",
+                "description": "To celebrate the first ever Pimlico Open House Neighbourhood Festival, cave transforms its gallery space into a virtual map of Pimlico through it's exhibition, The Fabric of Pimlico. Celebrating the actors, authors and musicians who have made it their home over the year....no passport needed",
                 "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13939/building_13939_424949359_871459534990911_6506030038302769193_n_7286c2f06b51d37ee04a26696a6d945b.jpg",
-                        "title": "The Cave"
+                        "title": "Cave Gallery and Studios"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13939/building_13939_img-20260821-wa0004_a904d1388038fd3d0b1b65fc0d5ae066.jpg",
-                        "title": "The Cave"
+                        "title": "Cave Gallery and Studios"
                     }
                 ],
                 "name": "Pimlico People",
@@ -3581,6 +3581,33 @@
                 "start": "06:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13946"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.10993,
+                    51.59718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "This is a walking tour led by Allistair Arendse. From Wood Green station to New River to Wolves Lane, discover two vital models of community infrastructure in Haringey and what I have learned working at both.",
+                "end": "13:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13951/building_13951_img_20260901_140757_08fefc703d1a3ad51729fdbc484bab1f.jpg",
+                        "title": "Allistair Arendse"
+                    }
+                ],
+                "name": "New River to Wolves Lane tour",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13951"
             },
             "type": "Feature"
         }
