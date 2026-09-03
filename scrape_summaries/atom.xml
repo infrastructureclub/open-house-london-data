@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-03T20:37:00+01:00</updated>
+  <updated>2026-09-03T23:13:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-29_1043.json</id>
-    <title>Tickets released for 2 venues on Sat 29 August at 11:43</title>
-    <updated>2026-08-29T11:43:00+01:00</updated>
-    <content>🎟️ 12441 - Royal Foundation of St Katharine&lt;br&gt;
-🎟️ 11824 - Hidden Isleworth - a walking tour with varied buildings&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-29_1043.json"/>
-    <published>2026-08-29T11:43:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-29_1526.json</id>
     <title>Tickets released for 8 venues on Sat 29 August at 16:26</title>
@@ -280,5 +271,17 @@
 🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-03_1937.json"/>
     <published>2026-09-03T20:37:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-03_2213.json</id>
+    <title>Tickets released for 5 venues on Thu 03 September at 23:13</title>
+    <updated>2026-09-03T23:13:00+01:00</updated>
+    <content>🎟️ 13671 - Freud Museum London&lt;br&gt;
+🎟️ 12753 - ‘Strictly Entertainment’- Shepherd’s Bush 1915-2013&lt;br&gt;
+🎟️ 7861 - A House for Artists&lt;br&gt;
+🎟️ 10591 - 6 Moretown (Gensler London Studio)&lt;br&gt;
+🎟️ 13658 - Bloomsbury marginalia – working-class lives in Bloomsbury&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-03_2213.json"/>
+    <published>2026-09-03T23:13:00+01:00</published>
   </entry>
 </feed>
