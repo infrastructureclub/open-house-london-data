@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-04T06:26:00+01:00</updated>
+  <updated>2026-09-04T11:31:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-29_2217.json</id>
-    <title>Tickets released for 3 venues on Sat 29 August at 23:17</title>
-    <updated>2026-08-29T23:17:00+01:00</updated>
-    <content>🎟️ 11313 - Fruit to Fashion: how a kitchen garden became a world famous piazza&lt;br&gt;
-🎟️ 13681 - Somers Town folk&lt;br&gt;
-🎟️ 11666 - Hoxton Hall&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-29_2217.json"/>
-    <published>2026-08-29T23:17:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-30_1234.json</id>
     <title>Tickets released for 4 venues on Sun 30 August at 13:34</title>
@@ -277,5 +267,18 @@
 🎟️ 12086 - Crystal Palace Subway&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_0526.json"/>
     <published>2026-09-04T06:26:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-04_1031.json</id>
+    <title>Tickets released for 6 venues on Fri 04 September at 11:31</title>
+    <updated>2026-09-04T11:31:00+01:00</updated>
+    <content>🎟️ 2728 - Bruce Castle Museum&lt;br&gt;
+🎟️ 13929 - Stalls and Shops: a walking tour of Lewisham Market&lt;br&gt;
+🎟️ 1491 - 22 Parkside AKA Roger's House&lt;br&gt;
+🎟️ 12532 - The Biscuit Building&lt;br&gt;
+🎟️ 889 - The Swedenborg Society&lt;br&gt;
+🎟️ 13570 - Mycenae House and Gardens&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_1031.json"/>
+    <published>2026-09-04T11:31:00+01:00</published>
   </entry>
 </feed>
