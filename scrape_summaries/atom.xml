@@ -2,28 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-03T23:13:00+01:00</updated>
+  <updated>2026-09-04T01:42:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-29_1526.json</id>
-    <title>Tickets released for 8 venues on Sat 29 August at 16:26</title>
-    <updated>2026-08-29T16:26:00+01:00</updated>
-    <content>🎟️ 1472 - Richmond Lock Building (Surrey Side)&lt;br&gt;
-🎟️ 10280 - Quentin Blake Centre for Illustration - New River Head&lt;br&gt;
-🎟️ 13927 - Tipping Point East site tour&lt;br&gt;
-🎟️ 13545 - Flux Innovation Lounge, Greenwich Design District&lt;br&gt;
-🎟️ 13164 - London Film School - Shelton Street&lt;br&gt;
-🎟️ 2244 - Regent Street Cinema (The University of Westminster)&lt;br&gt;
-🎟️ 12601 - Georgian Clerkenwell's speculative housing boom&lt;br&gt;
-🎟️ 13570 - Mycenae House and Gardens&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-29_1526.json"/>
-    <published>2026-08-29T16:26:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-29_1908.json</id>
     <title>Tickets released for 2 venues on Sat 29 August at 20:08</title>
@@ -283,5 +268,14 @@
 🎟️ 13658 - Bloomsbury marginalia – working-class lives in Bloomsbury&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-03_2213.json"/>
     <published>2026-09-03T23:13:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-04_0042.json</id>
+    <title>Tickets released for 2 venues on Fri 04 September at 01:42</title>
+    <updated>2026-09-04T01:42:00+01:00</updated>
+    <content>🎟️ 11735 - 1-4 Suffolk Street: Uni of Notre Dame &amp; G.K Chesterton&lt;br&gt;
+🎟️ 11666 - Hoxton Hall&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_0042.json"/>
+    <published>2026-09-04T01:42:00+01:00</published>
   </entry>
 </feed>
