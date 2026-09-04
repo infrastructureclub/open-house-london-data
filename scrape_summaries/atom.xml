@@ -2,26 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-04T15:45:00+01:00</updated>
+  <updated>2026-09-04T19:02:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-30_1710.json</id>
-    <title>Tickets released for 6 venues on Sun 30 August at 18:10</title>
-    <updated>2026-08-30T18:10:00+01:00</updated>
-    <content>🎟️ 1527 - Royal College of Physicians&lt;br&gt;
-🎟️ 13387 - Broadway Theatre&lt;br&gt;
-🎟️ 13822 - Ibraaz&lt;br&gt;
-🎟️ 6325 - "Change: 40 Years of SOM London,” a special exhibition exploring design as a cultural practice&lt;br&gt;
-🎟️ 13695 - Crafts Council Gallery&lt;br&gt;
-🎟️ 12086 - Crystal Palace Subway&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-30_1710.json"/>
-    <published>2026-08-30T18:10:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-30_2029.json</id>
     <title>Tickets released for 3 venues on Sun 30 August at 21:29</title>
@@ -283,5 +270,20 @@
 🎟️ 6151 - Royal College of Nursing&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_1445.json"/>
     <published>2026-09-04T15:45:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-04_1802.json</id>
+    <title>Tickets released for 8 venues on Fri 04 September at 19:02</title>
+    <updated>2026-09-04T19:02:00+01:00</updated>
+    <content>🎟️ 13745 - Deptford Little Farm - Guided Vegetable Tour&lt;br&gt;
+🎟️ 7774 - Victoria: Hidden in Plain Sight&lt;br&gt;
+🎟️ 13901 - Bridge House&lt;br&gt;
+🎟️ 13826 - UNIVERSITY OF WESTMINSTER: NCS and Tower Tavern&lt;br&gt;
+🎟️ 12400 - St Bartholomew's Hospital&lt;br&gt;
+🎟️ 12548 - St Marylebone Parish Church&lt;br&gt;
+🎟️ 12551 - The Operations Support Centre - London Fire Brigade&lt;br&gt;
+🎟️ 13695 - Crafts Council Gallery&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_1802.json"/>
+    <published>2026-09-04T19:02:00+01:00</published>
   </entry>
 </feed>
