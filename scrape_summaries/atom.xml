@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-04T19:02:00+01:00</updated>
+  <updated>2026-09-04T22:12:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-30_2029.json</id>
-    <title>Tickets released for 3 venues on Sun 30 August at 21:29</title>
-    <updated>2026-08-30T21:29:00+01:00</updated>
-    <content>🎟️ 13284 - Internet infrastructure of London walking tour&lt;br&gt;
-🎟️ 13803 - Hillingdon Civic Centre&lt;br&gt;
-🎟️ 2612 - Tower Hamlets Cemetery Park&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-30_2029.json"/>
-    <published>2026-08-30T21:29:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-30_2306.json</id>
     <title>Tickets released for 6 venues on Mon 31 August at 00:06</title>
@@ -285,5 +275,16 @@
 🎟️ 13695 - Crafts Council Gallery&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_1802.json"/>
     <published>2026-09-04T19:02:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-04_2112.json</id>
+    <title>Tickets released for 4 venues on Fri 04 September at 22:12</title>
+    <updated>2026-09-04T22:12:00+01:00</updated>
+    <content>🎟️ 12593 - Energy and Sustainability through time: King's Cross&lt;br&gt;
+🎟️ 12753 - ‘Strictly Entertainment’- Shepherd’s Bush 1915-2013&lt;br&gt;
+🎟️ 555 - Bromley and Sheppard's College&lt;br&gt;
+🎟️ 443 - Friends House&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_2112.json"/>
+    <published>2026-09-04T22:12:00+01:00</published>
   </entry>
 </feed>
