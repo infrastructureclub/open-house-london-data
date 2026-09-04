@@ -2127,7 +2127,7 @@
                 "balloted": "No",
                 "description": "This walking tour explores the stories and development of different ways of travelling through Greenwich Old Town across time. For its distinctive physical, social and historical character, Greenwich offers surprisingly a rich landscape of journey-making. The tour follows routes by river, rail, road and time.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13675/building_13675_img_9952_ae0bbd067adfab69eea68d09b69015b1.jpeg",
@@ -2738,6 +2738,37 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13893"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.08416,
+                    51.52599
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "SET is excited to present Open Studios between our two neighbouring sites on Tabernacle Street. From 6-9PM on Thursday 17th September, artist studios will open their doors across SET Titchfield and SET Tabernacle, combined with the opening night at our dedicated gallery space SET 91.",
+                "end": "21:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13921/building_13921_ni7_7268_medium-res_9fee5b4f0b81f07ed13dbe0ac548f7ab.jpg",
+                        "title": "SET 91, 'The World Shakes Out My Sheets' exhibition, Jan 2026. Photo by Dominique Croshaw."
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13921/building_13921_ni7_9700_medium-res_52f5068e00d7c7bf77a4a1535efce104.jpg",
+                        "title": "SET Titchfield & SET Tabernacle Open Studios, 2025."
+                    }
+                ],
+                "name": "SET Titchfield & SET Tabernacle Open Studios",
+                "new_venue_this_year": "Yes",
+                "start": "18:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13921"
             },
             "type": "Feature"
         },
