@@ -2,26 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-04T22:12:00+01:00</updated>
+  <updated>2026-09-05T00:40:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-30_2306.json</id>
-    <title>Tickets released for 6 venues on Mon 31 August at 00:06</title>
-    <updated>2026-08-31T00:06:00+01:00</updated>
-    <content>🎟️ 5056 - Romanian Cultural Institute&lt;br&gt;
-🎟️ 13387 - Broadway Theatre&lt;br&gt;
-🎟️ 13873 - LUC 60th Anniversary - Chandos Park&lt;br&gt;
-🎟️ 4927 - Wanstead Heritage Walk&lt;br&gt;
-🎟️ 1381 - The Old Town Hall, Richmond&lt;br&gt;
-🎟️ 6960 - Kingston Guildhall and History Centre&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-30_2306.json"/>
-    <published>2026-08-31T00:06:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-31_1027.json</id>
     <title>Tickets released for 3 venues, 1 venues added dates on Mon 31 August at 11:27</title>
@@ -286,5 +273,14 @@
 🎟️ 443 - Friends House&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_2112.json"/>
     <published>2026-09-04T22:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-04_2340.json</id>
+    <title>Tickets released for 2 venues on Sat 05 September at 00:40</title>
+    <updated>2026-09-05T00:40:00+01:00</updated>
+    <content>🎟️ 1523 - Royal College of General Practitioners&lt;br&gt;
+🎟️ 13662 - St Paul's Church, Winchmore Hill&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_2340.json"/>
+    <published>2026-09-05T00:40:00+01:00</published>
   </entry>
 </feed>
