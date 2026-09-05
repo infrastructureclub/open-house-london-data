@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-05T18:06:00+01:00</updated>
+  <updated>2026-09-05T20:53:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-01_1733.json</id>
-    <title>Tickets released for 4 venues on Tue 01 September at 18:33</title>
-    <updated>2026-09-01T18:33:00+01:00</updated>
-    <content>🎟️ 13821 - Bankside Yards Historic Arches:  then, now, next&lt;br&gt;
-🎟️ 7544 - Embassy of the Republic of Poland&lt;br&gt;
-🎟️ 13651 - Bodney Road Studios&lt;br&gt;
-🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-01_1733.json"/>
-    <published>2026-09-01T18:33:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-01_2028.json</id>
     <title>Tickets released for 3 venues on Tue 01 September at 21:28</title>
@@ -281,5 +270,15 @@
 🎟️ 12731 - Wolves Lane Horticultural Centre&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-05_1706.json"/>
     <published>2026-09-05T18:06:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-05_1953.json</id>
+    <title>Tickets released for 3 venues on Sat 05 September at 20:53</title>
+    <updated>2026-09-05T20:53:00+01:00</updated>
+    <content>🎟️ 13747 - Punchdrunk Enrichment Stores&lt;br&gt;
+🎟️ 13874 - LUC 60th Anniversary - West Reservoir&lt;br&gt;
+🎟️ 6960 - Kingston Guildhall and History Centre&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-05_1953.json"/>
+    <published>2026-09-05T20:53:00+01:00</published>
   </entry>
 </feed>
