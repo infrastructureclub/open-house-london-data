@@ -2,26 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-05T08:21:00+01:00</updated>
+  <updated>2026-09-05T12:35:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-31_1750.json</id>
-    <title>Tickets released for 5 venues, 1 venues added dates on Mon 31 August at 18:50</title>
-    <updated>2026-08-31T18:50:00+01:00</updated>
-    <content>🎟️ 13692 - Bankside: from arches to alleys&lt;br&gt;
-🎟️ 13875 - Southbank Printmakers&lt;br&gt;
-🎟️ 4472 - Wimbledon Village Club, Museum and Lecture Hall&lt;br&gt;
-🎟️ 12731 - Wolves Lane Horticultural Centre&lt;br&gt;
-🎟️ 11666 - Hoxton Hall&lt;br&gt;
-🗓️ 12569 - Howard Hodgkin Studio&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-31_1750.json"/>
-    <published>2026-08-31T18:50:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-31_2222.json</id>
     <title>Tickets released for 3 venues on Mon 31 August at 23:22</title>
@@ -283,5 +270,16 @@
 🎟️ 11162 - Stamford Brook walk&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-05_0721.json"/>
     <published>2026-09-05T08:21:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-05_1135.json</id>
+    <title>Tickets released for 4 venues on Sat 05 September at 12:35</title>
+    <updated>2026-09-05T12:35:00+01:00</updated>
+    <content>🎟️ 13818 - Flavours of Royal Docks: Food, Architecture &amp; Memory&lt;br&gt;
+🎟️ 10280 - Quentin Blake Centre for Illustration - New River Head&lt;br&gt;
+🎟️ 13695 - Crafts Council Gallery&lt;br&gt;
+🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-05_1135.json"/>
+    <published>2026-09-05T12:35:00+01:00</published>
   </entry>
 </feed>
