@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-05T00:40:00+01:00</updated>
+  <updated>2026-09-05T08:21:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-31_1027.json</id>
-    <title>Tickets released for 3 venues, 1 venues added dates on Mon 31 August at 11:27</title>
-    <updated>2026-08-31T11:27:00+01:00</updated>
-    <content>🎟️ 13104 - David Lean Cinema Tour&lt;br&gt;
-🎟️ 13647 - Revolution, Reform and Regeneration: Somers Town Tours&lt;br&gt;
-🎟️ 11952 - Edmonton – the making of a north London suburb: past, present &amp; future&lt;br&gt;
-🗓️ 8326 - Park Royal Fire Station&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-31_1027.json"/>
-    <published>2026-08-31T11:27:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-08-31_1750.json</id>
     <title>Tickets released for 5 venues, 1 venues added dates on Mon 31 August at 18:50</title>
@@ -282,5 +271,17 @@
 🎟️ 13662 - St Paul's Church, Winchmore Hill&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_2340.json"/>
     <published>2026-09-05T00:40:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-05_0721.json</id>
+    <title>Tickets released for 5 venues on Sat 05 September at 08:21</title>
+    <updated>2026-09-05T08:21:00+01:00</updated>
+    <content>🎟️ 13760 - The Story of Housing in Hackney: A Guided Walking Tour&lt;br&gt;
+🎟️ 12760 - London, adored and explored&lt;br&gt;
+🎟️ 754 - Ironmongers' Hall&lt;br&gt;
+🎟️ 13899 - Somers Town - Photo walk&lt;br&gt;
+🎟️ 11162 - Stamford Brook walk&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-05_0721.json"/>
+    <published>2026-09-05T08:21:00+01:00</published>
   </entry>
 </feed>
