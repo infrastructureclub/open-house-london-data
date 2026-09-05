@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-05T12:35:00+01:00</updated>
+  <updated>2026-09-05T15:29:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-08-31_2222.json</id>
-    <title>Tickets released for 3 venues on Mon 31 August at 23:22</title>
-    <updated>2026-08-31T23:22:00+01:00</updated>
-    <content>🎟️ 13909 - 'If Stone Could Speak’: Day of Craft&lt;br&gt;
-🎟️ 8198 - Royal Hospital for Neuro-disability&lt;br&gt;
-🎟️ 7787 - Estorick Collection of Modern Italian Art&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-08-31_2222.json"/>
-    <published>2026-08-31T23:22:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-01_1301.json</id>
     <title>Tickets released for 4 venues on Tue 01 September at 14:01</title>
@@ -281,5 +271,14 @@
 🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-05_1135.json"/>
     <published>2026-09-05T12:35:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-05_1429.json</id>
+    <title>Tickets released for 2 venues on Sat 05 September at 15:29</title>
+    <updated>2026-09-05T15:29:00+01:00</updated>
+    <content>🎟️ 13387 - Broadway Theatre&lt;br&gt;
+🎟️ 12551 - The Operations Support Centre - London Fire Brigade&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-05_1429.json"/>
+    <published>2026-09-05T15:29:00+01:00</published>
   </entry>
 </feed>
