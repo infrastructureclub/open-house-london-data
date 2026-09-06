@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-06T20:56:00+01:00</updated>
+  <updated>2026-09-06T22:57:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-03_0743.json</id>
-    <title>Tickets released for 2 venues on Thu 03 September at 08:43</title>
-    <updated>2026-09-03T08:43:00+01:00</updated>
-    <content>🎟️ 13752 - Gongoozlers of Regent's Canal &amp; Victoria Park&lt;br&gt;
-🎟️ 12692 - London National Park City Visitors Centre&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-03_0743.json"/>
-    <published>2026-09-03T08:43:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-03_1233.json</id>
     <title>Tickets released for 4 venues on Thu 03 September at 13:33</title>
@@ -281,5 +272,15 @@
 🎟️ 13148 - Designed to be forgotten: women in South Kensington&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-06_1956.json"/>
     <published>2026-09-06T20:56:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-06_2157.json</id>
+    <title>Tickets released for 3 venues on Sun 06 September at 22:57</title>
+    <updated>2026-09-06T22:57:00+01:00</updated>
+    <content>🎟️ 12532 - The Biscuit Building&lt;br&gt;
+🎟️ 4811 - St Bernards estate and houses, Croydon&lt;br&gt;
+🎟️ 10240 - Historic &amp; Modern Buildings in the City&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-06_2157.json"/>
+    <published>2026-09-06T22:57:00+01:00</published>
   </entry>
 </feed>
