@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-06T15:56:00+01:00</updated>
+  <updated>2026-09-06T18:29:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-02_2133.json</id>
-    <title>Tickets released for 3 venues on Wed 02 September at 22:33</title>
-    <updated>2026-09-02T22:33:00+01:00</updated>
-    <content>🎟️ 13708 - The South Wing&lt;br&gt;
-🎟️ 7544 - Embassy of the Republic of Poland&lt;br&gt;
-🎟️ 6325 - "Change: 40 Years of SOM London,” a special exhibition exploring design as a cultural practice&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-02_2133.json"/>
-    <published>2026-09-02T22:33:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-02_2349.json</id>
     <title>Tickets released for 1 venues on Thu 03 September at 00:49</title>
@@ -266,5 +256,22 @@
 🎟️ 5343 - Wiener Holocaust Library&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-06_1456.json"/>
     <published>2026-09-06T15:56:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-06_1729.json</id>
+    <title>Tickets released for 10 venues on Sun 06 September at 18:29</title>
+    <updated>2026-09-06T18:29:00+01:00</updated>
+    <content>🎟️ 13752 - Gongoozlers of Regent's Canal &amp; Victoria Park&lt;br&gt;
+🎟️ 1538 - Royal Hospital Chelsea, Home of the Chelsea Pensioners&lt;br&gt;
+🎟️ 2711 - Brockwell Hall&lt;br&gt;
+🎟️ 13788 - Open (Public) House! Historic Pub Tour in Croydon&lt;br&gt;
+🎟️ 13872 - LUC 60th Anniversary - Swiss Cottage Open Space&lt;br&gt;
+🎟️ 3489 - Leathersellers' Hall&lt;br&gt;
+🎟️ 7678 - Kingston Historic walk&lt;br&gt;
+🎟️ 12551 - The Operations Support Centre - London Fire Brigade&lt;br&gt;
+🎟️ 2574 - Ealing Common Walk&lt;br&gt;
+🎟️ 13695 - Crafts Council Gallery&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-06_1729.json"/>
+    <published>2026-09-06T18:29:00+01:00</published>
   </entry>
 </feed>
