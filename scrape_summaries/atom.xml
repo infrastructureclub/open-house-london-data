@@ -2,27 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-06T12:55:00+01:00</updated>
+  <updated>2026-09-06T15:56:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-02_1826.json</id>
-    <title>Tickets released for 6 venues, 1 venues added dates on Wed 02 September at 19:26</title>
-    <updated>2026-09-02T19:26:00+01:00</updated>
-    <content>🎟️ 11573 - Ladbroke Hall&lt;br&gt;
-🎟️ 8198 - Royal Hospital for Neuro-disability&lt;br&gt;
-🎟️ 7788 - King's Cross Masterplan&lt;br&gt;
-🎟️ 8141 - St. Mary's Church, Walthamstow Village&lt;br&gt;
-🎟️ 6151 - Royal College of Nursing&lt;br&gt;
-🎟️ 12542 - 1 Waterlow Court&lt;br&gt;
-🗓️ 12542 - 1 Waterlow Court&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-02_1826.json"/>
-    <published>2026-09-02T19:26:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-02_2133.json</id>
     <title>Tickets released for 3 venues on Wed 02 September at 22:33</title>
@@ -265,5 +251,20 @@
 🎟️ 11666 - Hoxton Hall&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-06_1155.json"/>
     <published>2026-09-06T12:55:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-06_1456.json</id>
+    <title>Tickets released for 8 venues on Sun 06 September at 15:56</title>
+    <updated>2026-09-06T15:56:00+01:00</updated>
+    <content>🎟️ 13710 - Women of learning and law on the Strand&lt;br&gt;
+🎟️ 13951 - New River to Wolves Lane tour&lt;br&gt;
+🎟️ 2244 - Regent Street Cinema (The University of Westminster)&lt;br&gt;
+🎟️ 13647 - Revolution, Reform and Regeneration: Somers Town Tours&lt;br&gt;
+🎟️ 13663 - Unit 13&lt;br&gt;
+🎟️ 3002 - St Ethelburga's Centre for Reconciliation and Peace&lt;br&gt;
+🎟️ 6151 - Royal College of Nursing&lt;br&gt;
+🎟️ 5343 - Wiener Holocaust Library&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-06_1456.json"/>
+    <published>2026-09-06T15:56:00+01:00</published>
   </entry>
 </feed>
