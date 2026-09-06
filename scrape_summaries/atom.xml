@@ -2,25 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-06T08:34:00+01:00</updated>
+  <updated>2026-09-06T12:55:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-02_1456.json</id>
-    <title>Tickets released for 5 venues on Wed 02 September at 15:56</title>
-    <updated>2026-09-02T15:56:00+01:00</updated>
-    <content>🎟️ 12032 - Hounslow House&lt;br&gt;
-🎟️ 3489 - Leathersellers' Hall&lt;br&gt;
-🎟️ 7544 - Embassy of the Republic of Poland&lt;br&gt;
-🎟️ 13314 - Sadler's Wells East&lt;br&gt;
-🎟️ 12687 - Croydon Urban Room&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-02_1456.json"/>
-    <published>2026-09-02T15:56:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-02_1826.json</id>
     <title>Tickets released for 6 venues, 1 venues added dates on Wed 02 September at 19:26</title>
@@ -265,5 +253,17 @@
     <content>🎟️ 8141 - St. Mary's Church, Walthamstow Village&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-06_0734.json"/>
     <published>2026-09-06T08:34:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-06_1155.json</id>
+    <title>Tickets released for 5 venues on Sun 06 September at 12:55</title>
+    <updated>2026-09-06T12:55:00+01:00</updated>
+    <content>🎟️ 1472 - Richmond Lock Building (Surrey Side)&lt;br&gt;
+🎟️ 12532 - The Biscuit Building&lt;br&gt;
+🎟️ 12045 - Museum of Croydon&lt;br&gt;
+🎟️ 1478 - Rio Cinema&lt;br&gt;
+🎟️ 11666 - Hoxton Hall&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-06_1155.json"/>
+    <published>2026-09-06T12:55:00+01:00</published>
   </entry>
 </feed>
