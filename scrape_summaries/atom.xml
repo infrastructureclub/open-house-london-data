@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-09T18:00:00+01:00</updated>
+  <updated>2026-09-09T20:41:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-03_1937.json</id>
-    <title>Tickets released for 3 venues on Thu 03 September at 20:37</title>
-    <updated>2026-09-03T20:37:00+01:00</updated>
-    <content>🎟️ 9662 - Sands End Arts &amp; Community Centre&lt;br&gt;
-🎟️ 13873 - LUC 60th Anniversary - Chandos Park&lt;br&gt;
-🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-03_1937.json"/>
-    <published>2026-09-03T20:37:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-03_2213.json</id>
     <title>Tickets released for 5 venues on Thu 03 September at 23:13</title>
@@ -305,5 +295,28 @@
 🗓️ 13819 - The Ragged School SE1&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-09_1700.json"/>
     <published>2026-09-09T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-09_1941.json</id>
+    <title>Tickets released for 16 venues on Wed 09 September at 20:41</title>
+    <updated>2026-09-09T20:41:00+01:00</updated>
+    <content>🎟️ 13744 - Lisson Grove Studios&lt;br&gt;
+🎟️ 12032 - Hounslow House&lt;br&gt;
+🎟️ 1472 - Richmond Lock Building (Surrey Side)&lt;br&gt;
+🎟️ 13721 - Making public spaces and making spaces public&lt;br&gt;
+🎟️ 13708 - The South Wing&lt;br&gt;
+🎟️ 2192 - Tower Gardens Garden Suburb&lt;br&gt;
+🎟️ 13759 - Peace Gardens in London&lt;br&gt;
+🎟️ 7788 - King's Cross Masterplan&lt;br&gt;
+🎟️ 2418 - Wrotham Park&lt;br&gt;
+🎟️ 12129 - Bethlem Royal Hospital&lt;br&gt;
+🎟️ 13656 - UAL School of pre-degree studies at 40 Lime Grove&lt;br&gt;
+🎟️ 12551 - The Operations Support Centre - London Fire Brigade&lt;br&gt;
+🎟️ 12639 - 11 Hungerford Road&lt;br&gt;
+🎟️ 12209 - Petty France and its environs&lt;br&gt;
+🎟️ 3087 - The Caledonian Club&lt;br&gt;
+🎟️ 12603 - The Butcher, The Baker and The Candlestick Maker&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-09_1941.json"/>
+    <published>2026-09-09T20:41:00+01:00</published>
   </entry>
 </feed>
