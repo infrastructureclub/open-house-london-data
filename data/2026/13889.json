@@ -144,6 +144,21 @@
             "notes": "View the exhibition of The West End at War.",
             "start": "2026-09-20T12:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Talk",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/13889",
+            "capacity": null,
+            "date": "2026-09-12",
+            "drop_in": false,
+            "end": "2026-09-12T20:00:00+01:00",
+            "fully_booked": false,
+            "name": "Arena: Dylan Thomas – From Grave to Cradle + Q&A.",
+            "notes": "Free Arena screening, followed by a Q&A with writer Nigel Williams and director Anthony Wall at the Museum of Soho.",
+            "start": "2026-09-12T18:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -157,6 +172,17 @@
             "heading": "West End at War",
             "paragraphs": [
                 "During the Second World War, Westminster stood at the heart of a city transformed by conflict. Its famous streets, theatres, hotels, government buildings and historic landmarks shared the dangers of aerial bombardment with the homes and workplaces of thousands of Londoners.\n \nIt is sometimes claimed that Soho escaped the bombing—that it remained “unbombed” throughout the war. The surviving evidence tells a different story. High-explosive bombs and incendiary devices fell across the district, damaging buildings, disrupting lives and placing enormous demands upon firefighters, rescue workers and local residents. Among the most visible casualties was St Anne’s Church in Dean Street, much of which was destroyed during an air raid in September 1940.\n \nWest End at War explores this often-overlooked history through bomb-incident maps, official records, photographs and eyewitness accounts. Together, these sources reveal both the scale of the destruction and the experiences of those who lived and worked through it.\n \nBehind the familiar image of the West End—its lights, entertainment and cosmopolitan nightlife—lay another landscape: one of shelters and sandbags, fire watchers and emergency services, shattered buildings and interrupted lives. Yet the district continued to work, perform and welcome visitors.\n \nThis exhibition invites us to look beyond the myths of wartime London and discover how conflict reshaped the West End, its communities and the streets we know today."
+            ]
+        },
+        {
+            "heading": "Arena: From Grave to Cradle + Q&A",
+            "paragraphs": [
+                "Free Arena screening, followed by a Q&A with writer Nigel Williams and director Anthony Wall at the Museum of Soho.",
+                "The Museum of Soho presents a special screening of the acclaimed Arena documentary Dylan Thomas: From Grave to Cradle, as part of our West End at War exhibition for the Open House Festival 2026.",
+                "The evening begins with a screening of the documentary followed by a Q&A featuring the film’s writer and presenter, Nigel Williams, and its director, Anthony Wall.",
+                "Made in 2003, the documentary tells Dylan Thomas’s story backwards. Beginning with his much-written-about death in New York in 1953, it travels through his turbulent life and returns to his childhood in Cwmdonkin Park in Swansea, the source of so much of his work.",
+                "Along the way, the film separates the man from the mythology that grew around him. Did Thomas really die after drinking eighteen straight whiskies? How did an unruly schoolboy, determined from childhood to become a poet, become one of the most celebrated literary figures of the twentieth century?",
+                "The documentary explores Thomas’s poetry, reputation and enduring cultural influence while searching for the man behind the legend."
             ]
         }
     ],
@@ -198,7 +224,7 @@
     "name": "The West End At War",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13889",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2026
     ]

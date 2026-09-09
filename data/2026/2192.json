@@ -29,8 +29,23 @@
             "drop_in": true,
             "end": "2026-09-20T16:00:00+01:00",
             "fully_booked": false,
-            "name": "Drop in: Drop in and self guided walk available all day",
-            "notes": "Drop is provides discussion and to read re:  social history of families, LCC background information, article 4 information",
+            "name": "Drop in: Drop in and self guided walk available ALL DAY",
+            "notes": "Drop in provides discussion and info to read re:  social history of families, LCC background information, article 4 information & histories",
+            "start": "2026-09-20T10:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2026-09-20",
+            "drop_in": true,
+            "end": "2026-09-20T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: Tower Gardens from Archives:Com Centre TG Park  N17 7ER",
+            "notes": "Heritage exhibition: LCC photographs & records from The London Archives, Bruce Castle Museum archives and residents' own collections.",
             "start": "2026-09-20T10:00:00+01:00",
             "ticketed": false
         },
@@ -47,21 +62,6 @@
             "name": "Drop in: Time to talk - beverage & cake",
             "notes": "Resident Ruth provides knowledge and resources relating to Changing ordinance survey, planning issues, local stories/history of campaigning",
             "start": "2026-09-20T10:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2026-09-20",
-            "drop_in": true,
-            "end": "2026-09-20T13:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: TBC Awaiting update 100 Tower Gardens Road exhibition",
-            "notes": "TBC proposal to have an exhibition at 100 Tower Gardens Road, the original estate office and proposed community space.  Campaign exhibition.",
-            "start": "2026-09-20T11:00:00+01:00",
             "ticketed": false
         },
         {
@@ -93,43 +93,43 @@
         {
             "heading": "Background",
             "paragraphs": [
-                "A self guided tour is available all day.  The architect led tour is at 1pm only.  Beverages & home made cakes available at meeting site.",
-                "Tower Gardens Estate has a very special place in the history of Council Housing building.  It was one of the first 'garden suburbs' in the world and its architecture is of extremely high quality. The design and quality of construction and detailing far surpasses anything in Hampstead Garden Suburb, the most well known of the London Garden Suburbs.",
-                "The Garden City Association was formed in 1899 and Letchworth became the first British garden city with land purchased in 1903 by Association members. This was followed by Welwyn Garden City in 1919.  Before 1909 planning covered by local by-laws only and was chaotic.  Greenbelt and ‘zoning’ developed and wide avenues public and shopping spaces, including allotment gardens which helped to bridge the gap between town and country.",
-                "A 2021 design by MEPK Architects for four additional social housing houses was approved to be built on the Risley Avenue car park site was approved in 2021 but remains not yet completed."
+                "Tower Gardens holds a unique place in the history of social housing. Originally known as White Hart Lane Estate, it was one of the first municipal cottage estates in the world and the largest of the LCC’s four pre-1914 estates.",
+                "Along with Hampstead Garden Suburb, it is considered one of the most important housing estates of its type in London.",
+                "Its terraced cottages — built in brick, tile and pebble dash with gables, dormers and projecting bays — draw on the Arts and Crafts tradition to provide modest but dignified homes for working-class families."
             ]
         },
         {
             "heading": "History",
             "paragraphs": [
-                "At the turn of the century Tottenham was a village-suburb served by new railways and at the end of the tramlines. It was surrounded by fields, which the newly formed London County Council (LCC) could acquire using as yet hardly used powers to buy land and build Council Housing.",
-                "Earlier experiments in housing design for workers had produced beautiful picturesque estates modelled on traditional rural housing, such as Port Sunlight in Cheshire, Bourneville and New Earswick near York. They were designed by some of the most progressive architects of their day and funded by rich social reformers. Their architectural philosophy respected co-operation between architects and craftsmen and was called the ‘Arts and Crafts Movement’.",
-                "Under the LCC, Britain was to pioneer and lead the world in planned social housing. The LCC wanted to improve housing conditions for the working classes by providing well-constructed, healthful homes in pleasant surroundings for rent.",
-                "The provision of local authority housing to supply the needs of working people only became possible following an 1885 Royal Commission Enquiry into the provision of housing for working people. The result was the 1890 Housing of the Working Classes Act. Part 3 of the Act, for the first time, gave general powers to local authorities to build housing for the needs of working people.",
-                "The LCC did not decide to use its radical Part 3 powers until 1898 when Ebenezer Howard published ‘Tomorrow – A peaceful path to real reform’. This was the book, which launched the Garden City movement and Town Planning.",
-                "Housing needs resulted in a car park at Risley Avenue being used for social housing taking into consideration the Article 4 & Conservation requirements."
+                "At the turn of the twentieth century, Tottenham was a village suburb at the end of the tramlines, surrounded by open fields.",
+                "The newly formed London County Council (LCC) used new powers under the 1890 Housing of the Working Classes Act to acquire land and build homes for rent.",
+                "The Act’s Part 3 — giving local authorities the power to build housing for working people — had followed an 1885 Royal Commission inquiry into overcrowded conditions in the inner cities. The LCC decided to act in 1898, the same year Ebenezer Howard published ‘Tomorrow: A Peaceful Path to Real Reform’, the founding text of the Garden City movement.",
+                "The estate was conceived as a radical social intervention: well-built homes in garden surroundings for families previously living in slum conditions. It drew on earlier philanthropic models — Port Sunlight, Bournville, New Earswick — but crucially, it was state-funded and municipal in scale."
             ]
         },
         {
             "heading": "The Donor: Samuel Montagu",
             "paragraphs": [
-                "Immediately after its publication, the Jewish entrepreneur Samuel Montagu (1832-1911) of the silversmith and watch making family, later Lord Swaything, Liberal MP for Whitechapel, H. Samuel the jeweller was a cousin, donated £10,000 to purchase land and build at lower density to provide accommodation in a ‘garden suburb’ setting. He founded Montagu bank in 1853 and the Federation of Synagogues. The donation tied to the rehousing of Jewish workers resident in the Tower Hamlets parish, and required an area of land to be set aside for public gardens: hence the name Tower Gardens."
+                "In 1899, Samuel Montagu, 1st Baron Swaythling — Liberal MP for Whitechapel, banker, and founder of the Federation of Synagogues — offered the LCC £10,000 towards the cost of development.",
+                "His condition: that homes be offered first to residents of Tower Hamlets “without distinction of race or creed”.",
+                "The donation made possible a central public garden (originally called “Tower Garden”), and extras such as baths and built-in cupboards. The garden gave the estate its lasting name."
             ]
         },
         {
             "heading": "The Organiser: London County Council (LCC)",
             "paragraphs": [
-                "The LCC was established in 1889. In 1890 the Housing of the Working Classes Act provided new powers to creative homes to relieve overcrowding in the inner cities. Between 1898 and 1914 the LCC provided 2,915 housing units on four estates:",
-                "- Totterdown Fields Estate, Tooting (1901-1911)\n- Old Oak Estate, Action Hammersmith, (1901-1914)\n- Norbury Estate, Croydon (1901-1921)\n- White Hart Lane Estate (now Tower Gardens) Tottenham (1901-1914)",
-                "1910 began the construction of County Hall and 1919 continued with eight new cottage style estates – ‘Homes fit for Heroes’.",
-                "The 954 housing units on Tower Gardens form about one third of the total and make it the largest enterprise.  Tower Gardens was also the first LCC estate to be built outside the LCC area. Tower Gardens was the foremost housing achievement of the early London County Council. It demonstrates the unequalled idealism, boldness and scale of operation of the early LCC under the Progressive Party, whose political will brought together the professional skills and financial resources to undertake such large scale social housing projects.",
-                "Now that Council Housing Estates are being sold off or transferred to housing associations, the special historic importance of the Tower Gardens experiment can be reassessed. Its survival largely intact to the present day, together with its architectural quality have given it special importance worthy of the most vigorous measures towards its conservation."
+                "The LCC was established in 1889. Between 1901 and 1914 it built four cottage estates: Totterdown Fields Estate, Tooting; Old Oak Estate, Acton; Norbury Estate, Croydon; and White Hart Lane Estate (now Tower Gardens), Tottenham.",
+                "Tower Gardens was the largest of the four pre-1914 estates and, notably, the first built outside the LCC’s own administrative boundary. The estate eventually comprised 2,230 houses, built between 1904 and 1928. After the First World War, a second phase of building began under chief architect George Topham Forrest, and the LCC began describing it as a garden suburb. By 1919 the LCC had embarked on eight further cottage estates under the ‘Homes fit for Heroes’ programme.",
+                "Tower Gardens is considered the foremost housing achievement of the early LCC. The idealism of the Progressive Party-controlled council — deploying architectural ambition in the service of social reform — is still clear in every street. The estate received Conservation Area status in 1978 and an Article 4 Direction in 1981, protecting its original front-facing features."
             ]
         },
         {
-            "heading": "The Architect: W. E. Riley, brother of the Art Workers Guild",
+            "heading": "The Architect:W.E. Riley, brother of Art Workers Guild",
             "paragraphs": [
-                "The Architect William Edward Riley (1852-1937), Chief Architect LCC Architects Department. Member of the Artworkers Guild, founded in 1884 by leading lights in the Arts and Crafts movement, still based in Bloomsbury. He opposed the professionalisim of architecture by RIBA. Up to 30 assistants worked with him including the likes of Robert Lorimer, Percy Nobbs, Owen Fleming and was succeeded by George Topham Forrest."
+                "William Edward Riley (1852–1937) was Chief Architect of the LCC Architects’ Department and a member of the Art Workers Guild — founded in 1884, and still based in Bloomsbury today — which brought together architects, craftsmen, and designers united by the belief that art and making were inseparable.",
+                "Inspired by the writings of John Ruskin and the work of William Morris, the Arts and Crafts movement rejected the uniformity of industrial production in favour of honest materials and skilled craft.",
+                "At Tower Gardens, this philosophy shaped every detail: varied rooflines, hand-laid brick, decorative tilework, prominent chimneys, and the deliberate avoidance of repetition.",
+                "He was succeeded as Chief Architect by George Topham Forrest, who oversaw the post-war phase of building."
             ]
         },
         {
@@ -150,9 +150,8 @@
         {
             "heading": "New developments at Risley Avenue",
             "paragraphs": [
-                "During 2023 building started following consultations and 2021 careful planning design for four new properties on the former Topham Square car park at 15 - 25  Risley Avenue.",
-                "The properties are to deliver high quality and sustainable council housing for let at council rates.",
-                "MEPK Architects have developed plans for Two 3 bedroom 5 person houses, one 2 bedroom 4 person house and one 4 bedroom 6 person house with associated back gardens.   They are London Evening Standard Home Awards winners, National Afforable Home Ownership award winners and Civic Trust award winners amongst others."
+                "Building began in 2023 on four new council homes at 15–25 Risley Avenue, on the former car park site of Topham Square.",
+                "Designed by MEPK Architects (winners of the London Evening Standard Home Awards and Civic Trust Award) and subject to Article 4 and Conservation Area requirements, the scheme delivers two 3-bedroom, one 2-bedroom, and one 4-bedroom house, all for let at council rents."
             ]
         }
     ],

@@ -1748,7 +1748,7 @@
                 ],
                 "name": "St Andrew's Kingsbury (new church)",
                 "new_venue_this_year": "No",
-                "start": "11:30:00",
+                "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/2485"
             },
@@ -1957,7 +1957,7 @@
                 "balloted": "No",
                 "description": "Britain's first co-partnership garden suburb, first houses built in 1901. Parker and Unwin's plan introduced in 1907, mainly Arts and Crafts style; fascinating social history.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2571/building_2571_lud10lud4rusk09july-f_0511bf448f8a4f99d0b256936538e7a9.jpg",
@@ -2043,7 +2043,7 @@
                 "balloted": "No",
                 "description": "Brockwell Hall was originally built in 1811-1813 for a wealthy Ludgate Hill glass maker as the centrepiece of his estate. It has recently been restored by PRS Architects, following an initiative led by Brockwell Hall Community Partners. Original features of the Grade II* listed Recency Villa have been restored and new spaces inside the Hall created for park users and the local community to enjoy.",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2711/building_2711_brockwell-hall_418c4fc11ec37eb0c210e4ce409985d2.jpg",
@@ -4964,21 +4964,21 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "A floating acoustic architecture, playfully reframing public space as an essential community engagement through sound & site mapping. Accessed by smartphone, headphones & echoes.xyz app, the Pavilion is located outside the Serpentine Gallery,. Drawing on Oskar & Zofia Hansen’s Open Form architectural concept it is one of 15 in a series including Venice, Berlin, Dublin, Bergen and Arctic Norway.",
+                "description": "A floating acoustic architecture, playfully reframing public space as an essential community engagement through sound & site mapping. Accessed by smartphone, headphones & echoes.xyz app, the Pavilion is located outside the Serpentine Gallery. Drawing on Oskar & Zofia Hansen’s Open Form architectural concept it is one of 15 in a series including Venice, Berlin, Dublin, Bergen and Arctic Norway.",
                 "end": "19:30:00",
                 "fully_booked": "",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11855/building_11855_london-open-form-pavilion-of-air-design-and-presentation_214cd30ce7ca5d941be727d86f2eb973.jpg",
-                        "title": "Photo of London Open Form Pavilion of Air"
+                        "title": "Robert Curgenven"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11855/building_11855_qr-code-london-open-form-pavilion-of-air-1_a87bb30e72967aa06b4470ab2e37b0d2.jpg",
-                        "title": "Photo of London Open Form Pavilion of Air"
+                        "title": "Robert Curgenven"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11855/building_11855_london-open-form-pavilion-of-air-design-and-presentation-05cd1c-map_7029344be6f1bc2ee855960aa0b17686.jpg",
-                        "title": "Photo of London Open Form Pavilion of Air"
+                        "title": "Robert Curgenven"
                     }
                 ],
                 "name": "London Open Form Pavilion of Air",
@@ -5221,6 +5221,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.07994,
+                    51.39712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Holy Innocents Church, South Norwood is a Church of England parish church in the south London suburb of South Norwood, dedicated to the Holy Innocents. It was built in Neo-Gothic imitation of Perpendicular architecture between 1894 and 1895 to designs by the British architect George Frederick Bodley though a planned tower was never built,. The church itself has been Grade II* listed since 1976.",
+                "end": "19:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12509/building_12509_holy-innocents_1_dfd6bf6646ee910e9f51ba6e7d8a2d7e.jpg",
+                        "title": "Photo of Holy Innocents Church"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12509/building_12509_holy-innocents_2_18c7a2b414ff3a7ca7015afa49fc08cc.jpg",
+                        "title": "Photo of Holy Innocents Church"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12509/building_12509_holy-innocents_3_9616c2a627a05ad00c7ee86f30366ab3.jpg",
+                        "title": "Photo of Holy Innocents Church"
+                    }
+                ],
+                "name": "Holy Innocents Church",
+                "new_venue_this_year": "No",
+                "start": "16:30:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/12509"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     0.03515,
                     51.31178
                 ],
@@ -5387,7 +5422,7 @@
                 "balloted": "No",
                 "description": "Sir Howard Hodgkin (1932 – 2017) was one of England’s most celebrated contemporary artists. Abstracted yet allusive, apparently spontaneous but in fact highly controlled, his paintings convey feeling through gesture and colour.  His former studio, converted from a nineteenth-century dairy, sits in the heart of Bloomsbury.",
                 "end": "17:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12569/building_12569_studio-2024_3c443511f6f7a38df9eddc5a13403638.jpeg",
@@ -5937,7 +5972,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "The area post 1700 became very cosmopolitan with immigrants mainly from Europe, and their influence on food and drink became increasingly important. This tour is based on food and drink, passing by restaurants, pubs, coffee bars,  pâtisserie and  delis that have been present for decades, finishing at a relatively new site.",
+                "description": "The area post 1700 became very cosmopolitan with immigrants mainly from Europe, and their influence on food and drink became increasingly important. This tour is based on food and drink, passing by restaurants, pubs, coffee bars,  pâtisseries and  delis that have been present for decades, finishing at a relatively new site.",
                 "end": "15:45:00",
                 "fully_booked": "Yes",
                 "images": [
@@ -6802,6 +6837,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.25869,
+                    51.4838
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Walking tour of Chiswick house Gardens",
+                "end": "15:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13665/building_13665_whatsapp-image-2026-06-11-chiswick-house-garens_c10d0c1308e5c8d1769655a4383a47f1.jpeg",
+                        "title": "Walking tour of Chiswick House Gardens"
+                    }
+                ],
+                "name": "Walking tour of Chiswick House Gardens",
+                "new_venue_this_year": "Yes",
+                "start": "14:30:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13665"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.02119,
                     51.57916
                 ],
@@ -7232,7 +7294,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "Paradise works artist studios in the Old Carbonic Works that is thought to be the birthplace of commercial fizzy drinks in the late 18th Century. It features in the Lea Valley and Hackney Conservation area report found online.\r\n\r\n\r\nhttps://hackney.moderngov.co.uk/documents/s68747/240220%20Appendix%20A%20Lea%20Bridge%20Conservation%20Area%20Appraisal.pdf",
+                "description": "Paradise works artist studios in the Old Carbonic Works that is thought to be the birthplace of commercial fizzy drinks in the late 18th Century. It features in the Lea Valley and Hackney Conservation area report found online. https://hackney.moderngov.co.uk/documents/s68747/240220%20Appendix%20A%20Lea%20Bridge%20Conservation%20Area%20Appraisal.pdf",
                 "end": "21:00:00",
                 "fully_booked": "",
                 "images": [
@@ -7446,45 +7508,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.09399,
-                    51.5037
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Built in 1907, The Ragged School SE1 has been part of the community for nearly 120 years.  starting off as a poor school in the worst and first borough of London, the school aimed to transform lives of the ragged children that lined the streets.  The church then took over the school to form a club,  pass through developers into the hands of an artist.  The White room will open for creative delight.",
-                "end": "17:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13819/building_13819_img_0284-copy_65f0579cdebcf7f9b81ca830fe95cd64.jpg",
-                        "title": "Photo of The Ragged School SE1"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13819/building_13819_img_4930_48f43f40a8c348228d2792ce805eee7f.jpeg",
-                        "title": "Photo of The Ragged School SE1"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13819/building_13819_building-small-copy_b6ca8f241e86483876438ad7b2015e6a.jpg",
-                        "title": "Photo of The Ragged School SE1"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13819/building_13819_img_9774-copy_07fcfe7038a02606d73a309222735c85.jpg",
-                        "title": "Photo of The Ragged School SE1"
-                    }
-                ],
-                "name": "The Ragged School SE1",
-                "new_venue_this_year": "Yes",
-                "start": "12:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/13819"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.14195,
                     51.51741
                 ],
@@ -7494,7 +7517,7 @@
                 "balloted": "No",
                 "description": "Ibraaz is a London-based cultural institution for art,  culture and ideas from the Global Majority. Bringing together artists, thinkers, and communities through exhibitions, film, debate, publishing, and multidisciplinary programming, Ibraaz creates a brave space where culture fosters exchange, pluralism, and shared humanity.",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13822/building_13822_ibraaz-at-93-mortimer-street_2-courtesy-of-ibraaz-photo-vipul-sangoi_3bfed83d3a30711fb8ff567d9584fea1.jpg",
@@ -7681,7 +7704,7 @@
                 "balloted": "No",
                 "description": "A special exhibition exploring the people and places that shaped the area during the Second World War. Tracing famous figures who made Soho their home, and the ordinary everyday heroes who kept the area functioning and our spirits up!",
                 "end": "17:00:00",
-                "fully_booked": "",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13889/building_13889_west-end-at-war-final_12de51949b69585fd826cc96e41d83f2.jpg",
@@ -7695,7 +7718,7 @@
                 "name": "The West End At War",
                 "new_venue_this_year": "Yes",
                 "start": "12:00:00",
-                "ticketed_events": "No",
+                "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13889"
             },
             "type": "Feature"
@@ -7935,7 +7958,7 @@
             },
             "properties": {
                 "balloted": "No",
-                "description": "To celebrate the first ever Pimlico Open House Neighbourhood Festival, cave transforms its gallery space into a virtual map of Pimlico through it's exhibition, The Fabric of Pimlico. Celebrating the actors, authors and musicians who have made it their home over the year....no passport needed",
+                "description": "To celebrate the first ever Pimlico Open House Neighbourhood Festival, cave transforms its gallery space into a virtual map of Pimlico through its exhibition, The Fabric of Pimlico. Celebrating the actors, authors and musicians who have made it their home over the years .... no passport needed",
                 "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
@@ -8081,6 +8104,33 @@
                 "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13947"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13653,
+                    51.49026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "From Strips to Quips - Come and see a free show at this comedy club and explore its previous history as an adult entertainment venue.",
+                "end": "21:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13956/building_13956_comedy_45c4f0b80630106d34af1f5285361228.jpg",
+                        "title": "Soho Comedy Club"
+                    }
+                ],
+                "name": "Soho Comedy House",
+                "new_venue_this_year": "Yes",
+                "start": "14:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13956"
             },
             "type": "Feature"
         }

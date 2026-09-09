@@ -26,6 +26,21 @@
             "notes": "The BHC team will showcase examples of items from across the collection with an opportunity learn how the service can help with research.",
             "start": "2026-09-15T09:30:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Workshop",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/13782",
+            "capacity": null,
+            "date": "2026-09-15",
+            "drop_in": false,
+            "end": "2026-09-15T12:00:00+01:00",
+            "fully_booked": false,
+            "name": "Reminiscence-Style Session",
+            "notes": "With help from objects from our Handling Collection, we encourage you to share your memories of being in and around Bromley.",
+            "start": "2026-09-15T11:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -77,7 +92,7 @@
     "name": "Beckenham Library",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13782",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2026
     ]
