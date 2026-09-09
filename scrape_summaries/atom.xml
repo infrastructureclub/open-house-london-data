@@ -2,25 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-09T20:41:00+01:00</updated>
+  <updated>2026-09-09T23:13:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-03_2213.json</id>
-    <title>Tickets released for 5 venues on Thu 03 September at 23:13</title>
-    <updated>2026-09-03T23:13:00+01:00</updated>
-    <content>🎟️ 13671 - Freud Museum London&lt;br&gt;
-🎟️ 12753 - ‘Strictly Entertainment’- Shepherd’s Bush 1915-2013&lt;br&gt;
-🎟️ 7861 - A House for Artists&lt;br&gt;
-🎟️ 10591 - 6 Moretown (Gensler London Studio)&lt;br&gt;
-🎟️ 13658 - Bloomsbury marginalia – working-class lives in Bloomsbury&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-03_2213.json"/>
-    <published>2026-09-03T23:13:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-04_0042.json</id>
     <title>Tickets released for 2 venues on Fri 04 September at 01:42</title>
@@ -318,5 +306,21 @@
 🎟️ 12603 - The Butcher, The Baker and The Candlestick Maker&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-09_1941.json"/>
     <published>2026-09-09T20:41:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-09_2213.json</id>
+    <title>Tickets released for 9 venues on Wed 09 September at 23:13</title>
+    <updated>2026-09-09T23:13:00+01:00</updated>
+    <content>🎟️ 13793 - Royal Trinity Hospice and grounds&lt;br&gt;
+🎟️ 13750 - Artist Niamh Hannaford at One North Quay Canary Wharf&lt;br&gt;
+🎟️ 1527 - Royal College of Physicians&lt;br&gt;
+🎟️ 11320 - The Fleet beneath your feet&lt;br&gt;
+🎟️ 8198 - Royal Hospital for Neuro-disability&lt;br&gt;
+🎟️ 4686 - A Ruskinian Walk Through Shared Heritage&lt;br&gt;
+🎟️ 4927 - Wanstead Heritage Walk&lt;br&gt;
+🎟️ 12729 - Station Lodge&lt;br&gt;
+🎟️ 12548 - St Marylebone Parish Church&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-09_2213.json"/>
+    <published>2026-09-09T23:13:00+01:00</published>
   </entry>
 </feed>
