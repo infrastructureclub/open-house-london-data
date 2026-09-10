@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-10T01:48:00+01:00</updated>
+  <updated>2026-09-10T06:32:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-04_0526.json</id>
-    <title>Tickets released for 2 venues on Fri 04 September at 06:26</title>
-    <updated>2026-09-04T06:26:00+01:00</updated>
-    <content>🎟️ 2840 - Charlton House &amp; Gardens&lt;br&gt;
-🎟️ 12086 - Crystal Palace Subway&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_0526.json"/>
-    <published>2026-09-04T06:26:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-04_1031.json</id>
     <title>Tickets released for 6 venues on Fri 04 September at 11:31</title>
@@ -321,5 +312,15 @@
     <content>🎟️ 10240 - Historic &amp; Modern Buildings in the City&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-10_0048.json"/>
     <published>2026-09-10T01:48:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-10_0532.json</id>
+    <title>Tickets released for 3 venues on Thu 10 September at 06:32</title>
+    <updated>2026-09-10T06:32:00+01:00</updated>
+    <content>🎟️ 13933 - Star Wars Tour of London&lt;br&gt;
+🎟️ 13891 - Prefab Walking Tour - Excalibur Estate&lt;br&gt;
+🎟️ 13822 - Ibraaz&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-10_0532.json"/>
+    <published>2026-09-10T06:32:00+01:00</published>
   </entry>
 </feed>
