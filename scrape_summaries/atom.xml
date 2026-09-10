@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-09T23:13:00+01:00</updated>
+  <updated>2026-09-10T01:48:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-04_0042.json</id>
-    <title>Tickets released for 2 venues on Fri 04 September at 01:42</title>
-    <updated>2026-09-04T01:42:00+01:00</updated>
-    <content>🎟️ 11735 - 1-4 Suffolk Street: Uni of Notre Dame &amp; G.K Chesterton&lt;br&gt;
-🎟️ 11666 - Hoxton Hall&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_0042.json"/>
-    <published>2026-09-04T01:42:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-04_0526.json</id>
     <title>Tickets released for 2 venues on Fri 04 September at 06:26</title>
@@ -322,5 +313,13 @@
 🎟️ 12548 - St Marylebone Parish Church&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-09_2213.json"/>
     <published>2026-09-09T23:13:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-10_0048.json</id>
+    <title>Tickets released for 1 venues on Thu 10 September at 01:48</title>
+    <updated>2026-09-10T01:48:00+01:00</updated>
+    <content>🎟️ 10240 - Historic &amp; Modern Buildings in the City&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-10_0048.json"/>
+    <published>2026-09-10T01:48:00+01:00</published>
   </entry>
 </feed>
