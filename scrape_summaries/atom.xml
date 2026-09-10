@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-10T19:02:00+01:00</updated>
+  <updated>2026-09-10T22:22:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-04_2112.json</id>
-    <title>Tickets released for 4 venues on Fri 04 September at 22:12</title>
-    <updated>2026-09-04T22:12:00+01:00</updated>
-    <content>🎟️ 12593 - Energy and Sustainability through time: King's Cross&lt;br&gt;
-🎟️ 12753 - ‘Strictly Entertainment’- Shepherd’s Bush 1915-2013&lt;br&gt;
-🎟️ 555 - Bromley and Sheppard's College&lt;br&gt;
-🎟️ 443 - Friends House&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_2112.json"/>
-    <published>2026-09-04T22:12:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-04_2340.json</id>
     <title>Tickets released for 2 venues on Sat 05 September at 00:40</title>
@@ -335,5 +324,27 @@
 🎟️ 12548 - St Marylebone Parish Church&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-10_1802.json"/>
     <published>2026-09-10T19:02:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-10_2122.json</id>
+    <title>Tickets released for 15 venues on Thu 10 September at 22:22</title>
+    <updated>2026-09-10T22:22:00+01:00</updated>
+    <content>🎟️ 13720 - Power in the eye of the beholder: Strand drawing tour&lt;br&gt;
+🎟️ 3543 - Whitgift Almshouses&lt;br&gt;
+🎟️ 7607 - The Department Store&lt;br&gt;
+🎟️ 13868 - Timber Square&lt;br&gt;
+🎟️ 7789 - Olympic Legacy Masterplan&lt;br&gt;
+🎟️ 12532 - The Biscuit Building&lt;br&gt;
+🎟️ 13164 - London Film School - Shelton Street&lt;br&gt;
+🎟️ 11824 - Hidden Isleworth - a walking tour with varied buildings&lt;br&gt;
+🎟️ 13043 - The King's Foundation - Charlotte Road&lt;br&gt;
+🎟️ 4131 - WM College&lt;br&gt;
+🎟️ 7678 - Kingston Historic walk&lt;br&gt;
+🎟️ 12731 - Wolves Lane Horticultural Centre&lt;br&gt;
+🎟️ 6325 - "Change: 40 Years of SOM London,” a special exhibition exploring design as a cultural practice&lt;br&gt;
+🎟️ 6270 - St Anne's Church, Limehouse&lt;br&gt;
+🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-10_2122.json"/>
+    <published>2026-09-10T22:22:00+01:00</published>
   </entry>
 </feed>
