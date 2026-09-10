@@ -2549,7 +2549,7 @@
             "properties": {
                 "balloted": "No",
                 "description": "Grade II listed historic park landscape containing several listed buildings, including an 18C 'temple' building, bothy and compound, and walled kitchen garden, converted in 1937 to an informally planted garden by Harrow Council.",
-                "end": "16:00:00",
+                "end": "17:00:00",
                 "fully_booked": "",
                 "images": [
                     {
@@ -4435,7 +4435,7 @@
                 "balloted": "No",
                 "description": "On this walk, we will see many historic & modern buildings in the City of London. We’ll look at different architecture styles having regard to the environment and sustainability, from heritage sites to pioneering green tech. Hear about famous architects, past and present, as we explore how the Square Mile preserves its legacy while evolving for a resilient, carbon-neutral tomorrow.",
                 "end": "15:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10240/building_10240_city-guides_23393c19ee093d466698c7999167daf4.jpeg",
@@ -5172,7 +5172,7 @@
                 "balloted": "No",
                 "description": "Founded by Queen Matilda in 1147 and with HM Queen Elizabeth II as our previous patron, The Royal Foundation of St Katharine has served as a centre for worship, hospitality and service over many centuries. With 45 bedrooms, 11 meeting rooms, and a community café, it is a unique, quiet sanctuary in the heart of London.",
                 "end": "15:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12441/building_12441_garden-2_37851bd1794dfff55c76900b3f0bc843.jpg",
@@ -7111,7 +7111,7 @@
                 "balloted": "No",
                 "description": "Set within the construction site of One North Quay, Canary Wharf, join us for a performance and installation presented by artist Niamh Hannaford using materials donated from the Canary Wharf construction site. This is an opportunity to gain exclusive access to a monumental building currently under construction, which will house companies on the cutting edge of science and innovation.",
                 "end": "19:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13750/building_13750_artwork-image_551d04ad452cd319dc32ab4f19b44124.jpeg",
@@ -8104,6 +8104,49 @@
                 "start": "14:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13947"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.15275,
+                    51.55226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Cloud House is a pair of joyful semi-detached three-storey houses designed by Peter Morris Architects. The building is covered in pink arches, bringing a bit of Miami Art Deco to North London. It will be featured on Grand Designs on Wednesday 23rd September, 2026.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13952/building_13952_south-view-20-vicars-road-small-1_7ad07327b02f8f454425d2b427ea2cbf.jpg",
+                        "title": "The Cloud House front view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13952/building_13952_axo-1-20-vicars-road_635735dcf4f3c8cbf74679cbd42aaf71.jpg",
+                        "title": "The Cloud House aerial view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13952/building_13952_axo-2-20-vicars-road_8726197227902f04271ff2b275459f83.jpg",
+                        "title": "The Cloud House aerial view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13952/building_13952_axo-3-20-vicars-road_aed49aca79c094832d0dd3bfedd25272.jpg",
+                        "title": "The Cloud House aerial view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13952/building_13952_axo-4-20-vicars-road_c7e4bdd5485c36dcd7590cb653ee0f47.jpg",
+                        "title": "The Cloud House serial view"
+                    }
+                ],
+                "name": "The Cloud House",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13952"
             },
             "type": "Feature"
         },

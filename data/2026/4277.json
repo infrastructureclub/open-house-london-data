@@ -32,6 +32,51 @@
             "notes": "Tours run every hour on the hour from 10am to 4pm (last tour).",
             "start": "2026-09-20T10:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2026-09-20",
+            "drop_in": true,
+            "end": "2026-09-20T15:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: BSL Guided Tour (with BSL Interpretation)",
+            "notes": "British Sign Language interpreted tours of Canons Park",
+            "start": "2026-09-20T14:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2026-09-20",
+            "drop_in": true,
+            "end": "2026-09-20T16:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: BSL Guided Tour (with BSL Interpretation)",
+            "notes": "British Sign Language interpreted tours of Canons Park",
+            "start": "2026-09-20T15:00:00+01:00",
+            "ticketed": false
+        },
+        {
+            "activity_type": "Drop in",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": null,
+            "capacity": null,
+            "date": "2026-09-20",
+            "drop_in": true,
+            "end": "2026-09-20T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Drop in: BSL Guided Tour (with BSL Interpretation)",
+            "notes": "British Sign Language interpreted tours of Canons Park",
+            "start": "2026-09-20T16:00:00+01:00",
+            "ticketed": false
         }
     ],
     "facilities": [
@@ -45,7 +90,8 @@
         "Accessible toilet",
         "Audio guide/description",
         "Baby changing facilities",
-        "Large print guides"
+        "Large print guides",
+        "BSL interpreter"
     ],
     "factsheet": [
         {

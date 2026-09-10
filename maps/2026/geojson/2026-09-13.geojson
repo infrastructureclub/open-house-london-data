@@ -2343,7 +2343,7 @@
                 "balloted": "No",
                 "description": "One of the magnificent 7 cemeteries. Burials ceased 1966, now 31 acres of woodland, meadows & ponds including the Soanes Centre (Robson Kelly 1993). Of outstanding importance for flora and fauna, set amongst funereal monuments, some listed",
                 "end": "16:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2612/building_2612_tower-hamlets-cemetery-park-dsc_3230_c7e8e5ca541010b39cc071569fbaf163.jpg",
@@ -5766,7 +5766,7 @@
                 "balloted": "No",
                 "description": "Victorian Tardis. The original house dates from 1864, but was completely redeveloped in 1984 and fine tuned in 1993 and in 2023 by three different architects. Double height and open interiors contrast with a Victorian facade. Tea, coffee and cakes with all funds raised to go to Shelter will be on sale all day. . Cash only @ £5 per drink and cake.",
                 "end": "17:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12639/building_12639_img_4785_ed0b55dbd120c4c2bc48a598c5abe5da.jpeg",
@@ -8176,7 +8176,7 @@
                 "balloted": "No",
                 "description": "Step back in time with a guided walk around the historic Excalibur Estate, the UK's largest surviving post-war prefabricated housing estate.\r\n\r\nDiscover why these remarkable homes were built in the aftermath of the Second World War, explore their innovative design and architecture, and hear the stories of the people who have made Excalibur their home over the decades.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13891/building_13891_img_6493-2_30eb08c87fce4f5e3e5b25f6f3010732.jpg",
@@ -8402,6 +8402,49 @@
                 "start": "06:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13946"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.15275,
+                    51.55226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Cloud House is a pair of joyful semi-detached three-storey houses designed by Peter Morris Architects. The building is covered in pink arches, bringing a bit of Miami Art Deco to North London. It will be featured on Grand Designs on Wednesday 23rd September, 2026.",
+                "end": "18:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13952/building_13952_south-view-20-vicars-road-small-1_7ad07327b02f8f454425d2b427ea2cbf.jpg",
+                        "title": "The Cloud House front view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13952/building_13952_axo-1-20-vicars-road_635735dcf4f3c8cbf74679cbd42aaf71.jpg",
+                        "title": "The Cloud House aerial view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13952/building_13952_axo-2-20-vicars-road_8726197227902f04271ff2b275459f83.jpg",
+                        "title": "The Cloud House aerial view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13952/building_13952_axo-3-20-vicars-road_aed49aca79c094832d0dd3bfedd25272.jpg",
+                        "title": "The Cloud House aerial view"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13952/building_13952_axo-4-20-vicars-road_c7e4bdd5485c36dcd7590cb653ee0f47.jpg",
+                        "title": "The Cloud House serial view"
+                    }
+                ],
+                "name": "The Cloud House",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13952"
             },
             "type": "Feature"
         },
