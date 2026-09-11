@@ -51,7 +51,7 @@
                 "balloted": "No",
                 "description": "Designed by Sir John Soane as a family home and country residence. Following a three-year conservation project,  Pitzhanger has been returned to Soane’s innovative original design and re-opened to the public in March 2019.",
                 "end": "16:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1369/building_1369_thumbnail_img_3284-1_fea4ac539e3fbbd40a0e9fce1ac2706e.jpg",
@@ -1833,11 +1833,11 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13549/building_13549_wes_90q_403645009ca57db5ad5aabbf5e4f60ed.jpg",
-                        "title": "Photo of Worlds End Studios"
+                        "title": "Worlds End Studios"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13549/building_13549_old-elevation_a77e481fd9ac833277370220cf178590.jpg",
-                        "title": "Photo of Worlds End Studios"
+                        "title": "Worlds End Studios"
                     }
                 ],
                 "name": "Worlds End Studios",
@@ -2163,7 +2163,7 @@
                 "balloted": "No",
                 "description": "Deptford Little Farm is a 3,500 sq foot plot with a Dutch style greenhouse growing organic produce and flowers for the Culpeper Family group of pubs. Focusses on permaculture, soil regeneration, organic produce and biodiversity.",
                 "end": "18:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13745/building_13745_scawen__25_41c601a65742e848767d227ba38521bf.jpg",
@@ -2229,19 +2229,19 @@
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13772/building_13772_img_6371_3c49ffad7c24d4674beb0d048cb005fa.jpeg",
-                        "title": "Photo of Former Carbonic Gas Works, 142 Lea Bridge Road"
+                        "title": "Miki Elson"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13772/building_13772_img_6365_c936a82fbfcc227d79687fe287fb63ce.jpeg",
-                        "title": "Photo of Former Carbonic Gas Works, 142 Lea Bridge Road"
+                        "title": "Miki Elson"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13772/building_13772_img_6369_99cd1ab81b70892ab58d640deba91f6c.jpeg",
-                        "title": "Photo of Former Carbonic Gas Works, 142 Lea Bridge Road"
+                        "title": "Miki Elson"
                     },
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13772/building_13772_img_6377_dc732573d9ac2f8b0b9f2698c9cfd982.jpeg",
-                        "title": "Photo of Former Carbonic Gas Works, 142 Lea Bridge Road"
+                        "title": "Miki Elson"
                     }
                 ],
                 "name": "Former Carbonic Gas Works, 142 Lea Bridge Road",
@@ -2738,6 +2738,37 @@
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13956"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13822,
+                    51.50827
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Ever since we opened our doors in 1707, our Piccadilly flagship has remained the beating heart of Fortnum’s. Founded by William Fortnum and Hugh Mason, we originally started life selling Queen Anne’s leftover candles. Today, we boast five floors of extraordinary things to see, taste and do.",
+                "end": "20:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13961/building_13961_f-m_day_in_the_life_0041-1_0adfd8a38671d7b580a7be6078a7d0f3.jpg",
+                        "title": "Fortnum & Mason"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13961/building_13961_f-m_day_in_the_life_0037-1_cb08a40d3cd839bfd85fbe016e9cc025.jpg",
+                        "title": "Fortnum & Mason"
+                    }
+                ],
+                "name": "Fortnum & Mason",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13961"
             },
             "type": "Feature"
         }
