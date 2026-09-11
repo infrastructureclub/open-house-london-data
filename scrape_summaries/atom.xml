@@ -2,25 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-11T17:52:00+01:00</updated>
+  <updated>2026-09-11T20:25:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-05_1706.json</id>
-    <title>Tickets released for 5 venues on Sat 05 September at 18:06</title>
-    <updated>2026-09-05T18:06:00+01:00</updated>
-    <content>🎟️ 12532 - The Biscuit Building&lt;br&gt;
-🎟️ 2244 - Regent Street Cinema (The University of Westminster)&lt;br&gt;
-🎟️ 12601 - Georgian Clerkenwell's speculative housing boom&lt;br&gt;
-🎟️ 12774 - Art and architecture in Thamesmead&lt;br&gt;
-🎟️ 12731 - Wolves Lane Horticultural Centre&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-05_1706.json"/>
-    <published>2026-09-05T18:06:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-05_1953.json</id>
     <title>Tickets released for 3 venues on Sat 05 September at 20:53</title>
@@ -402,5 +390,34 @@
 🎟️ 443 - Friends House&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-11_1652.json"/>
     <published>2026-09-11T17:52:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-11_1925.json</id>
+    <title>Tickets released for 22 venues on Fri 11 September at 20:25</title>
+    <updated>2026-09-11T20:25:00+01:00</updated>
+    <content>🎟️ 12439 - Kensal House, Past Present and Future&lt;br&gt;
+🎟️ 12816 - Postwar and post-welfare North London walking tour&lt;br&gt;
+🎟️ 11973 - Calamity and civility: contrasts in Clerkenwell&lt;br&gt;
+🎟️ 13706 - Mornington Crescent: a walk through South Camden&lt;br&gt;
+🎟️ 13789 - Cool, curated and current: Borough Yards and the future of mixed-use neighbourhoods&lt;br&gt;
+🎟️ 7607 - The Department Store&lt;br&gt;
+🎟️ 2106 - Hampstead Heath Pergola&lt;br&gt;
+🎟️ 13164 - London Film School - Shelton Street&lt;br&gt;
+🎟️ 13822 - Ibraaz&lt;br&gt;
+🎟️ 4686 - A Ruskinian Walk Through Shared Heritage&lt;br&gt;
+🎟️ 3489 - Leathersellers' Hall&lt;br&gt;
+🎟️ 2612 - Tower Hamlets Cemetery Park&lt;br&gt;
+🎟️ 1523 - Royal College of General Practitioners&lt;br&gt;
+🎟️ 13582 - Strongroom&lt;br&gt;
+🎟️ 13659 - Migration tales: Local heroes in Hornsey and Crouch End&lt;br&gt;
+🎟️ 835 - Kenwood&lt;br&gt;
+🎟️ 6915 - 6 Wood Lane&lt;br&gt;
+🎟️ 11666 - Hoxton Hall&lt;br&gt;
+🎟️ 12209 - Petty France and its environs&lt;br&gt;
+🎟️ 13695 - Crafts Council Gallery&lt;br&gt;
+🎟️ 3425 - Conway Hall&lt;br&gt;
+🎟️ 10217 - East Croydon History Walk&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-11_1925.json"/>
+    <published>2026-09-11T20:25:00+01:00</published>
   </entry>
 </feed>
