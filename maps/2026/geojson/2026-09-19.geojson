@@ -4524,7 +4524,7 @@
                 "balloted": "No",
                 "description": "A cleverly integrated mixture of architectural styles and periods, incorporating a late 1720s house (later home to Herbert Henry Asquith) and the purpose-built College of Nursing (1926). Access to main building via guided tour only.",
                 "end": "16:15:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/6151/building_6151_external-2_06e1c11c4f9913f6b00a6f55fe35679f.jpg",
@@ -6175,7 +6175,7 @@
                 "balloted": "No",
                 "description": "A contemporary adaptation of a 1980s office building, and home of global design firm Gensler. Each level of the building is connected by a structural timber facade and set of stairs, and the new 5th floor cantilevers from the roof.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10591/building_10591_008_7535_000_n5_hip_5837118a46ae16c7e05e14452158c92c.jpg",
@@ -7632,7 +7632,7 @@
                 "balloted": "No",
                 "description": "Trade and craft guilds have flourished for centuries. The City of London’s Livery Companies are unique in their survival, number, and diversity. While the original social and economic conditions that created these original guilds have long been overtaken by modern commerce, these fascinating institutions still flourish today. Join us to explore their enduring history and modern impact.",
                 "end": "15:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12603/building_12603_john_archibald_austen_-_the_butcher_the_baker_the_candlestick_maker_c1925_-_-meisterdrucke-1165471_7f1275dd398e44660fa2eed4148981b5.jpg",
@@ -8045,7 +8045,7 @@
                 "balloted": "No",
                 "description": "A unique new build residence with an impressive triple-height living space under a roof with a fully exposed steel and timber structure and an inbuilt design with a potential to be easily split into two separate houses in the future",
                 "end": "18:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12729/building_12729_will-pryce_dsf1104-copy-print-lores_2f2469650a1b1d15bf963361359358e8.jpg",
@@ -11100,7 +11100,7 @@
                 "balloted": "No",
                 "description": "Cycle Tour of Peace Gardens and Open House Properties",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13759/building_13759_agakhangarden_075ba85ca834f30a1f0f1dd6bbd7973d.jpeg",
@@ -12514,6 +12514,45 @@
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13956"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13548,
+                    51.39546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Uncommon House is a new build on a narrow infill facing the Common. Designed by AWMA to maximise a constrained plot, it forms a contemporary bookend to the existing terrace. Constructed using an environmentally efficient timber frame, the weathering steel exterior compliments the warm patina tones of the surroundings, while carved out interiors draw in natural light for enhanced living spaces.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13957/building_13957_openhouse-photos-exterior-01-5_57fdfe7ae4c405f77c5edfa2e21d4f83.png",
+                        "title": "AWMA"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13957/building_13957_openhouse-photos-exterior-02-5_31960ac49d6361a6932e27176581253f.png",
+                        "title": "AWMA"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13957/building_13957_openhouse-photos-interior-01_89c8d3907d3af36cf5c240c2dd452a22.jpg",
+                        "title": "AWMA"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13957/building_13957_openhouse-photos-interior-02_a0c68255d20b8894662eb4b37000fc54.jpg",
+                        "title": "AWMA"
+                    }
+                ],
+                "name": "Uncommon House",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13957"
             },
             "type": "Feature"
         },
