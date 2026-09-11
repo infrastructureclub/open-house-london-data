@@ -41,6 +41,21 @@
             "notes": "School Open Day, display of student work and art auction.",
             "start": "2026-09-19T11:00:00+01:00",
             "ticketed": false
+        },
+        {
+            "activity_type": "Other",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/13619",
+            "capacity": null,
+            "date": "2026-09-20",
+            "drop_in": false,
+            "end": "2026-09-20T17:00:00+01:00",
+            "fully_booked": false,
+            "name": "Music concert & Art exhibition",
+            "notes": "Music concert & art exhibition.\r\nExperience music performed by students & staff. Silent art auction. At local hall. More details available.",
+            "start": "2026-09-20T15:00:00+01:00",
+            "ticketed": true
         }
     ],
     "facilities": [
@@ -142,7 +157,7 @@
     "name": "The St Michael Steiner School",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13619",
-    "ticketed_events": false,
+    "ticketed_events": true,
     "venue_years_listed": [
         2026
     ]

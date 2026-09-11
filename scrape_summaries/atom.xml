@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-10T22:22:00+01:00</updated>
+  <updated>2026-09-11T00:40:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-04_2340.json</id>
-    <title>Tickets released for 2 venues on Sat 05 September at 00:40</title>
-    <updated>2026-09-05T00:40:00+01:00</updated>
-    <content>🎟️ 1523 - Royal College of General Practitioners&lt;br&gt;
-🎟️ 13662 - St Paul's Church, Winchmore Hill&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-04_2340.json"/>
-    <published>2026-09-05T00:40:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-05_0721.json</id>
     <title>Tickets released for 5 venues on Sat 05 September at 08:21</title>
@@ -346,5 +337,20 @@
 🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-10_2122.json"/>
     <published>2026-09-10T22:22:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-10_2340.json</id>
+    <title>Tickets released for 7 venues, 1 venues added dates on Fri 11 September at 00:40</title>
+    <updated>2026-09-11T00:40:00+01:00</updated>
+    <content>🎟️ 13619 - The St Michael Steiner School&lt;br&gt;
+🎟️ 13708 - The South Wing&lt;br&gt;
+🎟️ 13951 - New River to Wolves Lane tour&lt;br&gt;
+🎟️ 13879 - Holy Sepulchre, Holborn&lt;br&gt;
+🎟️ 8198 - Royal Hospital for Neuro-disability&lt;br&gt;
+🎟️ 10300 - The Victorian Society&lt;br&gt;
+🎟️ 708 - Institut français du Royaume-Uni&lt;br&gt;
+🗓️ 13619 - The St Michael Steiner School&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-10_2340.json"/>
+    <published>2026-09-11T00:40:00+01:00</published>
   </entry>
 </feed>
