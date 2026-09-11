@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-11T20:25:00+01:00</updated>
+  <updated>2026-09-11T23:12:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-05_1953.json</id>
-    <title>Tickets released for 3 venues on Sat 05 September at 20:53</title>
-    <updated>2026-09-05T20:53:00+01:00</updated>
-    <content>🎟️ 13747 - Punchdrunk Enrichment Stores&lt;br&gt;
-🎟️ 13874 - LUC 60th Anniversary - West Reservoir&lt;br&gt;
-🎟️ 6960 - Kingston Guildhall and History Centre&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-05_1953.json"/>
-    <published>2026-09-05T20:53:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-05_2153.json</id>
     <title>Tickets released for 2 venues on Sat 05 September at 22:53</title>
@@ -419,5 +409,29 @@
 🎟️ 10217 - East Croydon History Walk&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-11_1925.json"/>
     <published>2026-09-11T20:25:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-11_2212.json</id>
+    <title>Tickets released for 17 venues on Fri 11 September at 23:12</title>
+    <updated>2026-09-11T23:12:00+01:00</updated>
+    <content>🎟️ 12032 - Hounslow House&lt;br&gt;
+🎟️ 13708 - The South Wing&lt;br&gt;
+🎟️ 12459 - Armourers' Hall&lt;br&gt;
+🎟️ 1692 - South London Theatre&lt;br&gt;
+🎟️ 13891 - Prefab Walking Tour - Excalibur Estate&lt;br&gt;
+🎟️ 13929 - Stalls and Shops: a walking tour of Lewisham Market&lt;br&gt;
+🎟️ 13104 - David Lean Cinema Tour&lt;br&gt;
+🎟️ 13901 - Bridge House&lt;br&gt;
+🎟️ 13874 - LUC 60th Anniversary - West Reservoir&lt;br&gt;
+🎟️ 8198 - Royal Hospital for Neuro-disability&lt;br&gt;
+🎟️ 2418 - Wrotham Park&lt;br&gt;
+🎟️ 1381 - The Old Town Hall, Richmond&lt;br&gt;
+🎟️ 12548 - St Marylebone Parish Church&lt;br&gt;
+🎟️ 11296 - From Forest to Morris: A walk around Walthamstow&lt;br&gt;
+🎟️ 13061 - National Army Museum&lt;br&gt;
+🎟️ 6960 - Kingston Guildhall and History Centre&lt;br&gt;
+🎟️ 628 - Hogarth's House&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-11_2212.json"/>
+    <published>2026-09-11T23:12:00+01:00</published>
   </entry>
 </feed>
