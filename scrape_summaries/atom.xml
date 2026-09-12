@@ -2,28 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-12T14:50:00+01:00</updated>
+  <updated>2026-09-12T17:42:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-06_1456.json</id>
-    <title>Tickets released for 8 venues on Sun 06 September at 15:56</title>
-    <updated>2026-09-06T15:56:00+01:00</updated>
-    <content>🎟️ 13710 - Women of learning and law on the Strand&lt;br&gt;
-🎟️ 13951 - New River to Wolves Lane tour&lt;br&gt;
-🎟️ 2244 - Regent Street Cinema (The University of Westminster)&lt;br&gt;
-🎟️ 13647 - Revolution, Reform and Regeneration: Somers Town Tours&lt;br&gt;
-🎟️ 13663 - Unit 13&lt;br&gt;
-🎟️ 3002 - St Ethelburga's Centre for Reconciliation and Peace&lt;br&gt;
-🎟️ 6151 - Royal College of Nursing&lt;br&gt;
-🎟️ 5343 - Wiener Holocaust Library&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-06_1456.json"/>
-    <published>2026-09-06T15:56:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-06_1729.json</id>
     <title>Tickets released for 10 venues on Sun 06 September at 18:29</title>
@@ -475,5 +460,25 @@
 🎟️ 12818 - Georgian Grafton Street: Sprüth Magers Gallery&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-12_1350.json"/>
     <published>2026-09-12T14:50:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-12_1642.json</id>
+    <title>Tickets released for 12 venues, 1 venues added dates on Sat 12 September at 17:42</title>
+    <updated>2026-09-12T17:42:00+01:00</updated>
+    <content>🎟️ 12206 - Open Textile Studio and Weaving Exhibition&lt;br&gt;
+🎟️ 3489 - Leathersellers' Hall&lt;br&gt;
+🎟️ 9374 - Crystal Palace Park Dinosaurs  – a tour with a London Blue Badge Tourist Guide&lt;br&gt;
+🎟️ 2612 - Tower Hamlets Cemetery Park&lt;br&gt;
+🎟️ 13582 - Strongroom&lt;br&gt;
+🎟️ 13647 - Revolution, Reform and Regeneration: Somers Town Tours&lt;br&gt;
+🎟️ 13580 - Suburban Art and Design in Petts Wood&lt;br&gt;
+🎟️ 6151 - Royal College of Nursing&lt;br&gt;
+🎟️ 3087 - The Caledonian Club&lt;br&gt;
+🎟️ 5343 - Wiener Holocaust Library&lt;br&gt;
+🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;
+🎟️ 628 - Hogarth's House&lt;br&gt;
+🗓️ 10644 - Fleet Street Heritage Wall and Sundial&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-12_1642.json"/>
+    <published>2026-09-12T17:42:00+01:00</published>
   </entry>
 </feed>

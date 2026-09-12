@@ -402,7 +402,7 @@
                 "balloted": "No",
                 "description": "Early 18th century red brick country home of artist William Hogarth, extended significantly c. 1749-1764. The 2020 extension, funded by the National Lottery Heritage Fund, added the new Weston Studio for learning and activities, and a curved glass wall in the shape of Hogarth's Line of Beauty. Delightful re-landscaped and reinterpreted walled garden containing famous ancient mulberry tree.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/628/building_628_hogarth-s-house-and-mulberry-tree-may-2022_e9ef43e08cddd2552536335e567d1350.jpg",
@@ -1260,7 +1260,7 @@
                 "balloted": "No",
                 "description": "Grade II* listed building. Restored in 2012 to showcase magnificent Edwardian faience tile work, mosaic floor and other historic features in transformed modern surroundings that now provide the headquarters of the RCGP.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/1523/building_1523_img_0739_3eedfd6ec436edfc9e8441754dcf0ac5.jpg",
@@ -2284,7 +2284,7 @@
                 "balloted": "No",
                 "description": "One of the magnificent 7 cemeteries. Burials ceased 1966, now 31 acres of woodland, meadows & ponds including the Soanes Centre (Robson Kelly 1993). Of outstanding importance for flora and fauna, set amongst funereal monuments, some listed",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2612/building_2612_tower-hamlets-cemetery-park-dsc_3230_c7e8e5ca541010b39cc071569fbaf163.jpg",
@@ -2557,7 +2557,7 @@
                 "balloted": "No",
                 "description": "Built in Neoclassical style for Hugh Morrison (1868-1931), this was the last mansion house of its kind to be built in London. The club, founded in 1891, moved to the premises in 1946.",
                 "end": "15:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/3087/building_3087_external-shots-1_1dcffa10c0cb893c2c66c4688bb73577.jpg",
@@ -4154,7 +4154,7 @@
                 "balloted": "No",
                 "description": "Explore the world's first dinosaur models hidden in a south London park. The 30 Grade I listed, life-size statues of dinosaurs and other extinct animals at Crystal Palace Park have thrilled\r\nvisitors for 166 years. Tour is kids friendly.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/9374/building_9374_dsc_0114_adb3d98a9a28f2e755d4c9742298905f.jpg",
@@ -4533,6 +4533,45 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/10630"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1080343,
+                    51.51412879999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "The Fleet Street Heritage Wall comprises 86 A3 information panels about the people, places, ideas and newspapers which made the name of Fleet Street famous throughout the world.  From 17th to 20th Sept frequent talks will be given on the sundial and the Heritage Wall, and its innovative design features which will  make it accessible to all comers through web pages, Easy Read pages, and audio files",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10644/building_10644_heritagesundial1045gmts_0ce92c6a803a30bfc01bb00c91cbea10.png",
+                        "title": "Piers Nicholson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10644/building_10644_heritage-wall-drawing_29694abd9a173540602f9f077fe229c6.png",
+                        "title": "Piers Nicholson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10644/building_10644_heritagewallphoto_2505a98dce470e2e3ad34b3c52a3b8d4.png",
+                        "title": "Piers Nicholson"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/10644/building_10644_mainimage-2026redstripe_09fab54bc3be2c5bbb33680909319e27.png",
+                        "title": "Piers Nicholson"
+                    }
+                ],
+                "name": "Fleet Street Heritage Wall and Sundial",
+                "new_venue_this_year": "No",
+                "start": "12:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/10644"
             },
             "type": "Feature"
         },
@@ -5707,7 +5746,7 @@
                 "balloted": "No",
                 "description": "Victorian Tardis. The original house dates from 1864, but was completely redeveloped in 1984 and fine tuned in 1993 and in 2023 by three different architects. Double height and open interiors contrast with a Victorian facade. Tea, coffee and cakes with all funds raised to go to Shelter will be on sale all day. . Cash only @ £5 per drink and cake.",
                 "end": "17:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12639/building_12639_img_4785_ed0b55dbd120c4c2bc48a598c5abe5da.jpeg",
@@ -5855,7 +5894,7 @@
                 "balloted": "No",
                 "description": "The Herbarium, Library, Art & Archives building houses a working scientific collection located on Kew Green. We are excited to publicly showcase, through guided tours, our complex of historic and modern buildings, housing almost seven million preserved botanical collections, together with one of the largest botanical library, art, and archive collections in the world.",
                 "end": "16:15:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12733/building_12733_hunter-house-exterior_3348814a162cb48cb3c5362b08b841b6.jpeg",
@@ -6649,7 +6688,7 @@
                 "balloted": "No",
                 "description": "Basil Scruby’s 1920’s-30’s classic Arts and Crafts style garden estate which was inspired by the character of the area’s woodland and rural open spaces. This guided walk of Petts Wood focuses on the contrasting house designs such as Tudor, Elizabethan and Art Deco including Charles Rene McIntosh influenced motifs. Stained glass also features at St Francis  church; a Nickolaus Pevsner listed historical building.",
                 "end": "16:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13580/building_13580_woodland-way-petts-wood_2d9dd46239fba18440680d8dc472268d.jpg",
