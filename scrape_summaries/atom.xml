@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-12T06:21:00+01:00</updated>
+  <updated>2026-09-12T11:00:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-06_0734.json</id>
-    <title>Tickets released for 1 venues on Sun 06 September at 08:34</title>
-    <updated>2026-09-06T08:34:00+01:00</updated>
-    <content>🎟️ 8141 - St. Mary's Church, Walthamstow Village&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-06_0734.json"/>
-    <published>2026-09-06T08:34:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-06_1155.json</id>
     <title>Tickets released for 5 venues on Sun 06 September at 12:55</title>
@@ -450,5 +442,26 @@
 🎟️ 6960 - Kingston Guildhall and History Centre&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-12_0521.json"/>
     <published>2026-09-12T06:21:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-12_1000.json</id>
+    <title>Tickets released for 14 venues on Sat 12 September at 11:00</title>
+    <updated>2026-09-12T11:00:00+01:00</updated>
+    <content>🎟️ 13725 - Harringay Green Lanes eateries tour&lt;br&gt;
+🎟️ 12908 - The John Morden Centre and Morden College Almshouses&lt;br&gt;
+🎟️ 6996 - HG Wells' Bromley - in his own words&lt;br&gt;
+🎟️ 12593 - Energy and Sustainability through time: King's Cross&lt;br&gt;
+🎟️ 546 - Hackney Empire&lt;br&gt;
+🎟️ 1538 - Royal Hospital Chelsea, Home of the Chelsea Pensioners&lt;br&gt;
+🎟️ 12206 - Open Textile Studio and Weaving Exhibition&lt;br&gt;
+🎟️ 13812 - Bharatiya Vidya Bhavan&lt;br&gt;
+🎟️ 10591 - 6 Moretown (Gensler London Studio)&lt;br&gt;
+🎟️ 4294 - The London Archives&lt;br&gt;
+🎟️ 11824 - Hidden Isleworth - a walking tour with varied buildings&lt;br&gt;
+🎟️ 1774 - RAF Biggin Hill Museum &amp; Chapel Tour&lt;br&gt;
+🎟️ 12639 - 11 Hungerford Road&lt;br&gt;
+🎟️ 11162 - Stamford Brook walk&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-12_1000.json"/>
+    <published>2026-09-12T11:00:00+01:00</published>
   </entry>
 </feed>
