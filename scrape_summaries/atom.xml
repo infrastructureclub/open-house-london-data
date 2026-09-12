@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-11T23:12:00+01:00</updated>
+  <updated>2026-09-12T01:52:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-05_2153.json</id>
-    <title>Tickets released for 2 venues on Sat 05 September at 22:53</title>
-    <updated>2026-09-05T22:53:00+01:00</updated>
-    <content>🎟️ 13929 - Stalls and Shops: a walking tour of Lewisham Market&lt;br&gt;
-🎟️ 11619 - Longfield Hall&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-05_2153.json"/>
-    <published>2026-09-05T22:53:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-05_2331.json</id>
     <title>Tickets released for 1 venues on Sun 06 September at 00:31</title>
@@ -433,5 +424,27 @@
 🎟️ 628 - Hogarth's House&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-11_2212.json"/>
     <published>2026-09-11T23:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-12_0052.json</id>
+    <title>Tickets released for 15 venues on Sat 12 September at 01:52</title>
+    <updated>2026-09-12T01:52:00+01:00</updated>
+    <content>🎟️ 13909 - 'If Stone Could Speak’: Day of Craft&lt;br&gt;
+🎟️ 13744 - Lisson Grove Studios&lt;br&gt;
+🎟️ 12816 - Postwar and post-welfare North London walking tour&lt;br&gt;
+🎟️ 1369 - Pitzhanger Manor &amp; Gallery&lt;br&gt;
+🎟️ 13803 - Hillingdon Civic Centre&lt;br&gt;
+🎟️ 13714 - Architecture Defrosted&lt;br&gt;
+🎟️ 13793 - Royal Trinity Hospice and grounds&lt;br&gt;
+🎟️ 11735 - 1-4 Suffolk Street: Uni of Notre Dame &amp; G.K Chesterton&lt;br&gt;
+🎟️ 7774 - Victoria: Hidden in Plain Sight&lt;br&gt;
+🎟️ 12129 - Bethlem Royal Hospital&lt;br&gt;
+🎟️ 11127 - Sheppard Robson, 77 Parkway&lt;br&gt;
+🎟️ 1148 - Museum of London Docklands&lt;br&gt;
+🎟️ 2822 - Cecil Sharp House&lt;br&gt;
+🎟️ 12731 - Wolves Lane Horticultural Centre&lt;br&gt;
+🎟️ 6270 - St Anne's Church, Limehouse&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-12_0052.json"/>
+    <published>2026-09-12T01:52:00+01:00</published>
   </entry>
 </feed>
