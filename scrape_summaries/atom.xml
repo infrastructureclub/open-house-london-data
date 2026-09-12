@@ -2,25 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-12T11:00:00+01:00</updated>
+  <updated>2026-09-12T14:50:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-06_1155.json</id>
-    <title>Tickets released for 5 venues on Sun 06 September at 12:55</title>
-    <updated>2026-09-06T12:55:00+01:00</updated>
-    <content>🎟️ 1472 - Richmond Lock Building (Surrey Side)&lt;br&gt;
-🎟️ 12532 - The Biscuit Building&lt;br&gt;
-🎟️ 12045 - Museum of Croydon&lt;br&gt;
-🎟️ 1478 - Rio Cinema&lt;br&gt;
-🎟️ 11666 - Hoxton Hall&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-06_1155.json"/>
-    <published>2026-09-06T12:55:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-06_1456.json</id>
     <title>Tickets released for 8 venues on Sun 06 September at 15:56</title>
@@ -463,5 +451,29 @@
 🎟️ 11162 - Stamford Brook walk&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-12_1000.json"/>
     <published>2026-09-12T11:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-12_1350.json</id>
+    <title>Tickets released for 17 venues on Sat 12 September at 14:50</title>
+    <updated>2026-09-12T14:50:00+01:00</updated>
+    <content>🎟️ 13909 - 'If Stone Could Speak’: Day of Craft&lt;br&gt;
+🎟️ 1369 - Pitzhanger Manor &amp; Gallery&lt;br&gt;
+🎟️ 1527 - Royal College of Physicians&lt;br&gt;
+🎟️ 2714 - Bishops Palace and Park, Bromley (formerly Bromley Civic Centre).&lt;br&gt;
+🎟️ 13708 - The South Wing&lt;br&gt;
+🎟️ 10280 - Quentin Blake Centre for Illustration - New River Head&lt;br&gt;
+🎟️ 13951 - New River to Wolves Lane tour&lt;br&gt;
+🎟️ 13285 - 9 Wavell Court, Croydon&lt;br&gt;
+🎟️ 2244 - Regent Street Cinema (The University of Westminster)&lt;br&gt;
+🎟️ 13826 - UNIVERSITY OF WESTMINSTER: NCS and Tower Tavern&lt;br&gt;
+🎟️ 13043 - The King's Foundation - Charlotte Road&lt;br&gt;
+🎟️ 2418 - Wrotham Park&lt;br&gt;
+🎟️ 1523 - Royal College of General Practitioners&lt;br&gt;
+🎟️ 13659 - Migration tales: Local heroes in Hornsey and Crouch End&lt;br&gt;
+🎟️ 4472 - Wimbledon Village Club, Museum and Lecture Hall&lt;br&gt;
+🎟️ 889 - The Swedenborg Society&lt;br&gt;
+🎟️ 12818 - Georgian Grafton Street: Sprüth Magers Gallery&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-12_1350.json"/>
+    <published>2026-09-12T14:50:00+01:00</published>
   </entry>
 </feed>
