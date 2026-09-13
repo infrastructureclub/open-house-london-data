@@ -2147,7 +2147,7 @@
                 "balloted": "No",
                 "description": "The University of Westminster was one of the first polytechnics in the UK – established in 1838, to educate the working people of London, regardless of background and financial status. Housed in the building is the Regent Street Cinema, widely regarded as the ‘birthplace of British cinema’, with the first public premiere of film in the UK by the Lumière Brothers using the Cinématographe in 1896.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2244/building_2244_cinema_3dc1a78bb4a2227b5e83ac664904683e.jpg",
@@ -9113,7 +9113,7 @@
                 "balloted": "No",
                 "description": "The London 2012 Olympic swimming and diving pool. Two  50m pools, 25m dive pool, Team GB dive squad training area.",
                 "end": "16:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13189/building_13189_exterior-3_9feed8b3ba2c2a109473c103381f1013.jpg",
@@ -9272,7 +9272,7 @@
                 "balloted": "No",
                 "description": "Built in 1932 by architects Bradshaw Gass & Hope .\r\nThis iconic Grade II listed venue is a unique blend of architectural elements including Art Deco, Tudor and Gothic Revival.  \r\nThe theatre was planned by Lewisham Metropolitan Council in the 1920s, to be an auditorium for “a variety of Civic, Social and Dramatic purposes”.  \r\nIt is a much loved community asset, join us for a full tour.",
                 "end": "14:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13387/building_13387_virtual-tour-image_33da5d6aacb6b67f0f785cd1b0208eca.jpg",
@@ -10907,7 +10907,7 @@
                 "balloted": "No",
                 "description": "The museum houses hundreds of artefacts that provide a rich history of the instruments, innovations and patient care over the last 300 years. There are glass cabinets that display some of the artefacts.  Much of this collection and its display has been built up by Richard Keeler, who is a widely published expert on ophthalmic history. He has been the Honorary Museum Curator since 1999.",
                 "end": "15:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13748/building_13748_historical-surgical-instruments_2c1d55a9d8df7a9c81d6f5e9586b5e76.png",
@@ -11520,6 +11520,57 @@
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13814"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.31129,
+                    51.57842
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "An architect-designed home exploring modern methods of construction through an exposed cross-laminated timber (CLT) structure. Designed and self-built as a low-energy contemporary home, it showcases how traditional craftsmanship and innovative timber engineering can create sustainable, beautifully crafted living spaces.",
+                "end": "14:00:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13817/building_13817_img_8661_9090182f5ba0beef20d17638dfb9aaa4.jpeg",
+                        "title": "538 Works\r\n\r\n@aboutwoodhouse"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13817/building_13817_top-floor-studio_d27c4cc44b5dcbc5e1db2224f1f05927.jpeg",
+                        "title": "538 Works"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13817/building_13817_limestone-pre-grouting_971742817582b41f7d34a03d252eb9bb.jpeg",
+                        "title": "538 Works"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13817/building_13817_img_8608_071dfad6282b2bc4db6cac4189799434.jpeg",
+                        "title": "538 Works"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13817/building_13817_img_8615_1fc157084448d46a61073f36bf4edef2.jpeg",
+                        "title": "538 Works"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13817/building_13817_7526bec0-d0f8-4890-a379-e964ef4921a7_acffcf157418a88230dcd74ff79a7b9d.jpeg",
+                        "title": "538 Works"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13817/building_13817_first-floor-slab_99e8a127be1d47f51f49134e0d070a94.jpg",
+                        "title": "538 Works"
+                    }
+                ],
+                "name": "Wood House",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13817"
             },
             "type": "Feature"
         },

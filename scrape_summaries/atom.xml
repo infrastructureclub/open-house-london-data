@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-13T18:13:00+01:00</updated>
+  <updated>2026-09-13T21:15:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-10_0048.json</id>
-    <title>Tickets released for 1 venues on Thu 10 September at 01:48</title>
-    <updated>2026-09-10T01:48:00+01:00</updated>
-    <content>🎟️ 10240 - Historic &amp; Modern Buildings in the City&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-10_0048.json"/>
-    <published>2026-09-10T01:48:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-10_0532.json</id>
     <title>Tickets released for 3 venues on Thu 10 September at 06:32</title>
@@ -473,5 +465,28 @@
 🎟️ 12731 - Wolves Lane Horticultural Centre&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-13_1713.json"/>
     <published>2026-09-13T18:13:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-13_2015.json</id>
+    <title>Tickets released for 15 venues, 1 venues added dates on Sun 13 September at 21:15</title>
+    <updated>2026-09-13T21:15:00+01:00</updated>
+    <content>🎟️ 888 - Lauderdale House&lt;br&gt;
+🎟️ 13664 - North End &amp; Hampstead Garden Suburb Prehistory&lt;br&gt;
+🎟️ 13652 - Tools for Urban Narratives&lt;br&gt;
+🎟️ 13100 - Regent's Park Estate Story Trail  Guided Tour&lt;br&gt;
+🎟️ 13387 - Broadway Theatre&lt;br&gt;
+🎟️ 13545 - Flux Innovation Lounge, Greenwich Design District&lt;br&gt;
+🎟️ 13817 - Wood House&lt;br&gt;
+🎟️ 13812 - Bharatiya Vidya Bhavan&lt;br&gt;
+🎟️ 6782 - Brentford Then and Now/Brentford through the Ages&lt;br&gt;
+🎟️ 13651 - Bodney Road Studios&lt;br&gt;
+🎟️ 12692 - London National Park City Visitors Centre&lt;br&gt;
+🎟️ 11162 - Stamford Brook walk&lt;br&gt;
+🎟️ 10104 - St John at Hackney&lt;br&gt;
+🎟️ 9008 - Brockley's Historic Mews&lt;br&gt;
+🎟️ 12746 - Islington New River walking tour&lt;br&gt;
+🗓️ 13817 - Wood House&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-13_2015.json"/>
+    <published>2026-09-13T21:15:00+01:00</published>
   </entry>
 </feed>
