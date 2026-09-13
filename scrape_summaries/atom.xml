@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-13T00:41:00+01:00</updated>
+  <updated>2026-09-13T03:56:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-06_2336.json</id>
-    <title>Tickets released for 2 venues on Mon 07 September at 00:36</title>
-    <updated>2026-09-07T00:36:00+01:00</updated>
-    <content>🎟️ 7774 - Victoria: Hidden in Plain Sight&lt;br&gt;
-🎟️ 13915 - The Delamarre &amp; Conductor House, Brent Cross Town Tour&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-06_2336.json"/>
-    <published>2026-09-07T00:36:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-09_1700.json</id>
     <title>Tickets released for 29 venues, 1 venues added dates on Wed 09 September at 18:00</title>
@@ -486,5 +477,17 @@
 🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-12_2341.json"/>
     <published>2026-09-13T00:41:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-13_0256.json</id>
+    <title>Tickets released for 5 venues on Sun 13 September at 03:56</title>
+    <updated>2026-09-13T03:56:00+01:00</updated>
+    <content>🎟️ 13909 - 'If Stone Could Speak’: Day of Craft&lt;br&gt;
+🎟️ 13154 - All's well in Camberwell: walking London's local government history&lt;br&gt;
+🎟️ 13708 - The South Wing&lt;br&gt;
+🎟️ 12729 - Station Lodge&lt;br&gt;
+🎟️ 10284 - Surbiton Queen of the Suburbs&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-13_0256.json"/>
+    <published>2026-09-13T03:56:00+01:00</published>
   </entry>
 </feed>
