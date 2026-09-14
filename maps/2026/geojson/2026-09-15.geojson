@@ -344,7 +344,7 @@
                 "balloted": "No",
                 "description": "Built initially as a vestry, it was later extended. Victorian and Edwardian interiors with rich tiles and stunning stained glass, one of the most beautiful Victorian interiors in London.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2865/building_2865_cth-front-angle_94fb8969a8a18ddcd2bea54b6f1b5e51.jpg",
@@ -836,7 +836,7 @@
                 "balloted": "No",
                 "description": "The walk crosses the Boundary Road which divides Westminster and Camden and focuses on projects that represent ground-breaking trends in architecture of 1960-70s while also reflecting on the era's passing and its long-lasting influences.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11303/building_11303_66728e32-4031-4b52-a636-f4becdbce75c_0c935896721eecc825d63779848d6c52.jpeg",
@@ -1554,7 +1554,7 @@
                 "balloted": "No",
                 "description": "Discover Tooting’s transformation from rural village to vibrant town. Starting at Tooting Bec and following the ancient Roman Stane Street, this one-mile tour contrasts historic views with today's high street. Explore iconic building facades, changing shops, and post-war migration. See how planning has shaped the area and what the future holds for this evolving neighborhood.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13676/building_13676_tooting-broadway-corner_00002a-1-1_ec34092ccc3a63a591cc887294651576.jpg",
@@ -1620,7 +1620,7 @@
                 "balloted": "No",
                 "description": "Silvertown is a newly regenerated area in the borough of Newham, being re-equipped to provide infrastructure for its burgeoning community. Nevertheless, we will be walking through an unconventional urban landscape to identify the daring narratives of mercantile activity, workers protests, and industrial innovations along the way. This tour ends with a tour of Tipping Point East - a new circular economy hub.",
                 "end": "13:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13702/building_13702_tumblr_c04fc9aec1dbc1cb9b1e58373c7647a5_eec3f241_2048_393009549e19230cb759d7ce29d6ffc0.jpg",
@@ -1739,45 +1739,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.04632,
-                    51.56146
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Paradise works artist studios in the Old Carbonic Works that is thought to be the birthplace of commercial fizzy drinks in the late 18th Century. It features in the Lea Valley and Hackney Conservation area report found online. https://hackney.moderngov.co.uk/documents/s68747/240220%20Appendix%20A%20Lea%20Bridge%20Conservation%20Area%20Appraisal.pdf",
-                "end": "20:00:00",
-                "fully_booked": "",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13772/building_13772_img_6371_3c49ffad7c24d4674beb0d048cb005fa.jpeg",
-                        "title": "Miki Elson"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13772/building_13772_img_6365_c936a82fbfcc227d79687fe287fb63ce.jpeg",
-                        "title": "Miki Elson"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13772/building_13772_img_6369_99cd1ab81b70892ab58d640deba91f6c.jpeg",
-                        "title": "Miki Elson"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13772/building_13772_img_6377_dc732573d9ac2f8b0b9f2698c9cfd982.jpeg",
-                        "title": "Miki Elson"
-                    }
-                ],
-                "name": "Former Carbonic Gas Works, 142 Lea Bridge Road",
-                "new_venue_this_year": "Yes",
-                "start": "14:00:00",
-                "ticketed_events": "No",
-                "url": "https://programme.openhouse.org.uk/listings/13772"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.03691,
                     51.40855
                 ],
@@ -1876,7 +1837,7 @@
                 "balloted": "No",
                 "description": "The Bhavan UK is part of the global Bharatiya Vidya Bhavan movement, with 110 centres worldwide, including 105 in India. As a leading centre for Indian arts, culture and education in London, The Bhavan promotes shared cultural understanding and brings people together through music, dance, language, philosophy and community learning.",
                 "end": "19:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13812/building_13812_mountbatten-hall-3_6e0ee65d4a7c4b01a7c8cb8a4ff84575.jpg",
@@ -1907,7 +1868,7 @@
                 "balloted": "No",
                 "description": "The Stratford Waterfront masterplan unites V&A East Museum, UAL: London College of Fashion, the BBC Music Studios, and Sadler’s Wells East into London’s most significant cultural district for 150 years. This walking tour will share the story behind the masterplan and the 1.5ha of new landscape delivered, which has created a welcoming public space and broadened access to culture for all.",
                 "end": "14:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13815/building_13815_stratford-waterfront-at-east-bank_ohf_nick-guttridge_e171c5c27da1e180a364f318cea7287b.jpg",
@@ -2001,7 +1962,7 @@
                 "balloted": "No",
                 "description": "Walking tour of the sites of the last days of King Charles I and the legacy of the upheavals which cost him his life and still echo to this day.",
                 "end": "15:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13863/building_13863_img_79531_b61dffc233d965785700090b5313fd0e.jpg",
@@ -2379,7 +2340,7 @@
                 "balloted": "No",
                 "description": "Tour of Newham's first circular economy construction hub and home of our founding partners Yes Make, Material Cultures and RESOLVE Collective's Material Store. Learn about bio-circular practices and material reuse processes on site.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13927/building_13927_tipping_point_east_for_the_architectural_review_-_henry_woide_low-res_004_6c05daaa02f0e3807d2ec838a2ee5004.jpg",
