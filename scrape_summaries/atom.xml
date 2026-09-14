@@ -2,28 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-14T18:35:00+01:00</updated>
+  <updated>2026-09-14T22:24:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-10_2340.json</id>
-    <title>Tickets released for 7 venues, 1 venues added dates on Fri 11 September at 00:40</title>
-    <updated>2026-09-11T00:40:00+01:00</updated>
-    <content>🎟️ 13619 - The St Michael Steiner School&lt;br&gt;
-🎟️ 13708 - The South Wing&lt;br&gt;
-🎟️ 13951 - New River to Wolves Lane tour&lt;br&gt;
-🎟️ 13879 - Holy Sepulchre, Holborn&lt;br&gt;
-🎟️ 8198 - Royal Hospital for Neuro-disability&lt;br&gt;
-🎟️ 10300 - The Victorian Society&lt;br&gt;
-🎟️ 708 - Institut français du Royaume-Uni&lt;br&gt;
-🗓️ 13619 - The St Michael Steiner School&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-10_2340.json"/>
-    <published>2026-09-11T00:40:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-11_0745.json</id>
     <title>Tickets released for 14 venues on Fri 11 September at 08:45</title>
@@ -493,5 +478,25 @@
 🎟️ 13148 - Designed to be forgotten: women in South Kensington&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-14_1735.json"/>
     <published>2026-09-14T18:35:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-14_2124.json</id>
+    <title>Tickets released for 13 venues on Mon 14 September at 22:24</title>
+    <updated>2026-09-14T22:24:00+01:00</updated>
+    <content>🎟️ 269 - Dominion Theatre&lt;br&gt;
+🎟️ 13750 - Artist Niamh Hannaford at One North Quay Canary Wharf&lt;br&gt;
+🎟️ 11303 - Crossing the Boundary, breaking the ground&lt;br&gt;
+🎟️ 12046 - National Youth Theatre&lt;br&gt;
+🎟️ 13706 - Mornington Crescent: a walk through South Camden&lt;br&gt;
+🎟️ 13764 - Open Studio: VOGT Landscape Ltd&lt;br&gt;
+🎟️ 13727 - Forgotten stories at Ally Pally: Empire, Commonwealth and hidden histories&lt;br&gt;
+🎟️ 4294 - The London Archives&lt;br&gt;
+🎟️ 4927 - Wanstead Heritage Walk&lt;br&gt;
+🎟️ 2418 - Wrotham Park&lt;br&gt;
+🎟️ 6151 - Royal College of Nursing&lt;br&gt;
+🎟️ 13695 - Crafts Council Gallery&lt;br&gt;
+🎟️ 11347 - Poroban studio&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-14_2124.json"/>
+    <published>2026-09-14T22:24:00+01:00</published>
   </entry>
 </feed>

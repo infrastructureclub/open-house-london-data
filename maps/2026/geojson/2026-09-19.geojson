@@ -2244,7 +2244,7 @@
                 "balloted": "No",
                 "description": "A privately-owned Grade II listed Palladian mansion with grand interiors restored in 1883, set in 300 acres of parkland in the midst of 2,500 acres. Built for Admiral The Hon. John Byng.",
                 "end": "16:45:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2418/building_2418_mansion-rear-3_5bd7285427e401f6295aa2012fac66c6.jpg",
@@ -3670,7 +3670,7 @@
                 "balloted": "No",
                 "description": "The London Archives' older building was built in the late 1930s for the Temple Press and has many original features. Purpose built extension in early 1990s for archival storage. Public rooms remodelled by Bisset Adams in 2000s.",
                 "end": "15:05:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/4294/building_4294_new-the-london-archives-sign-1_17033b3bb76aa906e7e4e9f79bd07ef1.jpg",
@@ -4524,7 +4524,7 @@
                 "balloted": "No",
                 "description": "A cleverly integrated mixture of architectural styles and periods, incorporating a late 1720s house (later home to Herbert Henry Asquith) and the purpose-built College of Nursing (1926). Access to main building via guided tour only.",
                 "end": "16:15:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/6151/building_6151_external-2_06e1c11c4f9913f6b00a6f55fe35679f.jpg",
@@ -8922,7 +8922,7 @@
                 "balloted": "No",
                 "description": "This walking tour explores the evolution of local government through the story of Camberwell. It charts the development of institutions in response to intense social and economic change to shape the city we know today. We will celebrate the visible reminders of this history in the streets around us and ask: why does this matter to Londoners today?",
                 "end": "12:30:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13154/building_13154_all-s-well-camberwell-town-hall_8b1b238ecd373e5f494d81308e15e70a.jpg",
@@ -9183,6 +9183,49 @@
                 "start": "12:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/13277"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.06632,
+                    51.38473
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Explore the heritage behind Ashburton Hall & Park and the local area. All of Ashburton Hall and cafe will be open with guided tours, object handling, free craft activities and storytelling all inspired by the park and its history, as a former convent and library. There will also be a chance to give feedback and see plans for the park's new £1 million renovation phase in its centenary year.",
+                "end": "15:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13307/building_13307_1h3a9447_29b773ac4d3b42f491939c4c0e09f07c.jpg",
+                        "title": "Glenn Foster- Ashburton Park Centenary event 2025"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13307/building_13307_1h3a9551_9e31c5833bd54d2f5a892634816ed623.jpg",
+                        "title": "Glenn Foster- Ashburton Park Centenary event 2025"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13307/building_13307_1h3a9652_1c98a4b846f6d5c38d868b115ab63c1e.jpg",
+                        "title": "Glenn Foster- Ashburton Park Centenary event 2025"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13307/building_13307_bbe659c0-58ad-47f1-80b7-09baf680b1b7-1_d006aa6c0f1926786708e276babe2384.jpeg",
+                        "title": "Ashburton Park team archaeological project May 2026"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13307/building_13307_byculla-house_8ea1835119b7b0b87364c50546775365.jpg",
+                        "title": "Croydon Archive- Site of Stroud Green/Byculla House c. 1900- Now Ashburton Hall and Park"
+                    }
+                ],
+                "name": "Ashburton Park",
+                "new_venue_this_year": "No",
+                "start": "11:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13307"
             },
             "type": "Feature"
         },
@@ -10719,7 +10762,7 @@
                 "balloted": "No",
                 "description": "Beyond Alexandra Palace's iconic skyline lies a collection of remarkable stories that are often overlooked.  Join Linda Gyamfi, a Heritage Champion for Bruce Castle Museum & Archive and a member of the Golden Key Academy, for a journey into the forgotten stories of Alexandra Palace. We will uncover Alexandra Palace's connections to Britain's imperial past.",
                 "end": "15:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13727/building_13727_openhouse_2026-06-29_0226_e2b7c66dab7f499b6996fe16d55490f3.jpg",
