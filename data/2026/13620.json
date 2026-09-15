@@ -24,36 +24,6 @@
             "balloted": false,
             "booking_link": null,
             "capacity": null,
-            "date": "2026-09-17",
-            "drop_in": true,
-            "end": "2026-09-17T17:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: General Open Afternoon",
-            "notes": "General Open Day",
-            "start": "2026-09-17T12:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2026-09-18",
-            "drop_in": true,
-            "end": "2026-09-18T18:00:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: General Open Afternoon",
-            "notes": "Please let us know if you plan to visit. Doing so allows\n                    the venue to plan ahead and you will be notified by email\n                    about any changes to the programme that might affect your\n                    visit.",
-            "start": "2026-09-18T13:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
             "date": "2026-09-19",
             "drop_in": true,
             "end": "2026-09-19T18:00:00+01:00",
@@ -77,21 +47,6 @@
             "notes": "Please let us know if you plan to visit. Doing so allows\n                    the venue to plan ahead and you will be notified by email\n                    about any changes to the programme that might affect your\n                    visit.",
             "start": "2026-09-20T13:00:00+01:00",
             "ticketed": false
-        },
-        {
-            "activity_type": "Other",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": "https://programme.openhouse.org.uk/listings/13620",
-            "capacity": null,
-            "date": "2026-09-18",
-            "drop_in": false,
-            "end": "2026-09-18T20:30:00+01:00",
-            "fully_booked": true,
-            "name": "Garden Party",
-            "notes": "",
-            "start": "2026-09-18T17:30:00+01:00",
-            "ticketed": true
         }
     ],
     "facilities": [
@@ -155,7 +110,7 @@
     "name": "1 Pontypool Place",
     "new_venue_this_year": true,
     "original_url": "https://programme.openhouse.org.uk/listings/13620",
-    "ticketed_events": true,
+    "ticketed_events": false,
     "venue_years_listed": [
         2026
     ]

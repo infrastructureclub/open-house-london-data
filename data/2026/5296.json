@@ -20,36 +20,6 @@
     },
     "events": [
         {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2026-09-16",
-            "drop_in": true,
-            "end": "2026-09-16T18:45:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Guided tour",
-            "notes": "Explore the Billingsgate Roman House and Baths by descending into the basement of an office block on Lower Thames Street.",
-            "start": "2026-09-16T18:00:00+01:00",
-            "ticketed": false
-        },
-        {
-            "activity_type": "Drop in",
-            "all_day": false,
-            "balloted": false,
-            "booking_link": null,
-            "capacity": null,
-            "date": "2026-09-16",
-            "drop_in": true,
-            "end": "2026-09-16T19:45:00+01:00",
-            "fully_booked": false,
-            "name": "Drop in: Guided tour",
-            "notes": "Explore the Billingsgate Roman House and Baths by descending into the basement of an office block on Lower Thames Street.",
-            "start": "2026-09-16T19:00:00+01:00",
-            "ticketed": false
-        },
-        {
             "activity_type": "Guided tour",
             "all_day": false,
             "balloted": false,
@@ -107,6 +77,36 @@
             "name": "Guided tour",
             "notes": "Explore the Billingsgate Roman House and Baths by descending into the basement of an office block on Lower Thames Street.",
             "start": "2026-09-12T14:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/5296",
+            "capacity": null,
+            "date": "2026-09-16",
+            "drop_in": false,
+            "end": "2026-09-16T18:45:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour",
+            "notes": "Explore the Billingsgate Roman House and Baths by descending into the basement of an office block on Lower Thames Street.",
+            "start": "2026-09-16T18:00:00+01:00",
+            "ticketed": true
+        },
+        {
+            "activity_type": "Guided tour",
+            "all_day": false,
+            "balloted": false,
+            "booking_link": "https://programme.openhouse.org.uk/listings/5296",
+            "capacity": null,
+            "date": "2026-09-16",
+            "drop_in": false,
+            "end": "2026-09-16T19:45:00+01:00",
+            "fully_booked": true,
+            "name": "Guided tour",
+            "notes": "Explore the Billingsgate Roman House and Baths by descending into the basement of an office block on Lower Thames Street.",
+            "start": "2026-09-16T19:00:00+01:00",
             "ticketed": true
         },
         {

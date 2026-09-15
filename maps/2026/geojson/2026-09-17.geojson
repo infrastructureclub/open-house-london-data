@@ -114,7 +114,7 @@
                 "balloted": "No",
                 "description": "Grade II* listed building in Waterlow Park dating to 1582. Original Tudor wooden framework adapted by successive owners over the centuries. Today the House runs primarily as an arts, heritage and education centre.",
                 "end": "18:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/888/building_888_img_20220803_202344_ad6d4fa39fc85f7e1f5654f6b61daa54.png",
@@ -1980,41 +1980,6 @@
                 "start": "11:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13549"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.10591,
-                    51.50192
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "balloted": "No",
-                "description": "Tour of home & garden designed in 2018 by Nagan Johnson Architects",
-                "end": "17:00:00",
-                "fully_booked": "No",
-                "images": [
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13620/building_13620_pontypool-place-99-web_25f2998ff4120cca05a6754fcfc1f447.jpg",
-                        "title": "Photo of 1 Pontypool Place"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13620/building_13620_studionj_alley-9-march_16bda831c9281fdf562e0bd9480ea463.jpg",
-                        "title": "Photo of 1 Pontypool Place"
-                    },
-                    {
-                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13620/building_13620_pontypool-place-246-web_20636a873ee75e40832f403e4d7a768a.jpg",
-                        "title": "Photo of 1 Pontypool Place"
-                    }
-                ],
-                "name": "1 Pontypool Place",
-                "new_venue_this_year": "Yes",
-                "start": "12:00:00",
-                "ticketed_events": "Yes",
-                "url": "https://programme.openhouse.org.uk/listings/13620"
             },
             "type": "Feature"
         },
