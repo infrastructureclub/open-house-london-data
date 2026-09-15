@@ -2852,6 +2852,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    -0.13458,
+                    51.48528
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Westminster Boating Base offers a truly unique and special riverside setting in central London. The venue provides a highly flexible event space that combines stunning river views with contemporary architecture set in its own grounds. Nestled on the north bank of the River Thames, this iconic venue is an ideal setting for corporate events, private parties, press conferences, weddings and filming.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13948/building_13948_screenshot-2026-03-17-121044_2885b8121a0cdd662a58e11acd7a27bd.png",
+                        "title": "Westminster Boating Base"
+                    }
+                ],
+                "name": "Westminster Boating Base",
+                "new_venue_this_year": "Yes",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/13948"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -0.13653,
                     51.49026
                 ],
@@ -2873,6 +2900,33 @@
                 "start": "14:00:00",
                 "ticketed_events": "Yes",
                 "url": "https://programme.openhouse.org.uk/listings/13956"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.11978,
+                    51.47928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Walk with residents to talk about Wimborne House and the South Lambeth London County Council scheme which Lambeth Council wanted to demolish. Hear from residents about the successful campaign to save their communities and how they want to retrofit and refurbish their estate.",
+                "end": "16:30:00",
+                "fully_booked": "No",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13959/building_13959_1000985347_dd8021808c9038680775e968584e9453.jpg",
+                        "title": "Senaka Weeraman"
+                    }
+                ],
+                "name": "Lambeth South Estate",
+                "new_venue_this_year": "Yes",
+                "start": "11:00:00",
+                "ticketed_events": "Yes",
+                "url": "https://programme.openhouse.org.uk/listings/13959"
             },
             "type": "Feature"
         },
