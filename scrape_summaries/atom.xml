@@ -2,25 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-17T04:13:00+01:00</updated>
+  <updated>2026-09-17T10:09:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-13_0256.json</id>
-    <title>Tickets released for 5 venues on Sun 13 September at 03:56</title>
-    <updated>2026-09-13T03:56:00+01:00</updated>
-    <content>🎟️ 13909 - 'If Stone Could Speak’: Day of Craft&lt;br&gt;
-🎟️ 13154 - All's well in Camberwell: walking London's local government history&lt;br&gt;
-🎟️ 13708 - The South Wing&lt;br&gt;
-🎟️ 12729 - Station Lodge&lt;br&gt;
-🎟️ 10284 - Surbiton Queen of the Suburbs&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-13_0256.json"/>
-    <published>2026-09-13T03:56:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-13_0803.json</id>
     <title>Tickets released for 13 venues on Sun 13 September at 09:03</title>
@@ -425,5 +413,24 @@
     <content>🎟️ 6782 - Brentford Then and Now/Brentford through the Ages&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-17_0313.json"/>
     <published>2026-09-17T04:13:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-17_0909.json</id>
+    <title>Tickets released for 12 venues on Thu 17 September at 10:09</title>
+    <updated>2026-09-17T10:09:00+01:00</updated>
+    <content>🎟️ 12431 - Bishopsgate Goodsyard: the Braithwaite Arches&lt;br&gt;
+🎟️ 13745 - Deptford Little Farm - Guided Vegetable Tour&lt;br&gt;
+🎟️ 13624 - Herne Hill Velodrome&lt;br&gt;
+🎟️ 13951 - New River to Wolves Lane tour&lt;br&gt;
+🎟️ 13822 - Ibraaz&lt;br&gt;
+🎟️ 13861 - Health, Wealth and Learning - A Discovery London Walk&lt;br&gt;
+🎟️ 13727 - Forgotten stories at Ally Pally: Empire, Commonwealth and hidden histories&lt;br&gt;
+🎟️ 10591 - 6 Moretown (Gensler London Studio)&lt;br&gt;
+🎟️ 7788 - King's Cross Masterplan&lt;br&gt;
+🎟️ 3069 - Highpoint&lt;br&gt;
+🎟️ 13549 - Worlds End Studios&lt;br&gt;
+🎟️ 12603 - The Butcher, The Baker and The Candlestick Maker&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-17_0909.json"/>
+    <published>2026-09-17T10:09:00+01:00</published>
   </entry>
 </feed>
