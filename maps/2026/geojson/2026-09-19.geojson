@@ -2147,7 +2147,7 @@
                 "balloted": "No",
                 "description": "The University of Westminster was one of the first polytechnics in the UK – established in 1838, to educate the working people of London, regardless of background and financial status. Housed in the building is the Regent Street Cinema, widely regarded as the ‘birthplace of British cinema’, with the first public premiere of film in the UK by the Lumière Brothers using the Cinématographe in 1896.",
                 "end": "15:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2244/building_2244_cinema_3dc1a78bb4a2227b5e83ac664904683e.jpg",
@@ -2221,6 +2221,57 @@
                 "start": "11:00:00",
                 "ticketed_events": "No",
                 "url": "https://programme.openhouse.org.uk/listings/2331"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.2355918,
+                    51.4905675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "balloted": "No",
+                "description": "Residence of Sir Francis Ronalds, George MacDonald and (from 1878-96) William Morris. Organised by the William Morris Society. Access to the William Morris Society's premises in the Coach House and basement only, including the current exhibition.",
+                "end": "16:00:00",
+                "fully_booked": "",
+                "images": [
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2387/building_2387__w9a1101-75_ff9f8fe32c09d71e5eccadbc2f37c9f6.jpg",
+                        "title": "William Morris Society - Kelmscott House"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2387/building_2387__w9a5485-269_574031b8106f11146373b41e6be53646.jpg",
+                        "title": "William Morris Society - Kelmscott House"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2387/building_2387__w9a5466-264_d24257afd76975ce536245c0e5017b71.jpg",
+                        "title": "William Morris Society - Kelmscott House"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2387/building_2387__w9a5416-241_eb866732c1f4622a858c953ecf8498b6.jpg",
+                        "title": "William Morris Society - Kelmscott House"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2387/building_2387__w9a5194-hdr-193_77d38646405f5a057e03050757879b08.jpg",
+                        "title": "William Morris Society - Kelmscott House"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2387/building_2387__w9a5508-278_b966d6352c42794ae094ce3ac0a525e6.jpg",
+                        "title": "William Morris Society - Kelmscott House"
+                    },
+                    {
+                        "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2387/building_2387__w9a1097-72-1_aa1a03cb1f0b500d5a8728bb691a86be.jpg",
+                        "title": "William Morris Society - Kelmscott House"
+                    }
+                ],
+                "name": "William Morris Society - Kelmscott House",
+                "new_venue_this_year": "No",
+                "start": "10:00:00",
+                "ticketed_events": "No",
+                "url": "https://programme.openhouse.org.uk/listings/2387"
             },
             "type": "Feature"
         },
@@ -2890,7 +2941,7 @@
                 "balloted": "No",
                 "description": "Britain's first co-partnership garden suburb, first houses built in 1901. Parker and Unwin's plan introduced in 1907, mainly Arts and Crafts style; fascinating social history.",
                 "end": "12:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/2571/building_2571_lud10lud4rusk09july-f_0511bf448f8a4f99d0b256936538e7a9.jpg",
@@ -5737,7 +5788,7 @@
                 "balloted": "No",
                 "description": "Glenkerry House is a 14-storey tower block designed by Hungarian architect Ernő Goldfinger. The block is managed by its residents, who collectively form the Glenkerry Co-operative Housing Association.",
                 "end": "15:45:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/9437/building_9437_img_1152_800945498f0697675cefc46ae560347f.jpeg",
@@ -6561,7 +6612,7 @@
                 "balloted": "No",
                 "description": "A walk around historic Walthamstow showing how this unique area grew from a village into a thriving suburb, its social history and the variety of buildings that can be found where Epping Forest meets William Morris.",
                 "end": "13:00:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/11296/building_11296_img_2828_8b059f0e8ad7184afcc7c0488c9ccdab.jpg",
@@ -7144,7 +7195,7 @@
                 "balloted": "No",
                 "description": "Feathers Place was originally East Lane, connecting Greenwich Park to the river. No 14 has housed the Roan School for Boys, founded in 1643 and more recently contained textile archives of the National Maritime Museum. Today it is Meantime Studios, named after the Prime Meridian of the World on which it sits.  Freeweaver Studio occupies the top floor, a bright vaulted spacious room with skylights.",
                 "end": "18:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12206/building_12206__20a1825_90be8a99c8c1ea7a83cc3e7bfb76adb7.jpg",
@@ -7635,7 +7686,7 @@
                 "balloted": "No",
                 "description": "Trade and craft guilds have flourished for centuries. The City of London’s Livery Companies are unique in their survival, number, and diversity. While the original social and economic conditions that created these original guilds have long been overtaken by modern commerce, these fascinating institutions still flourish today. Join us to explore their enduring history and modern impact.",
                 "end": "15:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12603/building_12603_john_archibald_austen_-_the_butcher_the_baker_the_candlestick_maker_c1925_-_-meisterdrucke-1165471_7f1275dd398e44660fa2eed4148981b5.jpg",
@@ -8048,7 +8099,7 @@
                 "balloted": "No",
                 "description": "A unique new build residence with an impressive triple-height living space under a roof with a fully exposed steel and timber structure and an inbuilt design with a potential to be easily split into two separate houses in the future",
                 "end": "18:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/12729/building_12729_will-pryce_dsf1104-copy-print-lores_2f2469650a1b1d15bf963361359358e8.jpg",
@@ -9318,7 +9369,7 @@
                 "balloted": "No",
                 "description": "Built in 1932 by architects Bradshaw Gass & Hope .\r\nThis iconic Grade II listed venue is a unique blend of architectural elements including Art Deco, Tudor and Gothic Revival.  \r\nThe theatre was planned by Lewisham Metropolitan Council in the 1920s, to be an auditorium for “a variety of Civic, Social and Dramatic purposes”.  \r\nIt is a much loved community asset, join us for a full tour.",
                 "end": "14:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13387/building_13387_virtual-tour-image_33da5d6aacb6b67f0f785cd1b0208eca.jpg",
@@ -10630,7 +10681,7 @@
                 "balloted": "No",
                 "description": "Join us for a walking tour along a short but remarkable stretch of the Strand and Aldwych, where centres of law and learning have flourished from Tudor times to the present day. Along the way, we will hear the stories of the women — and a few men — connected to this corner of London: royal residents, scholars, activists, lawyers, artists and athletes who lived, worked, studied here, and went on to change the world. We will look at the buildings and artworks that carry their traces and walk in the footsteps of some of history's most formidable women, who opened doors for those of us who came after them.",
                 "end": "16:30:00",
-                "fully_booked": "Yes",
+                "fully_booked": "No",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13710/building_13710_20260528_183041-0_f65ef412b4dde6b3cb82de5eac4fb03e.jpg",
@@ -10785,7 +10836,7 @@
                 "balloted": "No",
                 "description": "Beyond Alexandra Palace's iconic skyline lies a collection of remarkable stories that are often overlooked.  Join Linda Gyamfi, a Heritage Champion for Bruce Castle Museum & Archive and a member of the Golden Key Academy, for a journey into the forgotten stories of Alexandra Palace. We will uncover Alexandra Palace's connections to Britain's imperial past.",
                 "end": "15:00:00",
-                "fully_booked": "No",
+                "fully_booked": "Yes",
                 "images": [
                     {
                         "archive_url": "https://raw.githubusercontent.com/infrastructureclub/open-house-london-images/master/images/2026/13727/building_13727_openhouse_2026-06-29_0226_e2b7c66dab7f499b6996fe16d55490f3.jpg",
