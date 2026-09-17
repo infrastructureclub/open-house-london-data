@@ -2,25 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-17T00:31:00+01:00</updated>
+  <updated>2026-09-17T04:13:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-12_2341.json</id>
-    <title>Tickets released for 5 venues on Sun 13 September at 00:41</title>
-    <updated>2026-09-13T00:41:00+01:00</updated>
-    <content>🎟️ 13932 - Charing Cross Library&lt;br&gt;
-🎟️ 1523 - Royal College of General Practitioners&lt;br&gt;
-🎟️ 13580 - Suburban Art and Design in Petts Wood&lt;br&gt;
-🎟️ 555 - Bromley and Sheppard's College&lt;br&gt;
-🎟️ 12733 - Royal Botanic Gardens, Kew - Herbarium&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-12_2341.json"/>
-    <published>2026-09-13T00:41:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-13_0256.json</id>
     <title>Tickets released for 5 venues on Sun 13 September at 03:56</title>
@@ -429,5 +417,13 @@
 🎟️ 11296 - From Forest to Morris: A walk around Walthamstow&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-16_2331.json"/>
     <published>2026-09-17T00:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-17_0313.json</id>
+    <title>Tickets released for 1 venues on Thu 17 September at 04:13</title>
+    <updated>2026-09-17T04:13:00+01:00</updated>
+    <content>🎟️ 6782 - Brentford Then and Now/Brentford through the Ages&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-17_0313.json"/>
+    <published>2026-09-17T04:13:00+01:00</published>
   </entry>
 </feed>
