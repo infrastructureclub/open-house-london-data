@@ -76,7 +76,11 @@ if os.path.exists(slack_alert_csv):
         reader = csv.reader(f)
         next(reader, None)  # skip header row
         for venue_link, _venue_name, handles, *_ignore in reader:
-            building_id = int(venue_link.rstrip("/").rsplit("/", 1)[-1])
+            last_segment = venue_link.strip().rstrip("/").rsplit("/", 1)[-1]
+            if not last_segment.isdigit():
+                print(f"Skipping slack alert row with invalid venue link: {venue_link!r}")
+                continue
+            building_id = int(last_segment)
             slack_alert_ids[building_id] = [
                 h.strip() for h in handles.split(",") if h.strip()
             ]
@@ -89,6 +93,8 @@ if os.path.exists(slack_member_ids_csv):
         reader = csv.reader(f)
         next(reader, None)  # skip header row
         for handle, member_id, *_ignore in reader:
+            if not handle.strip() or not member_id.strip():
+                continue
             slack_member_ids[handle.strip()] = member_id.strip()
 
 username = os.getenv("OH_USERNAME")
