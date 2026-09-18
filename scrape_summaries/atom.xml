@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-18T04:00:00+01:00</updated>
+  <updated>2026-09-18T09:09:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-14_0040.json</id>
-    <title>Tickets released for 1 venues on Mon 14 September at 01:40</title>
-    <updated>2026-09-14T01:40:00+01:00</updated>
-    <content>🎟️ 2205 - Trinity Buoy Wharf/Container City&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-14_0040.json"/>
-    <published>2026-09-14T01:40:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-14_0543.json</id>
     <title>Tickets released for 3 venues on Mon 14 September at 06:43</title>
@@ -431,5 +423,34 @@
 🎟️ 12729 - Station Lodge&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-18_0300.json"/>
     <published>2026-09-18T04:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-18_0809.json</id>
+    <title>Tickets released for 22 venues on Fri 18 September at 09:09</title>
+    <updated>2026-09-18T09:09:00+01:00</updated>
+    <content>🎟️ 13745 - Deptford Little Farm - Guided Vegetable Tour&lt;br&gt;
+🎟️ 1527 - Royal College of Physicians&lt;br&gt;
+🎟️ 13014 - Soho - forever changing&lt;br&gt;
+🎟️ 13652 - Tools for Urban Narratives&lt;br&gt;
+🎟️ 13951 - New River to Wolves Lane tour&lt;br&gt;
+🎟️ 13822 - Ibraaz&lt;br&gt;
+🎟️ 2244 - Regent Street Cinema (The University of Westminster)&lt;br&gt;
+🎟️ 4294 - The London Archives&lt;br&gt;
+🎟️ 12045 - Museum of Croydon&lt;br&gt;
+🎟️ 4927 - Wanstead Heritage Walk&lt;br&gt;
+🎟️ 2418 - Wrotham Park&lt;br&gt;
+🎟️ 8141 - St. Mary's Church, Walthamstow Village&lt;br&gt;
+🎟️ 10238 - The Great Fire of London&lt;br&gt;
+🎟️ 10240 - Historic &amp; Modern Buildings in the City&lt;br&gt;
+🎟️ 9344 - Slavery and the City&lt;br&gt;
+🎟️ 13639 - The Catford House&lt;br&gt;
+🎟️ 13722 - Destination Battersea&lt;br&gt;
+🎟️ 12542 - 1 Waterlow Court&lt;br&gt;
+🎟️ 9008 - Brockley's Historic Mews&lt;br&gt;
+🎟️ 628 - Hogarth's House&lt;br&gt;
+🎟️ 332 - Emanuel School&lt;br&gt;
+🎟️ 119 - National Audit Office&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-18_0809.json"/>
+    <published>2026-09-18T09:09:00+01:00</published>
   </entry>
 </feed>
