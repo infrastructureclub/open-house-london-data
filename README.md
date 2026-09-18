@@ -9,6 +9,7 @@ Things you can use
 * **<a href="https://openhouse.infrastructureclub.org/reports/bookable_venues/2026.html">A list of all the events with tickets still available!</a>**
 * **<a href="https://openhouse.infrastructureclub.org/reports/venues_announced/2026.html">A venue announcement tracker!</a>** (with an <a href="https://openhouse.infrastructureclub.org/reports/venues_announced/rss.xml">RSS feed</a>)
 * **<a href="https://openhouse.infrastructureclub.org/reports/new_venues/2026.html">A list of all the brand new venues this year!</a>**
+* **<a href="https://openhouse.infrastructureclub.org/reports/withdrawn_venues/2026.html">A withdrawn venue tracker!</a>** (with an <a href="https://openhouse.infrastructureclub.org/reports/withdrawn_venues/rss.xml">RSS feed</a>)
 * **<a href="https://openhouse.infrastructureclub.org/reports/balloted_venues/2026.html">A list of balloted venues this year!</a>**
 
 * Per-venue JSON data files containing all data from the Open House website in the [data/ directory](data/).

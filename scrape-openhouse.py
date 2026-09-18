@@ -162,6 +162,7 @@ if len(buildings) == 0:
 scraped_venues = []
 venues_added_days = {}
 venues_now_bookable = []
+removal_reasons = {}
 
 scrape_start = datetime.now(pytz.utc)
 count = 0
@@ -200,14 +201,17 @@ for building in buildings:
         print(
             "SKIPPING due to 500 response from server - likely this listing isn't public yet"
         )
+        removal_reasons[building["id"]] = "unpublished"
         continue
     if response.status_code == 404:
         print(
             "SKIPPING due to 404 response from server - likely this listing has been removed"
         )
+        removal_reasons[building["id"]] = "deleted"
         continue
     if b"Listing withdrawn" in response.content:
         print("SKIPPING as listing has been withdrawn for this year")
+        removal_reasons[building["id"]] = "withdrawn"
         continue
 
     if username and password and b"Log out" not in response.content:
@@ -645,13 +649,18 @@ for building in buildings:
 # Remove all venues that we didn't see this time, or we failed to scrape
 venues_to_remove = set(existing_venues) - set(scraped_venues)
 print(f"* Removing venues that no longer exist: {venues_to_remove}")
+removed_venue_details = {}
 for venue in venues_to_remove:
+    with open(f"data/{year}/{venue}.json", "r") as f:
+        removed_venue_details[venue] = json.load(f)
+    removed_venue_details[venue]["removal_reason"] = removal_reasons.get(venue, "unlisted")
     os.remove(f"data/{year}/{venue}.json")
 
 # Output summary
 venues_added = set(scraped_venues) - set(existing_venues)
 scrape_summary = {
     "removed_venues": list(venues_to_remove),
+    "removed_venue_details": removed_venue_details,
     "added_venues": list(venues_added),
     "venues_added_days": venues_added_days,
     "venues_now_bookable": venues_now_bookable,
