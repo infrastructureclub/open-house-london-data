@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-19T02:05:00+01:00</updated>
+  <updated>2026-09-19T07:58:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-15_0545.json</id>
-    <title>Tickets released for 3 venues on Tue 15 September at 06:45</title>
-    <updated>2026-09-15T06:45:00+01:00</updated>
-    <content>🎟️ 11303 - Crossing the Boundary, breaking the ground&lt;br&gt;
-🎟️ 13762 - Bermondsey to Borough: hidden arches food walk&lt;br&gt;
-🎟️ 6151 - Royal College of Nursing&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-15_0545.json"/>
-    <published>2026-09-15T06:45:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-15_1059.json</id>
     <title>Tickets released for 20 venues on Tue 15 September at 11:59</title>
@@ -463,5 +453,23 @@
 🎟️ 7544 - Embassy of the Republic of Poland&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-19_0105.json"/>
     <published>2026-09-19T02:05:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-19_0658.json</id>
+    <title>Tickets released for 11 venues on Sat 19 September at 07:58</title>
+    <updated>2026-09-19T07:58:00+01:00</updated>
+    <content>🎟️ 13154 - All's well in Camberwell: walking London's local government history&lt;br&gt;
+🎟️ 1369 - Pitzhanger Manor &amp; Gallery&lt;br&gt;
+🎟️ 13745 - Deptford Little Farm - Guided Vegetable Tour&lt;br&gt;
+🎟️ 13710 - Women of learning and law on the Strand&lt;br&gt;
+🎟️ 13729 - Alexandra Palace: Mindful walking and drawing tour&lt;br&gt;
+🎟️ 13724 - Life and debt in Southwark&lt;br&gt;
+🎟️ 2822 - Cecil Sharp House&lt;br&gt;
+🎟️ 10240 - Historic &amp; Modern Buildings in the City&lt;br&gt;
+🎟️ 7230 - Royal College of Pharmacy Museum&lt;br&gt;
+🎟️ 13639 - The Catford House&lt;br&gt;
+🎟️ 9008 - Brockley's Historic Mews&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-19_0658.json"/>
+    <published>2026-09-19T07:58:00+01:00</published>
   </entry>
 </feed>
