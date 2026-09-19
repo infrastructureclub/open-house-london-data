@@ -2,32 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-19T12:52:00+01:00</updated>
+  <updated>2026-09-19T16:16:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-15_1530.json</id>
-    <title>Tickets released for 12 venues on Tue 15 September at 16:30</title>
-    <updated>2026-09-15T16:30:00+01:00</updated>
-    <content>🎟️ 13154 - All's well in Camberwell: walking London's local government history&lt;br&gt;
-🎟️ 11313 - Fruit to Fashion: how a kitchen garden became a world famous piazza&lt;br&gt;
-🎟️ 7863 - Westminster Abbey – East End&lt;br&gt;
-🎟️ 13729 - Alexandra Palace: Mindful walking and drawing tour&lt;br&gt;
-🎟️ 13868 - Timber Square&lt;br&gt;
-🎟️ 13759 - Peace Gardens in London&lt;br&gt;
-🎟️ 13812 - Bharatiya Vidya Bhavan&lt;br&gt;
-🎟️ 7544 - Embassy of the Republic of Poland&lt;br&gt;
-🎟️ 10240 - Historic &amp; Modern Buildings in the City&lt;br&gt;
-🎟️ 13718 - String House - Camberwell&lt;br&gt;
-🎟️ 11296 - From Forest to Morris: A walk around Walthamstow&lt;br&gt;
-🎟️ 9008 - Brockley's Historic Mews&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-15_1530.json"/>
-    <published>2026-09-15T16:30:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-15_1929.json</id>
     <title>Tickets released for 11 venues on Tue 15 September at 20:29</title>
@@ -456,5 +437,15 @@
 🎟️ 12542 - 1 Waterlow Court&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-19_1152.json"/>
     <published>2026-09-19T12:52:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-19_1516.json</id>
+    <title>Tickets released for 3 venues on Sat 19 September at 16:16</title>
+    <updated>2026-09-19T16:16:00+01:00</updated>
+    <content>🎟️ 13956 - Soho Comedy House&lt;br&gt;
+🎟️ 8141 - St. Mary's Church, Walthamstow Village&lt;br&gt;
+🎟️ 2693 - Rachwalsky House&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-19_1516.json"/>
+    <published>2026-09-19T16:16:00+01:00</published>
   </entry>
 </feed>
