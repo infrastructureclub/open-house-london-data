@@ -2,30 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://openhouse.infrastructureclub.org/scrape_summaries/2025.html</id>
   <title>London Open House venue availability changes</title>
-  <updated>2026-09-18T23:59:00+01:00</updated>
+  <updated>2026-09-19T02:05:00+01:00</updated>
   <author>
     <name>Infrastructure Club</name>
   </author>
   <link href="https://github.com/infrastructureclub/open-house-london-data" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>London Open House venue availability changes</subtitle>
-  <entry>
-    <id>2026-09-15_0013.json</id>
-    <title>Tickets released for 10 venues on Tue 15 September at 01:13</title>
-    <updated>2026-09-15T01:13:00+01:00</updated>
-    <content>🎟️ 13932 - Charing Cross Library&lt;br&gt;
-🎟️ 13881 - Refugees, Radicals and Revellers in Soho&lt;br&gt;
-🎟️ 1369 - Pitzhanger Manor &amp; Gallery&lt;br&gt;
-🎟️ 13673 - West Bermondsey&lt;br&gt;
-🎟️ 13789 - Cool, curated and current: Borough Yards and the future of mixed-use neighbourhoods&lt;br&gt;
-🎟️ 12009 - The Barbican &amp; The City Gardens&lt;br&gt;
-🎟️ 13656 - UAL School of pre-degree studies at 40 Lime Grove&lt;br&gt;
-🎟️ 13718 - String House - Camberwell&lt;br&gt;
-🎟️ 13731 - Hidden City: Lost rivers, super sewers and sacred springs&lt;br&gt;
-🎟️ 9008 - Brockley's Historic Mews&lt;br&gt;</content>
-    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-15_0013.json"/>
-    <published>2026-09-15T01:13:00+01:00</published>
-  </entry>
   <entry>
     <id>2026-09-15_0545.json</id>
     <title>Tickets released for 3 venues on Tue 15 September at 06:45</title>
@@ -468,5 +451,17 @@
 🎟️ 13570 - Mycenae House and Gardens&lt;br&gt;</content>
     <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-18_2259.json"/>
     <published>2026-09-18T23:59:00+01:00</published>
+  </entry>
+  <entry>
+    <id>2026-09-19_0105.json</id>
+    <title>Tickets released for 5 venues on Sat 19 September at 02:05</title>
+    <updated>2026-09-19T02:05:00+01:00</updated>
+    <content>🎟️ 13752 - Gongoozlers of Regent's Canal &amp; Victoria Park&lt;br&gt;
+🎟️ 12206 - Open Textile Studio and Weaving Exhibition&lt;br&gt;
+🎟️ 13748 - The Evolution of Eye Care: Museum Tour&lt;br&gt;
+🎟️ 13138 - Ebbs and flows:  a tour through the evolution of the South Bank&lt;br&gt;
+🎟️ 7544 - Embassy of the Republic of Poland&lt;br&gt;</content>
+    <link href="https://openhouse.infrastructureclub.org/scrape_summaries/2026.html#2026-09-19_0105.json"/>
+    <published>2026-09-19T02:05:00+01:00</published>
   </entry>
 </feed>
